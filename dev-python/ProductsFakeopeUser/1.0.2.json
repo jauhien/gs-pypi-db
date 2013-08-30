@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A product that enables faking another logged-in user.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nidelven-it.no/d", 
+  "info": {
+    "Author:": "Morten W. Petersen", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://www.nidelven-it.no/d", 
+    "Keywords:": "python zope zope2 authentication", 
+    "License:": "GPL", 
+    "Package Index Owner:": "morphex"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A product that enables faking another logged-in user.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "075846b0ec2bb60a31ddc1f59ceacec1", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.FakeZopeUser/Products.FakeZopeUser-1.0.2.tar.gz"
+}

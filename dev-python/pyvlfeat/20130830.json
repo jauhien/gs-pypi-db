@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to the VLFeat computer vision library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/pyvlfeat", 
+  "info": {
+    "Author:": "Andrea Vedaldi, Brian Fulkerson, Mikael Rousson, Peter Le Bek", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Image Recognition"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/pyvlfeat", 
+    "License:": "GPL", 
+    "Maintainer:": "Peter Le Bek", 
+    "Package Index Owner:": "vokoda", 
+    "Platform:": "Unix,Linux"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Python interface to the VLFeat computer vision library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69edf76be8b84b2b92bd75187973b041", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyvlfeat/pyvlfeat-0.1.1a3.tar.gz"
+}

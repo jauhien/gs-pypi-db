@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Coroutine utilities for non-blocking IO with greenlet", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Libor Michalek", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "License:": "bsd", 
+    "Package Index Owner:": "SlideInc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Coroutine utilities for non-blocking IO with greenlet", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bafe45afeee6f7d2428e8372c803e23f", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gogreen/gogreen-1.0.1.tar.gz"
+}

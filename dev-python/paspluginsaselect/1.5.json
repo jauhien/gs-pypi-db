@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PAS Plugin for authentication with A-Select", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zestsoftware/pas.plugins.aselect", 
+  "info": {
+    "Author:": "Zest Software", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zestsoftware/pas.plugins.aselect", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fredvd, maurits"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "PAS Plugin for authentication with A-Select", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b443de7e220cf0a6d1fb8d8918023312", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pas.plugins.aselect/pas.plugins.aselect-1.5.zip"
+}

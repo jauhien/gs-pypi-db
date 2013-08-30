@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An installable theme for Plone 4", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "David Jonas", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "web zope plone theme", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davidjonas"
+  }, 
+  "license": "", 
+  "longdescription": "An installable theme for Plone 4", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aa990011064e838dca0f81bd2a794ba7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonetheme.wmoWonen/plonetheme.wmoWonen-2.7.tar.gz"
+}

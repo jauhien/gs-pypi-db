@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kombu transport using the Django database as a message store.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ask/django-kombu/", 
+  "info": {
+    "Author:": "Ask Solem", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ask/django-kombu/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "mher", 
+    "Package Index Owner:": "ask", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Kombu transport using the Django database as a message store.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8d0b27cf87fedf88e1fd735e13c46dd7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-kombu/django-kombu-0.9.4.tar.gz"
+}

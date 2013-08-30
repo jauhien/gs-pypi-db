@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A REST Client for use in python, using httplib2 and urllib2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/python-rest-client/", 
+  "info": {
+    "Author:": "Benjamin O'Steen", 
+    "Home Page:": "http://code.google.com/p/python-rest-client/", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "kteague"
+  }, 
+  "license": "", 
+  "longdescription": "A REST Client for use in python, using httplib2 and urllib2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef58ada2245fc30086bd8b389232f8ce", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-rest-client/python-rest-client-0.3.tar.gz"
+}

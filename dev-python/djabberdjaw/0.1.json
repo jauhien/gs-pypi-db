@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Jabber bot with a Django-backend for user management", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/anarchivist/djabberdjaw", 
+  "info": {
+    "Author:": "Mark A. Matienzo", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Chat"
+      ]
+    }, 
+    "Home Page:": "http://github.com/anarchivist/djabberdjaw", 
+    "License:": "GPL", 
+    "Package Index Owner:": "anarchivist"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Jabber bot with a Django-backend for user management", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "646e1ffea4d77ccd14ecce1223b71334", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djabberdjaw/djabberdjaw-0.1.tar.gz"
+}

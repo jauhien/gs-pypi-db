@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manages Plone site managers on multiple sites and clusters.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/aw.managersmanager", 
+  "info": {
+    "Author:": "Alter Way Solutions", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//aw.managersmanager", 
+    "Home Page:": "http://pypi.python.org/pypi/aw.managersmanager", 
+    "Keywords:": "plone managers console", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "Manages Plone site managers on multiple sites and clusters.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d00e4e8fcf739a80a7a58e727cbe12d0", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aw.managersmanager/aw.managersmanager-1.0.0a2.tar.gz"
+}

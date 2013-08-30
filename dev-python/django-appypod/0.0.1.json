@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Render OpenDocument files from templates, using Appy POD", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/makinacorpus/django-appypod/", 
+  "info": {
+    "Author:": "Mathieu Leplatre", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/django-appypod/", 
+    "Home Page:": "https://github.com/makinacorpus/django-appypod/", 
+    "License:": "LPGL, see LICENSE file.", 
+    "Package Index Owner:": "leplatrem"
+  }, 
+  "license": "", 
+  "longdescription": "Render OpenDocument files from templates, using Appy POD", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dad9db7798d7158ef7deb9331fcc8770", 
+  "source_uri": "http://pypi.python.org/pypi/django-appypod/"
+}

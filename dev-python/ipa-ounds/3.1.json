@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IPA ounds sound change applier", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zounds.artefact.org.nz/", 
+  "info": {
+    "Author:": "Jamie Norrish", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Home Page:": "http://zounds.artefact.org.nz/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "LjL", 
+    "Platform:": "GNU/Linux,MS Windows,Mac OS X"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "IPA ounds sound change applier", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ab5c9faba5ef24c760d11e3fd01cac5b", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ipa-zounds/ipa-zounds-3.1.tar.gz"
+}

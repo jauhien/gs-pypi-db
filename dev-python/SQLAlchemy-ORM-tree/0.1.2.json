@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An implementation for SQLAlchemy-based applications of the nested-setsmodified-pre-order-tree-traversal technique for storing hierarchical data in a relational database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/monetizeio/sqlalchemy-orm-tree/", 
+  "info": {
+    "Author:": "Mark Friedenbach", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/S/SQLAlchemy-ORM-tree/SQLAlchemy-ORM-tree-0.1.2.tar.gz", 
+    "Home Page:": "http://www.github.com/monetizeio/sqlalchemy-orm-tree/", 
+    "Package Index Owner:": "maaku"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An implementation for SQLAlchemy-based applications of the nested-setsmodified-pre-order-tree-traversal technique for storing hierarchical data in a relational database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1e2e7f5796cd7a665246ba0d3ca2c0bd", 
+  "source_uri": "http://pypi.python.org/packages/source/S/SQLAlchemy-ORM-tree/SQLAlchemy-ORM-tree-0.1.2.tar.gz"
+}

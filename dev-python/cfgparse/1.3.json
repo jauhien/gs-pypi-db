@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Configuration Parser Module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://sourceforge.net/projects/cfgparse/", 
+  "info": {
+    "Author:": "Daniel M. Gass", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Home Page:": "https://sourceforge.net/projects/cfgparse/", 
+    "Keywords:": "configuration file parser", 
+    "License:": "PSF like", 
+    "Package Index Owner:": "dmgass", 
+    "Platform:": "independent"
+  }, 
+  "license": "", 
+  "longdescription": "Configuration Parser Module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8dad6ff2437f500a73e10ce5779aca50", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cfgparse/cfgparse-1.3.zip"
+}

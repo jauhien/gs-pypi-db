@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple interface for sending metrics to Graphite", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/daniellawrence/graphitesend", 
+  "info": {
+    "Author:": "Danny Lawrence", 
+    "Home Page:": "https://github.com/daniellawrence/graphitesend", 
+    "License:": "Apache", 
+    "Package Index Owner:": "dannyla"
+  }, 
+  "license": "", 
+  "longdescription": "A simple interface for sending metrics to Graphite", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b61652af030d06fd08abfa21daf84b3b", 
+  "source_uri": "https://pypi.python.org/packages/source/g/graphitesend/graphitesend-0.0.8.tar.gz"
+}

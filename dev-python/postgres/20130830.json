@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "postgres is a high-value abstraction over psycopg2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://postgres-py.readthedocs.org", 
+  "info": {
+    "Author:": "Gittip, LLC", 
+    "Home Page:": "https://postgres-py.readthedocs.org", 
+    "Package Index Owner:": "whit537"
+  }, 
+  "license": "", 
+  "longdescription": "postgres is a high-value abstraction over psycopg2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9b6b99e1f08507427a2e4af0c205a0e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/postgres/postgres-2.0.0rc1.tar.gz"
+}

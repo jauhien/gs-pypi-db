@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of tools for virtualenv", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fireteam/virtualenv-tools", 
+  "info": {
+    "Author:": "Fireteam Ltd.", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fireteam/virtualenv-tools", 
+    "Package Index Owner:": "mitsuhiko"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A set of tools for virtualenv", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98109ebb492e7f56b9f77d9b5bb3fc86", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtualenv-tools/virtualenv-tools-1.0.tar.gz"
+}

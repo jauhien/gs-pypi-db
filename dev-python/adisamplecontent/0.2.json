@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Deletes Plones default content and adds some sample content", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Ida Ebkes", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ida"
+  }, 
+  "license": "", 
+  "longdescription": "Deletes Plones default content and adds some sample content", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "83c68303cc86bf1be75664a9425d153e", 
+  "source_uri": "https://pypi.python.org/packages/source/a/adi.samplecontent/adi.samplecontent-0.2.tar.gz"
+}

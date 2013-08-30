@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A URL dispatch to object system that combines aspects of routing and traversal.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martijn Faassen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Keywords:": "route routing url traverse traversing web", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "faassen"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A URL dispatch to object system that combines aspects of routing and traversal.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2fcd088044caa8e9f6397b28abbd3d19", 
+  "source_uri": "https://pypi.python.org/packages/source/t/traject/traject-0.10.1.tar.gz"
+}

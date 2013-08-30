@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "access many url shortening services from one library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gitorious.org/shorty", 
+  "info": {
+    "Author:": "Joshua Roesslein", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Home Page:": "http://gitorious.org/shorty", 
+    "Keywords:": "url short shortening", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jroesslein"
+  }, 
+  "license": "", 
+  "longdescription": "access many url shortening services from one library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc301f47c2ff0ea1403df9d909df9820", 
+  "source_uri": "https://pypi.python.org/packages/source/s/shorty/shorty-1.1.tar.gz"
+}

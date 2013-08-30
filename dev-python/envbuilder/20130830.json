@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package for automatic generation of virtualenvs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jasonbaker/envbuilder", 
+  "info": {
+    "Author:": "Jason Baker", 
+    "Home Page:": "http://github.com/jasonbaker/envbuilder", 
+    "Package Index Owner:": "amnorvend"
+  }, 
+  "license": "", 
+  "longdescription": "A package for automatic generation of virtualenvs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c33d0289369476daa182c4e87abc5bb", 
+  "source_uri": "https://pypi.python.org/packages/source/e/envbuilder/envbuilder-0.4.0.b-1.tar.gz"
+}

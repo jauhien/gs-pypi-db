@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Base support for plone featurelets (i.e. feature plugins)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.socialplanning.org/svn/topp.featurelets/", 
+  "info": {
+    "Author:": "Rob Miller", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "https://svn.socialplanning.org/svn/topp.featurelets/", 
+    "Keywords:": "featurelets openplans plone topp coactivate opencore", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "rmarianski, slinkp, ejucovy", 
+    "Package Index Owner:": "rmarianski, whitmo, slinkp, ejucovy"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Base support for plone featurelets (i.e. feature plugins)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ec2c494158fb19d2262ba12834bf117", 
+  "source_uri": "https://pypi.python.org/packages/source/t/topp.featurelets/topp.featurelets-0.3.0.tar.gz"
+}

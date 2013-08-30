@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple Nagios alternative made to look like unit tests.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rcrowley/pagerunit", 
+  "info": {
+    "Author:": "Richard Crowley", 
+    "Home Page:": "https://github.com/rcrowley/pagerunit", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rcrowley"
+  }, 
+  "license": "", 
+  "longdescription": "A simple Nagios alternative made to look like unit tests.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c000793a405ab9d37ff3add7fb16d8d7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pagerunit/pagerunit-0.0.3.tar.gz"
+}

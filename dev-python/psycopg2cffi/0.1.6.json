@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An implementation of the psycopg2 module using cffi.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/chtd/psycopg2cffi", 
+  "info": {
+    "Author:": "Konstantin Lopuhin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "SQL"
+      ], 
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://github.com/chtd/psycopg2cffi", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "chtd", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "An implementation of the psycopg2 module using cffi.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac4cbedf8c93000c02f23f9032c8bd7b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/psycopg2cffi/psycopg2cffi-0.1.6.tar.gz"
+}

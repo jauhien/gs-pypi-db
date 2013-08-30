@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "task management software used on coactivate.org", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.coactivate.org/projects/tasktracker", 
+  "info": {
+    "Author:": "UNKNOWN", 
+    "Home Page:": "http://www.coactivate.org/projects/tasktracker", 
+    "Package Index Owner:": "ejucovy, novalis"
+  }, 
+  "license": "", 
+  "longdescription": "task management software used on coactivate.org", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "554c1a3d862af18b06ffcf180d80a536", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TaskTracker/TaskTracker-0.4.tar.gz"
+}

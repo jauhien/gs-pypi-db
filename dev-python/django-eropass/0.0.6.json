@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An app to allow password free logins", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://django-zeropass.obscuremetaphor.co.uk", 
+  "info": {
+    "Author:": "Jamie Curle", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ]
+    }, 
+    "Home Page:": "https://django-zeropass.obscuremetaphor.co.uk", 
+    "License:": "BSD 3 Clause", 
+    "Package Index Owner:": "jamiecurle"
+  }, 
+  "license": "", 
+  "longdescription": "An app to allow password free logins", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ade7fd3aa484f15e5c69d9d40452e20", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-zeropass/django-zeropass-0.0.6.tar.gz"
+}

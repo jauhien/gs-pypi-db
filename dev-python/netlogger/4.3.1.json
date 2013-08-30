@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "NetLogger Toolkit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://acs.lbl.gov/NetLoggerWiki/", 
+  "info": {
+    "Author:": "Dan Gunter", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://acs.lbl.gov/NetLoggerWiki/", 
+    "Keywords:": "NetLogger log logging", 
+    "License:": "LBNL. See http://acs.lbl.gov/NetLoggerWiki/index.php/NetLogger_License", 
+    "Package Index Owner:": "dang"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "NetLogger Toolkit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5fdf9df16b424c64cb4354ab64ec3bae", 
+  "source_uri": "https://pypi.python.org/packages/source/n/netlogger/netlogger-4.3.1.tar.gz"
+}

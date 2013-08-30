@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Nose plugin to use iPdb instead of Pdb when tests fail", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/flavioamieiro/nose-ipdb/tree/master", 
+  "info": {
+    "Author:": "Flavio Amieiro", 
+    "Home Page:": "http://github.com/flavioamieiro/nose-ipdb/tree/master", 
+    "Keywords:": "test unittest nose nosetests plugin debug ipdb ipython", 
+    "License:": "GNU LGPL", 
+    "Package Index Owner:": "flavioamieiro"
+  }, 
+  "license": "", 
+  "longdescription": "Nose plugin to use iPdb instead of Pdb when tests fail", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9a41512e5d901ea0fa199c3f648bba7", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ipdbplugin/ipdbplugin-1.4.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django application for Swedbank payment gateway", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/truevision/django_banklink", 
+  "info": {
+    "Author:": "Kristaps Kulis", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Office/Business", 
+        "Financial"
+      ]
+    }, 
+    "Home Page:": "http://www.github.com/truevision/django_banklink", 
+    "Package Index Owner:": "kristaps.kulis"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django application for Swedbank payment gateway", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41a629e11585e82461fb555e95ce47d0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-banklink/django-banklink-0.14.tar.gz"
+}

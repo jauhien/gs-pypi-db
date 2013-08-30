@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy way to use existing JSON, XML or YAML config files from bash shellscripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://m.ignev.net/code/configo", 
+  "info": {
+    "Author:": "Marian Ignev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://m.ignev.net/code/configo", 
+    "Package Index Owner:": "mignev"
+  }, 
+  "license": "", 
+  "longdescription": "Easy way to use existing JSON, XML or YAML config files from bash shellscripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e3dd5f1dbe79455d759db9ea6f2a3bbf", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Configo/Configo-1.2.tar.gz"
+}

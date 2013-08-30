@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kronos is a Django application that makes it easy to define and schedule tasks with cron.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jgorset/kronos", 
+  "info": {
+    "Author:": "Johannes Gorset", 
+    "Home Page:": "http://github.com/jgorset/kronos", 
+    "Package Index Owner:": "JGorset"
+  }, 
+  "license": "", 
+  "longdescription": "Kronos is a Django application that makes it easy to define and schedule tasks with cron.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3bc88f5c997916cfe3d778ce748f410a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-kronos/django-kronos-0.3.tar.gz"
+}

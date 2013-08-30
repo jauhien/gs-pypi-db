@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module for GPIO access (arduino like) on a Raspberry Pi", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.google.com/p/raspio/", 
+  "info": {
+    "Author:": "Yeison Nolberto Cardona Alvarez", 
+    "Home Page:": "https://code.google.com/p/raspio/", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "Yeison.Eng"
+  }, 
+  "license": "", 
+  "longdescription": "Python module for GPIO access (arduino like) on a Raspberry Pi", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0e4e6f3609242ac48798eeda1c305e7f", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raspio/raspio-0.3.tar.gz"
+}

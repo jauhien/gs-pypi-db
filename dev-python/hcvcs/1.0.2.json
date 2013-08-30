@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "VERITAS Cluster Server Health Check", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jonEbird/hc-vcs", 
+  "info": {
+    "Author:": "Jon Miller", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Clustering"
+      ]
+    }, 
+    "Download URL:": "http://jonebird.com/downloads/hcvcs-1.0.2.tar.gz", 
+    "Home Page:": "https://github.com/jonEbird/hc-vcs", 
+    "Keywords:": "veritas,VCS,cluster", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "jonEbird", 
+    "Platform:": "Posix; MacOS X"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "VERITAS Cluster Server Health Check", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6fd970c6686d30eddb84a78c2d030fd4", 
+  "source_uri": "http://jonebird.com/downloads/hcvcs-1.0.2.tar.gz"
+}

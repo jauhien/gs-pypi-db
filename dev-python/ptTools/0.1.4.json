@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DSL for pattern matching on .py parse trees.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ptTools", 
+  "info": {
+    "Author:": "Markus Rother", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/ptTools", 
+    "License:": "GNU-GPL", 
+    "Package Index Owner:": "941design", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "DSL for pattern matching on .py parse trees.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31fa14f124263f602a923df6d2a31b17", 
+  "source_uri": "https://pypi.python.org/packages/source/p/ptTools/ptTools-0.1.4.tar.gz"
+}

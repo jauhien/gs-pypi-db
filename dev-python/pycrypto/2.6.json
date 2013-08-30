@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cryptographic modules for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pycrypto.org/", 
+  "info": {
+    "Author:": "Dwayne C. Litzenberger", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pycrypto", 
+    "Home Page:": "http://www.pycrypto.org/", 
+    "Package Index Owner:": "amk, dlitz"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Cryptographic modules for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88dad0a270d1fe83a39e0467a66a22bb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycrypto/pycrypto-2.6.tar.gz"
+}

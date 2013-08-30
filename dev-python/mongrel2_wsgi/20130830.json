@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mongrel2 handler to WSGI.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dholth/mongrel2_wsgi", 
+  "info": {
+    "Author:": "Daniel Holth", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Server"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dholth/mongrel2_wsgi", 
+    "Keywords:": "wsgi mongrel2 eventlet", 
+    "License:": "BSD", 
+    "Package Index Owner:": "joeforker"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Mongrel2 handler to WSGI.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "109ee1448b2a1ec58db335e336ac3f11", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mongrel2_wsgi/mongrel2_wsgi-0.3dev.tar.gz"
+}

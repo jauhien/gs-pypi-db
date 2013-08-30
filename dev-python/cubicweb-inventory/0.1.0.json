@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hardware inventory application based on the CubicWeb framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-inventory", 
+  "info": {
+    "Author:": "LOGILAB S.A. (Paris, FRANCE)", 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-inventory", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "Hardware inventory application based on the CubicWeb framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c586ec581a40272a437b0d60f2083fb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-inventory/cubicweb-inventory-0.1.0.tar.gz"
+}

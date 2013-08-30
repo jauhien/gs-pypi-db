@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Sentry extension which integrates with Trac", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Josh Harwood", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "Josh.Harwood"
+  }, 
+  "license": "", 
+  "longdescription": "A Sentry extension which integrates with Trac", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f064665775a4a3b15c7b347738a6eba", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-tracpost/sentry-tracpost-0.3.0.tar.gz"
+}

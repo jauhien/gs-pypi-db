@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "convert a python source code into json-dumpable data (dict and lists with strings, ints, ...)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Psycojoker/ast2json", 
+  "info": {
+    "Author:": "Laurent Peuch", 
+    "Home Page:": "https://github.com/Psycojoker/ast2json", 
+    "Keywords:": "ast", 
+    "License:": "BSD", 
+    "Package Index Owner:": "psycojoker"
+  }, 
+  "license": "", 
+  "longdescription": "convert a python source code into json-dumpable data (dict and lists with strings, ints, ...)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ebbe2476e3ab5d5c93fede6efa7cad2", 
+  "source_uri": "https://pypi.python.org/packages/source/a/ast2json/ast2json-0.1.tar.gz"
+}

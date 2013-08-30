@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A client for Synapse, a collaborative compute space  that allows scientists to share and analye data together.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://synapse.sagebase.org/", 
+  "info": {
+    "Author:": "Synapse Team", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "https://github.com/Sage-Bionetworks/synapsePythonClient", 
+    "Home Page:": "http://synapse.sagebase.org/", 
+    "License:": "Apache", 
+    "Package Index Owner:": "python_synapse_client", 
+    "Platform:": "any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A client for Synapse, a collaborative compute space  that allows scientists to share and analye data together.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "caf55779538f1511925d84dbd92a5422", 
+  "source_uri": "https://github.com/Sage-Bionetworks/synapsePythonClient"
+}

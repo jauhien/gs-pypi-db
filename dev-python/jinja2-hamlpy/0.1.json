@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HamlPy extension for Jinja2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/grigi/jinja2-hamlpy", 
+  "info": {
+    "Author:": "Nickolas Grigoriadis", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Home Page:": "http://github.com/grigi/jinja2-hamlpy", 
+    "Keywords:": "jinja jinja2 templates haml hamlpy", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Nickolas.Grigoriadis", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "HamlPy extension for Jinja2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e366abef0acdc6f1b716061d39e26f8c", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jinja2-hamlpy/jinja2-hamlpy-0.1.tar.gz"
+}

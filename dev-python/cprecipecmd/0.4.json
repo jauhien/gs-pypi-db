@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe to execute commands in its own shell", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/csawyer/cp.recipe.cmd/overview", 
+  "info": {
+    "Author:": "YUHSD #70", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/csawyer/cp.recipe.cmd/overview", 
+    "Keywords:": "buildout,zc.buildout,recipe", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "sureshvv", 
+    "Package Index Owner:": "csawyer, sureshvv"
+  }, 
+  "license": "", 
+  "longdescription": "C Buildout recipe to execute commands in its own shell", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "22f3fe36d6f6b2055158afaa7d3f78cd", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cp.recipe.cmd/cp.recipe.cmd-0.4.tar.gz"
+}

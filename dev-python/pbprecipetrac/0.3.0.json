@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Expert Python Programming - C Buildout recipe that installs and configures a Trac server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/pbp.recipe.trac", 
+  "info": {
+    "Author:": "Tarek Ziade", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/pbp.recipe.trac", 
+    "Keywords:": "trac pbp buildout recipe", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "kdeldycke", 
+    "Package Index Owner:": "tarek, kdeldycke"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Expert Python Programming - C Buildout recipe that installs and configures a Trac server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ebef9f838cb994b7d753a5ecbc52aa4c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pbp.recipe.trac/pbp.recipe.trac-0.3.0.tar.gz"
+}

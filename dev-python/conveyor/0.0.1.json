@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple continuous deployment framework built on top of Apache ookeeper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mconigliaro/conveyor", 
+  "info": {
+    "Author:": "Michael T. Conigliaro", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mconigliaro/conveyor", 
+    "Keywords:": "continuous deployment", 
+    "Package Index Owner:": "mconigliaro"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A simple continuous deployment framework built on top of Apache ookeeper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "35ed9bc19bac87ed51b1ad4a71f02518", 
+  "source_uri": "https://pypi.python.org/packages/source/c/conveyor/conveyor-0.0.1.tar.gz"
+}

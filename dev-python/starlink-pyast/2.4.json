@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python wrapper for the Starlink AST library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://starlink.jach.hawaii.edu/starlink/AST", 
+  "info": {
+    "Author:": "David Berry", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Home Page:": "http://starlink.jach.hawaii.edu/starlink/AST", 
+    "Package Index Owner:": "dsberry"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "A Python wrapper for the Starlink AST library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f7c79fb035e5a6021b11d9fdf6f3180", 
+  "source_uri": "https://pypi.python.org/packages/source/s/starlink-pyast/starlink-pyast-2.4.tar.gz"
+}

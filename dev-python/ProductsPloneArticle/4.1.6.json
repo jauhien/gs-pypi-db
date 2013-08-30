@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone document including images, attachments and links, with a free choice of layout.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/plonearticle", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/plonearticle", 
+    "Keywords:": "plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb, vincentfretin"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone document including images, attachments and links, with a free choice of layout.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a332a33509abce1fdb39dcd0b18cf84c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneArticle/Products.PloneArticle-4.1.6.tar.gz"
+}

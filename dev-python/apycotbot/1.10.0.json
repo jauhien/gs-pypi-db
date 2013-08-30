@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Apycot bot client dedicated to launch test suites", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.logilab.org/project/apycot", 
+  "info": {
+    "Author:": "Logilab", 
+    "Home Page:": "http://www.logilab.org/project/apycot", 
+    "License:": "GPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "Apycot bot client dedicated to launch test suites", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c21c4542434af929a67e3becefae560e", 
+  "source_uri": "https://pypi.python.org/packages/source/a/apycotbot/apycotbot-1.10.0.tar.gz"
+}

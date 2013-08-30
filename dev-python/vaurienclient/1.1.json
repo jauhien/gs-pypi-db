@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client for the TCP Chaos Proxy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Mozilla Foundation & contributors", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Package Index Owner:": "tarek, alexis.metaireau"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Client for the TCP Chaos Proxy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "daed8aeb1335f66cdb70def8e6f03bb6", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vaurienclient/vaurienclient-1.1.tar.gz"
+}

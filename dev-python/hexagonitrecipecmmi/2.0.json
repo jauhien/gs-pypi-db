@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for compiling and installing source distributions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/hexagonit/hexagonit.recipe.cmmi", 
+  "info": {
+    "Author:": "Kai Lautaportti", 
+    "Categories": {
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/hexagonit/hexagonit.recipe.cmmi", 
+    "Keywords:": "development buildout recipe", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dokai"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "c.buildout recipe for compiling and installing source distributions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df2289c758c2052326a7d133bfc57989", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hexagonit.recipe.cmmi/hexagonit.recipe.cmmi-2.0.tar.gz"
+}

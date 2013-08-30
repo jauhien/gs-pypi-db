@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast, pure-Python full text indexing, search, and spell checking library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/mchaput/whoosh", 
+  "info": {
+    "Author:": "Matt Chaput", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Indexing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Whoosh", 
+    "Home Page:": "http://bitbucket.org/mchaput/whoosh", 
+    "Keywords:": "index search text spell", 
+    "License:": "Two-clause BSD license", 
+    "Package Index Owner:": "mchaput"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Fast, pure-Python full text indexing, search, and spell checking library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f61ca948fc5cd037b50191614d7f9197", 
+  "source_uri": "https://pypi.python.org/packages/source/W/Whoosh/Whoosh-2.5.2.tar.gz"
+}

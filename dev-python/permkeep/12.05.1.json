@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy way to keep group permissions in sync between Development and Production environments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pizzapanther/Django-Permissions-Keeper", 
+  "info": {
+    "Author:": "Paul Bailey", 
+    "Home Page:": "https://github.com/pizzapanther/Django-Permissions-Keeper", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pizzapanther"
+  }, 
+  "license": "", 
+  "longdescription": "Easy way to keep group permissions in sync between Development and Production environments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d80585e812e2da9fc4ab107f11291f67", 
+  "source_uri": "https://pypi.python.org/packages/source/p/permkeep/permkeep-12.05.1.tar.gz"
+}

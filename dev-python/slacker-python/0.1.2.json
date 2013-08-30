@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "python client of slacker RPC", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sunng87/slacker-python", 
+  "info": {
+    "Author:": "Sun Ning", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/sunng87/slacker-python", 
+    "License:": "mit", 
+    "Package Index Owner:": "sunng"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "python client of slacker RPC", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "827c8aca3ff14e0286a19d4273943f8c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slacker-python/slacker-python-0.1.2.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A paste.script template following gocept Python package conventions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/gocept/gocept.package/", 
+  "info": {
+    "Author:": "Thomas Lotze <tl at gocept dot com> and Wolfgang Schnerring <ws at gocept dot com>", 
+    "Categories": {
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/gocept/gocept.package/", 
+    "Keywords:": "paste.script paster create template python package sphinx theme", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ckauhaus, ctheune, DanielHavlikGocept, sweh, icemac, zagy, tlotze, wosc"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A paste.script template following gocept Python package conventions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "43aa67d57247bf7e4b481cf025800ea7", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.package/gocept.package-1.2.tar.gz"
+}

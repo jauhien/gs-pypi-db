@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for interacting with Vagrant virtual machines.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/todddeluca/python-vagrant", 
+  "info": {
+    "Author:": "Todd Francis DeLuca", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/todddeluca/python-vagrant", 
+    "Keywords:": "python virtual machine box vagrant virtualbox vagrantfile", 
+    "License:": "MIT", 
+    "Package Index Owner:": "todddeluca"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python bindings for interacting with Vagrant virtual machines.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "042de715d333600b349bc75872c980a6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-vagrant/python-vagrant-0.4.0.tar.gz"
+}

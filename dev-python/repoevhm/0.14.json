@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "repoe virtual hosting middleware.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "web application server wsgi zope repoze", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism, optilude, vangheem, kiorky, tseaver"
+  }, 
+  "license": "", 
+  "longdescription": "repoe virtual hosting middleware.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "363beb4d81fe7cc0c8c42b8864f110bd", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.vhm/repoze.vhm-0.14.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mirror a pypi-style egg repository from a debian APT repository", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/van.reposync", 
+  "info": {
+    "Author:": "Vanguardistas", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Packaging"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/van.reposync", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "jinty"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Mirror a pypi-style egg repository from a debian APT repository", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c021e8e2e83383b2174c69357c242683", 
+  "source_uri": "https://pypi.python.org/packages/source/v/van.reposync/van.reposync-1.0.1.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Genshi integration for fresco", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Oliver Cope", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "olly"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Genshi integration for fresco", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "57fa86267307a1ce614652a37c91db11", 
+  "source_uri": "https://pypi.python.org/packages/source/f/frescoext-genshi/frescoext-genshi-0.2.tar.gz"
+}

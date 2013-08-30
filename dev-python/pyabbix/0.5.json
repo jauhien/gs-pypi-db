@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "abbix API Python interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lukecyca/pyzabbix", 
+  "info": {
+    "Author:": "Luke Cyca", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lukecyca/pyzabbix", 
+    "Keywords:": "zabbix monitoring api", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "lukecyca"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "abbix API Python interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bdcfd263d2e30b64b55e049765b39c2b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyzabbix/pyzabbix-0.5.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLite Foreign Key Trigger Generator for SQLAlchemy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/sqlitefktg4sa/", 
+  "info": {
+    "Author:": "Randy Syring", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/sqlitefktg4sa/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rsyring"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "SQLite Foreign Key Trigger Generator for SQLAlchemy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7d1312921e2a16cd5bf25b117a41cc8", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SQLiteFKTG4SA/SQLiteFKTG4SA-0.1.1.zip"
+}

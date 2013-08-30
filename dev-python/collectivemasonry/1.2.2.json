@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integrate Masonry to Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.masonry", 
+  "info": {
+    "Author:": "JeanMichel FRANCOIS", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.masonry", 
+    "Keywords:": "plone masonry", 
+    "License:": "GPL", 
+    "Package Index Owner:": "toutpt"
+  }, 
+  "license": "", 
+  "longdescription": "Integrate Masonry to Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "52d07afc8ce06aa3facd979e69ddc926", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.masonry/collective.masonry-1.2.2.zip"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds a field iHas workingcopy to archetypes and makes it available to collections for sorting.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/adi.workingcopyflag", 
+  "info": {
+    "Author:": "Ida Ebkes", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/adi.workingcopyflag", 
+    "Keywords:": "plone zope flag important iterate workingcopy index catalog collections topics", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ida"
+  }, 
+  "license": "", 
+  "longdescription": "Adds a field iHas workingcopy to archetypes and makes it available to collections for sorting.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4d4c99bee0a1bfc9c70818141a65b6d3", 
+  "source_uri": "https://pypi.python.org/packages/source/a/adi.workingcopyflag/adi.workingcopyflag-1.4.tar.gz"
+}

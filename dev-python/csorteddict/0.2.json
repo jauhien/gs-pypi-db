@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Key-sorted (balanced tree) dictionary store implemented in C", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/jasonscheirer/sorteddict/", 
+  "info": {
+    "Author:": "Jason Scheirer", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/jasonscheirer/sorteddict/get/0.2.zip", 
+    "Home Page:": "http://bitbucket.org/jasonscheirer/sorteddict/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jasonscheirer"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Key-sorted (balanced tree) dictionary store implemented in C", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7ecc05507e582fa808991171e18a16a4", 
+  "source_uri": "http://bitbucket.org/jasonscheirer/sorteddict/get/0.2.zip"
+}

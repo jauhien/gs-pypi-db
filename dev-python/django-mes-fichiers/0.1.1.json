@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manager for files and albums with tinymce integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pavelulyashev/django-mes-fichiers", 
+  "info": {
+    "Author:": "Pavel Ulyashev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/pavelulyashev/django-mes-fichiers", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pulyashev", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Manager for files and albums with tinymce integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a91dc77e97b3f019898246bdd2862bd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mes-fichiers/django-mes-fichiers-0.1.1.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "API to the RedFlash notification management system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aquamatt/rfclient", 
+  "info": {
+    "Author:": "ReThought Ltd", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/aquamatt/rfclient", 
+    "Keywords:": "api", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Matthew.Pontefract"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "API to the RedFlash notification management system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f355e0403dbab4abfbaf2c0da86daa40", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rfclient/rfclient-0.2.3.tar.gz"
+}

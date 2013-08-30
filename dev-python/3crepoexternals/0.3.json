@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate externals from a repository", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/z3c.repoexternals", 
+  "info": {
+    "Author:": "Ross Patterson", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/z3c.repoexternals", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rpatterson"
+  }, 
+  "license": "", 
+  "longdescription": "Generate externals from a repository", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d201abf4f73897a3d1d9eaacdd0b710", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.repoexternals/z3c.repoexternals-0.3.tar.gz"
+}

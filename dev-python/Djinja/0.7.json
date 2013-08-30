@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package that makes possible the integration of Jinja2 in Django, in a clean way.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/syrusakbary/djinja", 
+  "info": {
+    "Author:": "Syrus Akbary Nieto", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/syrusakbary/djinja", 
+    "License:": "BSD", 
+    "Package Index Owner:": "syrusakbary"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A package that makes possible the integration of Jinja2 in Django, in a clean way.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f92a755157010b5862ba523f772cf888", 
+  "source_uri": "https://pypi.python.org/packages/source/D/Djinja/Djinja-0.7.tar.gz"
+}

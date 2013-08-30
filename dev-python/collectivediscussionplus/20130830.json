@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Augments the standard Plone discussion tool to add basic approvals workflow, and ibetter indexing of comment metadata (number of comments, who has commented)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.discussionplus", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.discussionplus", 
+    "Keywords:": "plone discussion commenting", 
+    "License:": "GPL", 
+    "Package Index Owner:": "optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Augments the standard Plone discussion tool to add basic approvals workflow, and ibetter indexing of comment metadata (number of comments, who has commented)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "70ff733552dae3fb30055d94497a3bb8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.discussionplus/collective.discussionplus-1.0b2.tar.gz"
+}

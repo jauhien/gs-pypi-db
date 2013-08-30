@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Package for estimation and evaluation of neural models from patch clamp neural recordings.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonhosted.org/fit_neuron", 
+  "info": {
+    "Author:": "Nicolas D. Jimenez", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "Freely Distributable"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//fit_neuron", 
+    "Home Page:": "http://pythonhosted.org/fit_neuron", 
+    "Keywords:": "neuron, linear integrate and fire, patch clamp, fitting, parameter estimation, spike distance metrics", 
+    "License:": "Apache", 
+    "Package Index Owner:": "nicodjimenez"
+  }, 
+  "license": "Freely Distributable", 
+  "longdescription": "Package for estimation and evaluation of neural models from patch clamp neural recordings.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "658c26796458231fd474c8bddacb1f76", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fit_neuron/fit_neuron-0.0.3.tar.gz"
+}

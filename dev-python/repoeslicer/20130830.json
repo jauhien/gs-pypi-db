@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI middleware to filter HTML responses", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Wichert Akkerman", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "wsgi html transformation", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wichert, chrism"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI middleware to filter HTML responses", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "13399e2b10c63d8a8854920a31156a19", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.slicer/repoze.slicer-1.0a2.tar.gz"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Riak resolution proxy client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bumptech/montage-python-client", 
+  "info": {
+    "Author:": "Bump Technologies", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "http://static.bumpserver.com/oss/montage/montageclient-0.1.0.tar.gz", 
+    "Home Page:": "https://github.com/bumptech/montage-python-client", 
+    "Keywords:": "montage, database, riak, resolution, network", 
+    "Package Index Owner:": "bumptech"
+  }, 
+  "license": "", 
+  "longdescription": "A Riak resolution proxy client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9525b90f0a42cd95067b6b622bd6bf8e", 
+  "source_uri": "http://static.bumpserver.com/oss/montage/montageclient-0.1.0.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django error page templates (404.html and 500.html).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/espenak/django_errortemplates", 
+  "info": {
+    "Author:": "Espen Angell Kristiansen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/espenak/django_errortemplates", 
+    "License:": "BSD", 
+    "Package Index Owner:": "espeak"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Django error page templates (404.html and 500.html).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b89d256ac1e03d657a83f769e156b5c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_errortemplates/django_errortemplates-1.0.1.tar.gz"
+}

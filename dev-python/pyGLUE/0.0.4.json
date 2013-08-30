@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python framework to conduct GLUE analyses", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/pyGLUE", 
+  "info": {
+    "Author:": "Joost Delsman", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/pyGLUE", 
+    "Keywords:": "GLUE hydrology uncertainty model modeling modelling", 
+    "License:": "BSD", 
+    "Package Index Owner:": "justem"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Python framework to conduct GLUE analyses", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "17b37fb7542b93fcfb5bc8a20546af6b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyGLUE/pyGLUE-0.0.4.zip"
+}

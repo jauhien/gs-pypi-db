@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C++ man pages generater that generates C++ man pagesfrom cplusplus.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Aitjcize/cppman", 
+  "info": {
+    "Author:": "Wei-Ning Huang (AZ)", 
+    "Home Page:": "http://github.com/Aitjcize/cppman", 
+    "License:": "GPL", 
+    "Package Index Owner:": "aitjcize"
+  }, 
+  "license": "", 
+  "longdescription": "C++ man pages generater that generates C++ man pagesfrom cplusplus.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41373de40a9747056689bdf9150a4543", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cppman/cppman-0.2.5.tar.gz"
+}

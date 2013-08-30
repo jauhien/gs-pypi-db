@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sometimes when you use the Queue class in Python, you need to get an item from any of several queues. This small module implements an easy solution for this problem.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/leio10/python-multiqueue", 
+  "info": {
+    "Author:": "leio10", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/leio10/python-multiqueue", 
+    "License:": "BSD", 
+    "Package Index Owner:": "leio10"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Sometimes when you use the Queue class in Python, you need to get an item from any of several queues. This small module implements an easy solution for this problem.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e546b8a0c0ad006f95c38d0f66e45e4d", 
+  "source_uri": "https://pypi.python.org/packages/source/m/multiqueue/multiqueue-0.1.6.tar.gz"
+}

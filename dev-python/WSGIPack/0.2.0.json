@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Serve PipeStack applications using a WSGI server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jimmyg.org/work/code/wsgipack/index.html", 
+  "info": {
+    "Author:": "James Gardner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://jimmyg.org/work/code/wsgipack/index.html", 
+    "License:": "GNU AGPLv3", 
+    "Package Index Owner:": "thejimmyg"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Serve PipeStack applications using a WSGI server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a3acce3d36345a9387e848fa7c1f58bc", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WSGIPack/WSGIPack-0.2.0.tar.gz"
+}

@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The ope ClockServer product provides a mechanism for users to call ope object methods without the use of an external clock source (e.g. cronwget).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://labs.menttes.com/zope/products/clockserver", 
+  "info": {
+    "Author:": "Chris McDonough", 
+    "Home Page:": "http://labs.menttes.com/zope/products/clockserver", 
+    "Keywords:": "Zope 2.9", 
+    "License:": "ZPL 2.1", 
+    "Maintainer:": "Roberto Allende", 
+    "Package Index Owner:": "r0ver"
+  }, 
+  "license": "", 
+  "longdescription": "The ope ClockServer product provides a mechanism for users to call ope object methods without the use of an external clock source (e.g. cronwget).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8b62125ee3ccdda9e8ed6e40b3aaf15", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ClockServer/Products.ClockServer-0.2-Zope2.9dev.tar.gz"
+}

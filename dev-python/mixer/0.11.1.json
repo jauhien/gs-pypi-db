@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mixer -- Is a fixtures replacement. Supported Django ORM, SqlAlchemy ORM, Mongoengine ODM and custom python objects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/klen/mixer", 
+  "info": {
+    "Author:": "Kirill Klenov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//mixer", 
+    "Home Page:": "http://github.com/klen/mixer", 
+    "Keywords:": "django,flask,sqlalchemy,testing,mock,stub,mongoengine,data", 
+    "License:": "BSD", 
+    "Package Index Owner:": "klen", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Mixer -- Is a fixtures replacement. Supported Django ORM, SqlAlchemy ORM, Mongoengine ODM and custom python objects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7732d182968ce9615b2f6449a9c418fe", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mixer/mixer-0.11.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows you to import rssatom feeds into tiddlers on your TiddlyWeb through a twanager command imrss. Also provides imrsswithtags which provides a mechanism to tag non-tagged rss feeds.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.imrss", 
+  "info": {
+    "Author:": "Jon Robson", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.imrss", 
+    "Package Index Owner:": "jonrobson.myopenid.com", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Allows you to import rssatom feeds into tiddlers on your TiddlyWeb through a twanager command imrss. Also provides imrsswithtags which provides a mechanism to tag non-tagged rss feeds.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "85adce8e2570d0b154dca150168f5539", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.imrss/tiddlywebplugins.imrss-0.9.3.tar.gz"
+}

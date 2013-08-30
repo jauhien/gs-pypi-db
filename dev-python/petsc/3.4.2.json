@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PETSc Portable, Extensible Toolkit for Scientific Computation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.mcs.anl.gov/petsc/", 
+  "info": {
+    "Author:": "Lisandro Dalcin", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/petsc-lite-3.4.2.tar.gz#egg=petsc-3.4.2", 
+    "Home Page:": "http://www.mcs.anl.gov/petsc/", 
+    "Keywords:": "PETSc,MPI", 
+    "License:": "PETSc", 
+    "Package Index Maintainer:": "dalcinl", 
+    "Package Index Owner:": "dalcinl", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "PETSc Portable, Extensible Toolkit for Scientific Computation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://ftp.mcs.anl.gov/pub/petsc/release-snapshots/petsc-lite-3.4.2.tar.gz#egg=petsc-3.4.2"
+}

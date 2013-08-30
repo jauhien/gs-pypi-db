@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fabix is a serie of functions built on top of fabric and cuisine to easily deploy python web projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/quatix/fabix", 
+  "info": {
+    "Author:": "Rodrigo Machado", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://github.com/quatix/fabix", 
+    "Keywords:": "fabric,cuisine,fabix", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rcmachado"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Fabix is a serie of functions built on top of fabric and cuisine to easily deploy python web projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0483be7ddc08f81e2a10882186afa78", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fabix/fabix-0.0.3.tar.gz"
+}

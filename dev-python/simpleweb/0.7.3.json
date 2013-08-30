@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple python wsgi compliant web framework, inspired by Django, Turbo Gears and Web.py", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://simpleweb.essienitaessien.com", 
+  "info": {
+    "Author:": "Essien Ita Essien", 
+    "Home Page:": "http://simpleweb.essienitaessien.com", 
+    "Keywords:": "web framework simple cheetah sqlobject", 
+    "License:": "BSD", 
+    "Package Index Owner:": "essiene"
+  }, 
+  "license": "", 
+  "longdescription": "A simple python wsgi compliant web framework, inspired by Django, Turbo Gears and Web.py", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "39b36375401052c9fd649a34252b3fea", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simpleweb/simpleweb-0.7.3.tar.gz"
+}

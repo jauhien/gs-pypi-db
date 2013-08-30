@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Page template resource plugin for ope.browserresource", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zope.ptresource/", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zope.ptresource/", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m, srichter, nadako, gary, tlotze, agroszer, faassen, hannosch, baijum, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Page template resource plugin for ope.browserresource", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "538b76f50561bde3662ecf9899cec70e", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zope.ptresource/zope.ptresource-4.0.0a1.zip"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for calling URLs for debugging", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/django-viewtools", 
+  "info": {
+    "Author:": "Eric Moritz", 
+    "Home Page:": "http://launchpad.net/django-viewtools", 
+    "Package Index Owner:": "ericmoritz"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for calling URLs for debugging", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7870ef77e5a83c861d227dc24506fa91", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-viewtools/django-viewtools-0.1.tar.gz"
+}

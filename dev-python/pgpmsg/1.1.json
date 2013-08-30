@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenPGP (RFC2440) message parser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jbox.ultraemail.net:8000/~jbj1/#pgpmsg", 
+  "info": {
+    "Author:": "Jens B. Jorgensen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "http://jbox.ultraemail.net:8000/~jbj1/pgpmsg-1.1.zip", 
+    "Home Page:": "http://jbox.ultraemail.net:8000/~jbj1/#pgpmsg", 
+    "Keywords:": "pgp,gpg,rfc2440,crypto,cryptography", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jensbjorgensen", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "OpenPGP (RFC2440) message parser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://jbox.ultraemail.net:8000/~jbj1/pgpmsg-1.1.zip"
+}

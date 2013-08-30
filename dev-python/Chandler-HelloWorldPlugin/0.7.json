@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is just an example plugin project", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Phillip J. Eby", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Chandler"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Documentation"
+      ]
+    }, 
+    "Package Index Maintainer:": "hamstar", 
+    "Package Index Owner:": "vajda, bear, osafgrant"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "This is just an example plugin project", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef8523f51d83e679b3a5da78d378991d", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Chandler-HelloWorldPlugin/Chandler-HelloWorldPlugin-0.7.tar.gz"
+}

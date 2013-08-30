@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An application to allow for other apps to easily store site based configurations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/webcube/django-configstore", 
+  "info": {
+    "Author:": "Jason Kraus", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/webcube/django-configstore", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zbyte64"
+  }, 
+  "license": "", 
+  "longdescription": "An application to allow for other apps to easily store site based configurations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a49b0e4ac7a2db9d3bf3797fb037d57", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-configstore/django-configstore-0.3.tar.gz"
+}

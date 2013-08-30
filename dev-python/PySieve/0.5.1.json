@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast prime factoriation using the msieve library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dansefatale/PySieve", 
+  "info": {
+    "Author:": "Severin Bannert", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Programming Language": [
+        "C"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dansefatale/PySieve", 
+    "Package Index Owner:": "vstb"
+  }, 
+  "license": "", 
+  "longdescription": "Fast prime factoriation using the msieve library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0e119b186bb9ccae96591495fa80eab7", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PySieve/PySieve-0.5.1.tar.gz"
+}

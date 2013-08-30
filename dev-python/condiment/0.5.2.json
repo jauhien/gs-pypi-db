@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Conditionally include code according to environment variables", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tito/condiment", 
+  "info": {
+    "Author:": "Mathieu Virbel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "zlib/libpng License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Pre-processors"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tito/condiment", 
+    "Keywords:": "python,preprocessor,meta,condiment,conditional", 
+    "License:": "zlib", 
+    "Package Index Owner:": "Mathieu.Virbel", 
+    "Platform:": "all"
+  }, 
+  "license": "zlib/libpng License", 
+  "longdescription": "Conditionally include code according to environment variables", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "400101c672a0c987c6f9712df5ff1ddf", 
+  "source_uri": "https://pypi.python.org/packages/source/c/condiment/condiment-0.5.2.tar.gz"
+}

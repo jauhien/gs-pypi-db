@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django wrapper around Actionkits MySQL client-db, REST API and XML-RPC API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ethan Jucovy", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "A Django wrapper around Actionkits MySQL client-db, REST API and XML-RPC API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce234f9693f8cb0e1167d5d0539f5ad7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-actionkit-client/django-actionkit-client-0.3.tar.gz"
+}

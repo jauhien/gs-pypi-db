@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Portlet that shows the table of contents for the current item", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.v2.nl/plone/collective.portlet.toc", 
+  "info": {
+    "Author:": "David Jonas", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://svn.v2.nl/plone/collective.portlet.toc", 
+    "Keywords:": "plone portlet toc table contents", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davidjonas"
+  }, 
+  "license": "", 
+  "longdescription": "Portlet that shows the table of contents for the current item", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "40a875923e4a851758307eb13f59c4cd", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.toc/collective.portlet.toc-0.2.tar.gz"
+}

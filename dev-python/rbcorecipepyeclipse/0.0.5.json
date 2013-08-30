@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates a Pydev project for Eclipse.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rbco-recipe-pyeclipse.googlecode.com/", 
+  "info": {
+    "Author:": "Rafael Oliveira", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://rbco-recipe-pyeclipse.googlecode.com/", 
+    "Keywords:": "eclipse pydev", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rafaelbco"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Creates a Pydev project for Eclipse.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "707d8d54de6b4fabcbfc59a981747d1a", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rbco.recipe.pyeclipse/rbco.recipe.pyeclipse-0.0.5.zip"
+}

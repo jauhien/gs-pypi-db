@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Run Konira DSL tests with py.test", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alfredo Deza", 
+    "Keywords:": "test,readable,testrunner,bdd", 
+    "License:": "MIT", 
+    "Package Index Owner:": "alfredodeza"
+  }, 
+  "license": "", 
+  "longdescription": "Run Konira DSL tests with py.test", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "39300f8b0e5a4b8a81a03c699d72667c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-konira/pytest-konira-0.2.tar.gz"
+}

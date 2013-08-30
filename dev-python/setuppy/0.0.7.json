@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "run setup.py commands (customiable) from python. Usefull for hooks, IDE plugins, etc", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cancerhermit/setuppy/", 
+  "info": {
+    "Author:": "cancerhermit", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Setuptools Plugin"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cancerhermit/setuppy/", 
+    "Keywords:": "setup.py install distutils setuptools", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cancerhermit", 
+    "Platform:": "ALL"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "run setup.py commands (customiable) from python. Usefull for hooks, IDE plugins, etc", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cc82d7a4d5f35b007d1f81327e6cac62", 
+  "source_uri": "https://pypi.python.org/packages/source/s/setuppy/setuppy-0.0.7.tar.gz"
+}

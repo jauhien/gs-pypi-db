@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Various GenericSetup handlers and CMFQuickInstaller enhancements", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.gsqi", 
+  "info": {
+    "Author:": "Ross Patterson", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.gsqi", 
+    "License:": "GPL", 
+    "Package Index Owner:": "collective, rpatterson"
+  }, 
+  "license": "", 
+  "longdescription": "Various GenericSetup handlers and CMFQuickInstaller enhancements", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f127f6bd9a4caff10320370bd75125a4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.gsqi/collective.gsqi-0.3.tar.gz"
+}

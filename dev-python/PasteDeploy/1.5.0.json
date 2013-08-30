@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Load, configure, and compose WSGI applications and servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonpaste.org/deploy/", 
+  "info": {
+    "Author:": "Ian Bicking", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pythonpaste.org/deploy/", 
+    "Keywords:": "web wsgi application server", 
+    "License:": "MIT", 
+    "Maintainer:": "Alex Gr\u00f6nholm", 
+    "Package Index Maintainer:": "agronholm", 
+    "Package Index Owner:": "ianb, agronholm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Load, configure, and compose WSGI applications and servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f1a068a0b680493b6eaff3dd7690690f", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PasteDeploy/PasteDeploy-1.5.0.tar.gz"
+}

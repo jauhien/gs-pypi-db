@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "S5 Slideshow plone integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "esteele, toutpt, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "S5 Slideshow plone integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e42246a0df5614e4f20f00f0a569e94f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.s5slideshow/plone.app.s5slideshow-1.0.zip"
+}

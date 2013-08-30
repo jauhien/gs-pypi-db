@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An automatic sensitive data scrubber and restorer.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://git.io/lucido", 
+  "info": {
+    "Author:": "Nick Sinopoli", 
+    "Home Page:": "http://git.io/lucido", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nsxt"
+  }, 
+  "license": "", 
+  "longdescription": "An automatic sensitive data scrubber and restorer.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b5b21e27f2df9460492b62c058d5b9f2", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lucido/lucido-0.2.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin for collective.hostout that bootstraps a CentOS host ready for hostout deployment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/hostout.centos", 
+  "info": {
+    "Author:": "Nejc Zupan", 
+    "Home Page:": "https://svn.plone.org/svn/collective/hostout.centos", 
+    "Keywords:": "buildout,fabric,deploy,deployment,server,plone,host,hosting", 
+    "License:": "GPL", 
+    "Package Index Owner:": "zupo"
+  }, 
+  "license": "", 
+  "longdescription": "Plugin for collective.hostout that bootstraps a CentOS host ready for hostout deployment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "486dd9e00ca6bfda5c3efef87b2e86a0", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hostout.centos/hostout.centos-0.1.tar.gz"
+}

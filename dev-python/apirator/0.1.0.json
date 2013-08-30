@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "easily add simple http api to your django web app", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Victor Kotseruba", 
+    "Keywords:": "django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "barbuza"
+  }, 
+  "license": "", 
+  "longdescription": "easily add simple http api to your django web app", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5a805a1100f08b4de98f96ab225ab960", 
+  "source_uri": "https://pypi.python.org/packages/source/a/apirator/apirator-0.1.0.tar.gz"
+}

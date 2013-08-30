@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to create and modify Moilla application profiles", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+  "info": {
+    "Author:": "Mozilla Automation and Tools team", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 2.0 (MPL 2.0)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+    "Keywords:": "mozilla", 
+    "License:": "MPL 2.0", 
+    "Package Index Owner:": "mdas, edmorley, ahal, ctalbert, k0s, David.Burns, whimboo, elvis314, jgriffin, markrcote, wlach, davehunt"
+  }, 
+  "license": "Mozilla Public License 2.0 (MPL 2.0)", 
+  "longdescription": "Library to create and modify Moilla application profiles", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf599d26baf64e0d402b0b5e932f9bf3", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozprofile/mozprofile-0.12.tar.gz"
+}

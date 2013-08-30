@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple auth handler for Google App Engine supporting OAuth 1.0a, 2.0 and OpenID", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/gae-simpleauth", 
+  "info": {
+    "Author:": "Alex Vagin (http://alex.cloudware.it)", 
+    "Bug Tracker:": "http://code.google.com/p/gae-simpleauth/issues/list", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/gae-simpleauth/source/checkout", 
+    "Home Page:": "http://code.google.com/p/gae-simpleauth", 
+    "Keywords:": "oauth oauth2 openid appengine google", 
+    "License:": "MIT", 
+    "Package Index Owner:": "crhym3", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple auth handler for Google App Engine supporting OAuth 1.0a, 2.0 and OpenID", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d8d2c821d0a7c18ae2dce7af4f2c03a", 
+  "source_uri": "http://code.google.com/p/gae-simpleauth/source/checkout"
+}

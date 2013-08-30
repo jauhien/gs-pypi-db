@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An alternative order UI support for contents view in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/redturtle.alternative_orderui", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/redturtle.alternative_orderui", 
+    "Keywords:": "plone plonegov folder_contents order", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "micecchi", 
+    "Package Index Owner:": "micecchi, keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "An alternative order UI support for contents view in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c3cb830af6293dd93f27c801ddd49cdf", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redturtle.alternative_orderui/redturtle.alternative_orderui-0.5.0.zip"
+}

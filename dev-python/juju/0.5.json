@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cloud automation and orchestration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/juju", 
+  "info": {
+    "Author:": "Juju Developers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/juju", 
+    "License:": "GPL", 
+    "Package Index Owner:": "kapilt"
+  }, 
+  "license": "", 
+  "longdescription": "Cloud automation and orchestration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73f404db448e8f800fb31fd111bfe951", 
+  "source_uri": "https://pypi.python.org/packages/source/j/juju/juju-0.5.tar.gz"
+}

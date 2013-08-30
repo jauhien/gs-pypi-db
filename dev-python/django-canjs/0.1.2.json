@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CanJS integration library for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aljosa/django-canjs", 
+  "info": {
+    "Author:": "Aljosa Mohorovic", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/aljosa/django-canjs", 
+    "Keywords:": "django canjs", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "aljosa", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "CanJS integration library for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65756dc632d30053917f4883faf7657b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-canjs/django-canjs-0.1.2.tar.gz"
+}

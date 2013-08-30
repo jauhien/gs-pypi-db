@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A queuing setup for integration with Haystack.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/toastdriven/queued_search", 
+  "info": {
+    "Author:": "Daniel Lindsley", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/toastdriven/queued_search", 
+    "Package Index Owner:": "daniellindsley"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A queuing setup for integration with Haystack.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0203733b03d2a3f2b8e0846bd84b2f69", 
+  "source_uri": "https://pypi.python.org/packages/source/q/queued_search/queued_search-1.0.4.tar.gz"
+}

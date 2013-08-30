@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a Pythonisation of the restart-based condition system from Common Lisp", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rfk/withrestart", 
+  "info": {
+    "Author:": "Ryan Kelly", 
+    "Home Page:": "http://github.com/rfk/withrestart", 
+    "Keywords:": "condition restart error exception", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rfk"
+  }, 
+  "license": "", 
+  "longdescription": "a Pythonisation of the restart-based condition system from Common Lisp", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d76f4ce694228c1ef575a152f51d039", 
+  "source_uri": "https://pypi.python.org/packages/source/w/withrestart/withrestart-0.2.7.tar.gz"
+}

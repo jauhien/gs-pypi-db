@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backup and Recovery Manager for PostgreSQL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pgbarman.org/", 
+  "info": {
+    "Author:": "2ndQuadrant Italia (Devise.IT S.r.l.)", 
+    "Bug Tracker:": "https://sourceforge.net/p/pgbarman/tickets/", 
+    "Categories": {
+      "Topic": [
+        "System", 
+        "Recovery Tools"
+      ]
+    }, 
+    "Home Page:": "http://www.pgbarman.org/", 
+    "License:": "GPL-3.0", 
+    "Package Index Owner:": "mnencia, gabriele.bartolini", 
+    "Platform:": "Linux,Mac OS X"
+  }, 
+  "license": "", 
+  "longdescription": "Backup and Recovery Manager for PostgreSQL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c209a1f51b64c8348c7eb2bc65d009fd", 
+  "source_uri": "https://pypi.python.org/packages/source/b/barman/barman-1.2.2.tar.gz"
+}

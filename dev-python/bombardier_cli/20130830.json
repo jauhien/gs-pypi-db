@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Open Source Configuration management and package delivery central server components", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bombardierinstaller.org/", 
+  "info": {
+    "Author:": "Peter Banka and Shawn Sherwood", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://bombardierinstaller.org/", 
+    "Package Index Owner:": "pbanka"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Open Source Configuration management and package delivery central server components", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7605a1821c3576b36385d92167a22fc", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bombardier_cli/bombardier_cli-1.10-783.tar.gz"
+}

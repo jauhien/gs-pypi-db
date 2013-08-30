@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reimplement threading.Lock, RLock and Condition with libpthread", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://git.fedorahosted.org/git/?p=pthreading.git", 
+  "info": {
+    "Author:": "Dan Kenigsberg", 
+    "Home Page:": "http://git.fedorahosted.org/git/?p=pthreading.git", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "danken", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "Reimplement threading.Lock, RLock and Condition with libpthread", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f061c9483542c6add44b5d495501c204", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pthreading/pthreading-0.1.2.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mach-O header analysis and editing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/ronaldoussoren/macholib", 
+  "info": {
+    "Author:": "Ronald Oussoren", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "MacOS", 
+        "MacOS X"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//macholib", 
+    "Download URL:": "http://pypi.python.org/pypi/macholib", 
+    "Home Page:": "http://bitbucket.org/ronaldoussoren/macholib", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bob, ronaldoussoren", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Mach-O header analysis and editing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2665525cdc9edaf4d1de5566bb004c56", 
+  "source_uri": "http://pypi.python.org/pypi/macholib"
+}

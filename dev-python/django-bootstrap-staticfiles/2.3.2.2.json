@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app that provides compiled Bootstrap assets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/55minutes/django-bootstrap-staticfiles", 
+  "info": {
+    "Author:": "George Song", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/django-bootstrap-staticfiles", 
+    "Home Page:": "https://github.com/55minutes/django-bootstrap-staticfiles", 
+    "Keywords:": "django app staticfiles twitter bootstrap", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gsong"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Django app that provides compiled Bootstrap assets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31a87544037f3078d74a83271f078d5b", 
+  "source_uri": "http://pypi.python.org/pypi/django-bootstrap-staticfiles"
+}

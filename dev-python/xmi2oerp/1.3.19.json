@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XMI Conversor to OpenERP modules.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.moldeointeractive.com.ar/", 
+  "info": {
+    "Author:": "Cristian S. Rocha", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://www.moldeointeractive.com.ar/", 
+    "Package Index Owner:": "csrocha"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "XMI Conversor to OpenERP modules.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0de8b9e353a7464f52eb5103c6fa7fee", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xmi2oerp/xmi2oerp-1.3.19.tar.gz"
+}

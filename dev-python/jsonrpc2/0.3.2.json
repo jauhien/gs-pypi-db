@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI Framework for JSON RPC 2.0", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.aodag.jp/jsonrpc2/", 
+  "info": {
+    "Author:": "Atsushi Odagiri", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//jsonrpc2", 
+    "Home Page:": "http://hg.aodag.jp/jsonrpc2/", 
+    "Keywords:": "wsgi request web http json rpc", 
+    "License:": "MIT", 
+    "Package Index Owner:": "aodag"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WSGI Framework for JSON RPC 2.0", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b395badecd18f91c7e4bc41f05bfb82f", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jsonrpc2/jsonrpc2-0.3.2.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python module that implements subcommands CLI pattern.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/repejota/subcmd", 
+  "info": {
+    "Author:": "Raul Perez", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//subcmd", 
+    "Home Page:": "https://github.com/repejota/subcmd", 
+    "Package Index Owner:": "RpJ", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "A Python module that implements subcommands CLI pattern.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15b857d0afef9121c3d3b246d2b8b977", 
+  "source_uri": "https://pypi.python.org/packages/source/s/subcmd/subcmd-0.2.tar.gz"
+}

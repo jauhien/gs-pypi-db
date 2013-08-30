@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Moilla-authored process handling", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/MozBase", 
+  "info": {
+    "Author:": "Mozilla Automation and Tools team", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 2.0 (MPL 2.0)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://wiki.mozilla.org/Auto-tools/Projects/MozBase", 
+    "Keywords:": "mozilla", 
+    "License:": "MPL 2.0", 
+    "Package Index Owner:": "edmorley, mdas, k0s, markrcote, David.Burns, ahal, ctalbert, elvis314, jgriffin, whimboo, wlach, davehunt"
+  }, 
+  "license": "Mozilla Public License 2.0 (MPL 2.0)", 
+  "longdescription": "Moilla-authored process handling", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6430eef89ef458d9e2512e921ec6d37f", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozprocess/mozprocess-0.11.tar.gz"
+}

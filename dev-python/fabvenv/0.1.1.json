@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fabric utility for creating remote virtual environments, and installing and updating packages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/todddeluca/fabvenv", 
+  "info": {
+    "Author:": "Todd Francis DeLuca", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/todddeluca/fabvenv", 
+    "Keywords:": "fabric virtualenv venv utility", 
+    "License:": "MIT", 
+    "Package Index Owner:": "todddeluca"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A fabric utility for creating remote virtual environments, and installing and updating packages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "85c6dba1ba29d03154965668696b9561", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fabvenv/fabvenv-0.1.1.tar.gz"
+}

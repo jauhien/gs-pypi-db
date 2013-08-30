@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A replacement for the builtin ipfile module, with fast, C-based ipfile decryption", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/czipfile", 
+  "info": {
+    "Author:": "Python distribution, modified by CJ Kucera", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/czipfile", 
+    "Keywords:": "zipfile zip decryption", 
+    "License:": "Python Software Foundation License", 
+    "Package Index Owner:": "xolotl"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "A replacement for the builtin ipfile module, with fast, C-based ipfile decryption", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c1dd2af2ade7e216214c35a5301910b8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/czipfile/czipfile-1.0.0.tar.gz"
+}

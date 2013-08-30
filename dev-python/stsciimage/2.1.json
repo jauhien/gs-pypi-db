@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Image array manipulation functions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+  "info": {
+    "Author:": "Todd Miller", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+    "Package Index Owner:": "stsci_ssb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Image array manipulation functions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "538f5ff5d516e7675635b054eb040be6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stsci.image/stsci.image-2.1.tar.gz"
+}

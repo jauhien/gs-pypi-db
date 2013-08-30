@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration package for plone.folder into Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.folder/", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.folder/", 
+    "Keywords:": "folder btree order plone archetypes atcontenttypes", 
+    "License:": "GPL version 2", 
+    "Package Index Maintainer:": "esteele, davisagli", 
+    "Package Index Owner:": "witsch, optilude, esteele, hannosch", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Integration package for plone.folder into Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ea860daddb4c93c0b7f2b5f7106fef0", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.folder/plone.app.folder-1.0.5.zip"
+}

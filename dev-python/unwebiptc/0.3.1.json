@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IPTC metadata extraction and storage for images in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/unweb.iptc/", 
+  "info": {
+    "Author:": "Dimitris Moraitis", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Graphics"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/unweb.iptc/", 
+    "Keywords:": "image photo metadata IPTC keywords plone zope", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "frisi", 
+    "Package Index Owner:": "dimo, frisi"
+  }, 
+  "license": "", 
+  "longdescription": "IPTC metadata extraction and storage for images in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "de7e352999957692f7842328c88f1734", 
+  "source_uri": "https://pypi.python.org/packages/source/u/unweb.iptc/unweb.iptc-0.3.1.zip"
+}

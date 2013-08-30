@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Impermium API bindings for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/disqus/impermium-python", 
+  "info": {
+    "Author:": "David Cramer", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/disqus/impermium-python", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "dcramer"
+  }, 
+  "license": "", 
+  "longdescription": "Impermium API bindings for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98891b506fa0da8f8626db5d8d2b0b98", 
+  "source_uri": "https://pypi.python.org/packages/source/i/impermium/impermium-0.4.0.tar.gz"
+}

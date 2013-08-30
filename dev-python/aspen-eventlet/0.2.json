@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "eventlet plugin for Aspen", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://aspen.io/", 
+  "info": {
+    "Author:": "Chad Whitacre", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "Jython"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "HTTP Servers"
+      ]
+    }, 
+    "Home Page:": "http://aspen.io/", 
+    "Package Index Owner:": "pjz"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "eventlet plugin for Aspen", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "473d717683ff7117bc2a530850a30db0", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aspen-eventlet/aspen-eventlet-0.2.tar.bz2"
+}

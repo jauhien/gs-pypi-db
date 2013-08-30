@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a backport of the new v2.3 stable listsort algorithm to all Python versions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://py-stablesort.sourceforge.net/", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://py-stablesort.sourceforge.net/download/", 
+    "Home Page:": "http://py-stablesort.sourceforge.net/", 
+    "Keywords:": "stablesort, stable sort", 
+    "License:": "Python Software Foundation License", 
+    "Package Index Owner:": "mfx", 
+    "Platform:": "All"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "a backport of the new v2.3 stable listsort algorithm to all Python versions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://py-stablesort.sourceforge.net/download/"
+}

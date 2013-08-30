@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A recipe to provide facts about the context a buildout is running in", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "John Carr", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Keywords:": "buildout facts", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "johncarr, alex2, winjer"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A recipe to provide facts about the context a buildout is running in", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65df5ca52db28789afb7104a4684b845", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.facts/isotoma.recipe.facts-0.0.6.tar.gz"
+}

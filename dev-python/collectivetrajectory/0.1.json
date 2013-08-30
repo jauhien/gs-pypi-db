@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Traject integration in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.trajectory", 
+  "info": {
+    "Author:": "Izhar Firdaus", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.trajectory", 
+    "Keywords:": "traject plone routing", 
+    "License:": "GPL", 
+    "Package Index Owner:": "kagesenshi"
+  }, 
+  "license": "", 
+  "longdescription": "Traject integration in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be7e229f90ec356dc9ff70454298da86", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.trajectory/collective.trajectory-0.1.tar.gz"
+}

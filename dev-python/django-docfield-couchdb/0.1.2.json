@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django fields for representing CouchDB docs and more.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fish2000/docfield/", 
+  "info": {
+    "Author:": "Alexander Bohn", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://github.com/fish2000/docfield/zipball/master", 
+    "Home Page:": "http://github.com/fish2000/docfield/", 
+    "Keywords:": "django,couchdb,json,NoSQL,database,utility,fields,models,trees,fields", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "fish2000", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Django fields for representing CouchDB docs and more.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d748debf7a3e9033046081bba88c783", 
+  "source_uri": "http://github.com/fish2000/docfield/zipball/master"
+}

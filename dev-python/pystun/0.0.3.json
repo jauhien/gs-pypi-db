@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python STUN client for getting NAT type and external IP (RFC 348)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jtriley/pystun", 
+  "info": {
+    "Author:": "Justin Riley (original author: gaohawk)", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking", 
+        "Firewalls"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jtriley/pystun", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jtriley"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Python STUN client for getting NAT type and external IP (RFC 348)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b58f71f971ac5eca30767c6a32dc8653", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pystun/pystun-0.0.3.tar.gz"
+}

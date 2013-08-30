@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Serve static files and django templates in current folder, for prototyping", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://amitu.com/djangothis/", 
+  "info": {
+    "Author:": "Amit Upadhyay", 
+    "Home Page:": "http://amitu.com/djangothis/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "amitu"
+  }, 
+  "license": "", 
+  "longdescription": "Serve static files and django templates in current folder, for prototyping", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "37898150b7ea3d78b0178a394b999950", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djangothis/djangothis-0.3.tar.gz"
+}

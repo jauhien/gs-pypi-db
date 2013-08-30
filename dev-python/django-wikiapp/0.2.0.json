@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple pluggable wiki application for Django with revision and multiple markup support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/django-wikiapp/", 
+  "info": {
+    "Author:": "Eduardo de Oliveira Padoan", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/django-wikiapp/", 
+    "Keywords:": "wiki,django", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "jezdez, brosner", 
+    "Package Index Owner:": "edcrypt, brosner"
+  }, 
+  "license": "", 
+  "longdescription": "A simple pluggable wiki application for Django with revision and multiple markup support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "665e37c911e38689f538710841272bc5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-wikiapp/django-wikiapp-0.2.0.tar.gz"
+}

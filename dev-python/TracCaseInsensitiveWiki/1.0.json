@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Make the Trac wiki case-insensitive.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/CaseInsensitiveWiki", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/CaseInsensitiveWiki", 
+    "Keywords:": "trac plugin wiki case insensitive", 
+    "License:": "BSD", 
+    "Package Index Owner:": "coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "Make the Trac wiki case-insensitive.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03ca96ed9fb5ba98fe8dc169805628a0", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracCaseInsensitiveWiki/TracCaseInsensitiveWiki-1.0.tar.gz"
+}

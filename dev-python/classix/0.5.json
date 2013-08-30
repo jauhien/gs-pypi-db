@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Declarative way to associate classes with lxml XML elements.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martijn Faassen", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "faassen"
+  }, 
+  "license": "", 
+  "longdescription": "Declarative way to associate classes with lxml XML elements.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7d5fd66cc165e3e6c4935569d02bf977", 
+  "source_uri": "https://pypi.python.org/packages/source/c/classix/classix-0.5.tar.gz"
+}

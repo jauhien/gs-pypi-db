@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python port of Esprima, the Javascript parser.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/int3/pyesprima", 
+  "info": {
+    "Author:": "Jez Ng", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/int3/pyesprima", 
+    "Keywords:": "javascript parser", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Jez.Ng"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python port of Esprima, the Javascript parser.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "af6be6ca4bb22ecf80cd9f99475d14fa", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyesprima/pyesprima-1.0.0.tar.gz"
+}

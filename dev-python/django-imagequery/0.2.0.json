@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Image manipulation written like well known QuerySet operations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ddanier/django_imagequery", 
+  "info": {
+    "Author:": "David Danier", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ddanier/django_imagequery", 
+    "Keywords:": "django imagequery PIL", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "ddanier"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Image manipulation written like well known QuerySet operations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "90014a683ea3de267b5fd103d2fff0db", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-imagequery/django-imagequery-0.2.0.tar.gz"
+}

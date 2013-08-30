@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cloud style wsgi deployment, while keeping control over the environment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://flyingelephantsoftware.de/homunculus-server/", 
+  "info": {
+    "Author:": "Philipp Benjamin Koeppchen", 
+    "Home Page:": "http://flyingelephantsoftware.de/homunculus-server/", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "keppla"
+  }, 
+  "license": "", 
+  "longdescription": "Cloud style wsgi deployment, while keeping control over the environment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "842d06f9a7a43cd40d63cf646644b616", 
+  "source_uri": "https://pypi.python.org/packages/source/h/homunculus_server/homunculus_server-0.0.8-alpha.tar.gz"
+}

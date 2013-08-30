@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LAS 1.01.11.2 LiDAR data format translation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://liblas.org", 
+  "info": {
+    "Author:": "Howard Butler", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Home Page:": "http://liblas.org", 
+    "Keywords:": "DEM elevation LIDAR", 
+    "License:": "BSD", 
+    "Package Index Owner:": "hobu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "LAS 1.01.11.2 LiDAR data format translation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a808c72633e0e080b8e43d577f48651e", 
+  "source_uri": "https://pypi.python.org/packages/source/l/libLAS/libLAS-1.6.0.tar.gz"
+}

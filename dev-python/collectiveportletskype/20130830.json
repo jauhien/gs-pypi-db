@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Skype portlet for Plone 3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.portlet.skype", 
+  "info": {
+    "Author:": "Jens Klein", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.portlet.skype", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jensens, rnix"
+  }, 
+  "license": "", 
+  "longdescription": "Skype portlet for Plone 3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4181ff32df98053c8a2d5e76afbd11fd", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.skype/collective.portlet.skype-1.0-beta1.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Set up varnish and varnish logging", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Doug Winter", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Keywords:": "varnish proxy cache buildout", 
+    "License:": "Apache Software License", 
+    "Package Index Maintainer:": "johncarr", 
+    "Package Index Owner:": "winjer, alex2, johncarr"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Set up varnish and varnish logging", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3451797f36ca685505961a85b3f62e38", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.varnish/isotoma.recipe.varnish-0.1.10.tar.gz"
+}

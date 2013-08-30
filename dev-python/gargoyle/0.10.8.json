@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/disqus/gargoyle", 
+  "info": {
+    "Author:": "DISQUS", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/disqus/gargoyle", 
+    "License:": "Apache License 2.0", 
+    "Package Index Maintainer:": "Fluxx", 
+    "Package Index Owner:": "dcramer, Fluxx"
+  }, 
+  "license": "", 
+  "longdescription": "Gargoyle is a platform built on top of Django which allows you to switch functionality of your application on and off based on conditions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b3672af5e4b447b6ddac4ea05a185d90", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gargoyle/gargoyle-0.10.8.tar.gz"
+}

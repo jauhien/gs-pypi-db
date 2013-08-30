@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Captcha field for formlib based on quintagroup.captcha.core package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.quintagroup.com/products/quintagroup.formlib.captcha", 
+  "info": {
+    "Author:": "Quintagroup", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.quintagroup.com/products/quintagroup.formlib.captcha", 
+    "Keywords:": "plone formlib captcha", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "potar", 
+    "Package Index Owner:": "potar, quintagroup"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Captcha field for formlib based on quintagroup.captcha.core package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8eb9edcf30d5c15940e0b2f620bd3fee", 
+  "source_uri": "https://pypi.python.org/packages/source/q/quintagroup.formlib.captcha/quintagroup.formlib.captcha-1.4.2.zip"
+}

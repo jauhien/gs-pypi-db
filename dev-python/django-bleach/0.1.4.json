@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily use bleach with Django models and templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ionata/django-bleach", 
+  "info": {
+    "Author:": "Tim Heap", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ionata/django-bleach", 
+    "Package Index Owner:": "tim_heap"
+  }, 
+  "license": "", 
+  "longdescription": "Easily use bleach with Django models and templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7960515bcb605b490cb6eb6bda576814", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-bleach/django-bleach-0.1.4.tar.gz"
+}

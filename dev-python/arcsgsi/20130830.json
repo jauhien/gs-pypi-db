@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to assist GSI authentication and certificate handling in python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.arcs.org.au/gitorious/arcs-gsi/arcs-gsi", 
+  "info": {
+    "Author:": "Russell Sim", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Download URL:": "http://code.arcs.org.au/pypi/simple/arcs.gsi/", 
+    "Home Page:": "http://code.arcs.org.au/gitorious/arcs-gsi/arcs-gsi", 
+    "License:": "GPL", 
+    "Package Index Owner:": "russell"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Library to assist GSI authentication and certificate handling in python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f2311a748bd31b3b18d91e1645b49d04", 
+  "source_uri": "http://code.arcs.org.au/pypi/simple/arcs.gsi/"
+}

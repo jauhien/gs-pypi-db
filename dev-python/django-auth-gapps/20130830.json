@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Authentication with Google Apps Provisioning api", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-auth-gapps/", 
+  "info": {
+    "Author:": "David Burke", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/django-auth-gapps/", 
+    "Keywords:": "django", 
+    "License:": "BSD", 
+    "Package Index Owner:": "David.Burke"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Authentication with Google Apps Provisioning api", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c1155f9afaefebb01628a4c405ae78f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-auth-gapps/django-auth-gapps-.1.tar.gz"
+}

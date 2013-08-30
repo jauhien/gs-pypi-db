@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Prevent South from running concurrently", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mattrobenolt/django-locking-south", 
+  "info": {
+    "Author:": "Matt Robenolt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mattrobenolt/django-locking-south", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mattrobenolt"
+  }, 
+  "license": "", 
+  "longdescription": "Prevent South from running concurrently", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "310b459e3e18de5971af90e12552e2ee", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-locking-south/django-locking-south-0.1.0.tar.gz"
+}

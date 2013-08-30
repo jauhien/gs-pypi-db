@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Install lessc into your virtualenv", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/elbaschid/virtual-less", 
+  "info": {
+    "Author:": "Sebastian Vetter", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "JavaScript"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://github.com/elbaschid/virtual-less", 
+    "License:": "BSD", 
+    "Package Index Owner:": "elbaschid"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Install lessc into your virtualenv", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1764958f7af62856911a80b6b14edfc3", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtual-less/virtual-less-0.0.1-1.3.3.tar.gz"
+}

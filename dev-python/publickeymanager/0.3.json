@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Public Key Manager is designed to generate authoried_keys file and to distribute those to specified servers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/public-key-manager", 
+  "info": {
+    "Author:": "Roland van Laar", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/public-key-manager", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rvanlaar"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Public Key Manager is designed to generate authoried_keys file and to distribute those to specified servers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8d4bcbad3d6135011e99c65547b908d3", 
+  "source_uri": "https://pypi.python.org/packages/source/p/publickeymanager/publickeymanager-0.3.tar.gz"
+}

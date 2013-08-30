@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python binding of the notmuch mail search and indexing library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://notmuchmail.org/", 
+  "info": {
+    "Author:": "Sebastian Spaeth", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//notmuch", 
+    "Download URL:": "http://notmuchmail.org/releases/notmuch-0.15.1.tar.gz", 
+    "Home Page:": "http://notmuchmail.org/", 
+    "Keywords:": "library,email", 
+    "License:": "http://www.gnu.org/licenses/gpl-3.0.txt", 
+    "Package Index Owner:": "Julian"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python binding of the notmuch mail search and indexing library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4126a598e9fb1e994f3492d2cfbe3562", 
+  "source_uri": "http://notmuchmail.org/releases/notmuch-0.15.1.tar.gz"
+}

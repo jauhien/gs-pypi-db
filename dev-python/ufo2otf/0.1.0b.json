@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Take UFO font sources and generate OTFs and webfonts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/an_example_pypi_project", 
+  "info": {
+    "Author:": "Eric Schrijver", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/an_example_pypi_project", 
+    "Keywords:": "font utility web ufo otf conversion command line", 
+    "License:": "BSD", 
+    "Package Index Owner:": "schrijver"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Take UFO font sources and generate OTFs and webfonts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec761727e9fc83dad556d102fdb7c169", 
+  "source_uri": "https://pypi.python.org/packages/source/u/ufo2otf/ufo2otf-0.1.0b.tar.gz"
+}

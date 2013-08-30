@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "authorie django users in realtime(asynchronous) backends using expiring tickets in Redis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/FZambia/django-realtime-ticket", 
+  "info": {
+    "Author:": "Alexandr Emelin", 
+    "Home Page:": "https://github.com/FZambia/django-realtime-ticket", 
+    "Keywords:": "python django realtime asynchronous async ticket redis authorization", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "FZambia"
+  }, 
+  "license": "", 
+  "longdescription": "authorie django users in realtime(asynchronous) backends using expiring tickets in Redis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e83b30951faa3d23412d8de9e82ae45e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-realtime-ticket/django-realtime-ticket-0.1.0.tar.gz"
+}

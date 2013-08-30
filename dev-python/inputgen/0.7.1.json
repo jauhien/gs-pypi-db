@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool for automated input generation, useful for bounded exhaustive testing and the generation of complex data structures for test inputs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/gdub/python-inputgen", 
+  "info": {
+    "Author:": "Gary Wilson Jr.", 
+    "Home Page:": "https://bitbucket.org/gdub/python-inputgen", 
+    "License:": "MIT", 
+    "Package Index Owner:": "garywilson"
+  }, 
+  "license": "", 
+  "longdescription": "Tool for automated input generation, useful for bounded exhaustive testing and the generation of complex data structures for test inputs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1d951440474056f0ce660cfa374a022a", 
+  "source_uri": "https://pypi.python.org/packages/source/i/inputgen/inputgen-0.7.1.tar.gz"
+}

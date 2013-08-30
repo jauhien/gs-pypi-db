@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Monkeypatch script to make Fabric thread-safe", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bancek/fabric-threadsafe", 
+  "info": {
+    "Author:": "Luka Zakrajsek", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bancek/fabric-threadsafe", 
+    "License:": "Apache", 
+    "Package Index Owner:": "bancek"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Monkeypatch script to make Fabric thread-safe", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4d8d0f9b67175d9e6db5f37ae5a115ea", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fabric-threadsafe/fabric-threadsafe-0.1.0.zip"
+}

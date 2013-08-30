@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A logging handler for Django that defers evaluation of the filepath", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/codeinthehole/django-deferred-filelogger", 
+  "info": {
+    "Author:": "David Winterbottom", 
+    "Home Page:": "https://github.com/codeinthehole/django-deferred-filelogger", 
+    "Package Index Owner:": "codeinthehole.com"
+  }, 
+  "license": "", 
+  "longdescription": "A logging handler for Django that defers evaluation of the filepath", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5e3eb532dcc9a0d7d8d4882566d2c6e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-deferred-filelogger/django-deferred-filelogger-0.1.tar.gz"
+}

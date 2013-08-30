@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "AMQP broadcasting for python and ope.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.binarybox.net/svn/ztk/zamqp", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://svn.binarybox.net/svn/ztk/zamqp", 
+    "Keywords:": "amqp events zope", 
+    "License:": "GNU General Public Licence", 
+    "Package Index Owner:": "rnix"
+  }, 
+  "license": "", 
+  "longdescription": "AMQP broadcasting for python and ope.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8e584f8d7a640a82126c793ec7301c54", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zamqp/zamqp-1.0b1.tar.gz"
+}

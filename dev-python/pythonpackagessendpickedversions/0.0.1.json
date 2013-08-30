@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sends picked packages and versions to a whiskers server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pythonpackages/pythonpackages.sendpickedversions", 
+  "info": {
+    "Author:": "Alex Clark (fork author)", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pythonpackages/pythonpackages.sendpickedversions", 
+    "Keywords:": "buildout extension send picked versions", 
+    "License:": "GPL", 
+    "Package Index Owner:": "aclark"
+  }, 
+  "license": "", 
+  "longdescription": "Sends picked packages and versions to a whiskers server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31dfbfa152360ad0cfb3d78ce8bb6bdc", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pythonpackages.sendpickedversions/pythonpackages.sendpickedversions-0.0.1.zip"
+}

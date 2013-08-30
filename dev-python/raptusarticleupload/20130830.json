@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides multiupload functionality for articles using collective.quickupload", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Raptus/raptus.article.upload", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Raptus/raptus.article.upload", 
+    "License:": "GPL", 
+    "Package Index Owner:": "raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Provides multiupload functionality for articles using collective.quickupload", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "481d5d943a517e2591a5114da7d1c583", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.article.upload/raptus.article.upload-2.0b5.zip"
+}

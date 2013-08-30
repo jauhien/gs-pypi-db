@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration of the Embedly TinyMCE plugin with Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.tinymceplugins.embedly", 
+  "info": {
+    "Author:": "Netsight Internet Solutions Limited", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.tinymceplugins.embedly", 
+    "License:": "GPL v2", 
+    "Package Index Owner:": "mitchellrj"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "Integration of the Embedly TinyMCE plugin with Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a89178c09a9b94a3eb2c4713b6b7558b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.tinymceplugins.embedly/collective.tinymceplugins.embedly-1.0.1.zip"
+}

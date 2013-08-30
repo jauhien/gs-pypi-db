@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read and write cdb (constant database) files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "John E. Barham", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Keywords:": "cdb constant database", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jbarham", 
+    "Platform:": "All"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Read and write cdb (constant database) files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cabafb9b9aa8e1ec1cd5f7fd5211f076", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cdblib/cdblib-0.5.zip"
+}

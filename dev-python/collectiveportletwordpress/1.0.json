@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package provides portlet that lists blog posts from your wordpress blog.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.portlet.wordpress", 
+  "info": {
+    "Author:": "Vitaliy Podoba", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.portlet.wordpress", 
+    "Keywords:": "portlet wordpress", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mschoel"
+  }, 
+  "license": "", 
+  "longdescription": "This package provides portlet that lists blog posts from your wordpress blog.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "236f9837532af26a8a4ef540862d9c4c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.wordpress/collective.portlet.wordpress-1.0.tar.gz"
+}

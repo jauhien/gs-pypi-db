@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sphinx Windows Share Links (WSL) role extension", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/goingmywaynet/sphinxcontrib-smblink.git", 
+  "info": {
+    "Author:": "Joey Chen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "Japanese"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/goingmywaynet/sphinxcontrib-smblink.git", 
+    "Keywords:": "sphinx,sphinxcontrib,smb,windows,link,share", 
+    "License:": "BSD", 
+    "Package Index Owner:": "joey", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Sphinx Windows Share Links (WSL) role extension", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "99a0002879d0308e93ec329ff14cd84d", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sphinxcontrib-smblink/sphinxcontrib-smblink-0.2.tar.gz"
+}

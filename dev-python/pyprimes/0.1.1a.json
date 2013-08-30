@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate and test for prime numbers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pyprimes/", 
+  "info": {
+    "Author:": "Steven D'Aprano", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pyprimes/", 
+    "Keywords:": "prime,primes,math,maths,algorithm,fermat,miller-rabin", 
+    "License:": "MIT", 
+    "Package Index Owner:": "stevenjd"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Generate and test for prime numbers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "212824cab8d011d02ca72a66d468fa23", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyprimes/pyprimes-0.1.1a.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Drop-in replacement for Djangos request.COOKIES", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dcramer/django-cookies", 
+  "info": {
+    "Author:": "David Cramer", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dcramer/django-cookies", 
+    "Package Index Owner:": "dcramer"
+  }, 
+  "license": "", 
+  "longdescription": "Drop-in replacement for Djangos request.COOKIES", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ab53f88ab31c95825cd98fdc6fb2dcc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cookies/django-cookies-0.0.2.tar.gz"
+}

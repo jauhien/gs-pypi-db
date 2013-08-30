@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "lightweight firefox weavesync server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/posativ/weave-minimal/", 
+  "info": {
+    "Author:": "Martin Zimmermann", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "https://github.com/posativ/weave-minimal/", 
+    "License:": "BSD revised", 
+    "Package Index Owner:": "posativ"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "lightweight firefox weavesync server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1bd21f033c6cb8bcd6f85b98541f3ff1", 
+  "source_uri": "https://pypi.python.org/packages/source/w/weave-minimal/weave-minimal-1.1.tar.gz"
+}

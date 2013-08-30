@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mac Finder like view for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/bda.plone.finder", 
+  "info": {
+    "Author:": "Robert Niederreiter", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/bda.plone.finder", 
+    "License:": "GNU General Public Licence", 
+    "Package Index Owner:": "rnix"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Mac Finder like view for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f45491956fdd3b3abec308bec8598d19", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bda.plone.finder/bda.plone.finder-1.1.tar.gz"
+}

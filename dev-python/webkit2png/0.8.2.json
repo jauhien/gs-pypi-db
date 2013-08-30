@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Takes snapshot of webpages using Webkit and Qt4", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/AdamN/python-webkit2png", 
+  "info": {
+    "Author:": "Roland Tapken", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/AdamN/python-webkit2png", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "adamn"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Takes snapshot of webpages using Webkit and Qt4", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b3009ffb6a334a42197e9ceb7031fea", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webkit2png/webkit2png-0.8.2.tar.gz"
+}

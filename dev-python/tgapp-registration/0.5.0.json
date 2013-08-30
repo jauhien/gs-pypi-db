@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pluggable registration application for TurboGears2 with hooks for fine customiation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/_amol_/tgapp-registration", 
+  "info": {
+    "Author:": "Alessandro Molina", 
+    "Home Page:": "http://bitbucket.org/_amol_/tgapp-registration", 
+    "Keywords:": "turbogears2.application", 
+    "Package Index Owner:": "amol"
+  }, 
+  "license": "", 
+  "longdescription": "Pluggable registration application for TurboGears2 with hooks for fine customiation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8cab6fc83a96b5c93d1937cbed94f9a", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tgapp-registration/tgapp-registration-0.5.0.tar.gz"
+}

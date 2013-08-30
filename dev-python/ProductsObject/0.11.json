@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Content type to describe a physical object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "David Jonas", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "contenttype archetypes", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davidjonas"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Content type to describe a physical object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "399461954d574abe3e8c7a79e2270d2c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.Object/Products.Object-0.11.tar.gz"
+}

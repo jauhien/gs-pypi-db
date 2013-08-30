@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python utilities for the GFDLs numerical model MOM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/castelao/mom-utils", 
+  "info": {
+    "Author:": "Guilherme Castelao, Luiz Irber", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/castelao/mom-utils", 
+    "License:": "PSF", 
+    "Package Index Maintainer:": "luizirber", 
+    "Package Index Owner:": "castelao", 
+    "Platform:": "any"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Python utilities for the GFDLs numerical model MOM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64cdc475b277c9517c4ce57cf3593454", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mom-utils/mom-utils-1.1.1.tar.gz"
+}

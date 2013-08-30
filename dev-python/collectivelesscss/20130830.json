@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package allow theme developers to add LESS stylesheets into a Plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.lesscss", 
+  "info": {
+    "Author:": "Victor Fernandez de Alba", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.lesscss", 
+    "Keywords:": "plone zope less css", 
+    "License:": "gpl", 
+    "Package Index Owner:": "sneridagh"
+  }, 
+  "license": "", 
+  "longdescription": "This package allow theme developers to add LESS stylesheets into a Plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b152580dcf7668edb543cf308041468", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.lesscss/collective.lesscss-1.0b2.tar.gz"
+}

@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the Modeling and Simulation (MS) High Level Architecture (HLA)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nongnu.org/certi/PyHLA/index.html", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "http://download.savannah.gnu.org/releases/certi/contrib/PyHLA", 
+    "Home Page:": "http://www.nongnu.org/certi/PyHLA/index.html", 
+    "Keywords:": "HLA", 
+    "License:": "GNU Lesser General Public License (LGPL)", 
+    "Maintainer:": "Petr Gotthard", 
+    "Package Index Owner:": "gotthardp"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for the Modeling and Simulation (MS) High Level Architecture (HLA)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://download.savannah.gnu.org/releases/certi/contrib/PyHLA"
+}

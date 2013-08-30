@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Logcheck configuration recipe", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tha.recipe.logcheck", 
+  "info": {
+    "Author:": "The Health Agency", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/tha.recipe.logcheck", 
+    "License:": "BSD", 
+    "Package Index Owner:": "reinout, jw, janjaapdriessen"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Logcheck configuration recipe", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47c79e8435a263c5d30bbad13814e933", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tha.recipe.logcheck/tha.recipe.logcheck-1.1.tar.gz"
+}

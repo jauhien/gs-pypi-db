@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A recipe that runs any script to install a part.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/z3c.recipe.runscript", 
+  "info": {
+    "Author:": "Stephan Richter and the Zope Community", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/z3c.recipe.runscript", 
+    "Keywords:": "buildout recipe", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "srichter, philikon, ctheune, baijum, chrism, benji, ignas, J1m, projekt01, mgedmin, pcardune, ccomb, chrisw, faassen, hathawsh, nadako, hannosch, icemac, gary, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A recipe that runs any script to install a part.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5f22b4b1777677849d3938e8fb257e2b", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.recipe.runscript/z3c.recipe.runscript-0.1.3.tar.gz"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Some tools for the casual Gentoo user and ebuild dabbler.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://freehg.org/u/ArneBab/babtools_gentoo", 
+  "info": {
+    "Author:": "Arne Babenhauserheide", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://freehg.org/u/ArneBab/babtools_gentoo", 
+    "Keywords:": "Gentoo,local ebuilds,download and digest ebuilds,convenience", 
+    "License:": "GNU GPL-3 or later", 
+    "Package Index Owner:": "ArneBab", 
+    "Platform:": "Any Gentoo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Some tools for the casual Gentoo user and ebuild dabbler.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "53910a8d8dd1c90c4eec9ce1f4267358", 
+  "source_uri": "https://pypi.python.org/packages/source/b/babtools_gentoo/babtools_gentoo-0.4.0.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helpers to bridge different Python envs and OpenOffice.org.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ulif.openoffice", 
+  "info": {
+    "Author:": "Uli Fouquet", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ulif.openoffice", 
+    "Home Page:": "http://pypi.python.org/pypi/ulif.openoffice", 
+    "Keywords:": "openoffice pyuno uno openoffice.org", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ulif"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Helpers to bridge different Python envs and OpenOffice.org.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "719068a17bcbc742d2c92742df18a8d5", 
+  "source_uri": "https://pypi.python.org/packages/source/u/ulif.openoffice/ulif.openoffice-0.4.tar.gz"
+}

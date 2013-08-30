@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python implementation of MapReduce querying for Redis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gleighto/rapmedusa", 
+  "info": {
+    "Author:": "Greg Leighton", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Download URL:": "http://cloud.github.com/downloads/gleighto/rapmedusa/rapmedusa-1.0.tar.gz", 
+    "Home Page:": "http://github.com/gleighto/rapmedusa", 
+    "Keywords:": "Redis,key-value store,MapReduce", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gleighto"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python implementation of MapReduce querying for Redis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://cloud.github.com/downloads/gleighto/rapmedusa/rapmedusa-1.0.tar.gz"
+}

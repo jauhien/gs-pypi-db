@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small dependency injection framework for unit testing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "dependency injection unit testing", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism, chrisrossi"
+  }, 
+  "license": "", 
+  "longdescription": "Small dependency injection framework for unit testing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4f3f268821a04d63566d32424dcd1978", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.depinj/repoze.depinj-0.3.tar.gz"
+}

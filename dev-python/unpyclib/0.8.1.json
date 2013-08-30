@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Libraries for UnPyc - python disassembler and decompiler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://unpyc.sourceforge.net/", 
+  "info": {
+    "Author:": "Dmitri Kornev", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Disassemblers"
+      ]
+    }, 
+    "Home Page:": "http://unpyc.sourceforge.net/", 
+    "Keywords:": "python decompiler disassembler", 
+    "Package Index Owner:": "tswr"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Libraries for UnPyc - python disassembler and decompiler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bcaa006181bd60fe80ba990b6c09056e", 
+  "source_uri": "https://pypi.python.org/packages/source/u/unpyclib/unpyclib-0.8.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Heroku-style command line interface for Dokku", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/adamcharnock/dokku-client", 
+  "info": {
+    "Author:": "Adam Charnock", 
+    "Home Page:": "https://github.com/adamcharnock/dokku-client", 
+    "License:": "MIT", 
+    "Package Index Owner:": "adamcharnock"
+  }, 
+  "license": "", 
+  "longdescription": "Heroku-style command line interface for Dokku", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5676e99d05c4c5241d09806da741f49", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dokku-client/dokku-client-0.2.2.tar.gz"
+}

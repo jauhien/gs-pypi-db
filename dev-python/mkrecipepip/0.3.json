@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use pip from buildout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/k4ml/mk.recipe.pip", 
+  "info": {
+    "Author:": "Kamal Mustafa", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Download URL:": "https://github.com/k4ml/mk.recipe.pip/archive/master.zip#egg=mk.recipe.pip", 
+    "Home Page:": "https://github.com/k4ml/mk.recipe.pip", 
+    "Keywords:": "wsgi buildout", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "k4ml"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Use pip from buildout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b67d082bf53c2ccdc1bd3bc09b46d2f2", 
+  "source_uri": "https://github.com/k4ml/mk.recipe.pip/archive/master.zip#egg=mk.recipe.pip"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "St. Louis Federal Reserve FRED API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zachwill/fred", 
+  "info": {
+    "Author:": "Zach Williams", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zachwill/fred", 
+    "Keywords:": "fred,fred api,federal reserve,st. louis fed", 
+    "License:": "MIT", 
+    "Package Index Owner:": "zachwill"
+  }, 
+  "license": "", 
+  "longdescription": "St. Louis Federal Reserve FRED API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "816d102086459b4d05c4550c725549ba", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fred/fred-3.0.tar.gz"
+}

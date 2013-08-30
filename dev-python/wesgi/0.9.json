@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A WSGI middleware which processes ESI directives", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/wesgi", 
+  "info": {
+    "Author:": "Brian Sutherland", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/wesgi", 
+    "Keywords:": "web middleware wsgi esi", 
+    "Package Index Owner:": "jinty"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A WSGI middleware which processes ESI directives", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "614530c30536a82d06263bf21c65688a", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wesgi/wesgi-0.9.tar.gz"
+}

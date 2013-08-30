@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An alternative to pythons dumbdbm", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jamesls/semidbm", 
+  "info": {
+    "Author:": "James Saryerwinnie", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jamesls/semidbm", 
+    "Keywords:": "semidbm", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jamesls"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An alternative to pythons dumbdbm", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f51604afe2a2e0abef5d10109bca213e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/semidbm/semidbm-0.4.0.tar.gz"
+}

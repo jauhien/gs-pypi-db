@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TiddlyWeb store using Redis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.redisstore", 
+  "info": {
+    "Author:": "Chris Dent", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.redisstore", 
+    "Package Index Owner:": "cdent", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "TiddlyWeb store using Redis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32cdc68f026f77d2311c78be99dc3260", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.redisstore/tiddlywebplugins.redisstore-0.3.tar.gz"
+}

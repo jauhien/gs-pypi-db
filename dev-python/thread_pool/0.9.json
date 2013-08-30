@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implements thread pool with queue module of python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yummybian", 
+  "info": {
+    "Author:": "Yummy Bian", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yummybian", 
+    "Keywords:": "thread pool", 
+    "License:": "BSD", 
+    "Package Index Owner:": "yummy.bian", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Implements thread pool with queue module of python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "732b8505a0250e53c26b101d7554e436", 
+  "source_uri": "https://pypi.python.org/packages/source/t/thread_pool/thread_pool-0.9.tar.gz"
+}

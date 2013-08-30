@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "virtualenvwrapper plugin to manage a project work directory based on a BitBucket repository", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://virtualenvwrapper-bitbucket.readthedocs.org", 
+  "info": {
+    "Author:": "Doug Hellmann", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://virtualenvwrapper-bitbucket.readthedocs.org", 
+    "Package Index Owner:": "doughellmann", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "virtualenvwrapper plugin to manage a project work directory based on a BitBucket repository", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2afb29a0b9a51d19c4ad90a3158e76ae", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtualenvwrapper.bitbucket/virtualenvwrapper.bitbucket-2.0.tar.gz"
+}

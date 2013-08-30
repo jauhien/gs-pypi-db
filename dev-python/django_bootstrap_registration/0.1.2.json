@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library that merges Django auth, registration and Bootstrap", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/SoloTodo/django_bootstrap_registration", 
+  "info": {
+    "Author:": "Vijay Khemlani", 
+    "Home Page:": "https://github.com/SoloTodo/django_bootstrap_registration", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "vkhemlan"
+  }, 
+  "license": "", 
+  "longdescription": "Library that merges Django auth, registration and Bootstrap", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce2903df259b083a6fd44af927bf735c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_bootstrap_registration/django_bootstrap_registration-0.1.2.tar.gz"
+}

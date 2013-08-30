@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manage and automate social publishing on Plone sites", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/simahawk/collective.socialpublisher", 
+  "info": {
+    "Author:": "Simone Orsi [simahawk]", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/simahawk/collective.socialpublisher", 
+    "License:": "GPL", 
+    "Package Index Owner:": "simahawk"
+  }, 
+  "license": "", 
+  "longdescription": "Manage and automate social publishing on Plone sites", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "127845855219f2bb56736de4d2ce5a5f", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.socialpublisher/collective.socialpublisher-1.0a3.zip"
+}

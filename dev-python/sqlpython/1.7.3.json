@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line interface to Oracle", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/sqlpython", 
+  "info": {
+    "Author:": "Luca Canali", 
+    "Documentation:": "http://pythonhosted.org//sqlpython", 
+    "Home Page:": "http://packages.python.org/sqlpython", 
+    "Keywords:": "client oracle database", 
+    "License:": "MIT", 
+    "Package Index Owner:": "catherinedevlin", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Command-line interface to Oracle", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec805982e6736493aaf7dd854189bd56", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlpython/sqlpython-1.7.3.tar.gz"
+}

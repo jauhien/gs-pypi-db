@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A timestamp-based sleep function for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jgillick/python-pause", 
+  "info": {
+    "Author:": "Jeremy Gillick", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jgillick/python-pause", 
+    "Keywords:": "sleep timestamp datetime", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "jgillick", 
+    "Platform:": "osx,posix,linux,windows"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A timestamp-based sleep function for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3102adc238d0d4a221de60febdec6af2", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pause/pause-0.1.2.tar.gz"
+}

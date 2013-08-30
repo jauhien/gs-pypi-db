@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides sticky status messages to members for all the folders in which they are assigned local roles", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/slc.stickystatusmessages", 
+  "info": {
+    "Author:": "JC Brand, Syslab.com GmbH", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/slc.stickystatusmessages", 
+    "Keywords:": "statusmessage status sticky CMFNotification", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jcbrand"
+  }, 
+  "license": "", 
+  "longdescription": "Provides sticky status messages to members for all the folders in which they are assigned local roles", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4fd6bc7859621cd00c67fd9b1ae6c6c0", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slc.stickystatusmessages/slc.stickystatusmessages-0.4.zip"
+}

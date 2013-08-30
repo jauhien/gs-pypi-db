@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django online visitor counter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.metehan.us/", 
+  "info": {
+    "Author:": "Metehan \u00c3\u0096zbek", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ]
+    }, 
+    "Home Page:": "http://www.metehan.us/", 
+    "Keywords:": "django,online counter", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "mthnzbk"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Django online visitor counter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75e93afe0f6cc9529d54896ad476e75b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-online-counter/django-online-counter-1.0.tar.gz"
+}

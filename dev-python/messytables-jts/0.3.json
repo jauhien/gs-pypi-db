@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library for mapping Messytable cell types to strings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martin Keegan", 
+    "License:": "Apache Licence v2.0", 
+    "Package Index Owner:": "mk270"
+  }, 
+  "license": "", 
+  "longdescription": "Python library for mapping Messytable cell types to strings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f420f55f3f8dc3071be00cb37805be8c", 
+  "source_uri": "https://pypi.python.org/packages/source/m/messytables-jts/messytables-jts-0.3.tar.gz"
+}

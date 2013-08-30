@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A nose plugin to display testsuite progress in the notify osd", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/passy/nose-notify", 
+  "info": {
+    "Author:": "Pascal Hartig", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/passy/nose-notify", 
+    "Package Index Owner:": "passy"
+  }, 
+  "license": "", 
+  "longdescription": "A nose plugin to display testsuite progress in the notify osd", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ecfbc71d39a7d1ec15a00bad19f17c95", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-notify/nose-notify-0.4.2.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sphinx extension to include program output", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sphinxcontrib-programoutput.readthedocs.org/", 
+  "info": {
+    "Author:": "Sebastian Wiesner", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sphinxcontrib-programoutput", 
+    "Download URL:": "http://pypi.python.org/pypi/sphinxcontrib-programoutput", 
+    "Home Page:": "http://sphinxcontrib-programoutput.readthedocs.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lunar", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Sphinx extension to include program output", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb0be17ef13f268378b2af51ff413c58", 
+  "source_uri": "http://pypi.python.org/pypi/sphinxcontrib-programoutput"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Contains functionality common to projects that interact with the DataONE infrastructure via Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dataone.org", 
+  "info": {
+    "Author:": "DataONE Project", 
+    "Documentation:": "http://pythonhosted.org//dataone.common", 
+    "Home Page:": "http://dataone.org", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "dataone"
+  }, 
+  "license": "", 
+  "longdescription": "Contains functionality common to projects that interact with the DataONE infrastructure via Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1afadf2c4f033078421d98bcc3cbfea", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dataone.common/dataone.common-1.1.2RC1.tar.gz"
+}

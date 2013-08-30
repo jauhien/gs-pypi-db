@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert rst input to HTML suitable for use with MarsEdit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.doughellmann.com/projects/rst2marsedit/", 
+  "info": {
+    "Author:": "Doug Hellmann", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Download URL:": "http://www.doughellmann.com/downloads/rst2marsedit-1.4.1.tar.gz", 
+    "Home Page:": "http://www.doughellmann.com/projects/rst2marsedit/", 
+    "Package Index Owner:": "doughellmann", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Convert rst input to HTML suitable for use with MarsEdit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62166d6b6b3628ec5a53bb283a5ddcf6", 
+  "source_uri": "http://www.doughellmann.com/downloads/rst2marsedit-1.4.1.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A compiler for PEP 345 environment markers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dholth/markerlib/", 
+  "info": {
+    "Author:": "Daniel Holth", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dholth/markerlib/", 
+    "Keywords:": "packaging pep345", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joeforker"
+  }, 
+  "license": "", 
+  "longdescription": "A compiler for PEP 345 environment markers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc56a59074005dee9ceee5349ba99a89", 
+  "source_uri": "https://pypi.python.org/packages/source/m/markerlib/markerlib-0.6.0.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send metrics to Librato via eroMQ.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zibrato/", 
+  "info": {
+    "Author:": "Rob Martin @version2beta", 
+    "Home Page:": "http://pypi.python.org/pypi/zibrato/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "version2beta"
+  }, 
+  "license": "", 
+  "longdescription": "Send metrics to Librato via eroMQ.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73f88f8a3e0ab6b73ac09dfde37345ad", 
+  "source_uri": "https://pypi.python.org/packages/source/Z/Zibrato/Zibrato-0.2.0.tar.gz"
+}

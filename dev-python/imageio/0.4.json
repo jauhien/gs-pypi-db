@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for reading and writing a wide range of image formats.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://imageio.readthedocs.org", 
+  "info": {
+    "Author:": "imageio contributers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/imageio", 
+    "Home Page:": "http://imageio.readthedocs.org", 
+    "Keywords:": "FreeImage image imread imsave io animation volume", 
+    "License:": "(new) BSD", 
+    "Package Index Owner:": "Almar", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Library for reading and writing a wide range of image formats.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c13990df6959f1a5ed29b26b1ed6d789", 
+  "source_uri": "http://pypi.python.org/pypi/imageio"
+}

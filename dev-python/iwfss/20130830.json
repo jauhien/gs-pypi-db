@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Archetypes storage for storing fields raw values on the file system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/iw.fss/", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/iw.fss/", 
+    "Keywords:": "fss plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "Archetypes storage for storing fields raw values on the file system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0e3afc59d784100b2d981ecb31a06a5", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iw.fss/iw.fss-2.8.0rc5.tar.gz"
+}

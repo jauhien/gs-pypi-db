@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Self-contained ISO 3166-1 country definitions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/deactivated/python-iso3166", 
+  "info": {
+    "Author:": "Mike Spindel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/deactivated/python-iso3166", 
+    "Keywords:": "iso 3166-1 country codes", 
+    "License:": "MIT", 
+    "Package Index Owner:": "deactivated"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Self-contained ISO 3166-1 country definitions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a411d92fa3ff90d648d191e5200c705d", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iso3166/iso3166-0.4.tar.gz"
+}

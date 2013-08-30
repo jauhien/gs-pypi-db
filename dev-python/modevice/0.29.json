@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Moilla-authored device management", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+  "info": {
+    "Author:": "Mozilla Automation and Testing Team", 
+    "Home Page:": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+    "License:": "MPL", 
+    "Package Index Owner:": "mdas, edmorley, k0s, ctalbert, jgriffin, David.Burns, ahal, elvis314, markrcote, whimboo, wlach, davehunt"
+  }, 
+  "license": "", 
+  "longdescription": "Moilla-authored device management", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71e2ffe64361229b9098b04b700c419c", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozdevice/mozdevice-0.29.tar.gz"
+}

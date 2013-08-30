@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "distributed command execution", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sfermigier/tentakel", 
+  "info": {
+    "Author:": "Stefane Fermigier", 
+    "Home Page:": "https://github.com/sfermigier/tentakel", 
+    "License:": "BSD", 
+    "Package Index Owner:": "sfermigier", 
+    "Platform:": "All that support threading"
+  }, 
+  "license": "", 
+  "longdescription": "distributed command execution", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0865f1bcedcf363994780dc6b8e1d65e", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tentakel/tentakel-2.3.zip"
+}

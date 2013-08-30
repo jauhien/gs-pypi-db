@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatic reporting tool for Taskwarrior", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alicia BEL & Thibaut HOREL", 
+    "Categories": {
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//taskreport", 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "Alicia, Thibaut"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Automatic reporting tool for Taskwarrior", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c1dc6370b2e7cebabfb1b7950a202cc", 
+  "source_uri": "https://pypi.python.org/packages/source/t/taskreport/taskreport-1.2.1.tar.gz"
+}

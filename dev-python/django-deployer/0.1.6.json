@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django deployment tool for popular PaaS providers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://natea.github.io/django-deployer", 
+  "info": {
+    "Author:": "Nate Aune", 
+    "Home Page:": "http://natea.github.io/django-deployer", 
+    "Keywords:": "PaaS Django Dotcloud Stackato Heroku Gondor AWS OpenShift GAE appengine fabric deployment", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nateaune"
+  }, 
+  "license": "", 
+  "longdescription": "Django deployment tool for popular PaaS providers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c564eea6a2fbe2fe3afcec2493444d57", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-deployer/django-deployer-0.1.6.tar.gz"
+}

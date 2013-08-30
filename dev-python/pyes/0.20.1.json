@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Elastic Search driver", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/aparo/pyes/", 
+  "info": {
+    "Author:": "Alberto Paro", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Indexing/Search"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyes", 
+    "Home Page:": "http://github.com/aparo/pyes/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Alberto.Paro", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python Elastic Search driver", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eb4bd2db6ff9f9ae57c214d7a8a5e84f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyes/pyes-0.20.1.tar.gz"
+}

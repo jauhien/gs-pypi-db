@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Anonymous users must provide a valid email to download the file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/protected-file", 
+  "info": {
+    "Author:": "Jarn & Simula Research Laboratory", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/protected-file", 
+    "Keywords:": "file", 
+    "License:": "GPL", 
+    "Package Index Owner:": "martior, tesdal, stefanholek"
+  }, 
+  "license": "", 
+  "longdescription": "Anonymous users must provide a valid email to download the file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4e4d8bf14f8394e663034349973aa89", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ProtectedFile/Products.ProtectedFile-0.1.1.zip"
+}

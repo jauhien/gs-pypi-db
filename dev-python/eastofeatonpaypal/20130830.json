@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A ca utility providing the paypal API for plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Cris Ewing", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "paypal plone zope utility", 
+    "License:": "gpl", 
+    "Package Index Owner:": "me.eleddy.com"
+  }, 
+  "license": "", 
+  "longdescription": "A ca utility providing the paypal API for plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f8a533a22995218ecc896942df31e84b", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eastofeaton.paypal/eastofeaton.paypal-1.0a1.tar.gz"
+}

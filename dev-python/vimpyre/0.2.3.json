@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Vim Scripts Manager (use pathogen, git, and python)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Daniel Lin", 
+    "Keywords:": "vim scripts manager", 
+    "Package Index Owner:": "pct"
+  }, 
+  "license": "", 
+  "longdescription": "Vim Scripts Manager (use pathogen, git, and python)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e80f93459f6aa6bd4f65df7b503efed", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vimpyre/vimpyre-0.2.3.tar.gz"
+}

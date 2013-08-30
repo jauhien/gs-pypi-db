@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django transaction integration for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.django", 
+  "info": {
+    "Author:": "Simone Deponti", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.django", 
+    "License:": "BSD", 
+    "Package Index Owner:": "simone.deponti, vangheem"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django transaction integration for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "42f2860a38c5b8a66ce6d8d58bc080f2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.django/collective.django-0.2.zip"
+}

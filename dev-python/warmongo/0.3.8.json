@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JSON-Schema-based ORM for MongoDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/robbrit/warmongo", 
+  "info": {
+    "Author:": "Rob Britton", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://github.com/robbrit/warmongo", 
+    "Keywords:": "mongodb,jsonschema", 
+    "Package Index Owner:": "robbrit"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "JSON-Schema-based ORM for MongoDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5b3eaeb8d682cbb5a4cf3957586c935", 
+  "source_uri": "https://pypi.python.org/packages/source/w/warmongo/warmongo-0.3.8.tar.gz"
+}

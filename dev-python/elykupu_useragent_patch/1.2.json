@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "remove user agent test from the test for isKupuEnabled", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Matt Halstead", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "plone kupu", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "dunny", 
+    "Package Index Owner:": "matthalstead, dunny"
+  }, 
+  "license": "", 
+  "longdescription": "remove user agent test from the test for isKupuEnabled", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2846992fb6ed330e56e5973e971fb0c3", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ely.kupu_useragent_patch/ely.kupu_useragent_patch-1.2.tar.gz"
+}

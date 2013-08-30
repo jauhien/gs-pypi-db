@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a version of OptionParser that allows parsing from .ini files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://k0s.org", 
+  "info": {
+    "Author:": "Jeff Hammel", 
+    "Home Page:": "http://k0s.org", 
+    "Keywords:": "ini cli", 
+    "License:": "MPL", 
+    "Package Index Owner:": "k0s"
+  }, 
+  "license": "", 
+  "longdescription": "a version of OptionParser that allows parsing from .ini files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4c66d99a6f220d3a810583342378624", 
+  "source_uri": "https://pypi.python.org/packages/source/C/ConfigOptionParser/ConfigOptionParser-0.1.tar.gz"
+}

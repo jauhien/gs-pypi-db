@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-all-access is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0 providers such as Twitter and Facebook.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mlavin/django-all-access", 
+  "info": {
+    "Author:": "Mark Lavin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mlavin/django-all-access", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mlavin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-all-access is a reusable application for user registration and authentication from OAuth 1.0 and OAuth 2.0 providers such as Twitter and Facebook.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "405ea990f864d215a1f40e20f11e865d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-all-access/django-all-access-0.5.0.tar.gz"
+}

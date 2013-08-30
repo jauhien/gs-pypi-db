@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Quick and small memcached client for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sendapatch.se/projects/pylibmc/", 
+  "info": {
+    "Author:": "Ludvig Ericson", 
+    "Home Page:": "http://sendapatch.se/projects/pylibmc/", 
+    "License:": "3-clause BSD <http://www.opensource.org/licenses/bsd-license.php>", 
+    "Package Index Owner:": "toxik"
+  }, 
+  "license": "", 
+  "longdescription": "Quick and small memcached client for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bfdcfef66a1bf260a65d2ffdcdd68466", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pylibmc/pylibmc-1.2.3.tar.gz"
+}

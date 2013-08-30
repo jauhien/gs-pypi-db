@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A highly opinionated drop-in library for static file management in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ericflo/django-simplestatic", 
+  "info": {
+    "Author:": "Eric Florenzano", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ericflo/django-simplestatic", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ericflo"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A highly opinionated drop-in library for static file management in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed799c171945905e53d147eca77ec047", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-simplestatic/django-simplestatic-0.0.5.tar.gz"
+}

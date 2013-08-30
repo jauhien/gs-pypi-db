@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of recipes to publish metadata", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "alexamici"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A collection of recipes to publish metadata", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f2f0b451adc4069648477482a3ecbf5", 
+  "source_uri": "https://pypi.python.org/packages/source/s/smithery.recipe.smiths/smithery.recipe.smiths-0.3.tar.gz"
+}

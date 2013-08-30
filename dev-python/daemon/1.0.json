@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for running Python programs as Unix daemons.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ]
+    }, 
+    "Keywords:": "daemon, daemonize, background, pidfile", 
+    "Maintainer:": "Steven Hazel", 
+    "Package Index Owner:": "sah"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A library for running Python programs as Unix daemons.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b0bebffc51965a66ec4a4bc1006fa90b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/daemon/daemon-1.0.tar.gz"
+}

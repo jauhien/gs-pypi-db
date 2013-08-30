@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Autonomous Robot Simulator (ARS), a physically-accurate open-source simulation suite for research and development of mobile manipulators", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/glarrain/ars", 
+  "info": {
+    "Author:": "German Larrain", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Visualization"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ARS", 
+    "Home Page:": "http://bitbucket.org/glarrain/ars", 
+    "Keywords:": "simulator robotics physics open-dynamics-engine vtk", 
+    "License:": "BSD", 
+    "Package Index Owner:": "glarrain"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Autonomous Robot Simulator (ARS), a physically-accurate open-source simulation suite for research and development of mobile manipulators", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8de78b5292a0b854dc9cb2dfca863e4a", 
+  "source_uri": "https://pypi.python.org/packages/source/A/ARS/ARS-0.4a1.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe to execute a commande line", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/iw-recipes", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/iw-recipes", 
+    "Keywords:": "buildout recipe", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "C Buildout recipe to execute a commande line", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c15c0b9cd9486531cf6d1a3d521cb3a8", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iw.recipe.cmd/iw.recipe.cmd-0.3.tar.gz"
+}

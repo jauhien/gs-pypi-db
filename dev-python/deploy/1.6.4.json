@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy deploy Python WSGI apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ondrejsika.com/docs/deploy", 
+  "info": {
+    "Author:": "Ondrej Sika", 
+    "Download URL:": "https://github.com/sikaondrej/deploy", 
+    "Home Page:": "http://ondrejsika.com/docs/deploy", 
+    "License:": "GNU LGPL v.3", 
+    "Package Index Owner:": "sika"
+  }, 
+  "license": "", 
+  "longdescription": "Easy deploy Python WSGI apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7f4a6f8930d45a3b6b18b21dd92df6d", 
+  "source_uri": "https://github.com/sikaondrej/deploy"
+}

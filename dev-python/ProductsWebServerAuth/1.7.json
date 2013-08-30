@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Delegates Plones authentication concerns to a web server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/webserverauth", 
+  "info": {
+    "Author:": "WebLion Group, Penn State", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/webserverauth", 
+    "Keywords:": "web zope plone authentication pas zope2", 
+    "License:": "GPL", 
+    "Package Index Owner:": "erikrose, esteele, pumazi, cah190"
+  }, 
+  "license": "", 
+  "longdescription": "Delegates Plones authentication concerns to a web server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d3025627d9b57783b922727ddc99c767", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.WebServerAuth/Products.WebServerAuth-1.7.tar.gz"
+}

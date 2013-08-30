@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LESS middleware for TurboGears2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/clsdaniel/tgext.less", 
+  "info": {
+    "Author:": "Carlos Daniel Ruvalcaba Valenzuela", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "TurboGears"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/clsdaniel/tgext.less", 
+    "Keywords:": "turbogears2.extension LESS WSGI jinja2.extension", 
+    "License:": "MIT", 
+    "Package Index Owner:": "clsdaniel"
+  }, 
+  "license": "", 
+  "longdescription": "LESS middleware for TurboGears2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf1f7514e4ecd919bb078430b3a79d7b", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tgext.less/tgext.less-0.3.1.tar.gz"
+}

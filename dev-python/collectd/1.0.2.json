@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "library for sending statistics over UDP to collectd servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/appliedsec/collectd", 
+  "info": {
+    "Author:": "Eli Courtwright", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking", 
+        "Monitoring"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//collectd", 
+    "Download URL:": "https://github.com/downloads/appliedsec/collectd/collectd-1.0.2.tar.gz", 
+    "Home Page:": "https://github.com/appliedsec/collectd", 
+    "License:": "BSD", 
+    "Package Index Owner:": "EliAndrewC"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "library for sending statistics over UDP to collectd servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://github.com/downloads/appliedsec/collectd/collectd-1.0.2.tar.gz"
+}

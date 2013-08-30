@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PAS plugin that authenticates by ip address", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.upfrontsystems.co.za/", 
+  "info": {
+    "Author:": "Izak Burger", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "http://www.upfrontsystems.co.za/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "isburger"
+  }, 
+  "license": "", 
+  "longdescription": "PAS plugin that authenticates by ip address", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82dab7c83fce27b75674fb6340daa943", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PASIPAuth/Products.PASIPAuth-0.2.tar.gz"
+}

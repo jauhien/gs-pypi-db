@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Interface to Linux inotify subsystem", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/JanKanis/python-inotify", 
+  "info": {
+    "Author:": "Jan Kanis", 
+    "Home Page:": "https://bitbucket.org/JanKanis/python-inotify", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "JanKanis", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "Interface to Linux inotify subsystem", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b77f96de061cea2bfffeb950114efec", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-inotify/python-inotify-0.6-test.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "encode data into base-62 encoding", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tahoe-lafs.org/trac/zbase62", 
+  "info": {
+    "Author:": "Zooko O'Whielacronx", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://tahoe-lafs.org/trac/zbase62", 
+    "License:": "GNU GPL", 
+    "Package Index Owner:": "zooko"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "encode data into base-62 encoding", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "914261377d04f98ac09a9459483ee4e5", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zbase62/zbase62-1.2.0.tar.gz"
+}

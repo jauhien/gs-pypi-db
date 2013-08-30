@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Resolves strings containing dotted names into their objects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Chris Withers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "License:": "MIT", 
+    "Package Index Owner:": "chrisw"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Resolves strings containing dotted names into their objects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c66fe4f7a5847d6c93eaddc3e35ad7b8", 
+  "source_uri": "https://pypi.python.org/packages/source/r/resolve/resolve-1.0.0.tar.gz"
+}

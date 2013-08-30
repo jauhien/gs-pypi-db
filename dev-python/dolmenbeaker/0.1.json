@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An implementation of a ope session, using beaker.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.dolmen-project.org", 
+  "info": {
+    "Author:": "Souheil Chelfouh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.dolmen-project.org", 
+    "Keywords:": "Zope3 Session,Grok Dolmen", 
+    "License:": "GPL", 
+    "Package Index Owner:": "trollfot, cklinger", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "An implementation of a ope session, using beaker.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3098f8b5d99afa768253a21c3b95c3e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dolmen.beaker/dolmen.beaker-0.1.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allow importing files through the web, by adding urls to pythonpath", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://urlimport.codeshift.net/", 
+  "info": {
+    "Author:": "alex bodnaru", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "http://urlimport.codeshift.net/", 
+    "Keywords:": "python import remote modules http https ftp perforce", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "jurev", 
+    "Package Index Owner:": "Alex.Bodnaru", 
+    "Platform:": "ALL"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Allow importing files through the web, by adding urls to pythonpath", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ee27bfbc2779d93dbc525db3b97ed783", 
+  "source_uri": "https://pypi.python.org/packages/source/u/urlimport/urlimport-0.86c-dev.tar.gz"
+}

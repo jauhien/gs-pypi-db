@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a Python ORM supporting many RDBMS backends", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://skunkweb.org/pydo2.html", 
+  "info": {
+    "Author:": "Jacob Smullyan", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "SQL"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://skunkweb.org/pydo2.html", 
+    "Keywords:": "ORM,database,SkunkWeb", 
+    "License:": "GPL/BSD", 
+    "Package Index Owner:": "smulloni", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "a Python ORM supporting many RDBMS backends", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "149ed1ff8c85cd16fde324afacf036b8", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyDO/PyDO-2.0.1.tar.gz"
+}

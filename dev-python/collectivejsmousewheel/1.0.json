@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add JQuery Mousewheel plugin to the Plone CMS resource registry", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.js.mousewheel", 
+  "info": {
+    "Author:": "JeanMichel FRANCOIS aka toutpt", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.js.mousewheel", 
+    "License:": "GPL", 
+    "Package Index Owner:": "toutpt"
+  }, 
+  "license": "", 
+  "longdescription": "Add JQuery Mousewheel plugin to the Plone CMS resource registry", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a2620198b9fac224c14aa6b940e211a3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.js.mousewheel/collective.js.mousewheel-1.0.tar.gz"
+}

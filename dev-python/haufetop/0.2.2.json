@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Real-time ope request analysis based on haufe.requestmonitoring", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "License:": "ZPL (see LICENSE.txt)", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "", 
+  "longdescription": "Real-time ope request analysis based on haufe.requestmonitoring", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "055426db0c69027e65661f59c46a52f9", 
+  "source_uri": "https://pypi.python.org/packages/source/h/haufe.ztop/haufe.ztop-0.2.2.tar.gz"
+}

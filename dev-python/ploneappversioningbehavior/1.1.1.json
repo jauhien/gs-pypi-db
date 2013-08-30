@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a behavior for using CMFEditions with dexterity content types", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/dexterity", 
+  "info": {
+    "Author:": "Jonas Baumann, 4teamwork GmbH", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/dexterity", 
+    "Keywords:": "plone dexterity behavior versioning CMFEditions", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "timo, ramon.nb, esteele, jone, optilude, davisagli, 4teamwork, deo, laurencerowe, buchi"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Provides a behavior for using CMFEditions with dexterity content types", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae7a574139626cfdf47b116ee6aa4623", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.versioningbehavior/plone.app.versioningbehavior-1.1.1.zip"
+}

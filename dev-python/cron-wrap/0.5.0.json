@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A cron job wrapper used to suppress output", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://stuffivelearned.org/doku.php?id=programming:python:cwrap", 
+  "info": {
+    "Author:": "Jay Deiman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://stuffivelearned.org/doku.php?id=programming:python:cwrap", 
+    "Package Index Owner:": "crustymonkey"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A cron job wrapper used to suppress output", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "048dee9b51fdfffc7f7e3b779e7d8bea", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cron-wrap/cron-wrap-0.5.0.tar.gz"
+}

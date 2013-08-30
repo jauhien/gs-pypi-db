@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a Python dictionary-like interface to the Windows Registry", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.infinidat.com", 
+  "info": {
+    "Author:": "Arnon Yaari", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.infinidat.com", 
+    "License:": "PSF", 
+    "Package Index Owner:": "infinidat, guyr"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "a Python dictionary-like interface to the Windows Registry", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f11731c874c7505c6cf25ab2e1fd120", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infi.registry/infi.registry-0.1.11.tar.gz"
+}

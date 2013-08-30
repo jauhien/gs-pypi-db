@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates a .graphml file from the users followers and the following relations between them.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/alumbreras/twitter-followers-graph", 
+  "info": {
+    "Author:": "Alberto Lumbreras", 
+    "Home Page:": "https://bitbucket.org/alumbreras/twitter-followers-graph", 
+    "Keywords:": "twitter followers graph", 
+    "License:": "GPL", 
+    "Maintainer:": "Alberto Lumbreras", 
+    "Package Index Owner:": "alberto.lumbreras", 
+    "Platform:": "Linux, MacOSX, Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Creates a .graphml file from the users followers and the following relations between them.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08a350bd9895b6b0a232f74de45a1d90", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TwitterFollowersGraph/TwitterFollowersGraph-1.0.tar.gz"
+}

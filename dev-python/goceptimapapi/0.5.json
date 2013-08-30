@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Object-oriented API for accessing IMAP accounts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "gocept gmbh & co. kg", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ckauhaus, DanielHavlikGocept, sweh, icemac, zagy, ctheune, wosc, tlotze"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Object-oriented API for accessing IMAP accounts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "97272b43917378afb415f6d9cfc18f1a", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.imapapi/gocept.imapapi-0.5.tar.gz"
+}

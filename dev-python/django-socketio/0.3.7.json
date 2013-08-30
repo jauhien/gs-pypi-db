@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app providing the features required to use websockets with Django via Socket.IO", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/stephenmcd/django-socketio", 
+  "info": {
+    "Author:": "Stephen McDonald", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://github.com/stephenmcd/django-socketio", 
+    "Package Index Owner:": "stephenmcd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app providing the features required to use websockets with Django via Socket.IO", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a30478ba62b1929a766405218847df0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-socketio/django-socketio-0.3.7.tar.gz"
+}

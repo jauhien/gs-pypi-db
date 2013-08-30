@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MongoDB loader for Thumbor (no GridFS)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dhardy92/thumbor_hbase", 
+  "info": {
+    "Author:": "Damien Hardy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Graphics", 
+        "Presentation"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dhardy92/thumbor_hbase", 
+    "Keywords:": "thumbor,mongodb,images", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dhardy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "MongoDB loader for Thumbor (no GridFS)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "34debca4331a1c47bcfc2077f25eed23", 
+  "source_uri": "https://pypi.python.org/packages/source/t/thumbor_mongodb/thumbor_mongodb-0.1.tar.gz"
+}

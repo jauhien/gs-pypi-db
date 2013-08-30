@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A dead simple dotfiles backup tool.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.jakebasile.com/projects/dotback/", 
+  "info": {
+    "Author:": "Jake Basile", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://www.jakebasile.com/downloads/dotback-0.1.tar.gz", 
+    "Home Page:": "http://www.jakebasile.com/projects/dotback/", 
+    "Package Index Owner:": "jakebasile"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A dead simple dotfiles backup tool.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.jakebasile.com/downloads/dotback-0.1.tar.gz"
+}

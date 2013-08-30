@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add a prompt on selected workflow transitions for the user to enter a comment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.wfcomment", 
+  "info": {
+    "Author:": "Thomas Desvenain", 
+    "Bug Tracker:": "http://github.com/collective/collective.wfcomment/issues", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.wfcomment", 
+    "Keywords:": "Plone workflow comment", 
+    "License:": "GPL", 
+    "Package Index Owner:": "saily, optilude, tdesvenain"
+  }, 
+  "license": "", 
+  "longdescription": "Add a prompt on selected workflow transitions for the user to enter a comment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6575b5e267eaa02608a8545427191ed", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.wfcomment/collective.wfcomment-2.1.5.zip"
+}

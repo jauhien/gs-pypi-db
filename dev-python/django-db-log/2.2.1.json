@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Exception Logging to a Database in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dcramer/django-db-log", 
+  "info": {
+    "Author:": "David Cramer", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dcramer/django-db-log", 
+    "Package Index Maintainer:": "brosner", 
+    "Package Index Owner:": "dcramer"
+  }, 
+  "license": "", 
+  "longdescription": "Exception Logging to a Database in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "83c213ad9a4b82e04e39883664774635", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-db-log/django-db-log-2.2.1.tar.gz"
+}

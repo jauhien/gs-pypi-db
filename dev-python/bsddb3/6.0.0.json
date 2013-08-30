@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface for Berkeley DB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.jcea.es/programacion/pybsddb.htm", 
+  "info": {
+    "Author:": "Jesus Cea, Robin Dunn, Gregory P. Smith, Andrew Kuchling, Barry Warsaw", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "Spanish"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "System", 
+        "Clustering"
+      ]
+    }, 
+    "Home Page:": "http://www.jcea.es/programacion/pybsddb.htm", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jcea"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python interface for Berkeley DB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5c963bb3bcb1fe92cd195bf056aa28c2", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bsddb3/bsddb3-6.0.0.tar.gz"
+}

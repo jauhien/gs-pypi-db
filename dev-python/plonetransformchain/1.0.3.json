@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hook into repoe.ope2 that allows third party packages to register a sequence of hooks that will be allowed to modify the response before it is returned to the browser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.transformchain", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.transformchain", 
+    "Keywords:": "zope2 repoze transform", 
+    "License:": "BSD", 
+    "Package Index Owner:": "davisagli, optilude, esteele"
+  }, 
+  "license": "", 
+  "longdescription": "Hook into repoe.ope2 that allows third party packages to register a sequence of hooks that will be allowed to modify the response before it is returned to the browser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5fb7ca894249e3e666501c4fae52a6c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.transformchain/plone.transformchain-1.0.3.zip"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for generating xkcd style passwords.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/beala/xkcd-password", 
+  "info": {
+    "Author:": "Alex Beal", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Security"
+      ]
+    }, 
+    "Home Page:": "https://github.com/beala/xkcd-password", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "beala"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A tool for generating xkcd style passwords.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b876eb9416bf53b753c17100f89703b", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xkpa/xkpa-0.1.3.tar.gz"
+}

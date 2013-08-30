@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "binary diff and patch using the BSDIFF4-format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ilanschnell/bsdiff4", 
+  "info": {
+    "Author:": "Ilan Schnell", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ilanschnell/bsdiff4", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ilanschnell"
+  }, 
+  "license": "", 
+  "longdescription": "binary diff and patch using the BSDIFF4-format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "29f6089290505fc1a852e176bd276c43", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bsdiff4/bsdiff4-1.1.4.tar.gz"
+}

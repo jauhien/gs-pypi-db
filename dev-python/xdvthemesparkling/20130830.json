@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An xdv Theme for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://laplone.org", 
+  "info": {
+    "Author:": "Michael Miller & Mike Duggan", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://laplone.org", 
+    "Keywords:": "plone xdv theme skin laplone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mmiller"
+  }, 
+  "license": "", 
+  "longdescription": "An xdv Theme for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b9373c74920b35e5b9b65c7a936c74f", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xdvtheme.sparkling/xdvtheme.sparkling-1.0-beta.zip"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of Reed-Muller codes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.site.uottawa.ca/~mraap046", 
+  "info": {
+    "Author:": "Sebastian Raaphorst", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.site.uottawa.ca/~mraap046", 
+    "Keywords:": "reed-muller reed muller code codes coding design error-correcting binary", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "vorpal"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Implementation of Reed-Muller codes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "846bbd64ff2ae86575df6f2d909c7227", 
+  "source_uri": "https://pypi.python.org/packages/source/r/reedmuller/reedmuller-1.0.0.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package for aerospace simulation in Modelica", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "git@github.com:arktools/openfdm.git", 
+  "info": {
+    "Author:": "James Goppert", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "git@github.com:arktools/openfdm.git", 
+    "Keywords:": "modelica dymola openmodelica mat fdm aerospace flight dynamic model", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "jgoppert"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A package for aerospace simulation in Modelica", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15c7cfa9ef134073edf288f0e4ab184c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyOpenFDM/PyOpenFDM-0.0.1.tar.gz"
+}

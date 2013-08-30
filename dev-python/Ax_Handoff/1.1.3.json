@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy secure protocol for passing encrypted structured data over unencrypted channels (such as URLs) while maintaining tamper-proof integrity.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/dkamins/ax_handoff/", 
+  "info": {
+    "Author:": "Dan Kamins", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/dkamins/ax_handoff/", 
+    "Keywords:": "encryption,cryptography,single-sign-on,SSO,distributed,handoff,url", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dkamins"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Easy secure protocol for passing encrypted structured data over unencrypted channels (such as URLs) while maintaining tamper-proof integrity.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "25f1685f172cd49776d8e3c96aed9cdb", 
+  "source_uri": "https://pypi.python.org/packages/source/A/Ax_Handoff/Ax_Handoff-1.1.3.tar.gz"
+}

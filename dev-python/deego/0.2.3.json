@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "deego is a vm manager that is dead simple", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://heynemann.github.com/deego/", 
+  "info": {
+    "Author:": "Bernardo Heynemann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://heynemann.github.com/deego/", 
+    "Keywords:": "virtualization vm lxc vmware virtualbox", 
+    "License:": "MIT", 
+    "Package Index Owner:": "heynemann"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "deego is a vm manager that is dead simple", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae6c4f9bfb1e086ea0ac96ea5e7abb56", 
+  "source_uri": "https://pypi.python.org/packages/source/d/deego/deego-0.2.3.tar.gz"
+}

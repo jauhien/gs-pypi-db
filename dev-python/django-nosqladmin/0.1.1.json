@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An introspective interface for Django and Document Based NoSQL databases", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pydanny/django-nosqladmin", 
+  "info": {
+    "Author:": "Daniel Greenfeld", 
+    "Categories": {
+      "Development Status": [
+        "7 - Inactive"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pydanny/django-nosqladmin", 
+    "Keywords:": "mongodb,django,nosql", 
+    "License:": "MIT", 
+    "Package Index Owner:": "pydanny"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An introspective interface for Django and Document Based NoSQL databases", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f0dc67ea309610ec73fc857c4060a05", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-nosqladmin/django-nosqladmin-0.1.1.tar.gz"
+}

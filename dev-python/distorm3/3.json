@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The goal of diStorm3 is to decode x86AMD64 binary streams and return a structure that describes each instruction.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/distorm/", 
+  "info": {
+    "Author:": "Gil Dabah", 
+    "Bug Tracker:": "https://code.google.com/p/distorm/issues/list", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 or later (LGPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/distorm/", 
+    "Home Page:": "http://code.google.com/p/distorm/", 
+    "Maintainer:": "Gil Dabah", 
+    "Package Index Owner:": "mvilas"
+  }, 
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)", 
+  "longdescription": "The goal of diStorm3 is to decode x86AMD64 binary streams and return a structure that describes each instruction.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb5be6b7787e6b372cdff3f1ed7ec2fd", 
+  "source_uri": "http://code.google.com/p/distorm/"
+}

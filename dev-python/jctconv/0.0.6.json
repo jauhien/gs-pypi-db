@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rapidly interconverting hiragana, katakana, halfwidth (hankaku) characters and fullwidth (enkaku) characters.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://gist.github.com/ikegami-yukino/4750124", 
+  "info": {
+    "Author:": "Yukino Ikegami", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "Japanese"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://gist.github.com/ikegami-yukino/4750124", 
+    "Keywords:": "japanese converter,hiragana,katakana,half-width kana", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "yukino", 
+    "Platform:": "POSIX,Windows,Unix,MacOS"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Rapidly interconverting hiragana, katakana, halfwidth (hankaku) characters and fullwidth (enkaku) characters.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6cfdf9035ff2691d2916cc3bbfd8bcec", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jctconv/jctconv-0.0.6.tar.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Partial application of Python methods.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "cooking partial curry optimization ast pickle", 
+    "License:": "BSD", 
+    "Package Index Owner:": "malthe"
+  }, 
+  "license": "", 
+  "longdescription": "Partial application of Python methods.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64a2232ee160c8c39bf992c2bb159098", 
+  "source_uri": "https://pypi.python.org/packages/source/c/curry/curry-0.2.tar.gz"
+}

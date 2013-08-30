@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A variant of the enum package that supports pickling.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://software.sandia.gov/svn/public/pyutilib/pyutilib.enum", 
+  "info": {
+    "Author:": "William E. Hart", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Unix Shell"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://software.sandia.gov/svn/public/pyutilib/pyutilib.enum", 
+    "Keywords:": "utility", 
+    "License:": "BSD/PSF/GPL", 
+    "Package Index Owner:": "whart111", 
+    "Platform:": "any"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "A variant of the enum package that supports pickling.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "800f63cf7048ca3f8400ee6c8c1e5cb9", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyutilib.enum/pyutilib.enum-1.2.tar.gz"
+}

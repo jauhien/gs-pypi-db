@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to force catalog queries to obey the current navigation root", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.rooter", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.rooter", 
+    "Keywords:": "plone navigation root", 
+    "License:": "GPL", 
+    "Package Index Owner:": "optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Tools to force catalog queries to obey the current navigation root", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff6b9fdcb5044882d489af09958f0309", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.rooter/collective.rooter-1.0b1.tar.gz"
+}

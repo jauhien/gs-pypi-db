@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Locate the path of a specific python module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mattrobenolt/whichpkg", 
+  "info": {
+    "Author:": "Matt Robenolt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mattrobenolt/whichpkg", 
+    "Package Index Owner:": "mattrobenolt"
+  }, 
+  "license": "", 
+  "longdescription": "Locate the path of a specific python module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4e999a3d2b99f1b10084bfff5c38f37", 
+  "source_uri": "https://pypi.python.org/packages/source/w/whichpkg/whichpkg-0.3.0.tar.gz"
+}

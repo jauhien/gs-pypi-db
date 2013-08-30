@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Satchmo gateway for the Colombian pagosonline service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jeasas/pagosonline", 
+  "info": {
+    "Author:": "Mauricio Mercado", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jeasas/pagosonline", 
+    "Keywords:": "satchmo pagosonline", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ariel.Nunez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Satchmo gateway for the Colombian pagosonline service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a2ef86b6c5fa8210c2be04dc1987f179", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pagosonline/pagosonline-0.5.2.tar.gz"
+}

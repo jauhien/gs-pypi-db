@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A desktop gmail notifier for Ubuntu OS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Owais Lone", 
+    "Categories": {
+      "Environment": [
+        "X11 Applications", 
+        "Gnome"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Desktop Environment", 
+        "Gnome"
+      ]
+    }, 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "owaislone"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A desktop gmail notifier for Ubuntu OS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3ed63bde4f39a8cc506a0addaf4d325", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gmailwatcher/gmailwatcher-11.10.19.tar.gz"
+}

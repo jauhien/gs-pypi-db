@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Bindings for Peter Gutmanns cryptlib library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trevp.net/cryptlibConverter/", 
+  "info": {
+    "Author:": "Trevor Perrin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Download URL:": "http://trevp.net/cryptlibConverter/", 
+    "Home Page:": "http://trevp.net/cryptlibConverter/", 
+    "Keywords:": "SSL, SSH, X.509, S/MIME, PGP, PRNG, cryptography", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "trevp"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Python Bindings for Peter Gutmanns cryptlib library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://trevp.net/cryptlibConverter/"
+}

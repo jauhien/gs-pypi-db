@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library of functions to batch download files from PACER.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.uchicagolawandecon.org/research/tools/", 
+  "info": {
+    "Author:": "CSI-LE", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "Free To Use But Restricted"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.uchicagolawandecon.org/research/tools/", 
+    "License:": "Python Software Foundation License", 
+    "Package Index Owner:": "cyzhang"
+  }, 
+  "license": "Free To Use But Restricted", 
+  "longdescription": "A library of functions to batch download files from PACER.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66b5967b044710f1018e9853581f6954", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pacer-scraper-library/pacer-scraper-library-1.0a.tar.gz"
+}

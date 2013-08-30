@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python libraries for the HAWK HTTP authentication scheme", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mozilla/PyHawk", 
+  "info": {
+    "Author:": "Austin King", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 2.0 (MPL 2.0)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mozilla/PyHawk", 
+    "Package Index Owner:": "warner, ozten"
+  }, 
+  "license": "Mozilla Public License 2.0 (MPL 2.0)", 
+  "longdescription": "Python libraries for the HAWK HTTP authentication scheme", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "25e54d40d4e51f1ddcdd43a19d5ff263", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyHawk/PyHawk-0.1.2.tar.gz"
+}

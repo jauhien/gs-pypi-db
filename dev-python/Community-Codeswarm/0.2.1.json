@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create combined code_swarms from several different source repositories.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rakjar.de/shared_codeswarm", 
+  "info": {
+    "Author:": "Arne Babenhauserheide", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://rakjar.de/shared_codeswarm", 
+    "Keywords:": "codeswarm,Mercurial", 
+    "License:": "GNU GPL-3 or later", 
+    "Package Index Owner:": "ArneBab", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Create combined code_swarms from several different source repositories.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "236eb9f212bc0e6b6791f0e14439f8ea", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Community-Codeswarm/Community Codeswarm-0.2.1.tar.gz"
+}

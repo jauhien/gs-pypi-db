@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A TiddlyWeb plugin that provides an indexed search interface using Whoosh.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.whoosher", 
+  "info": {
+    "Author:": "Chris Dent", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.whoosher", 
+    "Package Index Owner:": "pads, cdent", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "A TiddlyWeb plugin that provides an indexed search interface using Whoosh.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ddc8425360ab1293c888b0ff46a406b", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.whoosher/tiddlywebplugins.whoosher-0.9.24.tar.gz"
+}

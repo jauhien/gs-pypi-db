@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integrates JVoo digital products retailer system with Plone for paid memberships.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.niteoweb.com", 
+  "info": {
+    "Author:": "NiteoWeb Ltd.", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.niteoweb.com", 
+    "Keywords:": "Plone Python JVZoo", 
+    "License:": "BSD", 
+    "Package Index Owner:": "matejc, zupo"
+  }, 
+  "license": "", 
+  "longdescription": "Integrates JVoo digital products retailer system with Plone for paid memberships.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "abac3ba2f7adb13649f726d29cc82f3c", 
+  "source_uri": "https://pypi.python.org/packages/source/n/niteoweb.jvzoo/niteoweb.jvzoo-0.3.zip"
+}

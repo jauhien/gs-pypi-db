@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility script to create source releases from buildouts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/zc.sourcerelease", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Home Page:": "http://www.python.org/pypi/zc.sourcerelease", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m"
+  }, 
+  "license": "", 
+  "longdescription": "Utility script to create source releases from buildouts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7d756a7d039afd2a7a2fe02817317330", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.sourcerelease/zc.sourcerelease-0.4.0.tar.gz"
+}

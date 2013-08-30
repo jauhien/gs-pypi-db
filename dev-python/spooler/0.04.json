@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple task queue using the filesystem", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/woome/spooler", 
+  "info": {
+    "Author:": "Woome", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://github.com/woome/spooler/tarball/master", 
+    "Home Page:": "http://github.com/woome/spooler", 
+    "Keywords:": "asynchronous,queue,task queue", 
+    "License:": "GNU GPL v3", 
+    "Package Index Maintainer:": "io2, nicferrier, edwardgeorge, allan.brisbane", 
+    "Package Index Owner:": "pcarlisle, io2", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Simple task queue using the filesystem", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6157514a87e1f74db6ab9a8083853b07", 
+  "source_uri": "http://github.com/woome/spooler/tarball/master"
+}

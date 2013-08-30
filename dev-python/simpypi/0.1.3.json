@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple pypi package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://k0s.org/mozilla/hg/simpypi", 
+  "info": {
+    "Author:": "Jeff Hammel", 
+    "Home Page:": "http://k0s.org/mozilla/hg/simpypi", 
+    "License:": "MPL", 
+    "Package Index Owner:": "k0s"
+  }, 
+  "license": "", 
+  "longdescription": "Simple pypi package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5d4aed17a02ab7ddb1b7272b2a49c53", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simpypi/simpypi-0.1.3.tar.gz"
+}

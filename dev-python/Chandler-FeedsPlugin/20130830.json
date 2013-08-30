@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple RSSAtom feed support for Chandler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "OSAF", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Chandler"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Office/Business", 
+        "Groupware"
+      ]
+    }, 
+    "Package Index Maintainer:": "hamstar", 
+    "Package Index Owner:": "vajda, bear, osafgrant"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Simple RSSAtom feed support for Chandler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e965b25de00f6bae04c8e952cd6f5fa", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Chandler-FeedsPlugin/Chandler-FeedsPlugin-0.8-r16144.tar.gz"
+}

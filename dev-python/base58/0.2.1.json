@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Base58 and Base58Check implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "David Keijser", 
+    "License:": "MIT", 
+    "Package Index Owner:": "keis"
+  }, 
+  "license": "", 
+  "longdescription": "Base58 and Base58Check implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb134789cc9433e0a3a2f89303e3f7ef", 
+  "source_uri": "https://pypi.python.org/packages/source/b/base58/base58-0.2.1.tar.gz"
+}

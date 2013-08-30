@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrap instance methods in persistent factory wrappers for using instance methods as CA factories.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/z3c.persistentfactory", 
+  "info": {
+    "Author:": "Ross Patterson", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/z3c.persistentfactory", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "rpatterson"
+  }, 
+  "license": "", 
+  "longdescription": "Wrap instance methods in persistent factory wrappers for using instance methods as CA factories.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e25bb82c332acedde04b2b40f07562e5", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.persistentfactory/z3c.persistentfactory-0.3.tar.gz"
+}

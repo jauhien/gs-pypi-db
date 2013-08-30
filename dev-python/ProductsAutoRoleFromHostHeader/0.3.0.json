@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone PAS plugin for adding roles (or groups) to anonymous or logged-in visitors looking for HTTP Headers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/autorolefromhostheader", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/autorolefromhostheader", 
+    "Keywords:": "autorole pas plugin roles groups http header", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "amleczko", 
+    "Package Index Owner:": "keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "Plone PAS plugin for adding roles (or groups) to anonymous or logged-in visitors looking for HTTP Headers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c7cbe950c9e3ff303b431a7232a9d9ae", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.AutoRoleFromHostHeader/Products.AutoRoleFromHostHeader-0.3.0.tar.gz"
+}

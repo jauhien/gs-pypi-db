@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for C3 Squirrel Voicemail HTTP API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ox-it/python-squirrelapi", 
+  "info": {
+    "Author:": "Mobile Oxford", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Telephony"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ox-it/python-squirrelapi", 
+    "Package Index Owner:": "davbo, martinfilliau"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python wrapper for C3 Squirrel Voicemail HTTP API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "987452f21b027a997dbdaac36e6d2d69", 
+  "source_uri": "https://pypi.python.org/packages/source/s/squirrelapi/squirrelapi-0.6.1.tar.gz"
+}

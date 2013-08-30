@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A variant on django.test.TestCase optimied for postgres", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/machinalis/django-fasttest", 
+  "info": {
+    "Author:": "Daniel Moisset", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/machinalis/django-fasttest", 
+    "Package Index Owner:": "dmoisset"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A variant on django.test.TestCase optimied for postgres", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "68ed22c9ec561aab9fe6c05bb07439bd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fasttest/django-fasttest-0.1.tar.gz"
+}

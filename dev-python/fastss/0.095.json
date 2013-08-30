@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "String similarity searching using the FastSS algorithm.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Giorgos Tzampanakis", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Indexing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//fastss", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Giorgos.Tzampanakis", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "String similarity searching using the FastSS algorithm.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f1213a62ea8f70106ee237543e0dee8", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fastss/fastss-0.095.tar.gz"
+}

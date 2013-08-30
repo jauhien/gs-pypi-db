@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to the DBPedia Spotlight REST API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/newsgrape/pyspotlight", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/newsgrape/pyspotlight", 
+    "Keywords:": "dbpedia spotlight semantic", 
+    "License:": "BSD", 
+    "Package Index Owner:": "originell"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python interface to the DBPedia Spotlight REST API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0106e0bf22591b64e61ee6de7d71f20d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyspotlight/pyspotlight-0.6.5.2.tar.gz"
+}

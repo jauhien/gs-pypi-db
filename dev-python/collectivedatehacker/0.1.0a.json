@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add to Plone a view for changing (cheating) creation and last modification date", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.datehacker", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.datehacker", 
+    "Keywords:": "plone plonegov date creation-date modification-date", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "Add to Plone a view for changing (cheating) creation and last modification date", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "542305d25ddb0a092edcd223aa1531f8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.datehacker/collective.datehacker-0.1.0a.tar.gz"
+}

@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mercurial File Finder Plugin for Setuptools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/z3c.setuptools_mercurial", 
+  "info": {
+    "Author:": "Stephan Richter and the Zope Community", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Setuptools Plugin"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/z3c.setuptools_mercurial", 
+    "Keywords:": "setuptools mercurial distribution", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "srichter, faassen, agroszer, hannosch, baijum, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Mercurial File Finder Plugin for Setuptools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "243762a7bb35b33954d7da0155031259", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.setuptools_mercurial/z3c.setuptools_mercurial-1.1.1.tar.gz"
+}

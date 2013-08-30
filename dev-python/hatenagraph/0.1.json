@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python wrapper around the Hatena Graph API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/yoshiori/hatenagraph/", 
+  "info": {
+    "Author:": "Yoshiori SHOJI", 
+    "Home Page:": "http://bitbucket.org/yoshiori/hatenagraph/", 
+    "Package Index Owner:": "yoshiori"
+  }, 
+  "license": "", 
+  "longdescription": "A python wrapper around the Hatena Graph API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7410d5ad45f6bc34119ee93426accd5f", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hatenagraph/hatenagraph-0.1.tar.gz"
+}

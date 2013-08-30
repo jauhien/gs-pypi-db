@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An LR(1) parser hiding behind a pythonic interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stuart.id.au/russell/files/lrparsing", 
+  "info": {
+    "Author:": "Russell Stuart", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.stuart.id.au/russell/files/lrparsing", 
+    "Package Index Owner:": "ras"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "An LR(1) parser hiding behind a pythonic interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d575e2473d67a4369162b7390526bd0f", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lrparsing/lrparsing-1.0.4.tar.gz"
+}

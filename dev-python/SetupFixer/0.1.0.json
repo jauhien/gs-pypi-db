@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of utilities for easy configuration of setuptools.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.flightdataservices.com/", 
+  "info": {
+    "Author:": "Flight Data Services Ltd", 
+    "Bug Tracker:": "https://github.com/FlightDataServices/SetupFixer/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://www.flightdataservices.com/", 
+    "Keywords:": "setuptools,easy_install,distribute,pip,requirements", 
+    "License:": "Open Software License (OSL-3.0)", 
+    "Package Index Owner:": "flightdataservices", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "A collection of utilities for easy configuration of setuptools.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8390a28ca2539e964d6506bb556bc051", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SetupFixer/SetupFixer-0.1.0.zip"
+}

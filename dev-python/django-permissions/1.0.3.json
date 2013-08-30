@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic per-object permissions for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.iqpp.com", 
+  "info": {
+    "Author:": "Kai Diefenbach", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-permissions", 
+    "Home Page:": "http://www.iqpp.com", 
+    "Keywords:": "django authorization permissions", 
+    "License:": "BSD", 
+    "Package Index Owner:": "diefenbach"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generic per-object permissions for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dda281e4bb32b5e751bb8ca6de6cb4b2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-permissions/django-permissions-1.0.3.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe to install haproxy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.recipe.haproxy", 
+  "info": {
+    "Author:": "Helge Tesdal", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.recipe.haproxy", 
+    "Keywords:": "buildout haproxy proxy loadbalancer", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "pythonpackages", 
+    "Package Index Owner:": "wichert, tesdal, witsch, mj, fschulze, hannosch, aclark, pythonpackages"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout recipe to install haproxy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a79d9e7c4c4e87280cc998be108c882d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.recipe.haproxy/plone.recipe.haproxy-1.1.2.tar.gz"
+}

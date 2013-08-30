@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Typhoon App Engine Redis Datastore.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/typhoonae/source/checkout?repo=redis", 
+  "info": {
+    "Author:": "Tobias Rodaebel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/typhoonae/source/checkout?repo=redis", 
+    "Keywords:": "gae,appengine,redis,datastore,typhoonae,tae", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "safari"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Typhoon App Engine Redis Datastore.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1f8e61355352e1a432988bdc6d994a1", 
+  "source_uri": "https://pypi.python.org/packages/source/t/typhoonae.redis/typhoonae.redis-0.1.0b1.tar.gz"
+}

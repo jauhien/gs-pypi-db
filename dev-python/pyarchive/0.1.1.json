@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for libarchive", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tailhook/pyarchive", 
+  "info": {
+    "Author:": "Paul Colomiets", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tailhook/pyarchive", 
+    "Package Index Owner:": "PC"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python wrapper for libarchive", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6cd1b274d69aea8886fb10e19b44d234", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyarchive/pyarchive-0.1.1.tar.gz"
+}

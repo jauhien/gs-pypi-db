@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Gracefully email obfuscation for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.geotransform", 
+  "info": {
+    "Author:": "Victor Fernandez de Alba", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.geotransform", 
+    "Keywords:": "geo email obfuscation Plone Zope", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sneridagh"
+  }, 
+  "license": "", 
+  "longdescription": "Gracefully email obfuscation for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54d27efdd1d2a00df81337e574646aa2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.geotransform/collective.geotransform-1.0a2.tar.gz"
+}

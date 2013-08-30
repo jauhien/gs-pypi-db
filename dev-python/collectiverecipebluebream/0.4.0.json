@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "collective.recipe.bluebream is a c.buildout recipe         you can use to bootstrap a Bluebream project", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.recipe.bluebream", 
+  "info": {
+    "Author:": "Alex Clark", 
+    "Home Page:": "https://github.com/collective/collective.recipe.bluebream", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "aclark"
+  }, 
+  "license": "", 
+  "longdescription": "collective.recipe.bluebream is a c.buildout recipe         you can use to bootstrap a Bluebream project", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8e4e2c7775fb9eb48895ccdc75455a9", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.bluebream/collective.recipe.bluebream-0.4.0.zip"
+}

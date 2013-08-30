@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A conservative interactive spell checker for source code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/scspell", 
+  "info": {
+    "Author:": "Paul Pelzl", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/scspell", 
+    "License:": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html", 
+    "Package Index Owner:": "pelzlpj", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A conservative interactive spell checker for source code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0697082c60a1f4ed2a60d647e6b97476", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scspell/scspell-0.1.0.tar.gz"
+}

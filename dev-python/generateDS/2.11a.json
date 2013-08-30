@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate Python data structures and XML parser from Xschema", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.rexx.com/~dkuhlman/generateDS.html", 
+  "info": {
+    "Author:": "Dave Kuhlman", 
+    "Documentation:": "http://pythonhosted.org//generateDS", 
+    "Home Page:": "http://www.rexx.com/~dkuhlman/generateDS.html", 
+    "License:": "http://www.opensource.org/licenses/mit-license.php", 
+    "Package Index Owner:": "dkuhlman", 
+    "Platform:": "platform-independent"
+  }, 
+  "license": "", 
+  "longdescription": "Generate Python data structures and XML parser from Xschema", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da2d8a9c99049494caa1eee953034fad", 
+  "source_uri": "https://pypi.python.org/packages/source/g/generateDS/generateDS-2.11a.tar.gz"
+}

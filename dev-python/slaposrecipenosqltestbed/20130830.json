@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for the No SQL test bed", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Categories": {
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "buildout nosqltestbed", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "danmcgoo, romain"
+  }, 
+  "license": "", 
+  "longdescription": "C Buildout recipe for the No SQL test bed", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "22265689176beb71a8960c354b44957b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slapos.recipe.nosqltestbed/slapos.recipe.nosqltestbed-0.0.9.dev-r2.tar.gz"
+}

@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Infrastructure for semi-structured log messages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/gocept/gocept.logging/", 
+  "info": {
+    "Author:": "gocept <mail@gocept.com>", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/gocept/gocept.logging/", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ckauhaus, wosc"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Infrastructure for semi-structured log messages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23dd729929e224351dcbb80845f66c6d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.logging/gocept.logging-0.2.zip"
+}

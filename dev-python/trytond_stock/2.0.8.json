@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Stock Management and Inventory Control with    - Location definition    - Stock move    - Supplier, Customer and Internal Shipments. Customer and Supplier Return Shipments.    - Stock InventoryAnd with reports    - Delivery Note    - Picking List    - Restocking List (on Supplier Shipment and Customer Return Shipment)    - Products by Locations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tryton.org/", 
+  "info": {
+    "Author:": "B2CK", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Manufacturing"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "Spanish"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Office/Business"
+      ]
+    }, 
+    "Download URL:": "http://downloads.tryton.org/2.0/", 
+    "Home Page:": "http://www.tryton.org/", 
+    "License:": "GPL-3", 
+    "Package Index Maintainer:": "yangoon", 
+    "Package Index Owner:": "ced, bch, yangoon, nicoe"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Stock Management and Inventory Control with    - Location definition    - Stock move    - Supplier, Customer and Internal Shipments. Customer and Supplier Return Shipments.    - Stock InventoryAnd with reports    - Delivery Note    - Picking List    - Restocking List (on Supplier Shipment and Customer Return Shipment)    - Products by Locations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "944508e4188fafaad75563ec91351441", 
+  "source_uri": "http://downloads.tryton.org/2.0/"
+}

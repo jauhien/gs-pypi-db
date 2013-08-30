@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enables adding a preview button in your forms", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-preview", 
+  "info": {
+    "Author:": "SECOND WEB S.A.S. (Paris, FRANCE)", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "CubicWeb"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-preview", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "Enables adding a preview button in your forms", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f00dcf80d66952920cbc3a3ffd22716c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-preview/cubicweb-preview-1.0.0.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fake SMTP server for use in software testing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fakemail.sourceforge.net/", 
+  "info": {
+    "Author:": "Graham Ashton", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/project/showfiles.php?group_id=130951&package_id=168675", 
+    "Home Page:": "http://fakemail.sourceforge.net/", 
+    "Keywords:": "smtp mail test testing", 
+    "Package Index Owner:": "graham"
+  }, 
+  "license": "", 
+  "longdescription": "Fake SMTP server for use in software testing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://sourceforge.net/project/showfiles.php?group_id=130951&package_id=168675"
+}

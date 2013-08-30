@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin for est.releaser to allow putting the created egg in a standard buildout folder", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/RedTurtle/rt.zestreleaser.pypilocal", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/rt.zestreleaser.pypilocal/issues", 
+    "Categories": {
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/RedTurtle/rt.zestreleaser.pypilocal", 
+    "Keywords:": "releaser zest.releaser egg", 
+    "License:": "GPL", 
+    "Package Index Owner:": "massimo, keul"
+  }, 
+  "license": "", 
+  "longdescription": "Plugin for est.releaser to allow putting the created egg in a standard buildout folder", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8b6ee773299712670a906b6dac4e046", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rt.zestreleaser.pypilocal/rt.zestreleaser.pypilocal-0.1.zip"
+}

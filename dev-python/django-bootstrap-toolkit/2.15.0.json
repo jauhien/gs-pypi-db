@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bootstrap support for Django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dyve/django-bootstrap-toolkit", 
+  "info": {
+    "Author:": "Dylan Verheul", 
+    "Bug Tracker:": "https://github.com/dyve/django-bootstrap-toolkit/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dyve/django-bootstrap-toolkit", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "dyve"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Bootstrap support for Django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7ee049b17a0ef51d26acca45abf663d5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-bootstrap-toolkit/django-bootstrap-toolkit-2.15.0.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple, pluggable content-manager for django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/pterk/django-contentmanager/", 
+  "info": {
+    "Author:": "Peter van Kampen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/pterk/django-contentmanager/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pterk"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple, pluggable content-manager for django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82aa95495f17e928e112ea4c8238f903", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-contentmanager/django-contentmanager-2012.5.9.tar.gz"
+}

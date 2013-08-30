@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Export functions for Django admin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rbarrois/djadmin_export", 
+  "info": {
+    "Author:": "Rapha\u00ebl Barrois", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/djadmin_export/", 
+    "Home Page:": "http://github.com/rbarrois/djadmin_export", 
+    "Keywords:": "Django,admin,export", 
+    "License:": "LGPLv3+", 
+    "Package Index Owner:": "xelnor"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Export functions for Django admin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "064388c1aa288992d9fa582d7aac7148", 
+  "source_uri": "http://pypi.python.org/pypi/djadmin_export/"
+}

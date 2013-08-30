@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kerberos high-level windows interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/may-day/kerberos-sspi", 
+  "info": {
+    "Author:": "Norman Kr\u00e4mer", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "https://github.com/may-day/kerberos-sspi", 
+    "License:": "Apache Software License 2.0", 
+    "Package Index Owner:": "mayday"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Kerberos high-level windows interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5981b1735d33139d6cb71497ff859f5f", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kerberos-sspi/kerberos-sspi-0.1.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "defaultdict extension for dictionaries with multiple levels of nesting", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Leo Goodstadt", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Keywords:": "make task pipeline parallel bioinformatics science", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bunbun"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "defaultdict extension for dictionaries with multiple levels of nesting", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aeb571306af08142d11fee99ff569019", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nested_dict/nested_dict-1.0.9.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Optional extensions for IPython", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ipython.scipy.org", 
+  "info": {
+    "Author:": "Ville M. Vainio", 
+    "Home Page:": "http://ipython.scipy.org", 
+    "Package Index Owner:": "vivainio"
+  }, 
+  "license": "", 
+  "longdescription": "Optional extensions for IPython", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "60ed091b4cb90abdfbe4491a3bdd2877", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ipython-extensions/ipython-extensions-0.2.tar.gz"
+}

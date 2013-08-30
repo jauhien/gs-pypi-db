@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous email sending library for Tornado. Port of django.mail.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/equeny/tornadomail", 
+  "info": {
+    "Author:": "Anton Agafonov", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ]
+    }, 
+    "Download URL:": "http://github.com/downloads/equeny/tornadomail/tornadomail-0.1.2.tar.gz", 
+    "Home Page:": "http://github.com/equeny/tornadomail", 
+    "Keywords:": "tornado,mail,tornadomail,asyncmail", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "equeny"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Asynchronous email sending library for Tornado. Port of django.mail.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://github.com/downloads/equeny/tornadomail/tornadomail-0.1.2.tar.gz"
+}

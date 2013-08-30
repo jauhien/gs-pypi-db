@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use a custom umask when running buildout.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/buildout.umask", 
+  "info": {
+    "Author:": "Servilio Afre Puentes", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/buildout.umask", 
+    "License:": "GPL", 
+    "Package Index Owner:": "servilio"
+  }, 
+  "license": "", 
+  "longdescription": "Use a custom umask when running buildout.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce6e3abe04a4f112a7e393194571e377", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildout.umask/buildout.umask-0.5.2.tar.gz"
+}

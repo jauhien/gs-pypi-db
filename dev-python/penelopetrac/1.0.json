@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Penelope Trac integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://getpenelope.github.com", 
+  "info": {
+    "Author:": "Penelope Team", 
+    "Categories": {
+      "Framework": [
+        "Pylons"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://getpenelope.github.com", 
+    "Keywords:": "web wsgi bfg pylons pyramid", 
+    "Package Index Owner:": "amleczko"
+  }, 
+  "license": "", 
+  "longdescription": "Penelope Trac integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3fa806125d91c6aa8bdd54d0dc5c74de", 
+  "source_uri": "https://pypi.python.org/packages/source/p/penelope.trac/penelope.trac-1.0.tar.gz"
+}

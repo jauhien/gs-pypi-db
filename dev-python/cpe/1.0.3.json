@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of CPE specification", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/galindale/cpe", 
+  "info": {
+    "Author:": "Alejandro Galindo Garc\u00eda, Roberto Abdelkader Mart\u00ednez P\u00e9rez", 
+    "Bug Tracker:": "https://github.com/galindale/cpe/issues", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/galindale/cpe", 
+    "Keywords:": "cpe identification naming matching standard specification mitre nist", 
+    "License:": "GPLv3", 
+    "Maintainer:": "Alejandro Galindo Garc\u00eda, Roberto Abdelkader Mart\u00ednez P\u00e9rez", 
+    "Package Index Owner:": "nilp0inter, galindale"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Implementation of CPE specification", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7618259e3d720a419052397b58b56d6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cpe/cpe-1.0.3.tar.gz"
+}

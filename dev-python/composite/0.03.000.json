@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Metaclass implementing composition instead of multiple inheritance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ethan Furman", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "ethanf"
+  }, 
+  "license": "", 
+  "longdescription": "Metaclass implementing composition instead of multiple inheritance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d8c6fa1f34b24dd48dd906a1570b372", 
+  "source_uri": "https://pypi.python.org/packages/source/c/composite/composite-0.03.000.zip"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ohconvert integrates ohcount into Jenkins.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ohconvert", 
+  "info": {
+    "Author:": "Hanno Schlichting, Laurence Rowe", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/ohconvert", 
+    "Keywords:": "ohcount jenkins sloccount", 
+    "License:": "BSD", 
+    "Package Index Owner:": "hannosch"
+  }, 
+  "license": "", 
+  "longdescription": "ohconvert integrates ohcount into Jenkins.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "708a6bae642e120229fbdc1dc005ff07", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ohconvert/ohconvert-1.0.zip"
+}

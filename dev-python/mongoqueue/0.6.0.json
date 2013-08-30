@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A queue using mongo as backend storage.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/mongoqueue", 
+  "info": {
+    "Author:": "Kapil Thangavelu", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/mongoqueue", 
+    "License:": "BSD-derived", 
+    "Package Index Owner:": "kapilt"
+  }, 
+  "license": "", 
+  "longdescription": "A queue using mongo as backend storage.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1950cbe031aac6bfa0be9ca64b7e86c5", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mongoqueue/mongoqueue-0.6.0.tar.gz"
+}

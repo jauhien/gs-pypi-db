@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A client for the TempoDB API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/getsentry/tempodb-python/", 
+  "info": {
+    "Author:": "TempoDB Inc", 
+    "Home Page:": "http://github.com/getsentry/tempodb-python/", 
+    "Package Index Owner:": "tempodb"
+  }, 
+  "license": "", 
+  "longdescription": "A client for the TempoDB API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b95ebc4e4f3791dbd3cd3a30a9b362d", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tempodb/tempodb-0.4.2.tar.gz"
+}

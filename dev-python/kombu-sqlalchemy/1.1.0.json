@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kombu transport using SQLAlchemy as the message store.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ask/kombu-sqlalchemy/", 
+  "info": {
+    "Author:": "Ask Solem", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ask/kombu-sqlalchemy/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "mher", 
+    "Package Index Owner:": "ask", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Kombu transport using SQLAlchemy as the message store.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5dd7addeb7639d084e40cc83ab48a05e", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kombu-sqlalchemy/kombu-sqlalchemy-1.1.0.tar.gz"
+}

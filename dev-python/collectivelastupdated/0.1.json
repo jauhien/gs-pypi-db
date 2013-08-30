@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a viewlet which indicates when content has last been modified.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.lastupdated", 
+  "info": {
+    "Author:": "Dylan Jay", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.lastupdated", 
+    "License:": "GPL", 
+    "Package Index Owner:": "djay"
+  }, 
+  "license": "", 
+  "longdescription": "Provides a viewlet which indicates when content has last been modified.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ff0b044a7de81bcc630c01cd8fa01fd", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.lastupdated/collective.lastupdated-0.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extracts images from an iTunes .itc file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.sffjunkie.co.uk/python-itc.html", 
+  "info": {
+    "Author:": "Simon Kennedy", 
+    "Home Page:": "http://www.sffjunkie.co.uk/python-itc.html", 
+    "License:": "Apache-2.0", 
+    "Package Index Owner:": "sffjunkie"
+  }, 
+  "license": "", 
+  "longdescription": "Extracts images from an iTunes .itc file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3bb8b584b989090d651997acb86ab1db", 
+  "source_uri": "https://pypi.python.org/packages/source/i/itc/itc-0.3.3.zip"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Unicode Dict Reader for CSV files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://koansys.org", 
+  "info": {
+    "Author:": "Koansys, LLC", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://koansys.org", 
+    "Keywords:": "csv", 
+    "License:": "BSD-derived (http://koansys.org/LICENSE.txt)", 
+    "Package Index Owner:": "reedobrien"
+  }, 
+  "license": "", 
+  "longdescription": "A Unicode Dict Reader for CSV files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e6930707cc27c80e0171efd249569a8", 
+  "source_uri": "https://pypi.python.org/packages/source/u/udr/udr-1.0.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout to configure a solr instance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.recipe.solrinstance", 
+  "info": {
+    "Author:": "Kai Lautaportti", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.recipe.solrinstance", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "jjmurre, dokai, cguardia, hannosch, ajung, do3cc, sixfeetup, delijati, davidjb"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "c.buildout to configure a solr instance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fc556d378549cce5ceb51d7f559b3e5", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.solrinstance/collective.recipe.solrinstance-5.0.1.zip"
+}

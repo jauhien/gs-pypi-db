@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Print paragraphs matching regular expressions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://software.clapper.org/paragrep/", 
+  "info": {
+    "Author:": "Brian M. Clapper", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://github.com/bmc/paragrep/zipball/release-3.1.1", 
+    "Home Page:": "http://software.clapper.org/paragrep/", 
+    "License:": "BSD-style license", 
+    "Package Index Owner:": "bmc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Print paragraphs matching regular expressions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1584900a1bbe56f63c9af0859112a6e6", 
+  "source_uri": "https://github.com/bmc/paragrep/zipball/release-3.1.1"
+}

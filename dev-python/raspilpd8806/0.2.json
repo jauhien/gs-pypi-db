@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Servers for playing predefined sequences on a LPD8806 based LED strip connected to a RaspberryPi.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gocept.com", 
+  "info": {
+    "Author:": "Daniel Havlik", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://gocept.com", 
+    "Keywords:": "raspberry pi lpd8806", 
+    "License:": "BSD", 
+    "Package Index Owner:": "DanielHavlikGocept"
+  }, 
+  "license": "", 
+  "longdescription": "Servers for playing predefined sequences on a LPD8806 based LED strip connected to a RaspberryPi.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "60285e7f32079958363010f861189681", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raspi.lpd8806/raspi.lpd8806-0.2.zip"
+}

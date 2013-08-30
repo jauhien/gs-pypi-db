@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "User authentication with email addresses instead of usernames.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dabapps/django-email-as-username", 
+  "info": {
+    "Author:": "Tom Christie", 
+    "Home Page:": "https://github.com/dabapps/django-email-as-username", 
+    "License:": "BSD", 
+    "Package Index Owner:": "tomchristie"
+  }, 
+  "license": "", 
+  "longdescription": "User authentication with email addresses instead of usernames.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "27c3b8ab7dcfceea08cbc3887b517f9d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-email-as-username/django-email-as-username-1.6.5.tar.gz"
+}

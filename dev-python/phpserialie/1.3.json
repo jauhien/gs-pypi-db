@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a port of the serialie and unserialie functions of php to python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mitsuhiko/phpserialize", 
+  "info": {
+    "Author:": "Armin Ronacher", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mitsuhiko/phpserialize", 
+    "Package Index Owner:": "mitsuhiko"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "a port of the serialie and unserialie functions of php to python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cbf88a62e04135e3be3c7fe412525b8b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/phpserialize/phpserialize-1.3.tar.gz"
+}

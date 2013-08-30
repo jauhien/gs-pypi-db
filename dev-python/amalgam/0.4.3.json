@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Minimal wrapper for database access", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.piranha.org.ua/amalgam/", 
+  "info": {
+    "Author:": "Alexander Solovyov", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://hg.piranha.org.ua/amalgam/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "piranha"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Minimal wrapper for database access", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32920a161f53c840453c8e2194a3d10d", 
+  "source_uri": "https://pypi.python.org/packages/source/a/amalgam/amalgam-0.4.3.tar.gz"
+}

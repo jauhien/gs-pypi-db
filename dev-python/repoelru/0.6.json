@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tiny LRU cache implementation and decorator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "repoze lru cache", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism, tseaver"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "A tiny LRU cache implementation and decorator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2c3b64b17a8e18b405f55d46173e14dd", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.lru/repoze.lru-0.6.tar.gz"
+}

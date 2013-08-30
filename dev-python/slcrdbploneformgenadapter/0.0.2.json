@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides an Action Adapter for PloneFormGen to store data in an RDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/slc.rdbploneformgenadapter", 
+  "info": {
+    "Author:": "Syslab.com GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/slc.rdbploneformgenadapter", 
+    "License:": "GPL", 
+    "Package Index Owner:": "do3cc"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Provides an Action Adapter for PloneFormGen to store data in an RDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db3db379064cd00f5ce0132e150a3e5a", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slc.rdbploneformgenadapter/slc.rdbploneformgenadapter-0.0.2.tar.gz"
+}

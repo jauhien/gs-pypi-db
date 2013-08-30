@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Account login, logout, and password reset.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nextscreenlabs/django-accounts", 
+  "info": {
+    "Author:": "Jason Christa", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/nextscreenlabs/django-accounts", 
+    "Package Index Owner:": "megaman821"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Account login, logout, and password reset.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21e7f2af6676916066f77ce46b7ca6f7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-accounts-cbv/django-accounts-cbv-0.2.1b13.zip"
+}

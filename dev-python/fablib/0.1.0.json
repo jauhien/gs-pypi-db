@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fabric deployment helper functions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gpoulter/fablib", 
+  "info": {
+    "Author:": "Graham Poulter", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Installation/Setup"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gpoulter/fablib", 
+    "License:": "MIT", 
+    "Package Index Owner:": "grazam"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Fabric deployment helper functions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac56b6fde20ebe5ad0c4f94895b03b8e", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fablib/fablib-0.1.0.tar.gz"
+}

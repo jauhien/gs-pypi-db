@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Firebird RDBMS bindings for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.firebirdsql.org/en/python-devel-status/", 
+  "info": {
+    "Author:": "Pavel Cisar", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//fdb", 
+    "Home Page:": "http://www.firebirdsql.org/en/python-devel-status/", 
+    "Keywords:": "Firebird", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pcisar"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Firebird RDBMS bindings for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a9934fd8004467ac69682e5b09e272c8", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fdb/fdb-1.4.tar.gz"
+}

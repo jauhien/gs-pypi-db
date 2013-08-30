@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Notify users when Ploneboard threads or comments are modified", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Haufe-Lexware/hl.plone.boardnotifications", 
+  "info": {
+    "Author:": "see docs/CREDITS.txt", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Haufe-Lexware/hl.plone.boardnotifications", 
+    "Keywords:": "Plone Ploneboard board forum notifications", 
+    "License:": "GPL", 
+    "Package Index Owner:": "schorrt"
+  }, 
+  "license": "", 
+  "longdescription": "Notify users when Ploneboard threads or comments are modified", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fecf5f7acb1dead12d9c8377bdddd9f2", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hl.plone.boardnotifications/hl.plone.boardnotifications-0.7.tar.gz"
+}

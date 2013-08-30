@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dispatch TiddlyWeb jobs using beanstalkd", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.dispatcher", 
+  "info": {
+    "Author:": "Chris Dent", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.dispatcher", 
+    "Package Index Owner:": "pads, cdent", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Dispatch TiddlyWeb jobs using beanstalkd", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a883e7d90aee199f3e6855aa3fa2fa00", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.dispatcher/tiddlywebplugins.dispatcher-0.9.tar.gz"
+}

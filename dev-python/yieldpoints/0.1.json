@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple extensions to Tornados gen module.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ajdavis/yieldpoints/", 
+  "info": {
+    "Author:": "A. Jesse Jiryu Davis", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ajdavis/yieldpoints/", 
+    "Keywords:": "tornado coroutines semaphore mutex queue asynchronous", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "emptysquare"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Simple extensions to Tornados gen module.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "698fdea1bd4587499d1892fa66f13da9", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yieldpoints/yieldpoints-0.1.tar.gz"
+}

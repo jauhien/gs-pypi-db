@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings to Datadogs API and a user-facing command line tool.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.datadoghq.com", 
+  "info": {
+    "Author:": "Datadog, Inc.", 
+    "Bug Tracker:": "https://github.com/DataDog/dogapi/issues", 
+    "Home Page:": "http://www.datadoghq.com", 
+    "Keywords:": "datadog data", 
+    "License:": "BSD", 
+    "Package Index Owner:": "alq666, Datadog, mattdog, David.Ormsbee, clofresh, clutchski"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings to Datadogs API and a user-facing command line tool.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "642a1bb90362a89cf5e2ff5b8cb74622", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dogapi/dogapi-1.4.2.tar.gz"
+}

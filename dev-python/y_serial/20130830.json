@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "warehouse compressed Python objects with SQLite", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://yserial.sourceforge.net", 
+  "info": {
+    "Categories": {
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "SQL"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://softlayer.dl.sourceforge.net/project/yserial/y_serial_v060.py", 
+    "Home Page:": "http://yserial.sourceforge.net", 
+    "Keywords:": "compression concurrency database module nosql object orm persistance pickle queue regex schemaless serialization sql sqlite", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rsvp"
+  }, 
+  "license": "", 
+  "longdescription": "warehouse compressed Python objects with SQLite", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://softlayer.dl.sourceforge.net/project/yserial/y_serial_v060.py"
+}

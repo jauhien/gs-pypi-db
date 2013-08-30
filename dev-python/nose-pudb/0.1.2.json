@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Nose plugin for dropping the test runner into pdb when it encounters an error.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/akaihola/nose-pudb", 
+  "info": {
+    "Author:": "Antti Kaihola", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console", 
+        "Curses"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/akaihola/nose-pudb", 
+    "Keywords:": "test unittest doctest automatic discovery nose plugin debugger pudb", 
+    "Package Index Owner:": "akaihola"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A Nose plugin for dropping the test runner into pdb when it encounters an error.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19effa7b1f5973747735e45943de3207", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-pudb/nose-pudb-0.1.2.tar.gz"
+}

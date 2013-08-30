@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Nose plugin which allows bisection of test failures.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dcramer/nose-bisect", 
+  "info": {
+    "Author:": "David Cramer", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dcramer/nose-bisect", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "dcramer"
+  }, 
+  "license": "", 
+  "longdescription": "A Nose plugin which allows bisection of test failures.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3e8338571293718f99c89459c6888d1f", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-bisect/nose-bisect-0.1.0.tar.gz"
+}

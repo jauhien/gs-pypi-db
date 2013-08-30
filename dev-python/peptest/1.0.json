@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Peptest is an automated testing framework designed to test whether or not the browsers                  UI thread remains responsive while performing a variety of actions. Tests are simple                  Javascript files which can optionally import Momills driver to manipulate the user                  interface in an automated fashion.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/peptest", 
+  "info": {
+    "Author:": "Andrew Halberstadt", 
+    "Home Page:": "https://wiki.mozilla.org/Auto-tools/Projects/peptest", 
+    "License:": "MPL", 
+    "Package Index Maintainer:": "markrcote", 
+    "Package Index Owner:": "ahal, markrcote"
+  }, 
+  "license": "", 
+  "longdescription": "Peptest is an automated testing framework designed to test whether or not the browsers                  UI thread remains responsive while performing a variety of actions. Tests are simple                  Javascript files which can optionally import Momills driver to manipulate the user                  interface in an automated fashion.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d44fee6e9a1ba52a207105e56ce69473", 
+  "source_uri": "https://pypi.python.org/packages/source/p/peptest/peptest-1.0.tar.gz"
+}

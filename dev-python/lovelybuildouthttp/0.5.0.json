@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout extension to add http authentication for find-links and download recipies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lovelysystems/lovely.buildouthttp", 
+  "info": {
+    "Author:": "Lovely Systems GmbH", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lovelysystems/lovely.buildouthttp", 
+    "Keywords:": "buildout http authentication github", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "gotcha, agroszer", 
+    "Package Index Owner:": "Mathias.Fussenegger, batlogg, dobe, jukart, quodt, manfred"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Buildout extension to add http authentication for find-links and download recipies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62b76e2b3e6306b9cbd5dc2c86d28dc8", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lovely.buildouthttp/lovely.buildouthttp-0.5.0.tar.gz"
+}

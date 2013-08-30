@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis datastore library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Deepwalker/radishsalad/", 
+  "info": {
+    "Author:": "Mikhail Krivushin", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Deepwalker/radishsalad/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Deepwalker"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Redis datastore library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf8ed995df8ace1cbbc5cc8e4f50dd11", 
+  "source_uri": "https://pypi.python.org/packages/source/r/radishsalad/radishsalad-0.1.0.tar.gz"
+}

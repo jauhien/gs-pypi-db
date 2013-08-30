@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Bindings for the NVIDIA Management Library - r304 driver features", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nvidia.com/", 
+  "info": {
+    "Author:": "NVIDIA Corporation", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//nvidia-ml-py", 
+    "Home Page:": "http://www.nvidia.com/", 
+    "License:": "BSD", 
+    "Maintainer:": "NVIDIA Corporation", 
+    "Package Index Owner:": "nvmlbindings"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python Bindings for the NVIDIA Management Library - r304 driver features", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc1ba2244f24a2de0aada47ca983c247", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nvidia-ml-py/nvidia-ml-py-4.304.04.tar.gz"
+}

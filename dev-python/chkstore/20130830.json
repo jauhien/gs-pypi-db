@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library and commandline tool for Content-Hash-Key storage on a local filesystem.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nejucomo/chkstore", 
+  "info": {
+    "Author:": "Nathan Wilcox", 
+    "Home Page:": "https://bitbucket.org/nejucomo/chkstore", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "nejucomo"
+  }, 
+  "license": "", 
+  "longdescription": "Library and commandline tool for Content-Hash-Key storage on a local filesystem.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8406b24168e62f2a02de1b08d6dd5ec1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chkstore/chkstore-0.0b59bb228b062ead4b1080af280859865d718baf.tar.gz"
+}

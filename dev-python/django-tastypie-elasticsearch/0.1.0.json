@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ElasticSearch support for django-tastypie.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/llonchj/django-tastypie-elasticsearch", 
+  "info": {
+    "Author:": "Jordi Llonch", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/llonchj/django-tastypie-elasticsearch", 
+    "Keywords:": "REST RESTful tastypie pyes elasticsearch django", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "llonchj"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "ElasticSearch support for django-tastypie.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f61da002eb5d74fad3de32346326b4d9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tastypie-elasticsearch/django-tastypie-elasticsearch-0.1.0.tar.gz"
+}

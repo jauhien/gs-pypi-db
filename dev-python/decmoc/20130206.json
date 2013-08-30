@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Declarative mocking", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lvh/decmoc", 
+  "info": {
+    "Author:": "Laurens Van Houtven", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lvh/decmoc", 
+    "License:": "ISC", 
+    "Package Index Owner:": "lvh"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Declarative mocking", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ab3b0c96e4b82f359c32b9788f1abb1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/decmoc/decmoc-20130206.tar.gz"
+}

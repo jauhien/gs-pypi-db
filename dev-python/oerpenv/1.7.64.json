@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenERP Environment Administrator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://business.moldeo.coop/", 
+  "info": {
+    "Author:": "Cristian S. Rocha", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://business.moldeo.coop/", 
+    "Package Index Owner:": "csrocha"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "OpenERP Environment Administrator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db3f533217391d440b0f843443f345b8", 
+  "source_uri": "https://pypi.python.org/packages/source/o/oerpenv/oerpenv-1.7.64.tar.gz"
+}

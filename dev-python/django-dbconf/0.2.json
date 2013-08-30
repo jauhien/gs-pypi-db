@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple helper to save settings in a database and efficient access to this data through cache.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/niwibe/django-dbconf", 
+  "info": {
+    "Author:": "Andrei Antoukh", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/niwibe/django-dbconf", 
+    "License:": "BSD", 
+    "Package Index Owner:": "niwibe", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple helper to save settings in a database and efficient access to this data through cache.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d10898c1460a34501b587b57eb623d5e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dbconf/django-dbconf-0.2.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django field for storing dates without years", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/seddonym/django-yearlessdate/", 
+  "info": {
+    "Author:": "David Seddon", 
+    "Home Page:": "http://github.com/seddonym/django-yearlessdate/", 
+    "Package Index Owner:": "seddonym"
+  }, 
+  "license": "", 
+  "longdescription": "Django field for storing dates without years", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c1ac84e862357886e17df163b9572a5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-yearlessdate/django-yearlessdate-0.3-beta.tar.gz"
+}

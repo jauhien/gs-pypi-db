@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis backed tool for generating cache keys.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/thruflo/alkey", 
+  "info": {
+    "Author:": "James Arthur", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pylons"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/thruflo/alkey", 
+    "License:": "This is free and unencumbered software released into the public domain.", 
+    "Package Index Owner:": "thruflo, thruflo2"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Redis backed tool for generating cache keys.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1e2706634b3f4f0413f50e3d0c53684b", 
+  "source_uri": "https://pypi.python.org/packages/source/a/alkey/alkey-0.5.tar.gz"
+}

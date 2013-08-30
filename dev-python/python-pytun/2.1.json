@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Linux TUNTAP wrapper for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/montag451/pytun", 
+  "info": {
+    "Author:": "montag451", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://github.com/montag451/pytun", 
+    "Package Index Owner:": "montag451"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Linux TUNTAP wrapper for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "669410dd10a23a27ea89fa4bc4a4b7fa", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-pytun/python-pytun-2.1.tar.gz"
+}

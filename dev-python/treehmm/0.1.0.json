@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Variational Inference for tree-structured Hidden-Markov Models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/uci-cbcl/tree-hmm", 
+  "info": {
+    "Author:": "Jake Biesinger, Yuanfeng Wang, Xiaohui Xie", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "https://github.com/uci-cbcl/tree-hmm", 
+    "Package Index Owner:": "Jake.Biesinger"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Variational Inference for tree-structured Hidden-Markov Models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "769706a9af6ba52e325cf3356244bad9", 
+  "source_uri": "https://pypi.python.org/packages/source/t/treehmm/treehmm-0.1.0.tar.gz"
+}

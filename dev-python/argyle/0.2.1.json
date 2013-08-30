@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Argyle is a collection of Fabric utilities for Django deployment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mlavin/argyle", 
+  "info": {
+    "Author:": "Mark Lavin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mlavin/argyle", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mlavin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Argyle is a collection of Fabric utilities for Django deployment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd1dd8dda0346b5b61ce756750a7627b", 
+  "source_uri": "https://pypi.python.org/packages/source/a/argyle/argyle-0.2.1.tar.gz"
+}

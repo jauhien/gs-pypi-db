@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple app to allow apps to register notifications that can be displayed in the admin via a template tag.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/andybak/django-admin-notifications/", 
+  "info": {
+    "Author:": "Andy Baker", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/andybak/django-admin-notifications/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gravesit"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple app to allow apps to register notifications that can be displayed in the admin via a template tag.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e65f36629b1e656ec3b195093948797a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-admin-notifications/django-admin-notifications-0.6.3.tar.gz"
+}

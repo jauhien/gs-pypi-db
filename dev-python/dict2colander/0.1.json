@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dictionary to Colander schema conversion library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/pfacka/dict2colander", 
+  "info": {
+    "Author:": "Peter Facka", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/pfacka/dict2colander", 
+    "Keywords:": "schema validation dictionary Colander YAML JSON", 
+    "License:": "MIT Licence (http://opensource.org/licenses/MIT)", 
+    "Package Index Owner:": "pfacka"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Dictionary to Colander schema conversion library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33e5f9c5ba5827b80c2bff22291908b9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dict2colander/dict2colander-0.1.tar.gz"
+}

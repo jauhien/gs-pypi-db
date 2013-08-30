@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A stream-oriented CSV modification tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/metagriffin/csvsed", 
+  "info": {
+    "Author:": "metagriffin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/metagriffin/csvsed", 
+    "Keywords:": "CSV comma separated values modification substitution translation transliteration command-line library", 
+    "License:": "MIT (http://opensource.org/licenses/MIT)", 
+    "Package Index Owner:": "metagriffin", 
+    "Platform:": "any"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A stream-oriented CSV modification tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89935446aa2ac83735521a438146e231", 
+  "source_uri": "https://pypi.python.org/packages/source/c/csvsed/csvsed-0.2.1.tar.gz"
+}

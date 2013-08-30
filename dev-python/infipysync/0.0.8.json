@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "rsync-like utility to help sync dev files to a machine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://infinigit.infinidat.com/host/infi-pysync", 
+  "info": {
+    "Author:": "Tal Yalon", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://infinigit.infinidat.com/host/infi-pysync", 
+    "License:": "PSF", 
+    "Package Index Owner:": "infinidat"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "rsync-like utility to help sync dev files to a machine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6c2f5136798140488151a6ee161b45e2", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infi.pysync/infi.pysync-0.0.8.tar.gz"
+}

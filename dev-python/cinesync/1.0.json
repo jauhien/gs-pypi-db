@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for scripting the cineSync collaborative video review tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jmah/cinesync_python", 
+  "info": {
+    "Author:": "Jonathon Mah", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Video"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jmah/cinesync_python", 
+    "Keywords:": "cinesync", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jmah"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Library for scripting the cineSync collaborative video review tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b9ea2eef13a77f2ac51b34010bc8b1b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cinesync/cinesync-1.0.tar.gz"
+}

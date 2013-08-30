@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Cython compiler for writing C extensions for the Python language.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cython.org", 
+  "info": {
+    "Author:": "Robert Bradshaw, Stefan Behnel, Dag Seljebotn, Greg Ewing, et al.", 
+    "Bug Tracker:": "http://trac.cython.org/cython_trac/report/1?asc=0&sort=ticket", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.cython.org", 
+    "Package Index Owner:": "scoder, robertwb, eggy"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "The Cython compiler for writing C extensions for the Python language.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df4cfb2b8e3345272e3fc451b76bd630", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Cython/Cython-0.19.1.tar.gz"
+}

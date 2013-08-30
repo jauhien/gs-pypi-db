@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "helper for writing REST services with cherrypy,turbogears", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://microapps.org", 
+  "info": {
+    "Author:": "anders,schuyler", 
+    "Home Page:": "http://microapps.org", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thraxil"
+  }, 
+  "license": "", 
+  "longdescription": "helper for writing REST services with cherrypy,turbogears", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "96e9163eb031d5d0c9ec04a19d57c3ec", 
+  "source_uri": "https://pypi.python.org/packages/source/r/restresource/restresource-0.4.tar.gz"
+}

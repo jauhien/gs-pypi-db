@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A discovery plugin for Nose which relies on sane structure.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dcramer/nose-quickunit", 
+  "info": {
+    "Author:": "David Cramer", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dcramer/nose-quickunit", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "dcramer"
+  }, 
+  "license": "", 
+  "longdescription": "A discovery plugin for Nose which relies on sane structure.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f1772c3d932e0c0d0ec204cd8480efbe", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-quickunit/nose-quickunit-0.5.4.tar.gz"
+}

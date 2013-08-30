@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A module for modeling Local Field Potentials built on NEURON", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://compneuro.umb.no/LFPy/", 
+  "info": {
+    "Author:": "Espen Hagen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Home Page:": "http://compneuro.umb.no/LFPy/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "ehagen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A module for modeling Local Field Potentials built on NEURON", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f1210eeee1fe14f1388e03848776d24c", 
+  "source_uri": "https://pypi.python.org/packages/source/L/LFPy/LFPy-0.9.5.tar.gz"
+}

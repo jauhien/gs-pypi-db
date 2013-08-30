@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides dynamic variables in buildouts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fschulze/buildout.variables", 
+  "info": {
+    "Author:": "Florian Schulze", 
+    "Home Page:": "http://github.com/fschulze/buildout.variables", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fschulze"
+  }, 
+  "license": "", 
+  "longdescription": "Provides dynamic variables in buildouts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a937befa4e160832a1e018b064c0f6c0", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildout.variables/buildout.variables-0.3.zip"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Let you convert any module into a multi-command CLI program without any configuration.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://clime.mosky.tw/", 
+  "info": {
+    "Author:": "Mosky", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//clime", 
+    "Home Page:": "http://clime.mosky.tw/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mosky"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Let you convert any module into a multi-command CLI program without any configuration.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1486e1dab39139e23beaee035ec8b466", 
+  "source_uri": "https://pypi.python.org/packages/source/c/clime/clime-0.2.3.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JS and HTML to support the Django contrib.messages app", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jgerigmeyer/django-messages-ui/", 
+  "info": {
+    "Author:": "Jonny Gerig Meyer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jgerigmeyer/django-messages-ui/", 
+    "Package Index Maintainer:": "carljm", 
+    "Package Index Owner:": "jgerigmeyer, carljm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "JS and HTML to support the Django contrib.messages app", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "802b5bda3515694071871504105e0f72", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-messages-ui/django-messages-ui-0.2.6.tar.gz"
+}

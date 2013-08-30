@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Staff addon for Tendenci", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tendenci/tendenci-staff", 
+  "info": {
+    "Author:": "Schipul", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tendenci/tendenci-staff", 
+    "License:": "GPL3", 
+    "Package Index Owner:": "schipul"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Staff addon for Tendenci", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "545eb54f1730bf721ec451e43f02e125", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tendenci-staff/tendenci-staff-1.0.9.tar.gz"
+}

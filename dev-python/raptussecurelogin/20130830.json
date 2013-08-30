@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a more secure login procedure for Plone for a defined set of groups.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/raptus.securelogin", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/raptus.securelogin", 
+    "License:": "GPL", 
+    "Package Index Owner:": "raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Provides a more secure login procedure for Plone for a defined set of groups.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8e67bd8084e13e215b2b5ed589b37f9d", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.securelogin/raptus.securelogin-1.0a2.tar.gz"
+}

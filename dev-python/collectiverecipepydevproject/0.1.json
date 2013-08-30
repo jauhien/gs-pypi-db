@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe that creates an Eclipse PyDev Project config with PYTHONPATH pointing to some eggs and their dependencies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.recipe.pydevproject", 
+  "info": {
+    "Author:": "Marcio Mazza", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.recipe.pydevproject", 
+    "Keywords:": "buildout eggs eclipse pydev", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mazza"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "c.buildout recipe that creates an Eclipse PyDev Project config with PYTHONPATH pointing to some eggs and their dependencies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b9a5054aac88a37dff7e4c01450ff456", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.pydevproject/collective.recipe.pydevproject-0.1.zip"
+}

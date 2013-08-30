@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure-Python Reed Solomon encoderdecoder", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tomerfiliba/reedsolomon", 
+  "info": {
+    "Author:": "Tomer Filiba", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tomerfiliba/reedsolomon", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "gangesmaster", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Pure-Python Reed Solomon encoderdecoder", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eda400a679236abe3a78c5cc682ff1bc", 
+  "source_uri": "https://pypi.python.org/packages/source/r/reedsolo/reedsolo-0.3.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration library for Django and Albertson.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/FocusLab/django-albertson", 
+  "info": {
+    "Author:": "Sean O'Connor", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/FocusLab/django-albertson", 
+    "License:": "BSD", 
+    "Package Index Owner:": "seanoc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Integration library for Django and Albertson.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77d438d356ef56b5a4d3d687cbf725dc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-albertson/django-albertson-0.1.1.tar.gz"
+}

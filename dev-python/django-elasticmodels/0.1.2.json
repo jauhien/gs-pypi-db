@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to map Django models to ElasticSearch mappings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.com/jvennik/django-elasticmodels", 
+  "info": {
+    "Author:": "Jos Vennik", 
+    "Bug Tracker:": "https://bitbucket.org/jvennik/django-elasticmodels/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.com/jvennik/django-elasticmodels", 
+    "Package Index Owner:": "jvennik"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A tool to map Django models to ElasticSearch mappings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f65914c80808f0d8b96f1d60caeef948", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-elasticmodels/django-elasticmodels-0.1.2.tar.gz"
+}

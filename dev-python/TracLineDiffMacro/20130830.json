@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small macro to diff two lines of text.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Home Page:": "http://trac-hacks.org/wiki/", 
+    "Keywords:": "trac plugin macro diff", 
+    "License:": "BSD", 
+    "Package Index Owner:": "coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "A small macro to diff two lines of text.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8f156d5c2df0283b908d9f125aa63b2", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracLineDiffMacro/TracLineDiffMacro-0.1-r1.tar.gz"
+}

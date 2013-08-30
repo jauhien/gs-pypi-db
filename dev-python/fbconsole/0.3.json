@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple facebook api client for writing command line scripts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/facebook/fbconsole", 
+  "info": {
+    "Author:": "Paul Carduner, Facebook", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/facebook/fbconsole", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "pcardune"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A simple facebook api client for writing command line scripts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69856ea01782f2dada11e429ff8edb7c", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fbconsole/fbconsole-0.3.tar.gz"
+}

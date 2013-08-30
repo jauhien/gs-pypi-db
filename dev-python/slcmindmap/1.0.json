@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds export, viewing and editing support for mindmaps in Plone, with an embedded editor from mindmeister.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/slc.mindmap", 
+  "info": {
+    "Author:": "JC Brand, Syslab.com GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/slc.mindmap", 
+    "Keywords:": "mindmeister mindmap syslab slc", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jcbrand, goibhniu, thomasw, do3cc, pilz"
+  }, 
+  "license": "", 
+  "longdescription": "Adds export, viewing and editing support for mindmaps in Plone, with an embedded editor from mindmeister.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b0e29c225a3af08040948fa2ca52ede", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slc.mindmap/slc.mindmap-1.0.zip"
+}

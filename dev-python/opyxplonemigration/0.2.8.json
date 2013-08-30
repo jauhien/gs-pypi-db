@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Exportimport scripts for migration Plone 2+3 to Plone 4", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zopyx.plone.migration", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zopyx.plone.migration", 
+    "Keywords:": "Zope Plone Migration", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "", 
+  "longdescription": "Exportimport scripts for migration Plone 2+3 to Plone 4", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6175aca2b6f3bda47a1917db4e7a660b", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zopyx.plone.migration/zopyx.plone.migration-0.2.8.zip"
+}

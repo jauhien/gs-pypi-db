@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple package that provides a single decorator for you to mark functions as tasks (routines) that should be executed on a regular schedule.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/JonnyFunFun/routines", 
+  "info": {
+    "Author:": "Jonathan Enzinna", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/JonnyFunFun/routines", 
+    "Keywords:": "recurrence reoccuring routines routine tasks", 
+    "License:": "GPL", 
+    "Package Index Owner:": "JonnyFunFun"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A simple package that provides a single decorator for you to mark functions as tasks (routines) that should be executed on a regular schedule.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd2eedb2935c2a3993766a2d78cfb77c", 
+  "source_uri": "https://pypi.python.org/packages/source/r/routines/routines-0.0.2.tar.gz"
+}

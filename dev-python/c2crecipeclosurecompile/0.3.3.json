@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A buildout recipe to compile javascript with the Google Closure Compiler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/camptocamp/c2c.recipe.closurecompile", 
+  "info": {
+    "Author:": "Frederic Junod", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/camptocamp/c2c.recipe.closurecompile", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "fredj"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A buildout recipe to compile javascript with the Google Closure Compiler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "70d127d97a1e14fd4dad84736d3a740d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/c2c.recipe.closurecompile/c2c.recipe.closurecompile-0.3.3.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OFX client for dowloading transactions from banks", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/captin411/ofxmate", 
+  "info": {
+    "Author:": "David Bartle", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/captin411/ofxmate", 
+    "Keywords:": "ofx,Open Financial Exchange,download transactions", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "captin411"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "OFX client for dowloading transactions from banks", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd206177e992a3daaead201ec5a90aec", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ofxmate/ofxmate-1.0.1.tar.gz"
+}

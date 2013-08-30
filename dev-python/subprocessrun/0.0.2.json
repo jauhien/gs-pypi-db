@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The subprocess module extension to run processes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/xando/subprocess.run", 
+  "info": {
+    "Author:": "Sebastian Pawlu\u015b", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "https://github.com/xando/subprocess.run", 
+    "Keywords:": "subprocess run process", 
+    "Package Index Owner:": "xando", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "The subprocess module extension to run processes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae1876ea185c95d074cdacb5ccb3b793", 
+  "source_uri": "https://pypi.python.org/packages/source/s/subprocess.run/subprocess.run-0.0.2.tar.gz"
+}

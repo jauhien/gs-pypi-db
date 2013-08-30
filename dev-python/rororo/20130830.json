@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Functional nano web-framework built on top of WebOb, routr and Jinja", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/playpauseandstop/rororo", 
+  "info": {
+    "Author:": "Igor Davydenko", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/playpauseandstop/rororo", 
+    "Keywords:": "nano web framework webob routr jinja", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "playpauseandstop", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Functional nano web-framework built on top of WebOb, routr and Jinja", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d12c7f7dcfe3e874526a2dfab678bac", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rororo/rororo-0.1-alpha.tar.gz"
+}

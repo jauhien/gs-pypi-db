@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manage AtomiaDNS instances with python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/pyatomiadns/", 
+  "info": {
+    "Author:": "Jochen Maes", 
+    "Home Page:": "http://pypi.python.org/pypi/pyatomiadns/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "sejo"
+  }, 
+  "license": "", 
+  "longdescription": "Manage AtomiaDNS instances with python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b43cb0a77710c47bfe1b05522a27f98", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyatomiadns/pyatomiadns-1.2.tar.gz"
+}

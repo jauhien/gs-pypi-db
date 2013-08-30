@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A middleware that secures URLS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/queenorych/django-ssl-slapper", 
+  "info": {
+    "Author:": "Mike Dobbs", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/queenorych/django-ssl-slapper", 
+    "Package Index Owner:": "Mike.Dobbs"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A middleware that secures URLS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "032fcbd047f9ab6bd755e19e73b328a5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ssl-slapper/django-ssl-slapper-0.1.6b8.zip"
+}

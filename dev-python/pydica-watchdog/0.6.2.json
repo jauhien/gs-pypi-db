@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Native and Virtual Filesystem Events Monitoring", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/pydica/watchdog", 
+  "info": {
+    "Author:": "Yesudeep Mangalapilly", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pydica-watchdog", 
+    "Home Page:": "https://bitbucket.org/pydica/watchdog", 
+    "Keywords:": "python filesystem virtual monitoring monitor FSEvents kqueue inotify ReadDirectoryChangesW polling DirectorySnapshot", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "tismer"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Native and Virtual Filesystem Events Monitoring", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b227d51ea563af2d1cdbe5f4f9d48f3f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pydica-watchdog/pydica-watchdog-0.6.2.tar.gz"
+}

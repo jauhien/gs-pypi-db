@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package can be used to create BagIt style packages ofdigital content for safe transmission and digital preservation.See httpen.wikipedia.orgwikiBagIt for more details.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/LibraryOfCongress/bagit-python", 
+  "info": {
+    "Author:": "Ed Summers", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "http://github.com/LibraryOfCongress/bagit-python", 
+    "Package Index Owner:": "esummers, acdha", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "This package can be used to create BagIt style packages ofdigital content for safe transmission and digital preservation.See httpen.wikipedia.orgwikiBagIt for more details.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "052f96039cfd32a5366fc4fef25a3340", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bagit/bagit-1.2.1.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Better string field for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aino/django-stringfield", 
+  "info": {
+    "Author:": "Mikko Hellsing", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/aino/django-stringfield", 
+    "License:": "BSD", 
+    "Package Index Owner:": "aino"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Better string field for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "68c3d5383cd5d3087e3e2e91a9d57872", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-stringfield/django-stringfield-0.3.0.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django-logdb enables you to log entries to a database and aggregate them periodically.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/joeribekker/django-logdb", 
+  "info": {
+    "Author:": "Joeri Bekker", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/joeribekker/django-logdb", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joeribekker", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django-logdb enables you to log entries to a database and aggregate them periodically.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2800b3722d906ced5216951e549d5a88", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-logdb/django-logdb-1.1.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django model manager providing fast  fuy counts for PostgreSQL database tables.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kouio/django-postgres-fuzzycount", 
+  "info": {
+    "Author:": "Stephen McDonald", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management"
+      ]
+    }, 
+    "Home Page:": "http://github.com/kouio/django-postgres-fuzzycount", 
+    "Package Index Owner:": "stephenmcd"
+  }, 
+  "license": "", 
+  "longdescription": "A Django model manager providing fast  fuy counts for PostgreSQL database tables.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e2ba9b8fba84204b982fabb113b2303", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-postgres-fuzzycount/django-postgres-fuzzycount-0.1.4.tar.gz"
+}

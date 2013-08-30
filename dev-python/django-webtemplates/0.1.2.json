@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Load templates from an external web site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ionata/django-webtemplates", 
+  "info": {
+    "Author:": "Tim Heap", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ionata/django-webtemplates", 
+    "Package Index Owner:": "tim_heap, ionata"
+  }, 
+  "license": "", 
+  "longdescription": "Load templates from an external web site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f476dfb982c3409f4eade60e32896955", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-webtemplates/django-webtemplates-0.1.2.tar.gz"
+}

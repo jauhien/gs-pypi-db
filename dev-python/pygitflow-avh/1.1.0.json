@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pythonic Installer for Git Flow (AVH Edition).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rajivbattula/pygitflow-avh", 
+  "info": {
+    "Author:": "Rajiv Battula", 
+    "Home Page:": "https://github.com/rajivbattula/pygitflow-avh", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "rajivbattula"
+  }, 
+  "license": "", 
+  "longdescription": "Pythonic Installer for Git Flow (AVH Edition).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce774c10ae1396e7992b792ac54e53dc", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pygitflow-avh/pygitflow-avh-1.1.0.tar.gz"
+}

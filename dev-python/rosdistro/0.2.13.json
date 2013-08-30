@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to work with rosdistro files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/rosdistro", 
+  "info": {
+    "Author:": "Dirk Thomas", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pr.willowgarage.com/downloads/rosdistro/", 
+    "Home Page:": "http://www.ros.org/wiki/rosdistro", 
+    "Keywords:": "ROS", 
+    "License:": "BSD, MIT", 
+    "Package Index Owner:": "dthomas, tfoote, wwoodall"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A tool to work with rosdistro files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ccf1f09770c19f8020dd57b34948d78d", 
+  "source_uri": "http://pr.willowgarage.com/downloads/rosdistro/"
+}

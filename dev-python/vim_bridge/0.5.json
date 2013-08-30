@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python-to-Vim bridge decorator that allows transparent calls to Python functions in native Vim scripts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nvie/vim_bridge", 
+  "info": {
+    "Author:": "Vincent Driessen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Text Editors"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nvie/vim_bridge", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nvie", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Python-to-Vim bridge decorator that allows transparent calls to Python functions in native Vim scripts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb96c4cb0e64279a71368d5625dbe495", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vim_bridge/vim_bridge-0.5.tar.gz"
+}

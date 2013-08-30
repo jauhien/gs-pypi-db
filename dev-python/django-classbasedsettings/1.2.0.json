@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use classes to define settings.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/matthewwithanm/django-classbasedsettings", 
+  "info": {
+    "Author:": "Matthew Tretter", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://github.com/matthewwithanm/django-classbasedsettings/tarball/master", 
+    "Home Page:": "http://github.com/matthewwithanm/django-classbasedsettings", 
+    "Keywords:": "settings,classbased,class-based", 
+    "Package Index Owner:": "matthewwithanm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Use classes to define settings.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d14b35684dea848b42d550e70f021f5e", 
+  "source_uri": "http://github.com/matthewwithanm/django-classbasedsettings/tarball/master"
+}

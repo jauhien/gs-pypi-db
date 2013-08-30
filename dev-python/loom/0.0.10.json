@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Elegant deployment with Fabric and Puppet.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bfirsh/loom", 
+  "info": {
+    "Author:": "Ben Firshman", 
+    "Home Page:": "http://github.com/bfirsh/loom", 
+    "Package Index Owner:": "bfirsh"
+  }, 
+  "license": "", 
+  "longdescription": "Elegant deployment with Fabric and Puppet.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "50530821ac5f861eaa66cc940972c852", 
+  "source_uri": "https://pypi.python.org/packages/source/l/loom/loom-0.0.10.tar.gz"
+}

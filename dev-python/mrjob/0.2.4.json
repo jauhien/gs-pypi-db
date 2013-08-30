@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python MapReduce framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Yelp/mrjob", 
+  "info": {
+    "Author:": "David Marin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//mrjob", 
+    "Home Page:": "http://github.com/Yelp/mrjob", 
+    "License:": "Apache", 
+    "Package Index Owner:": "sudarshang, davidmarin, sjohnson"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python MapReduce framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d378b05ea685782624686cd135929be7", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mrjob/mrjob-0.2.4.tar.gz"
+}

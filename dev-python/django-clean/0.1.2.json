@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Clean out files in a django app using regular expressions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ashchristopher/django-clean", 
+  "info": {
+    "Author:": "Ash Christopher", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://github.com/ashchristopher/django-clean/downloads", 
+    "Home Page:": "http://github.com/ashchristopher/django-clean", 
+    "Keywords:": "django clean temporary cleanup pyc", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ashchristopher"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Clean out files in a django app using regular expressions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "820e763ed37c72178e3fe25d993a5294", 
+  "source_uri": "http://github.com/ashchristopher/django-clean/downloads"
+}

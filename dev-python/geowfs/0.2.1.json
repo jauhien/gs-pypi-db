@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WFS server implementation for ope", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.gispython.org/primagis/wiki/zgeo.wfs", 
+  "info": {
+    "Author:": "Eric BREHAULT", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://trac.gispython.org/primagis/wiki/zgeo.wfs", 
+    "Keywords:": "gis geography wfs", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ebrehault"
+  }, 
+  "license": "", 
+  "longdescription": "WFS server implementation for ope", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0dbbdcf59244ad5847f3c0e2633048b0", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zgeo.wfs/zgeo.wfs-0.2.1.tar.gz"
+}

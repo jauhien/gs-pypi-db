@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SSO Plugin for ope 2 PAS and PlonePAS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/single-sign-on-plugin", 
+  "info": {
+    "Author:": "Ben Mason", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Security"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/single-sign-on-plugin", 
+    "Keywords:": "PAS SSO plugin", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "SSO Plugin for ope 2 PAS and PlonePAS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a46dcd913fd4f309f34216d3545d95eb", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.SharkbyteSSOPlugin/Products.SharkbyteSSOPlugin-0.6.0b1.tar.gz"
+}

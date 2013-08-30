@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for libspotify", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyspotify.mopidy.com/", 
+  "info": {
+    "Author:": "Doug Winter", 
+    "Home Page:": "http://pyspotify.mopidy.com/", 
+    "Package Index Owner:": "adamcik, winjer, jodal"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper for libspotify", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ffedc7261885f3416b2c37d51ed978c2", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyspotify/pyspotify-1.11.tar.gz"
+}

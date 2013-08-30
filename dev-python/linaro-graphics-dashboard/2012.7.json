@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Linaro Graphics WG application for LAVA Server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alexandros Frantzis", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "doanac"
+  }, 
+  "license": "", 
+  "longdescription": "Linaro Graphics WG application for LAVA Server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d72cf822ccbc75e19d9c878fddd7128", 
+  "source_uri": "https://pypi.python.org/packages/source/l/linaro-graphics-dashboard/linaro-graphics-dashboard-2012.7.tar.gz"
+}

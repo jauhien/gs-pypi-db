@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A twisted server supporting multiple xmpp helpdesk bots.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://chatblox.com", 
+  "info": {
+    "Author:": "G. Gozadinos", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://chatblox.com", 
+    "Keywords:": "xmpp twisted bot jabber helpdesk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ggozad"
+  }, 
+  "license": "", 
+  "longdescription": "A twisted server supporting multiple xmpp helpdesk bots.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fa7c28e653ddf7ed34485221159b486", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qi.xmpp.botfarm/qi.xmpp.botfarm-0.1.tar.gz"
+}

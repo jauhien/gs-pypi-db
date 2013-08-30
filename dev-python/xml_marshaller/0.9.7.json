@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Converting Python objects to XML and back again.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/community/sigs/current/xml-sig/", 
+  "info": {
+    "Author:": "Nicolas Delaby", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python License (CNRI Python License)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Home Page:": "http://www.python.org/community/sigs/current/xml-sig/", 
+    "Keywords:": "XML marshaller", 
+    "License:": "Python License (CNRI Python License)", 
+    "Package Index Maintainer:": "LukaszNowak", 
+    "Package Index Owner:": "nicolas_delaby, LukaszNowak, romain"
+  }, 
+  "license": "Python License (CNRI Python License)", 
+  "longdescription": "Converting Python objects to XML and back again.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "de083e7b6997f899335729accd8e928c", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xml_marshaller/xml_marshaller-0.9.7.tar.gz"
+}

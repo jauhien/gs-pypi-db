@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Shibboleth authentication handler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.arcs.org.au/hudson/job/arcs.shibboleth.client/javadoc/", 
+  "info": {
+    "Author:": "Russell Sim", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "http://code.arcs.org.au/hudson/job/arcs.shibboleth.client/javadoc/", 
+    "Keywords:": "jython", 
+    "License:": "GPL", 
+    "Package Index Owner:": "russell"
+  }, 
+  "license": "", 
+  "longdescription": "Shibboleth authentication handler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b384746cdc180df81ffa51d9937d3b03", 
+  "source_uri": "https://pypi.python.org/packages/source/a/arcs.shibboleth.client/arcs.shibboleth.client-0.2dev-20091210.tar.gz"
+}

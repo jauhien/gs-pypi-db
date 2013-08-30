@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Offline DBus RSS reader", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://sourceforge.net/projects/brss/", 
+  "info": {
+    "Author:": "['Bidossessi SODONON']", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content", 
+        "News/Diary"
+      ]
+    }, 
+    "Home Page:": "https://sourceforge.net/projects/brss/", 
+    "Package Index Owner:": "bidossessi"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Offline DBus RSS reader", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6d4543eea43668556e56cbfc15843c9", 
+  "source_uri": "https://pypi.python.org/packages/source/b/brss/brss-0.8.14.tar.gz"
+}

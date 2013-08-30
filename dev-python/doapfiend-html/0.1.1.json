@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Doapfiend plugin. Serialies DOAP as HTMLCSS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.doapspace.org/doapfiend/wiki/DfHtml", 
+  "info": {
+    "Author:": "Rob Cakebread", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://trac.doapspace.org/doapfiend/wiki/DfHtml", 
+    "Keywords:": "doapfiend.plugin doap rdf doapfiend semantic web", 
+    "License:": "BSD-2", 
+    "Package Index Owner:": "pythonhead"
+  }, 
+  "license": "", 
+  "longdescription": "Doapfiend plugin. Serialies DOAP as HTMLCSS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1cec6a834f1a723e760c5a040a14848f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/doapfiend-html/doapfiend-html-0.1.1.tar.gz"
+}

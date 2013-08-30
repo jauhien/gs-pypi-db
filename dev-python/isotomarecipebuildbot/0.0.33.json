@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A recipe to help setup a buildbot master and slaves", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "John Carr", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Keywords:": "buildout buildbot template", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "johncarr, alex2, winjer"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A recipe to help setup a buildbot master and slaves", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ae959efe4282fd7d09feee20820832f", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.buildbot/isotoma.recipe.buildbot-0.0.33.zip"
+}

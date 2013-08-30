@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display members and groups", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Godefroid Chapelle", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "gpl", 
+    "Package Index Owner:": "gotcha"
+  }, 
+  "license": "", 
+  "longdescription": "Display members and groups", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21bc438c372c287bcd2f849ac3784859", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.whoiswho/collective.whoiswho-1.0.zip"
+}

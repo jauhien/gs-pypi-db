@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Protect users from malicious web pages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lig/google-safe-browsing", 
+  "info": {
+    "Author:": "Google Inc.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lig/google-safe-browsing", 
+    "Maintainer:": "Serge Matveenko", 
+    "Package Index Owner:": "lig"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Protect users from malicious web pages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc47bba8c2bbe3d1d4124a3d79f00b6d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/googlesafebrowsing/googlesafebrowsing-0.2.beta.git.tar.gz"
+}

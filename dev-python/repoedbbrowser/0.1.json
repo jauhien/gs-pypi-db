@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Admin UI for relational db based apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "web application server wsgi zope database browser", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Maintainer:": "Carlos de la Guardia", 
+    "Package Index Owner:": "cguardia"
+  }, 
+  "license": "", 
+  "longdescription": "Admin UI for relational db based apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4cea83fd06cfd705bc6c7bdd0df1445", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.dbbrowser/repoze.dbbrowser-0.1.tar.gz"
+}

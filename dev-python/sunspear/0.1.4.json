@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Activity streams backed by Riak.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/numan/sunspear", 
+  "info": {
+    "Author:": "Numan Sachwani", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/numan/sunspear", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "numan"
+  }, 
+  "license": "", 
+  "longdescription": "Activity streams backed by Riak.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26c57a07a65e141404a6114bc5754583", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sunspear/sunspear-0.1.4.tar.gz"
+}

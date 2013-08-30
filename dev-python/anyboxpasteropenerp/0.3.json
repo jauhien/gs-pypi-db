@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Paster templates to create an OpenERP module or instance using buildout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://anybox.fr", 
+  "info": {
+    "Author:": "Anybox", 
+    "Home Page:": "http://anybox.fr", 
+    "Keywords:": "OpenERP,paster", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "ccomb"
+  }, 
+  "license": "", 
+  "longdescription": "Paster templates to create an OpenERP module or instance using buildout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "182d4c3688b6afcef8176dd40c212bdf", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anybox.paster.openerp/anybox.paster.openerp-0.3.tar.gz"
+}

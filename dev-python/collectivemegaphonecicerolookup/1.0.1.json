@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Megaphone plugin to look up elected officials based on address, via the Cicero API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.megaphonecicerolookup/trunk", 
+  "info": {
+    "Author:": "David Glick, Groundwire", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.megaphonecicerolookup/trunk", 
+    "Keywords:": "megaphone petition letter plone legislator official geocoding", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "Megaphone plugin to look up elected officials based on address, via the Cicero API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "85afbf890e11dd0a4cd7e5281bcda259", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.megaphonecicerolookup/collective.megaphonecicerolookup-1.0.1.zip"
+}

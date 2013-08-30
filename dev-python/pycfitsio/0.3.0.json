@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple FITS files IO package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zonca/pycfitsio", 
+  "info": {
+    "Author:": "Andrea Zonca", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zonca/pycfitsio", 
+    "Keywords:": "fits,astrophysics,pyfits", 
+    "License:": "GPL3", 
+    "Package Index Owner:": "andreazonca.myopenid.com"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Simple FITS files IO package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ae31bd80e375b8d26d0f597e4ddb721", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycfitsio/pycfitsio-0.3.0.tar.gz"
+}

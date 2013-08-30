@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone  Delegation of Site Administrator role through sharing tab", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.delegatesiteadmin", 
+  "info": {
+    "Author:": "Godefroid Chapelle", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.delegatesiteadmin", 
+    "License:": "gpl", 
+    "Package Index Owner:": "gotcha, smoussiaux"
+  }, 
+  "license": "", 
+  "longdescription": "Plone  Delegation of Site Administrator role through sharing tab", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e3940e31bd0a211a12791c05409ac498", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.delegatesiteadmin/collective.delegatesiteadmin-0.1.2.zip"
+}

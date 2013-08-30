@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone OpenID authentication support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.openid", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.openid", 
+    "Keywords:": "Plone OpenID authentication consumer", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "optilude, wichert, davisagli, esteele, hannosch, evilbungle"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone OpenID authentication support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae0748f91cab0612a498926d405d8edd", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.openid/plone.app.openid-2.0.2.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Script to manage GitHub organiations in a collective manner", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/github-collective", 
+  "info": {
+    "Author:": "Rok Garbas", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/github-collective", 
+    "Keywords:": "github git permission collaboration collective organization", 
+    "License:": "BSD", 
+    "Package Index Owner:": "garbas, aclark, davidjb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Script to manage GitHub organiations in a collective manner", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79a99297df35a5085df36844306bb8df", 
+  "source_uri": "https://pypi.python.org/packages/source/g/github-collective/github-collective-0.4.zip"
+}

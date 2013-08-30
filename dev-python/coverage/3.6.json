@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Code coverage measurement for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://nedbatchelder.com/code/coverage", 
+  "info": {
+    "Author:": "Ned Batchelder and others", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://nedbatchelder.com/code/coverage", 
+    "Keywords:": "code coverage testing", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "cito", 
+    "Package Index Owner:": "nedbatchelder"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Code coverage measurement for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "67d4e393f4c6a5ffc18605409d2aa1ac", 
+  "source_uri": "https://pypi.python.org/packages/source/c/coverage/coverage-3.6.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Raspberry Pi LCD library for the widely used Hitachi HD44780 controller.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dbrgn/RPLCD", 
+  "info": {
+    "Author:": "Danilo Bargen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "System", 
+        "Hardware", 
+        "Hardware Drivers"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dbrgn/RPLCD", 
+    "Keywords:": "raspberry,raspberry pi,lcd,liquid crystal,hitachi,hd44780", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gwrtheyrn", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Raspberry Pi LCD library for the widely used Hitachi HD44780 controller.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4c43acfab4029f84cd217fad618844b", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RPLCD/RPLCD-0.1.3.tar.gz"
+}

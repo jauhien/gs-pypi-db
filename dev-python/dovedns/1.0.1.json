@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DoveDNS is a library for interfacing with Linode DNSManager, using Twisted.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/hawkowl/dovedns", 
+  "info": {
+    "Author:": "HawkOwl", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Name Service (DNS)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/hawkowl/dovedns", 
+    "Keywords:": "twisted,linode,dns", 
+    "Package Index Owner:": "hawkowl"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "DoveDNS is a library for interfacing with Linode DNSManager, using Twisted.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71822a471a6487c29ca7a6269a2d4c7e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dovedns/dovedns-1.0.1.tar.gz"
+}

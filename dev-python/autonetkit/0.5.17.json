@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatic configuration generation for emulated networks", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.autonetkit.org", 
+  "info": {
+    "Author:": "Simon Knight", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//autonetkit", 
+    "Download URL:": "http://pypi.python.org/pypi/autonetkit", 
+    "Home Page:": "http://www.autonetkit.org", 
+    "Package Index Owner:": "Simon.Knight"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Automatic configuration generation for emulated networks", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a8db252c5eef5fcaf537a2a75750382", 
+  "source_uri": "http://pypi.python.org/pypi/autonetkit"
+}

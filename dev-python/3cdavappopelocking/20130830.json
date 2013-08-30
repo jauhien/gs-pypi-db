@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WebDAV locking support using ope.locking", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/z3c.dav", 
+  "info": {
+    "Author:": "Michael Kerrin", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/z3c.dav", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "mkerrin"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "WebDAV locking support using ope.locking", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "06ac703241bb3e5ff41be43f3023dffc", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.davapp.zopelocking/z3c.davapp.zopelocking-1.0b1.tar.gz"
+}

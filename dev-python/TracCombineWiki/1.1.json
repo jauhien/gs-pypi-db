@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Export a subset of a Trac wiki as a single file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/CombineWikiPlugin", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/CombineWikiPlugin", 
+    "Keywords:": "trac plugin combine wiki pdf", 
+    "License:": "BSD", 
+    "Package Index Owner:": "coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "Export a subset of a Trac wiki as a single file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b05a98eb2de5010091be28a82a32dfe7", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracCombineWiki/TracCombineWiki-1.1.tar.gz"
+}

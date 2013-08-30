@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "BigQuery command-line tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/google-bigquery-tools/", 
+  "info": {
+    "Author:": "Google Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/google-bigquery-tools/", 
+    "Keywords:": "google bigquery library", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "Eli.Brandt, jhaberman, Craig.Citro, M.Sheldon, Jim.Caputo"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "BigQuery command-line tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a778e29d29b56ca0c231515677adf180", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bigquery/bigquery-2.0.14.tar.gz"
+}

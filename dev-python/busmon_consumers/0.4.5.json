@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "fedmsg-hub consumers for the busmon webapp", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ralphbean/busmon", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Home Page:": "http://github.com/ralphbean/busmon", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "fedmsg-hub consumers for the busmon webapp", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e87fdd9f1bede3a23c5313c625b23d6", 
+  "source_uri": "https://pypi.python.org/packages/source/b/busmon_consumers/busmon_consumers-0.4.5.tar.gz"
+}

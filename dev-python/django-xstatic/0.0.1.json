@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django helpers to use xstatic packages in django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gautier/django-xstatic", 
+  "info": {
+    "Author:": "Gautier Hayoun", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gautier/django-xstatic", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "gowtier"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django helpers to use xstatic packages in django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "635aa106d6717708e1328c9638eed8b6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-xstatic/django-xstatic-0.0.1.tar.gz"
+}

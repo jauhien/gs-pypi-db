@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A light-weight django model translation application designed to simplify the process of creating multi-lingual websites and serving appropriate content.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/robcharlwood/django-mothertongue", 
+  "info": {
+    "Author:": "Rob Charlwood", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Localization"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-mothertongue", 
+    "Home Page:": "https://github.com/robcharlwood/django-mothertongue", 
+    "Keywords:": "django i18n model translation internationalization", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "Rob.Charlwood"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A light-weight django model translation application designed to simplify the process of creating multi-lingual websites and serving appropriate content.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3921783e70f7dd1d37f646c003dbe8e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mothertongue/django-mothertongue-0.0.6.tar.gz"
+}

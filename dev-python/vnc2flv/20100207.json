@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Screen recording tool that captures a VNC session and saves as FLV", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.unixuser.org/~euske/python/vnc2flv/index.html", 
+  "info": {
+    "Author:": "Yusuke Shinyama", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "http://www.unixuser.org/~euske/python/vnc2flv/index.html", 
+    "Keywords:": "vnc,flv,video,screen recorder", 
+    "License:": "MIT/X", 
+    "Package Index Owner:": "euske"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Screen recording tool that captures a VNC session and saves as FLV", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8492e46496e187b49fe5569b5639804e", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vnc2flv/vnc2flv-20100207.tar.gz"
+}

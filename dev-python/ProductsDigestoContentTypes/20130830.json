@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone content types for legislative documents", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/digestocontenttypes/", 
+  "info": {
+    "Author:": "Emanuel Sartor, Santiago Bruno", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/digestocontenttypes/", 
+    "Keywords:": "web zope plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "menttes, emanuel"
+  }, 
+  "license": "", 
+  "longdescription": "Plone content types for legislative documents", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4474fb504eb807321e0bdea32f910952", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.DigestoContentTypes/Products.DigestoContentTypes-1.2a1.tar.gz"
+}

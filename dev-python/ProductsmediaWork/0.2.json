@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Folderish type to store information and media about a work of art", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "David Jonas", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "type work folderish", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davidjonas"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Folderish type to store information and media about a work of art", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fa8f92e71b8f8f5d5ba7f7923a35a744", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.mediaWork/Products.mediaWork-0.2.tar.gz"
+}

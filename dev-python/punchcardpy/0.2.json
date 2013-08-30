@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line utility to create a punchcard graph", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/aaronjorbin/punchcard.py", 
+  "info": {
+    "Author:": "Aaron Jorbin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Terminals"
+      ]
+    }, 
+    "Download URL:": "https://github.com/aaronjorbin/punchcard.py/archive/0.2.zip", 
+    "Home Page:": "http://github.com/aaronjorbin/punchcard.py", 
+    "Package Index Owner:": "aaronjorbin"
+  }, 
+  "license": "", 
+  "longdescription": "Command line utility to create a punchcard graph", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "342cdfcbef3046010df9d0649052eece", 
+  "source_uri": "https://github.com/aaronjorbin/punchcard.py/archive/0.2.zip"
+}

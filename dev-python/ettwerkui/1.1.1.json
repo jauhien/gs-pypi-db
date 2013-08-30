@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adding jquery.uis themeroller to plone 4 for easy theme customiation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.zettwerk.com", 
+  "info": {
+    "Author:": "J\u00f6rg Kubaile / zettwerk GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.zettwerk.com", 
+    "Keywords:": "plone,theme,jquery,jquery.ui,themeroller", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jkubaile"
+  }, 
+  "license": "", 
+  "longdescription": "Adding jquery.uis themeroller to plone 4 for easy theme customiation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6c389ec0e80bfe614acccab96b52424a", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zettwerk.ui/zettwerk.ui-1.1.1.zip"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "aero adds django-like apps support to tornado and automates common actions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://heynemann.github.com/aero/", 
+  "info": {
+    "Author:": "Bernardo Heynemann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "http://heynemann.github.com/aero/", 
+    "Keywords:": "tornado aero app django", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "rafaelcaricio", 
+    "Package Index Owner:": "heynemann, rafaelcaricio"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "aero adds django-like apps support to tornado and automates common actions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b3259b2170c4f33545f1a74984851e8a", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aero/aero-0.3.6a.tar.gz"
+}

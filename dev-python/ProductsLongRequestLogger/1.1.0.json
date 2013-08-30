@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dumps sequential stack traces of long-running ope2 requests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.erp5.com/", 
+  "info": {
+    "Author:": "Nexedi SA", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.erp5.com/", 
+    "Keywords:": "performance zope2 plone erp5", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "leorochael"
+  }, 
+  "license": "", 
+  "longdescription": "Dumps sequential stack traces of long-running ope2 requests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7f35e81e26f6fa5bf55867122902b78", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.LongRequestLogger/Products.LongRequestLogger-1.1.0.zip"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "EasyBuild is a software installation framework in Python that allows you to install software in a structured and robust way.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hpcugent.github.com/easybuild", 
+  "info": {
+    "Author:": "EasyBuild community", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.4"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://hpcugent.github.com/easybuild", 
+    "Keywords:": "software build building installation installing compilation HPC scientific", 
+    "License:": "GPLv2", 
+    "Package Index Maintainer:": "boegel", 
+    "Package Index Owner:": "boegel, hpcugent", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "EasyBuild is a software installation framework in Python that allows you to install software in a structured and robust way.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f89226e27f2de6160e47d07b395d32da", 
+  "source_uri": "https://pypi.python.org/packages/source/e/easybuild/easybuild-1.6.0.tar.gz"
+}

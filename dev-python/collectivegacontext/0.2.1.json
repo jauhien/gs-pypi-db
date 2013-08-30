@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Context dependend GoogleAnalytics", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.gacontext/trunk", 
+  "info": {
+    "Author:": "InQuant GmbH", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.gacontext/trunk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ramonski"
+  }, 
+  "license": "", 
+  "longdescription": "Context dependend GoogleAnalytics", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18e946d0d624a188446aab2b07b86c60", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.gacontext/collective.gacontext-0.2.1.tar.gz"
+}

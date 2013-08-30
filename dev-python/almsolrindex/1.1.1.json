@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Catalog multi-index that uses Solr", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Six Feet Up, Inc.", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "zope zcatalog solr plone", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "lucielejard", 
+    "Package Index Owner:": "calvinhp, claytron"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Catalog multi-index that uses Solr", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d96fbfd3144eb6124ebd165982f8fa05", 
+  "source_uri": "https://pypi.python.org/packages/source/a/alm.solrindex/alm.solrindex-1.1.1.zip"
+}

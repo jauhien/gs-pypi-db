@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convex optimiation package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cvxopt.org", 
+  "info": {
+    "Author:": "M. S. Andersen, J. Dahl, L. Vandenberghe", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://github.com/cvxopt/cvxopt/archive/1.1.6.tar.gz", 
+    "Home Page:": "http://cvxopt.org", 
+    "License:": "GNU GPL version 3 or later", 
+    "Package Index Owner:": "msa, rwl"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Convex optimiation package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://github.com/cvxopt/cvxopt/archive/1.1.6.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scribes plugin. Disables default autosave on timer and editor focus loss", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/baverman/scribes-goodies", 
+  "info": {
+    "Author:": "Anton Bobrov", 
+    "Home Page:": "http://github.com/baverman/scribes-goodies", 
+    "Package Index Owner:": "baverman"
+  }, 
+  "license": "", 
+  "longdescription": "Scribes plugin. Disables default autosave on timer and editor focus loss", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f37d9e39eb6726ffbd74e3e2d95a5ad8", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scribes.edit.disable-auto-save/scribes.edit.disable-auto-save-0.2.3.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python in-memory ORM database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://littletable.sourceforge.net/", 
+  "info": {
+    "Author:": "Paul McGuire", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//littletable", 
+    "Home Page:": "http://littletable.sourceforge.net/", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "ptmcg"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python in-memory ORM database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ffcc4b295b3b1a9cc3e3b4cbc3a16384", 
+  "source_uri": "https://pypi.python.org/packages/source/l/littletable/littletable-0.4.tar.gz"
+}

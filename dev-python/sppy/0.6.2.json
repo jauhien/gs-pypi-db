@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A sparse matrix package based on Eigen.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/sppy/", 
+  "info": {
+    "Author:": "Charanpal Dhanjal", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sppy", 
+    "Home Page:": "http://packages.python.org/sppy/", 
+    "Keywords:": "numpy,sparse matrix", 
+    "License:": "GNU Library or Lesser General Public License (LGPL)", 
+    "Package Index Owner:": "Charanpal.Dhanjal", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A sparse matrix package based on Eigen.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e3f5bbd1f32ac2ff2fddc420f7690720", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sppy/sppy-0.6.2.tar.gz"
+}

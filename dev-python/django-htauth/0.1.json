@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "htpasswd authentication backend for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ethan Jucovy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "htpasswd authentication backend for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e82b899b59c62328b73d5d84154d4cf5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-htauth/django-htauth-0.1.tar.gz"
+}

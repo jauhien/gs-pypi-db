@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Trac plugin for RCS-backed documentation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mrjbq7/tracdocs", 
+  "info": {
+    "Author:": "John Benediktsson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Download URL:": "http://github.com/mrjbq7/tracdocs/zipball/master#egg=TracDocs-0.3", 
+    "Home Page:": "http://github.com/mrjbq7/tracdocs", 
+    "Package Index Owner:": "mrjbq7"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Trac plugin for RCS-backed documentation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://github.com/mrjbq7/tracdocs/zipball/master#egg=TracDocs-0.3"
+}

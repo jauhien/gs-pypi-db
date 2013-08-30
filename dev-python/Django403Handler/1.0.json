@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple app that catches PermissionDenied exceptions that are raised in views and renders custom error page.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jacek Bzdak", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Package Index Owner:": "jacekfoo"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A simple app that catches PermissionDenied exceptions that are raised in views and renders custom error page.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be534e2127cfd611abb66217cb5baa92", 
+  "source_uri": "https://pypi.python.org/packages/source/D/Django403Handler/Django403Handler-1.0.tar.gz"
+}

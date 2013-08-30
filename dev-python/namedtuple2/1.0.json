@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A drop-in replacement for collections.namedtuple allowing default values", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gesellkammer/namedtuple2", 
+  "info": {
+    "Author:": "Robert Handke", 
+    "Home Page:": "https://github.com/gesellkammer/namedtuple2", 
+    "Package Index Owner:": "Eduardo.Moguillansky"
+  }, 
+  "license": "", 
+  "longdescription": "A drop-in replacement for collections.namedtuple allowing default values", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0877f4c44f82827494b38c34be65b21c", 
+  "source_uri": "https://pypi.python.org/packages/source/n/namedtuple2/namedtuple2-1.0.tar.gz"
+}

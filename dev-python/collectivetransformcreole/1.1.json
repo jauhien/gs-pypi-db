@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creole wiki text transform for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.transform.creole", 
+  "info": {
+    "Author:": "Clayton Parker", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.transform.creole", 
+    "License:": "GPL", 
+    "Package Index Owner:": "claytron"
+  }, 
+  "license": "", 
+  "longdescription": "Creole wiki text transform for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "85bcefe9ce6ebdcaf72c9cc56db38dc3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.transform.creole/collective.transform.creole-1.1.tar.gz"
+}

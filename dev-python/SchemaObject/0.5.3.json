@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Iterate over a MySQL database schema as a Python object.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://matuson.com/code/schemaobject", 
+  "info": {
+    "Author:": "Mitch Matuson", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://matuson.com/code/schemaobject", 
+    "Keywords:": "MySQL,database,schema", 
+    "Package Index Owner:": "mmatuson"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Iterate over a MySQL database schema as a Python object.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce436d7c452ee626748b4f1ec76489df", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SchemaObject/SchemaObject-0.5.3.tar.gz"
+}

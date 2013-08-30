@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Post-processing for apobec collocation data from cellprofiler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "www.pei.de", 
+  "info": {
+    "Author:": "Jan-Hendrik Tr\u00f6semeier, Sabine Klawitter, Gerald Schumann, Christel Kamp", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "www.pei.de", 
+    "Package Index Owner:": "jtroesemeier"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Post-processing for apobec collocation data from cellprofiler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "51c3126cf98de42ca76af87f9960c75f", 
+  "source_uri": "https://pypi.python.org/packages/source/a/apocell/apocell-1.0.2.tar.gz"
+}

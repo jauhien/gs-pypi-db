@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "dump and restore binary data in hex form", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/techtonik/hexdump/", 
+  "info": {
+    "Author:": "anatoly techtonik <techtonik@gmail.com>", 
+    "Categories": {
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/techtonik/hexdump/", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "techtonik"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "dump and restore binary data in hex form", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19b67c288cc89db1d71544191e99e2f4", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hexdump/hexdump-0.5.tar.gz"
+}

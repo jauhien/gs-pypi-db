@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A failsafe for the Flask reloader", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mgood/flask-failsafe", 
+  "info": {
+    "Author:": "Matt Good", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mgood/flask-failsafe", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mgood", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A failsafe for the Flask reloader", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19bd77b44811234dce90b6c8bf14e8d1", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Failsafe/Flask-Failsafe-0.1.tar.gz"
+}

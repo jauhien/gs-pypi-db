@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Train timetable checker (Renfe Cercanias, Spain)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/igalarzab/pyrenfe", 
+  "info": {
+    "Author:": "Jose Ignacio Galarza", 
+    "Bug Tracker:": "http://github.com/igalarzab/pyrenfe/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/igalarzab/pyrenfe", 
+    "Keywords:": "timetable,train,cercanias,renfe,spain", 
+    "License:": "MIT", 
+    "Package Index Owner:": "igalarzab"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Train timetable checker (Renfe Cercanias, Spain)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5626cc0d5e7167292debbeee7b55212e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyrenfe/pyrenfe-1.0.tar.gz"
+}

@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Alternative Python bindings for Subversion", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://samba.org/~jelmer/subvertpy", 
+  "info": {
+    "Author:": "Jelmer Vernooij", 
+    "Download URL:": "http://samba.org/~jelmer/subvertpy/subvertpy-0.9.1.tar.gz", 
+    "Home Page:": "http://samba.org/~jelmer/subvertpy", 
+    "Keywords:": "svn subvertpy subversion bindings", 
+    "License:": "LGPLv2.1 or later", 
+    "Package Index Owner:": "jelmer"
+  }, 
+  "license": "", 
+  "longdescription": "Alternative Python bindings for Subversion", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://samba.org/~jelmer/subvertpy/subvertpy-0.9.1.tar.gz"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate Objective-C code that builds Cocoa UIs. Replaces XCodes XIBs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.hardcoded.net/xibless/", 
+  "info": {
+    "Author:": "Virgil Dupras", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "MacOS", 
+        "MacOS X"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//xibless", 
+    "Home Page:": "http://hg.hardcoded.net/xibless/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "hsoft"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generate Objective-C code that builds Cocoa UIs. Replaces XCodes XIBs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d5ee3784e16ad8e5da7ff6b4c5b24a2", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xibless/xibless-0.5.0.tar.gz"
+}

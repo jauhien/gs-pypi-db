@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python extension module for Kerberos 5", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://fedorahosted.org/python-krbV/", 
+  "info": {
+    "Author:": "Mike Bonnet", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "https://fedorahosted.org/python-krbV/", 
+    "Keywords:": "kerberos", 
+    "License:": "GPL", 
+    "Package Index Owner:": "tkdchen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python extension module for Kerberos 5", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77758e1bed2387636ca1989f1d122693", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-krbV/python-krbV-1.0.90.tar.bz2"
+}

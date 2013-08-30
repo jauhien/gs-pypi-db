@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pythonic layer on top of the ROOT frameworks PyROOT bindings.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rootpy.github.com/rootpy", 
+  "info": {
+    "Author:": "the rootpy developers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/r/rootpy/rootpy-0.7.1.tar.gz", 
+    "Home Page:": "http://rootpy.github.com/rootpy", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "pwaller, noeldawe"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A pythonic layer on top of the ROOT frameworks PyROOT bindings.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "534aa282697d0659b2ee34c6a0f26297", 
+  "source_uri": "http://pypi.python.org/packages/source/r/rootpy/rootpy-0.7.1.tar.gz"
+}

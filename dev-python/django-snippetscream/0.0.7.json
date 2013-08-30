@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app packaging the best snippets found on httpdjangosnippets.org", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/shaunsephton/django-snippetscream", 
+  "info": {
+    "Author:": "Shaun Sephton", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/shaunsephton/django-snippetscream", 
+    "Package Index Maintainer:": "hedley", 
+    "Package Index Owner:": "Shaun.Sephton, Praekelt, hedley"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django app packaging the best snippets found on httpdjangosnippets.org", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "20e2f2f6094caac518505623551aa9db", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-snippetscream/django-snippetscream-0.0.7.tar.gz"
+}

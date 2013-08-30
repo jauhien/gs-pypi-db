@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Register JQuery imagesloaded plugin in Plone resource registry", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.js.imagesloaded", 
+  "info": {
+    "Author:": "JeanMichel FRANCOIS aka toutpt", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.js.imagesloaded", 
+    "Keywords:": "plone javascripts imagesloaded", 
+    "License:": "GPL", 
+    "Package Index Owner:": "toutpt"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Register JQuery imagesloaded plugin in Plone resource registry", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b1b8e13ae3c2c3c79f601bfbb836e18", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.js.imagesloaded/collective.js.imagesloaded-2.1.zip"
+}

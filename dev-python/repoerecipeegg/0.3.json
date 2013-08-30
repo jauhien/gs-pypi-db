@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recipe for installing Python package distributions as eggs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.repoze.org/repoze.recipe.egg/trunk/", 
+  "info": {
+    "Author:": "Jim Fulton (forked by Chris McDonough)", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.repoze.org/repoze.recipe.egg/trunk/", 
+    "Keywords:": "development build", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "fairwinds", 
+    "Package Index Owner:": "chrism, fairwinds"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Recipe for installing Python package distributions as eggs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d98a59562f7f647453e8b0e4a51da69", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.recipe.egg/repoze.recipe.egg-0.3.tar.gz"
+}

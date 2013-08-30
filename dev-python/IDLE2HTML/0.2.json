@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This extension saves the contents of your IDLE shell or editor window as XHTML", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blog.d2m.at", 
+  "info": {
+    "Author:": "Michael Haubenwallner", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "IDLE"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://blog.d2m.at", 
+    "Keywords:": "python idle extension", 
+    "Package Index Owner:": "d2m"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "This extension saves the contents of your IDLE shell or editor window as XHTML", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b23d650a4c332afe28acada9c447258a", 
+  "source_uri": "https://pypi.python.org/packages/source/I/IDLE2HTML/IDLE2HTML-0.2.tgz"
+}

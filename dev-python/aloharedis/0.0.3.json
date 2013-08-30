@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Aloharedis is a set of tools for working with redis-py.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/xuecan/aloharedis", 
+  "info": {
+    "Author:": "Xue Can", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/xuecan/aloharedis", 
+    "Keywords:": "redis,lock,cache,ohm,object hash mapper", 
+    "Package Index Owner:": "xuecan"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Aloharedis is a set of tools for working with redis-py.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "07ffa341479e200d898fab66f4a5d192", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aloharedis/aloharedis-0.0.3.tar.gz"
+}

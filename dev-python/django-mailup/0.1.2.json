@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plugin to integrate Django and Mailup", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/marcominutoli/django-mailup.git", 
+  "info": {
+    "Author:": "Marco Minutoli", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/marcominutoli/django-mailup.git", 
+    "Keywords:": "Newsletter,Django,Mailup", 
+    "License:": "BSD", 
+    "Package Index Owner:": "marcominutoli"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A plugin to integrate Django and Mailup", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31afcd231e130aced14f9d21b03ea705", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mailup/django-mailup-0.1.2.tar.gz"
+}

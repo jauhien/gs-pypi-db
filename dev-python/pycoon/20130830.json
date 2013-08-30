@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python WSGI web development framework based on XML pipelines", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pycoon/", 
+  "info": {
+    "Author:": "Andrey Nordin, Richard Lewis", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pycoon/", 
+    "Keywords:": "web framework xml pipeline wsgi middleware cocoon sitemap", 
+    "License:": "GNU GPL v2", 
+    "Package Index Owner:": "anrienord"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python WSGI web development framework based on XML pipelines", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79bd04b9ac2a097575d758ecebf71623", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycoon/pycoon-0.2a5.zip"
+}

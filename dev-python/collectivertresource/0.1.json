@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package is a tiny wrapper around 3c.rtresource so it works in ope2 (tested with 2.10).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Tim Terlegard, JC Brand", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "plone zrtresource", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jcbrand"
+  }, 
+  "license": "", 
+  "longdescription": "This package is a tiny wrapper around 3c.rtresource so it works in ope2 (tested with 2.10).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dce33aed8ba473c3f597db40bb0f05cf", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.zrtresource/collective.zrtresource-0.1.zip"
+}

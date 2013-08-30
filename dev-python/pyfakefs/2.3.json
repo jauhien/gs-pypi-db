@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fakes file system modules for automated developer testing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.google.com/p/pyfakefs", 
+  "info": {
+    "Author:": "Google", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "https://code.google.com/p/pyfakefs", 
+    "Keywords:": "testing,test,file,os,shutil,glob,mocking,unittest,fakes,filesystem,unit", 
+    "Package Index Owner:": "davidlbaird"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Fakes file system modules for automated developer testing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c610ffaa62b38e1c573d09eb56accafe", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyfakefs/pyfakefs-2.3.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cog A code generator for executing Python snippets in source files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://nedbatchelder.com/code/cog", 
+  "info": {
+    "Author:": "Ned Batchelder", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Home Page:": "http://nedbatchelder.com/code/cog", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nedbatchelder"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Cog A code generator for executing Python snippets in source files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d801042bba801e8837f6d9781e7a6454", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cogapp/cogapp-2.3.tar.gz"
+}

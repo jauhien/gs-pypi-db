@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Highly-optimied search trees (red-black, splay, and sorted-list) with optional augmentation (dynamic order statistics, interval trees, etc.)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/banyan", 
+  "info": {
+    "Author:": "Ami Tavory", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Banyan", 
+    "Home Page:": "http://pypi.python.org/pypi/banyan", 
+    "License:": "BSD", 
+    "Package Index Owner:": "atavory"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Highly-optimied search trees (red-black, splay, and sorted-list) with optional augmentation (dynamic order statistics, interval trees, etc.)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e11b452620c3ed8ce4ad9961a382626e", 
+  "source_uri": "https://pypi.python.org/packages/source/B/Banyan/Banyan-0.1.5.tar.gz"
+}

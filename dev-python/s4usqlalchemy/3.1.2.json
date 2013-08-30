@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLAlchemy integration for pyramid", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://s4usqlalchemy.readthedocs.org", 
+  "info": {
+    "Author:": "Simplon B.V. - Wichert Akkerman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://s4usqlalchemy.readthedocs.org", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wichert"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "SQLAlchemy integration for pyramid", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "67971e3bf46beb4ab6f404f0b0979314", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s4u.sqlalchemy/s4u.sqlalchemy-3.1.2.tar.gz"
+}

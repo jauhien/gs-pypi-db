@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A file catalog with an HTTP frontend.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Malthe Borch and Stefan Eletzhofer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "web wsgi bfg zope", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Maintainer:": "malthe", 
+    "Package Index Owner:": "seletz, malthe"
+  }, 
+  "license": "", 
+  "longdescription": "A file catalog with an HTTP frontend.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "942dcd8f01a5e295fa48f399a6a260d9", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.filecat/repoze.filecat-0.2.tar.gz"
+}

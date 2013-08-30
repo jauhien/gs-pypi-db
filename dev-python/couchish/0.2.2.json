@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Couchdb library that includes reference cacheing triggers and consolidates updates.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ish.io", 
+  "info": {
+    "Author:": "Tim Parkin & Matt Goodall", 
+    "Home Page:": "http://ish.io", 
+    "Package Index Owner:": "ish"
+  }, 
+  "license": "", 
+  "longdescription": "Couchdb library that includes reference cacheing triggers and consolidates updates.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0342d283b37517c0acbc65bd46ae448", 
+  "source_uri": "https://pypi.python.org/packages/source/c/couchish/couchish-0.2.2.tar.gz"
+}

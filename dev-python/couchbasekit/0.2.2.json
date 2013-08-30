@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper around CouchBase Python driver for document validation and more.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kirpit/couchbasekit", 
+  "info": {
+    "Author:": "Roy Enjoy", 
+    "Home Page:": "https://github.com/kirpit/couchbasekit", 
+    "Keywords:": "couchbase,couchdb,nosql,validation", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "kirpit"
+  }, 
+  "license": "", 
+  "longdescription": "A wrapper around CouchBase Python driver for document validation and more.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36ab609762cb00e7bd11d7d4e1bbf8bb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/couchbasekit/couchbasekit-0.2.2.tar.gz"
+}

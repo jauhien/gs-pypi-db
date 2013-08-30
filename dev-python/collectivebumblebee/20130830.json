@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration of Bumblebee into plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.bumblebee", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.bumblebee", 
+    "Keywords:": "plone theming diazo deliverance bumblebee", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vangheem"
+  }, 
+  "license": "", 
+  "longdescription": "Integration of Bumblebee into plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a6eefbf8725b390b0a6881ce17455f7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.bumblebee/collective.bumblebee-1.0a3.zip"
+}

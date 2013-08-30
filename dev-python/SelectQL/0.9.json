@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python implementation of the Select-Querying-Language that combines a simple scripting language with individual SQL querying capabilities, allowing to simplify queries for any kind of data.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pypi.python.org/pypi/SelectQL/0.9", 
+  "info": {
+    "Author:": "Andr\u00e9 Dietrich", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://pypi.python.org/pypi/SelectQL/0.9", 
+    "Keywords:": "sql", 
+    "License:": "BSD", 
+    "Package Index Owner:": "andre.dietrich"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python implementation of the Select-Querying-Language that combines a simple scripting language with individual SQL querying capabilities, allowing to simplify queries for any kind of data.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a8f6c62d7665618c5755a4af6f4a231", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SelectQL/SelectQL-0.9.tar.gz"
+}

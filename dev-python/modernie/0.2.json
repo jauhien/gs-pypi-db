@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A hack on top of 2to3 for moderniing code for hybrid codebases.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mitsuhiko/python-modernize", 
+  "info": {
+    "Author:": "Armin Ronacher", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mitsuhiko/python-modernize", 
+    "Package Index Owner:": "mitsuhiko"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A hack on top of 2to3 for moderniing code for hybrid codebases.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "762ed0e73d1af3143349aa121ee9529e", 
+  "source_uri": "https://pypi.python.org/packages/source/m/modernize/modernize-0.2.tar.gz"
+}

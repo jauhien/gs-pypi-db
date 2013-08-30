@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds a Mailing tab to selected content types that allows to select users that have a role on the content and send them a wysiwyg composed email. By Ecreall.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Thomas Desvenain", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "communication,auth", 
+    "License:": "GPL", 
+    "Package Index Owner:": "tdesvenain"
+  }, 
+  "license": "", 
+  "longdescription": "Adds a Mailing tab to selected content types that allows to select users that have a role on the content and send them a wysiwyg composed email. By Ecreall.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "489ebaa5f3c09439ec29cca8168a8b5c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.local.sendto/collective.local.sendto-1.4.zip"
+}

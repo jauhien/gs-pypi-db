@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Remote PDB Debugger Based On PDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.google.com/p/stonelab/wiki/pdbx", 
+  "info": {
+    "Author:": "Stone.J", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Debuggers"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pdbx", 
+    "Home Page:": "https://code.google.com/p/stonelab/wiki/pdbx", 
+    "Package Index Owner:": "stone2083"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Remote PDB Debugger Based On PDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a652c9adae00e40c4b8d033d0c271ad", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pdbx/pdbx-0.3.0.tar.gz"
+}

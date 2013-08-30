@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Translucent persistent objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.zope.org/Products/ZODB", 
+  "info": {
+    "Author:": "Zope Corporation", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Framework": [
+        "ZODB"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.zope.org/Products/ZODB", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "zope.wineggbuilder", 
+    "Package Index Owner:": "J1m, tseaver", 
+    "Platform:": "any"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Translucent persistent objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "556dcac67448bf00111bae7e30fcec87", 
+  "source_uri": "https://pypi.python.org/packages/source/p/persistent/persistent-4.0.6.tar.gz"
+}

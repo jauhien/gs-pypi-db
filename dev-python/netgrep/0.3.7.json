@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Grep-like filter for files based on country codes and ASN", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/netgrep/", 
+  "info": {
+    "Author:": "CSIRT Foundry / Chris Horsley", 
+    "Download URL:": "https://github.com/csirtfoundry/netgrep/tarball/master", 
+    "Home Page:": "http://pypi.python.org/pypi/netgrep/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "chorsley"
+  }, 
+  "license": "", 
+  "longdescription": "Grep-like filter for files based on country codes and ASN", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c72daedd8b42e3a624dd1148452268d5", 
+  "source_uri": "https://github.com/csirtfoundry/netgrep/tarball/master"
+}

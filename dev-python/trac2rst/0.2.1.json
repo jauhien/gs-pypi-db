@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Quick an dirty tool to transform text in Trac Wiki formatting to Restructured Text", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/pcaro/trac2rst", 
+  "info": {
+    "Author:": "Yaco Sistemas", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/pcaro/trac2rst", 
+    "Keywords:": "restructuredtext,rst,converter", 
+    "License:": "MIT", 
+    "Package Index Owner:": "pcaro"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Quick an dirty tool to transform text in Trac Wiki formatting to Restructured Text", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4dbd8144599429d6ce7c7759a870e7bf", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trac2rst/trac2rst-0.2.1.tar.gz"
+}

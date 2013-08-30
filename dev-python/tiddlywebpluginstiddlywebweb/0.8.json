@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A TiddlyWeb store that proxies to another TiddlyWeb server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.tiddlywebweb", 
+  "info": {
+    "Author:": "Chris Dent", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.tiddlywebweb", 
+    "Package Index Owner:": "cdent", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "A TiddlyWeb store that proxies to another TiddlyWeb server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61a7867ff430d9989bb3c9fe3d30a9cf", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.tiddlywebweb/tiddlywebplugins.tiddlywebweb-0.8.tar.gz"
+}

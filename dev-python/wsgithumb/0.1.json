@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "helpers to get a WebOb response to serve static files and thumbnails in an efficient way", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gawel/wsgithumb", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Framework": [
+        "Pylons"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//wsgithumb", 
+    "Home Page:": "http://github.com/gawel/wsgithumb", 
+    "Keywords:": "pyramid wsgi thumbnail PIL X-Sendfile X-Accel-Redirect", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gawel"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "helpers to get a WebOb response to serve static files and thumbnails in an efficient way", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "468a807f86cf7052d5d0d1a691a84202", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgithumb/wsgithumb-0.1.tar.gz"
+}

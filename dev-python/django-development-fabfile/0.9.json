@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fabfile to ease many tasks during development and deployment of Django projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bitmazk/django-development-fabfile", 
+  "info": {
+    "Author:": "Martin Brochhaus", 
+    "Home Page:": "https://github.com/bitmazk/django-development-fabfile", 
+    "Keywords:": "django,fabric,development,environemnt,deployment", 
+    "License:": "The MIT License", 
+    "Package Index Owner:": "mbrochh", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "A fabfile to ease many tasks during development and deployment of Django projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46b5240cf4c91681a66268a8646aba54", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-development-fabfile/django-development-fabfile-0.9.tar.gz"
+}

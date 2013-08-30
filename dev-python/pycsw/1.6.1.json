@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pycsw is an OGC CSW server implementation written in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pycsw.org/", 
+  "info": {
+    "Author:": "Tom Kralidis", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Home Page:": "http://pycsw.org/", 
+    "Keywords:": "pycsw csw catalogue catalog metadata discovery search ogc iso fgdc dif ebrim inspire", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kalxas, tomkralidis", 
+    "Platform:": "all"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "pycsw is an OGC CSW server implementation written in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b61c6253301304cf60be52676abba26", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycsw/pycsw-1.6.1.tar.gz"
+}

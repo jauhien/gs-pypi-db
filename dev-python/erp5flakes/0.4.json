@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper around pyflakes for ERP5 Products and Business Templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.erp5.org/repos/public/erp5/trunk/utils/erp5flakes", 
+  "info": {
+    "Author:": "Jerome Perrin", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://svn.erp5.org/repos/public/erp5/trunk/utils/erp5flakes", 
+    "Keywords:": "erp5 zope2 pyflakes", 
+    "License:": "GPL 2", 
+    "Package Index Owner:": "perrinjerome"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A wrapper around pyflakes for ERP5 Products and Business Templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12c78538d93d59744a4d6228ddcc5201", 
+  "source_uri": "https://pypi.python.org/packages/source/e/erp5flakes/erp5flakes-0.4.tar.gz"
+}

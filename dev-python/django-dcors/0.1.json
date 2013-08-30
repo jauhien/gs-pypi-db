@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django middleware for adding CORS HTTP headers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/prasanthn/django-dcors", 
+  "info": {
+    "Author:": "Prasanth Nair", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/prasanthn/django-dcors", 
+    "Keywords:": "django,CORS", 
+    "License:": "MIT", 
+    "Package Index Owner:": "prasanthn"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django middleware for adding CORS HTTP headers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e90a5e89785a96d26ac939cede78dcb3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dcors/django-dcors-0.1.zip"
+}

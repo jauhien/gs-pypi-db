@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "module, providing conversion of csv file into xml", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/vlcinsky/ttr.xml.csv2xml", 
+  "info": {
+    "Author:": "Jan Vlcinsky", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/vlcinsky/ttr.xml.csv2xml", 
+    "Keywords:": "xml csv module", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vlcinsky"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "module, providing conversion of csv file into xml", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "901c51c56fbe2c089a5244b24052cfda", 
+  "source_uri": "https://pypi.python.org/packages/source/t/ttr.xml.csv2xml/ttr.xml.csv2xml-0.1.2dev002.zip"
+}

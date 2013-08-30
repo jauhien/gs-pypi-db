@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A MongoDB object-document mapping layer for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tleach/mongothon", 
+  "info": {
+    "Author:": "Tom Leach", 
+    "Home Page:": "http://github.com/tleach/mongothon", 
+    "Keywords:": "mongo mongodb database pymongo odm validation", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Tom.Leach"
+  }, 
+  "license": "", 
+  "longdescription": "A MongoDB object-document mapping layer for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aec72b343b4cc5d8e73a463cf4dad5ce", 
+  "source_uri": "https://pypi.python.org/packages/source/M/Mongothon/Mongothon-0.3.0.tar.gz"
+}

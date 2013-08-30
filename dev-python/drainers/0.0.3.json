@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Event-based draining of process output", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nvie/python-drainers/", 
+  "info": {
+    "Author:": "Vincent Driessen", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nvie/python-drainers/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nvie", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Event-based draining of process output", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf61d5c553d16c9b87ef9d2b035a3015", 
+  "source_uri": "https://pypi.python.org/packages/source/d/drainers/drainers-0.0.3.tar.gz"
+}

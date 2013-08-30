@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line tool querying PyPI and Python packages installed on your system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tools.assembla.com/yolk/", 
+  "info": {
+    "Author:": "Rob Cakebread", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://tools.assembla.com/yolk/", 
+    "Keywords:": "PyPI setuptools cheeseshop distutils eggs package management", 
+    "License:": "GPL-2", 
+    "Package Index Owner:": "pythonhead"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Command-line tool querying PyPI and Python packages installed on your system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "100b0f20aaf66aacd53987714cc91c3d", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yolk/yolk-0.4.1.tar.gz"
+}

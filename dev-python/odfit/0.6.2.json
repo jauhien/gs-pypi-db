@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Produces textual information based on the contents of OpenDocument Format files and other archives.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/intuited/odfit", 
+  "info": {
+    "Author:": "Ted Tibbetts", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/intuited/odfit", 
+    "Keywords:": "xml,opendocument,odt,ods,odb,odp,openoffice,archive,zip,dump,diff,compare", 
+    "Package Index Owner:": "intuited"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Produces textual information based on the contents of OpenDocument Format files and other archives.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da6b073948839810994f8f9a9a85fb88", 
+  "source_uri": "https://pypi.python.org/packages/source/o/odfit/odfit-0.6.2.tar.gz"
+}

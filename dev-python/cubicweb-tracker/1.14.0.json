@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "basic tracker with project, version, ticket for the CubicWeb framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-tracker", 
+  "info": {
+    "Author:": "LOGILAB S.A. (Paris, FRANCE)", 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-tracker", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "basic tracker with project, version, ticket for the CubicWeb framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8d41a93da42c7e9e8c31567057013ba2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-tracker/cubicweb-tracker-1.14.0.tar.gz"
+}

@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An audio library based on libsndfile, CFFI and NumPy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bastibe/PySoundFile", 
+  "info": {
+    "Author:": "Bastian Bechtold", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bastibe/PySoundFile", 
+    "Keywords:": "audio,libsndfile", 
+    "License:": "BSD 3-Clause License", 
+    "Package Index Owner:": "bastibe", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An audio library based on libsndfile, CFFI and NumPy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a7bb0468ded3978bab64ac58ae918b5", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PySoundFile/PySoundFile-0.1.tar.gz"
+}

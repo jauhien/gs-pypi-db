@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Last File Manager is a powerful file manager for the UNIX console.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://inigo.katxi.org/devel/lfm", 
+  "info": {
+    "Author:": "Inigo Serna", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console", 
+        "Curses"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://inigo.katxi.org/devel/lfm", 
+    "License:": "GPL", 
+    "Package Index Owner:": "inigoserna", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Last File Manager is a powerful file manager for the UNIX console.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a3399306bbd63dd75851e6993fde92fb", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lfm/lfm-2.3.tar.gz"
+}

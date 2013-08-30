@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple Python interface to Find My iPhone over the iCloud service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/raphaelmutschler/fmi", 
+  "info": {
+    "Author:": "Raphael Mutschler", 
+    "Download URL:": "https://bitbucket.org/raphaelmutschler/fmi/get/master.tar.gz", 
+    "Home Page:": "https://bitbucket.org/raphaelmutschler/fmi", 
+    "Keywords:": "find my iphone,apple,icloud", 
+    "Package Index Owner:": "ruffy"
+  }, 
+  "license": "", 
+  "longdescription": "A simple Python interface to Find My iPhone over the iCloud service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c567eb0dece2731310d1990c26f323cb", 
+  "source_uri": "https://bitbucket.org/raphaelmutschler/fmi/get/master.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Distutils extensions for developing Python libraries and applications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ian Bicking, Ryan Tomayko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Keywords:": "distutils development make build", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "ianb", 
+    "Package Index Owner:": "rtomayko, ianb, bbangert"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Distutils extensions for developing Python libraries and applications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fec620dee05f591edad386366b52e17b", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildutils/buildutils-0.3.tar.gz"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add additional directories to sys.path for nose.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jesse Noller", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "jnoller"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Add additional directories to sys.path for nose.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98e9f452d05579d7337185c3d671ed39", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-pathmunge/nose-pathmunge-0.1.2.tar.gz"
+}

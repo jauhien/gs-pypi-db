@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Encrypted temporary files using session keys.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/louist87/ephemeral", 
+  "info": {
+    "Author:": "Louis Thibault", 
+    "Home Page:": "https://github.com/louist87/ephemeral", 
+    "Keywords:": "cryptography,encryption,file,crypto,AES", 
+    "License:": "GPL 3.0", 
+    "Package Index Owner:": "louist87"
+  }, 
+  "license": "", 
+  "longdescription": "Encrypted temporary files using session keys.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5c72c740a3183bd261e5428cf6a15e02", 
+  "source_uri": "https://pypi.python.org/packages/source/E/Ephemeral/Ephemeral-1.0.tar.gz"
+}

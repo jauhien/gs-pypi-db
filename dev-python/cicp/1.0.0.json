@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small, pluggable ICP (Internet Cache Protocol) server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "svn+ssh://svn.zope.com/repos/main/zc.icp", 
+  "info": {
+    "Author:": "Benji York", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "svn+ssh://svn.zope.com/repos/main/zc.icp", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "benji"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Small, pluggable ICP (Internet Cache Protocol) server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6cc5ace77b4e6463706dacf3c3d84ced", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.icp/zc.icp-1.0.0.tar.gz"
+}

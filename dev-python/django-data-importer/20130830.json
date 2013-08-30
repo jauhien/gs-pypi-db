@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic, easy to use, file reader and importer with validations like Django forms.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/chronossc/django-data-importer", 
+  "info": {
+    "Author:": "Felipe 'chronos' Prenholato", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/chronossc/django-data-importer", 
+    "Package Index Owner:": "chronos"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generic, easy to use, file reader and importer with validations like Django forms.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d82779721a72964eeffa9b9c69b7e8de", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-data-importer/django-data-importer-0.1.0-p3.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ope index to query a daterange on objects with a daterange", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Keywords:": "date start end range query zope index catalog overlap", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "jensens, rnix, thet"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "ope index to query a daterange on objects with a daterange", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5f19d337e679e856d5732e3153999c4e", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.DateRangeInRangeIndex/Products.DateRangeInRangeIndex-1.2.tar.gz"
+}

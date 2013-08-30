@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "an efficient python path API for walking a filesystem with generators", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pathtool/", 
+  "info": {
+    "Author:": "Noah Gift", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Download URL:": "http://pathtool.googlecode.com/files/pathtool-0.1.0-py2.5.egg", 
+    "Home Page:": "http://code.google.com/p/pathtool/", 
+    "Keywords:": "path, api, filesystem", 
+    "License:": "MIT", 
+    "Maintainer:": "Noah Gift", 
+    "Package Index Owner:": "ngift", 
+    "Platform:": "All"
+  }, 
+  "license": "", 
+  "longdescription": "an efficient python path API for walking a filesystem with generators", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://pathtool.googlecode.com/files/pathtool-0.1.0-py2.5.egg"
+}

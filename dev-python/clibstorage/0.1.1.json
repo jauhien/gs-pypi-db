@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ODB storage wrapper for lib compression of database records", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m"
+  }, 
+  "license": "", 
+  "longdescription": "ODB storage wrapper for lib compression of database records", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f336d8b3376cc590acf421e80d17b1f5", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.zlibstorage/zc.zlibstorage-0.1.1.tar.gz"
+}

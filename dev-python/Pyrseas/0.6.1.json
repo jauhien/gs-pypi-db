@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Framework and utilities to upgrade and maintain databases", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pyrseas.org/", 
+  "info": {
+    "Author:": "Joe Abbate", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "SQL"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Pyrseas", 
+    "Home Page:": "http://www.pyrseas.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jmafc", 
+    "Platform:": "OS-independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Framework and utilities to upgrade and maintain databases", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f4ceea140b6ea44c096c2ee9a853c4e", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Pyrseas/Pyrseas-0.6.1.tar.gz"
+}

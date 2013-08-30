@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use shibboleth attributes as authenitcation information in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.ShibbolethPermissions/", 
+  "info": {
+    "Author:": "Tom Gross", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.ShibbolethPermissions/", 
+    "Keywords:": "plone authentication shibboleth pas", 
+    "License:": "GPL", 
+    "Package Index Owner:": "iT0m"
+  }, 
+  "license": "", 
+  "longdescription": "Use shibboleth attributes as authenitcation information in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6bf80e8616f66cb8c4198c306c11fc57", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ShibbolethPermissions/Products.ShibbolethPermissions-0.8b2.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows users to save drafts of PloneFormGen forms in progress", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/pfg.drafts/trunk", 
+  "info": {
+    "Author:": "David Glick, Groundwire", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/pfg.drafts/trunk", 
+    "Keywords:": "ploneformgen form draft save", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "Allows users to save drafts of PloneFormGen forms in progress", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47271364ad0ed586a09ee1cd74f78bdb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pfg.drafts/pfg.drafts-1.1.2.zip"
+}

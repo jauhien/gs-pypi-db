@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client library for nomenklatura, make record linkages on the web.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/okfn/nomenklatura-client", 
+  "info": {
+    "Author:": "Open Knowledge Foundation", 
+    "Home Page:": "http://github.com/okfn/nomenklatura-client", 
+    "Keywords:": "data mapping identity linkage record", 
+    "License:": "AGPLv3", 
+    "Package Index Maintainer:": "pudo", 
+    "Package Index Owner:": "pudo, mihi"
+  }, 
+  "license": "", 
+  "longdescription": "Client library for nomenklatura, make record linkages on the web.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b9e211814db7fc3b1215ad00dfe7d923", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pynomenklatura/pynomenklatura-0.3.1.tar.gz"
+}

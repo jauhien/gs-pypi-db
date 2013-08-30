@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add-on that allows displaying portlets inside a collage.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.plone.org/products/collective.collage.portlets", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.plone.org/products/collective.collage.portlets", 
+    "Keywords:": "collage plone rss portlets", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "djay", 
+    "Package Index Owner:": "ingeniweb, malthe, tdesvenain"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Add-on that allows displaying portlets inside a collage.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b508fff9db3d17561b6875446b77888", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.collage.portlets/collective.collage.portlets-0.3.1.tar.gz"
+}

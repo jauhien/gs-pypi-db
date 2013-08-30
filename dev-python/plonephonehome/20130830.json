@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provide anonymous package usage statistics to the Plone Foundation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "esteele"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Provide anonymous package usage statistics to the Plone Foundation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9cc02fb2725fe7908202eafb86ee95d8", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.phonehome/plone.phonehome-1.0a3.zip"
+}

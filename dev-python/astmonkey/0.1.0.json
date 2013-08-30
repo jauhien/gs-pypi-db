@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "astmonkey is a set of tools to play with Python AST.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/khalas/astmonkey", 
+  "info": {
+    "Author:": "Konrad Ha\u0142as", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/khalas/astmonkey", 
+    "Package Index Owner:": "khalas"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "astmonkey is a set of tools to play with Python AST.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d412cd8b53d3677054aab2d6a2b58653", 
+  "source_uri": "https://pypi.python.org/packages/source/a/astmonkey/astmonkey-0.1.0.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple python wrapper for wkhtmltopdf", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/qoda/python-wkhtmltopdf", 
+  "info": {
+    "Author:": "Qoda", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//wkhtmltopdf", 
+    "Home Page:": "http://github.com/qoda/python-wkhtmltopdf", 
+    "License:": "BSD", 
+    "Package Index Owner:": "qoda"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple python wrapper for wkhtmltopdf", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eab9ca7fb1e889eddaa3ebd8428fb698", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wkhtmltopdf/wkhtmltopdf-0.2.tar.gz"
+}

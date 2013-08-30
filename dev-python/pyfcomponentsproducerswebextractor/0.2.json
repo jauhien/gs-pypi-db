@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PyF Producer plugin to extract data from web pages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyfproject.org", 
+  "info": {
+    "Author:": "Jonathan Schemoul", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pyfproject.org", 
+    "License:": "MIT or PSF", 
+    "Package Index Owner:": "jschemoul"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "PyF Producer plugin to extract data from web pages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b926bcb89ddbd2b074c85920a2cd94c6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyf.components.producers.webextractor/pyf.components.producers.webextractor-0.2.tar.gz"
+}

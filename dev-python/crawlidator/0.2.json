@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A validator that crawls your sitemap.xml", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/charstring/crawlidator", 
+  "info": {
+    "Author:": "Chris Wesseling", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/charstring/crawlidator", 
+    "Keywords:": "validation sitemap.xml", 
+    "License:": "BSD", 
+    "Package Index Owner:": "charstring"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A validator that crawls your sitemap.xml", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "945970ed6fe03f72b0592802c7157726", 
+  "source_uri": "https://pypi.python.org/packages/source/c/crawlidator/crawlidator-0.2.tar.gz"
+}

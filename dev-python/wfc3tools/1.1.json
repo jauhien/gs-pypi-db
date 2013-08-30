@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Tools for WFC3 Data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+  "info": {
+    "Author:": "Megan Sosey", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+    "Package Index Owner:": "stsci_ssb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python Tools for WFC3 Data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b65bb3fa63381c39d158d52ca680b0a", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wfc3tools/wfc3tools-1.1.tar.gz"
+}

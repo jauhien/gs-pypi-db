@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple command line project task tracking tool.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/tasks-tracker", 
+  "info": {
+    "Author:": "Mohamed Diarra", 
+    "Home Page:": "https://launchpad.net/tasks-tracker", 
+    "Package Index Owner:": "mohdiarra"
+  }, 
+  "license": "", 
+  "longdescription": "A simple command line project task tracking tool.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b3ad89bcd548209181525c0f2390e990", 
+  "source_uri": "https://pypi.python.org/packages/source/T/Tasks-Tracker/Tasks-Tracker-0.93.zip"
+}

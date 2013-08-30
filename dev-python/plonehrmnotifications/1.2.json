@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Notifications for Plone HRM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zestsoftware.nl", 
+  "info": {
+    "Author:": "Zest Software", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://zestsoftware.nl", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maurits, jladage, reinout, markvl, vincentpretre"
+  }, 
+  "license": "", 
+  "longdescription": "Notifications for Plone HRM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb2511636987fdb95c9babdab60710a3", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonehrm.notifications/plonehrm.notifications-1.2.tar.gz"
+}

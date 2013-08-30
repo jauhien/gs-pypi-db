@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "extension module backporting opcodes from python3k", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www-rcf.usc.edu/~kaizhu/work/py3to2/old/extension", 
+  "info": {
+    "Author:": "kai zhu", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "C"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www-rcf.usc.edu/~kaizhu/work/py3to2/old/extension", 
+    "Package Index Owner:": "davidbranniganz", 
+    "Platform:": "linux"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "extension module backporting opcodes from python3k", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b93c5e40543eec04012bf991f172dc50", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py3k_extension/py3k_extension-20081023.tar.gz"
+}

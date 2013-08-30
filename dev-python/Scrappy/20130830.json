@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rename video files based on information scraped from thetvdb.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/louist87/scrappy", 
+  "info": {
+    "Author:": "Louis Thibault", 
+    "Home Page:": "https://github.com/louist87/scrappy", 
+    "Keywords:": "TVDB,thetvdb,rename,broadcatching,media", 
+    "License:": "GPL 3.0", 
+    "Package Index Owner:": "louist87"
+  }, 
+  "license": "", 
+  "longdescription": "Rename video files based on information scraped from thetvdb.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9e0d5cad841476dc555dc2dfbfd1c962", 
+  "source_uri": "https://pypi.python.org/packages/source/S/Scrappy/Scrappy-0.3.0.alpha.4.tar.gz"
+}

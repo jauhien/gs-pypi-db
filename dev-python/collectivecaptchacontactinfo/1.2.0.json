@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple customiation for Plone contact-info that add recaptcha for anonymous users", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.captchacontactinfo", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.captchacontactinfo", 
+    "Keywords:": "plone captcha e-mail contact-info", 
+    "License:": "GPL", 
+    "Package Index Owner:": "micecchi, massimo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A simple customiation for Plone contact-info that add recaptcha for anonymous users", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aacaac45fc8f29d36b779725c879f255", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.captchacontactinfo/collective.captchacontactinfo-1.2.0.zip"
+}

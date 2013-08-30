@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "svn-like commandline interface to TortoiseSVN", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Tobias Herp", 
+    "License:": "GPL", 
+    "Package Index Owner:": "TobiasHerp"
+  }, 
+  "license": "", 
+  "longdescription": "svn-like commandline interface to TortoiseSVN", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f10fbc28f8d157481ed3301333c1190f", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tsvn/tsvn-0.3.13.zip"
+}

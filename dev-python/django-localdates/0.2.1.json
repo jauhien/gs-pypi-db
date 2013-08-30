@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An addition to django that allows better presentation of date strings in a local way.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-localdates/", 
+  "info": {
+    "Author:": "Orestis Markou", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/django-localdates/", 
+    "Package Index Owner:": "orestis"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An addition to django that allows better presentation of date strings in a local way.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82f68f6a23e3f594101c9efbdf3834bd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-localdates/django-localdates-0.2.1.tar.gz"
+}

@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Products.MailHost patch to use ope.sendmail", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "plone smtp", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "Products.MailHost patch to use ope.sendmail", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69148df2376b008651dd9fe6e92b4ecf", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iw.mailhost/iw.mailhost-0.3.tar.gz"
+}

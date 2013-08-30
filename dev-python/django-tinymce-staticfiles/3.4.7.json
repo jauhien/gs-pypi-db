@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TinyMCE Static Files for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tinymce.com/", 
+  "info": {
+    "Author:": "Alex Tomkins", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.tinymce.com/", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "tomkins", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "TinyMCE Static Files for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da8fee0a9eb97b5d28839549653cd62e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tinymce-staticfiles/django-tinymce-staticfiles-3.4.7.tar.gz"
+}

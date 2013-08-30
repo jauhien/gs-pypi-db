@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reads and sets routing configuration from a package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fizyk/pyramid_routing", 
+  "info": {
+    "Author:": "Grzegorz Sliwinski", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//tzf.pyramid_routing", 
+    "Home Page:": "https://github.com/fizyk/pyramid_routing", 
+    "Keywords:": "pyramid routing", 
+    "Package Index Owner:": "fizyk"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Reads and sets routing configuration from a package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f2de474c8bcab5d64113c972a250c38", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tzf.pyramid_routing/tzf.pyramid_routing-0.1.0.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe to precompile python and po files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/plone/plone.recipe.precompiler", 
+  "info": {
+    "Author:": "Steve McMahon", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/plone/plone.recipe.precompiler", 
+    "Keywords:": "buildout", 
+    "License:": "GPL v 2", 
+    "Package Index Owner:": "esteele, smcmahon, chaoflow"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "c.buildout recipe to precompile python and po files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "10ded1097f769064a2893e3624418cd6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.recipe.precompiler/plone.recipe.precompiler-0.6.zip"
+}

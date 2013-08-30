@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Remote Service Library UPnP module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/rslib/", 
+  "info": {
+    "Author:": "Gerhard Weis", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://sourceforge.net/projects/rslib/", 
+    "License:": "BSD-like", 
+    "Package Index Owner:": "gweis"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Remote Service Library UPnP module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b2addb486cc2c47c4efceb2985f894a", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rsl.upnp/rsl.upnp-0.2.0.tar.bz2"
+}

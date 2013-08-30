@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enhanced discussion support for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.discussion", 
+  "info": {
+    "Author:": "Timo Stollenwerk - Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//plone.app.discussion", 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.discussion", 
+    "Keywords:": "plone discussion", 
+    "License:": "GPL", 
+    "Package Index Owner:": "garbas, gotcha, davisagli, timo, hannosch, esteele"
+  }, 
+  "license": "", 
+  "longdescription": "Enhanced discussion support for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b0cb1fbdf8a7a238cf5a58fb10c24731", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.discussion/plone.app.discussion-2.1.8.zip"
+}

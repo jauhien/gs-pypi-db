@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds portlet to search event content types for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.searchevent", 
+  "info": {
+    "Author:": "Taito Horiuchi", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//collective.searchevent", 
+    "Home Page:": "https://github.com/collective/collective.searchevent", 
+    "License:": "BSD", 
+    "Package Index Owner:": "taito"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds portlet to search event content types for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e7d53ee1ba7b43a5c1801415135481ff", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.searchevent/collective.searchevent-0.6.1.zip"
+}

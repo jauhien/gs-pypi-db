@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Draws Python object reference graphs with graphvi", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mg.pov.lt/objgraph/", 
+  "info": {
+    "Author:": "Marius Gedminas", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://mg.pov.lt/objgraph/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mgedmin"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Draws Python object reference graphs with graphvi", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e7422096f2e5bd47e7873a948979e70d", 
+  "source_uri": "https://pypi.python.org/packages/source/o/objgraph/objgraph-1.7.2.tar.gz"
+}

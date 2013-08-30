@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "relationship query language (RQL) utilities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.logilab.org/project/rql", 
+  "info": {
+    "Author:": "Logilab", 
+    "Home Page:": "http://www.logilab.org/project/rql", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "relationship query language (RQL) utilities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1d44db81037a2d18a38523c23c6c13d6", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rql/rql-0.31.4.tar.gz"
+}

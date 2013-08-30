@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cache Catalog results with memcached - experimental", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Hedley Roos & Roche Compaan", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "GPL", 
+    "Package Index Owner:": "hedley"
+  }, 
+  "license": "", 
+  "longdescription": "Cache Catalog results with memcached - experimental", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f654ddea5a241c004c5b346b1602de1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.catalogcache/collective.catalogcache-0.2.tar.gz"
+}

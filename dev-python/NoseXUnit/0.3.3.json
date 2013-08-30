@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XML Output plugin for Nose", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://nosexunit.sourceforge.net", 
+  "info": {
+    "Author:": "Olivier Mansion", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://nosexunit.sourceforge.net", 
+    "License:": "GNU Library or Lesser General Public License (LGPL)", 
+    "Package Index Owner:": "nosexunit"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "XML Output plugin for Nose", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82a98914478b65e2af759154e85ce4f1", 
+  "source_uri": "https://pypi.python.org/packages/source/N/NoseXUnit/NoseXUnit-0.3.3.tar.gz"
+}

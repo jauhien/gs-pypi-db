@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ODF template handler and odt to html, pdf, doc, etc converter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/netangels/django-webodt", 
+  "info": {
+    "Author:": "NetAngels", 
+    "Documentation:": "http://pythonhosted.org//django-webodt", 
+    "Home Page:": "http://github.com/netangels/django-webodt", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "NetAngels"
+  }, 
+  "license": "", 
+  "longdescription": "ODF template handler and odt to html, pdf, doc, etc converter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "945dccfdb015d954b722243fd6819936", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-webodt/django-webodt-0.3.1.tar.gz"
+}

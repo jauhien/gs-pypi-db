@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An installable theme for Plone 3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "David Jonas", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "web zope plone theme", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davidjonas"
+  }, 
+  "license": "", 
+  "longdescription": "An installable theme for Plone 3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "91e06aa4654f63607a588892f233a06e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonetheme.porseleinplaats/plonetheme.porseleinplaats-0.54.tar.gz"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A meta package-manager to deploy projects on UNIX Systemes sponsored by Makina Corpus.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/minitage", 
+  "info": {
+    "Author:": "Mathieu Le Marec - Pasquet", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/minitage", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kiorky"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A meta package-manager to deploy projects on UNIX Systemes sponsored by Makina Corpus.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5c94c9b18983b2d3b0f8280d021880a", 
+  "source_uri": "https://pypi.python.org/packages/source/m/minitage/minitage-2.0.66.zip"
+}

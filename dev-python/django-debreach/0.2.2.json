@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds middleware and context processors to give some protection against the BREACH attack in Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lpomfrey/django-debreach", 
+  "info": {
+    "Author:": "Luke Pomfrey", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lpomfrey/django-debreach", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lpomfrey"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds middleware and context processors to give some protection against the BREACH attack in Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4e4bae0d6f6bd84faa1071dd390729e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-debreach/django-debreach-0.2.2.tar.gz"
+}

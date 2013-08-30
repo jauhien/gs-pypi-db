@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool to cluster documents according to text similarity.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/davedash/textcluster", 
+  "info": {
+    "Author:": "Dave Dash", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Indexing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/davedash/textcluster", 
+    "License:": "BSD", 
+    "Package Index Owner:": "davedash"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tool to cluster documents according to text similarity.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "90d34b8d53bce9266af9f1f0374474a8", 
+  "source_uri": "https://pypi.python.org/packages/source/t/textcluster/textcluster-0.0.2.tar.gz"
+}

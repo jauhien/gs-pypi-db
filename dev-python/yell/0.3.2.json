@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "User notification library with pluggable backends. Compatible with popular frameworks such as Django, Flask, Celery.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/caffeinehit/yell", 
+  "info": {
+    "Author:": "Alen Mujezinovic", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/caffeinehit/yell", 
+    "Keywords:": "django flask celery user notifications yell buffalo", 
+    "Package Index Owner:": "flashingpumpkin"
+  }, 
+  "license": "", 
+  "longdescription": "User notification library with pluggable backends. Compatible with popular frameworks such as Django, Flask, Celery.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c89b6cf3a68cfc56184bbd97c55c355d", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yell/yell-0.3.2.tar.gz"
+}

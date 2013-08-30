@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django storage backend to be used with S3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ulyssesv/django-cached-s3-storage", 
+  "info": {
+    "Author:": "Ulysses V", 
+    "Home Page:": "https://github.com/ulyssesv/django-cached-s3-storage", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ulyssesv"
+  }, 
+  "license": "", 
+  "longdescription": "Django storage backend to be used with S3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "097dab1d0e777a97c4cafbef0192635c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cached-s3-storage/django-cached-s3-storage-0.2.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create ope.interface style interfaces from a WSDL file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/wsdl2interface", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Home Page:": "http://pypi.python.org/pypi/wsdl2interface", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Create ope.interface style interfaces from a WSDL file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "28513f69c8142b9f3ec6db19b98ab425", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsdl2interface/wsdl2interface-1.0b2.tar.gz"
+}

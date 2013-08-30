@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use simple python scripts as c.buildout extensions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "fschulze, aclark"
+  }, 
+  "license": "", 
+  "longdescription": "Use simple python scripts as c.buildout extensions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2fa09cd0577076ee6bfc5edc4bd1d757", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildout.extensionscripts/buildout.extensionscripts-1.0.zip"
+}

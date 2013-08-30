@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django application that provides the ability to publish content under different licenses.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/jezdez/django-licenses/", 
+  "info": {
+    "Author:": "Jannis Leidel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/jezdez/django-licenses/", 
+    "Package Index Owner:": "and3k, jezdez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django application that provides the ability to publish content under different licenses.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f402b53e9fe21de393acb273d429bc4e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-licenses/django-licenses-0.2.5.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Assorted building blocks for WSGI applications using paste and webob", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ejucovy/pastables", 
+  "info": {
+    "Author:": "Ethan Jucovy", 
+    "Home Page:": "http://github.com/ejucovy/pastables", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "Assorted building blocks for WSGI applications using paste and webob", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d969021ca71ee52b69a7bc83e430d95b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pastables/pastables-0.0.tar.gz"
+}

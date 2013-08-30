@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Splinter subplugin for Pytest BDD plugin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/olegpidsadnyi/pytest-bdd-splinter", 
+  "info": {
+    "Author:": "Oleg Pidsadnyi", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/olegpidsadnyi/pytest-bdd-splinter", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "anatoly"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Splinter subplugin for Pytest BDD plugin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db550e25a48400b48da18ba95053a6a6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-bdd-splinter/pytest-bdd-splinter-0.5.1.tar.gz"
+}

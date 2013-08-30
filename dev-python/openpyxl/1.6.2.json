@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python library to readwrite Excel 2007 xlsxxlsm files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://openpyxl.readthedocs.org", 
+  "info": {
+    "Author:": "Eric Gazoni", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//openpyxl", 
+    "Download URL:": "http://bitbucket.org/ericgazoni/openpyxl/downloads", 
+    "Home Page:": "http://openpyxl.readthedocs.org", 
+    "License:": "MIT/Expat", 
+    "Package Index Owner:": "eric.gazoni"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Python library to readwrite Excel 2007 xlsxxlsm files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f24ed772c98f24ae693f8ab6c7b7016", 
+  "source_uri": "http://bitbucket.org/ericgazoni/openpyxl/downloads"
+}

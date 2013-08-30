@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A git porcelain to manage bidirectional subtree syncing with foreign git repositories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jsirois/sapling", 
+  "info": {
+    "Author:": "John Sirois", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jsirois/sapling", 
+    "License:": "Apache License Version 2.0", 
+    "Package Index Owner:": "John.Sirois"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A git porcelain to manage bidirectional subtree syncing with foreign git repositories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ef23d5872ee478ae222a9a44883759c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sapling/sapling-0.0.10.tar.gz"
+}

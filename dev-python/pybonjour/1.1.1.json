@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure-Python interface to Apple Bonjour and compatible DNS-SD libraries", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pybonjour/", 
+  "info": {
+    "Author:": "Christopher Stawarz", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/pybonjour/downloads/list?can=1", 
+    "Home Page:": "http://code.google.com/p/pybonjour/", 
+    "Package Index Owner:": "cstawarz"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Pure-Python interface to Apple Bonjour and compatible DNS-SD libraries", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://code.google.com/p/pybonjour/downloads/list?can=1"
+}

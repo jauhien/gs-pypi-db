@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "gocept.amqprun helps you writing and running AMQP consumers, and sending AMQPmessages. It currently only supports AMQP 0-8 and integrates with the ope ToolKit (TK) so you can use adapters, utilities and all the bu.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.gocept.com/hg/public/gocept.amqprun", 
+  "info": {
+    "Author:": "gocept <cz at gocept dot com>", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://code.gocept.com/hg/public/gocept.amqprun", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ckauhaus, ctheune, sweh, DanielHavlikGocept, tlotze, icemac, wosc, zagy"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "gocept.amqprun helps you writing and running AMQP consumers, and sending AMQPmessages. It currently only supports AMQP 0-8 and integrates with the ope ToolKit (TK) so you can use adapters, utilities and all the bu.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c019774fb347b05014e81d11191e0932", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.amqprun/gocept.amqprun-0.10.zip"
+}

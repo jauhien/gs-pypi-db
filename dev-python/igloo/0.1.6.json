@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command line SCP client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mtth/igloo/", 
+  "info": {
+    "Author:": "Matthieu Monsch", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mtth/igloo/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mtth"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A command line SCP client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1d99453b24ca908367d1472b3d712e9", 
+  "source_uri": "https://pypi.python.org/packages/source/i/igloo/igloo-0.1.6.tar.gz"
+}

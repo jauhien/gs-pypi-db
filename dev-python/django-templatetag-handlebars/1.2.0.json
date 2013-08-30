@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily embed Handlebars.js templates in your django templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/makinacorpus/django-templatetag-handlebars", 
+  "info": {
+    "Author:": "Mathieu Leplatre", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/django-templatetag-handlebars/", 
+    "Home Page:": "https://github.com/makinacorpus/django-templatetag-handlebars", 
+    "License:": "LPGL, see LICENSE file.", 
+    "Package Index Owner:": "leplatrem"
+  }, 
+  "license": "", 
+  "longdescription": "Easily embed Handlebars.js templates in your django templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2eb9932a484cfc33d6ca9ad6c0ed8e89", 
+  "source_uri": "http://pypi.python.org/pypi/django-templatetag-handlebars/"
+}

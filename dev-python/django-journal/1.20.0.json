@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Keep a structured -- i.e. not just log strings -- journal of events in your applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.entrouvert.org/projects/django-journal/", 
+  "info": {
+    "Author:": "Entr'ouvert", 
+    "Download URL:": "http://repos.entrouvert.org/django-journal.git/", 
+    "Home Page:": "http://dev.entrouvert.org/projects/django-journal/", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "entrouvert"
+  }, 
+  "license": "", 
+  "longdescription": "Keep a structured -- i.e. not just log strings -- journal of events in your applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32e5ee98c536752ccceff543d28e0260", 
+  "source_uri": "http://repos.entrouvert.org/django-journal.git/"
+}

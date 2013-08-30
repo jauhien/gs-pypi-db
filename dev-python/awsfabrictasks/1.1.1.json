@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fabric tasks for Amaon Web Services.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/espenak/awsfabrictasks", 
+  "info": {
+    "Author:": "Espen Angell Kristiansen", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/espenak/awsfabrictasks", 
+    "License:": "BSD", 
+    "Package Index Owner:": "espeak"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Fabric tasks for Amaon Web Services.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c86da8fa97e40d51d627d8a2a9c2a1fe", 
+  "source_uri": "https://pypi.python.org/packages/source/a/awsfabrictasks/awsfabrictasks-1.1.1.tar.gz"
+}

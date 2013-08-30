@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django backend database support for MS SQL 2005 and up.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/cramm/django-sqlserver", 
+  "info": {
+    "Author:": "Mikhail Denisenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/cramm/django-sqlserver", 
+    "License:": "MIT", 
+    "Package Index Owner:": "denisenkom"
+  }, 
+  "license": "", 
+  "longdescription": "Django backend database support for MS SQL 2005 and up.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f8be141c4b2136d8d1f7880d98e7c1dc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sqlserver/django-sqlserver-0.3b.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Voice-driven scriptable daemon.  Matt Daemon.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mattd.rtfd.org/", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Home Page:": "http://mattd.rtfd.org/", 
+    "License:": "AGPLv3+", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "Voice-driven scriptable daemon.  Matt Daemon.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d1e6fb78ccf88f633f594d423d84655", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mattd.core/mattd.core-0.0.5.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "bindings to picosat (a SAT solver)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ContinuumIO/pycosat", 
+  "info": {
+    "Author:": "Ilan Schnell", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ContinuumIO/pycosat", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ilanschnell"
+  }, 
+  "license": "", 
+  "longdescription": "bindings to picosat (a SAT solver)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b2bf00788b2607514b8cd5951217a888", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycosat/pycosat-0.6.0.tar.gz"
+}

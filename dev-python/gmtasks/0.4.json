@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Gearman Task Server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ex-nerd/gmtasks", 
+  "info": {
+    "Author:": "Chris Petersen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//gmtasks", 
+    "Home Page:": "https://github.com/ex-nerd/gmtasks", 
+    "License:": "Modified BSD", 
+    "Package Index Owner:": "exnerd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Gearman Task Server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0eb0ba4a213f3a83fe8f06a57ebaf394", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gmtasks/gmtasks-0.4.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Formats Python log messages as log4j XMLLayout XML", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/XMLLayout", 
+  "info": {
+    "Author:": "Philip Jenvey", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/XMLLayout", 
+    "Keywords:": "logging log4j", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pjenvey"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Formats Python log messages as log4j XMLLayout XML", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cbf2a0b94769206773fd42fe0d1baebe", 
+  "source_uri": "https://pypi.python.org/packages/source/X/XMLLayout/XMLLayout-1.0.tar.gz"
+}

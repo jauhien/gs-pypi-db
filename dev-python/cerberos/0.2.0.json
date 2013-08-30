@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cerberos is a django app that watches failed logins and block the user after N attempts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/AdrianRibao/cerberos", 
+  "info": {
+    "Author:": "Adri\u00e1n Ribao", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "https://github.com/AdrianRibao/cerberos", 
+    "License:": "BSD", 
+    "Package Index Owner:": "adrianribao", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Cerberos is a django app that watches failed logins and block the user after N attempts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "279edbdec38d6e125cba9e68fb351220", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cerberos/cerberos-0.2.0.tar.gz"
+}

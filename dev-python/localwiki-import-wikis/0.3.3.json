@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Import legacy wiki engines into LocalWiki", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/philipn/localwiki-import-wikis", 
+  "info": {
+    "Author:": "Philip Neustrom", 
+    "Home Page:": "http://github.com/philipn/localwiki-import-wikis", 
+    "Package Index Owner:": "philipn"
+  }, 
+  "license": "", 
+  "longdescription": "Import legacy wiki engines into LocalWiki", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79e8a30d53e2888525c09251b092b2ba", 
+  "source_uri": "https://pypi.python.org/packages/source/l/localwiki-import-wikis/localwiki-import-wikis-0.3.3.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enable MapReduce style data processing on App Engine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.google.com/p/appengine-mapreduce/", 
+  "info": {
+    "Author:": "Google App Engine", 
+    "Home Page:": "https://code.google.com/p/appengine-mapreduce/", 
+    "Keywords:": "google app engine mapreduce data processing", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "Ye.Yuan"
+  }, 
+  "license": "", 
+  "longdescription": "Enable MapReduce style data processing on App Engine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4068a8744e0a33dcfa1da95b9dd2eaaf", 
+  "source_uri": "https://pypi.python.org/packages/source/G/GoogleAppEngineMapReduce/GoogleAppEngineMapReduce-1.8.3.1.tar.gz"
+}

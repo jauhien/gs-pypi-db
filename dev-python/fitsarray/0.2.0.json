@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An ndarray subclass with a fits header", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Nicolas Barbey", 
+    "Package Index Owner:": "nbarbey"
+  }, 
+  "license": "", 
+  "longdescription": "An ndarray subclass with a fits header", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a2b1e4d62f49769e5c47be47aeaf15f7", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fitsarray/fitsarray-0.2.0.tar.gz"
+}

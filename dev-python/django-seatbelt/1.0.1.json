@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple sandbox that isolates production applications from things users stick in usrlocal", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zyga/django-seatbelt", 
+  "info": {
+    "Author:": "Zygmunt Krynicki", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zyga/django-seatbelt", 
+    "License:": "LGPL3", 
+    "Package Index Owner:": "zyga"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Simple sandbox that isolates production applications from things users stick in usrlocal", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "008002eb973a5c165bc27b54e3b86751", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-seatbelt/django-seatbelt-1.0.1.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ODB-friendly BTree-based list implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Gary Poster", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tlotze"
+  }, 
+  "license": "", 
+  "longdescription": "ODB-friendly BTree-based list implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "335eb7fa3b8a5a3ac13dc37ac4337e76", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.blist/zc.blist-1.0b2.tar.gz"
+}

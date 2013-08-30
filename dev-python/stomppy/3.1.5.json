@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python STOMP client, supporting versions 1.0 and 1.1 of the protocol", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/stomppy", 
+  "info": {
+    "Author:": "Jason R Briggs", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/stomppy", 
+    "Package Index Owner:": "jasonrbriggs"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python STOMP client, supporting versions 1.0 and 1.1 of the protocol", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b165e3445f8816f351d40279b182fd99", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stomp.py/stomp.py-3.1.5.tar.gz"
+}

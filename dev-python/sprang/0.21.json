@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helper shell script allowing posting and retrieving of text snippets via sprunge.us pastebin service.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jingleman/sprang", 
+  "info": {
+    "Author:": "JingleManSweep", 
+    "Home Page:": "http://github.com/jingleman/sprang", 
+    "Package Index Owner:": "jinglemansweep"
+  }, 
+  "license": "", 
+  "longdescription": "Helper shell script allowing posting and retrieving of text snippets via sprunge.us pastebin service.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73bf580a578451c937a745064657d37b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sprang/sprang-0.21.tar.gz"
+}

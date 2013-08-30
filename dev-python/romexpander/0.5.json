@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "NES ROM Expansion script compatible with DvDs ROM Expander Pro.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cdf.utoronto.ca/~g8m/", 
+  "info": {
+    "Author:": "Devon Meunier", 
+    "Home Page:": "http://www.cdf.utoronto.ca/~g8m/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "meunierd"
+  }, 
+  "license": "", 
+  "longdescription": "NES ROM Expansion script compatible with DvDs ROM Expander Pro.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3403fb31b3c184905f78a0ff708c40e3", 
+  "source_uri": "https://pypi.python.org/packages/source/r/romexpander/romexpander-0.5.tar.gz"
+}

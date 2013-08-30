@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client library for OpenStack Compute API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/openstack/python-novaclient", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/openstack/python-novaclient", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "sdirector, openstackci"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Client library for OpenStack Compute API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9890462a57c8388f5f38e179a1953fe5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-novaclient/python-novaclient-2.14.1.tar.gz"
+}

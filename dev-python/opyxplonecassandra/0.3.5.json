@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Show all assigned local roles within a subtree for any Plone 4 site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zopyx.plone.cassandra", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zopyx.plone.cassandra", 
+    "Keywords:": "web zope plone theme", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "", 
+  "longdescription": "Show all assigned local roles within a subtree for any Plone 4 site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4cdcc948918c37dca304ee09b5f72a0", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zopyx.plone.cassandra/zopyx.plone.cassandra-0.3.5.zip"
+}

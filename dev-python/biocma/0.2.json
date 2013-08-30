@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IO and utilities for the Consensus Multiple Alignment (CMA) file format.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/etal/biocma", 
+  "info": {
+    "Author:": "Eric Talevich", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://github.com/etal/biocma", 
+    "Package Index Owner:": "etal"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "IO and utilities for the Consensus Multiple Alignment (CMA) file format.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7eb590d3bfe6cc1b916836a1658b529", 
+  "source_uri": "https://pypi.python.org/packages/source/b/biocma/biocma-0.2.tar.gz"
+}

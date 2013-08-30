@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for Gist API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kennethreitz/gistapi.py", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Home Page:": "http://github.com/kennethreitz/gistapi.py", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kennethreitz"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper for Gist API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b4188f22a48155eb7d4d34c936ab485", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gistapi/gistapi-0.2.4.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Makes it easy to test Django templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ojii/django-template-server", 
+  "info": {
+    "Author:": "Jonas Obrist", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ojii/django-template-server", 
+    "Keywords:": "django templates", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ojii"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Makes it easy to test Django templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2fbafc910a22cd07285b25941258654", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-template-server/django-template-server-0.3.1.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python PAM module which allows you to integrate the Yubikey into your existing user authentication infrastructure (supports online, failback and offline mode)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Kami/advanced-yubico-pam-module/", 
+  "info": {
+    "Author:": "Toma\u00c5\u00be Muraus", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "http://github.com/Kami/advanced-yubico-pam-module/", 
+    "Home Page:": "http://github.com/Kami/advanced-yubico-pam-module/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Kami"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python PAM module which allows you to integrate the Yubikey into your existing user authentication infrastructure (supports online, failback and offline mode)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dfc0d42ab46b8e547496f8f5b3beb677", 
+  "source_uri": "http://github.com/Kami/advanced-yubico-pam-module/"
+}

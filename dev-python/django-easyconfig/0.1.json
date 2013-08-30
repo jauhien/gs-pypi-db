@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Module to make it easy to configure external Django apps.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/petersanchez/django-easyconfig/", 
+  "info": {
+    "Author:": "Peter Sanchez", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/petersanchez/django-easyconfig/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "petersanchez", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Module to make it easy to configure external Django apps.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4be411dae8935e2cc6af3cc0eadadc1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-easyconfig/django-easyconfig-0.1.tar.gz"
+}

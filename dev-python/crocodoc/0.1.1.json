@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python wrapper around the Crocodoc API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://crocodoc.com", 
+  "info": {
+    "Author:": "Crocodoc, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://crocodoc.com", 
+    "License:": "MIT", 
+    "Package Index Owner:": "crocodoc"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Python wrapper around the Crocodoc API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2e15121008dee6ea351523cf7b2df14", 
+  "source_uri": "https://pypi.python.org/packages/source/c/crocodoc/crocodoc-0.1.1.tar.gz"
+}

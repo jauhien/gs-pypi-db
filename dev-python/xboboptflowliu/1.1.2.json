@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings to the optical flow framework by C. Liu", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/xbob.optflow.liu", 
+  "info": {
+    "Author:": "Andre Anjos", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Image Recognition"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/xbob.optflow.liu", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "laurentes, anjos"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Python bindings to the optical flow framework by C. Liu", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b6bf59123a92e21d09f0b65f386c0c0b", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xbob.optflow.liu/xbob.optflow.liu-1.1.2.zip"
+}

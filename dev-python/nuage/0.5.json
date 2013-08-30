@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line client for manage applications in nuage platform", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nuagehq.com/", 
+  "info": {
+    "Author:": "The Nuage Team", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://www.nuagehq.com/", 
+    "Keywords:": "cloud django wsgi deployment", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jorgeecardona"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Command line client for manage applications in nuage platform", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "51f11d83bef540c4de3f59d8b0839b0b", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nuage/nuage-0.5.tar.gz"
+}

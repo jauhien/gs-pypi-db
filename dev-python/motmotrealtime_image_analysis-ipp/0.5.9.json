@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "several image analysis functions that require Intel IPP and FastImage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.astraw.com/projects/motmot", 
+  "info": {
+    "Author:": "Andrew Straw", 
+    "Home Page:": "http://code.astraw.com/projects/motmot", 
+    "License:": "BSD", 
+    "Package Index Owner:": "astraw"
+  }, 
+  "license": "", 
+  "longdescription": "several image analysis functions that require Intel IPP and FastImage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0c3e041209a2bb7c7968306882b1c2a", 
+  "source_uri": "https://pypi.python.org/packages/source/m/motmot.realtime_image_analysis-ipp/motmot.realtime_image_analysis-ipp-0.5.9.tar.gz"
+}

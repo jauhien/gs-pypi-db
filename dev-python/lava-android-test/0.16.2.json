@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LAVA android test execution framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/lava-android-test", 
+  "info": {
+    "Author:": "Linaro Validation Team", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/lava-android-test", 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "terceiro, Paul.Larson, mwhudson, zyga, doanac"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "LAVA android test execution framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "904e0c8da9ca89458c8b3cbf918b31c4", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lava-android-test/lava-android-test-0.16.2.tar.gz"
+}

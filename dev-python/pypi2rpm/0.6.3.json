@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Script that transforms a sdist archive into a rpm archive", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/tarek/pypi2rpm", 
+  "info": {
+    "Author:": "Tarek Ziade", 
+    "Home Page:": "http://bitbucket.org/tarek/pypi2rpm", 
+    "License:": "MPL", 
+    "Package Index Maintainer:": "rfk, rafrombrc, alexis.metaireau", 
+    "Package Index Owner:": "tarek"
+  }, 
+  "license": "", 
+  "longdescription": "Script that transforms a sdist archive into a rpm archive", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "752ba7926d2cf496ebd1059083f90554", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pypi2rpm/pypi2rpm-0.6.3.tar.gz"
+}

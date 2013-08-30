@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "patch review system on top of vcsfile", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-vcreview", 
+  "info": {
+    "Author:": "LOGILAB S.A. (Paris, FRANCE)", 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-vcreview", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "patch review system on top of vcsfile", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "78416c632d314076f86f5e2cd08891c4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-vcreview/cubicweb-vcreview-1.1.1.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple CRON field with nice javascript-enabled User Interface and Cron format validation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/knaperek/django-cronfield", 
+  "info": {
+    "Author:": "Jozef Knaperek & Emilia Knaperekova", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/knaperek/django-cronfield", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "knaperek"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple CRON field with nice javascript-enabled User Interface and Cron format validation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "997dc1d6625ab29850246d9d0250eacb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cronfield/django-cronfield-0.1.tar.gz"
+}

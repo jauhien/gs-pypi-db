@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A nose plugin to facilitate the creation of automated tests that access Mongo Engine structures.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mbanton/nose-mongoengine/", 
+  "info": {
+    "Author:": "Marcelo Anton", 
+    "Categories": {
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Download URL:": "http://github.com/mbanton/nose-mongoengine/tarball/master", 
+    "Home Page:": "http://github.com/mbanton/nose-mongoengine/", 
+    "License:": "BSD-derived", 
+    "Package Index Owner:": "mbanton", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A nose plugin to facilitate the creation of automated tests that access Mongo Engine structures.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5d82d0cdd2eb3285ba25c91c4a1e17a9", 
+  "source_uri": "http://github.com/mbanton/nose-mongoengine/tarball/master"
+}

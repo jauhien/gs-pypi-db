@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A curses-based CPM (typing speed) calculator.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://labs.lericson.se/experiments/pycpmc/", 
+  "info": {
+    "Author:": "Ludvig Ericson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console", 
+        "Curses"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://labs.lericson.se/experiments/pycpmc/", 
+    "Package Index Owner:": "toxik"
+  }, 
+  "license": "", 
+  "longdescription": "A curses-based CPM (typing speed) calculator.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6ccc97aaa26178b2f14626e0dd36149", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycpmc/pycpmc-0.1.1.tar.gz"
+}

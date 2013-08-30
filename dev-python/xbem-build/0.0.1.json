@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Build utility for XBEM files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://xslc.org/xbem-build/", 
+  "info": {
+    "Author:": "Marat Abdullin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://xslc.org/xbem-build/", 
+    "Keywords:": "bem xbem build", 
+    "License:": "MIT", 
+    "Package Index Owner:": "hoho"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Build utility for XBEM files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "40d4093da01a4d547c7b06ba28d7abbe", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xbem-build/xbem-build-0.0.1.tar.gz"
+}

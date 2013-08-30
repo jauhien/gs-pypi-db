@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Minimal SQLAlchemy dialect for OpenEdge 10Progress.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dholth/progress_sa", 
+  "info": {
+    "Author:": "Daniel Holth", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Database", 
+        "Database Engines/Servers"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dholth/progress_sa", 
+    "Keywords:": "sqlalchemy database dialect odbc", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joeforker"
+  }, 
+  "license": "", 
+  "longdescription": "Minimal SQLAlchemy dialect for OpenEdge 10Progress.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3e8ab9ab181a582a28761cae7016033a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/progress_sa/progress_sa-0.4.1.tar.gz"
+}

@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows to attach files and images for any objects, specified in configuration.If you use TinyMCE to edit object content, this module makes for you links to files in hyperlink select box and list of images in image select box.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alexander Ivanov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management"
+      ]
+    }, 
+    "Keywords:": "django tinymce attachment", 
+    "License:": "GPLv3", 
+    "Package Index Maintainer:": "evgeniy.gulitsyn, a.iv, victor.smirnov, Propp", 
+    "Package Index Owner:": "victor.smirnov, Redsolution"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Allows to attach files and images for any objects, specified in configuration.If you use TinyMCE to edit object content, this module makes for you links to files in hyperlink select box and list of images in image select box.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "96d4c0086d80c38c013e5e06e34573c0", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redsolutioncms.django-tinymce-attachment/redsolutioncms.django-tinymce-attachment-0.4.1.tar.gz"
+}

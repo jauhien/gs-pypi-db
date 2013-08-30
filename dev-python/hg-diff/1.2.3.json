@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a simple GUI browser for mercurial revisions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg-diff.sourceforge.net", 
+  "info": {
+    "Author:": "Goetz Pfeiffer", 
+    "Bug Tracker:": "http://sourceforge.net/p/hg-diff/tickets/", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/projects/hg-diff/files/", 
+    "Home Page:": "http://hg-diff.sourceforge.net", 
+    "Keywords:": "Version Control, mercurial, GUI, revision browser, diff", 
+    "License:": "GNU GPL version 3 or later, see file LICENSE", 
+    "Package Index Owner:": "Goetz.Pfeiffer", 
+    "Platform:": "Unix, UNIX-like OSs"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "a simple GUI browser for mercurial revisions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://sourceforge.net/projects/hg-diff/files/"
+}

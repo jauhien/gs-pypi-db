@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pdb for setuptools console scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dreamhost/pdbcs", 
+  "info": {
+    "Author:": "Doug Hellmann", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dreamhost/pdbcs", 
+    "Keywords:": "setuptools\ndebugging\npdb", 
+    "License:": "Apache-2", 
+    "Package Index Owner:": "doughellmann"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "pdb for setuptools console scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9ef1183d7fcc0fd886af6bbbeccd538", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pdbcs/pdbcs-0.2.tar.gz"
+}

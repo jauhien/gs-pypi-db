@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe for create and update the flat-files used to store usernames and password for basic authentication of HTTP users", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.recipe.htpasswd", 
+  "info": {
+    "Author:": "Juan A. Diaz", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.recipe.htpasswd", 
+    "Keywords:": "buildout,recipe,htpasswd,password,httpd,apache,nginx", 
+    "License:": "GPL", 
+    "Package Index Owner:": "nueces"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Buildout recipe for create and update the flat-files used to store usernames and password for basic authentication of HTTP users", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b000159fd3c6a9d2161e786356d113d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.htpasswd/collective.recipe.htpasswd-0.1a3.zip"
+}

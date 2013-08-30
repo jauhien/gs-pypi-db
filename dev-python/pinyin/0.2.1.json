@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Translate chinese chars to pinyin based on Mandarin.dat", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lxyu.github.com/pinyin/", 
+  "info": {
+    "Author:": "Lx Yu", 
+    "Home Page:": "http://lxyu.github.com/pinyin/", 
+    "Package Index Owner:": "lxyu"
+  }, 
+  "license": "", 
+  "longdescription": "Translate chinese chars to pinyin based on Mandarin.dat", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d744fe94333c76c8ee59b6d46a2b0b6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pinyin/pinyin-0.2.1.tar.gz"
+}

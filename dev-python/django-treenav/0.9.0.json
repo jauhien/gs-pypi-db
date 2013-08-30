@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extensible, hierarchical, and pluggable navigation system for Django sites", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/caktus/django-treenav", 
+  "info": {
+    "Author:": "Caktus Consulting Group", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/caktus/django-treenav", 
+    "License:": "BSD", 
+    "Package Index Owner:": "caktus, copelco"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Extensible, hierarchical, and pluggable navigation system for Django sites", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f38753f29bd3747652bf43a0c1e35e7d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-treenav/django-treenav-0.9.0.tar.gz"
+}

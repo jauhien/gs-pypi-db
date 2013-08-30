@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Connector from Django to Arecibo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://clearwind.ca", 
+  "info": {
+    "Author:": "Clearwind Consulting", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://clearwind.ca", 
+    "License:": "BSD", 
+    "Package Index Owner:": "andymckay"
+  }, 
+  "license": "", 
+  "longdescription": "Connector from Django to Arecibo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "633ab17fe489d434710628f1d89ad95f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_arecibo/django_arecibo-0.3.4dev.tar.gz"
+}

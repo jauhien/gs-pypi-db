@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A reusable django app providing a generic product catalog for eComerce projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/byteweaver/django-eca-catalogue", 
+  "info": {
+    "Author:": "byteweaver", 
+    "Home Page:": "https://github.com/byteweaver/django-eca-catalogue", 
+    "Package Index Owner:": "byteweaver"
+  }, 
+  "license": "", 
+  "longdescription": "A reusable django app providing a generic product catalog for eComerce projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7b118d350f9f19764312c94ab7e35cc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-eca-catalogue/django-eca-catalogue-0.0.3.tar.gz"
+}

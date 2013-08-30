@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple ToDo app tutorial for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://githib.com/collective/tutorial.todoapp", 
+  "info": {
+    "Author:": "Caipirinha Sprinters", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://githib.com/collective/tutorial.todoapp", 
+    "Keywords:": "Plone Python", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zupo"
+  }, 
+  "license": "", 
+  "longdescription": "A simple ToDo app tutorial for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4485c0b183dc61924164ac50eb07fe40", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tutorial.todoapp/tutorial.todoapp-1.0.zip"
+}

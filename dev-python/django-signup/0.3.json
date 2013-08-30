@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A user registration app for Django with support for custom user models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/fcoelho/django-signup/", 
+  "info": {
+    "Author:": "Felipe Bessa Coelho", 
+    "Documentation:": "http://pythonhosted.org//django-signup", 
+    "Home Page:": "http://bitbucket.org/fcoelho/django-signup/", 
+    "Package Index Owner:": "fcoelho"
+  }, 
+  "license": "", 
+  "longdescription": "A user registration app for Django with support for custom user models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3262560a6908f57eb2d0def1ecf73530", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-signup/django-signup-0.3.tar.gz"
+}

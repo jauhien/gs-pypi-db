@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A connection pool for python-ldap", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mozilla-services/ldappool", 
+  "info": {
+    "Author:": "Mozilla Services", 
+    "Home Page:": "https://github.com/mozilla-services/ldappool", 
+    "Keywords:": "python-ldap,ldap,pool", 
+    "License:": "MPL", 
+    "Package Index Owner:": "tarek"
+  }, 
+  "license": "", 
+  "longdescription": "A connection pool for python-ldap", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f2f9ca14dc36b432d2acd379d196062", 
+  "source_uri": "https://pypi.python.org/packages/source/l/ldappool/ldappool-1.0.tar.gz"
+}

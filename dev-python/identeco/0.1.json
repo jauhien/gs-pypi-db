@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An OpenID Provider for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/eldarion/identeco", 
+  "info": {
+    "Author:": "Donald Stufft", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/eldarion/identeco", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dstufft"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An OpenID Provider for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "496b76bca6d508c5f78c30dacb87ee4b", 
+  "source_uri": "https://pypi.python.org/packages/source/i/identeco/identeco-0.1.tar.gz"
+}

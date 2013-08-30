@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is a collection of Django Model Field classes that are encrypted using Keycar.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/defrex/django-encrypted-fields/", 
+  "info": {
+    "Author:": "Aron Jones", 
+    "Home Page:": "http://github.com/defrex/django-encrypted-fields/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "defrex0"
+  }, 
+  "license": "", 
+  "longdescription": "This is a collection of Django Model Field classes that are encrypted using Keycar.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f94d3d639a52b712c30ca553bfab243c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-encrypted-fields/django-encrypted-fields-1.0.0.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SSH2 protocol library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.lag.net/paramiko/", 
+  "info": {
+    "Author:": "Robey Pointer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://www.lag.net/paramiko/", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "robey, bitprophet", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "SSH2 protocol library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "684dd033b7b84bedf06360ecb8983654", 
+  "source_uri": "https://pypi.python.org/packages/source/p/paramiko/paramiko-1.7.5.zip"
+}

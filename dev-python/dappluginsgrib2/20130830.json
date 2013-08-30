@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "grib2 plugin for pydap server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://db.aoos.org/wiki/index.php/AOOS_Systems_Software_dap_plugin_grib2", 
+  "info": {
+    "Author:": "Rob Cermak", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Home Page:": "https://db.aoos.org/wiki/index.php/AOOS_Systems_Software_dap_plugin_grib2", 
+    "Keywords:": "dap opendap dods data grib2", 
+    "License:": "GPL", 
+    "Maintainer:": "Rob Cermak", 
+    "Package Index Owner:": "cermak", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "grib2 plugin for pydap server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d22a2cf12dc332aa0e61f3beb9edcbd1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dap.plugins.grib2/dap.plugins.grib2-0.0dev-r37.tar.gz"
+}

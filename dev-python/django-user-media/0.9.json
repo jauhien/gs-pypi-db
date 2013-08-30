@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A reusable app to graceously handle files that your users might upload, suchas profile pictures, foto albums etc...", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bitmazk/django-user-media", 
+  "info": {
+    "Author:": "Martin Brochhaus", 
+    "Home Page:": "https://github.com/bitmazk/django-user-media", 
+    "Keywords:": "django,common,reusable,media,files,upload", 
+    "License:": "The MIT License", 
+    "Package Index Owner:": "dkaufhold, Tobias.Lorenz, mbrochh", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "A reusable app to graceously handle files that your users might upload, suchas profile pictures, foto albums etc...", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ecefe1220faac42c26b39237983d5e41", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-user-media/django-user-media-0.9.tar.gz"
+}

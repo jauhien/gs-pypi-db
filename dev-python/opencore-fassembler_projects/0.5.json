@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Assorted fassembler projects for creating repeatable OpenCore builds", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://coactivate.org/projects/opencore", 
+  "info": {
+    "Author:": "Ethan Jucovy", 
+    "Home Page:": "http://coactivate.org/projects/opencore", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "Assorted fassembler projects for creating repeatable OpenCore builds", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b568a37f8cf625f84fa94943a9731918", 
+  "source_uri": "https://pypi.python.org/packages/source/o/opencore-fassembler_projects/opencore-fassembler_projects-0.5.tar.gz"
+}

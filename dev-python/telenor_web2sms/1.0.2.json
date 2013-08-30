@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Console app and Python API for sending SMSs through the Telenor WEB2SMS web app", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/petar/telenor_web2sms", 
+  "info": {
+    "Author:": "Petar Maric", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/petar/telenor_web2sms", 
+    "Home Page:": "https://bitbucket.org/petar/telenor_web2sms", 
+    "License:": "BSD", 
+    "Package Index Owner:": "petar", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Console app and Python API for sending SMSs through the Telenor WEB2SMS web app", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d04564e08a389a0ac905f4f59086421c", 
+  "source_uri": "https://bitbucket.org/petar/telenor_web2sms"
+}

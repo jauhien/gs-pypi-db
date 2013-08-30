@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library for Intel HEX files manipulations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bialix.com/intelhex/", 
+  "info": {
+    "Author:": "Alexander Belchenko", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//IntelHex", 
+    "Download URL:": "https://launchpad.net/intelhex/+download", 
+    "Home Page:": "http://www.bialix.com/intelhex/", 
+    "Keywords:": "Intel HEX HEX8 hex2bin bin2hex", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bialix", 
+    "Platform:": "paltform-independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python library for Intel HEX files manipulations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://launchpad.net/intelhex/+download"
+}

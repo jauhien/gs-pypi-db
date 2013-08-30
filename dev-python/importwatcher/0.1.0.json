@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "import watcher for python modules", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gfxmonk/importwatcher", 
+  "info": {
+    "Author:": "Tim Cuthbertson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gfxmonk/importwatcher", 
+    "Keywords:": "import module modules monitor watcher difference reset", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gfxmonk"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "import watcher for python modules", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fc6aa42028e97fa4aadbe2a92681639", 
+  "source_uri": "https://pypi.python.org/packages/source/i/importwatcher/importwatcher-0.1.0.tar.gz"
+}

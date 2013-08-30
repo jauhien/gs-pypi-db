@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FiveRuns Dash recipe for Django, packaged as an Django App", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dash.fiveruns.com", 
+  "info": {
+    "Author:": "FiveRuns Development Team", 
+    "Home Page:": "http://dash.fiveruns.com", 
+    "Keywords:": "monitoring performance production metrics logging django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fiveruns"
+  }, 
+  "license": "", 
+  "longdescription": "FiveRuns Dash recipe for Django, packaged as an Django App", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "93bc1d89bf5f6b27bf353bf077e44ec8", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fiveruns.dash.django/fiveruns.dash.django-0.2.1.tar.gz"
+}

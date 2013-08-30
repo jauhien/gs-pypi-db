@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A TiddlyWeb plugin for server side import of tiddlers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.wimporter", 
+  "info": {
+    "Author:": "Chris Dent", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.wimporter", 
+    "Package Index Owner:": "cdent", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "A TiddlyWeb plugin for server side import of tiddlers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2e781cd6c8684709995b27ea6c405a6", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.wimporter/tiddlywebplugins.wimporter-0.9.5.tar.gz"
+}

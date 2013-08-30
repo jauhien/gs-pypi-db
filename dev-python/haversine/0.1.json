@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Calculate the distance bewteen 2 points on Earth.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mapado/haversine", 
+  "info": {
+    "Author:": "Balthazar Rouberol", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mapado/haversine", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "brouberol"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Calculate the distance bewteen 2 points on Earth.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ce2922320ab6e09407ffef375550899", 
+  "source_uri": "https://pypi.python.org/packages/source/h/haversine/haversine-0.1.tar.gz"
+}

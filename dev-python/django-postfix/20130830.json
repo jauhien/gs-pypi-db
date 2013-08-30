@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django app to manage postfix mailboxes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/creat1va/django-postfix", 
+  "info": {
+    "Author:": "Mario C\u00e9sar Se\u00f1oranis Ayala", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/creat1va/django-postfix", 
+    "Keywords:": "postfix mail django", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "mariocesar"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A django app to manage postfix mailboxes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "103e9e072caa04882b909042ec156304", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-postfix/django-postfix-0.0.1dev.tar.gz"
+}

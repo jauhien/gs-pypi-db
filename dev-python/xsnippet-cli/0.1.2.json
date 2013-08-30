@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple command line interface for the XSnippet service.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/xsnippet/xsnippet-cli", 
+  "info": {
+    "Author:": "Igor Kalnitsky", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/xsnippet/xsnippet-cli", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "ikalnitsky"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple command line interface for the XSnippet service.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b36a32f46203696cb00bd990cbf55cba", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xsnippet-cli/xsnippet-cli-0.1.2.tar.gz"
+}

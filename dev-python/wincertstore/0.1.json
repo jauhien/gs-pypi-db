@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module to extract CA and CRL certs from Windows cert store (ctypes based).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/tiran/wincertstore", 
+  "info": {
+    "Author:": "Christian Heimes", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/wincertstore", 
+    "Home Page:": "https://bitbucket.org/tiran/wincertstore", 
+    "Keywords:": "windows cert ssl ca crl", 
+    "License:": "PSFL", 
+    "Package Index Owner:": "tiran", 
+    "Platform:": "Windows"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Python module to extract CA and CRL certs from Windows cert store (ctypes based).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f9accbebe8f7b4c06ac7aa83879b81c", 
+  "source_uri": "http://pypi.python.org/pypi/wincertstore"
+}

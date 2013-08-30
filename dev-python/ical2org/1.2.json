@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert iCal files to emacs org-mode data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.doughellmann.com/projects/ical2org/", 
+  "info": {
+    "Author:": "Doug Hellmann", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "MacOS", 
+        "MacOS X"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Office/Business", 
+        "Scheduling"
+      ]
+    }, 
+    "Home Page:": "http://www.doughellmann.com/projects/ical2org/", 
+    "Package Index Owner:": "doughellmann"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Convert iCal files to emacs org-mode data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79891521a644b244c8840c8fadd65fdd", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ical2org/ical2org-1.2.tar.gz"
+}

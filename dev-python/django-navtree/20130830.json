@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application for adding hierarchical navigation to projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/markmuetz/django-navtree/", 
+  "info": {
+    "Author:": "Mark Muetzelfeldt", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/markmuetz/django-navtree/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "markmuetz"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django application for adding hierarchical navigation to projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "172b30caa3c6ff9fd03392df12e8541f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-navtree/django-navtree-0.1.0alpha.tar.gz"
+}

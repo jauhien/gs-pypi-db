@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate safe primes using OpenSSL (a prime p  2q+1, and q is prime too)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/eriktews/gensafeprime", 
+  "info": {
+    "Author:": "Erik Tews", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/eriktews/gensafeprime", 
+    "Keywords:": "prime,openssl,bignum,crypto", 
+    "License:": "MIT", 
+    "Package Index Owner:": "erik.tews", 
+    "Platform:": "Unix,Windows,Posix,Linux"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Generate safe primes using OpenSSL (a prime p  2q+1, and q is prime too)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33a0ae8d9c7e163277f0f58762dcca08", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gensafeprime/gensafeprime-1.1.tar.gz"
+}

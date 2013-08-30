@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Celery Flower", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mher/flower", 
+  "info": {
+    "Author:": "Mher Movsisyan", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mher/flower", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mher"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Celery Flower", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b0d7ab9691af118b2ccf8979153326a", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flower/flower-0.5.2.tar.gz"
+}

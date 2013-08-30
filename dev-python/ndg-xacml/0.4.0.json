@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XACML 2.0 implementation for the NERC DataGrid", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://proj.badc.rl.ac.uk/ndg/wiki/Security/XACML", 
+  "info": {
+    "Author:": "Philip Kershaw", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ndg-xacml", 
+    "Home Page:": "http://proj.badc.rl.ac.uk/ndg/wiki/Security/XACML", 
+    "License:": "BSD - See LICENCE file for details", 
+    "Package Index Owner:": "philipkershaw"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "XACML 2.0 implementation for the NERC DataGrid", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dab889437ced2416d7ee8eed2b7a07a0", 
+  "source_uri": "https://pypi.python.org/packages/source/n/ndg-xacml/ndg_xacml-0.4.0.tar.gz"
+}

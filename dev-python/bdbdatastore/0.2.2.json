@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An alternate datastore backend for App Engine, implemented using BDB JE.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://arachnid.github.com/bdbdatastore/", 
+  "info": {
+    "Author:": "Nick Johnson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://arachnid.github.com/bdbdatastore/", 
+    "Keywords:": "appengine,gae,bdb", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "safari"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "An alternate datastore backend for App Engine, implemented using BDB JE.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1344c23eb61a6d785e3435b255f1f586", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bdbdatastore/bdbdatastore-0.2.2.tar.gz"
+}

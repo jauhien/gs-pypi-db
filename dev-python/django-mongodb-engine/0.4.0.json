@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A MongoDB backend standing outside django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://django-mongodb.org", 
+  "info": {
+    "Author:": "Flavio Percoco Premoli, Alberto Paro, Jonas Haag and contributors", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://django-mongodb.org", 
+    "License:": "2-clause BSD", 
+    "Package Index Maintainer:": "markusgattol", 
+    "Package Index Owner:": "flaper87", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A MongoDB backend standing outside django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7dee768b75f9a95dd48b5d2ea13f25d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mongodb-engine/django-mongodb-engine-0.4.0.tar.gz"
+}

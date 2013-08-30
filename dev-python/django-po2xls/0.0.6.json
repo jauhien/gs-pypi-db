@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert gettext .po files to .xls", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/vint21h/django-po2xls", 
+  "info": {
+    "Author:": "Alexei Andrushievich", 
+    "Categories": {
+      "Environment": [
+        "Plugins"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-po2xls", 
+    "Download URL:": "https://github.com/vint21h/django-po2xls/archive/0.0.6.tar.gz", 
+    "Home Page:": "https://github.com/vint21h/django-po2xls", 
+    "License:": "GPLv3 or later", 
+    "Package Index Owner:": "vint21h"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Convert gettext .po files to .xls", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dbf1fa2becedf6f9c19d55a86321715a", 
+  "source_uri": "https://github.com/vint21h/django-po2xls/archive/0.0.6.tar.gz"
+}

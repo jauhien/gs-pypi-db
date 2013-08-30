@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python fiscal printer (ECF) drivers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stoq.com.br", 
+  "info": {
+    "Author:": "Async Open Source", 
+    "Home Page:": "http://www.stoq.com.br", 
+    "License:": "GNU LGPL 2.1 (see COPYING)", 
+    "Package Index Owner:": "jdahlin, romaia"
+  }, 
+  "license": "", 
+  "longdescription": "Python fiscal printer (ECF) drivers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4a7f0ca30d6f440b3cf8abb214352cc", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stoqdrivers/stoqdrivers-0.9.19.tar.gz"
+}

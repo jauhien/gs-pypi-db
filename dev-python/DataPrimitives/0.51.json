@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Data primitives conversions from ISO 18033 and PKCS1", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/DataPrimitives", 
+  "info": {
+    "Author:": "Peio Popov", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Education"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/DataPrimitives", 
+    "Keywords:": "Data Primitives,bit string,octet string,integer,conversion,OS2BSP,BS2OSP,BS2IP,I2BSP,OS2IP,I2OSP,strxor,strings xor,ISO,PKCS,ISO 18033,PKCS#1", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "peio"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Data primitives conversions from ISO 18033 and PKCS1", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1070459c6c09d5530ed8c2a18a9aac5", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DataPrimitives/DataPrimitives-0.51.tar.gz"
+}

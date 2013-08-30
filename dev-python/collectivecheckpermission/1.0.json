@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a decorator for protect methods of browser views", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://redomino.com", 
+  "info": {
+    "Author:": "Davide Moro", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://redomino.com", 
+    "Keywords:": "plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "redomino"
+  }, 
+  "license": "", 
+  "longdescription": "Provides a decorator for protect methods of browser views", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "42381cd98b362a06dd678221601de7f4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.checkpermission/collective.checkpermission-1.0.tar.gz"
+}

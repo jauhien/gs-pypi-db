@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Gives the template variable in page templates a method pt_filled_slots to see which slots are being filled", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nidelven-it.no/d", 
+  "info": {
+    "Author:": "Morten W. Petersen", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.nidelven-it.no/d", 
+    "Keywords:": "python zope pagetemplates tal tales", 
+    "License:": "GPL", 
+    "Package Index Owner:": "morphex"
+  }, 
+  "license": "", 
+  "longdescription": "Gives the template variable in page templates a method pt_filled_slots to see which slots are being filled", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a89c7bd367b78236f8974fa09e373fc2", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PageTemplateFilledSlots/Products.PageTemplateFilledSlots-1.0.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Interface for running Praat scripts through Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/python-praat-scripts/", 
+  "info": {
+    "Author:": "Michael McAuliffe", 
+    "Home Page:": "http://pypi.python.org/pypi/python-praat-scripts/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "mmcauliffe"
+  }, 
+  "license": "", 
+  "longdescription": "Interface for running Praat scripts through Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e8b426c0f9924df10cdb3c54e312e70", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-praat-scripts/python-praat-scripts-0.1.14.tar.gz"
+}

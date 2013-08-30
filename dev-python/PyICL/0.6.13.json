@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Exposes the boost.icl interval container library to python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sysbio.mrc-bsu.cam.ac.uk/johns/PyICL/docs/build/html/", 
+  "info": {
+    "Author:": "John Reid", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//PyICL", 
+    "Home Page:": "http://sysbio.mrc-bsu.cam.ac.uk/johns/PyICL/docs/build/html/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "John.Reid"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Exposes the boost.icl interval container library to python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4d250ac20966f81866617ed302b9463", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyICL/PyICL-0.6.13.tar.gz"
+}

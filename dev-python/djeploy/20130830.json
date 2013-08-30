@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Common tasks used to deploy Django powered websites via Fabric.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/petersanchez/djeploy/", 
+  "info": {
+    "Author:": "Peter Sanchez", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/petersanchez/djeploy/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "petersanchez", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Common tasks used to deploy Django powered websites via Fabric.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c95b12e51395787a8757a307907cb8ff", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djeploy/djeploy-0.2.5-dev.tar.gz"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Support for conditional fields in different ticket types.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/CondFieldsPlugin", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/CondFieldsPlugin", 
+    "Keywords:": "trac plugin ticket conditional fields", 
+    "License:": "BSD", 
+    "Package Index Owner:": "coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "Support for conditional fields in different ticket types.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec430e15f3d9808045329dc7292b585a", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracCondFields/TracCondFields-2.0.tar.gz"
+}

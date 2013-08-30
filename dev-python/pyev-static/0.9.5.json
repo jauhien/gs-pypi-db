@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings to libev.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/pyev/", 
+  "info": {
+    "Author:": "Malek Hadj-Ali", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/pyev/", 
+    "License:": "BSD License / GNU General Public License (GPL)", 
+    "Package Index Owner:": "blackwithwhite666", 
+    "Platform:": "Microsoft Windows,POSIX"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python bindings to libev.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32b8925a25d4ef3f5c80f5b2f5250fd0", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyev-static/pyev-static-0.9.5.tar.gz"
+}

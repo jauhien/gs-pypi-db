@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An AccountManager password store that uses python-ldap to check against an LDAP server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/LDAPAuthPlugin", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/LDAPAuthPlugin", 
+    "Keywords:": "trac plugin accountmanager", 
+    "License:": "BSD", 
+    "Package Index Owner:": "coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "An AccountManager password store that uses python-ldap to check against an LDAP server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f095602805366b5297f60d9fd1004f7", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracLDAPAuth/TracLDAPAuth-1.0.tar.gz"
+}

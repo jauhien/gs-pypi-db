@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small lib for representing python objects as a dicts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/l0kix2/python-dehydrate", 
+  "info": {
+    "Author:": "Kirill Sibirev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/l0kix2/python-dehydrate", 
+    "License:": "MIT", 
+    "Package Index Owner:": "l0ki"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Small lib for representing python objects as a dicts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1787f32dad975f0bbfe79be887f7d74", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dehydrate/dehydrate-0.3.5.tar.gz"
+}

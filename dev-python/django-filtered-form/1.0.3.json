@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Form that can have per-field queryset filters declaratively defined", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/schinckel/django-filtered-form", 
+  "info": {
+    "Author:": "Matthew Schinckel", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/schinckel/django-filtered-form", 
+    "Package Index Owner:": "schinckel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Form that can have per-field queryset filters declaratively defined", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ad1293e4f8db6742ae6ae7a2e3f6fc2a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-filtered-form/django-filtered-form-1.0.3.tar.gz"
+}

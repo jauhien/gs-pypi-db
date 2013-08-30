@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Control of data acquisition with remote instruments using     IVI-COM, or IVI-C, Visa, and serial protocols.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/SamuelDeleglise/pyinstruments", 
+  "info": {
+    "Author:": "Samuel Deleglise", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Human Machine Interfaces"
+      ]
+    }, 
+    "Home Page:": "https://github.com/SamuelDeleglise/pyinstruments", 
+    "Keywords:": "instruments data-acquisition IVI interface", 
+    "License:": "BSD", 
+    "Package Index Owner:": "SamuelDeleglise"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Control of data acquisition with remote instruments using     IVI-COM, or IVI-C, Visa, and serial protocols.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d7b5b6adddd317946e98ded302bbef0a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyhardware/pyhardware-0.0.10.zip"
+}

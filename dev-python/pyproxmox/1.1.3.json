@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Wrapper for the Proxmox 2.x API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Daemonthread/pyproxmox", 
+  "info": {
+    "Author:": "Toby Sears", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/pyproxmox", 
+    "Home Page:": "https://github.com/Daemonthread/pyproxmox", 
+    "Keywords:": "proxmox,api", 
+    "Package Index Owner:": "Daemonthread"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Python Wrapper for the Proxmox 2.x API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c51c2f18bf0f5ddd1464ef5228ced2ad", 
+  "source_uri": "http://pypi.python.org/pypi/pyproxmox"
+}

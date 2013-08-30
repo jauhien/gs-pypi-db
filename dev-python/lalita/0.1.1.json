@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Yet another IRC bot, one where new functionality is simple to create just adding easy-to-write plugins.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/lalita/", 
+  "info": {
+    "Author:": "laliputienses", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Chat", 
+        "Internet Relay Chat"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/lalita/", 
+    "Keywords:": "irc,bot,twisted,plugin", 
+    "License:": "GNU GPL v3", 
+    "Package Index Owner:": "ricardokirkner"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Yet another IRC bot, one where new functionality is simple to create just adding easy-to-write plugins.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66e461092b961a09bb96dac6742bacb8", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lalita/lalita-0.1.1.tar.gz"
+}

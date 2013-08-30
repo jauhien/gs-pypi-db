@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for installing the ICU library into a buildout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/zc.recipe.icu", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ]
+    }, 
+    "Home Page:": "http://www.python.org/pypi/zc.recipe.icu", 
+    "Keywords:": "development build internationalization", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "C Buildout recipe for installing the ICU library into a buildout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f374b5f5f4d6cbd396eaf2f43029e31", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.recipe.icu/zc.recipe.icu-1.0.0b1.tar.gz"
+}

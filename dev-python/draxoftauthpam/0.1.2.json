@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a Python-style interface to PAMs C API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/draxoft.auth.pam/", 
+  "info": {
+    "Author:": "Ryan Volpe", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v2 (LGPLv2)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Operating System"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//draxoft.auth.pam", 
+    "Home Page:": "http://packages.python.org/draxoft.auth.pam/", 
+    "License:": "LGPLv2", 
+    "Package Index Owner:": "Ryan.Volpe", 
+    "Platform:": "POSIX,Linux,MacOS X"
+  }, 
+  "license": "GNU Lesser General Public License v2 (LGPLv2)", 
+  "longdescription": "Provides a Python-style interface to PAMs C API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c833e1cb92c6ef99b92dfa64c05f505", 
+  "source_uri": "https://pypi.python.org/packages/source/d/draxoft.auth.pam/draxoft.auth.pam-0.1.2.tar.bz2"
+}

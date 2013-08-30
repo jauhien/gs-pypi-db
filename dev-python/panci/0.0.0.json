@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert between Travis-CI .travis.yml files and Tox tox.ini files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/msabramo/panci", 
+  "info": {
+    "Author:": "Marc Abramowitz", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/msabramo/panci", 
+    "Keywords:": "tox,travis,continuous integration,CI", 
+    "License:": "MIT", 
+    "Package Index Owner:": "msabramo"
+  }, 
+  "license": "", 
+  "longdescription": "Convert between Travis-CI .travis.yml files and Tox tox.ini files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "55a6923f9f0da9079d09ff0efe8ce99b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/panci/panci-0.0.0.tar.gz"
+}

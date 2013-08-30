@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Numpy data serialiation using msgpack", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lebedov/msgpack_numpy", 
+  "info": {
+    "Author:": "Lev Givon", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lebedov/msgpack_numpy", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lebedov"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Numpy data serialiation using msgpack", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d5b04c619adfe2748fc00e13cfbd520", 
+  "source_uri": "https://pypi.python.org/packages/source/m/msgpack_numpy/msgpack_numpy-0.021.tar.gz"
+}

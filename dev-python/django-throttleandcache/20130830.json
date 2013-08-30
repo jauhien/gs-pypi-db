@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A utility for cachingthrottling function calls.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/matthewwithanm/django-throttleandcache", 
+  "info": {
+    "Author:": "Matthew Tretter", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/matthewwithanm/django-throttleandcache", 
+    "License:": "BSD", 
+    "Package Index Owner:": "matthewwithanm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A utility for cachingthrottling function calls.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5865ba29bf505e12e8f968a000346099", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-throttleandcache/django-throttleandcache-1.0b1.tar.gz"
+}

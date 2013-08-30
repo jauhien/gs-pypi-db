@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Meta-package to install all Moksha demo apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://moksha.fedorahosted.org", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Home Page:": "http://moksha.fedorahosted.org", 
+    "License:": "ASL 2.0", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "Meta-package to install all Moksha demo apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1eff6c823b1b3df2f75087937f8a0868", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mdemos.all/mdemos.all-0.1.2.tar.gz"
+}

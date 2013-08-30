@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Custom user model app for Django featuring email as username and class-based views for authentication.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://django-authtools.readthedocs.org/", 
+  "info": {
+    "Author:": "Fusionbox, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://django-authtools.readthedocs.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fusionbox"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Custom user model app for Django featuring email as username and class-based views for authentication.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8cfae938f237d3c581d9f243b0b2cfa", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-authtools/django-authtools-0.2.1.tar.gz"
+}

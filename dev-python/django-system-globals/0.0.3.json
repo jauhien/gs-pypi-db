@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django App to manage any system globals from a DB table.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/andres-torres-marroquin/django-system-globals", 
+  "info": {
+    "Author:": "Andres Torres Marroquin", 
+    "Home Page:": "https://github.com/andres-torres-marroquin/django-system-globals", 
+    "Package Index Owner:": "andres.torres.marroquin"
+  }, 
+  "license": "", 
+  "longdescription": "A Django App to manage any system globals from a DB table.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6eff64e9bfa3be7dbbd1a608f2f969e0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-system-globals/django-system-globals-0.0.3.tar.gz"
+}

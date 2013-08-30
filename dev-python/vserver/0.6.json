@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to Linux-VServer for managing hosting systems.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.profv.de/python-vserver/", 
+  "info": {
+    "Author:": "Volker Grabsch", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.profv.de/python-vserver/", 
+    "Package Index Owner:": "vog"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python interface to Linux-VServer for managing hosting systems.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a5cff376aed821c24f780fc10de7a42", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vserver/vserver-0.6.tar.gz"
+}

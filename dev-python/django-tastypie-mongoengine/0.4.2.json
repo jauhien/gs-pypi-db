@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MongoEngine support for django-tastypie.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mitar/django-tastypie-mongoengine", 
+  "info": {
+    "Author:": "Mitar", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mitar/django-tastypie-mongoengine", 
+    "Keywords:": "REST RESTful tastypie mongo mongodb mongoengine django", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "mitar, matevzmihalic"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "MongoEngine support for django-tastypie.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8d3bd9dc5078bc3b8b69c01a506155f7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tastypie-mongoengine/django-tastypie-mongoengine-0.4.2.tar.gz"
+}

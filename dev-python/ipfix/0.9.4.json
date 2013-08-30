@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IPFIX implementation for Python 3.3+", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/britram/python-ipfix", 
+  "info": {
+    "Author:": "Brian Trammell", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 or later (LGPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://github.com/britram/python-ipfix", 
+    "Package Index Owner:": "britram"
+  }, 
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)", 
+  "longdescription": "IPFIX implementation for Python 3.3+", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6483cd5c75271b642a60320321a43c84", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ipfix/ipfix-0.9.4.tar.gz"
+}

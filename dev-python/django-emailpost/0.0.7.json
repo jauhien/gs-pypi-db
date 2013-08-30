@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Post to Django blogs via email.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jk0/django-emailpost", 
+  "info": {
+    "Author:": "Josh Kearney", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jk0/django-emailpost", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "jk0"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Post to Django blogs via email.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a845da39bebc5fd8383607b755402a9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-emailpost/django-emailpost-0.0.7.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightweight and extensible caching framework for Python applications. It uses Redis as its storage backend.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tomekwojcik.github.com/redcache/", 
+  "info": {
+    "Author:": "Tomasz W\u00f3jcik", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/tomekwojcik/redcache/tarball/v0.2", 
+    "Home Page:": "http://tomekwojcik.github.com/redcache/", 
+    "License:": "https://github.com/tomekwojcik/redcache/blob/master/LICENSE", 
+    "Package Index Owner:": "tomekwojcik", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Lightweight and extensible caching framework for Python applications. It uses Redis as its storage backend.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bed56831feac846e5df1b9474fe3e365", 
+  "source_uri": "https://github.com/tomekwojcik/redcache/tarball/v0.2"
+}

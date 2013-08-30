@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SSC32 controlling library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://vehq.ru/project/PySSC32", 
+  "info": {
+    "Author:": "Vladimir Ermakov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://hg.vehq.ru/pyssc32/archive/0.4.1.tar.bz2", 
+    "Home Page:": "http://vehq.ru/project/PySSC32", 
+    "Keywords:": "SSC32,Robotics,library", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vooon341", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "SSC32 controlling library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7414a89f6eb044019a7c568f0929dbe", 
+  "source_uri": "http://hg.vehq.ru/pyssc32/archive/0.4.1.tar.bz2"
+}

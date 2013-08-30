@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Local Travis build runner", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jstasiak/travis-solo", 
+  "info": {
+    "Author:": "Jakub Stasiak", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jstasiak/travis-solo", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jstasiak", 
+    "Platform:": "unix,linux,osx"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Local Travis build runner", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "600024a263e355f77020cd419bc70c41", 
+  "source_uri": "https://pypi.python.org/packages/source/t/travis-solo/travis-solo-0.0.9.tar.gz"
+}

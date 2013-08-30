@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Continuous testing  integration tool for the CubicWeb framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.logilab.org/project/apycot", 
+  "info": {
+    "Author:": "Logilab", 
+    "Categories": {
+      "Framework": [
+        "CubicWeb"
+      ]
+    }, 
+    "Home Page:": "http://www.logilab.org/project/apycot", 
+    "License:": "GPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "Continuous testing  integration tool for the CubicWeb framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "53ef61fd6bf0c7d59457bd10acbf38c2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-apycot/cubicweb-apycot-1.10.0.tar.gz"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app to ease ordering of related data - enable DragDrop ordering in admin with just a few LOC", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/centralniak", 
+  "info": {
+    "Author:": "Piotr Kilczuk", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/centralniak", 
+    "Package Index Owner:": "centralniak"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django app to ease ordering of related data - enable DragDrop ordering in admin with just a few LOC", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed31816a2f9fe3a2051515ca0793dd99", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-inline-ordering/django-inline-ordering-1.0.0.tar.gz"
+}

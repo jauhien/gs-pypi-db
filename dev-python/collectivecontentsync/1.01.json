@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Synchronie a container with a master container", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Hedley Roos", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "License:": "GPL", 
+    "Package Index Owner:": "hedley"
+  }, 
+  "license": "", 
+  "longdescription": "Synchronie a container with a master container", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a5139886ab07265ef896adaebae0afc", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentsync/collective.contentsync-1.01.tar.gz"
+}

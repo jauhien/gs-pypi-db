@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Catalog search utilities for Grok applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gitweb.dolmen-project.org", 
+  "info": {
+    "Author:": "Souheil Chelfouh", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://gitweb.dolmen-project.org", 
+    "Keywords:": "Grok Zope3 CMS Dolmen", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vincentfretin, trollfot", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Catalog search utilities for Grok applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9bd72d96af1a7577c0e1a65e286157a3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dolmen.app.search/dolmen.app.search-0.4.tar.gz"
+}

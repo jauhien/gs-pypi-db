@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Call scripts on network changes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/a-sk/connman-dispatcher", 
+  "info": {
+    "Author:": "Alexandr Skurikhin", 
+    "Home Page:": "http://github.com/a-sk/connman-dispatcher", 
+    "Package Index Owner:": "Alexander.Skurihin"
+  }, 
+  "license": "", 
+  "longdescription": "Call scripts on network changes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "43e3fc05fcc2e8271f28ee4a2ad494b6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/connman-dispatcher/connman-dispatcher-0.0.5.tar.gz"
+}

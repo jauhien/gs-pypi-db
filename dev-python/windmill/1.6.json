@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Web testing framework intended for complete automation of user interface testing, with strong test debugging and recording capabilities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.getwindmill.com/", 
+  "info": {
+    "Author:": "OSAF, Mikeal Rogers, Adam Christian", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.getwindmill.com/", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Maintainer:": "adamc, admc", 
+    "Package Index Owner:": "mikeal, adamc, admc", 
+    "Platform:": "Any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Web testing framework intended for complete automation of user interface testing, with strong test debugging and recording capabilities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "56eb5bd57a52d8e762b488e647e5efb4", 
+  "source_uri": "https://pypi.python.org/packages/source/w/windmill/windmill-1.6.tar.gz"
+}

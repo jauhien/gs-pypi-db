@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for building ant (java) projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/buildout/collective.recipe.ant/", 
+  "info": {
+    "Author:": "Kai Lautaportti", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/buildout/collective.recipe.ant/", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "dokai, iT0m"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "c.buildout recipe for building ant (java) projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8781d51e45e95d49f5e4dfe29c3cc9d4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.ant/collective.recipe.ant-1.0.tar.gz"
+}

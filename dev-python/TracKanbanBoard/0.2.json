@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kanban board plugin for Trac", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://projects.developer.nokia.com/TracKanbanBoard", 
+  "info": {
+    "Author:": "Arto Nyk\u00e4nen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://projects.developer.nokia.com/TracKanbanBoard", 
+    "Keywords:": "trac plugin kanban", 
+    "License:": "BSD-new", 
+    "Package Index Owner:": "Trac.MultiProject"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Kanban board plugin for Trac", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "547837cf1ff2d72bf80b5cbb53fb9f16", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracKanbanBoard/TracKanbanBoard-0.2.tar.gz"
+}

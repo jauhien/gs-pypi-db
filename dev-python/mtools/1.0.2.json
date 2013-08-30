@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Useful scripts to parse and visualie MongoDB log files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rueckstiess/mtools", 
+  "info": {
+    "Author:": "Thomas Rueckstiess", 
+    "Home Page:": "https://github.com/rueckstiess/mtools", 
+    "Package Index Owner:": "rueckstiess"
+  }, 
+  "license": "", 
+  "longdescription": "Useful scripts to parse and visualie MongoDB log files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b67d315549965310042c41a3a6504a9b", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mtools/mtools-1.0.2.tar.gz"
+}

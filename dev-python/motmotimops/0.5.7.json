@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "image format conversion (e.g. between MONO8, YUV422, and RGB)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.astraw.com/projects/motmot/imops.html", 
+  "info": {
+    "Author:": "Andrew Straw", 
+    "Home Page:": "http://code.astraw.com/projects/motmot/imops.html", 
+    "License:": "BSD", 
+    "Package Index Owner:": "astraw"
+  }, 
+  "license": "", 
+  "longdescription": "image format conversion (e.g. between MONO8, YUV422, and RGB)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5085dd96827a68fd5a9bd0b10d2afe68", 
+  "source_uri": "https://pypi.python.org/packages/source/m/motmot.imops/motmot.imops-0.5.7.tar.gz"
+}

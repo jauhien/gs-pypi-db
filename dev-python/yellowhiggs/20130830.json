@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Interface for the CERN Yellow Report", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://end.web.cern.ch/end/projects/yellowhiggs/", 
+  "info": {
+    "Author:": "Noel Dawe", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/y/yellowhiggs/yellowhiggs-1.0a4.tar.gz", 
+    "Home Page:": "https://end.web.cern.ch/end/projects/yellowhiggs/", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "noeldawe"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Interface for the CERN Yellow Report", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1cd57504eb865b6b0c56d92991ca0375", 
+  "source_uri": "http://pypi.python.org/packages/source/y/yellowhiggs/yellowhiggs-1.0a4.tar.gz"
+}

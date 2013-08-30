@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Sentry extension which integrates with Sprint.ly", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mattrobenolt/sentry-sprintly", 
+  "info": {
+    "Author:": "Matt Robenolt", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mattrobenolt/sentry-sprintly", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mattrobenolt"
+  }, 
+  "license": "", 
+  "longdescription": "A Sentry extension which integrates with Sprint.ly", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a8c43fa5ddea01923af2e7517a8180b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-sprintly/sentry-sprintly-0.1.4.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Munin plugins for c.async.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/munin.async", 
+  "info": {
+    "Author:": "Jarn AS", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/munin.async", 
+    "Keywords:": "plone zope munin monitoring zc.async", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ggozad, mj", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Munin plugins for c.async.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5144f5e71fe8a44fc8c008a9392cd6a", 
+  "source_uri": "https://pypi.python.org/packages/source/m/munin.async/munin.async-0.5.zip"
+}

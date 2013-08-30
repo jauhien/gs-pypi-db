@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for compiling and disassembling Pokmon Red and Pokmon Crystal.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kanzure/pokemon-reverse-engineering-tools", 
+  "info": {
+    "Author:": "Bryan Bishop", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kanzure/pokemon-reverse-engineering-tools", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kanzure", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tools for compiling and disassembling Pokmon Red and Pokmon Crystal.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c1e413b0f8f87eb02633dd51e5e26f3e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pokemontools/pokemontools-1.1.0.tar.gz"
+}

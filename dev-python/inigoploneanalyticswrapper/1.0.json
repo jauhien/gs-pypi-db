@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper for plone.analytics viewlet which adds a selectable DIV around it", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/inigoconsulting/inigo.ploneanalyticswrapper", 
+  "info": {
+    "Author:": "Inigo Consulting", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/inigoconsulting/inigo.ploneanalyticswrapper", 
+    "Keywords:": "plone analytics wrapper python", 
+    "License:": "gpl", 
+    "Package Index Owner:": "kagesenshi"
+  }, 
+  "license": "", 
+  "longdescription": "A wrapper for plone.analytics viewlet which adds a selectable DIV around it", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "482c86849993b8d2c45e4d0e261e235a", 
+  "source_uri": "https://pypi.python.org/packages/source/i/inigo.ploneanalyticswrapper/inigo.ploneanalyticswrapper-1.0.zip"
+}

@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Crawler for importing data from a filesystem directory into Solr", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/bg.crawler", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//bg.crawler", 
+    "Home Page:": "http://pypi.python.org/pypi/bg.crawler", 
+    "Keywords:": "Solr Python Fulltext Crawler", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "", 
+  "longdescription": "Crawler for importing data from a filesystem directory into Solr", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "457097b154311e2afc7b78224f97fbf8", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bg.crawler/bg.crawler-0.2.6.zip"
+}

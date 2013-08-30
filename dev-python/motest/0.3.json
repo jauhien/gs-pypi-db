@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Package for storing and outputting Moilla test results", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+  "info": {
+    "Author:": "Mozilla Automation and Tools team", 
+    "Home Page:": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+    "Keywords:": "mozilla", 
+    "License:": "MPL", 
+    "Package Index Owner:": "elvis314, mdas, markrcote, ctalbert, David.Burns, davehunt, edmorley, whimboo, wlach, ahal, jgriffin, k0s"
+  }, 
+  "license": "", 
+  "longdescription": "Package for storing and outputting Moilla test results", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e66e9dd3777d259d08f05b771eb57f61", 
+  "source_uri": "https://pypi.python.org/packages/source/m/moztest/moztest-0.3.tar.gz"
+}

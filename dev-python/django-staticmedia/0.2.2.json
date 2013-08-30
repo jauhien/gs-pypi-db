@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dynamically get URLs for your site-level and app-level static media.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/django-staticmedia", 
+  "info": {
+    "Author:": "Tamas Kemenczy", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/django-staticmedia", 
+    "Keywords:": "django utilities templatetag static media", 
+    "License:": "BSD", 
+    "Package Index Owner:": "tamask"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Dynamically get URLs for your site-level and app-level static media.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c713a01f2db3c54c206996b245ad4fe", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-staticmedia/django-staticmedia-0.2.2.tar.gz"
+}

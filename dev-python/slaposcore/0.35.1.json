@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SlapOS core.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.slapos.org", 
+  "info": {
+    "Author:": "VIFIB", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//slapos.core", 
+    "Home Page:": "http://www.slapos.org", 
+    "Keywords:": "slapos core", 
+    "License:": "GPLv3", 
+    "Package Index Maintainer:": "mmariani", 
+    "Package Index Owner:": "romain, cedric.dsm"
+  }, 
+  "license": "", 
+  "longdescription": "SlapOS core.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ec4b37e90560bd406b44c8f3de4727e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slapos.core/slapos.core-0.35.1.tar.gz"
+}

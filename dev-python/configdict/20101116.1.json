@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parse INI files into dictionaries.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/larsks/configdict", 
+  "info": {
+    "Author:": "Lars Kellogg-Stedman", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "http://github.com/larsks/configdict", 
+    "License:": "GPL", 
+    "Package Index Owner:": "larsks"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Parse INI files into dictionaries.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b9a090f576ca6dc01c07d4dcc2f1e58", 
+  "source_uri": "https://pypi.python.org/packages/source/c/configdict/configdict-20101116.1.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An implementation of HTTP Digest Authentication for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/akoha/django-digest/", 
+  "info": {
+    "Author:": "Akoha Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/akoha/django-digest/", 
+    "Package Index Maintainer:": "sfllaw", 
+    "Package Index Owner:": "erikwright, sfllaw, jdilelle, scjody"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An implementation of HTTP Digest Authentication for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ecc57d543f601dab89c4f4431fe76ccf", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-digest/django-digest-1.13.tar.gz"
+}

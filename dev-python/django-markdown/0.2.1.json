@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django markdown support and wysiwyg.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/klen/django-markdown.git", 
+  "info": {
+    "Author:": "Kirill Klenov", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-markdown", 
+    "Home Page:": "http://github.com/klen/django-markdown.git", 
+    "Keywords:": "html markdown django", 
+    "License:": "GNU LGPL", 
+    "Package Index Owner:": "klen"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Django markdown support and wysiwyg.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a0eb6471444147671331fb8b68de2534", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-markdown/django-markdown-0.2.1.tar.gz"
+}

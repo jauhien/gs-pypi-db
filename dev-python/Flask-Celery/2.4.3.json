@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Celery integration for Flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ask/flask-celery/", 
+  "info": {
+    "Author:": "Ask Solem", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ask/flask-celery/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "mher, ask", 
+    "Package Index Owner:": "ask, Ron.DuPlain", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Celery integration for Flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed0ef899fbb30f60ccdc5b9dcb16bb27", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Celery/Flask-Celery-2.4.3.tar.gz"
+}

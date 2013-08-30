@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTTP server version of CodernityDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://labs.codernity.com/codernitydb-http", 
+  "info": {
+    "Author:": "Codernity", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://labs.codernity.com/codernitydb-http", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "codernity"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "HTTP server version of CodernityDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f6b799b3cea8aff73997516ca6565a2", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CodernityDB-HTTP/CodernityDB-HTTP-0.4.1.tar.gz"
+}

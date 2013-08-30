@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "More routines for operating on iterables, beyond itertools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/erikrose/more-itertools", 
+  "info": {
+    "Author:": "Erik Rose", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//more-itertools", 
+    "Home Page:": "https://github.com/erikrose/more-itertools", 
+    "Keywords:": "itertools,iterator,iteration,filter,peek,peekable,collate,chunk,chunked", 
+    "License:": "MIT", 
+    "Package Index Owner:": "erikrose"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "More routines for operating on iterables, beyond itertools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8d328a33f966bf40bb829bcf8da35ce", 
+  "source_uri": "https://pypi.python.org/packages/source/m/more-itertools/more-itertools-2.2.tar.gz"
+}

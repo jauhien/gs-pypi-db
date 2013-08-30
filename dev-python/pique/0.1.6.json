@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An efficient peak finder for high coverage ChIP-seq experiments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ryneches/pique", 
+  "info": {
+    "Author:": "Russell Neches", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ryneches/pique", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ryneches"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An efficient peak finder for high coverage ChIP-seq experiments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4981d7cc38391bf2eee6fbd57dfbbe6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pique/pique-0.1.6.tar.gz"
+}

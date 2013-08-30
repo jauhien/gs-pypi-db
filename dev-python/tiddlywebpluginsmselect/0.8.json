@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A TiddlyWeb plugin providing a union select filter.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.mselect", 
+  "info": {
+    "Author:": "Chris Dent", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.mselect", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pads, cdent", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "A TiddlyWeb plugin providing a union select filter.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b97791d0b2cf230a6cdf9f3a56d54180", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.mselect/tiddlywebplugins.mselect-0.8.tar.gz"
+}

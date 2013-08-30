@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dynamically adjust the django template search path", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/iivvoo/django_layers", 
+  "info": {
+    "Author:": "Ivo van der Wijk", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/iivvoo/django_layers", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ivo"
+  }, 
+  "license": "", 
+  "longdescription": "Dynamically adjust the django template search path", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "839ecc27e6597b2d13993e6df2fa7e10", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_layers/django_layers-0.7.2.tar.gz"
+}

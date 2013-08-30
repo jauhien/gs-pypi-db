@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Notify At Finish allows you to pass an arbitrary shell command as an argument and get a nice notification when the command finishes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/knutz3n/naf", 
+  "info": {
+    "Author:": "Johannes Knutsen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/knutz3n/naf", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "knutsen"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Notify At Finish allows you to pass an arbitrary shell command as an argument and get a nice notification when the command finishes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4f0bed57ea4ea8b0f519932cdaa3590", 
+  "source_uri": "https://pypi.python.org/packages/source/n/naf/naf-0.3.2.tar.gz"
+}

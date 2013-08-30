@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simples Consultorias portal policy skeleton for Plone projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.simplesconsultoria.com.br/", 
+  "info": {
+    "Author:": "Erico Andrei", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.simplesconsultoria.com.br/", 
+    "Keywords:": "web zope plone development simples_consultoria", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ericoandrei"
+  }, 
+  "license": "", 
+  "longdescription": "Simples Consultorias portal policy skeleton for Plone projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aecfcf2ba6a6559593adabe290c16d0f", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sc.paster.policy/sc.paster.policy-0.7.zip"
+}

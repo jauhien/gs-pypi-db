@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A deployment framework based on fabric.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/adamrt/empire/", 
+  "info": {
+    "Author:": "Adam Patterson", 
+    "Home Page:": "http://github.com/adamrt/empire/", 
+    "License:": "ISC", 
+    "Package Index Owner:": "fakeempire", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A deployment framework based on fabric.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ed8d4d6e51cda1acfc32a77767e4fba", 
+  "source_uri": "https://pypi.python.org/packages/source/e/empire/empire-0.2.tar.gz"
+}

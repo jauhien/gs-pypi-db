@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper to forward TERM signals to INT signals so uWSGI plays nice with runit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://globusonline.github.com/sigint", 
+  "info": {
+    "Author:": "Josh Bryan", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "https://globusonline.github.com/sigint", 
+    "Package Index Owner:": "Tom.Howe"
+  }, 
+  "license": "", 
+  "longdescription": "Wrapper to forward TERM signals to INT signals so uWSGI plays nice with runit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1d31a8b1bbb2e14dfacb54be247cd95b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sigintwrap/sigintwrap-0.0.2.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "aaisp.net SMS interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mstevens/aasms", 
+  "info": {
+    "Author:": "Michael Stevens", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Telephony"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mstevens/aasms", 
+    "Package Index Owner:": "mstevens"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "aaisp.net SMS interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5dd30856804c70b7eed345d7a0467e7a", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aasms/aasms-0.7.tar.gz"
+}

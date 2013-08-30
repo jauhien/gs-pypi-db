@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Class-based mail views for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/disqus/django-mailviews/", 
+  "info": {
+    "Author:": "ted kaemming", 
+    "Home Page:": "http://github.com/disqus/django-mailviews/", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "tkaemming"
+  }, 
+  "license": "", 
+  "longdescription": "Class-based mail views for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "641951c4b79c6b3260c252b17134cebb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mailviews/django-mailviews-0.5.2.tar.gz"
+}

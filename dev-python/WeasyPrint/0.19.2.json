@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WeasyPrint converts web documents to PDF.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://weasyprint.org/", 
+  "info": {
+    "Author:": "Simon Sapin", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Home Page:": "http://weasyprint.org/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "liZe", 
+    "Package Index Owner:": "SimonSapin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "WeasyPrint converts web documents to PDF.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75f1de2cf4677c53c5bff1adb23033ec", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WeasyPrint/WeasyPrint-0.19.2.tar.gz"
+}

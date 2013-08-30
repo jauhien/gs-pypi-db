@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple reporting for Django admin.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/barseghyanartur/sirep", 
+  "info": {
+    "Author:": "Artur Barseghyan", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sirep", 
+    "Home Page:": "https://bitbucket.org/barseghyanartur/sirep", 
+    "Keywords:": "reporting,django,admin,app,python", 
+    "License:": "GPL 2.0/LGPL 2.1", 
+    "Package Index Owner:": "delusionalinsanity"
+  }, 
+  "license": "", 
+  "longdescription": "Simple reporting for Django admin.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b2218b7ab9a42f7e26573025a7acf1b9", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sirep/sirep-0.5.tar.gz"
+}

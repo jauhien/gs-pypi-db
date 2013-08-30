@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Prat fork of Denis Beilenkos Coroutine-based network library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bkad/gevent", 
+  "info": {
+    "Author:": "Kevin Le", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bkad/gevent", 
+    "Package Index Owner:": "bkad"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Prat fork of Denis Beilenkos Coroutine-based network library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "135e4240757a2b9adcec299436ea9ca1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/prat-gevent/prat-gevent-1.0dev.tar.gz"
+}

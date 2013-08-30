@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightweight framework for easily providing REST APIs for web apps built with Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/funkbit/django-dynamicresponse", 
+  "info": {
+    "Author:": "Funkbit AS", 
+    "Home Page:": "https://github.com/funkbit/django-dynamicresponse", 
+    "License:": "BSD", 
+    "Package Index Owner:": "funkbit"
+  }, 
+  "license": "", 
+  "longdescription": "Lightweight framework for easily providing REST APIs for web apps built with Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b9f670cc2f3434a00e39b6e979ca58de", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dynamicresponse/django-dynamicresponse-0.5.0.tar.gz"
+}

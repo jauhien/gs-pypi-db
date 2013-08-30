@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python module for Unbound to dynamically map external IPs to internal RFC 118 addresses to avoid split-horion DNS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://stuffivelearned.org", 
+  "info": {
+    "Author:": "Jay Deiman", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Name Service (DNS)"
+      ]
+    }, 
+    "Home Page:": "http://stuffivelearned.org", 
+    "Package Index Owner:": "crustymonkey"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "A python module for Unbound to dynamically map external IPs to internal RFC 118 addresses to avoid split-horion DNS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "25815cb042c9caba120186597a4e67c8", 
+  "source_uri": "https://pypi.python.org/packages/source/u/ub-split-map/ub-split-map-0.1.1.tar.gz"
+}

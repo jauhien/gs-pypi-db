@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An ORM for config files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ajenti.org/", 
+  "info": {
+    "Author:": "Eugeny Pankov", 
+    "Home Page:": "http://ajenti.org/", 
+    "Package Index Owner:": "Eugeny.Pankov"
+  }, 
+  "license": "", 
+  "longdescription": "An ORM for config files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "133c88618e59b2f9a678e9eed7f98bce", 
+  "source_uri": "https://pypi.python.org/packages/source/r/reconfigure/reconfigure-0.1.17.tar.gz"
+}

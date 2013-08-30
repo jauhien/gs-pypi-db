@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Very small and simple configuration file parser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyfig.alecwh.com/", 
+  "info": {
+    "Author:": "Alec Henriksen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/alecwh/pyfig/downloads/pyfig2.0.tar.gz", 
+    "Home Page:": "http://pyfig.alecwh.com/", 
+    "Keywords:": "configuration,parser,config,config parser", 
+    "Package Index Owner:": "alecwh"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Very small and simple configuration file parser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4745cd1bf83b4ed08928e4ca9514447a", 
+  "source_uri": "http://bitbucket.org/alecwh/pyfig/downloads/pyfig2.0.tar.gz"
+}

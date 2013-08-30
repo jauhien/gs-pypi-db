@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides AJAX file upload functionality for FileFields and ImageFields with a simple widget replacement in the form.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zmathew/django-ajax-upload-widget", 
+  "info": {
+    "Author:": "Zach Mathew", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zmathew/django-ajax-upload-widget", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zmathew"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Provides AJAX file upload functionality for FileFields and ImageFields with a simple widget replacement in the form.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aeea18634d7c3b32521e1aa69235e383", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ajax-upload-widget/django-ajax-upload-widget-0.5.3.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rsync wrapper making syncing easy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zyklop.rtfd.org", 
+  "info": {
+    "Author:": "R\u00f3man Joost", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://zyklop.rtfd.org", 
+    "Keywords:": "server", 
+    "License:": "GPL", 
+    "Package Index Owner:": "romanofski"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Rsync wrapper making syncing easy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba365296740e3ae71b3322e44e909a06", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zyklop/zyklop-0.5.2.zip"
+}

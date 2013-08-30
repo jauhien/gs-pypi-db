@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Transaction-aware file creation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.repoze.org/filesafe/", 
+  "info": {
+    "Author:": "Wichert Akkerman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://docs.repoze.org/filesafe/", 
+    "Keywords:": "transaction wsgi repoze", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "lxneng"
+  }, 
+  "license": "", 
+  "longdescription": "Transaction-aware file creation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6d7b854584769696a29845f7ce02b14", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.filesafe-nfs/repoze.filesafe-nfs-2.0b3.tar.gz"
+}

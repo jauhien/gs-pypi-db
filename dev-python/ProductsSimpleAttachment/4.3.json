@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Attachments for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.SimpleAttachment", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.SimpleAttachment", 
+    "Keywords:": "Plone attachments RichDocument", 
+    "License:": "GPL", 
+    "Package Index Owner:": "wichert, optilude, witsch, vangheem, saily, petschki, hannosch, ggozad"
+  }, 
+  "license": "", 
+  "longdescription": "Simple Attachments for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1ca9b47f5223aa1d8a2379aca178924", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.SimpleAttachment/Products.SimpleAttachment-4.3.zip"
+}

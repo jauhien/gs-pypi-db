@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app for audit logging.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://projects.ninemoreminutes.com/projects/django-trails/", 
+  "info": {
+    "Author:": "Nine More Minutes, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://projects.ninemoreminutes.com/projects/django-trails/", 
+    "Keywords:": "django audit trail logging", 
+    "License:": "BSD", 
+    "Package Index Owner:": "cchurch"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django app for audit logging.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44e1f1dad4698cf9a4fd8827854eac3e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-trails/django-trails-0.2a2.tar.gz"
+}

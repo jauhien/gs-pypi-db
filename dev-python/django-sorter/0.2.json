@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A helper app for sorting objects in Django templates.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-sorter.readthedocs.org/", 
+  "info": {
+    "Author:": "Jannis Leidel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://django-sorter.readthedocs.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jezdez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A helper app for sorting objects in Django templates.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c975bf5864fb3d153bf6af327536901c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sorter/django-sorter-0.2.tar.gz"
+}

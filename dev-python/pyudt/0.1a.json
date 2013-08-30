@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for UDP-based Data Transfer Library (UDT)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Tobias Ammann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Keywords:": "udt wrapper pyudt", 
+    "License:": "GPL", 
+    "Package Index Owner:": "betabrain"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper for UDP-based Data Transfer Library (UDT)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d39c91ca05ecc5b79e24f5464656cc94", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyudt/pyudt-0.1a.tar.gz"
+}

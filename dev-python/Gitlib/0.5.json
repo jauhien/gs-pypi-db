@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pythonic low-level Git library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.mcnabbs.org/andrew/smug/docs/gitlib.html", 
+  "info": {
+    "Author:": "Andrew McNabb", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Download URL:": "git://mcnabbs.org/smug.git", 
+    "Home Page:": "http://www.mcnabbs.org/andrew/smug/docs/gitlib.html", 
+    "Keywords:": "Git", 
+    "License:": "BSD", 
+    "Package Index Owner:": "amcnabb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Pythonic low-level Git library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "git://mcnabbs.org/smug.git"
+}

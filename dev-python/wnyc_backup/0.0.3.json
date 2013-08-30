@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple staggered backups", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/wnyc/wnyc_backup", 
+  "info": {
+    "Author:": "Adam DePrince", 
+    "Home Page:": "http://github.com/wnyc/wnyc_backup", 
+    "License:": "GPL", 
+    "Package Index Owner:": "adamdeprince"
+  }, 
+  "license": "", 
+  "longdescription": "Simple staggered backups", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1798c260124518cf7fdde979f67daea1", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wnyc_backup/wnyc_backup-0.0.3.tar.gz"
+}

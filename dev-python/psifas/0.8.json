@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python library for parsing and building of data structures with the ability", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypsifas.sourceforge.net/", 
+  "info": {
+    "Author:": "Oren Zomer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://pypsifas.sourceforge.net/", 
+    "Home Page:": "http://pypsifas.sourceforge.net/", 
+    "Keywords:": "parse,parsing,binary,serialize,serialization,pack,unpack,building,struct,scapy,network,protocol,format,bitfield,file format,constraint,constraint engine", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Oren.Zomer", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "A python library for parsing and building of data structures with the ability", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "012560cf089b6aa15b9c5cc4a069d85d", 
+  "source_uri": "http://pypsifas.sourceforge.net/"
+}

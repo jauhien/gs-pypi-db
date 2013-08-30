@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "rebuild a new abstract syntax tree from Pythons ast", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.logilab.org/project/logilab-astng", 
+  "info": {
+    "Author:": "Logilab", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Quality Assurance"
+      ]
+    }, 
+    "Home Page:": "http://www.logilab.org/project/logilab-astng", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "rebuild a new abstract syntax tree from Pythons ast", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f0dd5dee1d5053939da174e1bfe69388", 
+  "source_uri": "https://pypi.python.org/packages/source/l/logilab-astng/logilab-astng-0.24.3.tar.gz"
+}

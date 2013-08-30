@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django template tag for embedding ICanHa.js templates safely.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/carljm/django-icanhaz/", 
+  "info": {
+    "Author:": "Carl Meyer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/carljm/django-icanhaz/", 
+    "Package Index Owner:": "carljm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django template tag for embedding ICanHa.js templates safely.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "13f49eac67418895f4461e57aa4469d4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-icanhaz/django-icanhaz-0.2.1.tar.gz"
+}

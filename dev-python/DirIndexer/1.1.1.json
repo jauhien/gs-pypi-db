@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python command line utility for efficiently indexing then searching a directory", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/sdbrain/dirindexer/overview", 
+  "info": {
+    "Author:": "Garrett Greenwood, David Sounthiraraj", 
+    "Categories": {
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/sdbrain/dirindexer/overview", 
+    "Package Index Maintainer:": "sdbrain", 
+    "Package Index Owner:": "GGreenwood"
+  }, 
+  "license": "", 
+  "longdescription": "Pure Python command line utility for efficiently indexing then searching a directory", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ddaf1ff9a46c9b9341a45ee59423bff1", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DirIndexer/DirIndexer-1.1.1.tar.gz"
+}

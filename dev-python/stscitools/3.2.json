@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "assorted tools for stscipython", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+  "info": {
+    "Author:": "STScI", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+    "Package Index Owner:": "cdsontag, stsci_ssb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "assorted tools for stscipython", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac508ec65f31d3953fc6d8f8e4b83082", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stsci.tools/stsci.tools-3.2.tar.gz"
+}

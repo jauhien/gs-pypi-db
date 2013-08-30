@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Instant integration of Ian Bickings WebTest(httpwebtest.pythonpaste.org) with djangos testing framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/kmike/django-webtest/", 
+  "info": {
+    "Author:": "Mikhail Korobov", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/kmike/django-webtest/", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "kmike"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Instant integration of Ian Bickings WebTest(httpwebtest.pythonpaste.org) with djangos testing framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "400108faaaafe65c8af00e7d55fff276", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-webtest/django-webtest-1.7.5.tar.gz"
+}

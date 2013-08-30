@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Line-based protocols for use with mrjob.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Yelp/mr3po", 
+  "info": {
+    "Author:": "David Marin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "http://github.com/Yelp/mr3po", 
+    "License:": "Apache", 
+    "Package Index Owner:": "sudarshang, davidmarin"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Line-based protocols for use with mrjob.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f927555758a400b6d4a0d1a2cf067af", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mr3po/mr3po-0.1.0.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is a nginxs config parser and starter for uwsgi workers (tested on uwsgi 0..8)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.telemost.net/wiki/nginx_uwsgi_starter", 
+  "info": {
+    "Author:": "Sergey Vasilenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://dev.telemost.net/wiki/nginx_uwsgi_starter", 
+    "Keywords:": "nginx uwsgi starter", 
+    "License:": "GPL", 
+    "Package Index Owner:": "stalker", 
+    "Platform:": "All"
+  }, 
+  "license": "", 
+  "longdescription": "This is a nginxs config parser and starter for uwsgi workers (tested on uwsgi 0..8)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "359e42ea31cca88637798482c9badf29", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nust/nust-dev-20110623-01.tar.gz"
+}

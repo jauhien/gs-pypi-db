@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cache-based rate-limiting for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gmcquillan/django-brake", 
+  "info": {
+    "Author:": "James Socol, Gavin McQuillan", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment", 
+        "Mozilla"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gmcquillan/django-brake", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gmcquillan"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Cache-based rate-limiting for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1de7218c0497f216a880098b564f6acb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-brake/django-brake-1.2.3.tar.gz"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for installing ruby gems.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/sirex/rubygemsrecipe", 
+  "info": {
+    "Author:": "Mantas Zimnickas", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Ruby Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/sirex/rubygemsrecipe", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sirex"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "c.buildout recipe for installing ruby gems.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1053cfe04e076adab6e2f1d68218e69d", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rubygemsrecipe/rubygemsrecipe-0.1.7.tar.gz"
+}

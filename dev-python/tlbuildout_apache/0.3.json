@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipes for setting up an Apache web server environment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.thomas-lotze.de/en/software/buildout-recipes/", 
+  "info": {
+    "Author:": "Thomas Lotze", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://www.thomas-lotze.de/en/software/buildout-recipes/", 
+    "Keywords:": "buildout zc.buildout recipe apache httpd server root instance modpython mod_python", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "tlotze"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "c.buildout recipes for setting up an Apache web server environment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33a2357d1453fc743fec77664988c49d", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tl.buildout_apache/tl.buildout_apache-0.3.tar.gz"
+}

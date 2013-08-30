@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extends plone content with ability to render external content in viewlet.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Lukas Zdych", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "plone external content", 
+    "License:": "GPL", 
+    "Package Index Owner:": "lzdych"
+  }, 
+  "license": "", 
+  "longdescription": "Extends plone content with ability to render external content in viewlet.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12e3b05265ad47eb7546504a44c32f72", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.externalsnippet/collective.externalsnippet-0.2.zip"
+}

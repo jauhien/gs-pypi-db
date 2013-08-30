@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display link content type as embedded video, provide a video gallery view", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.videolink", 
+  "info": {
+    "Author:": "David Bain", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.videolink", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pigeonflight"
+  }, 
+  "license": "", 
+  "longdescription": "Display link content type as embedded video, provide a video gallery view", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aab78c50827dde6687072369864f550f", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.videolink/collective.videolink-3.0a4.zip"
+}

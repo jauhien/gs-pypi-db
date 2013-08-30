@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Programmable web browser for functional black-box testing of web applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zc.testbrowser", 
+  "info": {
+    "Author:": "Zope Corporation and Contributors", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zc.testbrowser", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "srichter", 
+    "Package Index Owner:": "benji, srichter, gary, roymath, tlotze, faassen, baijum, agroszer, hannosch, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Programmable web browser for functional black-box testing of web applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c0f4d81b3ddcd7527275f3750cba45db", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.testbrowser/zc.testbrowser-1.0.0a5.tar.gz"
+}

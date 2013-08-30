@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Commandline runner utility", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gdugas/comrunner", 
+  "info": {
+    "Author:": "Guillaume Dugas", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "https://github.com/gdugas/comrunner", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "gdugas"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Commandline runner utility", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b36b700341810d86534b81aa7935f72", 
+  "source_uri": "https://pypi.python.org/packages/source/C/ComRunner/ComRunner-0.1a.tar.gz"
+}

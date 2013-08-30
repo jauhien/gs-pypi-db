@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pluggable object copying mechanism", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zope.copy", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zope.copy", 
+    "Keywords:": "zope3 copying cloning", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "nadako, J1m, pcardune, tseaver, gary, baijum, ignas, hannosch, icemac, zvezdan, philikon, fdrake, srichter, ctheune, benji, sidnei, chrisw, projekt01, hathawsh, chrism, mgedmin, ccomb, faassen, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Pluggable object copying mechanism", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36aa2c96dec4cfeea57f54da2b733eb9", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zope.copy/zope.copy-4.0.2.zip"
+}

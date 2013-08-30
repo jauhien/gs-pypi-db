@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Translate serbian cyrillic text to latin version", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nesh/srcyr2lat", 
+  "info": {
+    "Author:": "Nebojsa Djordjevic", 
+    "Home Page:": "http://github.com/nesh/srcyr2lat", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nesh"
+  }, 
+  "license": "", 
+  "longdescription": "Translate serbian cyrillic text to latin version", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9e9a7ab4b3edbf159178a7bd7534b112", 
+  "source_uri": "https://pypi.python.org/packages/source/s/srcyr2lat/srcyr2lat-0.1.2.tar.gz"
+}

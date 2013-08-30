@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of useful Django CMS extensions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ozgurgunes/django-cmskit/", 
+  "info": {
+    "Author:": "Ozgur Gunes", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ozgurgunes/django-cmskit/", 
+    "Package Index Owner:": "ozgurgunes"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A collection of useful Django CMS extensions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5b6c3055bdf8ffec97db4c36000eb9c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cmskit/django-cmskit-0.1b0.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LAVA Kernel CI Views Application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Michael Hudson-Doyle", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "terceiro, Paul.Larson, mwhudson, zyga, doanac"
+  }, 
+  "license": "", 
+  "longdescription": "LAVA Kernel CI Views Application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9c815d68c6070960e30588f1845e8e0a", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lava-kernel-ci-views/lava-kernel-ci-views-0.4.1.tar.gz"
+}

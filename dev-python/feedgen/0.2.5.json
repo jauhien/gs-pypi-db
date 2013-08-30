@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Feed Generator (ATOM, RSS, Podcasts)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lkiesow.github.io/python-feedgen", 
+  "info": {
+    "Author:": "Lars Kiesow", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 or later (LGPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Home Page:": "http://lkiesow.github.io/python-feedgen", 
+    "Keywords:": "feed,ATOM,RSS,podcast", 
+    "License:": "FreeBSD and LGPLv3+", 
+    "Package Index Owner:": "lkiesow"
+  }, 
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)", 
+  "longdescription": "Feed Generator (ATOM, RSS, Podcasts)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "190cbc2501888aff25d88febd95998bf", 
+  "source_uri": "https://pypi.python.org/packages/source/f/feedgen/feedgen-0.2.5.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "basic pyogp apps package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wiki.secondlife.com/wiki/Pyogp", 
+  "info": {
+    "Author:": "Pyogp collective", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://wiki.secondlife.com/wiki/Pyogp", 
+    "Keywords:": "pyogp login awg virtualworlds", 
+    "License:": "Apache2", 
+    "Package Index Maintainer:": "alilinden", 
+    "Package Index Owner:": "enus_linden"
+  }, 
+  "license": "", 
+  "longdescription": "basic pyogp apps package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0cadff77630ac0b65c083293a26909be", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyogp.apps/pyogp.apps-0.1dev.tar.gz"
+}

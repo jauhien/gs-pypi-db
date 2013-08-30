@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Inter-conversion of OSGB references and lon-lats", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.agapow.net/software/osgb", 
+  "info": {
+    "Author:": "Paul-Michael Agapow", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Home Page:": "http://www.agapow.net/software/osgb", 
+    "Keywords:": "geospatial OSGB UK", 
+    "License:": "BSD", 
+    "Package Index Owner:": "agapow"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Inter-conversion of OSGB references and lon-lats", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c34aed3a1f48ad1d65417c35c98d920f", 
+  "source_uri": "https://pypi.python.org/packages/source/o/osgb/osgb-0.2dev.tar.gz"
+}

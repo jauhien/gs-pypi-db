@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asset management for Flask, to compress and merge CSS and Javascript files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/miracle2k/flask-assets", 
+  "info": {
+    "Author:": "Michael Elsdoerfer", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/miracle2k/flask-assets", 
+    "License:": "BSD", 
+    "Package Index Owner:": "miracle2k", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Asset management for Flask, to compress and merge CSS and Javascript files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89be7277f3cf5fa89d7fa8d3679b9422", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Assets/Flask-Assets-0.8.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "plopmail is a pure python MDA replacing procmail or maildrop", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://penguin.fr/gitweb/?p=plopmail.git", 
+  "info": {
+    "Author:": "David Guerizec", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Download URL:": "http://penguin.fr/gitweb/?p=plopmail.git", 
+    "Home Page:": "http://penguin.fr/gitweb/?p=plopmail.git", 
+    "Keywords:": "plopmail mail postfix courier-imap mda procmail maildrop", 
+    "License:": "GPL", 
+    "Maintainer:": "David Guerizec", 
+    "Package Index Owner:": "zundog", 
+    "Platform:": "linux"
+  }, 
+  "license": "", 
+  "longdescription": "plopmail is a pure python MDA replacing procmail or maildrop", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://penguin.fr/gitweb/?p=plopmail.git"
+}

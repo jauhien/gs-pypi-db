@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Report tickets using a different name than that of the logged in user.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/FakeUsernamePlugin", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/FakeUsernamePlugin", 
+    "Keywords:": "trac plugin ticket", 
+    "License:": "BSD", 
+    "Package Index Owner:": "coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "Report tickets using a different name than that of the logged in user.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f46e8a91e28326a9f48bf623e1dab0b8", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracFakeUsername/TracFakeUsername-1.0.tar.gz"
+}

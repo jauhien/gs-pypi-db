@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django middleware class that takes TemplateResponses and renders them with Jinja, instead of the Django stock templating language.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lukesneeringer/django-jinja/", 
+  "info": {
+    "Author:": "Luke Sneeringer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lukesneeringer/django-jinja/", 
+    "Keywords:": "django,jinja,middleware", 
+    "Package Index Owner:": "lukesneeringer"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django middleware class that takes TemplateResponses and renders them with Jinja, instead of the Django stock templating language.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4fe47810fe5017d6cda1ad3f3e21450e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_jinja_middleware/django_jinja_middleware-1.1.tar.gz"
+}

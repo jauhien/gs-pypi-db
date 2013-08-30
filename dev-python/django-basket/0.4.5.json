@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django generic basket application. Allow to put in basket any object and view orders in the Django admin interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ivan Gromov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Keywords:": "django shopping basket cart", 
+    "License:": "GPLv3", 
+    "Package Index Maintainer:": "Ivan.Gromov, victor.smirnov, Propp, evgeniy.gulitsyn, a.iv", 
+    "Package Index Owner:": "victor.smirnov, Redsolution"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Django generic basket application. Allow to put in basket any object and view orders in the Django admin interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a191da925126ee0922ad98afb8199119", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-basket/django-basket-0.4.5.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CKAN API Extension for OFS Storage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://okfn.org/", 
+  "info": {
+    "Author:": "Open Knowledge Foundation", 
+    "Documentation:": "http://pythonhosted.org//ckanext-storage", 
+    "Home Page:": "http://okfn.org/", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "wwaites, rgrp"
+  }, 
+  "license": "", 
+  "longdescription": "CKAN API Extension for OFS Storage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8449ad731fd63cc79e291938b8ff963", 
+  "source_uri": "https://pypi.python.org/packages/source/c/ckanext-storage/ckanext-storage-0.6.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "configure virtual (or real) machines with tools for biological analyses", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cloudbiolinux.org", 
+  "info": {
+    "Author:": "Brad Chapman", 
+    "Home Page:": "http://cloudbiolinux.org", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chapmanb"
+  }, 
+  "license": "", 
+  "longdescription": "configure virtual (or real) machines with tools for biological analyses", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "accc894614fd6d28a8455bddbec2ab3d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cloudbiolinux/cloudbiolinux-0.3a.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightweight profiling tool to detect performance BottleNecks in Python code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/denis-ryzhkov/bn", 
+  "info": {
+    "Author:": "Denis Ryzhkov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/denis-ryzhkov/bn", 
+    "License:": "MIT", 
+    "Package Index Owner:": "denisr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Lightweight profiling tool to detect performance BottleNecks in Python code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "489cc171d9c154e258a37f2d82731919", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bn/bn-0.1.4.tar.gz"
+}

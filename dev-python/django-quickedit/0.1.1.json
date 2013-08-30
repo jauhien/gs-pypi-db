@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Quick editing of fields in the django admin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/washingtontimes/django-quickedit", 
+  "info": {
+    "Author:": "Justin Quick", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/washingtontimes/django-quickedit", 
+    "Package Index Owner:": "justquick"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Quick editing of fields in the django admin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5b0443e5f2b7fa84b27e17073038e0c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-quickedit/django-quickedit-0.1.1.tar.gz"
+}

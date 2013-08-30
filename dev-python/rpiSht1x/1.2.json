@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reads Humidity and Temperature from a Sensirion SHT1x sensor.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/lunobili/rpisht1x", 
+  "info": {
+    "Author:": "Luca Nobili", 
+    "Home Page:": "https://bitbucket.org/lunobili/rpisht1x", 
+    "Keywords:": "Raspberry Pi RaspberryPi SHT15 SHT11 SHT1x Humidity Temperature GPIO", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "lunobili"
+  }, 
+  "license": "", 
+  "longdescription": "Reads Humidity and Temperature from a Sensirion SHT1x sensor.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18aaff93d09badd9150d4e1e3887a99f", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rpiSht1x/rpiSht1x-1.2.tar.gz"
+}

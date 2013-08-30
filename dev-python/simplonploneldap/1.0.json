@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LDAP control panel for Plone 3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.simplon.biz/svn/zope/simplon.plone.ldap", 
+  "info": {
+    "Author:": "Wichert Akkerman - Simplon", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory", 
+        "LDAP"
+      ]
+    }, 
+    "Home Page:": "http://code.simplon.biz/svn/zope/simplon.plone.ldap", 
+    "Keywords:": "plone ldap", 
+    "License:": "GPL", 
+    "Package Index Owner:": "wichert"
+  }, 
+  "license": "", 
+  "longdescription": "LDAP control panel for Plone 3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3b00fdd627c9fbddbb52c65d26a33eb", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simplon.plone.ldap/simplon.plone.ldap-1.0.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds a thumbnailoom view to collective.plonetruegallery", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.ptg.thumbnailzoom", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.ptg.thumbnailzoom", 
+    "Keywords:": "plone plonetruegallery addon", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vangheem, espen"
+  }, 
+  "license": "", 
+  "longdescription": "Adds a thumbnailoom view to collective.plonetruegallery", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77b350867675155ebd853ccd807ffb83", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.ptg.thumbnailzoom/collective.ptg.thumbnailzoom-1.0.5.1.zip"
+}

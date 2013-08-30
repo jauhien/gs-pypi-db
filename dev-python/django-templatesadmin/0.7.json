@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app to make minor changes to your templates on the fly.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bartTC/django-templatesadmin/", 
+  "info": {
+    "Author:": "Martin Mahner", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bartTC/django-templatesadmin/", 
+    "Package Index Owner:": "bartTC"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app to make minor changes to your templates on the fly.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "586e128a01b340f2c6ade5d1b49b22e6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-templatesadmin/django-templatesadmin-0.7.tar.gz"
+}

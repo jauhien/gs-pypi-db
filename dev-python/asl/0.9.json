@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bindings to the ASL library on Mac OS X", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonhosted.org/asl/", 
+  "info": {
+    "Author:": "Ronald Oussoren", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "MacOS X"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "MacOS", 
+        "MacOS X"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//asl", 
+    "Download URL:": "http://pypi.python.org/pypi/asl", 
+    "Home Page:": "http://pythonhosted.org/asl/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ronaldoussoren", 
+    "Platform:": "Mac,OS,X"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Bindings to the ASL library on Mac OS X", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://pypi.python.org/pypi/asl"
+}

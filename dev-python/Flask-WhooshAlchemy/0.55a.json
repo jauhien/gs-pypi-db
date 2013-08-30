@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Whoosh extension to FlaskSQLAlchemy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gyllstromk/Flask-WhooshAlchemy", 
+  "info": {
+    "Author:": "Karl Gyllstrom", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Flask-WhooshAlchemy", 
+    "Home Page:": "https://github.com/gyllstromk/Flask-WhooshAlchemy", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gyllstromk", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Whoosh extension to FlaskSQLAlchemy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a081eeff4450f3ddeedbbca540847f74", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-WhooshAlchemy/Flask-WhooshAlchemy-0.55a.tar.gz"
+}

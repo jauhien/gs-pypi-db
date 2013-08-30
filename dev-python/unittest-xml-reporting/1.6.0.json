@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PyUnit-based test runner with JUnit like XML reporting.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/danielfm/unittest-xml-reporting/tree/master/", 
+  "info": {
+    "Author:": "Daniel Fernandes Martins", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/danielfm/unittest-xml-reporting/tree/master/", 
+    "Keywords:": "pyunit,unittest,junit xml,report,testrunner", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "dfmartins", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "PyUnit-based test runner with JUnit like XML reporting.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4dda5cca146651e4046241af9f004d5", 
+  "source_uri": "https://pypi.python.org/packages/source/u/unittest-xml-reporting/unittest-xml-reporting-1.6.0.tar.gz"
+}

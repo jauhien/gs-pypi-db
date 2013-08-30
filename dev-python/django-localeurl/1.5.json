@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django application that allow you to specify the language of a page in the URL.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/django-localeurl/", 
+  "info": {
+    "Author:": "Carl Meyer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Localization"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-localeurl", 
+    "Home Page:": "http://packages.python.org/django-localeurl/", 
+    "Keywords:": "django i18n", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jcassee, carljm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django application that allow you to specify the language of a page in the URL.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b56884879709b8d2a0f57a68c396f552", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-localeurl/django-localeurl-1.5.tar.gz"
+}

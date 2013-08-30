@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "glue for wsgi ope3 apps wo odb", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Kapil Thangavelu", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "License:": "ZPL", 
+    "Package Index Owner:": "kapilt"
+  }, 
+  "license": "", 
+  "longdescription": "glue for wsgi ope3 apps wo odb", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1abb04e466f0a538c8ba78c33a9d499", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ore.wsgiapp/ore.wsgiapp-0.3.2.tar.gz"
+}

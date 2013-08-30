@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A twisted based daemon to send metrics to leftronic.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ojii/leftronicd", 
+  "info": {
+    "Author:": "Jonas Obrist", 
+    "Home Page:": "https://github.com/ojii/leftronicd", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ojii", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "A twisted based daemon to send metrics to leftronic.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e420f24d11de1b719058889107e7889", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leftronicd/leftronicd-1.0.3.tar.gz"
+}

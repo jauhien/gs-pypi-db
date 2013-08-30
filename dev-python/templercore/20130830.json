@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Core functionality for the templer tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/templer.core", 
+  "info": {
+    "Author:": "Cris Ewing", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/templer.core", 
+    "Keywords:": "web zope command-line skeleton project", 
+    "License:": "MIT", 
+    "Package Index Owner:": "cewing", 
+    "Platform:": "Any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Core functionality for the templer tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e337e70f26172425fbecd04e60868bdb", 
+  "source_uri": "https://pypi.python.org/packages/source/t/templer.core/templer.core-1.0b4.zip"
+}

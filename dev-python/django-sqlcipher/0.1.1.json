@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLCipher support for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/codasus/django-sqlcipher", 
+  "info": {
+    "Author:": "Codasus Technologies", 
+    "Bug Tracker:": "https://github.com/codasus/django-sqlcipher/issues", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://github.com/codasus/django-sqlcipher", 
+    "License:": "Creative Commons Attribution-ShareAlike 3.0 Unported License", 
+    "Package Index Owner:": "Caio.Ariede", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "SQLCipher support for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bc43cfa5db1cfe62071761e61254818c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sqlcipher/django-sqlcipher-0.1.1.tar.gz"
+}

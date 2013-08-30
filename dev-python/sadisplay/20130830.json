@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SqlAlchemy schema display script", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/estin/sadisplay", 
+  "info": {
+    "Author:": "Evgeniy Tatarkin", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/estin/sadisplay", 
+    "License:": "BSD", 
+    "Package Index Owner:": "estin", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "SqlAlchemy schema display script", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c71ce147928880c44c3f4f897e12dd6b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sadisplay/sadisplay-0.3.5dev.tar.gz"
+}

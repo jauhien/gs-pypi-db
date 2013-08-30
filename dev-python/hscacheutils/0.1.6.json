@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Some of Hubspots python cache utils, namely generational caching", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.hubspot.com/", 
+  "info": {
+    "Author:": "HubSpot Developer", 
+    "Home Page:": "http://dev.hubspot.com/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "timmfin", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Some of Hubspots python cache utils, namely generational caching", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a79d283e58e6645003d6f1cad035288a", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hscacheutils/hscacheutils-0.1.6.tar.gz"
+}

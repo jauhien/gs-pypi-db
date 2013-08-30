@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to programatically create distribution images from any distribution", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bitbucket.org/tortoiselabs/appliancekit-ng", 
+  "info": {
+    "Author:": "William Pitcock", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://www.bitbucket.org/tortoiselabs/appliancekit-ng", 
+    "Package Index Owner:": "William.Pitcock", 
+    "Platform:": "Linux"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Tools to programatically create distribution images from any distribution", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e14904dfc409bab59c3ae832d5221415", 
+  "source_uri": "https://pypi.python.org/packages/source/A/ApplianceKit-NG/ApplianceKit-NG-0.4.0.tar.gz"
+}

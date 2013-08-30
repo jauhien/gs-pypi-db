@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple client for the afraid.org dynamic DNS service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/atdt/afraid", 
+  "info": {
+    "Author:": "Ori Livneh", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "https://github.com/atdt/afraid", 
+    "License:": "ISC", 
+    "Package Index Owner:": "atdt"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "A simple client for the afraid.org dynamic DNS service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec77538b817611fffa185e6f4ea01986", 
+  "source_uri": "https://pypi.python.org/packages/source/a/afraid/afraid-0.1-dev.tar.gz"
+}

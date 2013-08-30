@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scripts to simplify conversion of .ui and .qrc files to Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/reclosedev/make_qt_ui", 
+  "info": {
+    "Author:": "Roman Haritonov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/reclosedev/make_qt_ui", 
+    "Keywords:": "qt,pyside,pyqt", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "reclosedev"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Scripts to simplify conversion of .ui and .qrc files to Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "81ba898ea3d6c08633fbc1b61608c67d", 
+  "source_uri": "https://pypi.python.org/packages/source/m/make_qt_ui/make_qt_ui-0.1.0.tar.gz"
+}

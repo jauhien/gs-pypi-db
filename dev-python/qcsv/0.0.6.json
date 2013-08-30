@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An API to read and analye CSV files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/BurntSushi/qcsv", 
+  "info": {
+    "Author:": "Andrew Gallant", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/BurntSushi/qcsv", 
+    "License:": "WTFPL", 
+    "Package Index Owner:": "burntsushi", 
+    "Platform:": "ANY"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "An API to read and analye CSV files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fef027b6bbf286eb574b1350e81ab04b", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qcsv/qcsv-0.0.6.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An ultra simple wrapper for Python MySQLdb with very basic functionality", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://nadh.in/code/simplemysql", 
+  "info": {
+    "Author:": "Kailash Nadh", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://github.com/knadh/simplemysql", 
+    "Home Page:": "http://nadh.in/code/simplemysql", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "knadh"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "An ultra simple wrapper for Python MySQLdb with very basic functionality", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f27abdd6f22e67da423baa5ce0f5720", 
+  "source_uri": "http://github.com/knadh/simplemysql"
+}

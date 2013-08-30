@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command-line web service client for calling BYU REST web services.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/byu-oit-core-appeng/byu-ws-cli-python", 
+  "info": {
+    "Author:": "BYU OIT Core Application Engineering", 
+    "Home Page:": "https://github.com/byu-oit-core-appeng/byu-ws-cli-python", 
+    "License:": "MIT", 
+    "Package Index Owner:": "byu-oit-core-appeng"
+  }, 
+  "license": "", 
+  "longdescription": "A command-line web service client for calling BYU REST web services.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ffe415b708ff87836580386df65688c", 
+  "source_uri": "https://pypi.python.org/packages/source/b/byu_ws_cli/byu_ws_cli-0.9.7.tar.gz"
+}

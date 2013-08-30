@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django class-based views, backported from Django trunk", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/brutasse/django-cbv", 
+  "info": {
+    "Author:": "Bruno Renie", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/brutasse/django-cbv", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bruno", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django class-based views, backported from Django trunk", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3af842a5a7c66ca422272bdd9db2cb66", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cbv/django-cbv-0.2.tar.gz"
+}

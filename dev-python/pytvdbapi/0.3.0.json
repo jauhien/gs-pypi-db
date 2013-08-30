@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A clean, resource friendly and easy to use API for thetvdb.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fuzzycode/pytvdbapi", 
+  "info": {
+    "Author:": "Bjoern Larsson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pytvdbapi", 
+    "Home Page:": "https://github.com/fuzzycode/pytvdbapi", 
+    "Keywords:": "TVDB thetvdb.com API tv episodes", 
+    "License:": "LGPLv3", 
+    "Package Index Owner:": "blarsson", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A clean, resource friendly and easy to use API for thetvdb.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d5d61a4b0f09250c43d4cf90a0dd0e3e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytvdbapi/pytvdbapi-0.3.0.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to set current Python version", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ActiveState/pythonselect", 
+  "info": {
+    "Author:": "Sridhar Ratnakumar", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ActiveState/pythonselect", 
+    "License:": "MIT", 
+    "Package Index Owner:": "srid"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A tool to set current Python version", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a11c8d41ee24eb2d35839e727613320", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pythonselect/pythonselect-1.3.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PostgreSQL driver and tools library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python.projects.postgresql.org/", 
+  "info": {
+    "Author:": "James William Pye", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//py-postgresql", 
+    "Home Page:": "http://python.projects.postgresql.org/", 
+    "Package Index Owner:": "jwp"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "PostgreSQL driver and tools library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84478c6e7a36cb5e1e391217289b7e54", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py-postgresql/py-postgresql-1.1.0.zip"
+}

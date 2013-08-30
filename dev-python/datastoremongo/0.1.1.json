@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "mongodb datastore implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/datastore/datastore.mongo", 
+  "info": {
+    "Author:": "Juan Batiz-Benet", 
+    "Categories": {
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://github.com/datastore/datastore.mongo", 
+    "Keywords:": "datastore,mongodb", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jbenet"
+  }, 
+  "license": "", 
+  "longdescription": "mongodb datastore implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4fa11ae2d0a8f4f39af5705ed11330a6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/datastore.mongo/datastore.mongo-0.1.1.tar.gz"
+}

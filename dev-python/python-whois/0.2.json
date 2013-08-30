@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Whois querying and parsing of domain registration information.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pywhois/", 
+  "info": {
+    "Author:": "Richard Penman", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pywhois/", 
+    "Keywords:": "whois,python", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Richard.Penman"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Whois querying and parsing of domain registration information.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fa67fc0c88b247641d4075667384b0d5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-whois/python-whois-0.2.tar.gz"
+}

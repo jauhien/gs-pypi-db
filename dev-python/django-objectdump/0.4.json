@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Export one or more objects and their related objects. Allows for fine-tuned control over which related objects are exported.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/callowayproject/django-objectdump", 
+  "info": {
+    "Author:": "Corey Oordt", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ]
+    }, 
+    "Home Page:": "https://github.com/callowayproject/django-objectdump", 
+    "Package Index Owner:": "coordt"
+  }, 
+  "license": "", 
+  "longdescription": "Export one or more objects and their related objects. Allows for fine-tuned control over which related objects are exported.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2dcd2785b2da30876288f0729a1af58b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-objectdump/django-objectdump-0.4.tar.gz"
+}

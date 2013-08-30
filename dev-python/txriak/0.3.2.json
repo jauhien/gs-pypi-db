@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "txriak is a Twisted module that communicates with the                     HTTP interface of Basho Technologies Riak data store.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/asi/txriak", 
+  "info": {
+    "Author:": "Appropriate Solutions, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Twisted"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/asi/txriak", 
+    "Keywords:": "twisted riak txriak", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "asi", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "txriak is a Twisted module that communicates with the                     HTTP interface of Basho Technologies Riak data store.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be95de0c742ede10c2b405a26dfafa19", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txriak/txriak-0.3.2.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A centralied image repository with keywordtag-based browsing and filtering.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/imagerepository", 
+  "info": {
+    "Author:": "Jarn AS", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/imagerepository", 
+    "Keywords:": "plone images repository centralized keywords", 
+    "License:": "GPL", 
+    "Package Index Owner:": "witsch, fschulze, mj, wichert, hannosch, ggozad", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A centralied image repository with keywordtag-based browsing and filtering.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "904f1334ec0a9b0977c662d6dd9d1f4e", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ImageRepository/Products.ImageRepository-1.0.2.zip"
+}

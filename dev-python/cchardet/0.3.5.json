@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Universal encoding detector. This library is faster than chardet.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/PyYoshi/cChardet", 
+  "info": {
+    "Author:": "PyYoshi", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/PyYoshi/cChardet", 
+    "Keywords:": "cython,chardet,charsetdetect", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "PyYoshi"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Universal encoding detector. This library is faster than chardet.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1e73ed1e6d6ab775c95f014b127df01", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cchardet/cchardet-0.3.5.tar.gz"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extensions to Djangos admin site to add an ajax view.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/imtapps/django-admin-ext", 
+  "info": {
+    "Author:": "Aaron Madison and Matthew J Morrison", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "https://github.com/imtapps/django-admin-ext", 
+    "Package Index Owner:": "Aaron.Madison, imtapps"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Extensions to Djangos admin site to add an ajax view.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a367e357820d82b1afc94ef4b7fbca0d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-admin-ext/django-admin-ext-0.1.6.tar.gz"
+}

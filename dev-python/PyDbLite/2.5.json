@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pure-Python db engine + Pythonic interface to SQLite and MySQL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pydblite.net", 
+  "info": {
+    "Author:": "Pierre Quentel", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "French"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database", 
+        "Database Engines/Servers"
+      ]
+    }, 
+    "Download URL:": "http://downloads.sourceforge.net/project/pydblite/pydblite/PyDbLite-2.5/PyDbLite-2.5.zip?use_mirror=ignum", 
+    "Home Page:": "http://www.pydblite.net", 
+    "Keywords:": "Python database engine MySQL SQLite", 
+    "License:": "BSD", 
+    "Package Index Owner:": "quentel", 
+    "Platform:": "platform-independant, runs with Python2.3+"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A pure-Python db engine + Pythonic interface to SQLite and MySQL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://downloads.sourceforge.net/project/pydblite/pydblite/PyDbLite-2.5/PyDbLite-2.5.zip?use_mirror=ignum"
+}

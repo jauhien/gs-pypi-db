@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python interface to the UNIX dialog utility and mostly-compatible programs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythondialog.sourceforge.net/", 
+  "info": {
+    "Author:": "Peter Astrand", 
+    "Home Page:": "http://pythondialog.sourceforge.net/", 
+    "Keywords:": "dialog,Xdialog,whiptail,text-mode interface", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "paulproteus", 
+    "Platform:": "UNIX"
+  }, 
+  "license": "", 
+  "longdescription": "A Python interface to the UNIX dialog utility and mostly-compatible programs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "afa7224a6b76142c55ea36bbd84f8a6f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pythondialog/pythondialog-2.7.tar.bz2"
+}

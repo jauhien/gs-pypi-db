@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "UUID object and generation functions (Python 2.3 or higher)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zesty.ca/python/", 
+  "info": {
+    "Author:": "Ka-Ping Yee", 
+    "Home Page:": "http://zesty.ca/python/", 
+    "Keywords:": "uuid guid unique identifier rfc4122", 
+    "Package Index Owner:": "ping"
+  }, 
+  "license": "", 
+  "longdescription": "UUID object and generation functions (Python 2.3 or higher)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "639b310f1fe6800e4bf8aa1dd9333117", 
+  "source_uri": "https://pypi.python.org/packages/source/u/uuid/uuid-1.30.tar.gz"
+}

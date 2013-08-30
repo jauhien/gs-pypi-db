@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple screenshot utility that can crop images and upload them to Twitpic", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Schnouki/twitscreen/tree/master", 
+  "info": {
+    "Author:": "Thomas Jost", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Graphics", 
+        "Capture", 
+        "Screen Capture"
+      ]
+    }, 
+    "Home Page:": "http://github.com/Schnouki/twitscreen/tree/master", 
+    "License:": "ISC", 
+    "Package Index Owner:": "Schnouki"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple screenshot utility that can crop images and upload them to Twitpic", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e266aec0bedf8ec1508421a04bd0516", 
+  "source_uri": "https://pypi.python.org/packages/source/t/twitscreen/twitscreen-0.1.tar.gz"
+}

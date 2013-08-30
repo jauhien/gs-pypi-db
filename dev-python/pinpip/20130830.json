@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugins providing basic pip functionality for pin.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dustinlacewell/pin-pip", 
+  "info": {
+    "Author:": "Dustin Lacewell", 
+    "Home Page:": "https://github.com/dustinlacewell/pin-pip", 
+    "Package Index Owner:": "dustinlacewell"
+  }, 
+  "license": "", 
+  "longdescription": "Plugins providing basic pip functionality for pin.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3284f4c7b23c8fd65cb47cebc6f55bd1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pinpip/pinpip-0.1rc1.tar.gz"
+}

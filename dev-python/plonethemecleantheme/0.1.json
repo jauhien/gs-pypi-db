@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An installable theme for Plone 3.0", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/plonetheme.cleantheme", 
+  "info": {
+    "Author:": "Giorgio Borelli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/plonetheme.cleantheme", 
+    "Keywords:": "web zope plone theme", 
+    "License:": "GPL", 
+    "Package Index Owner:": "giorgio"
+  }, 
+  "license": "", 
+  "longdescription": "An installable theme for Plone 3.0", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c0c4b2ec57eeca6a8322c622dc66499b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonetheme.cleantheme/plonetheme.cleantheme-0.1.tar.gz"
+}

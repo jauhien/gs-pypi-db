@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extension for GenericSetup, support for LDAP and AD", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.genericsetup.ldap", 
+  "info": {
+    "Author:": "Anne Walther", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.genericsetup.ldap", 
+    "Keywords:": "Zope Plone Python LDAP AD GenericSetup", 
+    "License:": "GPL", 
+    "Package Index Owner:": "awello"
+  }, 
+  "license": "", 
+  "longdescription": "Extension for GenericSetup, support for LDAP and AD", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bde1fbf9365f9cd42f1f4c2eef3033af", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.genericsetup.ldap/collective.genericsetup.ldap-1.0dev-r82790.tar.gz"
+}

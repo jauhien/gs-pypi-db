@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple package for running isolated Django tests from within virtualenv", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/domain51/d51.django.virtualenv.test_runner/", 
+  "info": {
+    "Author:": "Travis Swicegood", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ]
+    }, 
+    "Home Page:": "http://github.com/domain51/d51.django.virtualenv.test_runner/", 
+    "License:": "Triple licensed: BSD, LGPL, CDDL", 
+    "Package Index Owner:": "tswicegood"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Simple package for running isolated Django tests from within virtualenv", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea0aeb0575657c466c1aeb051b8af879", 
+  "source_uri": "https://pypi.python.org/packages/source/d/d51.django.virtualenv.test_runner/d51.django.virtualenv.test_runner-0.1.tar.gz"
+}

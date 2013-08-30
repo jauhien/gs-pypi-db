@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate Python code objects by assembling bytecode (Now includes a functionalAST-oriented API, too)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/BytecodeAssembler", 
+  "info": {
+    "Author:": "Phillip J. Eby", 
+    "Home Page:": "http://pypi.python.org/pypi/BytecodeAssembler", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "pje"
+  }, 
+  "license": "", 
+  "longdescription": "Generate Python code objects by assembling bytecode (Now includes a functionalAST-oriented API, too)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e18fbed83ed298b816cc95e4c662987d", 
+  "source_uri": "https://pypi.python.org/packages/source/B/BytecodeAssembler/BytecodeAssembler-0.6.zip"
+}

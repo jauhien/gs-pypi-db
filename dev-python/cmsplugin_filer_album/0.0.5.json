@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DjangoCMS filer plugin for show albums with template selection", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/ffaxl/cmsplugin-imagealbum", 
+  "info": {
+    "Author:": "Eugene Slizevich", 
+    "Home Page:": "http://bitbucket.org/ffaxl/cmsplugin-imagealbum", 
+    "Keywords:": "django-cms filer plugin album template", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ffaxl"
+  }, 
+  "license": "", 
+  "longdescription": "DjangoCMS filer plugin for show albums with template selection", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f51354dc9dbe5d08d2ea2780862e777b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin_filer_album/cmsplugin_filer_album-0.0.5.tar.gz"
+}

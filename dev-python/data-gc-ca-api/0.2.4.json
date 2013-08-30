@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility for Accessing Environment Canada Data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/igable/data-gc-ca-api", 
+  "info": {
+    "Author:": "Ian Gable", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/igable/data-gc-ca-api", 
+    "License:": "'GPL3' or 'Apache 2'", 
+    "Package Index Owner:": "igable"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Utility for Accessing Environment Canada Data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ece11951737113b561ef2c68f669aa63", 
+  "source_uri": "https://pypi.python.org/packages/source/d/data-gc-ca-api/data-gc-ca-api-0.2.4.tar.gz"
+}

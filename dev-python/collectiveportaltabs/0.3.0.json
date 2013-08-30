@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manage sites portal tabs from Plone interface in a simple way", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.portaltabs", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/collective.portaltabs/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.portaltabs", 
+    "Keywords:": "plone portal-tabs plonegov", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "Manage sites portal tabs from Plone interface in a simple way", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a9284ea8f7db5e7a6bac18220f7126a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portaltabs/collective.portaltabs-0.3.0.zip"
+}

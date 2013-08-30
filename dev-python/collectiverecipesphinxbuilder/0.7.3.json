@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C.buildout recipe to generate and build Sphinx-based documentation in the buildout.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sdouche/collective.recipe.sphinxbuilder", 
+  "info": {
+    "Author:": "Tarek Ziade", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/sdouche/collective.recipe.sphinxbuilder", 
+    "Keywords:": "buildout sphinx", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "garbas, iElectric", 
+    "Package Index Owner:": "zupo, tarek, garbas, iElectric, ajung, sdouche"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "C.buildout recipe to generate and build Sphinx-based documentation in the buildout.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69e3f7095b3e2457bab81634388c188e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.sphinxbuilder/collective.recipe.sphinxbuilder-0.7.3.tar.gz"
+}

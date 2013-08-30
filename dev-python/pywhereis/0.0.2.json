@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Unix whereis-like python script and package to find the source file of python object (package, module, function, class ...).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/mouad/pywhereis", 
+  "info": {
+    "Author:": "Mouad Benchchaoui", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/mouad/pywhereis", 
+    "Keywords:": "file source object dotted name automatic discovery", 
+    "License:": "BSD license", 
+    "Package Index Owner:": "mouadino", 
+    "Platform:": "Cross Platform"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Unix whereis-like python script and package to find the source file of python object (package, module, function, class ...).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5a2a800269e985bffcb8db00ac9e977a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pywhereis/pywhereis-0.0.2.tar.gz"
+}

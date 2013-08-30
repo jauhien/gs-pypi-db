@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helper modules for making wrapper packages around non-Python code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/seibert/shrinkwrap/", 
+  "info": {
+    "Author:": "Stan Seibert", 
+    "Home Page:": "http://bitbucket.org/seibert/shrinkwrap/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "seibert"
+  }, 
+  "license": "", 
+  "longdescription": "Helper modules for making wrapper packages around non-Python code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d3c5ac48468b5101a8c31ad82fa691f2", 
+  "source_uri": "https://pypi.python.org/packages/source/s/shrinkwrap/shrinkwrap-0.10.tar.gz"
+}

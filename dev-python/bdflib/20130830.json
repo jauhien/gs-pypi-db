@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for working with BDF font files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gitorious.org/projects/bdflib/pages/Home", 
+  "info": {
+    "Author:": "Timothy Allen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://gitorious.org/projects/bdflib/pages/Home", 
+    "Keywords:": "bdf bitmap font", 
+    "Package Index Owner:": "Screwtape"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Library for working with BDF font files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0de53859b2420e51169c349657f2ee97", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bdflib/bdflib-v1.0.0.tar.gz"
+}

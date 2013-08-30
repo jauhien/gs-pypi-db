@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python distutils extension to bundle package as a virtualenv.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mgood/bdist_venv", 
+  "info": {
+    "Author:": "Matt Good", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mgood/bdist_venv", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mgood", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python distutils extension to bundle package as a virtualenv.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0715621a91d6f741cd5857528ca343fd", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bdist_venv/bdist_venv-0.1.2.tar.gz"
+}

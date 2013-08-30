@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Get UPC details from httpwww.upcdatabase.org", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://janexsoftware.com/contributions", 
+  "info": {
+    "Author:": "Matthew Lagace", 
+    "Bug Tracker:": "https://github.com/mlagace/upcdb/issues", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/mlagace/upcdb", 
+    "Home Page:": "http://janexsoftware.com/contributions", 
+    "Keywords:": "upc", 
+    "Maintainer:": "Matthew Lagace", 
+    "Package Index Owner:": "matlag"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Get UPC details from httpwww.upcdatabase.org", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4f9ba58b7c4cc87625dfd89827c270e", 
+  "source_uri": "https://github.com/mlagace/upcdb"
+}

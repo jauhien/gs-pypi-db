@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple note taking aplication for gnome", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://joey101.net/gasket/", 
+  "info": {
+    "Author:": "Joey Marshall", 
+    "Home Page:": "http://joey101.net/gasket/", 
+    "Keywords:": "gnome notes note simple", 
+    "License:": "GPL", 
+    "Package Index Owner:": "joey101", 
+    "Platform:": "x11"
+  }, 
+  "license": "", 
+  "longdescription": "Simple note taking aplication for gnome", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac7bbd58b24919c60d837abf7936bcff", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gasket/gasket-0.1.tar.gz"
+}

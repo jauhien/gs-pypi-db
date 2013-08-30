@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Blowfish password hashing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://doganaydin.org/2012/04/26/python3-port-py-bcrypt/", 
+  "info": {
+    "Author:": "Do\u011fan Ayd\u0131n", 
+    "Bug Tracker:": "https://github.com/doganaydin/py3k-bcrypt/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Home Page:": "http://doganaydin.org/2012/04/26/python3-port-py-bcrypt/", 
+    "Keywords:": "bcrypt,python3 bcrypt", 
+    "License:": "BSD", 
+    "Maintainer:": "Do\u011fan Ayd\u0131n", 
+    "Package Index Owner:": "doganaydin"
+  }, 
+  "license": "", 
+  "longdescription": "Blowfish password hashing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8821f1190bf8f59ced4ed84b2a114ad2", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py3k-bcrypt/py3k-bcrypt-0.3.tar.gz"
+}

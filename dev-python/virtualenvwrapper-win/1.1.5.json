@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Port of Doug Hellmanns virtualenvwrapper to Windows batch scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/davidmarble/virtualenvwrapper-win/", 
+  "info": {
+    "Author:": "David Marble", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/davidmarble/virtualenvwrapper-win/", 
+    "Keywords:": "setuptools deployment installation distutils virtualenv virtualenvwrapper", 
+    "License:": "BSD 3-clause", 
+    "Package Index Owner:": "davidmarble", 
+    "Platform:": "WIN32,WIN64"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Port of Doug Hellmanns virtualenvwrapper to Windows batch scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0494dd281c82f6efc5017645c4bfacf0", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtualenvwrapper-win/virtualenvwrapper-win-1.1.5.zip"
+}

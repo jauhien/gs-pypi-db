@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python implmementation of GNU readline.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ipython.scipy.org/moin/PyReadline/Intro", 
+  "info": {
+    "Author:": "Jorgen Stenarson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyreadline", 
+    "Download URL:": "https://launchpad.net/pyreadline/+download", 
+    "Home Page:": "http://ipython.scipy.org/moin/PyReadline/Intro", 
+    "Keywords:": "readline,pyreadline", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jstenar", 
+    "Platform:": "Windows XP/2000/NT,Windows 95/98/ME"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A python implmementation of GNU readline.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "293d4e8794f867c122d4290ccc84be8d", 
+  "source_uri": "https://launchpad.net/pyreadline/+download"
+}

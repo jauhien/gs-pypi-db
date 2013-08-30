@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone site setup wiard with content creation and bundle system for predefined configurations.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/ftw.inflator", 
+  "info": {
+    "Author:": "4teamwork GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/ftw.inflator", 
+    "Keywords:": "ftw inflator", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "4teamwork, maethu, jone"
+  }, 
+  "license": "", 
+  "longdescription": "Plone site setup wiard with content creation and bundle system for predefined configurations.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77a00c89dea4fff6d12e28af0c055cb9", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftw.inflator/ftw.inflator-1.1.2.zip"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Authoriation framework for WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://what.repoze.org/docs/1.0/", 
+  "info": {
+    "Author:": "Gustavo Narea", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://what.repoze.org/docs/1.0/", 
+    "Keywords:": "authorization web application server wsgi repoze", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Maintainer:": "percious", 
+    "Package Index Owner:": "Gustavo"
+  }, 
+  "license": "", 
+  "longdescription": "Authoriation framework for WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "115c2ab06b336d670fed944a404041bc", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.what/repoze.what-1.0.9.tar.gz"
+}

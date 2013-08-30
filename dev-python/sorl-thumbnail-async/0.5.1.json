@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous thumbnailing app in django with remote storages like S3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/neokya/sorl-thumbnail-async", 
+  "info": {
+    "Author:": "Nar Kumar Chhantyal", 
+    "Home Page:": "https://github.com/neokya/sorl-thumbnail-async", 
+    "Package Index Owner:": "neokya"
+  }, 
+  "license": "", 
+  "longdescription": "Asynchronous thumbnailing app in django with remote storages like S3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "adc9aa126b43bad936f8b391b3e7ddc1", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sorl-thumbnail-async/sorl-thumbnail-async-0.5.1.tar.gz"
+}

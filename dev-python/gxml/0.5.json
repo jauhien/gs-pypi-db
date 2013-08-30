@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Good XML Abstraction. Provides a common interface to popular XML libaries. Currently supports elementree and minidom. Tutorials are available at www.xkenneth.comgxml", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.xkenneth.com/gxml", 
+  "info": {
+    "Author:": "Kenneth Miller", 
+    "Home Page:": "http://www.xkenneth.com/gxml", 
+    "Keywords:": "python xml elementtree lxml minidom xpath ironpython", 
+    "Package Index Owner:": "xkenneth"
+  }, 
+  "license": "", 
+  "longdescription": "A Good XML Abstraction. Provides a common interface to popular XML libaries. Currently supports elementree and minidom. Tutorials are available at www.xkenneth.comgxml", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f18d9aeeefad1638993db847ceeb0be9", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gxml/gxml-0.5.tar.gz"
+}

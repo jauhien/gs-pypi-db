@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plonehrm extension module to add notes to an employee.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/plonehrm.notes", 
+  "info": {
+    "Author:": "Jean-Paul Ladage", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/plonehrm.notes", 
+    "Keywords:": "hrm notes", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jladage, maurits, reinout, markvl, vincentpretre"
+  }, 
+  "license": "", 
+  "longdescription": "A plonehrm extension module to add notes to an employee.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f37a77a208f9c11f97e7d25d17dfc385", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonehrm.notes/plonehrm.notes-1.1.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Check email addresses against the austrian do-not-email list (ECG-Liste)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mjl/email-ecglist", 
+  "info": {
+    "Author:": "Martin J. Laubach", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mjl/email-ecglist", 
+    "Keywords:": "email validation ecglist", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mlaubach"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Check email addresses against the austrian do-not-email list (ECG-Liste)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3daf7654585cc55043b4fe51ca0d5d13", 
+  "source_uri": "https://pypi.python.org/packages/source/e/email-ecglist/email-ecglist-1.2.tar.gz"
+}

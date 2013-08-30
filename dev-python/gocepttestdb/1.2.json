@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates and drops temporary databases for testing purposes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/gocept/gocept.testdb", 
+  "info": {
+    "Author:": "gocept <mail at gocept dot com>", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/gocept/gocept.testdb", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ckauhaus, ctheune, DanielHavlikGocept, sweh, wosc, zagy, icemac, tlotze"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Creates and drops temporary databases for testing purposes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "919efdf481ef5edfe4e629709b56af72", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.testdb/gocept.testdb-1.2.zip"
+}

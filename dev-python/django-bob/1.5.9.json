@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of helper tags and templates for using bootstrap in django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bob.readthedocs.org/", 
+  "info": {
+    "Author:": "Radomir Dopieralski", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "User Interfaces"
+      ]
+    }, 
+    "Home Page:": "http://bob.readthedocs.org/", 
+    "Keywords:": "bootstrap django css html", 
+    "License:": "Apache 2", 
+    "Package Index Owner:": "vi4m, ambv, sheep", 
+    "Platform:": "any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A set of helper tags and templates for using bootstrap in django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6894a8c917213901acb44c350c0a2fc7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-bob/django-bob-1.5.9.tar.gz"
+}

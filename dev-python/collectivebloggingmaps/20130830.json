@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extension for Plone which adds google maps support for collective.blogging package.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.bloggingmaps", 
+  "info": {
+    "Author:": "Lukas Zdych", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.bloggingmaps", 
+    "Keywords:": "plone blogging maps", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "naro", 
+    "Package Index Owner:": "lzdych"
+  }, 
+  "license": "", 
+  "longdescription": "An extension for Plone which adds google maps support for collective.blogging package.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "603a3254e03b8f623eb7305f437e8ad4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.bloggingmaps/collective.bloggingmaps-1.0b1.zip"
+}

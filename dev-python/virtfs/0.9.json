@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package providing access to the Linux virtual filesystems    proc, sysfs, and configfs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ChristopherMacGown/pyvirtfs", 
+  "info": {
+    "Author:": "Christopher MacGown", 
+    "Home Page:": "https://github.com/ChristopherMacGown/pyvirtfs", 
+    "License:": "Apache", 
+    "Package Index Owner:": "0x44", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "A package providing access to the Linux virtual filesystems    proc, sysfs, and configfs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "80f908b85fc0ec97343e837791f70fb4", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtfs/virtfs-0.9.tar.gz"
+}

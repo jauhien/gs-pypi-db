@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python decoder for the WDDX XML serialisation format.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lost.co.nz/", 
+  "info": {
+    "Author:": "Leon Matthews", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Download URL:": "https://github.com/leon-matthews/wddx", 
+    "Home Page:": "http://lost.co.nz/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "leon_matthews"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Python decoder for the WDDX XML serialisation format.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4759a2e3afd68317c806d46e86d60bb4", 
+  "source_uri": "https://github.com/leon-matthews/wddx"
+}

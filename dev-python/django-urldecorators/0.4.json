@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django-urldecorators is a reusable Django application which allows apply view decorators and middleware components depending on requested url.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mila/django-urldecorators/tree/master", 
+  "info": {
+    "Author:": "Miloslav Pojman", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mila/django-urldecorators/tree/master", 
+    "Package Index Owner:": "mila"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django-urldecorators is a reusable Django application which allows apply view decorators and middleware components depending on requested url.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0aeab23437ce1f4e3fc09c9c72349275", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-urldecorators/django-urldecorators-0.4.tar.gz"
+}

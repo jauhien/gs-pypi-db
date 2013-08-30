@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django-based web receiver for Scrup which stores screencaptures on S3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/idangazit/django-scrup", 
+  "info": {
+    "Author:": "Idan Gazit", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/idangazit/django-scrup", 
+    "Package Index Owner:": "idangazit"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A django-based web receiver for Scrup which stores screencaptures on S3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e634fc66faffb44800eab0f45de71e9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-scrup/django-scrup-0.1.tar.gz"
+}

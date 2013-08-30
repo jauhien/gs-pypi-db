@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client for the Danga (Perl) Gearman implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/saymedia/python-danga-gearman/tree/master", 
+  "info": {
+    "Author:": "Samuel Stauffer", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/saymedia/python-danga-gearman/tree/master", 
+    "Package Index Owner:": "Martin.Atkins"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Client for the Danga (Perl) Gearman implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df0b706e32493b998d4d9c9f2057a928", 
+  "source_uri": "https://pypi.python.org/packages/source/d/danga-gearman/danga-gearman-2.0.0.tar.gz"
+}

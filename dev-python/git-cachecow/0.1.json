@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cache git clone and git submodules in a cache directory.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/grahamc/git-cachecow", 
+  "info": {
+    "Author:": "Graham Christensen", 
+    "Home Page:": "https://github.com/grahamc/git-cachecow", 
+    "Package Index Owner:": "grahamsc"
+  }, 
+  "license": "", 
+  "longdescription": "Cache git clone and git submodules in a cache directory.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5db56ad1900ea1cf2f605ae284bcc99d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/git-cachecow/git-cachecow-0.1.tar.gz"
+}

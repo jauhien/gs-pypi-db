@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django storage backend that gives random names to files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/akoha/django-randomfilenamestorage/", 
+  "info": {
+    "Author:": "Akoha Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/akoha/django-randomfilenamestorage/", 
+    "Package Index Owner:": "sfllaw, jdilelle, scjody"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django storage backend that gives random names to files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "28b95e20eeb8b9f13e849b99322c739e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-randomfilenamestorage/django-randomfilenamestorage-1.1.tar.gz"
+}

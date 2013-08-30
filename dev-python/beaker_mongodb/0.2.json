@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Beaker backend to write sessions and caches to a MongoDB schemaless database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/BlueDragonX/mongodb_beaker/", 
+  "info": {
+    "Author:": "Ryan Bourgeois", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/BlueDragonX/mongodb_beaker/", 
+    "Keywords:": "mongo mongodb beaker cache session", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "BlueDragonX"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Beaker backend to write sessions and caches to a MongoDB schemaless database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a6c944b4eda65fab8c1ecee58f7a9c3a", 
+  "source_uri": "https://pypi.python.org/packages/source/b/beaker_mongodb/beaker_mongodb-0.2.tar.gz"
+}

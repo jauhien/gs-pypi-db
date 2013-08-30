@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic OCF resource agents", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://inqbus.de", 
+  "info": {
+    "Author:": "volker.jaenisch@inqbus.de", 
+    "Categories": {
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/inqbus.ocf.generic", 
+    "Home Page:": "http://inqbus.de", 
+    "Keywords:": "pacemaker OCF resource agent HA", 
+    "License:": "GPL", 
+    "Package Index Owner:": "VolkerJaenisch"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "Generic OCF resource agents", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f43e2499b025d9b662de2d9c5e9055a", 
+  "source_uri": "http://pypi.python.org/pypi/inqbus.ocf.generic"
+}

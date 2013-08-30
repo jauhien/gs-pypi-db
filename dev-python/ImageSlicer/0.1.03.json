@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Slice an image into rectangles sutable for tiled printing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ImageSlicer/", 
+  "info": {
+    "Author:": "Jake Zerrer", 
+    "Home Page:": "http://pypi.python.org/pypi/ImageSlicer/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "telekid"
+  }, 
+  "license": "", 
+  "longdescription": "Slice an image into rectangles sutable for tiled printing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "20ba3e1fd022b2111ce088ebd44eb165", 
+  "source_uri": "https://pypi.python.org/packages/source/I/ImageSlicer/ImageSlicer-0.1.03.tar.gz"
+}

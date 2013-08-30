@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple library for building twilio-powered Django webapps.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://twilio.com/", 
+  "info": {
+    "Author:": "Randall Degges", 
+    "Home Page:": "http://twilio.com/", 
+    "Keywords:": "twilio telephony call phone voip sms", 
+    "License:": "UNLICENSE", 
+    "Package Index Owner:": "rdegges"
+  }, 
+  "license": "", 
+  "longdescription": "A simple library for building twilio-powered Django webapps.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0821b97b4a93d42e1d656f30225c1fe", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-twilio/django-twilio-0.4.tar.gz"
+}

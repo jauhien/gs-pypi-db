@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Write-once read-many data sets using Berkeley DB.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/wormtable", 
+  "info": {
+    "Author:": "Jerome Kelleher, Dan Halligan, Rob Ness", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 or later (LGPLv3+)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//wormtable", 
+    "Home Page:": "http://pypi.python.org/pypi/wormtable", 
+    "Keywords:": "Berkeley DB,VCF,Variant Call Format,Bioinformatics", 
+    "License:": "GNU LGPLv3+", 
+    "Package Index Owner:": "jerome.kelleher", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)", 
+  "longdescription": "Write-once read-many data sets using Berkeley DB.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a58cdd9b2a6a4714d5f292f0f4a4d4b", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wormtable/wormtable-0.1.0b4.tar.gz"
+}

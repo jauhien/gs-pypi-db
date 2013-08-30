@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "crossplatform Abastraction Interface to epool, kqueue, select, pool and IOCP(someday)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/caetanus/socketqueue", 
+  "info": {
+    "Author:": "Marcelo Aires Caetano", 
+    "Home Page:": "http://github.com/caetanus/socketqueue", 
+    "Keywords:": "epool kqueue select iocp", 
+    "License:": "BSD", 
+    "Package Index Owner:": "caetanus"
+  }, 
+  "license": "", 
+  "longdescription": "crossplatform Abastraction Interface to epool, kqueue, select, pool and IOCP(someday)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b664c78675a07754d45ff51514d5b862", 
+  "source_uri": "https://pypi.python.org/packages/source/s/socketqueue/socketqueue-0.1.6.tar.gz"
+}

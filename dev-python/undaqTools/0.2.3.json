@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "undaqTools is the unofficial pythonic interface to the National Advanced Driving Simulator (NADS) Data AcQuisition (DAQ) files (i.e. NADS miniSim datafiles).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rogerlew/undaqTools", 
+  "info": {
+    "Author:": "Roger Lew", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//undaqTools", 
+    "Home Page:": "https://github.com/rogerlew/undaqTools", 
+    "Keywords:": "\"NADS miniSim\" \"driving simulator\" \"data reduction\" data visualization\" \"data analysis\"", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rogerlew"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "undaqTools is the unofficial pythonic interface to the National Advanced Driving Simulator (NADS) Data AcQuisition (DAQ) files (i.e. NADS miniSim datafiles).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb5c5cae89f8f6a6671bd91b8b55c0c8", 
+  "source_uri": "https://pypi.python.org/packages/source/u/undaqTools/undaqTools-0.2.3.zip"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Carbon and Graphite replacement using Kairos for timeseries storage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/agoragames/torus", 
+  "info": {
+    "Author:": "Aaron Westendorf", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/agoragames/torus", 
+    "Keywords:": "python,redis,time series,statistics", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "aaron.westendorf"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Carbon and Graphite replacement using Kairos for timeseries storage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf765219b4f0ec7f0878d7ce49de35e2", 
+  "source_uri": "https://pypi.python.org/packages/source/t/torus/torus-0.4.3.tar.gz"
+}

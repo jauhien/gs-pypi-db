@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django openid, oauth authentification.Support next sites- httpgoogle.com- httpyandex.ru- httpvkontakte.ru- httpfacebook.com- httptwitter.comand custom openid and oauth providers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/klen/django-netauth.git", 
+  "info": {
+    "Author:": "Kirill Klenov", 
+    "Documentation:": "http://pythonhosted.org//django-netauth", 
+    "Home Page:": "http://github.com/klen/django-netauth.git", 
+    "Keywords:": "auth django social", 
+    "License:": "GNU LGPL", 
+    "Package Index Owner:": "klen"
+  }, 
+  "license": "", 
+  "longdescription": "Django openid, oauth authentification.Support next sites- httpgoogle.com- httpyandex.ru- httpvkontakte.ru- httpfacebook.com- httptwitter.comand custom openid and oauth providers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7716060c6fb8c7e3b384167e91dcf942", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-netauth/django-netauth-0.1.94.tar.gz"
+}

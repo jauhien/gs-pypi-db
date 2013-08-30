@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line update for No-IP and Dyn DDNS Update API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/povieira/noipy", 
+  "info": {
+    "Author:": "Pablo O Vieira", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Name Service (DNS)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/povieira/noipy", 
+    "Keywords:": "no-ip,dyndns,ddns,api", 
+    "License:": "Eclipse Public License (EPL) - v1.0", 
+    "Package Index Owner:": "povieira", 
+    "Platform:": "Python 2.7 and later"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Command line update for No-IP and Dyn DDNS Update API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87a43299e3c43f02c54b5528b24a3e13", 
+  "source_uri": "https://pypi.python.org/packages/source/n/noipy/noipy-1.1.4.tar.gz"
+}

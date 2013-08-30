@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XML (de-) serialier for simple python structures.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/xmlpolymerase", 
+  "info": {
+    "Author:": "Jens Klein", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/xmlpolymerase", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jensens, rnix"
+  }, 
+  "license": "", 
+  "longdescription": "XML (de-) serialier for simple python structures.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a35b4f4b8679dc1c7400dd6f53ec68d", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xmlpolymerase/xmlpolymerase-1.1.tar.gz"
+}

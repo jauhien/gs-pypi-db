@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for GTK", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pygtk.org/", 
+  "info": {
+    "Author:": "James Henstridge", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ]
+    }, 
+    "Download URL:": "http://ftp.acc.umu.se/pub/gnome/binaries/win32/pygtk/2.24/", 
+    "Home Page:": "http://www.pygtk.org/", 
+    "License:": "GNU LGPL", 
+    "Package Index Maintainer:": "jdahlin", 
+    "Package Index Owner:": "james, jdahlin", 
+    "Platform:": "POSIX, Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for GTK", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1051d5794fd7696d3c1af6422d17a49", 
+  "source_uri": "http://ftp.acc.umu.se/pub/gnome/binaries/win32/pygtk/2.24/"
+}

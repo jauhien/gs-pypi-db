@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Various layouts for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/atreal.layouts", 
+  "info": {
+    "Author:": "atReal", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/atreal.layouts", 
+    "Keywords:": "atreal plone layouts", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "rbeylerian", 
+    "Package Index Owner:": "tiazma, tbenita, f10w"
+  }, 
+  "license": "", 
+  "longdescription": "Various layouts for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cdc277c9f10a32bd33fa404cf51cb2c7", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atreal.layouts/atreal.layouts-0.6.2.zip"
+}

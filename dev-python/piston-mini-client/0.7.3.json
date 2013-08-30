@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package to consume Django-Piston web services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/piston-mini-client", 
+  "info": {
+    "Author:": "Anthony Lenton", 
+    "Documentation:": "http://pythonhosted.org//piston-mini-client", 
+    "Home Page:": "https://launchpad.net/piston-mini-client", 
+    "License:": "LGPLv3", 
+    "Package Index Owner:": "elachuni"
+  }, 
+  "license": "", 
+  "longdescription": "A package to consume Django-Piston web services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d870c90fc7abab30ac61f6ff314b373", 
+  "source_uri": "https://pypi.python.org/packages/source/p/piston-mini-client/piston-mini-client-0.7.3.tar.gz"
+}

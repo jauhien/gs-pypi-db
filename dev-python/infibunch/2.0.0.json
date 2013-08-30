@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A dot-accessible dictionary (a la JavaScript objects)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Infinidat/infi.bunch", 
+  "info": {
+    "Author:": "Rotem Yaari", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/Infinidat/infi.bunch", 
+    "Keywords:": "bunch,dict,mapping,container,collection", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vmalloc"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A dot-accessible dictionary (a la JavaScript objects)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1dfc0ea092ad5aa5641d7413169a1e65", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infi.bunch/infi.bunch-2.0.0.tar.gz"
+}

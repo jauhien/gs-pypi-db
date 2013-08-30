@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple XML-RPC-based lock daemon to support fencing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Christian Theune", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ctheune"
+  }, 
+  "license": "", 
+  "longdescription": "A simple XML-RPC-based lock daemon to support fencing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd0cd2c54952d01916ce65275a7eaefb", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.lockd/gocept.lockd-0.1.tar.gz"
+}

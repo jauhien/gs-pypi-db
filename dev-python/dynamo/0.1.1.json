@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple DynamoDB Interface.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kennethreitz/dynamo", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Home Page:": "https://github.com/kennethreitz/dynamo", 
+    "Package Index Owner:": "kennethreitz"
+  }, 
+  "license": "", 
+  "longdescription": "Simple DynamoDB Interface.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d70079f4ca706d434928eff173238227", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dynamo/dynamo-0.1.1.tar.gz"
+}

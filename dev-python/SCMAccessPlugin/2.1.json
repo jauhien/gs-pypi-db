@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trac plugin for SCM access control", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.02strich.de", 
+  "info": {
+    "Author:": "Stefan Richter", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://www.02strich.de", 
+    "Package Index Owner:": "02strich"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Trac plugin for SCM access control", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "30ceb702978d739f471be0cfb0ea3de4", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SCMAccessPlugin/SCMAccessPlugin-2.1.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django Middleware for HTTP Method Override Form Params  Header", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/localmed/django-method-override", 
+  "info": {
+    "Author:": "LocalMed", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/localmed/django-method-override", 
+    "License:": "MIT", 
+    "Package Index Owner:": "localmed"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django Middleware for HTTP Method Override Form Params  Header", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "629f6332501f81d92a5d3b29f907cf04", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-method-override/django-method-override-0.1.0.tar.gz"
+}

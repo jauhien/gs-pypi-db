@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app for sending ios push notifications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/n8j/django-push-notify", 
+  "info": {
+    "Author:": "Nathan Jhaveri", 
+    "Home Page:": "https://github.com/n8j/django-push-notify", 
+    "License:": "MIT", 
+    "Package Index Owner:": "n8j"
+  }, 
+  "license": "", 
+  "longdescription": "Django app for sending ios push notifications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "819488e05f2b7b72798d287e74127bbb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-push-notify/django-push-notify-0.1.0.tar.gz"
+}

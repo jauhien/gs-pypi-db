@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Flexible permission system for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/l0kix2/django-granular-access", 
+  "info": {
+    "Author:": "Kirill Sibirev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/l0kix2/django-granular-access", 
+    "Keywords:": "django,permissions", 
+    "License:": "MIT", 
+    "Package Index Owner:": "l0ki"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Flexible permission system for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d6d2f60422ce553beb277dee29dcc93", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-granular-access/django-granular-access-0.1.1.tar.gz"
+}

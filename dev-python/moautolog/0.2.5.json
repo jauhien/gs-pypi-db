@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for posting results to Autolog via HTTP POST", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.mozilla.org/automation/mozautolog", 
+  "info": {
+    "Author:": "Jonathan Griffin", 
+    "Home Page:": "http://hg.mozilla.org/automation/mozautolog", 
+    "License:": "MPL", 
+    "Package Index Owner:": "jgriffin"
+  }, 
+  "license": "", 
+  "longdescription": "Library for posting results to Autolog via HTTP POST", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2435fe7b043253ccf622cb3bbf56b8b5", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozautolog/mozautolog-0.2.5.tar.gz"
+}

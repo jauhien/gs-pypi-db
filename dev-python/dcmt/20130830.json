@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dynamical creation of Mersenne twisters", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Manticore/python-dcmt", 
+  "info": {
+    "Author:": "Bogdan Opanchuk", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//dcmt", 
+    "Home Page:": "http://github.com/Manticore/python-dcmt", 
+    "Package Index Owner:": "Manticore"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Dynamical creation of Mersenne twisters", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a362de5d87bcc369d854c43616e6d589", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dcmt/dcmt-0.6.1-4.tar.gz"
+}

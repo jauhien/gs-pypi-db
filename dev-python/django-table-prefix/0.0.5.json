@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "experimental application for making table prefixes fortables that django creates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Egor V. Nazarkin, Vitaliy Kucheraviy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "nimnull"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "experimental application for making table prefixes fortables that django creates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd0a5d71a3750de10ac15d65732f1258", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-table-prefix/django-table-prefix-0.0.5.tar.gz"
+}

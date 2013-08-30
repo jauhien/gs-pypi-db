@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python library that exports a class for RPC via mq, using BSON for data interchange.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/geoffwatts/zmqrpc", 
+  "info": {
+    "Author:": "Geoff Watts", 
+    "Home Page:": "https://github.com/geoffwatts/zmqrpc", 
+    "Package Index Owner:": "mollerstrand"
+  }, 
+  "license": "", 
+  "longdescription": "A Python library that exports a class for RPC via mq, using BSON for data interchange.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47c2fc1c7ec2a5f6dbd500e5016cb38c", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zmqrpc/zmqrpc-0.1f.tar.gz"
+}

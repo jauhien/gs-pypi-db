@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Turn a csv into a dictionary with a predefined schema.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.csv2dict", 
+  "info": {
+    "Author:": "Maurits van Rees", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.csv2dict", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maurits, fredvd"
+  }, 
+  "license": "", 
+  "longdescription": "Turn a csv into a dictionary with a predefined schema.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed36ce5e6353ea2e7fa16d123e477d8b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.csv2dict/collective.csv2dict-1.0.zip"
+}

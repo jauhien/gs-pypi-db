@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The repoe.what Redis plugin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/ares/repozewhatpluginsredis/", 
+  "info": {
+    "Author:": "Jonas Melian", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Security"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/ares/repozewhatpluginsredis/", 
+    "Keywords:": "web application server wsgi authorization redis repoze", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "kless", 
+    "Platform:": "any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "The repoe.what Redis plugin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5e81601ac9652d4bce2d3deb97ba6bb", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.what.plugins.redis/repoze.what.plugins.redis-1.0rc1.tar.gz"
+}

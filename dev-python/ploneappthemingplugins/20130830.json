@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugins providing advanced plone.app.theming integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.theming.plugins", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.theming.plugins", 
+    "Keywords:": "plone.app.theming diazo jbot views", 
+    "License:": "GPL", 
+    "Package Index Owner:": "optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Plugins providing advanced plone.app.theming integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cfeca05053b49aa68c36055474cd81c7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.themingplugins/plone.app.themingplugins-1.0b1.zip"
+}

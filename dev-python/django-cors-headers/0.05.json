@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/OttoYiu/django-cors-headers", 
+  "info": {
+    "Author:": "Otto Yiu", 
+    "Home Page:": "https://github.com/OttoYiu/django-cors-headers", 
+    "Package Index Owner:": "ottoyiu"
+  }, 
+  "license": "", 
+  "longdescription": "Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb5c6841a8d5dd1084c57e6403fa213c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cors-headers/django-cors-headers-0.05.tar.gz"
+}

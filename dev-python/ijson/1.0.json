@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Iterative JSON parser with a standard Python iterator interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/isagalaev/ijson", 
+  "info": {
+    "Author:": "Ivan Sagalaev", 
+    "Home Page:": "https://github.com/isagalaev/ijson", 
+    "Package Index Owner:": "isagalaev"
+  }, 
+  "license": "", 
+  "longdescription": "Iterative JSON parser with a standard Python iterator interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2cfa7b2418aac4291035a2dc1dd00fe", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ijson/ijson-1.0.tar.gz"
+}

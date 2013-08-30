@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ndg-security.ceda.ac.uk/wiki/ndg_httpsclient/", 
+  "info": {
+    "Author:": "Richard Wilkinson and Philip Kershaw", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ndg-httpsclient", 
+    "Home Page:": "http://ndg-security.ceda.ac.uk/wiki/ndg_httpsclient/", 
+    "License:": "BSD - See LICENCE file for details", 
+    "Package Index Owner:": "philipkershaw"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "076303c7aa0e41f3b45a7cb43dbb0743", 
+  "source_uri": "https://pypi.python.org/packages/source/n/ndg-httpsclient/ndg_httpsclient-0.3.2.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Static code checker for CMake files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/richq/cmake-lint", 
+  "info": {
+    "Author:": "Richard Quirk", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "https://github.com/richq/cmake-lint", 
+    "Home Page:": "https://github.com/richq/cmake-lint", 
+    "Keywords:": "cmake,lint", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "ThibaultKruse"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Static code checker for CMake files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4c28393b81dca318f4c5ca326c55820", 
+  "source_uri": "https://github.com/richq/cmake-lint"
+}

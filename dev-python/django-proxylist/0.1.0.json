@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Proxy-list management application for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Roberto Abdelkader Mart\u00ednez P\u00e9rez", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Proxy Servers"
+      ]
+    }, 
+    "Keywords:": "django proxylist", 
+    "License:": "GPL", 
+    "Package Index Owner:": "nilp0inter"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Proxy-list management application for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ba7029b87a89d507f7b74e0af80b6ed", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-proxylist/django-proxylist-0.1.0.tar.gz"
+}

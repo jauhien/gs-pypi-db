@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small tool created for management of hetner dns service from commandline", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/devop/hrdns", 
+  "info": {
+    "Author:": "Jarek S.", 
+    "Home Page:": "http://github.com/devop/hrdns", 
+    "Keywords:": "hetzner dns management commandline pycli", 
+    "License:": "X11", 
+    "Package Index Owner:": "devop"
+  }, 
+  "license": "", 
+  "longdescription": "Small tool created for management of hetner dns service from commandline", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15106d65290d776754591b83bfd3a499", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hrdns/hrdns-dev.tar.gz"
+}

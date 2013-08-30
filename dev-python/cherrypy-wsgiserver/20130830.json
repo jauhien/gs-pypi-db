@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wsgiserver configured for cherrypy and django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/od-eon/cherrypy-wsgiserver", 
+  "info": {
+    "Author:": "Calvin Cheng", 
+    "Home Page:": "https://github.com/od-eon/cherrypy-wsgiserver", 
+    "License:": "LICENSE", 
+    "Package Index Owner:": "calvinx"
+  }, 
+  "license": "", 
+  "longdescription": "Wsgiserver configured for cherrypy and django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "27833fe08733941269d22fee07c36f5f", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cherrypy-wsgiserver/cherrypy-wsgiserver-0.1dev.tar.gz"
+}

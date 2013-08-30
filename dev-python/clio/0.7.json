@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A publicationhistory system for SQLAlchemy.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martijn Faassen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//clio", 
+    "Keywords:": "history workflow sqlalchemy", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "faassen"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A publicationhistory system for SQLAlchemy.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6301c3c155c6b3afffa5fb6b0b9ebe5d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/clio/clio-0.7.tar.gz"
+}

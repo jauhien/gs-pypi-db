@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The oaipmh module is a Python implementation of an Open ArchivesInitiative Protocol for Metadata Harvesting (version 2) client and server.The protocol is described herehttpwww.openarchives.orgOAIopenarchivesprotocol.html", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.infrae.com/download/oaipmh", 
+  "info": {
+    "Author:": "Infrae", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.infrae.com/download/oaipmh", 
+    "Keywords:": "OAI-PMH xml archive", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "nouri", 
+    "Package Index Owner:": "faassen, gbuijs, jsproc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "The oaipmh module is a Python implementation of an Open ArchivesInitiative Protocol for Metadata Harvesting (version 2) client and server.The protocol is described herehttpwww.openarchives.orgOAIopenarchivesprotocol.html", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d3639011cb4d08547ce96d58669f4448", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyoai/pyoai-2.4.4.tar.gz"
+}

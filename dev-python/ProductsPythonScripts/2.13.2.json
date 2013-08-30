@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides support for restricted execution of Python scripts in ope 2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.PythonScripts", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Home Page:": "http://pypi.python.org/pypi/Products.PythonScripts", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "hannosch"
+  }, 
+  "license": "", 
+  "longdescription": "Provides support for restricted execution of Python scripts in ope 2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04c86f2c45a29a162297a80dac61d14f", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PythonScripts/Products.PythonScripts-2.13.2.zip"
+}

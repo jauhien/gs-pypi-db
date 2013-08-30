@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IPy.IP instances with BigInt storage for django models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/onelson/django-ipyfield/", 
+  "info": {
+    "Author:": "Owen Nelson", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/onelson/django-ipyfield/", 
+    "Keywords:": "ip,models,django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "onelson"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "IPy.IP instances with BigInt storage for django models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae74ed19c394cac8b95f748e6154f2e8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ipyfield/django-ipyfield-0.1.6.tar.gz"
+}

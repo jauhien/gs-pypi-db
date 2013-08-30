@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LDAP plugin for repoe.who", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.gustavonarea.net/repoze.who.plugins.ldap/", 
+  "info": {
+    "Author:": "Gustavo Narea", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory", 
+        "LDAP"
+      ]
+    }, 
+    "Download URL:": "https://launchpad.net/repoze.who.plugins.ldap/+download", 
+    "Home Page:": "http://code.gustavonarea.net/repoze.who.plugins.ldap/", 
+    "Keywords:": "ldap web application server wsgi repoze repoze.who", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "Gustavo"
+  }, 
+  "license": "", 
+  "longdescription": "LDAP plugin for repoe.who", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://launchpad.net/repoze.who.plugins.ldap/+download"
+}

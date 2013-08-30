@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redqueue integration for flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/muromec/flask-redtask", 
+  "info": {
+    "Author:": "Ilya Petrov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/muromec/flask-redtask", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ilya.Petrov", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Redqueue integration for flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "43947b0933c394d2d7ec7c9dbe1ad5de", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Redtask/Flask-Redtask-0.3.1.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "User login signal framework, also includes pbkdf2, tokengeneration and SQLAlchemy user mixins.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mbr/", 
+  "info": {
+    "Author:": "Marc Brinkmann", 
+    "Home Page:": "http://github.com/mbr/", 
+    "Keywords:": "user,users,login,pbkdf2,sqlalchemy,tokens", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mbr"
+  }, 
+  "license": "", 
+  "longdescription": "User login signal framework, also includes pbkdf2, tokengeneration and SQLAlchemy user mixins.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1bb29f8b2f4b013c1e7910136fde402e", 
+  "source_uri": "https://pypi.python.org/packages/source/a/alcohol/alcohol-0.2.1.tar.gz"
+}

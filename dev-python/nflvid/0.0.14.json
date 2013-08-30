@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple library to download, slice and search NFL game footage on a play-by-play basis.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/BurntSushi/nflvid", 
+  "info": {
+    "Author:": "Andrew Gallant", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/BurntSushi/nflvid", 
+    "License:": "WTFPL", 
+    "Package Index Owner:": "burntsushi", 
+    "Platform:": "ANY"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A simple library to download, slice and search NFL game footage on a play-by-play basis.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a2ad890c845ccc4158e6701babfab88", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nflvid/nflvid-0.0.14.tar.gz"
+}

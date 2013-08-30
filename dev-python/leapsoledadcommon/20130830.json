@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Synchroniation of locally encrypted data among devices.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://leap.se/", 
+  "info": {
+    "Author:": "The LEAP Encryption Access Project", 
+    "Home Page:": "https://leap.se/", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "drebs, kali"
+  }, 
+  "license": "", 
+  "longdescription": "Synchroniation of locally encrypted data among devices.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "acad0b29e2cd36af9b9c98295957888c", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leap.soledad.common/leap.soledad.common-0.3.1-2-g21f58cc.tar.gz"
+}

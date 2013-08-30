@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A configurable Plone product for sending e-mails when new messages are added to Ploneboard forums", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/ploneboardnotify", 
+  "info": {
+    "Author:": "keul", 
+    "Bug Tracker:": "https://github.com/keul/Products.PloneboardNotify/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/ploneboardnotify", 
+    "Keywords:": "ploneboard forum notify email", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul"
+  }, 
+  "license": "", 
+  "longdescription": "A configurable Plone product for sending e-mails when new messages are added to Ploneboard forums", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "48692d3c319050e55f9566ec6fa68b7c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneboardNotify/Products.PloneboardNotify-0.5.0.zip"
+}

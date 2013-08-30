@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A nmap xml parser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gpolo.ath.cx:81/projects/nmapxml", 
+  "info": {
+    "Author:": "Guilherme Polo", 
+    "Home Page:": "http://gpolo.ath.cx:81/projects/nmapxml", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gpolo"
+  }, 
+  "license": "", 
+  "longdescription": "A nmap xml parser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ccbddb363f81705e8862c6cb95ba6bfc", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nmapparser/nmapparser-0.2.5.tar.gz"
+}

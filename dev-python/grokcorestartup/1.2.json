@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Paster support for Grok projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://grok.zope.org", 
+  "info": {
+    "Author:": "Grok Team", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/grokcore.startup", 
+    "Home Page:": "http://grok.zope.org", 
+    "Keywords:": "zope zope3 grok grokproject WSGI Paste paster", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "d2m, ulif, jw, cklinger"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Paster support for Grok projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e59d14dc5473ad88cdb4779d6549261", 
+  "source_uri": "http://pypi.python.org/pypi/grokcore.startup"
+}

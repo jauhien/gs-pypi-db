@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An SMTP server that makes all received mails via a web interface and REST API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ThiefMaster/maildump", 
+  "info": {
+    "Author:": "Adrian M\u00f6nnich", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://github.com/ThiefMaster/maildump", 
+    "Home Page:": "https://github.com/ThiefMaster/maildump", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ThiefMaster"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An SMTP server that makes all received mails via a web interface and REST API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e06d9e32e391991efa7a0dbf99ffb7dc", 
+  "source_uri": "https://github.com/ThiefMaster/maildump"
+}

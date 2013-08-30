@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Templatetags that let you modify text and images directly in the django admin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/surfeurx/django-contentadmin", 
+  "info": {
+    "Author:": "Amine chouki", 
+    "Home Page:": "https://bitbucket.org/surfeurx/django-contentadmin", 
+    "Package Index Owner:": "surfeurX"
+  }, 
+  "license": "", 
+  "longdescription": "Templatetags that let you modify text and images directly in the django admin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15ea12a79d4e83b9f3f8b6b9aff6769b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-contentadmin/django-contentadmin-0.2.0.tar.gz"
+}

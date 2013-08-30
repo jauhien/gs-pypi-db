@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Find duplicates  copy and restructure file layout command-line tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/DedupeCopy/", 
+  "info": {
+    "Author:": "Erik Schweller", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://www.bitbucket.org/othererik/dedupe_copy", 
+    "Home Page:": "http://pypi.python.org/pypi/DedupeCopy/", 
+    "Keywords:": "de-duplication,file management", 
+    "License:": "Simplified BSD License", 
+    "Package Index Owner:": "othererik", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Find duplicates  copy and restructure file layout command-line tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ab0972595dae5d15674f30132dc50e79", 
+  "source_uri": "http://www.bitbucket.org/othererik/dedupe_copy"
+}

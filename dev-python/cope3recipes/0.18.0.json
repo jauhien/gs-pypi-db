@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for defining ope 3 applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zc.zope3recipes", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zc.zope3recipes", 
+    "Keywords:": "zope3 buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "baijum", 
+    "Package Index Owner:": "J1m, fdrake, philikon, srichter, faassen, ignas, ctheune, baijum, chrism, benji, projekt01, mgedmin, pcardune, ccomb, alga, chrisw, nadako, hathawsh, tseaver, hannosch, icemac, gary, zagy, roymath, zvezdan, tlotze, agroszer, achapman, menesis, sshyub, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "C Buildout recipe for defining ope 3 applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4f5a82781ebb790cf4a1ff5846c67ca9", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.zope3recipes/zc.zope3recipes-0.18.0.tar.gz"
+}

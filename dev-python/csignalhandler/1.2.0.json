@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Configurable signal handling for Config", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zope Corporation", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "fdrake"
+  }, 
+  "license": "", 
+  "longdescription": "Configurable signal handling for Config", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8848baf8d234288624ed9d8bd53e69de", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.signalhandler/zc.signalhandler-1.2.0.tar.gz"
+}

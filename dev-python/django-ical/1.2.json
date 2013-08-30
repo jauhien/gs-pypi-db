@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "iCal feeds for Django based on Djangos syndication feed framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/IanLewis/django-ical", 
+  "info": {
+    "Author:": "Ian Lewis", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/IanLewis/django-ical", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "IanMLewis"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "iCal feeds for Django based on Djangos syndication feed framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fa17492a2ff6ff69560e9b5fa1697fe3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ical/django-ical-1.2.tar.gz"
+}

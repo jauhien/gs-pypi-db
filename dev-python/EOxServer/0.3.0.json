@@ -1,0 +1,67 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "EOxServer is a server for Earth Observation (EO) data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://eoxserver.org/", 
+  "info": {
+    "Author:": "EOX IT Services GmbH", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Visualization"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//EOxServer", 
+    "Home Page:": "http://eoxserver.org/", 
+    "Keywords:": "Earth Observation,EO,OGC,WCS,WMS", 
+    "License:": "EOxServer Open License (MIT-style)", 
+    "Package Index Maintainer:": "fschindler", 
+    "Package Index Owner:": "meissls"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "EOxServer is a server for Earth Observation (EO) data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49b313fac37d15b740e2a5f03d2280c0", 
+  "source_uri": "https://pypi.python.org/packages/source/E/EOxServer/EOxServer-0.3.0.tar.gz"
+}

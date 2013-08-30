@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Checks that all grokked view-like components require a permission.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.thehealthagency.com", 
+  "info": {
+    "Author:": "The Health Agency", 
+    "Home Page:": "http://www.thehealthagency.com", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "jw, janjaapdriessen"
+  }, 
+  "license": "", 
+  "longdescription": "Checks that all grokked view-like components require a permission.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "489581701c4b1375144f222152a34e7c", 
+  "source_uri": "https://pypi.python.org/packages/source/m/megrok.strictrequire/megrok.strictrequire-0.5.tar.gz"
+}

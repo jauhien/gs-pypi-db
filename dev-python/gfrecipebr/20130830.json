@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe to download baaar branches", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/gf.recipe.bzr", 
+  "info": {
+    "Author:": "Balazs Ree", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/gf.recipe.bzr", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ree, sidnei"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout recipe to download baaar branches", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "90434b679585d568f7dd78d51c512a6c", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gf.recipe.bzr/gf.recipe.bzr-1.0rc8.tar.gz"
+}

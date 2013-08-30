@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parser for CMakeLists.txt files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ijt/cmakelists_parsing", 
+  "info": {
+    "Author:": "Issac Trotts", 
+    "Home Page:": "http://github.com/ijt/cmakelists_parsing", 
+    "Package Index Owner:": "ijt"
+  }, 
+  "license": "", 
+  "longdescription": "Parser for CMakeLists.txt files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e44e94d3ade472dc124f9fc344b33946", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmakelists_parsing/cmakelists_parsing-0.3.tar.gz"
+}

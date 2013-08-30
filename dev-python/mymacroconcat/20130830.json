@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Concatenate an option on a target part from several other parts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Serge Renfer", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "buildout macro", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "serge"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Concatenate an option on a target part from several other parts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62c567cb2b367c9ed83c08f138cb0cb9", 
+  "source_uri": "https://pypi.python.org/packages/source/m/my.macro.concat/my.macro.concat-0.6.4dev.tar.gz"
+}

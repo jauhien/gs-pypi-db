@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Autogenerate Colander schemas based on SQLAlchemy models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/stefanofontanelli/ColanderAlchemy", 
+  "info": {
+    "Author:": "Stefano Fontanelli", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/stefanofontanelli/ColanderAlchemy", 
+    "Keywords:": "serialize deserialize validate schema validation colander sqlalchemy", 
+    "License:": "MIT", 
+    "Package Index Owner:": "stefanofontanelli"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Autogenerate Colander schemas based on SQLAlchemy models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b054837bd2753cbf15f7d5028cba421b", 
+  "source_uri": "https://pypi.python.org/packages/source/C/ColanderAlchemy/ColanderAlchemy-0.2.0.tar.gz"
+}

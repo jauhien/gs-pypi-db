@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client library for communicating with the Luminoso REST API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/LuminosoInsight/luminoso-api-client-python", 
+  "info": {
+    "Author:": "Luminoso Technologies, Inc.", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Home Page:": "http://github.com/LuminosoInsight/luminoso-api-client-python", 
+    "Package Index Owner:": "jbalonso, rspeer", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Python client library for communicating with the Luminoso REST API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "53b9b0c177f2d18dbdf5760b54742f2e", 
+  "source_uri": "https://pypi.python.org/packages/source/l/luminoso-api/luminoso-api-0.4.2.tar.gz"
+}

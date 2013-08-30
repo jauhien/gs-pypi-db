@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Web Services API for Plone (3.x).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/wsapi4plone.core/", 
+  "info": {
+    "Author:": "WebLion Group, Penn State University", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//wsapi4plone.core", 
+    "Home Page:": "http://packages.python.org/wsapi4plone.core/", 
+    "Keywords:": "wsapi api xmlrpc weblion", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pumazi"
+  }, 
+  "license": "", 
+  "longdescription": "A Web Services API for Plone (3.x).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "13ec2ff991247c5a9d3b1dc2114fe746", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsapi4plone.core/wsapi4plone.core-0.2.tar.gz"
+}

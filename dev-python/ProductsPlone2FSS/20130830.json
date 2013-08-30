@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Export File and Image fields from Plone content type to a FSS valid format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/products.plone2fss", 
+  "info": {
+    "Author:": "Keul (Luca Fabbri)", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/products.plone2fss", 
+    "Keywords:": "iw fss plone file image migration", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "massimo", 
+    "Package Index Owner:": "keul"
+  }, 
+  "license": "", 
+  "longdescription": "Export File and Image fields from Plone content type to a FSS valid format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5d338d8f52b4f253cf84ce2ebd8c0140", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.Plone2FSS/Products.Plone2FSS-0.4.0beta.tar.gz"
+}

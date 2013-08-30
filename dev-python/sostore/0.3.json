@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLite Object Store - An absurdly simple object database for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ArmstrongJ/sostore", 
+  "info": {
+    "Author:": "Jeffrey Armstrong", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ArmstrongJ/sostore", 
+    "License:": "GPL3", 
+    "Package Index Owner:": "ArmstrongJ"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "SQLite Object Store - An absurdly simple object database for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fcd149b7920d8d3f5fa1899758236fb9", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sostore/sostore-0.3.zip"
+}

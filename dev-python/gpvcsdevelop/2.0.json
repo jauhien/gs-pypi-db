@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C buildout extension to checkout eggs from various vcs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gawel.org/docs/gp.vcsdevelop/index.html", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://www.gawel.org/docs/gp.vcsdevelop/index.html", 
+    "Keywords:": "buildout extension vcs develop", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "bkocherov", 
+    "Package Index Owner:": "gawel, bkocherov"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "C buildout extension to checkout eggs from various vcs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5b13ced9e7ec529ea917ce8c3d2affb", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gp.vcsdevelop/gp.vcsdevelop-2.0.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-wsgiserver installs a web server for Django using CherryPys WSGI server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/cleemesser/django-wsgiserver/downloads", 
+  "info": {
+    "Author:": "Chris Lee-Messer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Server"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/cleemesser/django-wsgiserver/downloads", 
+    "Home Page:": "http://bitbucket.org/cleemesser/django-wsgiserver/downloads", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Christopher.LeeMesser"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-wsgiserver installs a web server for Django using CherryPys WSGI server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9eabe9a8adb53df8837957044c671294", 
+  "source_uri": "http://bitbucket.org/cleemesser/django-wsgiserver/downloads"
+}

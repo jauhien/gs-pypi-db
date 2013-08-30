@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Loggly Library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mbabineau/loggly-python", 
+  "info": {
+    "Author:": "Mike Babineau", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mbabineau/loggly-python", 
+    "License:": "Apache v2.0", 
+    "Package Index Owner:": "mbabineau", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Loggly Library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5265b48517729fbaa38290ff3174d4c0", 
+  "source_uri": "https://pypi.python.org/packages/source/l/loggly/loggly-0.1.5.tar.gz"
+}

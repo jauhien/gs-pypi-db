@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "API library for GAuthify.com (Google Authenticator, SMS, email multi factor authentication).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.gauthify.com", 
+  "info": {
+    "Author:": "GAuthify", 
+    "Home Page:": "https://www.gauthify.com", 
+    "License:": "MIT", 
+    "Package Index Owner:": "pnegahdar"
+  }, 
+  "license": "", 
+  "longdescription": "API library for GAuthify.com (Google Authenticator, SMS, email multi factor authentication).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01ca0fc228b7d6f96dec24e85250de5f", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gauthify/gauthify-1.271.tar.gz"
+}

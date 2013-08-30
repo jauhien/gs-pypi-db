@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure-python reader for DAWGs created by dawgdic C++ library or DAWG Python extension.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kmike/DAWG-Python/", 
+  "info": {
+    "Author:": "Mikhail Korobov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kmike/DAWG-Python/", 
+    "Package Index Owner:": "kmike"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Pure-python reader for DAWGs created by dawgdic C++ library or DAWG Python extension.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ffc3afaa1c0f7c8436eea7eef5dfcb43", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DAWG-Python/DAWG-Python-0.6.tar.gz"
+}

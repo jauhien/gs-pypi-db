@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis-backed config for Flask applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/marksteve/flask-redisconfig", 
+  "info": {
+    "Author:": "Mark Steve Samson", 
+    "Home Page:": "https://github.com/marksteve/flask-redisconfig", 
+    "License:": "MIT", 
+    "Package Index Owner:": "marksteve", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Redis-backed config for Flask applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e21249357ff44894f6270b15ac762237", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-RedisConfig/Flask-RedisConfig-0.2.0.tar.gz"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ope 2 PAS Plugin providing groups from LDAP directory", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/PASPlugins/Products.PASGroupsFromLDAP/", 
+  "info": {
+    "Author:": "Jens Klein, Robert Niederreiter", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/PASPlugins/Products.PASGroupsFromLDAP/", 
+    "Keywords:": "zope2", 
+    "Package Index Owner:": "rnix, jensens, laurencerowe"
+  }, 
+  "license": "", 
+  "longdescription": "ope 2 PAS Plugin providing groups from LDAP directory", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "78a6ca5f0d1d0fd07d43750a6d884de3", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PASGroupsFromLDAP/Products.PASGroupsFromLDAP-1.2.3.tar.gz"
+}

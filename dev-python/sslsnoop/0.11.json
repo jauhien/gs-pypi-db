@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dumps the live traffic of an ssl-encrypted stream.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/sslsnoop/", 
+  "info": {
+    "Author:": "Loic Jaquemet", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Download URL:": "http://github.com/trolldbois/sslsnoop/tree/master", 
+    "Home Page:": "http://packages.python.org/sslsnoop/", 
+    "Keywords:": "memory,analysis,forensics,struct,ptrace,openssh,openssl,decrypt", 
+    "License:": "GPL", 
+    "Package Index Owner:": "trolldbois"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Dumps the live traffic of an ssl-encrypted stream.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b87f2ea641c797dc51c377aacf1e8502", 
+  "source_uri": "http://github.com/trolldbois/sslsnoop/tree/master"
+}

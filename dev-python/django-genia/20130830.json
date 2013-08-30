@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pluggable Django app for managing generations of data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tmitchell/django-genia", 
+  "info": {
+    "Author:": "Taylor Mitchell", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tmitchell/django-genia", 
+    "Keywords:": "django data generations", 
+    "License:": "BSD", 
+    "Package Index Owner:": "tmitchell"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A pluggable Django app for managing generations of data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2158975dad0eda9b223cf82b41b08196", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-genia/django-genia-0.1.dev1.tar.gz"
+}

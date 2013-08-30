@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Object mapper for Amaon DynamoDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dynamodb-mapper.readthedocs.org/en/latest/", 
+  "info": {
+    "Author:": "Jean-Tiare Le Bigot", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Home Page:": "http://dynamodb-mapper.readthedocs.org/en/latest/", 
+    "Package Index Owner:": "maxnoel"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Object mapper for Amaon DynamoDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c359855095147d4c23da1ef84ffeee46", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dynamodb-mapper/dynamodb-mapper-1.8.1.tar.gz"
+}

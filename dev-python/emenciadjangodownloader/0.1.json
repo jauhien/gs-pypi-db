@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Downloader app like dl.free.fr in django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.emencia.fr", 
+  "info": {
+    "Author:": "Philippe Lafaye", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.emencia.fr", 
+    "License:": "GNU Affero General Public License v3", 
+    "Package Index Owner:": "rage2000"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Downloader app like dl.free.fr in django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc641618a7fef386f0516d96d30cb74b", 
+  "source_uri": "https://pypi.python.org/packages/source/e/emencia.django.downloader/emencia.django.downloader-0.1.tar.gz"
+}

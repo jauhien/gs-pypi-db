@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "python libsodium wrapper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/stef/pysodium", 
+  "info": {
+    "Author:": "Stefan Marsiske", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "https://github.com/stef/pysodium", 
+    "Keywords:": "cryptography API NaCl libsodium", 
+    "License:": "BSD", 
+    "Package Index Owner:": "stef"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "python libsodium wrapper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61cb98a7c640905f4e05bf30d5dd9cbf", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysodium/pysodium-0.5.7.tar.gz"
+}

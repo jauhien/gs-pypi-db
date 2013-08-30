@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bundle installing the dependencies for Celery and CouchDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://celeryproject.org", 
+  "info": {
+    "Author:": "Celery Project", 
+    "Categories": {
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://celeryproject.org", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "smorin, mher", 
+    "Package Index Owner:": "ask", 
+    "Platform:": "all"
+  }, 
+  "license": "", 
+  "longdescription": "Bundle installing the dependencies for Celery and CouchDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff48af14f3b3829373dde21c6be8e1dd", 
+  "source_uri": "https://pypi.python.org/packages/source/c/celery-with-couchdb/celery-with-couchdb-3.0.tar.gz"
+}

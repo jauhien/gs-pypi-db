@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "eXtensible Fixed-Width file handling module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://git.erp5.org/gitweb/xfw.git", 
+  "info": {
+    "Author:": "Nexedi", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "http://git.erp5.org/gitweb/xfw.git", 
+    "Keywords:": "fixed width field file", 
+    "License:": "GPL 2+", 
+    "Package Index Owner:": "vpelletier, LukaszNowak, Sebastien_Robin, cedric.dsm, AurelienCalonne, jm, romain", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "eXtensible Fixed-Width file handling module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "066e8340463e40b81660024de94fe50d", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xfw/xfw-0.9.tar.gz"
+}

@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Treat Twisted applications as Python test fixtures", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/txfixtures", 
+  "info": {
+    "Author:": "Martin Pool", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/txfixtures", 
+    "Package Index Owner:": "mbp, lifeless, flacoste"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Treat Twisted applications as Python test fixtures", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1cc4d9897737ec6df043647a5155fbfc", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txfixtures/txfixtures-0.1.4.tar.gz"
+}

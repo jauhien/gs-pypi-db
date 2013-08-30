@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helper to test WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://webtest.pythonpaste.org/", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Server"
+      ]
+    }, 
+    "Home Page:": "http://webtest.pythonpaste.org/", 
+    "Keywords:": "wsgi test unit tests web", 
+    "License:": "MIT", 
+    "Package Index Owner:": "iElectric, ianb, gawel"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Helper to test WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ca4e944a7f5f08b5aebd3bf90699890", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WebTest/WebTest-2.0.7.zip"
+}

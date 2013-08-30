@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Multi-broker payment processor for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cypreess/django-getpaid", 
+  "info": {
+    "Author:": "Krzysztof Dorosz", 
+    "Home Page:": "https://github.com/cypreess/django-getpaid", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Krzysztof.Dorosz"
+  }, 
+  "license": "", 
+  "longdescription": "Multi-broker payment processor for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b8062d590830595a586e22bdc76fcad", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-getpaid/django-getpaid-1.5.1.tar.gz"
+}

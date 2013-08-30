@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Update IP on the DNS-O-Matic service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.sukkology.net", 
+  "info": {
+    "Author:": "SukkoPera", 
+    "Home Page:": "http://www.sukkology.net", 
+    "Keywords:": "dnsomatic opendns cjb dyndns", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "SukkoPera"
+  }, 
+  "license": "", 
+  "longdescription": "Update IP on the DNS-O-Matic service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ede0ccdbf749ecf4c94ef98afc60a62e", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DNSFlash/DNSFlash-0.3.1.tar.gz"
+}

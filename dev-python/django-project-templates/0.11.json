@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Paster templates for creating Django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/garethr/django-project-templates/", 
+  "info": {
+    "Author:": "Gareth Rushgrove", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/garethr/django-project-templates/", 
+    "Keywords:": "django paster", 
+    "License:": "MIT", 
+    "Package Index Owner:": "garethr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Paster templates for creating Django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "06cc226c3881ca27551588143570ea73", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-project-templates/django-project-templates-0.11.tar.gz"
+}

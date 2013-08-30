@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SUPER simple Redis-backed queueing in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gamechanger/dockets", 
+  "info": {
+    "Author:": "Doug Woos", 
+    "Home Page:": "http://github.com/gamechanger/dockets", 
+    "Keywords:": "redis queue schedule", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Tom.Leach, kiril, dwoos"
+  }, 
+  "license": "", 
+  "longdescription": "SUPER simple Redis-backed queueing in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f1a9e6ecc3b55c3563fd622d7b08e89d", 
+  "source_uri": "https://pypi.python.org/packages/source/D/Dockets/Dockets-0.0.35a.tar.gz"
+}

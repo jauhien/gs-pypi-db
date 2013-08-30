@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Script to produce fake translations for .po files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/fakelion", 
+  "info": {
+    "Author:": "Mike C. Fletcher", 
+    "Home Page:": "https://launchpad.net/fakelion", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mcfletch"
+  }, 
+  "license": "", 
+  "longdescription": "Script to produce fake translations for .po files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26ed415c2bbdc1ba47c317f824bde6a3", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fakelion/fakelion-1.0.0a2.tar.gz"
+}

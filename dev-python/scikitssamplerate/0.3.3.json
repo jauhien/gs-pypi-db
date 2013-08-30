@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python module for high quality audio resampling", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ar.media.kyoto-u.ac.jp/members/david/softwares/samplerate", 
+  "info": {
+    "Author:": "David Cournapeau", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/scikits.samplerate", 
+    "Home Page:": "http://www.ar.media.kyoto-u.ac.jp/members/david/softwares/samplerate", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cdavid"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A python module for high quality audio resampling", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "96c8d8ba3aa95a9db15994f78792efb4", 
+  "source_uri": "http://pypi.python.org/pypi/scikits.samplerate"
+}

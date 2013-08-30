@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cloudControl command line utilities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.cloudcontrol.com", 
+  "info": {
+    "Author:": "cloudControl Team", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Home Page:": "https://www.cloudcontrol.com", 
+    "License:": "Apache 2.0", 
+    "Package Index Maintainer:": "syphar, vervas, sfriesel, twcc", 
+    "Package Index Owner:": "syphar, vervas, sfriesel, pst, twcc"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "cloudControl command line utilities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3cd10ff90d33ba2eddb8941496f395fb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cctrl/cctrl-1.7.0.tar.gz"
+}

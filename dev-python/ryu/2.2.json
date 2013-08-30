@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ryu Network Operating System", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://osrg.github.io/ryu/", 
+  "info": {
+    "Author:": "Ryu project team", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://osrg.github.io/ryu/", 
+    "Keywords:": "openflow openvswitch openstack", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "fujita.tomonori"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Ryu Network Operating System", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "953236b04fe0e56c6c0e52e00c76ee32", 
+  "source_uri": "https://pypi.python.org/packages/source/r/ryu/ryu-2.2.tar.gz"
+}

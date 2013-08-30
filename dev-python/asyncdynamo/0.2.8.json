@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "async Amaon DynamoDB library for Tornado", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bitly/asyncdynamo", 
+  "info": {
+    "Author:": "Dan Frank", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ]
+    }, 
+    "Download URL:": "https://s3.amazonaws.com/bitly-downloads/asyncdynamo/asyncdynamo-0.2.8.tar.gz", 
+    "Home Page:": "http://github.com/bitly/asyncdynamo", 
+    "Keywords:": "dynamo,dynamodb,amazon,async,tornado", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "mreiferson, danielhfrank, jehiah"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "async Amaon DynamoDB library for Tornado", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://s3.amazonaws.com/bitly-downloads/asyncdynamo/asyncdynamo-0.2.8.tar.gz"
+}

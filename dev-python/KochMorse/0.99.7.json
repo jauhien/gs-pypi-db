@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Morse-tutor for Linux using the Koch-method.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://kochmorse.googlecode.com", 
+  "info": {
+    "Author:": "Hannes Matuschek", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Ham Radio"
+      ]
+    }, 
+    "Home Page:": "http://kochmorse.googlecode.com", 
+    "Package Index Owner:": "hmatuschek"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Morse-tutor for Linux using the Koch-method.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "126a74c816b895984a1d8a3ab207aa86", 
+  "source_uri": "https://pypi.python.org/packages/source/K/KochMorse/KochMorse-0.99.7.tar.gz"
+}

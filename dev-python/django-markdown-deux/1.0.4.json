@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a Django app that provides template tags for using Markdown (using the python-markdown2 processor)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/trentm/django-markdown-deux", 
+  "info": {
+    "Author:": "Trent Mick", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/trentm/django-markdown-deux", 
+    "Keywords:": "django markdown markdown2 text markup html", 
+    "License:": "MIT", 
+    "Package Index Owner:": "trentm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "a Django app that provides template tags for using Markdown (using the python-markdown2 processor)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1908362261be9f14c3b285a528fa48b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-markdown-deux/django-markdown-deux-1.0.4.zip"
+}

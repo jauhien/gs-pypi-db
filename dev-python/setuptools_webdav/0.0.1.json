@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Setuptoolsdistribute plugin for uploading to webdav servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/mneagul/setuptools-webdav", 
+  "info": {
+    "Author:": "Marian Neagul", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Setuptools Plugin"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/mneagul/setuptools-webdav", 
+    "Keywords:": "setuptools", 
+    "License:": "APL", 
+    "Package Index Owner:": "mosaic"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Setuptoolsdistribute plugin for uploading to webdav servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c148ddad7699ef65198c1af527023af5", 
+  "source_uri": "https://pypi.python.org/packages/source/s/setuptools_webdav/setuptools_webdav-0.0.1.tar.gz"
+}

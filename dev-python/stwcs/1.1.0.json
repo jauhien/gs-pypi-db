@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recomputes the WCS of an HST observation and puts all distortioncorrections in the headers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+  "info": {
+    "Author:": "Nadia Dencheva, Warren Hack", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+    "Package Index Owner:": "stsci_ssb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Recomputes the WCS of an HST observation and puts all distortioncorrections in the headers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "caf3ddf0b33277195ef2d8970332da2b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stwcs/stwcs-1.1.0.tar.gz"
+}

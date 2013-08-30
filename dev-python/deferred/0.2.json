@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Deferred objects without Twisted.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mikeal/deferred", 
+  "info": {
+    "Author:": "Mikeal Rogers, Mozilla", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mikeal/deferred", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mikeal", 
+    "Platform:": "Any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Deferred objects without Twisted.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1d645fddf68da0706309dd744e50ea2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/deferred/deferred-0.2.tar.gz"
+}

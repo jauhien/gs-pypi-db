@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Handles the lifecycle of objects for the Horae resource planning system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Simon Kaeser", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "GPL", 
+    "Package Index Owner:": "raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Handles the lifecycle of objects for the Horae resource planning system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ebf75008e2bb2aa785d21aead9b8c821", 
+  "source_uri": "https://pypi.python.org/packages/source/h/horae.lifecycle/horae.lifecycle-1.0a1.tar.gz"
+}

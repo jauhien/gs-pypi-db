@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/KristianOellegaard/django-health-check", 
+  "info": {
+    "Author:": "Kristian Ollegaard", 
+    "Categories": {
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/KristianOellegaard/django-health-check", 
+    "Keywords:": "django health check monitoring", 
+    "License:": "BSD", 
+    "Package Index Owner:": "KristianOellegaard"
+  }, 
+  "license": "", 
+  "longdescription": "a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18af53baba0ef2268b117a5ada821f55", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-health-check/django-health-check-0.2.tar.gz"
+}

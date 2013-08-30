@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automate the creation of models on ndb from Google App Engine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/renzon/mommy-gae", 
+  "info": {
+    "Author:": "Renzo Nuccitelli", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/renzon/mommy-gae", 
+    "License:": "BSD", 
+    "Package Index Owner:": "renzo"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Automate the creation of models on ndb from Google App Engine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5bd3d0904423aa6955dd3d70a89e5ff5", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mommygae/mommygae-1.0.tar.gz"
+}

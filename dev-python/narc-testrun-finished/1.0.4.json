@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plugin for narc to mark testruns as finished whenever they run out of NO_RESULT results", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/slickqa", 
+  "info": {
+    "Author:": "Slick Developers", 
+    "Home Page:": "http://code.google.com/p/slickqa", 
+    "License:": "License :: OSI Approved :: Apache Software License", 
+    "Package Index Owner:": "jcorbett"
+  }, 
+  "license": "", 
+  "longdescription": "A plugin for narc to mark testruns as finished whenever they run out of NO_RESULT results", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82320ea192d480c4ac1271d0dba29abd", 
+  "source_uri": "https://pypi.python.org/packages/source/n/narc-testrun-finished/narc-testrun-finished-1.0.4.tar.gz"
+}

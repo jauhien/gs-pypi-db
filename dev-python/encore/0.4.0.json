@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Low-level core modules for building Python applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/enthought/encore", 
+  "info": {
+    "Author:": "Enthought, Inc", 
+    "Home Page:": "https://github.com/enthought/encore", 
+    "Package Index Owner:": "enthought"
+  }, 
+  "license": "", 
+  "longdescription": "Low-level core modules for building Python applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "78d88cca3532ce01cdbdbf6ba2ea9e06", 
+  "source_uri": "https://pypi.python.org/packages/source/e/encore/encore-0.4.0.tar.gz"
+}

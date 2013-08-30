@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module to download subtitles for a given video file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/periscope/", 
+  "info": {
+    "Author:": "Patrick Dessalle", 
+    "Home Page:": "http://code.google.com/p/periscope/", 
+    "License:": "GNU LGPL", 
+    "Package Index Owner:": "patrickdessalle"
+  }, 
+  "license": "", 
+  "longdescription": "Python module to download subtitles for a given video file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01f4df6afdcbbed2c456e9f8ed976f1c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/periscope/periscope-0.2.4.tar.gz"
+}

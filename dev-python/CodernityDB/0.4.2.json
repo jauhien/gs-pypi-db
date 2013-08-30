@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure python, fast, schema-less, NoSQL database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://labs.codernity.com/codernitydb", 
+  "info": {
+    "Author:": "Codernity", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://labs.codernity.com/codernitydb", 
+    "Keywords:": "database python nosql key-value key/value db", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "codernity", 
+    "Platform:": "any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Pure python, fast, schema-less, NoSQL database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9eccbd4f1d4aec78518853515672f7db", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CodernityDB/CodernityDB-0.4.2.tar.gz"
+}

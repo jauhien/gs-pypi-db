@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python epoll wrapper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://const.tltsu.ru/", 
+  "info": {
+    "Author:": "Constantin Baranov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Education"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "C"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://const.tltsu.ru/svn/const/pub/pyepoll/", 
+    "Home Page:": "http://const.tltsu.ru/", 
+    "License:": "PSF", 
+    "Package Index Owner:": "const", 
+    "Platform:": "linux2"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Python epoll wrapper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ebd3f7325efb269e9333fad3d4f63447", 
+  "source_uri": "http://const.tltsu.ru/svn/const/pub/pyepoll/"
+}

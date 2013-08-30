@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for managing config files. Built on ConversionKit.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jimmyg.org/work/code/configconvert/index.html", 
+  "info": {
+    "Author:": "James Gardner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://jimmyg.org/work/code/configconvert/index.html", 
+    "License:": "GNU AGPLv3", 
+    "Package Index Owner:": "thejimmyg"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Tools for managing config files. Built on ConversionKit.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "566ffeb675d910f74255128a3c6626fa", 
+  "source_uri": "https://pypi.python.org/packages/source/C/ConfigConvert/ConfigConvert-0.2.2.tar.gz"
+}

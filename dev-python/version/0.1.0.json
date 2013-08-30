@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of semantic version", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/halst/version", 
+  "info": {
+    "Author:": "Vladimir Keleshev", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/halst/version", 
+    "Keywords:": "semver semantic version versioning versions", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vladimir"
+  }, 
+  "license": "", 
+  "longdescription": "Implementation of semantic version", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26c074717082e19f72b86334d916ecbb", 
+  "source_uri": "https://pypi.python.org/packages/source/v/version/version-0.1.0.tar.gz"
+}

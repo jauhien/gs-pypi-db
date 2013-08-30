@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "httplib2 extension that is more paranoid about input", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pneff/tinfoilhat/tree/master", 
+  "info": {
+    "Author:": "Patrice Neff <mail@patrice.ch>", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/TinfoilHat", 
+    "Home Page:": "http://github.com/pneff/tinfoilhat/tree/master", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pneff"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "httplib2 extension that is more paranoid about input", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1465b7464b811ba1f939aef2fb2b2557", 
+  "source_uri": "http://pypi.python.org/pypi/TinfoilHat"
+}

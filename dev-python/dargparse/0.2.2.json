@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Declarative command-line argument parser for python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/objectlabs/dargparse", 
+  "info": {
+    "Author:": "The MongoLab Team", 
+    "Home Page:": "https://github.com/objectlabs/dargparse", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mongolab"
+  }, 
+  "license": "", 
+  "longdescription": "Declarative command-line argument parser for python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8d873b732d745960835de555bb34d645", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dargparse/dargparse-0.2.2.tar.gz"
+}

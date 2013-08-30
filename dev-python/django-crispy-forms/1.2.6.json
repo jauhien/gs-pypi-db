@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Best way to have Django DRY forms", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/maraujop/django-crispy-forms", 
+  "info": {
+    "Author:": "Miguel Araujo", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/maraujop/django-crispy-forms", 
+    "Keywords:": "forms,django,crispy,DRY", 
+    "License:": "MIT", 
+    "Package Index Owner:": "maraujop"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Best way to have Django DRY forms", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7191f13099bdaedc62017dd77bb40cf8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-crispy-forms/django-crispy-forms-1.2.6.tar.gz"
+}

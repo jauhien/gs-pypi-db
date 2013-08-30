@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Graphe database with several backends architecture in mind", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/abki/ajgu/", 
+  "info": {
+    "Author:": "Amirouche Boubekki", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/abki/ajgu/", 
+    "Keywords:": "graphe,persistence,database", 
+    "License:": "AGPLv3 or later", 
+    "Package Index Owner:": "amirouche", 
+    "Platform:": "ALL"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Graphe database with several backends architecture in mind", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b7f5c87618226746a708ac9e53dd10a", 
+  "source_uri": "https://pypi.python.org/packages/source/a/ajgu/ajgu-0.1.0.tar.gz"
+}

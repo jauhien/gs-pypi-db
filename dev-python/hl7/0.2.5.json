@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library parsing HL7 v2.x messages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python-hl7.readthedocs.org", 
+  "info": {
+    "Author:": "John Paulett", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Healthcare Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://python-hl7.readthedocs.org", 
+    "Keywords:": "HL7,Health Level 7,healthcare,health care,medical record", 
+    "License:": "BSD", 
+    "Package Index Owner:": "johnpaulett", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python library parsing HL7 v2.x messages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71dacf6e6045d5f7ad64062fb1eec4af", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hl7/hl7-0.2.5.tar.gz"
+}

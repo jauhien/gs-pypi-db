@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Abstract class implemented to provide form django admin like", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://tracpub.yaco.es/djangoapps/wiki/DjangoFormAdmin", 
+  "info": {
+    "Author:": "Yaco Sistemas S.L.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ]
+    }, 
+    "Home Page:": "https://tracpub.yaco.es/djangoapps/wiki/DjangoFormAdmin", 
+    "Keywords:": "django admin form render", 
+    "License:": "LGPL 3", 
+    "Package Index Owner:": "Goin"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Abstract class implemented to provide form django admin like", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "967337d97c54d076dcef5fe35a20b51c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-form-admin/django-form-admin-0.3.2.tar.gz"
+}

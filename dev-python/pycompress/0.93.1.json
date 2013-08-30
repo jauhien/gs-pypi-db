@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python binding for high compression ratio PAQ library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bitbucket.org/atmb4u/pycompress", 
+  "info": {
+    "Author:": "Anoop Thomas Mathew", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.bitbucket.org/atmb4u/pycompress", 
+    "Package Index Owner:": "atmb4u"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python binding for high compression ratio PAQ library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7fb2062cf61b01ddbebf7352c8073cb1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycompress/pycompress-0.93.1.tar.gz"
+}

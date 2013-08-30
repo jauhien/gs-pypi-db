@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Find and manage duplication files on the file system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python.org/pypi/dupfinder", 
+  "info": {
+    "Author:": "Andriy Mylenkyy", 
+    "Home Page:": "http://python.org/pypi/dupfinder", 
+    "Keywords:": "file duplication finder manager", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mylan"
+  }, 
+  "license": "", 
+  "longdescription": "Find and manage duplication files on the file system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "25b2b06a31e74ce1e59a23de682af1ff", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dupfinder/dupfinder-1.4.3.tar.gz"
+}

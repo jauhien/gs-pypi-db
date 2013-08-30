@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scrapy pipeline which allow you to store scrapy items in Elastic Search.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/noplay/scrapy-elasticsearch", 
+  "info": {
+    "Author:": "Julien Duponchelle", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/noplay/scrapy-elasticsearch", 
+    "Keywords:": "scrapy elastic search", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "noplay", 
+    "Platform:": "Any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Scrapy pipeline which allow you to store scrapy items in Elastic Search.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "622d60493fa63172374ba59ac68fa1b0", 
+  "source_uri": "https://pypi.python.org/packages/source/S/ScrapyElasticSearch/ScrapyElasticSearch-0.1.tar.gz"
+}

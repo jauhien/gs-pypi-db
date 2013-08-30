@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python inference library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sysbio.mrc-bsu.cam.ac.uk/johns/infpy/docs/build/html/", 
+  "info": {
+    "Author:": "John Reid", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//infpy", 
+    "Home Page:": "http://sysbio.mrc-bsu.cam.ac.uk/johns/infpy/docs/build/html/", 
+    "Keywords:": "Inference probabilistic models Gaussian processes Dirichlet processes", 
+    "License:": "BSD", 
+    "Package Index Owner:": "John.Reid"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A python inference library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ef8a4ebffadd70640bcaa548e5a477e", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infpy/infpy-0.4.11.tar.gz"
+}

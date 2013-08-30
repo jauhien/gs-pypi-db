@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cache manager which delegates policy to CMFs caching policy manager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.PolicyHTTPCacheManager", 
+  "info": {
+    "Author:": "Sidnei da Silva", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.PolicyHTTPCacheManager", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "reinout, newbery, wichert"
+  }, 
+  "license": "", 
+  "longdescription": "Cache manager which delegates policy to CMFs caching policy manager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3159a73d6f2b616f5e47ec87930abdbe", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PolicyHTTPCacheManager/Products.PolicyHTTPCacheManager-1.2.tar.gz"
+}

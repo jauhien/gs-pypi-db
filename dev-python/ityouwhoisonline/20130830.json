@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone Product - Show users who are online", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ityou.de/esi/ityou.whoisonline", 
+  "info": {
+    "Author:": "ITYOU/LM", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.ityou.de/esi/ityou.whoisonline", 
+    "Keywords:": "Plone Who Online", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Luc.Mller"
+  }, 
+  "license": "", 
+  "longdescription": "Plone Product - Show users who are online", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bdd8e42f645654cd885907dba8d2905a", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ityou.whoisonline/ityou.whoisonline-1.1rc6.tar.gz"
+}

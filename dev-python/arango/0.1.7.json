@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Driver for ArangoDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://arangodb-python-driver.readthedocs.org/en/latest/", 
+  "info": {
+    "Author:": "Maksym Klymyshyn", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "http://arangodb-python-driver.readthedocs.org/en/latest/", 
+    "Package Index Owner:": "joymax"
+  }, 
+  "license": "", 
+  "longdescription": "Driver for ArangoDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bac5a1a5cf623f976a17d7a5e4c4fdf7", 
+  "source_uri": "https://pypi.python.org/packages/source/a/arango/arango-0.1.7.tar.gz"
+}

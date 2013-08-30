@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An SMTP daemon", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pypi.python.org/pypi/PyMail", 
+  "info": {
+    "Author:": "Johnny Wezel", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Post-Office", 
+        "IMAP"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//PyMail", 
+    "Home Page:": "https://pypi.python.org/pypi/PyMail", 
+    "Keywords:": "mail smtp esmtp", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Johnny.Wezel", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "An SMTP daemon", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a35c47dda096d665d85f813ee2ea8a4", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyMail/PyMail-0.1.2.tar.gz"
+}

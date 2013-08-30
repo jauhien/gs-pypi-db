@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module that implements the Transmission bittorent client RPC protocol.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/blueluna/transmissionrpc", 
+  "info": {
+    "Author:": "Erik Svensson", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//transmissionrpc", 
+    "Home Page:": "http://bitbucket.org/blueluna/transmissionrpc", 
+    "Keywords:": "transmission bittorent torrent", 
+    "Package Index Owner:": "blueluna"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python module that implements the Transmission bittorent client RPC protocol.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8f763e41b1695575c53e297de16b47a1", 
+  "source_uri": "https://pypi.python.org/packages/source/t/transmissionrpc/transmissionrpc-0.10.tar.gz"
+}

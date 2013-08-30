@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Greek word splitter for CTextIndex", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/qi.GRSplitter", 
+  "info": {
+    "Author:": "G. Gozadinos", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/qi.GRSplitter", 
+    "Keywords:": "plone zope greek ZCTextIndex Splitter", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ggozad"
+  }, 
+  "license": "", 
+  "longdescription": "Greek word splitter for CTextIndex", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "325c95dbd1b6d26c7d001b9a73ff5462", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qi.GRSplitter/qi.GRSplitter-1.1.1.tar.gz"
+}

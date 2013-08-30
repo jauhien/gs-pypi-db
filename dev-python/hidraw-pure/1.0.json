@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure-python linux hidraw bindings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vpelletier/python-hidraw", 
+  "info": {
+    "Author:": "Vincent Pelletier", 
+    "Categories": {
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vpelletier/python-hidraw", 
+    "Keywords:": "linux human interface device HID hidraw", 
+    "License:": "GPL 2+", 
+    "Package Index Owner:": "vpelletier"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Pure-python linux hidraw bindings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "566cd687125211c1709af118b46c78c3", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hidraw-pure/hidraw-pure-1.0.tar.gz"
+}

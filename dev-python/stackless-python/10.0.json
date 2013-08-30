@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Installer for Stackless Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stackless.com", 
+  "info": {
+    "Author:": "Anselm Kruis", 
+    "Bug Tracker:": "https://bitbucket.org/akruis/slp-installer/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "Stackless"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Interpreters"
+      ]
+    }, 
+    "Home Page:": "http://www.stackless.com", 
+    "Keywords:": "stackless", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "a.kruis"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Installer for Stackless Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "257d180e7b6f424acb728b16ca4bb25c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stackless-python/stackless-python-10.0.tar.gz"
+}

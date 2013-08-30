@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extension to django CMS to provide multilingual Haystack indexes (fork)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "lp:~doctormo/+junk/cmsplugin_search/", 
+  "info": {
+    "Author:": "Martin Owens via Divio GmbH", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "lp:~doctormo/+junk/cmsplugin_search/", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "doctormo", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An extension to django CMS to provide multilingual Haystack indexes (fork)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fa274c4a289637dd6cfe905c78fc150a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin-search/cmsplugin-search-0.7.2.tar.gz"
+}

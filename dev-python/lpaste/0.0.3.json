@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line uploading tool for the Library Paste pastebin tool.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/chmullig/librarypaste-tools/src/lpaste", 
+  "info": {
+    "Author:": "Chris Mulligan", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/chmullig/librarypaste-tools/src/lpaste", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chmullig"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Command line uploading tool for the Library Paste pastebin tool.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1645d8af10ec58ac3baa112f82d913ba", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lpaste/lpaste-0.0.3.tar.gz"
+}

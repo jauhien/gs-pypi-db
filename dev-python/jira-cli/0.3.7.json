@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "command line utility for interacting with jira", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mig33/jira-cli", 
+  "info": {
+    "Author:": "Ali-Akber Saifee", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Bug Tracking"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mig33/jira-cli", 
+    "License:": "MIT", 
+    "Package Index Owner:": "alisaifee"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "command line utility for interacting with jira", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a20a111956af71c1d6a4ab8c881acef9", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jira-cli/jira-cli-0.3.7.tar.gz"
+}

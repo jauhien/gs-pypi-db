@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Show a new link (permalink) in Plone contents. This will not change if you move the content itself.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.permalink", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/collective.permalink/issues", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.permalink", 
+    "Keywords:": "plone plonegov permalink", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "micecchi", 
+    "Package Index Owner:": "keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "Show a new link (permalink) in Plone contents. This will not change if you move the content itself.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef8d659b108cb9cb19fca691e089df74", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.permalink/collective.permalink-0.2.0.zip"
+}

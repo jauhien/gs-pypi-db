@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Support Dependencies between items in Chandler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jeffrey Harris", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Chandler"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Office/Business", 
+        "Groupware"
+      ]
+    }, 
+    "Package Index Owner:": "jdharris, hamstar"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Support Dependencies between items in Chandler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed4744e14d33e7960814aeb1e12768ec", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Chandler-DependencyPlugin/Chandler-DependencyPlugin-0.1.tar.gz"
+}

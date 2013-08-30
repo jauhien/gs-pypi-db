@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MySQL driver written in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.mysql.com/doc/connector-python/en/index.html", 
+  "info": {
+    "Author:": "Oracle and/or its affiliates", 
+    "Bug Tracker:": "http://bugs.mysql.com", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-1.0.12.zip", 
+    "Home Page:": "http://dev.mysql.com/doc/connector-python/en/index.html", 
+    "Keywords:": "mysql db", 
+    "License:": "GNU GPLv2 (with FOSS License Exception)", 
+    "Package Index Owner:": "GeertVanderkelen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "MySQL driver written in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://cdn.mysql.com/Downloads/Connector-Python/mysql-connector-python-1.0.12.zip"
+}

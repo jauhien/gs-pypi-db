@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An Eviscape extension for Django CMS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/TESOBE/cmsplugin_eviscape", 
+  "info": {
+    "Author:": "Tim Kleinschmidt, Tobias Pfeiffer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/TESOBE/cmsplugin_eviscape", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Tesobe", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An Eviscape extension for Django CMS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd11902d87c845151ae68762b606fd8f", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin_eviscape/cmsplugin_eviscape-0.9.3.tar.gz"
+}

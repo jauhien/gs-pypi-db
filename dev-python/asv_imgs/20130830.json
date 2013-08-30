@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Module for connecting images to articles and other django models trought ContentTypes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/xenolog/asv_imgs/wiki/Home", 
+  "info": {
+    "Author:": "Sergey Vasilenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/xenolog/asv_imgs/wiki/Home", 
+    "Keywords:": "django asv images", 
+    "License:": "GPL", 
+    "Package Index Owner:": "stalker", 
+    "Platform:": "All"
+  }, 
+  "license": "", 
+  "longdescription": "Module for connecting images to articles and other django models trought ContentTypes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2270e2d5918553934d6970f6fdff5767", 
+  "source_uri": "https://pypi.python.org/packages/source/a/asv_imgs/asv_imgs-dev-20121101-01.tar.gz"
+}

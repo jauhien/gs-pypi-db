@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "extensible json extension lib. Includes module for python types (datetime, date, decimal, time)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ish.io", 
+  "info": {
+    "Author:": "Tim Parkin & Matt Goodall", 
+    "Home Page:": "http://ish.io", 
+    "Package Index Owner:": "ish"
+  }, 
+  "license": "", 
+  "longdescription": "extensible json extension lib. Includes module for python types (datetime, date, decimal, time)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a8bb0b581234ac905c03022c66dd5506", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jsonish/jsonish-0.1.1.tar.gz"
+}

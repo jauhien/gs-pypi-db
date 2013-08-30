@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone specific Atom syndication with GeoRSS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.gispython.org/projects/PrimaGIS/wiki/zgeo.plone.atom", 
+  "info": {
+    "Author:": "Sean Gillies", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://trac.gispython.org/projects/PrimaGIS/wiki/zgeo.plone.atom", 
+    "Keywords:": "plone geo gis georss atom", 
+    "License:": "GPL", 
+    "Package Index Owner:": "seang"
+  }, 
+  "license": "", 
+  "longdescription": "Plone specific Atom syndication with GeoRSS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6cdf12fe46dd4b65298ad868d6969675", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zgeo.plone.atom/zgeo.plone.atom-0.2.tar.gz"
+}

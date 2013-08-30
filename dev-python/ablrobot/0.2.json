@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Ableton Robot Framework, for writing daemons or commandline tools, with powerful features for error handling and logging.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Diez B. Roggisch", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "License:": "MIT", 
+    "Package Index Owner:": "ableton"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "The Ableton Robot Framework, for writing daemons or commandline tools, with powerful features for error handling and logging.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64b88db07e0dd07506af1cfa20eab81f", 
+  "source_uri": "https://pypi.python.org/packages/source/a/abl.robot/abl.robot-0.2.tar.gz"
+}

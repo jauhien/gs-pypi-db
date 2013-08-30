@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PloneFormGen adapter allowing for creation of arbitrary Salesforce.com         records based on data collected from a web form", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/getpaid", 
+  "info": {
+    "Author:": "Rob LaRubbio", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/getpaid", 
+    "Keywords:": "Zope CMF Plone Salesforce.com CRM PloneFormGen forms integration", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "jkidd", 
+    "Package Index Owner:": "pjstevns, larubbio, lucielejard, jkidd, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "PloneFormGen adapter allowing for creation of arbitrary Salesforce.com         records based on data collected from a web form", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c2bdfbbbf9d056089f7b172bce3b081f", 
+  "source_uri": "https://pypi.python.org/packages/source/g/getpaid.SalesforcePloneFormGenAdapter/getpaid.SalesforcePloneFormGenAdapter-1.7.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for collecting data from git repositories.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/alexsparrow/gitwalker", 
+  "info": {
+    "Author:": "Alex Sparrow", 
+    "Home Page:": "https://github.com/alexsparrow/gitwalker", 
+    "License:": "GPL", 
+    "Package Index Owner:": "alexsparrow"
+  }, 
+  "license": "", 
+  "longdescription": "A tool for collecting data from git repositories.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2257f1fee922ae6c0ea491be91300ec6", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gitwalker/gitwalker-0.1.7.tar.gz"
+}

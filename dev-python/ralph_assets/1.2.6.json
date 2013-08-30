@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Assets management module for Ralph", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ralph.allegrogroup.com/", 
+  "info": {
+    "Author:": "Grupa Allegro Sp. z o.o. and Contributors", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://ralph.allegrogroup.com/", 
+    "License:": "Apache Software License v2.0", 
+    "Package Index Owner:": "vi4m", 
+    "Platform:": "any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Assets management module for Ralph", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c95fe46880bb8e0591f75f937c05aeb", 
+  "source_uri": "https://pypi.python.org/packages/source/r/ralph_assets/ralph_assets-1.2.6.tar.gz"
+}

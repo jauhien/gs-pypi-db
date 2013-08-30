@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/cykooz/cykooz.djangorecipe", 
+  "info": {
+    "Author:": "Cykooz", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/cykooz/cykooz.djangorecipe", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Cykooz"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Buildout recipe for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a3309b6cdb4b8199049923280dd74e0", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cykooz.djangorecipe/cykooz.djangorecipe-1.2.1.tar.gz"
+}

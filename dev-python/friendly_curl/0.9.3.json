@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A friendly interface to PyCURL.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/friendlycurl/", 
+  "info": {
+    "Author:": "Nick Pilon, Gavin Carothers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/friendlycurl/", 
+    "Keywords:": "curl url http", 
+    "License:": "Apache 2", 
+    "Package Index Owner:": "gavin, npilon"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A friendly interface to PyCURL.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65780f3e596a9e234525c1b6f1f7dd2b", 
+  "source_uri": "https://pypi.python.org/packages/source/f/friendly_curl/friendly_curl-0.9.3.tar.gz"
+}

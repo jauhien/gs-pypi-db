@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mercadopago SDK module for Payments integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mercadopago/sdk-python.git", 
+  "info": {
+    "Author:": "Horacio Casatti <horacio.casatti@mercadolibre.com>", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Freely Distributable"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mercadopago/sdk-python.git", 
+    "Keywords:": "api mercadopago checkout payment ipn sdk integration", 
+    "Package Index Owner:": "Horacio.Casatti"
+  }, 
+  "license": "Freely Distributable", 
+  "longdescription": "Mercadopago SDK module for Payments integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e3eb918ded3950611e665ae267e4ef9", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mercadopago/mercadopago-0.1.8.tar.gz"
+}

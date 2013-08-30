@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "User notification management for the Django web framework modified for OpenProximity", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/OpenProximity/django-notification", 
+  "info": {
+    "Author:": "James Tauber", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/OpenProximity/django-notification", 
+    "Package Index Owner:": "manuelnaranjo"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "User notification management for the Django web framework modified for OpenProximity", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14c06f7d2f1c8fcc626b55f9cfca1216", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-notification-op/django-notification-op-0.1.6.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "VCSSCM source control library for svn, git, hg, and br", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/vcstools", 
+  "info": {
+    "Author:": "Tully Foote, Thibault Kruse, Ken Conley", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Download URL:": "http://pr.willowgarage.com/downloads/vcstools/", 
+    "Home Page:": "http://www.ros.org/wiki/vcstools", 
+    "Keywords:": "scm,vcs,git,svn,hg,bzr", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ijt, kwc, tfoote, gerkey, dthomas"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "VCSSCM source control library for svn, git, hg, and br", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b5a6779a5907a645c70d111129b22bc2", 
+  "source_uri": "http://pr.willowgarage.com/downloads/vcstools/"
+}

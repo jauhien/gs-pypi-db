@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A BlaeWeb component for turning SQLAlchemy recordsets into HTML tables", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/rsyring/datagridbwc/", 
+  "info": {
+    "Author:": "Randy Syring", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/rsyring/datagridbwc/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rsyring"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A BlaeWeb component for turning SQLAlchemy recordsets into HTML tables", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d7078f28d091906352e8a013d7c95c54", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DataGridBWC/DataGridBWC-0.1.3.tar.gz"
+}

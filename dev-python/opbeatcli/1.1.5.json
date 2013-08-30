@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "opbeat is a client for Opbeat (httpsopbeat.com)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/opbeat/opbeatcli", 
+  "info": {
+    "Author:": "Ron Cohen", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/opbeat/opbeatcli", 
+    "Package Index Owner:": "roncohen"
+  }, 
+  "license": "", 
+  "longdescription": "opbeat is a client for Opbeat (httpsopbeat.com)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8aea1bf0a71b7f3458783946456aaca5", 
+  "source_uri": "https://pypi.python.org/packages/source/o/opbeatcli/opbeatcli-1.1.5.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenID authentication middleware for WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.sandbox.lt/auth/wiki/AuthOpenIdMiddleware", 
+  "info": {
+    "Author:": "Dalius Dobravolskas", 
+    "Home Page:": "http://trac.sandbox.lt/auth/wiki/AuthOpenIdMiddleware", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dalius"
+  }, 
+  "license": "", 
+  "longdescription": "OpenID authentication middleware for WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d00a265c9a5d31c18496a9e0a337165f", 
+  "source_uri": "https://pypi.python.org/packages/source/a/authopenid_middleware/authopenid_middleware-0.2.2.tar.gz"
+}

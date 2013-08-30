@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin for spam filtering", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.edgewall.org/wiki/SpamFilter", 
+  "info": {
+    "Author:": "Edgewall Software", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Download URL:": "http://trac.edgewall.org/wiki/SpamFilter", 
+    "Home Page:": "http://trac.edgewall.org/wiki/SpamFilter", 
+    "Keywords:": "trac plugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mgood"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Plugin for spam filtering", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://trac.edgewall.org/wiki/SpamFilter"
+}

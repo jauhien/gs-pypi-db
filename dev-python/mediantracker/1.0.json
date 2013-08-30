@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tracks the overall median of a stream of values on-line in reasonably efficient fashion.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/mediantracker/", 
+  "info": {
+    "Author:": "John Kleint", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Home Page:": "http://sourceforge.net/projects/mediantracker/", 
+    "Keywords:": "median statistics online incremental dynamic mathematics", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jkleint"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Tracks the overall median of a stream of values on-line in reasonably efficient fashion.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77666357b7340811a8b4d995c9ce1135", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mediantracker/mediantracker-1.0.tar.gz"
+}

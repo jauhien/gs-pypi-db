@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Middleware for use Storm ORM in WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/middlestorm", 
+  "info": {
+    "Author:": "Vsevolod Balashov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/middlestorm", 
+    "Keywords:": "wsgi middleware decorator storm orm dbms db postgres mysql sqlite web webdev www", 
+    "License:": "LGPL 2.1", 
+    "Package Index Owner:": "sevkin"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Middleware for use Storm ORM in WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f04ca026b89f731bd87f50d8c8a7dde7", 
+  "source_uri": "https://pypi.python.org/packages/source/m/middlestorm/middlestorm-0.8.1.tar.gz"
+}

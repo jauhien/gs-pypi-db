@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django deployment utility", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/johnthedebs/django-deploy", 
+  "info": {
+    "Author:": "John Debs", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/johnthedebs/django-deploy", 
+    "Package Index Owner:": "johnthedebs"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django deployment utility", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "94c0a90afd2b8c26fc1e973aa542b6d3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-deploy/django-deploy-0.1.0.tar.gz"
+}

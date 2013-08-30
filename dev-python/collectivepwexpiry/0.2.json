@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Emulate Active Directory password complexity requirements in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.enfoldsystems.com", 
+  "info": {
+    "Author:": "Enfold Systems, Inc.", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.enfoldsystems.com", 
+    "License:": "GPL", 
+    "Package Index Owner:": "runyaga"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Emulate Active Directory password complexity requirements in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49d5d2fe82bf39e1d64565b889019f1a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.pwexpiry/collective.pwexpiry-0.2.tar.gz"
+}

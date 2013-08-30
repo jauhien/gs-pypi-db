@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python module to simplify reading and writing binary files (or file-like objects). This module is a convenience layer on top of standard python module struct.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://spika.net/py/binio/", 
+  "info": {
+    "Author:": "Alejandro L\u00f3pez Correa", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://spika.net/py/binio/", 
+    "Keywords:": "io,binary,struct,file", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "alexlc"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A python module to simplify reading and writing binary files (or file-like objects). This module is a convenience layer on top of standard python module struct.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8faf46d00f45d70e3c2dc44c90347e5e", 
+  "source_uri": "https://pypi.python.org/packages/source/b/binio/binio-1.2.3.tar.gz"
+}

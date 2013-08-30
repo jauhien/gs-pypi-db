@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a simple incremental backup program similar to tar", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gustaebel.de/lars/can/", 
+  "info": {
+    "Author:": "Lars Gust\u00c3\u00a4bel", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://www.gustaebel.de/lars/can/can-2.0.tar.gz", 
+    "Home Page:": "http://www.gustaebel.de/lars/can/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gustaebel"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "a simple incremental backup program similar to tar", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd2243ab68c80eec45e204dbd645a95e", 
+  "source_uri": "http://www.gustaebel.de/lars/can/can-2.0.tar.gz"
+}

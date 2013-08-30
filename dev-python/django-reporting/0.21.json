@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django Reporting is an application that can be integrated with the Django Admin and allows you to create dynamic reports for your models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tryolabs/django-reporting", 
+  "info": {
+    "Author:": "Rodrigo Herrera, Vitaliy Kucheryaviy, Marc Garcia", 
+    "Home Page:": "https://github.com/tryolabs/django-reporting", 
+    "Keywords:": "django reporting report model models", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "rhherrera, tryolabs"
+  }, 
+  "license": "", 
+  "longdescription": "Django Reporting is an application that can be integrated with the Django Admin and allows you to create dynamic reports for your models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "090dca908644a08fa1a7ffdaa2642c6d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-reporting/django-reporting-0.21.tar.gz"
+}

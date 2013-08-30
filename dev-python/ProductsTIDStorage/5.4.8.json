@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TIDStorage Product provides a way to have consistent backups when running a multi-storage instance (only EO is supported at the moment).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.erp5.org/repos/public/erp5/trunk/utils/Products.TIDStorage/", 
+  "info": {
+    "Author:": "Vincent Pelletier", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "https://svn.erp5.org/repos/public/erp5/trunk/utils/Products.TIDStorage/", 
+    "Keywords:": "Zope TIDStorage", 
+    "Package Index Owner:": "LukaszNowak, romain"
+  }, 
+  "license": "", 
+  "longdescription": "TIDStorage Product provides a way to have consistent backups when running a multi-storage instance (only EO is supported at the moment).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "83782c60804480c34d7317ee1f9cb762", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.TIDStorage/Products.TIDStorage-5.4.8.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pythonic bindings for git", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.istique.net", 
+  "info": {
+    "Author:": "Steve Fr\u00c3\u00a9cinaux", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://code.istique.net", 
+    "License:": "LGPL", 
+    "Maintainer:": "Steve Fr\u00c3\u00a9cinaux", 
+    "Package Index Owner:": "sf", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Pythonic bindings for git", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ccaa2a30c9224366362c9c29bc50d93", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pygit/pygit-0.1.tar.gz"
+}

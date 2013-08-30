@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Full featured Gnome file searching application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/busca", 
+  "info": {
+    "Author:": "Jordi Carrillo", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Download URL:": "http://launchpad.net/busca", 
+    "Home Page:": "http://launchpad.net/busca", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "jordilin"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Full featured Gnome file searching application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://launchpad.net/busca"
+}

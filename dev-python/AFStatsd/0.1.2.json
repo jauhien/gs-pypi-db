@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Statsd Library for use with the AppFirst collector", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/AFStatsd/", 
+  "info": {
+    "Author:": "Clark Bremer", 
+    "Home Page:": "http://pypi.python.org/pypi/AFStatsd/", 
+    "Package Index Owner:": "Clark.Bremer"
+  }, 
+  "license": "", 
+  "longdescription": "Statsd Library for use with the AppFirst collector", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd2613e2144e9de7f960ada6d3911526", 
+  "source_uri": "https://pypi.python.org/packages/source/A/AFStatsd/AFStatsd-0.1.2.tar.gz"
+}

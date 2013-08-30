@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of tools and helper scripts to make managing a release process easier", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pedersen/releasetools", 
+  "info": {
+    "Author:": "Michael J. Pedersen", 
+    "Home Page:": "https://github.com/pedersen/releasetools", 
+    "Package Index Owner:": "pedersen"
+  }, 
+  "license": "", 
+  "longdescription": "A set of tools and helper scripts to make managing a release process easier", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b28737f761b876157da65d6b974293c", 
+  "source_uri": "https://pypi.python.org/packages/source/r/releasetools/releasetools-0.1.tar.gz"
+}

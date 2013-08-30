@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A reusable Django app to create event pages where users can RSVP.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bitmazk/django-event-rsvp", 
+  "info": {
+    "Author:": "Daniel Kaufhold", 
+    "Home Page:": "https://github.com/bitmazk/django-event-rsvp", 
+    "Keywords:": "django,events,app,rsvp", 
+    "License:": "The MIT License", 
+    "Package Index Maintainer:": "mbrochh, dkaufhold", 
+    "Package Index Owner:": "dkaufhold, mbrochh, Tobias.Lorenz", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "A reusable Django app to create event pages where users can RSVP.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46b3e29b9f217cca4cee7ab3446dd8ca", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-event-rsvp/django-event-rsvp-0.4.tar.gz"
+}

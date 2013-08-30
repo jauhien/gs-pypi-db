@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allow to define CC address(es) used only for public tickets notifications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mitar.tnode.com/", 
+  "info": {
+    "Author:": "Mitar", 
+    "Home Page:": "http://mitar.tnode.com/", 
+    "Keywords:": "trac plugin", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "mitar"
+  }, 
+  "license": "", 
+  "longdescription": "Allow to define CC address(es) used only for public tickets notifications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f85a104a0634b14b52bbb5bb32138baf", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PublicNotificationsPlugin/PublicNotificationsPlugin-0.1.2.tar.gz"
+}

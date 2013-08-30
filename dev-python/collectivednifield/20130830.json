@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A field to enter a national identity number.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.dnifield", 
+  "info": {
+    "Author:": "Israel Saeta P\u00c3\u00a9rez", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.dnifield", 
+    "Keywords:": "dni nif field", 
+    "License:": "GPL", 
+    "Package Index Owner:": "dukebody"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A field to enter a national identity number.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c6e1955d9e471a3197198e720507e83", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.dnifield/collective.dnifield-1.0a1.tar.gz"
+}

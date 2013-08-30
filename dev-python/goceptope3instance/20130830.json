@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for defining a ope 3 instance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.zope.org/gocept.zope3instance", 
+  "info": {
+    "Author:": "Christian Theune", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ]
+    }, 
+    "Home Page:": "http://svn.zope.org/gocept.zope3instance", 
+    "Keywords:": "zope3 buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "tlotze", 
+    "Package Index Owner:": "ctheune"
+  }, 
+  "license": "", 
+  "longdescription": "c.buildout recipe for defining a ope 3 instance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "67faa195bc223ff455d685ba3a07676a", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.zope3instance/gocept.zope3instance-2.0a2.tar.gz"
+}

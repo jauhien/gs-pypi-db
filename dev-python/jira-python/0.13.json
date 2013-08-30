@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library to ease use of the JIRA 5 REST APIs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/bspeakmon/jira-python", 
+  "info": {
+    "Author:": "Ben Speakmon", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/bspeakmon/jira-python", 
+    "Keywords:": "jira", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bspeakmon"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A library to ease use of the JIRA 5 REST APIs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd9d9930559fd201fcf1cb5b765fa368", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jira-python/jira-python-0.13.tar.gz"
+}

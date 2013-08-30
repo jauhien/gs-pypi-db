@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple data validation library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/halst/schema", 
+  "info": {
+    "Author:": "Vladimir Keleshev", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/halst/schema", 
+    "Keywords:": "schema json validation", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vladimir"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple data validation library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "45738bf995f462f3856501fe613fd6f7", 
+  "source_uri": "https://pypi.python.org/packages/source/s/schema/schema-0.2.0.tar.gz"
+}

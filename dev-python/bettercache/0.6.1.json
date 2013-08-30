@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A suite of better cache tools for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ironfroggy/django-better-cache", 
+  "info": {
+    "Author:": "Calvin Spealman, Cox Media Group", 
+    "Home Page:": "http://github.com/ironfroggy/django-better-cache", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ironfroggy"
+  }, 
+  "license": "", 
+  "longdescription": "A suite of better cache tools for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8a84def6b27d196112263eb4aa21a3c", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bettercache/bettercache-0.6.1.tar.gz"
+}

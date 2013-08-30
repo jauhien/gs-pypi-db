@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Standalone WebOb port of the Werkeug Debugger with Python3 support meant to replace WebError in future TurboGears2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/TurboGears/backlash", 
+  "info": {
+    "Author:": "Alessandro Molina", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "https://github.com/TurboGears/backlash", 
+    "Keywords:": "wsgi", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "pedersen", 
+    "Package Index Owner:": "amol"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Standalone WebOb port of the Werkeug Debugger with Python3 support meant to replace WebError in future TurboGears2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2618d236a2b92e5c3ebf454976101918", 
+  "source_uri": "https://pypi.python.org/packages/source/b/backlash/backlash-0.0.3.tar.gz"
+}

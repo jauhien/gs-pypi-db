@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Import CSV files to django models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/edcrewe/django-csvimport", 
+  "info": {
+    "Author:": "Ed Crewe", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/edcrewe/django-csvimport", 
+    "Keywords:": "CVS import django fixture", 
+    "License:": "Apache", 
+    "Package Index Owner:": "cmetc"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Import CSV files to django models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "166ef3f12711f9e2092ba636275b9d6b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-csvimport/django-csvimport-1.0.tar.gz"
+}

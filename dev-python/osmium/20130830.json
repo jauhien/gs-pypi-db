@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Osmium OSM processing library for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bitbucket.org/jokoala/pyosmium", 
+  "info": {
+    "Author:": "Johannes Kolb", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//osmium", 
+    "Home Page:": "http://www.bitbucket.org/jokoala/pyosmium", 
+    "Keywords:": "OSM,OpenStreetMap,Osmium", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jokoala"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Osmium OSM processing library for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e344d1f0a1ec0491267d47c92ff0751b", 
+  "source_uri": "https://pypi.python.org/packages/source/o/osmium/osmium-0.1a1-r10-79b0.tar.gz"
+}

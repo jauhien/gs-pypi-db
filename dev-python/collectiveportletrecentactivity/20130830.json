@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recent activity portlet for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.portlet.recentactivity", 
+  "info": {
+    "Author:": "Timo Stollenwerk", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.portlet.recentactivity", 
+    "License:": "GPL", 
+    "Package Index Owner:": "timo, ramon.nb, sneridagh"
+  }, 
+  "license": "", 
+  "longdescription": "Recent activity portlet for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "649009ade7ee3b019c39514b009790a7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.recentactivity/collective.portlet.recentactivity-1.0b6.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Additional option for Plone users, that make the reset password operation not available", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.unresettableuser", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "3.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.unresettableuser", 
+    "Keywords:": "plone user reset password", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "Additional option for Plone users, that make the reset password operation not available", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce892a525684e81db55f8f94c0e2181d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.unresettableuser/collective.unresettableuser-0.2.0.tar.gz"
+}

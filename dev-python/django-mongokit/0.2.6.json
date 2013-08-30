@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bridging Django to MongoDB with the MongoKit ODM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/peterbe/django-mongokit", 
+  "info": {
+    "Author:": "Peter Bengtsson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/peterbe/django-mongokit", 
+    "Package Index Owner:": "peterbe"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Bridging Django to MongoDB with the MongoKit ODM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "94e11def2c2f96388c02454cff026024", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mongokit/django-mongokit-0.2.6.tar.gz"
+}

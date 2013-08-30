@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Proxy backendsworkers for asynchronous email and sms sending using gearman as message queue.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.codescale.net/en/community#django-gearman-proxy", 
+  "info": {
+    "Author:": "Vladim\u00edr Gorej", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://github.com/codescaleinc/django-gearman-proxy/tarball/master", 
+    "Home Page:": "http://www.codescale.net/en/community#django-gearman-proxy", 
+    "Keywords:": "django gearman email sms asynchronous message queue", 
+    "License:": "BSD", 
+    "Package Index Owner:": "char0n.myopenid.com", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Proxy backendsworkers for asynchronous email and sms sending using gearman as message queue.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7de0448fecfe939c882c068bbcac0190", 
+  "source_uri": "http://github.com/codescaleinc/django-gearman-proxy/tarball/master"
+}

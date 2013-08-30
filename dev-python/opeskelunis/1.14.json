@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Different kind of buildout templates used by Quadra-Informatique", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/zopeskel.unis", 
+  "info": {
+    "Author:": "Quadra-Informatique", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Natural Language": [
+        "French"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/zopeskel.unis", 
+    "License:": "CeCill-B", 
+    "Package Index Maintainer:": "vloch, encolpe", 
+    "Package Index Owner:": "quadrainformatique, encolpe, vloch"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Different kind of buildout templates used by Quadra-Informatique", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb0e52f6bb12e0e2633c86e5e9ab0969", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zopeskel.unis/zopeskel.unis-1.14.zip"
+}

@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python SOAP server providing WSDL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/stepank/pyws", 
+  "info": {
+    "Author:": "Stepan N. Kornyakov", 
+    "Home Page:": "https://github.com/stepank/pyws", 
+    "Keywords:": "soap,wsdl,server,xml,json,web services", 
+    "License:": "MIT", 
+    "Package Index Owner:": "stepank", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "Python SOAP server providing WSDL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a9b312f344f660e065c5d41e58550a0", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyws/pyws-1.1.1.tar.gz"
+}

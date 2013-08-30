@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Core definitions of bibliograph packages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/bibliograph.core", 
+  "info": {
+    "Author:": "Tom Gross", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/bibliograph.core", 
+    "Keywords:": "bibtex bibliography xml endnote ris bibutils", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "raphael, pbugni, cewing", 
+    "Package Index Owner:": "iT0m, ajung"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Core definitions of bibliograph packages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b515150447f97567db3622fd5337b846", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bibliograph.core/bibliograph.core-1.0.3.tar.gz"
+}

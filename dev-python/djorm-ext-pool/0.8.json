@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DB-API2 connection pool for Django (for postgresql, mysql and sqlite)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/niwibe/djorm-ext-pool", 
+  "info": {
+    "Author:": "Andrey Antukh", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/niwibe/djorm-ext-pool", 
+    "License:": "BSD", 
+    "Package Index Owner:": "niwibe", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "DB-API2 connection pool for Django (for postgresql, mysql and sqlite)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bff8bf32ee3f7cde02589788a778939f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djorm-ext-pool/djorm-ext-pool-0.8.tar.gz"
+}

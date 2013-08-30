@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Minimalist DBMS middleware for keyvalue stores.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dw/centidb/", 
+  "info": {
+    "Author:": "David Wilson", 
+    "Home Page:": "http://github.com/dw/centidb/", 
+    "License:": "Apache 2", 
+    "Package Index Owner:": "dw"
+  }, 
+  "license": "", 
+  "longdescription": "Minimalist DBMS middleware for keyvalue stores.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "070393b0bce3f5f56667c21007fe76cc", 
+  "source_uri": "https://pypi.python.org/packages/source/c/centidb/centidb-0.11.tar.gz"
+}

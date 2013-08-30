@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small standalone django forums application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/byteweaver/django-forums", 
+  "info": {
+    "Author:": "byteweaver", 
+    "Home Page:": "https://github.com/byteweaver/django-forums", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "noxan"
+  }, 
+  "license": "", 
+  "longdescription": "Small standalone django forums application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dfcd5bd99a7bc76a2695aaa1c15ec2ef", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-forums/django-forums-0.0.9.tar.gz"
+}

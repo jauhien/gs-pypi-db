@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python script for summariing gcov data.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://software.sandia.gov/svn/public/fast/gcovr", 
+  "info": {
+    "Author:": "William Hart", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Unix Shell"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://software.sandia.gov/svn/public/fast/gcovr", 
+    "Keywords:": "utility", 
+    "License:": "BSD", 
+    "Package Index Owner:": "whart111", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Python script for summariing gcov data.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "672db629469882b93c40016aebff50ac", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gcovr/gcovr-2.4.tar.gz"
+}

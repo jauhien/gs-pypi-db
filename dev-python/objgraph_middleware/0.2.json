@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Memory data logging middleware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ignas Mikalajunas", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Keywords:": "web wsgi flask middleware objgraph memory profiling", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ignas"
+  }, 
+  "license": "", 
+  "longdescription": "Memory data logging middleware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95214bb6697a76f89502e0732f7547ac", 
+  "source_uri": "https://pypi.python.org/packages/source/o/objgraph_middleware/objgraph_middleware-0.2.tar.gz"
+}

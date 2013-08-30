@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display simple throughput statistics for network interface controllers. Requires Linux kernel  2.6", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Michael Jenny", 
+    "Keywords:": "bandwidth,throughput,network,monitoring,traffic", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "prinzdezibel"
+  }, 
+  "license": "", 
+  "longdescription": "Display simple throughput statistics for network interface controllers. Requires Linux kernel  2.6", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd4517df5186314fd2f7e782dfb81220", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ifstat/ifstat-1.0.3.tar.gz"
+}

@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app thats adds URL rules to redirect scripts looking for webapps exploits to their own IP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/quinode/scanredirect/", 
+  "info": {
+    "Author:": "Cooperative Quinode", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "French"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Download URL:": "https://github.com/quinode/scanredirect/tarball/master", 
+    "Home Page:": "https://github.com/quinode/scanredirect/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Quinode"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django app thats adds URL rules to redirect scripts looking for webapps exploits to their own IP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea54aea98b06dd640f13231593fdd2ba", 
+  "source_uri": "https://github.com/quinode/scanredirect/tarball/master"
+}

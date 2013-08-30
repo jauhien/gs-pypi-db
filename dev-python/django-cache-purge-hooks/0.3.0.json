@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Drop-in cache (e.g. varnish) purging hooks for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/realgeeks/django-cache-purge-hooks", 
+  "info": {
+    "Author:": "Shu Zong Chen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/realgeeks/django-cache-purge-hooks/downloads", 
+    "Home Page:": "https://bitbucket.org/realgeeks/django-cache-purge-hooks", 
+    "Keywords:": "django cache purge varnish hook", 
+    "License:": "MIT License", 
+    "Package Index Maintainer:": "realgeeks", 
+    "Package Index Owner:": "sirpengi", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Drop-in cache (e.g. varnish) purging hooks for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41fbe55a3d8b23d4579f8e2d6dcd500d", 
+  "source_uri": "https://bitbucket.org/realgeeks/django-cache-purge-hooks/downloads"
+}

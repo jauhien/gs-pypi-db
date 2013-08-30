@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pure python ICMP ping implementation using raw sockets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/socketubs/Pyping/", 
+  "info": {
+    "Author:": "Geoffrey Leh\u00e9e", 
+    "Home Page:": "https://github.com/socketubs/Pyping/", 
+    "Keywords:": "ping icmp network latency", 
+    "Package Index Owner:": "socketubs"
+  }, 
+  "license": "", 
+  "longdescription": "A pure python ICMP ping implementation using raw sockets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bae33343ba68ffdf961ac52efa37fc0e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyping/pyping-0.0.4.tar.gz"
+}

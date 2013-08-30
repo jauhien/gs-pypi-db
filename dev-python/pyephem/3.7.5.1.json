@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scientific-grade astronomy routines", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rhodesmill.org/pyephem/", 
+  "info": {
+    "Author:": "Brandon Craig Rhodes", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Home Page:": "http://rhodesmill.org/pyephem/", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "brandonrhodes"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Scientific-grade astronomy routines", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b08475dee615e5dfdc6fa7f66086944", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyephem/pyephem-3.7.5.1.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library of file utilities for use in Moilla testing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+  "info": {
+    "Author:": "Mozilla Automation and Tools team", 
+    "Home Page:": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+    "Keywords:": "mozilla", 
+    "License:": "MPL", 
+    "Package Index Owner:": "mdas, davehunt, David.Burns, elvis314, edmorley, markrcote, jgriffin, whimboo, wlach, ahal, ctalbert, k0s"
+  }, 
+  "license": "", 
+  "longdescription": "Library of file utilities for use in Moilla testing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef9dcd76e0a0b586df503a5f461f0f60", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozfile/mozfile-0.10.tar.gz"
+}

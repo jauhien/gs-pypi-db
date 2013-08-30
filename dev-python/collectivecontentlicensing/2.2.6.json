@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This tool is used to manage copyright licenses within plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/contentlicensing", 
+  "info": {
+    "Author:": "enPraxis", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/contentlicensing", 
+    "Keywords:": "Licensing License Creative-Commons GPL All-Rights-Reserved Copyright Rights", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "dimo", 
+    "Package Index Owner:": "blambert, dray, dimo"
+  }, 
+  "license": "", 
+  "longdescription": "This tool is used to manage copyright licenses within plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f27a4f2aebeccb7d6df86628fe018e8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentlicensing/collective.contentlicensing-2.2.6.tar.gz"
+}

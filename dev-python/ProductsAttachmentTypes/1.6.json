@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides attachment content types for link, image, and file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://raptus.com", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://raptus.com", 
+    "Keywords:": "plone archetypes attachment content", 
+    "License:": "GPL", 
+    "Package Index Owner:": "simu, raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Provides attachment content types for link, image, and file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a55b7b4dbf729e8f8f81e39b1e698a93", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.AttachmentTypes/Products.AttachmentTypes-1.6.tar.gz"
+}

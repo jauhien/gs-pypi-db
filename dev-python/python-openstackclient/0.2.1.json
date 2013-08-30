@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenStack Command-line Client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wiki.openstack.org/OpenStackClient", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://wiki.openstack.org/OpenStackClient", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "openstackci, sdirector"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "OpenStack Command-line Client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b99bd0892944fbd42f898083ce5cdf7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-openstackclient/python-openstackclient-0.2.1.tar.gz"
+}

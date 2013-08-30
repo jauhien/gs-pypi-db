@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django staticfiles post-processor for optimiing with RequireJS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/etianen/django-require", 
+  "info": {
+    "Author:": "Dave Hall", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/etianen/django-require", 
+    "License:": "BSD", 
+    "Package Index Owner:": "etianen"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django staticfiles post-processor for optimiing with RequireJS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "60b728cbe0927eb2f408dfb0e773550d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-require/django-require-1.0.4.tar.gz"
+}

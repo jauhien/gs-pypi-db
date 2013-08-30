@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A CPython extension module wrapping the libevent library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python-hpio.net/trac/wiki/LibEventPython", 
+  "info": {
+    "Author:": "Andy Gross", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://python-hpio.net/trac/wiki/LibEventPython", 
+    "License:": "BSD", 
+    "Package Index Owner:": "arg"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A CPython extension module wrapping the libevent library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d8880da249cd5d4821dbeb0f07f8c547", 
+  "source_uri": "https://pypi.python.org/packages/source/l/libevent-python/libevent-python-0.1a8.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python to GNU Octave bridge -- run m-files from python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/blink1073/oct2py", 
+  "info": {
+    "Author:": "Steven Silvester", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//oct2py", 
+    "Download URL:": "http://github.com/blink1073/oct2py", 
+    "Home Page:": "http://github.com/blink1073/oct2py", 
+    "License:": "MIT", 
+    "Package Index Owner:": "blink1073", 
+    "Platform:": "Any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python to GNU Octave bridge -- run m-files from python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65eaf2618971c3edbf8ca945f235d197", 
+  "source_uri": "http://github.com/blink1073/oct2py"
+}

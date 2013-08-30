@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cydra plugin for trac integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cydra.org", 
+  "info": {
+    "Author:": "Manuel Stocker", 
+    "Home Page:": "http://www.cydra.org", 
+    "Keywords:": "cydra trac", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mensi"
+  }, 
+  "license": "", 
+  "longdescription": "Cydra plugin for trac integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14a1c1038e4e037d5033cca3f9ea42d8", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CydraTrac/CydraTrac-0.2.tar.gz"
+}

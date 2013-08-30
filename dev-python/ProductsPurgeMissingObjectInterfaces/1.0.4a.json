@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A product for purging old and missing marker interfaces from objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nidelven-it.no/d", 
+  "info": {
+    "Author:": "Morten W. Petersen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.nidelven-it.no/d", 
+    "Keywords:": "python zope interfaces plone silva developers", 
+    "License:": "GPL", 
+    "Package Index Owner:": "morphex"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A product for purging old and missing marker interfaces from objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c4d75997300830bc778181ed5a3ce9c4", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PurgeMissingObjectInterfaces/Products.PurgeMissingObjectInterfaces-1.0.4a.tar.gz"
+}

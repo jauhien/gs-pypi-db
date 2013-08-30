@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration testing framework for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/plonetestcase", 
+  "info": {
+    "Author:": "Stefan H. Holek", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/plonetestcase", 
+    "Keywords:": "plone testing", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli, stefanholek, witsch, esteele, evilbungle"
+  }, 
+  "license": "", 
+  "longdescription": "Integration testing framework for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a5bfb94220a520961d710abc92280f2", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneTestCase/Products.PloneTestCase-0.9.17.zip"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple SQL-accessible RDF triple store", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.boddie.org.uk/python/sqltriples.html", 
+  "info": {
+    "Author:": "Paul Boddie", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://www.boddie.org.uk/python/downloads/sqltriples-0.3.3.tar.gz", 
+    "Home Page:": "http://www.boddie.org.uk/python/sqltriples.html", 
+    "Keywords:": "RDF SQL PostgreSQL pyPgSQL pysqlite pysqlite2 sqlite sqlite3", 
+    "License:": "LGPL (version 3 or later)", 
+    "Maintainer:": "Paul Boddie", 
+    "Package Index Owner:": "pboddie"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A simple SQL-accessible RDF triple store", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "140af7e550c3092dc08ba46673f83115", 
+  "source_uri": "http://www.boddie.org.uk/python/downloads/sqltriples-0.3.3.tar.gz"
+}

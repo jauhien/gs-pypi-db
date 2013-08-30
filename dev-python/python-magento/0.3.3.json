@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python wrapper to Magentos XML-RPC API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/voberoi/python-magento", 
+  "info": {
+    "Author:": "Vikram Oberoi", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/voberoi/python-magento", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "voberoi"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Python wrapper to Magentos XML-RPC API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66213a065d63dd15d6c1dce8b08d05a6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-magento/python-magento-0.3.3.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Live validation for Django forms. It validates as you type. Uses scripts from livevalidation.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/washingtontimes/django-livevalidation", 
+  "info": {
+    "Author:": "Justin Quick", 
+    "Home Page:": "http://github.com/washingtontimes/django-livevalidation", 
+    "Package Index Owner:": "justquick"
+  }, 
+  "license": "", 
+  "longdescription": "Live validation for Django forms. It validates as you type. Uses scripts from livevalidation.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6bc7b19e5c809fb40b7bb04adbd90938", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-livevalidation/django-livevalidation-0.1.1.tar.gz"
+}

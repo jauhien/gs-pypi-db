@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily load database snapshots across deployments", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://priestc.github.com/django-easydump/", 
+  "info": {
+    "Author:": "Chris Priest", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://priestc.github.com/django-easydump/", 
+    "Keywords:": "django dump database", 
+    "Package Index Owner:": "nbvfour"
+  }, 
+  "license": "", 
+  "longdescription": "Easily load database snapshots across deployments", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc404faa717c2a79ffa46fdec4ca4e93", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-easydump/django-easydump-0.2.6.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-fixture-generator is a reusable django application to make writing fixtures not suck.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/alex/django-fixture-generator/tree/master", 
+  "info": {
+    "Author:": "Alex Gaynor", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/alex/django-fixture-generator/tree/master", 
+    "Package Index Owner:": "alexgaynor"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-fixture-generator is a reusable django application to make writing fixtures not suck.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae737ebe5f71df19b3bc320c6fb6c70a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fixture-generator/django-fixture-generator-0.2.0.tar.gz"
+}

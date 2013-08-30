@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tastypie authoriation class that handles guardian permissions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/airtonix/django-guardianpie", 
+  "info": {
+    "Author:": "Zenobius Jiricek", 
+    "Home Page:": "http://github.com/airtonix/django-guardianpie", 
+    "Package Index Owner:": "airtonix"
+  }, 
+  "license": "", 
+  "longdescription": "Tastypie authoriation class that handles guardian permissions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7be428d82f05e7389fe9f28d06a74f9a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-guardianpie/django-guardianpie-0.0.3.tar.gz"
+}

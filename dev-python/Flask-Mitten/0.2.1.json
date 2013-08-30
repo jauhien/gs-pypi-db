@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds security functions to Flask applications for preventing some of the basic threats.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lanius/flask-mitten", 
+  "info": {
+    "Author:": "lanius", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lanius/flask-mitten", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lanius", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds security functions to Flask applications for preventing some of the basic threats.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ac8311a863b560d441c8e423f05166f", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Mitten/Flask-Mitten-0.2.1.zip"
+}

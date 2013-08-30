@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backend for the elpy Emacs mode", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jorgenschaefer/elpy", 
+  "info": {
+    "Author:": "Jorgen Schaefer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Topic": [
+        "Text Editors", 
+        "Emacs"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jorgenschaefer/elpy", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jorgenschaefer"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Backend for the elpy Emacs mode", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b4597984e9c6a6b23ca42775fa355d3", 
+  "source_uri": "https://pypi.python.org/packages/source/e/elpy/elpy-1.1.1.tar.gz"
+}

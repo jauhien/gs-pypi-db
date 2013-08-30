@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This Wsgi middleware, takes the language from urls similiar to esdocuments or from the Accept language header.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dperezrada/wsgi-language-middleware", 
+  "info": {
+    "Author:": "Daniel Perez Rada", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dperezrada/wsgi-language-middleware", 
+    "Keywords:": "wsgi middleware language i18n translation", 
+    "License:": "GNU Public License v3.0", 
+    "Package Index Owner:": "dperezrada"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This Wsgi middleware, takes the language from urls similiar to esdocuments or from the Accept language header.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5687386f9badbf877f30555fda22c1b0", 
+  "source_uri": "https://pypi.python.org/packages/source/l/language_middleware/language_middleware-0.2.0.tar.gz"
+}

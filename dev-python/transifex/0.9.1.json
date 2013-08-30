@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The software behind Transifex.com, the open service to collaboratively translate software, documentation and websites.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://transifex.org/", 
+  "info": {
+    "Author:": "The Transifex community and the staff of Indifex", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "Polish"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Localization"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//transifex", 
+    "Home Page:": "http://transifex.org/", 
+    "Keywords:": "django.app,translation localization internationalization vcs", 
+    "License:": "GPLv2", 
+    "Package Index Maintainer:": "glezos, kbairak, diegobz", 
+    "Package Index Owner:": "glezos, kbairak, diegobz"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "The software behind Transifex.com, the open service to collaboratively translate software, documentation and websites.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5864502a0b4a014e3938e40785be370b", 
+  "source_uri": "https://pypi.python.org/packages/source/t/transifex/transifex-0.9.1.tar.gz"
+}

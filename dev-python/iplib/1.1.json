@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "convert amongst many different IPv4 notations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://erlug.linux.it/~da/soft/iplib/", 
+  "info": {
+    "Author:": "Davide Alberani", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://erlug.linux.it/~da/soft/iplib/", 
+    "Home Page:": "http://erlug.linux.it/~da/soft/iplib/", 
+    "Keywords:": "ip,address,quad,dot,notation,binary,octal,hexadecimal,netmask,cidr,internet", 
+    "License:": "GPL, BSD", 
+    "Package Index Owner:": "alberanid", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "convert amongst many different IPv4 notations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3437ddbfc1986b2d06e7f4a0724ac5a0", 
+  "source_uri": "http://erlug.linux.it/~da/soft/iplib/"
+}

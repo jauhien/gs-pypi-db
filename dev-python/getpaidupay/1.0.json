@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A PloneGetPaid payment processor using the TouchNet uPay site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ianderso/getpaid.upay", 
+  "info": {
+    "Author:": "Ian Anderson", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ianderso/getpaid.upay", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ianderso"
+  }, 
+  "license": "", 
+  "longdescription": "A PloneGetPaid payment processor using the TouchNet uPay site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01a5bc6fe3a63d21104d6499fc254b38", 
+  "source_uri": "https://pypi.python.org/packages/source/g/getpaid.upay/getpaid.upay-1.0.zip"
+}

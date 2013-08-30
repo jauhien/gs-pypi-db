@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PythonNURBS is the Python language binding for the NURBS++ library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/PythonNURBS", 
+  "info": {
+    "Author:": "Oliver Borm", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/PythonNURBS", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "boroli"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "PythonNURBS is the Python language binding for the NURBS++ library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7b19c19ab91cb46b4aa4e9e656ce43f", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PythonNURBS/PythonNURBS-0.3.tar.gz"
+}

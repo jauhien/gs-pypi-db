@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "test publishing on pypi", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fspot/fspotlib", 
+  "info": {
+    "Author:": "fspot", 
+    "Home Page:": "http://github.com/fspot/fspotlib", 
+    "License:": "WTFPL", 
+    "Package Index Owner:": "fspot"
+  }, 
+  "license": "", 
+  "longdescription": "test publishing on pypi", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3cc0f2e1ac09c6ec3e1d96797d91a949", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fspotlib/fspotlib-0.0.2.tar.gz"
+}

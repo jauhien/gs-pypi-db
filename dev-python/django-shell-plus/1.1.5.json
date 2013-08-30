@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-admin.py shell+  - shell with models auto-imported", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/schinckel/django-shell+/", 
+  "info": {
+    "Author:": "Matthew Schinckel", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/schinckel/django-shell+/", 
+    "Package Index Owner:": "schinckel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-admin.py shell+  - shell with models auto-imported", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9048de9adc1d22ec4bbae59eb5f24af4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-shell-plus/django-shell-plus-1.1.5.tar.gz"
+}

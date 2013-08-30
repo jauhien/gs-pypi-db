@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Multi-producer-multi-consumer signal dispatching mechanism", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pydispatcher.sourceforge.net", 
+  "info": {
+    "Author:": "Mike C. Fletcher", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pydispatcher.sourceforge.net", 
+    "Keywords:": "dispatcher,dispatch,pydispatch,event,signal,sender,receiver,propagate,multi-consumer,multi-producer,saferef,robustapply,apply", 
+    "License:": "BSD-style, see license.txt for details", 
+    "Package Index Owner:": "mcfletch", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Multi-producer-multi-consumer signal dispatching mechanism", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d31581da170810315fc2539e967ad8cf", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyDispatcher/PyDispatcher-2.0.3.tar.gz"
+}

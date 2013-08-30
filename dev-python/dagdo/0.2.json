@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dependency and deadline-aware task tracking", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nejucomo/dagdo", 
+  "info": {
+    "Author:": "Nathan Wilcox", 
+    "Home Page:": "https://bitbucket.org/nejucomo/dagdo", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "nejucomo"
+  }, 
+  "license": "", 
+  "longdescription": "Dependency and deadline-aware task tracking", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75a0e577f44ef72776833f76d5269f1a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dagdo/dagdo-0.2.tar.gz"
+}

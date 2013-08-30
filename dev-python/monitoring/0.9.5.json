@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Server monitoring and data-collection daemon", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sebastien/monitoring", 
+  "info": {
+    "Author:": "S\u00e9bastien Pierre", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://github.com/sebastien/monitoring/tarball/0.9.5", 
+    "Home Page:": "http://github.com/sebastien/monitoring", 
+    "Keywords:": "daemon,services,monitoring,administration", 
+    "License:": "License :: OSI Approved :: BSD License", 
+    "Package Index Owner:": "sebastien"
+  }, 
+  "license": "", 
+  "longdescription": "Server monitoring and data-collection daemon", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f87601f4c56e2f1a506bf2f46968ade", 
+  "source_uri": "https://github.com/sebastien/monitoring/tarball/0.9.5"
+}

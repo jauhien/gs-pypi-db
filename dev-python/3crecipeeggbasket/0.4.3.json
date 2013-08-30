@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Install eggs from a tarball and create that egg.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/grok", 
+  "info": {
+    "Author:": "Grok Team", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/grok", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "maurits, philikon, faassen, jw"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Install eggs from a tarball and create that egg.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3afab7e7557c01aa403baafec102c03", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.recipe.eggbasket/z3c.recipe.eggbasket-0.4.3.tar.gz"
+}

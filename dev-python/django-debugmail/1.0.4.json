@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Debug based e-mail backend.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/radiosilence/django-debugmail.git", 
+  "info": {
+    "Author:": "James Cleveland", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/radiosilence/django-debugmail.git", 
+    "Package Index Owner:": "antihero"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Debug based e-mail backend.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41350a5b5cad3b3adb8620208b09dfe5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-debugmail/django-debugmail-1.0.4.tar.gz"
+}

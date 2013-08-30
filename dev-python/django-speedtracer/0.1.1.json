@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Profile your Django site using Google Chromes SpeedTracer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/acdha/django-speedtracer", 
+  "info": {
+    "Author:": "Chris Adams", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/acdha/django-speedtracer", 
+    "License:": "BSD", 
+    "Package Index Owner:": "acdha"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Profile your Django site using Google Chromes SpeedTracer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "759f7f21f8b0ab3dab5af620add6c350", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-speedtracer/django-speedtracer-0.1.1.tar.gz"
+}

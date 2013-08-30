@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Export a graph of link between crawled items in dot file format.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/noplay/scrapy-dot", 
+  "info": {
+    "Author:": "Julien Duponchelle", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/noplay/scrapy-dot", 
+    "Keywords:": "scrapy dot graphviz", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "noplay", 
+    "Platform:": "Any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Export a graph of link between crawled items in dot file format.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8387417df07a56a8d87a2576e8a03252", 
+  "source_uri": "https://pypi.python.org/packages/source/S/ScrapyDot/ScrapyDot-0.1.tar.gz"
+}

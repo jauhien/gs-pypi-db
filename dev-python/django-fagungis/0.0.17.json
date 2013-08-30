@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DJANGO + FAbric + GUnicorn + NGInx + Supervisor deployment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/DNX/django-fagungis/wiki/Home", 
+  "info": {
+    "Author:": "Denis Darii", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/DNX/django-fagungis/downloads", 
+    "Home Page:": "https://bitbucket.org/DNX/django-fagungis/wiki/Home", 
+    "Keywords:": "django fabric gunicorn nginx supervisor", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "dnx"
+  }, 
+  "license": "", 
+  "longdescription": "DJANGO + FAbric + GUnicorn + NGInx + Supervisor deployment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b8e9ea2e5c546bd8b3841326467b1f8", 
+  "source_uri": "http://bitbucket.org/DNX/django-fagungis/downloads"
+}

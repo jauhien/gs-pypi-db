@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Builds upon a PipeStack architecture to provide a nice way of writing apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jimmyg.org/work/code/appdispatch/index.html", 
+  "info": {
+    "Author:": "James Gardner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://jimmyg.org/work/code/appdispatch/index.html", 
+    "License:": "GNU AGPLv3", 
+    "Package Index Owner:": "thejimmyg"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Builds upon a PipeStack architecture to provide a nice way of writing apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "07121a4f5ab8316cdbb39bae91e50a17", 
+  "source_uri": "https://pypi.python.org/packages/source/A/AppDispatch/AppDispatch-0.3.4.tar.gz"
+}

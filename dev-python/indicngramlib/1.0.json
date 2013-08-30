@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "N-Gram library for Indic Unicode text", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jaganadhg.freeflux.net/blog/archive/2009/07/22/n-gram-library-for-indian-languages.html", 
+  "info": {
+    "Author:": "Jaganadh G", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Home Page:": "http://jaganadhg.freeflux.net/blog/archive/2009/07/22/n-gram-library-for-indian-languages.html", 
+    "Keywords:": "N-Gram, Natural Language Processing,Python", 
+    "License:": "GPLV3", 
+    "Maintainer:": "Jaganadh G", 
+    "Package Index Owner:": "jaganadhg", 
+    "Platform:": "This script is for to generate n-gram(unigram, bigram, trigram) from Indic\n, Unicode text.\n, To read more about N-Gram please visit http://en.wikipedia.org/wiki/N-gram.\n, \n, This script is released under GNU GPL licence."
+  }, 
+  "license": "", 
+  "longdescription": "N-Gram library for Indic Unicode text", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88994841771c58184380f1d28646800c", 
+  "source_uri": "https://pypi.python.org/packages/source/i/indicngramlib/indicngramlib-1.0.tar.gz"
+}

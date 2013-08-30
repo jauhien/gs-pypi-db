@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A backend messaging server for ope2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.example", 
+  "info": {
+    "Author:": "JC Brand", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.example", 
+    "Keywords:": "chat zope plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jcbrand, pilz, goibhniu, do3cc, thomasw"
+  }, 
+  "license": "", 
+  "longdescription": "A backend messaging server for ope2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a242e9ec9795a7b0a6554c8164192c8b", 
+  "source_uri": "https://pypi.python.org/packages/source/b/babble.server/babble.server-1.1.zip"
+}

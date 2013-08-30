@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Process coordinator for tests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mlen/summon_process", 
+  "info": {
+    "Author:": "Mateusz Lenik", 
+    "Home Page:": "https://github.com/mlen/summon_process", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "mlen"
+  }, 
+  "license": "", 
+  "longdescription": "Process coordinator for tests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1e968c542c62d8f9c22edf4c8f22000b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/summon_process/summon_process-0.1.2.tar.gz"
+}

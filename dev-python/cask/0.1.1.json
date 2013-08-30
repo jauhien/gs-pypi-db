@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Injector-enabled Python application microframework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jstasiak/cask", 
+  "info": {
+    "Author:": "Jakub Stasiak", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jstasiak/cask", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jstasiak"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Injector-enabled Python application microframework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2cfb27a3bc4f737881770bec89f3f967", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cask/cask-0.1.1.tar.gz"
+}

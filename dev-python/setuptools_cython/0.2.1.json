@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cython setuptools integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/setuptools_cython/", 
+  "info": {
+    "Author:": "Gabriel de Perthuis", 
+    "Categories": {
+      "Framework": [
+        "Setuptools Plugin"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/setuptools_cython/", 
+    "License:": "http://www.gnu.org/licenses/gpl-2.0.html", 
+    "Package Index Owner:": "g2p"
+  }, 
+  "license": "", 
+  "longdescription": "Cython setuptools integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c29fc5bf2894e69cbd98e3800cef4707", 
+  "source_uri": "https://pypi.python.org/packages/source/s/setuptools_cython/setuptools_cython-0.2.1.tar.gz"
+}

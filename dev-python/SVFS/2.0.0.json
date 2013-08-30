@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Multi-purpose virtual file system inside single file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/svfs/", 
+  "info": {
+    "Author:": "Andrew Stolberg", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Education"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/svfs/", 
+    "Keywords:": "filesystem,archiving,file-system", 
+    "License:": "GPLv2+", 
+    "Maintainer:": "Andrew Stolberg", 
+    "Package Index Owner:": "Andrew.Stolberg", 
+    "Platform:": "Cross-platform"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "Multi-purpose virtual file system inside single file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eb0f2335582f5a5cce7d4961b243f735", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SVFS/SVFS-2.0.0.tar.gz"
+}

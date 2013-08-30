@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SMS sending and receiving with enfora gsm modems", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/sms", 
+  "info": {
+    "Author:": "Amos Latteier", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Telephony"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/sms", 
+    "License:": "MIT", 
+    "Package Index Owner:": "amos"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "SMS sending and receiving with enfora gsm modems", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "074fba15815741579b8be4a47681c697", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sms/sms-0.4.tar.gz"
+}

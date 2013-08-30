@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "export any page as a pdf document", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-pdfexport", 
+  "info": {
+    "Author:": "LOGILAB S.A. (Paris, FRANCE)", 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-pdfexport", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "export any page as a pdf document", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fbb174718b72bac80084885c9abebc58", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-pdfexport/cubicweb-pdfexport-0.1.0.tar.gz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An installable theme for Plone 4 that uses a fluid grid system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "WebLion", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "robzonenet"
+  }, 
+  "license": "", 
+  "longdescription": "An installable theme for Plone 4 that uses a fluid grid system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b01e38b3b5392170b8a55d1f70f3463a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonetheme.responsivetheme/plonetheme.responsivetheme-1.1.4.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The act of tagging content is tedious and humans will often fail to do it. Taghelper examines the content and extracts the keywords that are most relevant.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.taghelper/", 
+  "info": {
+    "Author:": "Christian Ledermann", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.taghelper/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Christian.Ledermann"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "The act of tagging content is tedious and humans will often fail to do it. Taghelper examines the content and extracts the keywords that are most relevant.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ff394df7a2d11011a06063a988a1997", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.taghelper/collective.taghelper-0.3.1.tar.gz"
+}

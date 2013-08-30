@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python trash manager.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Kwpolska/trashman", 
+  "info": {
+    "Author:": "Kwpolska", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//trashman", 
+    "Home Page:": "https://github.com/Kwpolska/trashman", 
+    "License:": "3-clause BSD", 
+    "Package Index Owner:": "Kwpolska", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Python trash manager.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7ffe7357547132883db1da39ba0d5103", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trashman/trashman-1.0.4.tar.gz"
+}

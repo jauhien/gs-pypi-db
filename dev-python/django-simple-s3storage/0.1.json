@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple django storage backend for Amaon S3 built ontop of Boto.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.kaelten.com/django-simple-s3storage", 
+  "info": {
+    "Author:": "Bryan McLemore", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.kaelten.com/django-simple-s3storage", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Kaelten"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple django storage backend for Amaon S3 built ontop of Boto.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0afb7da29dd4083a226131da681c5ec1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-simple-s3storage/django-simple-s3storage-0.1.tar.gz"
+}

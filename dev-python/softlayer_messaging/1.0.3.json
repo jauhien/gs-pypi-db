@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SoftLayer Message Queue Client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sldn.softlayer.com/reference/messagequeueapi", 
+  "info": {
+    "Author:": "SoftLayer Technologies, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://sldn.softlayer.com/reference/messagequeueapi", 
+    "License:": "The BSD License", 
+    "Package Index Owner:": "SoftLayer, sudorandom"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "SoftLayer Message Queue Client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "09f8217a460ed269611ee3d9b651b8b3", 
+  "source_uri": "https://pypi.python.org/packages/source/s/softlayer_messaging/softlayer_messaging-1.0.3.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A gnome shell search provider for apps.fp.opackages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ralphbean/gnome-shell-search-fedora-packages", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Home Page:": "http://github.com/ralphbean/gnome-shell-search-fedora-packages", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "A gnome shell search provider for apps.fp.opackages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f6fd33691a93f41c0fc6502e753bc3b4", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gnome-shell-search-fedora-packages/gnome-shell-search-fedora-packages-1.1.2.tar.gz"
+}

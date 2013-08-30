@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django site-wide management commands and utilities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://projects.ninemoreminutes.com/projects/django-site-utils/", 
+  "info": {
+    "Author:": "Nine More Minutes, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://projects.ninemoreminutes.com/projects/django-site-utils/", 
+    "Keywords:": "django site", 
+    "License:": "BSD", 
+    "Package Index Owner:": "cchurch"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django site-wide management commands and utilities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "50ab27348bdea33aac65fbc7e1e91735", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-site-utils/django-site-utils-0.1a3.tar.gz"
+}

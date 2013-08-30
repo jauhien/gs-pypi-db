@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool for grepping through source code", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/eliben/pss", 
+  "info": {
+    "Author:": "Eli Bendersky", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/eliben/pss", 
+    "License:": "Public domain", 
+    "Package Index Owner:": "eliben", 
+    "Platform:": "Cross Platform"
+  }, 
+  "license": "", 
+  "longdescription": "Tool for grepping through source code", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "de5c40b9393e97aebbe000dcb644718a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pss/pss-1.38.tar.gz"
+}

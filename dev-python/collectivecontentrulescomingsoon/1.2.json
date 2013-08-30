@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A rule type which is handled when an event, or any content having a start date, will begin tomorrow, or within any delay.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.contentrules.comingsoon", 
+  "info": {
+    "Author:": "Thomas Desvenain", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.contentrules.comingsoon", 
+    "Keywords:": "datetime", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cedricmessiant, vincentfretin, tdesvenain"
+  }, 
+  "license": "", 
+  "longdescription": "A rule type which is handled when an event, or any content having a start date, will begin tomorrow, or within any delay.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7ab38e946eb53707cc5507091d3603d2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentrules.comingsoon/collective.contentrules.comingsoon-1.2.zip"
+}

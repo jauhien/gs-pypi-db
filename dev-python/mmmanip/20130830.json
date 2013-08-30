@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for manipulating a mailman list (subscribe, query, remove) via HTTP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ralphbean/mmmanip", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ralphbean/mmmanip", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for manipulating a mailman list (subscribe, query, remove) via HTTP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5c99c995e5c2c063eb155759d96b7176", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mmmanip/mmmanip-0.1a3dev.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A dashboard for managing RQ in the Django admin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/brutasse/django-rq-dashboard", 
+  "info": {
+    "Author:": "Bruno Reni\u00e9", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/brutasse/django-rq-dashboard", 
+    "License:": "BSD licence, see LICENCE file", 
+    "Package Index Owner:": "bruno"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A dashboard for managing RQ in the Django admin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "602d93ba3ea0795dc71133545f19fa9f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-rq-dashboard/django-rq-dashboard-0.2.tar.gz"
+}

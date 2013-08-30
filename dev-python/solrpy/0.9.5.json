@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client for the Solr search service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/solrpy", 
+  "info": {
+    "Documentation:": "http://pythonhosted.org//solrpy", 
+    "Home Page:": "http://code.google.com/p/solrpy", 
+    "License:": "http://opensource.org/licenses/apache2.0.php", 
+    "Package Index Maintainer:": "fdrake", 
+    "Package Index Owner:": "esummers, fdrake"
+  }, 
+  "license": "", 
+  "longdescription": "Client for the Solr search service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d044b7ab09b362ccef7bd168542b28c1", 
+  "source_uri": "https://pypi.python.org/packages/source/s/solrpy/solrpy-0.9.5.tar.gz"
+}

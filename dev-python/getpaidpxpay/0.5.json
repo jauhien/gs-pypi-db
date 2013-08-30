@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PXPay payment plugin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "getpaid community", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Keywords:": "getpaid pxpay payment", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "lucielejard", 
+    "Package Index Owner:": "matthalstead, lucielejard"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "PXPay payment plugin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6037529083a39febc363347fd9f3adad", 
+  "source_uri": "https://pypi.python.org/packages/source/g/getpaid.pxpay/getpaid.pxpay-0.5.tar.gz"
+}

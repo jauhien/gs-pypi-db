@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app to let your website visitors registerlogin using LastFM authentication webservice.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/matagus/django-lastfm-auth", 
+  "info": {
+    "Author:": "Matias Agustin Mendez", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/matagus/django-lastfm-auth", 
+    "License:": "MIT", 
+    "Package Index Owner:": "matagus"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django app to let your website visitors registerlogin using LastFM authentication webservice.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7d71df051cf88879280ae92e4bcd4203", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-lastfmauth/django-lastfmauth-0.1a2.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line interface to and serialiation format for Blosc", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/esc/bloscpack", 
+  "info": {
+    "Author:": "Valentin Haenel", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/esc/bloscpack", 
+    "License:": "MIT", 
+    "Package Index Owner:": "esc"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Command line interface to and serialiation format for Blosc", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "72b2fea62b42633766bf8d9f60ba0962", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bloscpack/bloscpack-0.4.0-rc1.tar.gz"
+}

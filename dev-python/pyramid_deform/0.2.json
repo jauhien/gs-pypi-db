@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bindings to the Deform form library for the Pyramid web framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.pylonshq.com", 
+  "info": {
+    "Author:": "Chris McDonough, Agendaless Consulting", 
+    "Categories": {
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ]
+    }, 
+    "Home Page:": "http://docs.pylonshq.com", 
+    "Keywords:": "web wsgi pyramid pylons deform forms form", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "nouri, chrism"
+  }, 
+  "license": "", 
+  "longdescription": "Bindings to the Deform form library for the Pyramid web framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd2818f1b5f19062798dbb947a01497c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_deform/pyramid_deform-0.2.tar.gz"
+}

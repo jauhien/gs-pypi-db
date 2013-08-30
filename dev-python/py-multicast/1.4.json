@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Multicast Toolkit for Linux", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://coobs.eu.org/py-multicast/", 
+  "info": {
+    "Author:": "Jakub Wroniecki", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ]
+    }, 
+    "Home Page:": "http://coobs.eu.org/py-multicast/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Jakub.Wroniecki"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python Multicast Toolkit for Linux", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73a9e69afa776f9c9cc25399e76cccb6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py-multicast/py-multicast-1.4.tar.gz"
+}

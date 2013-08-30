@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Audit configuration and security issues for an Apache CouchDB server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/couchdb-auditor/", 
+  "info": {
+    "Author:": "Alexander Shorin", 
+    "Home Page:": "http://code.google.com/p/couchdb-auditor/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Alexander.Shorin"
+  }, 
+  "license": "", 
+  "longdescription": "Audit configuration and security issues for an Apache CouchDB server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2bc50e1a1cd539fce6785b1753855c37", 
+  "source_uri": "https://pypi.python.org/packages/source/c/couchdb-auditor/couchdb-auditor-0.2.tar.gz"
+}

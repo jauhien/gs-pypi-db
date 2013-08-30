@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings to agrep, a fuy string matching tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://j-raedler.de/pages/software/fugrep.php", 
+  "info": {
+    "Author:": "Joerg Raedler", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Freely Distributable"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "C"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "http://j-raedler.de/pages/software/fugrep.php", 
+    "Home Page:": "http://j-raedler.de/pages/software/fugrep.php", 
+    "License:": "BSD License - http://www.opensource.org/licenses/bsd-license.php", 
+    "Package Index Owner:": "jraedler"
+  }, 
+  "license": "Freely Distributable", 
+  "longdescription": "Python bindings to agrep, a fuy string matching tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://j-raedler.de/pages/software/fugrep.php"
+}

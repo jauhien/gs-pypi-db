@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The inverse of git archive. Adds a new commit from an archiveor the filesystem.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mbr/gittar", 
+  "info": {
+    "Author:": "Marc Brinkmann", 
+    "Home Page:": "http://github.com/mbr/gittar", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mbr"
+  }, 
+  "license": "", 
+  "longdescription": "The inverse of git archive. Adds a new commit from an archiveor the filesystem.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dbc7e441a2c042f9ae304c00e52a5628", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gittar/gittar-0.4.1.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Unified command line interface for git, mercurial, and subversion.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aelgru/committer", 
+  "info": {
+    "Author:": "Michael Gruber", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "https://github.com/aelgru/committer", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "Michael.Gruber"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Unified command line interface for git, mercurial, and subversion.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9cdc157709e080bc5dec81ea49ad084a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/committer/committer-0.0.93.tar.gz"
+}

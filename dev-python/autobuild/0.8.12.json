@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Linden Lab Automated Package Management and Build System", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wiki.secondlife.com/wiki/Autobuild", 
+  "info": {
+    "Author:": "Brad Linden", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://wiki.secondlife.com/wiki/Autobuild", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Nat.Goodspeed", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Linden Lab Automated Package Management and Build System", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e7635e7bfac7f9ad3a70f80b0a01ee18", 
+  "source_uri": "https://pypi.python.org/packages/source/a/autobuild/autobuild-0.8.12.tar.gz"
+}

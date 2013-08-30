@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GenericSetup support for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://agendaless.com/software/plone_gs", 
+  "info": {
+    "Author:": "Tres Seaver, Agendaless Consulting", 
+    "Home Page:": "http://agendaless.com/software/plone_gs", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tseaver"
+  }, 
+  "license": "", 
+  "longdescription": "GenericSetup support for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f45670d22691402831b5b787c71b273a", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.plone_gs/Products.plone_gs-0.3.1.tar.gz"
+}

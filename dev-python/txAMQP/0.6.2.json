@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library for communicating with AMQP peers and brokers using Twisted", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/txamqp", 
+  "info": {
+    "Author:": "Esteve Fernandez", 
+    "Home Page:": "https://launchpad.net/txamqp", 
+    "Package Index Owner:": "esteve"
+  }, 
+  "license": "", 
+  "longdescription": "Python library for communicating with AMQP peers and brokers using Twisted", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c3e9c42d60d06b088d91ed9ba159e13", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txAMQP/txAMQP-0.6.2.tar.gz"
+}

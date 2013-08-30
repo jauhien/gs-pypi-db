@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper for ruby less so that its in a virtualenv.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Michael Axiak", 
+    "License:": "Apache 2", 
+    "Package Index Owner:": "axiak"
+  }, 
+  "license": "", 
+  "longdescription": "Wrapper for ruby less so that its in a virtualenv.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26a1eb8b8b222de1dbba65da3fda36be", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lessrb/lessrb-0.0.5.tar.gz"
+}

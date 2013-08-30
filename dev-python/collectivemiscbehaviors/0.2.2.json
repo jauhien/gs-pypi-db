@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Miscellaneous behaviors for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.miscbehaviors", 
+  "info": {
+    "Author:": "Izhar Firdaus", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.miscbehaviors", 
+    "Keywords:": "plone dexterity behavior", 
+    "License:": "GPL", 
+    "Package Index Owner:": "kagesenshi"
+  }, 
+  "license": "", 
+  "longdescription": "Miscellaneous behaviors for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7d8e2873b4f521f612387ec66850c9e6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.miscbehaviors/collective.miscbehaviors-0.2.2.zip"
+}

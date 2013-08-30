@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parse realtime Nagios Data from status.dat and objects.cache, do useful stuff with it", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zebpalmer/NagiosParser", 
+  "info": {
+    "Author:": "Matt Kennedy & Zeb Palmer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zebpalmer/NagiosParser", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "zebpalmer"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Parse realtime Nagios Data from status.dat and objects.cache, do useful stuff with it", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87e6a64445d027af96f85d8e66c65bca", 
+  "source_uri": "https://pypi.python.org/packages/source/N/NagParser/NagParser-0.0.26.tar.gz"
+}

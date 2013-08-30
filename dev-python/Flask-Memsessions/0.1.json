@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple extension to drop in memcached session support for Flask.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/petermelias/flask-memsessions", 
+  "info": {
+    "Author:": "Peter M. Elias", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/petermelias/flask-memsessions", 
+    "License:": "BSD", 
+    "Package Index Owner:": "petermelias", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple extension to drop in memcached session support for Flask.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc76ac646da7d4397e68adc18ee1430d", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Memsessions/Flask-Memsessions-0.1.zip"
+}

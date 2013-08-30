@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A reusable Django field that allows you to store validated JSON in your model.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bradjasper/django-jsonfield/", 
+  "info": {
+    "Author:": "Brad Jasper", 
+    "Home Page:": "https://github.com/bradjasper/django-jsonfield/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bradjasper"
+  }, 
+  "license": "", 
+  "longdescription": "A reusable Django field that allows you to store validated JSON in your model.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21647fcf64663c226ee2fd0439151d13", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jsonfield/jsonfield-0.9.18.tar.gz"
+}

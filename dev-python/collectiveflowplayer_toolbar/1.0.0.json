@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone module which add an accessible Javascript controlsbar to collective.flowplayer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.flowplayer_toolbar", 
+  "info": {
+    "Author:": "Keul", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.4"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Video"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.flowplayer_toolbar", 
+    "Keywords:": "flowplayer javascript media player accessibility video", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone module which add an accessible Javascript controlsbar to collective.flowplayer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89ccb88ee4a1cab5d74e61f101aa2bb6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.flowplayer_toolbar/collective.flowplayer_toolbar-1.0.0.tar.gz"
+}

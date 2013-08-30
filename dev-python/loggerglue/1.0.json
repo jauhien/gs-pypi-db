@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Syslog protocol (rfc5424 and rfc5425) utilities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.evax.fr/", 
+  "info": {
+    "Author:": "Evax Software", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//loggerglue", 
+    "Home Page:": "http://www.evax.fr/", 
+    "Keywords:": "syslog,rfc5424,rfc5425,TLS", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "EvaxSoftware"
+  }, 
+  "license": "", 
+  "longdescription": "Syslog protocol (rfc5424 and rfc5425) utilities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47a970a343e158db62923d2b9029fa1c", 
+  "source_uri": "https://pypi.python.org/packages/source/l/loggerglue/loggerglue-1.0.tar.gz"
+}

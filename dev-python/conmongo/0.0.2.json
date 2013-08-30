@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Flask microplugin based on pymongo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pennappslabs/conmongo", 
+  "info": {
+    "Author:": "Ceasar Bautista", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/pennappslabs/conmongo", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ceasar", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Flask microplugin based on pymongo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f0616e4df51923ae3968ac0ab148969", 
+  "source_uri": "https://pypi.python.org/packages/source/c/conmongo/conmongo-0.0.2.tar.gz"
+}

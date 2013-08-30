@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send emails of the output files in post-process", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyfproject.org", 
+  "info": {
+    "Author:": "Jonathan Schemoul, Mathieu Bridon", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pyfproject.org", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jschemoul"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Send emails of the output files in post-process", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f508bb76f649b0f5bc6365b1e091cd6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyf.components.postprocess.email_sender/pyf.components.postprocess.email_sender-0.2.tar.gz"
+}

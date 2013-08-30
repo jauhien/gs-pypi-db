@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Writing a good summary (description) is hard,                let the Open Text Summarier (OTS) do the heavy lifting.                This tool extracts a summary of the content and sets it                as the description of the content item you added", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.ots", 
+  "info": {
+    "Author:": "Christian Ledermann", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.ots", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Christian.Ledermann"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Writing a good summary (description) is hard,                let the Open Text Summarier (OTS) do the heavy lifting.                This tool extracts a summary of the content and sets it                as the description of the content item you added", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6094b44c4ac27c27d3e2e2f3928aab7a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.ots/collective.ots-0.3.tar.gz"
+}

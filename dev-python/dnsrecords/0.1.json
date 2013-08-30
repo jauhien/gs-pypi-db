@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for deal with abstract DNS records", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cosmin/dnsrecords", 
+  "info": {
+    "Author:": "Cosmin Stejerean", 
+    "Home Page:": "http://github.com/cosmin/dnsrecords", 
+    "License:": "MIT", 
+    "Package Index Owner:": "cstejerean"
+  }, 
+  "license": "", 
+  "longdescription": "Library for deal with abstract DNS records", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "94a46dfbdc1f51d12f73faadcc084212", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dnsrecords/dnsrecords-0.1.tar.gz"
+}

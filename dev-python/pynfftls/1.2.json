@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast Lomb-Scargle periodogram using Non-equispaced Fast Fourier Transform (NFFT)  by B. Leroy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lesia.obspm.fr/", 
+  "info": {
+    "Author:": "B. Leroy - Python interface by R. Samadi", 
+    "Home Page:": "http://lesia.obspm.fr/", 
+    "Package Index Owner:": "samadi"
+  }, 
+  "license": "", 
+  "longdescription": "Fast Lomb-Scargle periodogram using Non-equispaced Fast Fourier Transform (NFFT)  by B. Leroy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bc90e624a137cc42a5e5a1ef4a7ce198", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pynfftls/pynfftls-1.2.tar.gz"
+}

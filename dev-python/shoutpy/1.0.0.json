@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Boost.Python bindings for libshout  2.1", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dingoskidneys.com/shoutpy/", 
+  "info": {
+    "Author:": "Daniel Holth", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://dingoskidneys.com/shoutpy/shoutpy-1.0.0.tar.gz", 
+    "Home Page:": "http://dingoskidneys.com/shoutpy/", 
+    "Keywords:": "shout libshout icecast ogg streaming audio", 
+    "License:": "GNU LGPL", 
+    "Package Index Owner:": "joeforker", 
+    "Platform:": "linux"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Boost.Python bindings for libshout  2.1", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://dingoskidneys.com/shoutpy/shoutpy-1.0.0.tar.gz"
+}

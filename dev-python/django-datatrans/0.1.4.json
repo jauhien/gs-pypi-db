@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Translate Django models without changing anything to existing applications and their underlying database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/citylive/django-datatrans/", 
+  "info": {
+    "Author:": "Jef Geskens, VikingCo nv", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Internationalization"
+      ]
+    }, 
+    "Home Page:": "http://github.com/citylive/django-datatrans/", 
+    "License:": "LICENSE", 
+    "Package Index Owner:": "jgeskens, lukin0110"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Translate Django models without changing anything to existing applications and their underlying database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66da5157b0c630159235aa5636215e01", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-datatrans/django-datatrans-0.1.4.tar.gz"
+}

@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CSRF Middleware for Pylons, based on Luke Plants django version.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Luke Plant and David Turner", 
+    "Package Index Owner:": "anil, rmarianski, novalis"
+  }, 
+  "license": "", 
+  "longdescription": "CSRF Middleware for Pylons, based on Luke Plants django version.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6942496fe0f0c467b0c1486f7b74b230", 
+  "source_uri": "https://pypi.python.org/packages/source/c/csrfmiddleware/csrfmiddleware-1.3.tar.gz"
+}

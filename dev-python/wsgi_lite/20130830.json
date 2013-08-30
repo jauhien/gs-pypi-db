@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A better way to write WSGI apps and middleware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/pje/wsgi_lite/", 
+  "info": {
+    "Author:": "P.J. Eby", 
+    "Download URL:": "https://bitbucket.org/pje/wsgi_lite/get/default.tar.gz#egg=wsgi_lite-dev", 
+    "Home Page:": "https://bitbucket.org/pje/wsgi_lite/", 
+    "License:": "ASF", 
+    "Package Index Owner:": "pje"
+  }, 
+  "license": "", 
+  "longdescription": "A better way to write WSGI apps and middleware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ab89931a2b8c515349beb995a5f7d636", 
+  "source_uri": "https://bitbucket.org/pje/wsgi_lite/get/default.tar.gz#egg=wsgi_lite-dev"
+}

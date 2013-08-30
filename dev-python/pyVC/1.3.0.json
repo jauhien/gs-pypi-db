@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of Python tools for virtual cluster computing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cs.mtsu.edu/pyvc", 
+  "info": {
+    "Author:": "Zach Lowry", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Emulators"
+      ]
+    }, 
+    "Download URL:": "http://cheeseshop.python.org/pypi/pyVC", 
+    "Home Page:": "http://www.cs.mtsu.edu/pyvc", 
+    "Keywords:": "virtualization qemu uml vde xen vcml xml pyro cluster hpc", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zlowry", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A set of Python tools for virtual cluster computing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b1250c476f654d8350f72f1511cb764", 
+  "source_uri": "http://cheeseshop.python.org/pypi/pyVC"
+}

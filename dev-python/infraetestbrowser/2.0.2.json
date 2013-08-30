@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sane functionnal test browser for WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://infrae.com/products/silva", 
+  "info": {
+    "Author:": "Infrae", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://infrae.com/products/silva", 
+    "Keywords:": "test wsgi application functional", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thefunny42"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Sane functionnal test browser for WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb792a176e95b888cb3dbe72f9daca94", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infrae.testbrowser/infrae.testbrowser-2.0.2.tar.gz"
+}

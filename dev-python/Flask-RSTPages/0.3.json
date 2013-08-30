@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds support for reStructuredText to a Flask application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://flask-rstpages.readthedocs.org/", 
+  "info": {
+    "Author:": "Simon Conseil", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://flask-rstpages.readthedocs.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "saimon", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds support for reStructuredText to a Flask application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "662d48b5057ab8072d84239e94afb63b", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-RSTPages/Flask-RSTPages-0.3.tar.gz"
+}

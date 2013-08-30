@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Monitoring tools for Nova hosts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gridcentric.com/", 
+  "info": {
+    "Author:": "Gridcentric Inc.", 
+    "Home Page:": "http://www.gridcentric.com/", 
+    "Package Index Owner:": "gridcentric"
+  }, 
+  "license": "", 
+  "longdescription": "Monitoring tools for Nova hosts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "061b4158fd9fae364bb5a8c71e89fb83", 
+  "source_uri": "https://pypi.python.org/packages/source/c/canary_python_novaclient_ext/canary_python_novaclient_ext-1.0.27.tar.gz"
+}

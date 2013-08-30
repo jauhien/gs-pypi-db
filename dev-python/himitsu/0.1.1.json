@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper for crypt_blowfish that provides Bcrypt hashing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://himitsu.61924.nl/", 
+  "info": {
+    "Author:": "Frank Smit", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://himitsu.61924.nl/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "FSX"
+  }, 
+  "license": "", 
+  "longdescription": "A wrapper for crypt_blowfish that provides Bcrypt hashing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c283118c21343e9ddf3c9d80c1c08079", 
+  "source_uri": "https://pypi.python.org/packages/source/h/himitsu/himitsu-0.1.1.tar.gz"
+}

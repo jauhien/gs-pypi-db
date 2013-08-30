@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Git extensions to provide high-level repository operations for Vincent Driessens branching model.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/salsita/gitflow/", 
+  "info": {
+    "Author:": "Ondrej Kupka, Tomas Brambora, Hartmut Goebelm, Vincent Driessen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://github.com/salsita/gitflow/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "salsita, realyze", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Git extensions to provide high-level repository operations for Vincent Driessens branching model.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "355248537f60b32a75566b6a4f5e5b83", 
+  "source_uri": "https://pypi.python.org/packages/source/s/salsita-gitflow/salsita-gitflow-1.0.2.tar.bz2"
+}

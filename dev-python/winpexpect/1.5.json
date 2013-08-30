@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A version of pexpect that works under Windows.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/geertj/winpexpect", 
+  "info": {
+    "Author:": "Geert Jansen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/geertj/winpexpect", 
+    "License:": "MIT", 
+    "Package Index Owner:": "geertj"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A version of pexpect that works under Windows.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "552583220943d7c74d49056a9a17de9a", 
+  "source_uri": "https://pypi.python.org/packages/source/w/winpexpect/winpexpect-1.5.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "vcstool provides a command line tool to invoke vcs commands on multiple repositories.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/vcstool", 
+  "info": {
+    "Author:": "Dirk Thomas", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pr.willowgarage.com/downloads/vcstool/", 
+    "Home Page:": "http://www.ros.org/wiki/vcstool", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dthomas"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "vcstool provides a command line tool to invoke vcs commands on multiple repositories.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "773245ed5d364d2e3f816c7d1fecd2ae", 
+  "source_uri": "http://pr.willowgarage.com/downloads/vcstool/"
+}

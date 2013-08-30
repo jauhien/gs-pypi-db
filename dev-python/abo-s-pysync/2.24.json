@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python implementation of the rsync algorithm", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://freshmeat.net/projects/pysync/", 
+  "info": {
+    "Author:": "Donovan Baarda", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Mirroring"
+      ]
+    }, 
+    "Download URL:": "http://minkirri.apana.org.au/pub/python/pysync/", 
+    "Home Page:": "http://freshmeat.net/projects/pysync/", 
+    "Keywords:": "rsync", 
+    "License:": "GNU Lesser General Public License (LGPL)", 
+    "Package Index Owner:": "htgoebel"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A Python implementation of the rsync algorithm", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://minkirri.apana.org.au/pub/python/pysync/"
+}

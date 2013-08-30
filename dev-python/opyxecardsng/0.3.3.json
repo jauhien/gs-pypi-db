@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An ECard implementation for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/zopyx.ecardsng/trunk", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/zopyx.ecardsng/trunk", 
+    "Keywords:": "Plone Zope ECards", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "An ECard implementation for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b2879a902364bea817572627172ee42b", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zopyx.ecardsng/zopyx.ecardsng-0.3.3.tar.gz"
+}

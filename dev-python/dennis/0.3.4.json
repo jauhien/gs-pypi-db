@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "l10n and PO file helper tools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/willkg/dennis", 
+  "info": {
+    "Author:": "Will Kahn-Greene", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/willkg/dennis", 
+    "Keywords:": "l10n localization po", 
+    "License:": "Simplified BSD License", 
+    "Package Index Owner:": "willhelm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "l10n and PO file helper tools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b642e22c7bec42c81b52740bd9ea3bba", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dennis/dennis-0.3.4.tar.gz"
+}

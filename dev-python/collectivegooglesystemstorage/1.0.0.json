@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GSS saves the document types supported by the Google Docs service on the Google servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.googlesystemstorage/", 
+  "info": {
+    "Author:": "D'Elia Federica", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.googlesystemstorage/", 
+    "Keywords:": "plone google googledocs iw.fss", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fdelia, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "GSS saves the document types supported by the Google Docs service on the Google servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "400b3eb9c2bc08c6a50b3c0acf4d2439", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.googlesystemstorage/collective.googlesystemstorage-1.0.0.tar.gz"
+}

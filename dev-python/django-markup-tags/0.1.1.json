@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Template tags (not filters) for Markdown, Textile, and ReST.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/readevalprint/django-markup-tags", 
+  "info": {
+    "Author:": "Timothy Watts", 
+    "Home Page:": "https://github.com/readevalprint/django-markup-tags", 
+    "Package Index Owner:": "Tim.Watts"
+  }, 
+  "license": "", 
+  "longdescription": "Template tags (not filters) for Markdown, Textile, and ReST.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f0d30f583666b9274805b4b4fdaf5399", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-markup-tags/django-markup-tags-0.1.1.tar.gz"
+}

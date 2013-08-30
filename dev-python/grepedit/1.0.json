@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "edit the result of a grep and modify the original files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bigasterisk.com/grepedit", 
+  "info": {
+    "Author:": "Drew Perttula", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Editors", 
+        "Text Processing"
+      ]
+    }, 
+    "Download URL:": "http://projects.bigasterisk.com/grepedit-1.0.tar.gz", 
+    "Home Page:": "http://bigasterisk.com/grepedit", 
+    "Package Index Owner:": "drewp"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "edit the result of a grep and modify the original files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://projects.bigasterisk.com/grepedit-1.0.tar.gz"
+}

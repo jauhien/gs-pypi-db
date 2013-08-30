@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backup system using DVCS backend, such as git", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ossxp-com/gistore", 
+  "info": {
+    "Author:": "Jiang Xin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Backup"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ossxp-com/gistore", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jiangxin", 
+    "Platform:": "Linux\n, Mac OS X"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Backup system using DVCS backend, such as git", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7959918d3169617dac7569b86eb1f787", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gistore/gistore-0.3.2.tar.gz"
+}

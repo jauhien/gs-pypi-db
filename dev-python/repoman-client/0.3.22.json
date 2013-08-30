@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client to connect to Repoman image repository.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/hep-gc/repoman", 
+  "info": {
+    "Author:": "Kyle Fransham, Drew Harris, Matthew Vliet", 
+    "Home Page:": "http://github.com/hep-gc/repoman", 
+    "Package Index Owner:": "crlb, mvliet, igable, AndreCharbonneau"
+  }, 
+  "license": "", 
+  "longdescription": "Client to connect to Repoman image repository.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e9f5c7d6fffdfe1929263032aec1abc4", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoman-client/repoman-client-0.3.22.tar.gz"
+}

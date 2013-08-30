@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A silly but useful hack for sanitiing untrusted HTML input in Django forms via the PHP HTML Purifier library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kz26/django-htmlpurifier", 
+  "info": {
+    "Author:": "Kevin Zhang", 
+    "Home Page:": "https://github.com/kz26/django-htmlpurifier", 
+    "Package Index Owner:": "Kevin.Zhang"
+  }, 
+  "license": "", 
+  "longdescription": "A silly but useful hack for sanitiing untrusted HTML input in Django forms via the PHP HTML Purifier library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "10233d612861016ea6a2146f6a7b9e04", 
+  "source_uri": "https://pypi.python.org/packages/source/h/htmlpurifier/htmlpurifier-1.0.1.tar.gz"
+}

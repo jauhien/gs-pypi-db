@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows seperation of view code from skin templates like 3c.viewtemplate, but also allows multiple templates to be plugged into your view code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pluggabletemplates/", 
+  "info": {
+    "Author:": "Kevin Smith", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pluggabletemplates/", 
+    "Keywords:": "zope zope3 template", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ksmith99"
+  }, 
+  "license": "", 
+  "longdescription": "Allows seperation of view code from skin templates like 3c.viewtemplate, but also allows multiple templates to be plugged into your view code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b04cda507f2488fa7aa0a2a1a54ef583", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.pluggabletemplates/z3c.pluggabletemplates-0.2.tar.gz"
+}

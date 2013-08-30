@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An app for showing localied versions of initiatives. E.g. as plugin in a blogpost.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bitmazk/django-multilingual-initiatives", 
+  "info": {
+    "Author:": "Daniel Kaufhold", 
+    "Home Page:": "https://github.com/bitmazk/django-multilingual-initiatives", 
+    "Keywords:": "django,cms,plugin,initiative,localization", 
+    "License:": "The MIT License", 
+    "Package Index Maintainer:": "Tobias.Lorenz, mbrochh", 
+    "Package Index Owner:": "dkaufhold", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "An app for showing localied versions of initiatives. E.g. as plugin in a blogpost.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31e1402814955853721420cf1c01a643", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-multilingual-initiatives/django-multilingual-initiatives-0.2.tar.gz"
+}

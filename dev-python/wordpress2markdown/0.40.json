@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A script to convert wordpress.com html into markdown.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/davidcorne/wordpress-to-markdown", 
+  "info": {
+    "Author:": "David Corne", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/davidcorne/wordpress-to-markdown", 
+    "Keywords:": "wordpress html markdown convert utility", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "David.Corne"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "A script to convert wordpress.com html into markdown.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "206faa11a72d86e85e15d3a6934a1c85", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wordpress2markdown/wordpress2markdown-0.40.tar.gz"
+}

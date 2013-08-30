@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Selective,Pretty dir printing utility for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pramttl/pdir", 
+  "info": {
+    "Author:": "Pranjal Mittal", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "https://github.com/pramttl/pdir", 
+    "Keywords:": "regex dir pretty namespaces", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pramttl"
+  }, 
+  "license": "", 
+  "longdescription": "A Selective,Pretty dir printing utility for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e47b5d74296f46c1dbe0e36f84b7355e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pdir/pdir-0.2.2.tar.gz"
+}

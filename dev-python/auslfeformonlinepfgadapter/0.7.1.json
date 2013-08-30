@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An adapter for PloneFormGen that add to Plone a way for manage online forms submission", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/auslfe.formonline.pfgadapter", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/auslfe.formonline.pfgadapter/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/auslfe.formonline.pfgadapter", 
+    "Keywords:": "plonegov form plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "nicola.senno, fdelia, massimo, keul"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "An adapter for PloneFormGen that add to Plone a way for manage online forms submission", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b0779abc5b891e5f1b7181e435e105d", 
+  "source_uri": "https://pypi.python.org/packages/source/a/auslfe.formonline.pfgadapter/auslfe.formonline.pfgadapter-0.7.1.zip"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A little script for copying and pasting through unix pipes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "startling", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Keywords:": "paste,copy,copypaste,pipes", 
+    "Package Index Owner:": "startling"
+  }, 
+  "license": "", 
+  "longdescription": "A little script for copying and pasting through unix pipes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a590f3c9cdd02ddc59fe4d65bfd8eb3", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xi/xi-1.0.tar.gz"
+}

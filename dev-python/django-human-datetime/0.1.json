@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Uses the parsedatetime package to parse human readable datetime expressions into Django fields", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/justquick/django-human-datetime", 
+  "info": {
+    "Author:": "Justin Quick", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/justquick/django-human-datetime", 
+    "Package Index Owner:": "justquick"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Uses the parsedatetime package to parse human readable datetime expressions into Django fields", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ecff600a0625d1cd4909b4d0e95c0d6f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-human-datetime/django-human-datetime-0.1.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client for datawi.re, submits data to the data wire service.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pudo/datastringer", 
+  "info": {
+    "Author:": "Friedrich Lindenberg", 
+    "Home Page:": "http://github.com/pudo/datastringer", 
+    "Keywords:": "data record notifications service client wire", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "pudo"
+  }, 
+  "license": "", 
+  "longdescription": "Client for datawi.re, submits data to the data wire service.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64d47f6113e4c983c0a7ea0fe6a41004", 
+  "source_uri": "https://pypi.python.org/packages/source/d/datastringer/datastringer-0.1.5.tar.gz"
+}

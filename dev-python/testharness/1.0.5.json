@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is intended to be used as a generic functional test framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Oisin Mulvihill", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "oisinmulvihill"
+  }, 
+  "license": "", 
+  "longdescription": "This is intended to be used as a generic functional test framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f40edfffebb6c46abc8c59a8d4a7b7fe", 
+  "source_uri": "https://pypi.python.org/packages/source/t/testharness/testharness-1.0.5.tar.gz"
+}

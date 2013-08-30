@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SHA-3 (Keccak) for Python 2.6 - 3.4", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/tiran/pykeccak", 
+  "info": {
+    "Author:": "Christian Heimes", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "SunOS/Solaris"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/tiran/pykeccak", 
+    "Keywords:": "sha3 sha-3 keccak hash", 
+    "License:": "PSFL (Keccak: CC0 1.0 Universal)", 
+    "Package Index Owner:": "tiran", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "SHA-3 (Keccak) for Python 2.6 - 3.4", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "150ef07e47b6ef79bdf7717036ceccc7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysha3/pysha3-0.3.tar.gz"
+}

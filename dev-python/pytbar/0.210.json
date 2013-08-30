@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library that converts the Japanese Post Offices CSV files into a python class.  These are thereafter added to a database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jmahmood/pytbar/", 
+  "info": {
+    "Author:": "Jawaad Mahmood", 
+    "Home Page:": "https://github.com/jmahmood/pytbar/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jbm"
+  }, 
+  "license": "", 
+  "longdescription": "Library that converts the Japanese Post Offices CSV files into a python class.  These are thereafter added to a database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8140294012ac571ad5739705e21b9e2", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytbar/pytbar-0.210.tar.gz"
+}

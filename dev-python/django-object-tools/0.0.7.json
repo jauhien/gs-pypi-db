@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app enabling painless creation of additional admin object tools.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/praekelt/django-object-tools", 
+  "info": {
+    "Author:": "Praekelt Foundation", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/praekelt/django-object-tools", 
+    "Package Index Maintainer:": "Rizziepit", 
+    "Package Index Owner:": "Shaun.Sephton, Praekelt, hedley, Rizziepit"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django app enabling painless creation of additional admin object tools.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a59cf65dc2b0da8a4f4ac6a1564854a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-object-tools/django-object-tools-0.0.7.tar.gz"
+}

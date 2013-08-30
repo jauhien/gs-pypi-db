@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone integration for the Kwetter micro-blogging solution", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/collective/kwetter", 
+  "info": {
+    "Author:": "Paul Stevens and Guido Stevens", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "http://www.github.com/collective/kwetter", 
+    "Keywords:": "Zope Plone microblogging", 
+    "License:": "GPL", 
+    "Package Index Owner:": "guidostevens"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone integration for the Kwetter micro-blogging solution", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b3d68044ba2ce0847337ccccac78bee", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.kwetter/collective.kwetter-0.1.1.zip"
+}

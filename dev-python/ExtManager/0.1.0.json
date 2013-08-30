@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Class-extension without subclassing (but object composition)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Niklas Rosenstein", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Keywords:": "extensions manager", 
+    "Package Index Owner:": "niklasrosenstein"
+  }, 
+  "license": "", 
+  "longdescription": "Class-extension without subclassing (but object composition)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "883e7c5c191be06450931b51740e56b0", 
+  "source_uri": "https://pypi.python.org/packages/source/E/Ext.Manager/Ext.Manager-0.1.0.zip"
+}

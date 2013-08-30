@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate a passphrase consisting of words chosen from word list dictionaries.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rpatterson/passphrasegen", 
+  "info": {
+    "Author:": "Ross Patterson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rpatterson/passphrasegen", 
+    "Keywords:": "password generator passphrase entropy", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "rpatterson"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "Generate a passphrase consisting of words chosen from word list dictionaries.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "02ca7671da9dac9028a38785cc4bdc16", 
+  "source_uri": "https://pypi.python.org/packages/source/p/passphrasegen/passphrasegen-1.1.tar.gz"
+}

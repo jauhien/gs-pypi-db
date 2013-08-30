@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tab-Separated-Value IO Library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Adam Novak", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ]
+    }, 
+    "Package Index Owner:": "interfect"
+  }, 
+  "license": "", 
+  "longdescription": "Tab-Separated-Value IO Library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4714175f768409d9e829f67ca511e35", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tsv/tsv-1.1.tar.gz"
+}

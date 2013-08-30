@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python implementation of the famous CoCoR LL(k) compiler generator.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ssw.uni-linz.ac.at/coco", 
+  "info": {
+    "Author:": "Ronald H Longo", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Home Page:": "http://www.ssw.uni-linz.ac.at/coco", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ronlongo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python implementation of the famous CoCoR LL(k) compiler generator.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "102dadfc73371fff99ce6ee65a90d308", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CocoPy/CocoPy-1.1.0rc.zip"
+}

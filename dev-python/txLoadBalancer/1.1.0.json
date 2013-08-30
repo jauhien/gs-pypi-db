@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "txLoadBalancer - A Twisted-based TCP load balancer.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/txloadbalancer", 
+  "info": {
+    "Author:": "Duncan McGreggor, Anthony Baxter", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/txloadbalancer", 
+    "Keywords:": "twisted, tcp, load, load balancer, load balancing, pydirector, pythondirector", 
+    "License:": "MIT", 
+    "Package Index Owner:": "oubiwann"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "txLoadBalancer - A Twisted-based TCP load balancer.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc1e60fad0e094ba7fa424c5369ef148", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txLoadBalancer/txLoadBalancer-1.1.0.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Class library for writing Nagios (Icinga) plugins", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://projects.gocept.com/projects/nagiosplugin", 
+  "info": {
+    "Author:": "Christian Kauhaus", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//nagiosplugin", 
+    "Download URL:": "http://pypi.python.org/pypi/nagiosplugin", 
+    "Home Page:": "http://projects.gocept.com/projects/nagiosplugin", 
+    "Keywords:": "Nagios Icinga plugin check monitoring", 
+    "License:": "ZPL-2.1", 
+    "Package Index Maintainer:": "zagy, wosc, sweh, icemac, DanielHavlikGocept, ctheune, tlotze", 
+    "Package Index Owner:": "ckauhaus"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Class library for writing Nagios (Icinga) plugins", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd9f9588dde7deed928494245fbbac2e", 
+  "source_uri": "http://pypi.python.org/pypi/nagiosplugin"
+}

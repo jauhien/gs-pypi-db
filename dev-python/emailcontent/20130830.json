@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Functionality for extracting content from email messages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Karel Antonio Verdecia Ortiz", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 (LGPLv3)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Keywords:": "email rfc822", 
+    "License:": "LGPL3", 
+    "Maintainer:": "Karel Antonio Verdecia Ortiz", 
+    "Package Index Owner:": "kverdecia"
+  }, 
+  "license": "GNU Lesser General Public License v3 (LGPLv3)", 
+  "longdescription": "Functionality for extracting content from email messages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a07f15c17e0813f3f076d69d950fdc23", 
+  "source_uri": "https://pypi.python.org/packages/source/e/emailcontent/emailcontent-0.1dev.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Search integration for Django with a focus on indexing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "James Aylett", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Indexing/Search"
+      ]
+    }, 
+    "License:": "MIT", 
+    "Package Index Owner:": "jaylett"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Search integration for Django with a focus on indexing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0ecb0b331ee4ac3f6eade2e4a7ec92d2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-searchify/django-searchify-0.1.tar.gz"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout extension to produce a log of actions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/isotoma.buildout.logger", 
+  "info": {
+    "Author:": "John Carr", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/isotoma.buildout.logger", 
+    "Keywords:": "buildout extension log", 
+    "License:": "Apache Software License", 
+    "Package Index Maintainer:": "winjer, alex2", 
+    "Package Index Owner:": "johncarr"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Buildout extension to produce a log of actions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f94a49bf47eef7b4b7d75ac81982576", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.buildout.logger/isotoma.buildout.logger-0.0.0.tar.gz"
+}

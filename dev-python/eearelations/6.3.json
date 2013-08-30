@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "EEA Possible Relations. This package provides a flexible way to manage relations in a Plone site. it provides a new reference browser widget and a central management interface for relations, their labels and requirements.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://eea.github.com/docs/eea.relations", 
+  "info": {
+    "Author:": "European Environment Agency", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 1.0 (MPL)"
+      ], 
+      "Programming Language": [
+        "Zope"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://eea.github.com/docs/eea.relations", 
+    "Keywords:": "eea relations widget reference browser referencebrowserwidget faceted facetednavigation plone zope python", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Alin.Voinea, eea"
+  }, 
+  "license": "Mozilla Public License 1.0 (MPL)", 
+  "longdescription": "EEA Possible Relations. This package provides a flexible way to manage relations in a Plone site. it provides a new reference browser widget and a central management interface for relations, their labels and requirements.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c717141be6acef4eb5de6f7a200a2055", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eea.relations/eea.relations-6.3.zip"
+}

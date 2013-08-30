@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to import wordpress xml data into Armstrong", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/armstrong/armstrong.utils.importers.wordpress/", 
+  "info": {
+    "Author:": "Bay Citizen & Texas Tribune", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/armstrong/armstrong.utils.importers.wordpress/", 
+    "Package Index Maintainer:": "joncotton", 
+    "Package Index Owner:": "armstrong, tswicegood"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Tools to import wordpress xml data into Armstrong", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5e4791259bacc22bbefd134a17cf331", 
+  "source_uri": "https://pypi.python.org/packages/source/a/armstrong.utils.importers.wordpress/armstrong.utils.importers.wordpress-0.1.1.tar.gz"
+}

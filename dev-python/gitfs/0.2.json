@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Filesystem-like API for Git repositories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://eagain.net/gitweb/?p=pygitfs.git", 
+  "info": {
+    "Author:": "Tommi Virtanen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "http://eagain.net/gitweb/?p=pygitfs.git", 
+    "Keywords:": "git filesystem version-control", 
+    "License:": "MIT", 
+    "Package Index Owner:": "tv"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Filesystem-like API for Git repositories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "525dce2086c3407223c33e0d98387f34", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gitfs/gitfs-0.2.tar.gz"
+}

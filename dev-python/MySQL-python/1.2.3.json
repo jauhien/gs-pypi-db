@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to MySQL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/mysql-python", 
+  "info": {
+    "Author:": "Andy Dustman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database", 
+        "Database Engines/Servers"
+      ]
+    }, 
+    "Download URL:": "http://download.sourceforge.net/sourceforge/mysql-python/MySQL-python-1.2.3.tar.gz", 
+    "Home Page:": "http://sourceforge.net/projects/mysql-python", 
+    "License:": "GPL", 
+    "Package Index Owner:": "adustman", 
+    "Platform:": "ALL"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python interface to MySQL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "215eddb6d853f6f4be5b4afc4154292f", 
+  "source_uri": "http://download.sourceforge.net/sourceforge/mysql-python/MySQL-python-1.2.3.tar.gz"
+}

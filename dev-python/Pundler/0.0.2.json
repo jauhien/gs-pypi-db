@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An attempt to better manage dependencies in requirements files inspired by Rubys Gem Bundler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/steder/pundler", 
+  "info": {
+    "Author:": "Mike Steder", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/steder/pundler", 
+    "Package Index Owner:": "Michael.Steder"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "An attempt to better manage dependencies in requirements files inspired by Rubys Gem Bundler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5442d1acd6c960c02904ee8c7b5d697e", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Pundler/Pundler-0.0.2.tar.gz"
+}

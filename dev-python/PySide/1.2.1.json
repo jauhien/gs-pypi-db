@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the Qt cross-platform application and UI framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pyside.org", 
+  "info": {
+    "Author:": "PySide Team", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "Qt"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Widget Sets"
+      ]
+    }, 
+    "Download URL:": "http://download.qt-project.org/official_releases/pyside/", 
+    "Home Page:": "http://www.pyside.org", 
+    "Keywords:": "Qt", 
+    "License:": "LGPL", 
+    "Package Index Maintainer:": "rlacko", 
+    "Package Index Owner:": "rlacko, mairas"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Python bindings for the Qt cross-platform application and UI framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b551d6ff68685013b59e478571f775bf", 
+  "source_uri": "http://download.qt-project.org/official_releases/pyside/"
+}

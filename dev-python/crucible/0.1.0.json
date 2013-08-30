@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line client to Crucible", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/tebeka/crucible/src", 
+  "info": {
+    "Author:": "Miki Tebeka", 
+    "Home Page:": "https://bitbucket.org/tebeka/crucible/src", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "tebeka", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Command line client to Crucible", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d0e141cd25bede463a659b5db71a7ba3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/crucible/crucible-0.1.0.tar.gz"
+}

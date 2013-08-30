@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility for packaging things as eggs without setuptools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/isotoma.egglayer", 
+  "info": {
+    "Author:": "John Carr", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/isotoma.egglayer", 
+    "Keywords:": "egg builder packaging", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "johncarr"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Utility for packaging things as eggs without setuptools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15f56fcd593c1cb3d1d3607adf554ec2", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.egglayer/isotoma.egglayer-0.0.5.zip"
+}

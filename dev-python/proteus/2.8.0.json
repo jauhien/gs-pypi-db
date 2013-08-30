@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to access Tryton server as a client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tryton.org/", 
+  "info": {
+    "Author:": "Tryton", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Tryton"
+      ], 
+      "Intended Audience": [
+        "Legal Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Office/Business"
+      ]
+    }, 
+    "Download URL:": "http://downloads.tryton.org/2.8/", 
+    "Home Page:": "http://www.tryton.org/", 
+    "License:": "LGPL-3", 
+    "Package Index Maintainer:": "yangoon", 
+    "Package Index Owner:": "bch, nicoe, ced, yangoon"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Library to access Tryton server as a client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c9586d5c59df28a31c1c7fb0353b73be", 
+  "source_uri": "http://downloads.tryton.org/2.8/"
+}

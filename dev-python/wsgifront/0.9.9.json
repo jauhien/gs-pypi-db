@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple adapter to connect your WSGI application to any server (mod_python, CGI, PHP, AppEngine, etc.)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wsgifront.googlecode.com", 
+  "info": {
+    "Author:": "Frank McIngvale", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Download URL:": "http://wsgifront.googlecode.com/files/wsgifront-0.9.9.tar.gz", 
+    "Home Page:": "http://wsgifront.googlecode.com", 
+    "Keywords:": "wsgi mod_python php cgi apache cherrypy", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fmcingvale"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple adapter to connect your WSGI application to any server (mod_python, CGI, PHP, AppEngine, etc.)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://wsgifront.googlecode.com/files/wsgifront-0.9.9.tar.gz"
+}

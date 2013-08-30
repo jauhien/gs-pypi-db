@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTML report generation plugin for nose", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sio2project/nose-capturestderr", 
+  "info": {
+    "Author:": "The SIO2 Project Team", 
+    "Home Page:": "http://github.com/sio2project/nose-capturestderr", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sio2project"
+  }, 
+  "license": "", 
+  "longdescription": "HTML report generation plugin for nose", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "498707ee990533b77e3ffb0265e6802b", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-capturestderr/nose-capturestderr-1.0.tar.gz"
+}

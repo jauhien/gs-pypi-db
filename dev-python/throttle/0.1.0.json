@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A robust and versatile throttling implementation relying on the token bucket algorithm.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rbarrois/throttle", 
+  "info": {
+    "Author:": "Rapha\u00ebl Barrois", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/throttle/", 
+    "Home Page:": "http://github.com/rbarrois/throttle", 
+    "Keywords:": "throttle,rate limit,token bucket,leaky bucket", 
+    "License:": "BSD", 
+    "Package Index Owner:": "xelnor"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A robust and versatile throttling implementation relying on the token bucket algorithm.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://pypi.python.org/pypi/throttle/"
+}

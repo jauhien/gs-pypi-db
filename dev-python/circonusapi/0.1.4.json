@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Circonus API library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/omniti-labs/circonusapi", 
+  "info": {
+    "Author:": "Mark Harrison", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://github.com/omniti-labs/circonusapi", 
+    "License:": "ISC", 
+    "Package Index Owner:": "mivok"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Circonus API library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "208b998a69a159b2f150eb7e2e30cc26", 
+  "source_uri": "https://pypi.python.org/packages/source/c/circonusapi/circonusapi-0.1.4.tar.gz"
+}

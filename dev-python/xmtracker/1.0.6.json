@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A time tracker based on the concepts of gtimelog", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://plone.org/products/extreme-management-tool/", 
+  "info": {
+    "Author:": "Jean-Paul Ladage", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://plone.org/products/extreme-management-tool/", 
+    "Keywords:": "xm timetracker", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jladage, reinout, maurits, twilgiht, markvl"
+  }, 
+  "license": "", 
+  "longdescription": "A time tracker based on the concepts of gtimelog", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3dc520b11ca4ca310bd03d7846e7376a", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xm.tracker/xm.tracker-1.0.6.zip"
+}

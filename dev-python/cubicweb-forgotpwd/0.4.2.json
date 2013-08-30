@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "password recovery component for the CubicWeb framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-forgotpwd", 
+  "info": {
+    "Author:": "LOGILAB S.A. (Paris, FRANCE)", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "CubicWeb"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-forgotpwd", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "password recovery component for the CubicWeb framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f2340648fcccfe7bfa11662ca0444018", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-forgotpwd/cubicweb-forgotpwd-0.4.2.tar.gz"
+}

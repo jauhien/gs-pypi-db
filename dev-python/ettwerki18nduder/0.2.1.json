@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A helperwrapper script for i18ndude to easier working with translation files in a common plone environment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zettwerk.com", 
+  "info": {
+    "Author:": "zettwerk GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://zettwerk.com", 
+    "Keywords:": "plone,i18ndude", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jkubaile"
+  }, 
+  "license": "", 
+  "longdescription": "A helperwrapper script for i18ndude to easier working with translation files in a common plone environment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e3d0fa8e46270f83925b3d2d7fa1761", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zettwerk.i18nduder/zettwerk.i18nduder-0.2.1.tar.gz"
+}

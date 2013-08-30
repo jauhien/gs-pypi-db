@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe that parses compile time options from config scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bopen.eu/open-source/bopen.recipe.libinc", 
+  "info": {
+    "Author:": "Alessandro Amici", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.bopen.eu/open-source/bopen.recipe.libinc", 
+    "Keywords:": "development buildout recipe", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "alexamici"
+  }, 
+  "license": "", 
+  "longdescription": "c.buildout recipe that parses compile time options from config scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "68d1d8f856f061ec5935f0471d310826", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bopen.recipe.libinc/bopen.recipe.libinc-0.3.0.tar.gz"
+}

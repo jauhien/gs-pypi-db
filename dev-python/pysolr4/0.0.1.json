@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A very lightweight Python wrapper for Apache Solr.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zeraholladay/pysolr4/", 
+  "info": {
+    "Author:": "Zera Holladay", 
+    "Home Page:": "http://github.com/zeraholladay/pysolr4/", 
+    "Package Index Owner:": "zeraholladay"
+  }, 
+  "license": "", 
+  "longdescription": "A very lightweight Python wrapper for Apache Solr.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a79ea24091523b67445ab4a4e2cf5043", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysolr4/pysolr4-0.0.1.tar.gz"
+}

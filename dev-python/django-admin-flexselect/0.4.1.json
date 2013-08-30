@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dynamic select fields for the Django Admin that just works.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/runekaagaard/django-admin-flexselect", 
+  "info": {
+    "Author:": "Rune Kaagaard", 
+    "Home Page:": "https://github.com/runekaagaard/django-admin-flexselect", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "rune_kg"
+  }, 
+  "license": "", 
+  "longdescription": "Dynamic select fields for the Django Admin that just works.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1c6385cbd97cfb000fd990382240af5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-admin-flexselect/django-admin-flexselect-0.4.1.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Web UI to administer Gutter switches.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/disqus/gutter-django", 
+  "info": {
+    "Author:": "DISQUS", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/disqus/gutter-django", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "Fluxx"
+  }, 
+  "license": "", 
+  "longdescription": "Web UI to administer Gutter switches.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "802c29899b685ef5db6a5475da92c4e9", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gutter-django/gutter-django-0.1.5.tar.gz"
+}

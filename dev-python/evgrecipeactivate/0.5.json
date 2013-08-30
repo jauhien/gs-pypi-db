@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This recipe generates activation script for c.buildout environment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/generalov/evg.recipe.activate", 
+  "info": {
+    "Author:": "Evgeny V. Generalov", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/generalov/evg.recipe.activate", 
+    "Keywords:": "buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "generalov"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "This recipe generates activation script for c.buildout environment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b565b06180d8b182b9aca0ebf395cea", 
+  "source_uri": "https://pypi.python.org/packages/source/e/evg.recipe.activate/evg.recipe.activate-0.5.tar.gz"
+}

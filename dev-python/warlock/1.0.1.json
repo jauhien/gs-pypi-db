@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python object model built on JSON schema and JSON patch.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bcwaldon/warlock", 
+  "info": {
+    "Author:": "Brian Waldon", 
+    "Home Page:": "http://github.com/bcwaldon/warlock", 
+    "Package Index Owner:": "bcwaldon"
+  }, 
+  "license": "", 
+  "longdescription": "Python object model built on JSON schema and JSON patch.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a0096d4843da1f939c873460b53c02e0", 
+  "source_uri": "https://pypi.python.org/packages/source/w/warlock/warlock-1.0.1.tar.gz"
+}

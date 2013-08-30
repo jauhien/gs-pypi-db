@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PostGIS adapter for Psycopg", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.fabianowski.eu/projects/ppygis/", 
+  "info": {
+    "Author:": "Bartosz Fabianowski", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://www.fabianowski.eu/projects/ppygis/releases/PPyGIS-0.2.tar.gz", 
+    "Home Page:": "http://www.fabianowski.eu/projects/ppygis/", 
+    "Keywords:": "psycopg,postgis,geometry,EWKB", 
+    "Package Index Owner:": "plush"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "PostGIS adapter for Psycopg", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c90a18981a159d78558a4b9a97008f9", 
+  "source_uri": "http://www.fabianowski.eu/projects/ppygis/releases/PPyGIS-0.2.tar.gz"
+}

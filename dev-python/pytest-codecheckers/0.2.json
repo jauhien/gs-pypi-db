@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pytest plugin to add source code sanity checks (pep8 and friends)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/RonnyPfannschmidt/pytest-codecheckers/", 
+  "info": {
+    "Author:": "Ronny Pfannschmidt", 
+    "Home Page:": "http://bitbucket.org/RonnyPfannschmidt/pytest-codecheckers/", 
+    "Package Index Owner:": "ronny"
+  }, 
+  "license": "", 
+  "longdescription": "pytest plugin to add source code sanity checks (pep8 and friends)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e7449fc6cd02d35cc11e21709ce1357", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-codecheckers/pytest-codecheckers-0.2.tar.gz"
+}

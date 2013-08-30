@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI jsonrpc application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/wsgi-jsonrpc/", 
+  "info": {
+    "Author:": "OSAF, Mikeal Rogers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/wsgi-jsonrpc/", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "mikeal", 
+    "Platform:": "Any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "WSGI jsonrpc application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "927d1ae99490575b0091aaebbd06f4db", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgi-jsonrpc/wsgi-jsonrpc-0.2.9.tar.gz"
+}

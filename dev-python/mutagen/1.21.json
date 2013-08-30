@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "read and write audio tags for many formats", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/mutagen/", 
+  "info": {
+    "Author:": "Michael Urman", 
+    "Home Page:": "http://code.google.com/p/mutagen/", 
+    "License:": "GNU GPL v2", 
+    "Package Index Owner:": "lazka, piman"
+  }, 
+  "license": "", 
+  "longdescription": "read and write audio tags for many formats", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a3519f7422a95a7c8f830b4925fe4a11", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mutagen/mutagen-1.21.tar.gz"
+}

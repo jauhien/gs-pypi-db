@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client for HBase Thrift interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hbase.org/", 
+  "info": {
+    "Author:": "Jeff Hammerbacher", 
+    "Home Page:": "http://hbase.org/", 
+    "Keywords:": "database hbase thrift", 
+    "Package Index Owner:": "hammer"
+  }, 
+  "license": "", 
+  "longdescription": "Python client for HBase Thrift interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ea9bc15e7574c00e804552cfaee196e", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hbase-thrift/hbase-thrift-0.20.4.tar.gz"
+}

@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django field and widget for editing markup content (PlainText, HTML,Markdown, reStructuredText, Textile) using the CodeMirror editor withlive preview.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/fabianbuechler/django-markupmirror", 
+  "info": {
+    "Author:": "Fabian B\u00fcchler", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/fabianbuechler/django-markupmirror", 
+    "Keywords:": "django markup field widget codemirror", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "fabianbuechler", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django field and widget for editing markup content (PlainText, HTML,Markdown, reStructuredText, Textile) using the CodeMirror editor withlive preview.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd30b811d3d75b9a3e58e407ad5e9e79", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-markupmirror/django-markupmirror-0.1c1.tar.gz"
+}

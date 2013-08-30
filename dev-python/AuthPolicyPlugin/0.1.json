@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tracs auth_policy with some improvements.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mitar.tnode.com/", 
+  "info": {
+    "Author:": "Mitar", 
+    "Home Page:": "http://mitar.tnode.com/", 
+    "Keywords:": "trac plugin", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "mitar"
+  }, 
+  "license": "", 
+  "longdescription": "Tracs auth_policy with some improvements.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03b3e52232d626e91b824bd92b84e8df", 
+  "source_uri": "https://pypi.python.org/packages/source/A/AuthzPolicyPlugin/AuthzPolicyPlugin-0.1.tar.gz"
+}

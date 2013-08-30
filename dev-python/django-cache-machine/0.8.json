@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatic caching and invalidation for Django models through the ORM.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jbalogh/django-cache-machine", 
+  "info": {
+    "Author:": "Jeff Balogh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment", 
+        "Mozilla"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jbalogh/django-cache-machine", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jbalogh"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Automatic caching and invalidation for Django models through the ORM.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64b7deba5b06b425d041b69bf22d67ea", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cache-machine/django-cache-machine-0.8.tar.gz"
+}

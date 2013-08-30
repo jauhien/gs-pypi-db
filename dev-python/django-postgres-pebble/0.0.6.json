@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "First-class Postgres feature support for the Django ORM. (Pebble Branch)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Scott Walton", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "pebble"
+  }, 
+  "license": "", 
+  "longdescription": "First-class Postgres feature support for the Django ORM. (Pebble Branch)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ad86bae0f780f2c81bc346d388a6dca2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-postgres-pebble/django-postgres-pebble-0.0.6.tar.gz"
+}

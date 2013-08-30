@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe that installs and configures a Trac server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://atomisator.ziade.org", 
+  "info": {
+    "Author:": "Tarek Ziade", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://atomisator.ziade.org", 
+    "Keywords:": "trac pbp", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "kdeldycke", 
+    "Package Index Owner:": "tarek, kdeldycke"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "C Buildout recipe that installs and configures a Trac server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f603c2508b7723af59aee6b4569db1a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pbp.recipe.trac/pbp.recipe.trac-0.1.1.tar.gz"
+}

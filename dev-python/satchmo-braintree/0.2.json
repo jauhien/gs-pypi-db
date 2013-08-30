@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An easy way to integrate Satchmo checkout with Braintree Payment Solutions gateway.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tivix/satchmo-braintree", 
+  "info": {
+    "Author:": "Sumit Chachra", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tivix/satchmo-braintree", 
+    "Keywords:": "satchmo django braintree payment ecommerce", 
+    "Package Index Owner:": "Tivix"
+  }, 
+  "license": "", 
+  "longdescription": "An easy way to integrate Satchmo checkout with Braintree Payment Solutions gateway.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "43c96c3eab0859af149912d98be317fc", 
+  "source_uri": "https://pypi.python.org/packages/source/s/satchmo-braintree/satchmo-braintree-0.2.tar.gz"
+}

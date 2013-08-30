@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library to parse ISC style config files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jacob C. Collins", 
+    "Keywords:": "isc config bind dhcp parser dns python", 
+    "License:": "BSD", 
+    "Package Index Owner:": "stephenharrell, jcollins"
+  }, 
+  "license": "", 
+  "longdescription": "Python library to parse ISC style config files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ad092203ad641f1886116d1a7ff5482c", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iscpy/iscpy-1.05.tar.gz"
+}

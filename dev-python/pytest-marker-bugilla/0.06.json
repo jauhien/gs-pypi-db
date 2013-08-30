@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "py.test bugilla integration plugin, using markers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/eanxgeek/pytest_marker_bugzilla", 
+  "info": {
+    "Author:": "Eric Sammons", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/eanxgeek/pytest_marker_bugzilla", 
+    "License:": "GPL", 
+    "Package Index Owner:": "eanxgeek", 
+    "Platform:": "linux,osx,win32"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "py.test bugilla integration plugin, using markers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "726ce007d64da424a58e23f82802f03a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-marker-bugzilla/pytest-marker-bugzilla-0.06.tar.gz"
+}

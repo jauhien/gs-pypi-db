@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sphinx extension for including doctests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.sphinx.includedoc", 
+  "info": {
+    "Author:": "Rok Garbas", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.sphinx.includedoc", 
+    "Keywords:": "zope archetypes sphinx documentation", 
+    "License:": "GPL", 
+    "Package Index Owner:": "garbas, petri"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Sphinx extension for including doctests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "57c1a2ce18a04d95d5da8ac687bf7313", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.sphinx.includedoc/collective.sphinx.includedoc-0.2.zip"
+}

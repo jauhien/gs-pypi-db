@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Elementary parallel programming for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Paul Boddie", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Download URL:": "http://www.boddie.org.uk/python/downloads/parallel-0.2.5.tar.gz", 
+    "Keywords:": "parallel pprocess fork socketpair socket channel", 
+    "License:": "LGPL (version 3 or later)", 
+    "Maintainer:": "Paul Boddie", 
+    "Package Index Owner:": "pboddie", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Elementary parallel programming for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.boddie.org.uk/python/downloads/parallel-0.2.5.tar.gz"
+}

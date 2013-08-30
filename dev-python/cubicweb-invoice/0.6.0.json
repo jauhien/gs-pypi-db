@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "invoice component for the CubicWeb framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-invoice", 
+  "info": {
+    "Author:": "Logilab", 
+    "Categories": {
+      "Framework": [
+        "CubicWeb"
+      ]
+    }, 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-invoice", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "invoice component for the CubicWeb framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f8046acd7c5a5dfbe4e841a09e764529", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-invoice/cubicweb-invoice-0.6.0.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convenience lib for making certain kinds of ES queries", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.mozilla.org/automation/mozautoeslib", 
+  "info": {
+    "Author:": "Jonathan Griffin", 
+    "Home Page:": "http://hg.mozilla.org/automation/mozautoeslib", 
+    "License:": "MPL", 
+    "Package Index Owner:": "jgriffin"
+  }, 
+  "license": "", 
+  "longdescription": "Convenience lib for making certain kinds of ES queries", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88ef49341aae21fef8b6ccb438844f45", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozautoeslib/mozautoeslib-0.1.2.tar.gz"
+}

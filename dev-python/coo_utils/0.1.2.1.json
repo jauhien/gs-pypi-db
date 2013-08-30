@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "utilities for managing nested lists of lists of scipy.sparse matrices", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/coo_utils/", 
+  "info": {
+    "Author:": "David N. Mashburn", 
+    "Home Page:": "http://pypi.python.org/pypi/coo_utils/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "mashbudn"
+  }, 
+  "license": "", 
+  "longdescription": "utilities for managing nested lists of lists of scipy.sparse matrices", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36a17b3e0c7c683edf01f628bf84bc4f", 
+  "source_uri": "https://pypi.python.org/packages/source/c/coo_utils/coo_utils-0.1.2.1.tar.gz"
+}

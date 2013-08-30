@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OCCI interface for Openstack.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://intel.com", 
+  "info": {
+    "Author:": "Intel Performance Learning Solutions Ltd.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://intel.com", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "tmetsch"
+  }, 
+  "license": "", 
+  "longdescription": "OCCI interface for Openstack.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1e2ebcbd9f1b2ffddbbc5feec4231628", 
+  "source_uri": "https://pypi.python.org/packages/source/o/openstackocci/openstackocci-essex-1.1.tar.gz"
+}

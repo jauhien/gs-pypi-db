@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Osiris oauth server PAS plugin.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/UPCnet/pas.plugins.osiris", 
+  "info": {
+    "Author:": "UPCnet Plone Team", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/UPCnet/pas.plugins.osiris", 
+    "Keywords:": "plone oauth osiris pas plugin", 
+    "License:": "gpl", 
+    "Package Index Owner:": "sneridagh"
+  }, 
+  "license": "", 
+  "longdescription": "Osiris oauth server PAS plugin.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d70890cde0cfde83f276607625707639", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pas.plugins.osiris/pas.plugins.osiris-1.0.zip"
+}

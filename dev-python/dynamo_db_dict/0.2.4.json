@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Python interface to Amaon DynamoDB, adding some dict-like sugar to boto.dynamodb.layer2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/denis-ryzhkov/dynamo_db_dict", 
+  "info": {
+    "Author:": "Denis Ryzhkov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/denis-ryzhkov/dynamo_db_dict", 
+    "License:": "MIT", 
+    "Package Index Owner:": "denisr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple Python interface to Amaon DynamoDB, adding some dict-like sugar to boto.dynamodb.layer2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "adf3e8c061c8abe2f6044af7a765fc57", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dynamo_db_dict/dynamo_db_dict-0.2.4.tar.gz"
+}

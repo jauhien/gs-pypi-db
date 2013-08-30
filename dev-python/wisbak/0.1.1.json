@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple nix backup system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/wiswaud/wisbak", 
+  "info": {
+    "Author:": "WiswauD", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Backup"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/wiswaud/wisbak", 
+    "Package Index Owner:": "wiswaud"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Simple nix backup system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "07bee2230e4074ecf1562225e4a3151d", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wisbak/wisbak-0.1.1.tar.gz"
+}

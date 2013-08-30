@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Grok-like configuration for ope local site and utilities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://grok.zope.org", 
+  "info": {
+    "Author:": "Grok Team", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/grokcore.site", 
+    "Home Page:": "http://grok.zope.org", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "philikon, thefunny42, jw, ctheune, faassen, janjaapdriessen"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Grok-like configuration for ope local site and utilities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4cb16d5af8925bd5081c87727b71682b", 
+  "source_uri": "http://pypi.python.org/pypi/grokcore.site"
+}

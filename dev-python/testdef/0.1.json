@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Testdef is an emerging test definition interchange intended for storing and describing tests in a public repository.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zyga/testdef", 
+  "info": {
+    "Author:": "Zygmunt Krynicki", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zyga/testdef", 
+    "Package Index Owner:": "zyga"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Testdef is an emerging test definition interchange intended for storing and describing tests in a public repository.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bbb77b0766866dd7be4fdb8733205bb0", 
+  "source_uri": "https://pypi.python.org/packages/source/t/testdef/testdef-0.1.tar.gz"
+}

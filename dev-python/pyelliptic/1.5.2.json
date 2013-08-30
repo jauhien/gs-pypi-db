@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish, ...", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yann2192/pyelliptic", 
+  "info": {
+    "Author:": "Yann GUIBET", 
+    "Categories": {
+      "Environment": [
+        "MacOS X"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yann2192/pyelliptic", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Yann.Guibet"
+  }, 
+  "license": "", 
+  "longdescription": "Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish, ...", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f94c5273bf1d8e57b26cba2da1ac30b6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyelliptic/pyelliptic-1.5.2.tar.gz"
+}

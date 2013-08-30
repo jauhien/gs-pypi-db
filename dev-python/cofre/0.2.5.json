@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "the serendipitous password manager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rferreira/cofre", 
+  "info": {
+    "Author:": "Rafael Ferreira", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rferreira/cofre", 
+    "Keywords:": "password encryption rsa", 
+    "License:": "MIT/X11", 
+    "Package Index Owner:": "rferreira"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "the serendipitous password manager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ca618500fee848098719f31d3569d7b1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cofre/cofre-0.2.5.tar.gz"
+}

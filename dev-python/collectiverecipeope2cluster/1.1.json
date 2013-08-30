@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple recipe to create a ope cluster", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sixfeetup.com", 
+  "info": {
+    "Author:": "Six Feet Up, Inc.", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://sixfeetup.com", 
+    "Keywords:": "zope plone buildout recipe", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "claytron"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A simple recipe to create a ope cluster", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64eaa5cba6236e8d00235d0b34f69036", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.zope2cluster/collective.recipe.zope2cluster-1.1.tar.gz"
+}

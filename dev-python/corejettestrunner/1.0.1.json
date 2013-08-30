@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A test runner which can output an XML report compatible with JUnit and HudsonJenkins as well as XML and HTML reports compatible with the CoreJet BDD standard", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://corejet.org", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://corejet.org", 
+    "Keywords:": "hudson jenkins junit xml corejet zope.testing", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "datakurre, optilude"
+  }, 
+  "license": "", 
+  "longdescription": "A test runner which can output an XML report compatible with JUnit and HudsonJenkins as well as XML and HTML reports compatible with the CoreJet BDD standard", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "588c5393fe7329580c3f9e06555948e8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/corejet.testrunner/corejet.testrunner-1.0.1.zip"
+}

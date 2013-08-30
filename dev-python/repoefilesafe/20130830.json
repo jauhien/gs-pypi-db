@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Transaction-aware file creation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.repoze.org/filesafe/", 
+  "info": {
+    "Author:": "Wichert Akkerman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://docs.repoze.org/filesafe/", 
+    "Keywords:": "transaction wsgi repoze", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "wichert, fschulze"
+  }, 
+  "license": "", 
+  "longdescription": "Transaction-aware file creation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3fc5262ad8e44c34a3edc578ff820f46", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.filesafe/repoze.filesafe-2.0b1.tar.gz"
+}

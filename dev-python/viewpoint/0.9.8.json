@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple blog with hooks for categories, tinymce, tags and other things", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://opensource.washingtontimes.com/projects/viewpoint/", 
+  "info": {
+    "Author:": "Justin Quick, Corey Oordt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://opensource.washingtontimes.com/projects/viewpoint/", 
+    "Package Index Owner:": "coordt"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A simple blog with hooks for categories, tinymce, tags and other things", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ffc7527a7c8631eab8cb888384a2557d", 
+  "source_uri": "https://pypi.python.org/packages/source/v/viewpoint/viewpoint-0.9.8.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple cStringIO based FIFO, implemented as a circular buffer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/csFIFO", 
+  "info": {
+    "Author:": "Jason Morgan", 
+    "Bug Tracker:": "https://www.assembla.com/spaces/csfifo/tickets", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "https://www.assembla.com/code/csfifo/subversion/nodes/35/tags/csFIFO-1.4#", 
+    "Home Page:": "http://pypi.python.org/pypi/csFIFO", 
+    "Keywords:": "FIFO", 
+    "License:": "http://creativecommons.org/licenses/by-sa/3.0/", 
+    "Package Index Owner:": "moog", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A simple cStringIO based FIFO, implemented as a circular buffer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://www.assembla.com/code/csfifo/subversion/nodes/35/tags/csFIFO-1.4#"
+}

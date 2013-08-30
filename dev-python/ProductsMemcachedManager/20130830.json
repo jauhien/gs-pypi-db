@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Memcache cache manager for ope", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Sidnei da Silva", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "memcache Zope cache cachemanager", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "wichert, sidnei, tesdal"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Memcache cache manager for ope", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a459d37cbd6302eb440c1792a700fb42", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.MemcachedManager/Products.MemcachedManager-1.1b2.zip"
+}

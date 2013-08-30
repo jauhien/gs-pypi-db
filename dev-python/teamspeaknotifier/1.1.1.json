@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Show unobtrusive notifications when certain things happen in teamspeak.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/latestrevision/teamspeak-notification/", 
+  "info": {
+    "Author:": "Adam Coddington", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/latestrevision/teamspeak-notification/", 
+    "Package Index Owner:": "latestrevision"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Show unobtrusive notifications when certain things happen in teamspeak.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ed347de091bd2331c563d76686f2064", 
+  "source_uri": "https://pypi.python.org/packages/source/t/teamspeaknotifier/teamspeaknotifier-1.1.1.tar.gz"
+}

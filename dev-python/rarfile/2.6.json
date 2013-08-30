@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RAR archive reader for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/markokr/rarfile", 
+  "info": {
+    "Author:": "Marko Kreen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Compression"
+      ]
+    }, 
+    "Home Page:": "https://github.com/markokr/rarfile", 
+    "Keywords:": "rar,unrar,archive", 
+    "License:": "ISC", 
+    "Package Index Owner:": "mkz"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "RAR archive reader for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "50ce3f3fdb9196a00059a5ea7b3739fd", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rarfile/rarfile-2.6.tar.gz"
+}

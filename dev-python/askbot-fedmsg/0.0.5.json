@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Askbot plugin for emitting events to the Fedora message bus", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fedora-infra/askbot-fedmsg/", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fedora-infra/askbot-fedmsg/", 
+    "License:": "LGPLv2+", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "Askbot plugin for emitting events to the Fedora message bus", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4f44f6421a3b1c46fc411b93ae604ec0", 
+  "source_uri": "https://pypi.python.org/packages/source/a/askbot-fedmsg/askbot-fedmsg-0.0.5.tar.gz"
+}

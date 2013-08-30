@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GDSII manipulation libaray", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gitorious.org/python-gdsii", 
+  "info": {
+    "Author:": "Eugeniy Meshcheryakov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//python-gdsii", 
+    "Home Page:": "http://www.gitorious.org/python-gdsii", 
+    "License:": "LGPL-3+", 
+    "Package Index Owner:": "Eugeniy.Meshcheryakov", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "GDSII manipulation libaray", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5715dbad323e53e591ab530d4312d059", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-gdsii/python-gdsii-0.2.1.tar.gz"
+}

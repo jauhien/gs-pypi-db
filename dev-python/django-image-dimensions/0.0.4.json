@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatically add dimension attributes to all img tags in a response to improve rendering speed on the client.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/InviteBox/django-image-dimensions", 
+  "info": {
+    "Author:": "Alexander Tereshkin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/InviteBox/django-image-dimensions", 
+    "Keywords:": "django images performance", 
+    "License:": "BSD", 
+    "Package Index Owner:": "atereshkin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Automatically add dimension attributes to all img tags in a response to improve rendering speed on the client.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd0d2f3494620305fd91410522f40610", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-image-dimensions/django-image-dimensions-0.0.4.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A portreimplementation of Webware WebKit in WSGI and Paste", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonpaste.org/webkit/", 
+  "info": {
+    "Author:": "Ian Bicking", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pythonpaste.org/webkit/", 
+    "Keywords:": "web wsgi application framework webware webkit", 
+    "Package Index Owner:": "ianb"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A portreimplementation of Webware WebKit in WSGI and Paste", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f06815a43eebf4672143b4e29021a57", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PasteWebKit/PasteWebKit-1.0.tar.gz"
+}

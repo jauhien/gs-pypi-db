@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A clean interface for sending metrics to Graphite over UDP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/derpston/python-graphiteudp", 
+  "info": {
+    "Author:": "Derp Ston", 
+    "Home Page:": "https://github.com/derpston/python-graphiteudp", 
+    "Package Index Owner:": "derpston"
+  }, 
+  "license": "", 
+  "longdescription": "A clean interface for sending metrics to Graphite over UDP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ab659dc65811859c6e1e0d6a9bca5a5", 
+  "source_uri": "https://pypi.python.org/packages/source/g/graphiteudp/graphiteudp-0.0.2.tar.gz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enables email subscription to Ploneboard posts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/products.ploneboardsubscription", 
+  "info": {
+    "Author:": "Suresh V", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/products.ploneboardsubscription", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sureshvv"
+  }, 
+  "license": "", 
+  "longdescription": "Enables email subscription to Ploneboard posts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "020c9a84e8a6b3374eeb0dbbc48b976d", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneboardSubscription/Products.PloneboardSubscription-0.9.zip"
+}

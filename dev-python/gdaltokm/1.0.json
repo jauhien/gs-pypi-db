@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows conversion from GDAL-supported raster geographic formats to the KM format used by the free Google Earth client.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gecensus.stanford.edu/gcensus-gt", 
+  "info": {
+    "Author:": "Imran Haque", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://gecensus.stanford.edu/gcensus-gt", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ihaque"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Allows conversion from GDAL-supported raster geographic formats to the KM format used by the free Google Earth client.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "278d525ffdbd1de11773764d3d5b72f3", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gdaltokmz/gdaltokmz-1.0.tar.gz"
+}

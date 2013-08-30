@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "EAD2002 (DTD or XSD) universal validator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/eadhost/eadator", 
+  "info": {
+    "Author:": "Brian Tingle", 
+    "Home Page:": "https://github.com/eadhost/eadator", 
+    "Keywords:": "validate ead 2002 xml xsd dtd", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Brian.Tingle"
+  }, 
+  "license": "", 
+  "longdescription": "EAD2002 (DTD or XSD) universal validator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "22b81855a5ae6e0c8088ed5ab33a64ac", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eadator/eadator-0.2.tar.gz"
+}

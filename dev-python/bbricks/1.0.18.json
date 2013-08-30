@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CC++ builder on top of SCons, automatically enforcing quality, coding standards, etc", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "alvaro ramirez", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Quality Assurance"
+      ]
+    }, 
+    "Keywords:": "scons,cpp,cpplint", 
+    "Package Index Owner:": "aramirez"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "CC++ builder on top of SCons, automatically enforcing quality, coding standards, etc", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a829c80334b47cb83ca01820cc0eccaa", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bbricks/bbricks-1.0.18.tar.gz"
+}

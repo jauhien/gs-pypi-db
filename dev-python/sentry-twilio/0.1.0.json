@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plugin for Sentry which sends SMS notifications via Twilio", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mattrobenolt/sentry-twilio", 
+  "info": {
+    "Author:": "Matt Robenolt", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mattrobenolt/sentry-twilio", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mattrobenolt"
+  }, 
+  "license": "", 
+  "longdescription": "A plugin for Sentry which sends SMS notifications via Twilio", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b132c47d4b89590e6230324c886fd8ac", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-twilio/sentry-twilio-0.1.0.tar.gz"
+}

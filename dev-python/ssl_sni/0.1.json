@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper to pyOpenSSL to provide an interface like the standard ssl module.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pypi.python.org/pypi/ssl_sni/0.1", 
+  "info": {
+    "Author:": "Alex Orange", 
+    "Home Page:": "https://pypi.python.org/pypi/ssl_sni/0.1", 
+    "License:": "LICENSE", 
+    "Package Index Owner:": "crazycasta"
+  }, 
+  "license": "", 
+  "longdescription": "A wrapper to pyOpenSSL to provide an interface like the standard ssl module.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "328507ca227161e702ada6efdd2b1978", 
+  "source_uri": "https://pypi.python.org/packages/source/s/ssl_sni/ssl_sni-0.1.tar.gz"
+}

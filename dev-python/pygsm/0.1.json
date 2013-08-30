@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send SMS using devices attached to serial port", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wiki.github.com/adammck/pygsm/", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Download URL:": "http://github.com/adammck/pygsm/downloads", 
+    "Home Page:": "http://wiki.github.com/adammck/pygsm/", 
+    "Keywords:": "gsm, sms", 
+    "Package Index Owner:": "itamarst, malthe"
+  }, 
+  "license": "", 
+  "longdescription": "Send SMS using devices attached to serial port", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://github.com/adammck/pygsm/downloads"
+}

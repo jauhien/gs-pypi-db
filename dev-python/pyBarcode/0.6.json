@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create standard barcodes with Python. No external modules needed (optional PIL support included).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/whitie/python-barcode/", 
+  "info": {
+    "Author:": "Thorsten Weimann", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyBarcode", 
+    "Home Page:": "https://bitbucket.org/whitie/python-barcode/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "whitie"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Create standard barcodes with Python. No external modules needed (optional PIL support included).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f106daf2b20c08cf81e1c7d2b439d0f4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyBarcode/pyBarcode-0.6.tar.gz"
+}

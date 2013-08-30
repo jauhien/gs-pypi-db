@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of c.buildout recipes and support for declarative configuration for Buildbot", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.buildbot", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.buildbot", 
+    "Keywords:": "buildout buildbot", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "sidnei, ingeniweb, gawel, reinout, thefunny42", 
+    "Package Index Owner:": "dokai, gawel, tarek, reinout, thefunny42"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A set of c.buildout recipes and support for declarative configuration for Buildbot", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f495c143b035e4c0ced40d6d2214a9ea", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.buildbot/collective.buildbot-0.4.1.tar.gz"
+}

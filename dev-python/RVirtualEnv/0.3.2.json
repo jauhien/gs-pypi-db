@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "relocatable python virtual environment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kvbik/rvirtualenv", 
+  "info": {
+    "Author:": "Jakub Vysoky", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/kvbik/rvirtualenv", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kvbik"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "relocatable python virtual environment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4593c0dc72a45702dc0a24555eacad76", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RVirtualEnv/RVirtualEnv-0.3.2.tar.gz"
+}

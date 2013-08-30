@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A class which provides a fixed duration simulation loop with frame skipping when needed.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/corsair-redux/wiki/mainloop", 
+  "info": {
+    "Author:": "Simon Wittber", 
+    "Home Page:": "http://code.google.com/p/corsair-redux/wiki/mainloop", 
+    "License:": "MIT", 
+    "Package Index Owner:": "simonwittber", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "A class which provides a fixed duration simulation loop with frame skipping when needed.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18916b6c1a3f41965b799edafaf67650", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mainloop/mainloop-2.tar.gz"
+}

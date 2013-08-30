@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Client for HealthGraph API from RunKeeper.com.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://aouyar.github.com/healthgraph-api", 
+  "info": {
+    "Author:": "Ali Onur Uyar", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://aouyar.github.com/healthgraph-api", 
+    "Keywords:": "Health,Graph,API,RunKeeper", 
+    "License:": "GPL", 
+    "Package Index Owner:": "aouyar"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python Client for HealthGraph API from RunKeeper.com.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c60e7e8c92b33a96ef6400ec96e50023", 
+  "source_uri": "https://pypi.python.org/packages/source/h/healthgraph-api/healthgraph-api-0.3.0.tar.gz"
+}

@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XML Localisation Interchange File Format (XLIFF) serialier for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/callowayproject/django-xliff", 
+  "info": {
+    "Author:": "Corey Oordt", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ]
+    }, 
+    "Home Page:": "https://github.com/callowayproject/django-xliff", 
+    "Package Index Owner:": "coordt"
+  }, 
+  "license": "", 
+  "longdescription": "XML Localisation Interchange File Format (XLIFF) serialier for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae37bd1db47ce0e12c16364ea0558e28", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-xliff/django-xliff-0.3.1.tar.gz"
+}

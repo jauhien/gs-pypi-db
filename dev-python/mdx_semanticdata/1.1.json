@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python-Markdown extension to add support for semantic data (RDFa).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://activearchives.org/", 
+  "info": {
+    "Author:": "Alexandre Leray", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Home Page:": "http://activearchives.org/", 
+    "Package Index Owner:": "aleray"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python-Markdown extension to add support for semantic data (RDFa).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "228d7c4e87fac7b2d9ebeec29a3fc522", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mdx_semanticdata/mdx_semanticdata-1.1.tar.gz"
+}

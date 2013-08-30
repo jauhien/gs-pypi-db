@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extended Dashboard manager based on collective.portletpage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/vs.dashboardmanager", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/vs.dashboardmanager", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ajung, micecchi"
+  }, 
+  "license": "", 
+  "longdescription": "An extended Dashboard manager based on collective.portletpage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7cb17fb3c0cf72f2157f7b8096cdda9a", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vs.dashboardmanager/vs.dashboardmanager-0.3.4.tar.gz"
+}

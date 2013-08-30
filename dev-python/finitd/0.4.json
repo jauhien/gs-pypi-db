@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple init.d script replacement with support for daemoniation,    redirection to logfiles, and automatic restarting of abnormally failed processes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/finitd", 
+  "info": {
+    "Author:": "Jeremy Fincher", 
+    "Home Page:": "http://sourceforge.net/projects/finitd", 
+    "Keywords:": "init.d daemon babysitting monitoring", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jemfinch"
+  }, 
+  "license": "", 
+  "longdescription": "Simple init.d script replacement with support for daemoniation,    redirection to logfiles, and automatic restarting of abnormally failed processes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba3c851d492979bdea42bef77fe30720", 
+  "source_uri": "https://pypi.python.org/packages/source/f/finitd/finitd-0.4.tar.gz"
+}

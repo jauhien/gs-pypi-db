@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cogbin is a webtool that sync with pypi, it retrives metadata from it and displays the categories you set up in its web interface. It is running for turbogears2 with turbogears2 categories by default but these can be adjusted at any time. Install it, modify the categories, deploy and you have a list of packages for your software community.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/cogbin/+download", 
+  "info": {
+    "Author:": "Lukasz Szybalski", 
+    "Home Page:": "https://launchpad.net/cogbin/+download", 
+    "Keywords:": "turbogears2.application", 
+    "Package Index Owner:": "lszyba1"
+  }, 
+  "license": "", 
+  "longdescription": "Cogbin is a webtool that sync with pypi, it retrives metadata from it and displays the categories you set up in its web interface. It is running for turbogears2 with turbogears2 categories by default but these can be adjusted at any time. Install it, modify the categories, deploy and you have a list of packages for your software community.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "946ee88b8fb9e3bfa15000b1bea733a8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cogbin/cogbin-0.2.11dev.tar.gz"
+}

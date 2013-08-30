@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "mongoq generates MongoDB queries from simple python expressions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/alonho/mongoq", 
+  "info": {
+    "Author:": "Alon Horev", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/alonho/mongoq", 
+    "License:": "BSD", 
+    "Package Index Owner:": "alonho"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "mongoq generates MongoDB queries from simple python expressions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f4fc26828712578f55963e1122db4bb", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mongoq/mongoq-0.1.tar.gz"
+}

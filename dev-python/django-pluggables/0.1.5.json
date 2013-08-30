@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A design pattern for Django that allows you to build Pluggable Reusable Applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nowells/django-pluggables/", 
+  "info": {
+    "Author:": "Nowell Strite", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nowells/django-pluggables/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nowells", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A design pattern for Django that allows you to build Pluggable Reusable Applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33915b9b27711a6e904a4e555894602a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pluggables/django-pluggables-0.1.5.tar.gz"
+}

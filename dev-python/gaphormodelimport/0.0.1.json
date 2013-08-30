@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple model merging plugin for Gaphor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.boduch.ca/", 
+  "info": {
+    "Author:": "Adam Boduch", 
+    "Home Page:": "http://www.boduch.ca/", 
+    "Keywords:": "uml, gaphor, plugin", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "adamboduch"
+  }, 
+  "license": "", 
+  "longdescription": "Simple model merging plugin for Gaphor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ba6d66cf70bd95e1ea4befbb6bfbc9d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gaphormodelimport/gaphormodelimport-0.0.1.tar.gz"
+}

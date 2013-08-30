@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple library for easily customied backup and uploading of your files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/backitup/", 
+  "info": {
+    "Author:": "Rob Galanakis", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Backup"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/backitup", 
+    "Home Page:": "http://code.google.com/p/backitup/", 
+    "Keywords:": "archive,backup,upload", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Rob.Galanakis", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple library for easily customied backup and uploading of your files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ba2dfe41b051f1c8dfb512ec87d5fd2", 
+  "source_uri": "http://pypi.python.org/pypi/backitup"
+}

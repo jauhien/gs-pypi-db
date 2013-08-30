@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CSV importexport for Archetypes or other contents (via plugins for the later). Created by Makina Corpus.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/Products.csvreplicata", 
+  "info": {
+    "Author:": "Eric BREHAULT", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/Products.csvreplicata", 
+    "Keywords:": "archetypes,import/export,csv,replication,synchronisation", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "kiorky, jpcw, toutpt", 
+    "Package Index Owner:": "ebrehault, kiorky"
+  }, 
+  "license": "", 
+  "longdescription": "CSV importexport for Archetypes or other contents (via plugins for the later). Created by Makina Corpus.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f91400205965ae5eafd1b69267005966", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.csvreplicata/Products.csvreplicata-1.1.13.zip"
+}

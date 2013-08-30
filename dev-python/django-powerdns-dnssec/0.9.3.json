@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PowerDNS administration app for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/ambv/django-powerdns/", 
+  "info": {
+    "Author:": "Peter Nixon, \u0141ukasz Langa", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/ambv/django-powerdns/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ambv", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "PowerDNS administration app for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "961460fe945de7c9d8b1b58c1fb1e9df", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-powerdns-dnssec/django-powerdns-dnssec-0.9.3.tar.gz"
+}

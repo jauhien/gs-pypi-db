@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python wrapper for elock distributed locking server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/PyELock/", 
+  "info": {
+    "Author:": "Nitzan Miron", 
+    "Home Page:": "http://pypi.python.org/pypi/PyELock/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "nitzanm"
+  }, 
+  "license": "", 
+  "longdescription": "Pure Python wrapper for elock distributed locking server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "065e871d7249066a52aedcbadc0f36ed", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyELock/PyELock-1.0.1.zip"
+}

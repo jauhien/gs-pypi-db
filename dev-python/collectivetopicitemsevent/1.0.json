@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Facilitate flexible scheduled notifications in Plone Fire Topic Item Events for items in a Topic", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.topicitemsevent", 
+  "info": {
+    "Author:": "Kees Hink", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.topicitemsevent", 
+    "Keywords:": "Plone notifications", 
+    "License:": "GPL", 
+    "Package Index Owner:": "khink, helmantel, huub, kcleong, puittenbroek"
+  }, 
+  "license": "", 
+  "longdescription": "Facilitate flexible scheduled notifications in Plone Fire Topic Item Events for items in a Topic", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e3a6db05697629c07069c73e8830b8b4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.topicitemsevent/collective.topicitemsevent-1.0.zip"
+}

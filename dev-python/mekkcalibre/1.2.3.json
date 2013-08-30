@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Calibre helper scripts (ISBN guessing, RTF to DOC conversion,hanging books detection, ...).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mekk.waw.pl/", 
+  "info": {
+    "Author:": "Marcin Kasperski", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://mekk.waw.pl/", 
+    "Keywords:": "org", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Mekk"
+  }, 
+  "license": "", 
+  "longdescription": "Calibre helper scripts (ISBN guessing, RTF to DOC conversion,hanging books detection, ...).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "591ad0c0fc940759ea7483f6995ac955", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mekk.calibre/mekk.calibre-1.2.3.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pidfile creation and cleanup", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ccollins/pidme", 
+  "info": {
+    "Author:": "Chuck Collins", 
+    "Home Page:": "http://github.com/ccollins/pidme", 
+    "Keywords:": "pid pidfile python", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ccollins"
+  }, 
+  "license": "", 
+  "longdescription": "Pidfile creation and cleanup", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7badbbe9cf8cef1e56c6be33da9b6b3b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pidme/pidme-1.0.tar.gz"
+}

@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A basic calorie-counting and meal-logging program.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/PyCalCount/", 
+  "info": {
+    "Author:": "x.seeks", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/PyCalCount/", 
+    "Keywords:": "calorie, weight, diet, pycalcount", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "x.seeks", 
+    "Platform:": "*nix, Windows"
+  }, 
+  "license": "", 
+  "longdescription": "A basic calorie-counting and meal-logging program.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c64cb11638355f155a8bbcd508a410e7", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyCalCount/PyCalCount-0.1.0.tar.gz"
+}

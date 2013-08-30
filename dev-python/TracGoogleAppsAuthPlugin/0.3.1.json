@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trac authentication plugin for integration with hosted Google Apps domain", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/tracgoogleappsauthplugin/", 
+  "info": {
+    "Author:": "David A. Riggs", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/tracgoogleappsauthplugin/", 
+    "Home Page:": "http://code.google.com/p/tracgoogleappsauthplugin/", 
+    "Package Index Owner:": "riggs"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Trac authentication plugin for integration with hosted Google Apps domain", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3f36a47e4e248c509a95bf9f2935cbe", 
+  "source_uri": "http://code.google.com/p/tracgoogleappsauthplugin/"
+}

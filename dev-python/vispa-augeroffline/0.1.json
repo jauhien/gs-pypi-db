@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "VISPA Auger Offline Extension", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://vispa.physik.rwth-aachen.de/", 
+  "info": {
+    "Author:": "VISPA Project", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "CherryPy"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://vispa.physik.rwth-aachen.de/", 
+    "License:": "GNU GPL v2", 
+    "Package Index Owner:": "gmueller"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "VISPA Auger Offline Extension", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82285d187384bd58ae098e65f6c9006e", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vispa-augeroffline/vispa-augeroffline-0.1.1.tar.gz"
+}

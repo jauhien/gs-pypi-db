@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sphinx-based blogging engine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/codekoala/hgblog/", 
+  "info": {
+    "Author:": "Josh VanderLinden", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Education"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/hgblog", 
+    "Home Page:": "http://bitbucket.org/codekoala/hgblog/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "codekoala", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Sphinx-based blogging engine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "92d78d8089d6d023a969b3f8270e8c66", 
+  "source_uri": "http://pypi.python.org/pypi/hgblog"
+}

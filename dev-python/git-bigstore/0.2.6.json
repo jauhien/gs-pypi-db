@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Track big files with Git.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Dan Loewenherz", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "dloewenherz.myopenid.com"
+  }, 
+  "license": "", 
+  "longdescription": "Track big files with Git.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "307bf40cfb6fc2c5d206ad39f992c648", 
+  "source_uri": "https://pypi.python.org/packages/source/g/git-bigstore/git-bigstore-0.2.6.tar.gz"
+}

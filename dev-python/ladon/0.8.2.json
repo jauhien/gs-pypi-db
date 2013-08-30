@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Serve your python methods to several types of internet services at once.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ladonize.org", 
+  "info": {
+    "Author:": "Jakob Simon-Gaarde", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Server"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ladon", 
+    "Home Page:": "http://ladonize.org", 
+    "Keywords:": "ladonize,soap,json,shell,rpc,wsgi", 
+    "License:": "LGPL3", 
+    "Package Index Owner:": "Jakob.SimonGaarde"
+  }, 
+  "license": "", 
+  "longdescription": "Serve your python methods to several types of internet services at once.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62a4bd2b6a5d0af0067f3bab37f82c0b", 
+  "source_uri": "https://pypi.python.org/packages/source/l/ladon/ladon-0.8.2.tar.gz"
+}

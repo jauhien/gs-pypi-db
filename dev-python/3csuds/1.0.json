@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manages a pool of suds SOAP clients within the context of a ope application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.zope.org/z3c.suds/trunk", 
+  "info": {
+    "Author:": "David Glick, Groundwire", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.zope.org/z3c.suds/trunk", 
+    "Keywords:": "suds soap zope zodb", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "Manages a pool of suds SOAP clients within the context of a ope application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49037e3afc5d174beed5161c0a2dc7bc", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.suds/z3c.suds-1.0.zip"
+}

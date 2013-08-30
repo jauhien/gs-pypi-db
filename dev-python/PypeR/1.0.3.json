@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python interface to R lanugage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.webarray.org/softwares/PypeR", 
+  "info": {
+    "Author:": "Xiao-Qin Xia", 
+    "Home Page:": "http://www.webarray.org/softwares/PypeR", 
+    "Keywords:": "R language interface", 
+    "License:": "GPL", 
+    "Maintainer:": "Xiao-Qin Xia", 
+    "Package Index Owner:": "xqxia", 
+    "Platform:": "POSIX or Windows"
+  }, 
+  "license": "", 
+  "longdescription": "A python interface to R lanugage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8b9535e825d88dc6f15aff13c6e180c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PypeR/PypeR-1.0.3.tar.gz"
+}

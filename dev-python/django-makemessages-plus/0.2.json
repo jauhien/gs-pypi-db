@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An django extension to support making messages from coffeescript files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/hoozecn/django-makemessages-plus", 
+  "info": {
+    "Author:": "Zhimin Wu", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/hoozecn/django-makemessages-plus", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "Zhimin.Wu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An django extension to support making messages from coffeescript files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a41b3a0539c611b835cc56eb87ed6b16", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-makemessages-plus/django-makemessages-plus-0.2.tar.gz"
+}

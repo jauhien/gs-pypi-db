@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An example Archetypes-based product.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/example.archetype", 
+  "info": {
+    "Author:": "Kamon Ayeva", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/example.archetype", 
+    "Keywords:": "zope archetypes plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "kayeva"
+  }, 
+  "license": "", 
+  "longdescription": "An example Archetypes-based product.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8af612bf0a4ac120f501128d4dd3ca9f", 
+  "source_uri": "https://pypi.python.org/packages/source/e/example.archetype/example.archetype-1.0.tar.gz"
+}

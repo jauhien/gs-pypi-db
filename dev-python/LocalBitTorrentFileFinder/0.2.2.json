@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Find local files described in a BitTorrent metafile", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/torik/local-bittorrent-file-finder/wiki/Home", 
+  "info": {
+    "Author:": "torik", 
+    "Home Page:": "https://bitbucket.org/torik/local-bittorrent-file-finder/wiki/Home", 
+    "License:": "Python Software Foundation License", 
+    "Package Index Owner:": "tori_k"
+  }, 
+  "license": "", 
+  "longdescription": "Find local files described in a BitTorrent metafile", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a8b51b5a6a7b6fdde5832d85953438f9", 
+  "source_uri": "https://pypi.python.org/packages/source/L/LocalBitTorrentFileFinder/LocalBitTorrentFileFinder-0.2.2.tar.gz"
+}

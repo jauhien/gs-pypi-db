@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small (RIS) Whois client.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gitorious.org/python-whois", 
+  "info": {
+    "Author:": "Rapha\u00c3\u00abl Vinot", 
+    "Home Page:": "http://gitorious.org/python-whois", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "Raphael2", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "A small (RIS) Whois client.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "272d4febe53b0a05c342c4d7827b7d68", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WhoisClient/WhoisClient-1.0dev.tar.gz"
+}

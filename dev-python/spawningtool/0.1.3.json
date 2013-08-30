@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Build order parser for SC2 replays", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Kevin Leung", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Games/Entertainment", 
+        "Real Time Strategy"
+      ]
+    }, 
+    "Package Index Owner:": "Kevin.Leung"
+  }, 
+  "license": "", 
+  "longdescription": "Build order parser for SC2 replays", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b7c9322abd4ebab9ca4175dac1d8530", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spawningtool/spawningtool-0.1.3.tar.gz"
+}

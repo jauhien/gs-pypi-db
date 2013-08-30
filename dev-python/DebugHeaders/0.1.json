@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Debug headers (and bodies) of WSGI requests and responses", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ian Bicking", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Keywords:": "wsgi debugging", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ianb"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Debug headers (and bodies) of WSGI requests and responses", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8bf2bf4f86447eb48dd0039c6d3f959f", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DebugHeaders/DebugHeaders-0.1.tar.gz"
+}

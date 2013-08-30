@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fetch StarCraft II profiles on battle.net", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Henry Pr\u00c3\u00aacheur", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "License:": "ISCL", 
+    "Package Index Owner:": "henry"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Fetch StarCraft II profiles on battle.net", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "55fcd57b6ef16f9ddea1d8ff498e8e4d", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sc2profile/sc2profile-0.2.tar.gz"
+}

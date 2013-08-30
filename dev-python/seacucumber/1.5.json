@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django email backend for Amaon Simple Email Service, backed by celery.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/duointeractive/sea-cucumber/", 
+  "info": {
+    "Author:": "Gregory Taylor", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/duointeractive/sea-cucumber/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gtaylor", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django email backend for Amaon Simple Email Service, backed by celery.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0510b1ed0956bdbfaf66af1eaf7eba1e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/seacucumber/seacucumber-1.5.tar.gz"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A middleware for proper handling of HEAD requests.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pylonsproject.org", 
+  "info": {
+    "Author:": "Chris Rossi", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://pylonsproject.org", 
+    "Keywords:": "web wsgi middleware", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrisrossi"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "A middleware for proper handling of HEAD requests.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61732c2e9f04f45022bbada0c4c2407d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/guillotine/guillotine-0.1.tar.gz"
+}

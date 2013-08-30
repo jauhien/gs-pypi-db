@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wiki engine backed by sqlite that provides its own http server, user authentication and is easy to administer from the command line.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cloudwiki.sourceforge.net", 
+  "info": {
+    "Author:": "Scott Dunlop", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/project/showfiles.php?group_id=128670", 
+    "Home Page:": "http://cloudwiki.sourceforge.net", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sdunlop"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A wiki engine backed by sqlite that provides its own http server, user authentication and is easy to administer from the command line.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://sourceforge.net/project/showfiles.php?group_id=128670"
+}

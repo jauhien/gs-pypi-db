@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone page that can contain portlets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.portletpage", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/collective/collective.portletpage/issues", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.portletpage", 
+    "Keywords:": "plone portlet content", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "massimo", 
+    "Package Index Owner:": "optilude, frisi, keul"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone page that can contain portlets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c63d1d7c162f4dcaae72485feeae199", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portletpage/collective.portletpage-1.1.tar.gz"
+}

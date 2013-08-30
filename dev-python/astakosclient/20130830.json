@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A client for the astakos authentication service.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.synnefo.org/", 
+  "info": {
+    "Author:": "Synnefo development team", 
+    "Home Page:": "http://www.synnefo.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vkoukis, psomas, Ilias.Tsitsimpis"
+  }, 
+  "license": "", 
+  "longdescription": "A client for the astakos authentication service.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b12828f398a2611fc7f657196ef44b3", 
+  "source_uri": "https://pypi.python.org/packages/source/a/astakosclient/astakosclient-0.14rc6-9723-7dd63e0.tar.gz"
+}

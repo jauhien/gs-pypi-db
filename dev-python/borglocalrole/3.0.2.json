@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A PAS plugin which can manage local roles via an adapter lookup on the current context", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/borg.localrole", 
+  "info": {
+    "Author:": "Borg Collective", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/borg.localrole", 
+    "Keywords:": "Plone PAS local roles", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "davisagli, esteele, optilude, witsch, alecm, hannosch, malthe", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A PAS plugin which can manage local roles via an adapter lookup on the current context", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04082694dfda9ae5cda62747b8ac7ccf", 
+  "source_uri": "https://pypi.python.org/packages/source/b/borg.localrole/borg.localrole-3.0.2.zip"
+}

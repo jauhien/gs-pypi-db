@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A MutableSet that remembers its order, so that every entry has an index.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/LuminosoInsight/orderedset", 
+  "info": {
+    "Author:": "Luminoso Technologies, Inc.", 
+    "Home Page:": "http://github.com/LuminosoInsight/orderedset", 
+    "License:": "MIT-LICENSE", 
+    "Package Index Owner:": "jbalonso, rspeer", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A MutableSet that remembers its order, so that every entry has an index.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f8d76c4d281a552b79c84be953ffefa", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ordered-set/ordered-set-1.1.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A not so advanced TinyMCE plugin for handling links to galleries", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/medialog.tinymceplugins.placegallery/", 
+  "info": {
+    "Author:": "Espen Moe-Nilssen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/medialog.tinymceplugins.placegallery/", 
+    "Keywords:": "tinymce plugin gallery link", 
+    "License:": "GPL", 
+    "Package Index Owner:": "espen"
+  }, 
+  "license": "", 
+  "longdescription": "A not so advanced TinyMCE plugin for handling links to galleries", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c948fd7744261e83fbde61d5a9b923aa", 
+  "source_uri": "https://pypi.python.org/packages/source/m/medialog.tinymceplugins.placegallery/medialog.tinymceplugins.placegallery-0.0.2alpha.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Django app that provides a Wysihtml5 rich text editor textarea widget.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/django-wysihtml5/", 
+  "info": {
+    "Author:": "Daniel Rus Morales", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/django-wysihtml5/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "danirus"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple Django app that provides a Wysihtml5 rich text editor textarea widget.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b24200d3acacab83e0bd27067a4553d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-wysihtml5/django-wysihtml5-1.2b1.tar.gz"
+}

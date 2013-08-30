@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Silly (but effective) database schema and data migration framework using SQLAlchemy.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/shazow/sqlalchemygrate", 
+  "info": {
+    "Author:": "Andrey Petrov", 
+    "Home Page:": "http://github.com/shazow/sqlalchemygrate", 
+    "License:": "MIT", 
+    "Package Index Owner:": "shazow"
+  }, 
+  "license": "", 
+  "longdescription": "Silly (but effective) database schema and data migration framework using SQLAlchemy.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8f2bf5c9a702be09e8406db07591247d", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlalchemygrate/sqlalchemygrate-0.1.tar.gz"
+}

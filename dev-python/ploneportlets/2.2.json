@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extension of ope.viewlet to support dynamic portlets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.portlets", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.portlets", 
+    "Keywords:": "portlet viewlet", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "davisagli, laurencerowe, optilude, wichert, hannosch, maurits, evilbungle, esteele"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "An extension of ope.viewlet to support dynamic portlets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b7e06bee6e40af83694b82e1fee8c2d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.portlets/plone.portlets-2.2.zip"
+}

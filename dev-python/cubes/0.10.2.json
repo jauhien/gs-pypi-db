@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightweight framework for Online Analytical Processing (OLAP) and multidimensional analysis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://databrewery.org", 
+  "info": {
+    "Author:": "Stefan Urbanek", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//cubes", 
+    "Home Page:": "http://databrewery.org", 
+    "Keywords:": "olap multidimensional data analysis", 
+    "License:": "MIT license with following addition: If your version of the Software supports interaction with it remotely through a computer network, the above copyright notice and this permission notice shall be accessible to all users.", 
+    "Package Index Owner:": "Stiivi"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Lightweight framework for Online Analytical Processing (OLAP) and multidimensional analysis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65814b276f5ae41bbd3a20ce543ec64b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubes/cubes-0.10.2.tar.gz"
+}

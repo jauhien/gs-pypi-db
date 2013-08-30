@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Socket.io server implementation on top of Tornado framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/MrJoes/tornadio/", 
+  "info": {
+    "Author:": "Serge S. Koval", 
+    "Home Page:": "http://github.com/MrJoes/tornadio/", 
+    "Package Index Owner:": "joes"
+  }, 
+  "license": "", 
+  "longdescription": "Socket.io server implementation on top of Tornado framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d7600862364edf846fd5b0efe165663", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TornadIO/TornadIO-0.0.5.zip"
+}

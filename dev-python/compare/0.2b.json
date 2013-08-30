@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Alternative syntax for comparingasserting expressions in Python. Supports pluggable matchers for custom comparisons.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rudylattae/compare", 
+  "info": {
+    "Author:": "Rudy Lattae", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//compare", 
+    "Home Page:": "https://github.com/rudylattae/compare", 
+    "Keywords:": "python,compare,matcher,to be,to equal,assert,test equality,specification,BDD,TDD", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "rudylattae"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Alternative syntax for comparingasserting expressions in Python. Supports pluggable matchers for custom comparisons.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "784a6ea7f682d38a8e853a88a2f2374b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/compare/compare-0.2b.zip"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Instant code reloading for Plone using a fork loop", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/sauna.reload", 
+  "info": {
+    "Author:": "Asko Soukka", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/sauna.reload", 
+    "Keywords:": "plone reload zope2 restart developer", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "datakurre, epeli"
+  }, 
+  "license": "", 
+  "longdescription": "Instant code reloading for Plone using a fork loop", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36b5aa5705fc7c7a4f84ffc0ecef239b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sauna.reload/sauna.reload-0.5.1.zip"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for connection of PyQt application to Django server,also reusable app.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/darvin/qtdjango", 
+  "info": {
+    "Author:": "Sergey Klimov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/darvin/qtdjango", 
+    "License:": "GPL", 
+    "Package Index Owner:": "nbdarvin"
+  }, 
+  "license": "", 
+  "longdescription": "Library for connection of PyQt application to Django server,also reusable app.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3aea700da41fc51b0895b4f8e07ceeac", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qtdjango/qtdjango-1.5.7.2.tar.gz"
+}

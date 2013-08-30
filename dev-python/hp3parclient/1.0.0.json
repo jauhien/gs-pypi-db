@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HP 3PAR HTTP REST Client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Walter A. Boring IV", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//hp3parclient", 
+    "Keywords:": "hp,3par,rest", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Maintainer:": "jbranen", 
+    "Package Index Owner:": "jbranen, WaltHP"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "HP 3PAR HTTP REST Client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "439768db22afe378265575e6dad4edef", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hp3parclient/hp3parclient-1.0.0.tar.gz"
+}

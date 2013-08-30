@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The ChronicDB command-line client.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://chronicdb.com", 
+  "info": {
+    "Author:": "ChronicDB", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://chronicdb.com", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "chronicdb"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "The ChronicDB command-line client.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "822945b0bc156e3c29045004e768eebb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chronicdb/chronicdb-3.7.4.tar.gz"
+}

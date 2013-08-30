@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django urls helper based on wsgi selector", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/jmoiron/django-selector/", 
+  "info": {
+    "Author:": "Jason Moiron", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-selector", 
+    "Home Page:": "http://bitbucket.org/jmoiron/django-selector/", 
+    "Keywords:": "django urls selector", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jmoiron"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "django urls helper based on wsgi selector", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d23158d254f22a022cf1183506286602", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-selector/django-selector-0.4.tar.gz"
+}

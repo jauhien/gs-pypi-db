@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django CMS plugin to post a simple article", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/theherk/django-theherk-article", 
+  "info": {
+    "Author:": "Adam Sherwood", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/theherk/django-theherk-article", 
+    "License:": "see file LICENSE", 
+    "Package Index Owner:": "theherk"
+  }, 
+  "license": "", 
+  "longdescription": "django CMS plugin to post a simple article", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "affcb332ce9cc1658d17a582774cd883", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-theherk-article/django-theherk-article-1.5.tar.gz"
+}

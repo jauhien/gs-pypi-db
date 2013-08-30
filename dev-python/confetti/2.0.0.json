@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic configuration mechanism", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/vmalloc/confetti", 
+  "info": {
+    "Author:": "Rotem Yaari", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/vmalloc/confetti", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vmalloc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generic configuration mechanism", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e46269418d47220e2b8d9b6bd7dc789", 
+  "source_uri": "https://pypi.python.org/packages/source/c/confetti/confetti-2.0.0.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django test runner to use py.test tests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/buchuki/django-pytest", 
+  "info": {
+    "Author:": "Dusty Phillips", 
+    "Home Page:": "http://github.com/buchuki/django-pytest", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "buchuki"
+  }, 
+  "license": "", 
+  "longdescription": "django test runner to use py.test tests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f44f8792994501c37efaf7d44b7baf4e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pytest/django-pytest-0.2.0.tar.gz"
+}

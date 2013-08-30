@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenStack Object Storage API Client Library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.openstack.org/", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://www.openstack.org/", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "sdirector, openstackci"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "OpenStack Object Storage API Client Library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "717ade4e91c0f5372f6fa6d545e7bab7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-swiftclient/python-swiftclient-1.5.0.tar.gz"
+}

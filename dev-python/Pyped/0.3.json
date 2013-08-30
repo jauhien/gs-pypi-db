@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command that pipes data from bash to Python, and vice-versa", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ksamuel/Pyped", 
+  "info": {
+    "Author:": "Kevin Samuel", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ksamuel/Pyped", 
+    "Keywords:": "python,pipe", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "ksamuel"
+  }, 
+  "license": "", 
+  "longdescription": "Command that pipes data from bash to Python, and vice-versa", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04c4c52d88a9c0a193ff8f5198330485", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Pyped/Pyped-0.3.tar.gz"
+}

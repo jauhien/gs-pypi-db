@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of PAS plugins so users                   are  authenticated from another Plone site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.fourdigits.nl", 
+  "info": {
+    "Author:": "Four Digits", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.fourdigits.nl", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "fourdigits, jaroel"
+  }, 
+  "license": "", 
+  "longdescription": "A set of PAS plugins so users                   are  authenticated from another Plone site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5a1acb9b17f8fffbc3eb0efae43dc51f", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fourdigits.remotemembrane/fourdigits.remotemembrane-0.3.zip"
+}

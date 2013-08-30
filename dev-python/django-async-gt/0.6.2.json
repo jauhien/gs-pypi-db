@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a simple app to asynchronously upload images with Django, using Celery", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gterzian/django_async.git", 
+  "info": {
+    "Author:": "Gregory Terzian", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gterzian/django_async.git", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "gterzian", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "a simple app to asynchronously upload images with Django, using Celery", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "45e96875541b92fe0e2c49118203b3e8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-async-gt/django-async-gt-0.6.2.tar.gz"
+}

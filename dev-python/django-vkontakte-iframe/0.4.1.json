@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app for developing vk.com (aka vkontakte.ru) iframe applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/kmike/django-vkontakte-iframe/", 
+  "info": {
+    "Author:": "Mikhail Korobov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/kmike/django-vkontakte-iframe/", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "kmike"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django app for developing vk.com (aka vkontakte.ru) iframe applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1d42dfcb6bfc73ceb02ac8e6d692171", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-vkontakte-iframe/django-vkontakte-iframe-0.4.1.tar.gz"
+}

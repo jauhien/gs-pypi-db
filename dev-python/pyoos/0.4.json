@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python library for collecting MetOcean observations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/asascience-open/pyoos", 
+  "info": {
+    "Author:": "Kyle Wilcox", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "https://github.com/asascience-open/pyoos", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "kwilcox"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A Python library for collecting MetOcean observations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed6663b9fccbdc873923383f8e436670", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyoos/pyoos-0.4.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twisted-based implementation of the network protocols supported by git (git, ssh and http)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mensi/gitserverglue", 
+  "info": {
+    "Author:": "Manuel Stocker", 
+    "Home Page:": "https://github.com/mensi/gitserverglue", 
+    "Keywords:": "git ssh http", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mensi"
+  }, 
+  "license": "", 
+  "longdescription": "Twisted-based implementation of the network protocols supported by git (git, ssh and http)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3968f11f89946c0987cd929d4dd71c76", 
+  "source_uri": "https://pypi.python.org/packages/source/G/GitServerGlue/GitServerGlue-0.3.tar.gz"
+}

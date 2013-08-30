@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twisted protocol for RTMP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rtmpy.org", 
+  "info": {
+    "Author:": "The RTMPy Project", 
+    "Home Page:": "http://rtmpy.org", 
+    "Keywords:": "rtmp flv rtmps rtmpe rtmpt rtmpte amf amf0 amf3 flex flash http https", 
+    "License:": "LGPL 2.1 License", 
+    "Package Index Owner:": "njoyce"
+  }, 
+  "license": "", 
+  "longdescription": "Twisted protocol for RTMP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c1e3e2a93b9174b0799007af15989f3a", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RTMPy/RTMPy-0.1.1.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DB-API 2.0 interface for SQLite 3.x with Spatialite 2.x", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyspatialite.googlecode.com/", 
+  "info": {
+    "Author:": "Lokkju Brennr", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "zlib/libpng License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pyspatialite.googlecode.com/", 
+    "License:": "zlib/libpng license", 
+    "Package Index Owner:": "lokkju", 
+    "Platform:": "ALL"
+  }, 
+  "license": "zlib/libpng License", 
+  "longdescription": "DB-API 2.0 interface for SQLite 3.x with Spatialite 2.x", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "059e95ea7914763c3d13838eefb228fd", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyspatialite/pyspatialite-2.6.2-spatialite.2.4.0-4.tar.gz"
+}

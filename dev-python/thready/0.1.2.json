@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple wrapper for threaded execution.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pudo/thready", 
+  "info": {
+    "Author:": "Friedrich Lindenberg", 
+    "Home Page:": "http://github.com/pudo/thready", 
+    "Keywords:": "threading", 
+    "License:": "MIT", 
+    "Package Index Owner:": "pudo"
+  }, 
+  "license": "", 
+  "longdescription": "Simple wrapper for threaded execution.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8425cd37086e33a481a1beaa8a9982f7", 
+  "source_uri": "https://pypi.python.org/packages/source/t/thready/thready-0.1.2.tar.gz"
+}

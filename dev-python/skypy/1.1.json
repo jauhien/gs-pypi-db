@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python api for accessing EPG data from SKY TV (UK)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/prabhu/skypy", 
+  "info": {
+    "Author:": "Prabhu Subramanian", 
+    "Home Page:": "http://github.com/prabhu/skypy", 
+    "Keywords:": "sky tv api", 
+    "License:": "MIT", 
+    "Package Index Owner:": "prabhus14"
+  }, 
+  "license": "", 
+  "longdescription": "Python api for accessing EPG data from SKY TV (UK)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "711f5bf0170d477a6402611c053c1d97", 
+  "source_uri": "https://pypi.python.org/packages/source/s/skypy/skypy-1.1.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Wrapper for accessing uClassify services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/psibi/pyuClassify", 
+  "info": {
+    "Author:": "Sibi", 
+    "Bug Tracker:": "https://github.com/psibi/pyuClassify/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/psibi/pyuClassify", 
+    "Keywords:": "uClassify API", 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "psibi"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Python Wrapper for accessing uClassify services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cc24f5c939ca085895198ea289349e62", 
+  "source_uri": "https://pypi.python.org/packages/source/u/uclassify/uclassify-0.1.2.tar.gz"
+}

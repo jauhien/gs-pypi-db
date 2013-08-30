@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CMIS repository query for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.cmisquery", 
+  "info": {
+    "Author:": "Sylvain Viollon", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.cmisquery", 
+    "Keywords:": "CMIS connection query browser plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "wimbou"
+  }, 
+  "license": "", 
+  "longdescription": "CMIS repository query for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12e21dc29edaf12e735daae153ce99f3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.cmisquery/collective.cmisquery-1.0.tar.gz"
+}

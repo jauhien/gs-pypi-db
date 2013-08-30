@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DRY way to manage url parameters associated with a model instance.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vinyll/django-model-urls", 
+  "info": {
+    "Author:": "Vincent Agnano", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vinyll/django-model-urls", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vinyll"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "DRY way to manage url parameters associated with a model instance.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "afccbbe418bdf0f1be729d2c06009bf5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-model-urls/django-model-urls-0.3.1.tar.gz"
+}

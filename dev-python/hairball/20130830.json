@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hairball is a plugin-able framework useful for static analysis of Scratch projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ucsb-cs-education/hairball", 
+  "info": {
+    "Author:": "Bryce Boe", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ucsb-cs-education/hairball", 
+    "Keywords:": "scratch static-analysis", 
+    "License:": "Simplified BSD License", 
+    "Package Index Owner:": "bboe"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Hairball is a plugin-able framework useful for static analysis of Scratch projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79559ff4bc23e778ae675832841518a4", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hairball/hairball-0.1rc2.tar.gz"
+}

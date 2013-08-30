@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recursively mirror a directory tree of FLAC audio files to AAC or OGG.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/flacsync/", 
+  "info": {
+    "Author:": "Patrick C. McGinty", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio", 
+        "Conversion"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//flacsync", 
+    "Download URL:": "https://github.com/cmcginty/flacsync/raw/master/dist/flacsync-0.3.2.tar.gz", 
+    "Home Page:": "http://packages.python.org/flacsync/", 
+    "Keywords:": "flac aac conversion transcode compressedaudio ipod soundcheck replaygain albumart metaflac tags neroaacenc ogg music", 
+    "Package Index Owner:": "wolfdown"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Recursively mirror a directory tree of FLAC audio files to AAC or OGG.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://github.com/cmcginty/flacsync/raw/master/dist/flacsync-0.3.2.tar.gz"
+}

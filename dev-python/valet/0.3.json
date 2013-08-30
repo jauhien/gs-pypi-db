@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "valet is a script that turns any directory into a simple wiki, complete with wikitext rendering, editing, and automatically committing changes to version control.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/handyman5/valet", 
+  "info": {
+    "Author:": "Adam Compton", 
+    "Bug Tracker:": "https://github.com/handyman5/valet/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Download URL:": "https://github.com/handyman5/valet/tarball/master", 
+    "Home Page:": "https://github.com/handyman5/valet", 
+    "License:": "BSD-2-Clause", 
+    "Package Index Owner:": "Adam.Compton"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "valet is a script that turns any directory into a simple wiki, complete with wikitext rendering, editing, and automatically committing changes to version control.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "180f645c423ea89a1f2aa00b31911a03", 
+  "source_uri": "https://github.com/handyman5/valet/tarball/master"
+}

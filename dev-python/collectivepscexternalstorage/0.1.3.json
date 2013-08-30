@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "External storage for PloneSoftwareCenter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.psc.externalstorage", 
+  "info": {
+    "Author:": "Tarek Ziade", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.psc.externalstorage", 
+    "Keywords:": "psc disutils storage", 
+    "License:": "GPL", 
+    "Package Index Owner:": "aclark"
+  }, 
+  "license": "", 
+  "longdescription": "External storage for PloneSoftwareCenter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9eb96a566895f3134ed6228ccf7d4d60", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.psc.externalstorage/collective.psc.externalstorage-0.1.3.zip"
+}

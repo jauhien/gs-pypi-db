@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Open National Instruments TDMTDX files as NumPy structured arrays.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/joshayers/tdm_loader", 
+  "info": {
+    "Author:": "Josh Ayers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//tdm_loader", 
+    "Home Page:": "https://bitbucket.org/joshayers/tdm_loader", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joshayers"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Open National Instruments TDMTDX files as NumPy structured arrays.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5177d07a8fd849a41ec8b739fa34bd09", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tdm_loader/tdm_loader-1.0.3.tar.gz"
+}

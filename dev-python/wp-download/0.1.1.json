@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wikipedia database dump downloader", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/babilen/wp-download", 
+  "info": {
+    "Author:": "Wolodja Wentland", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//wp-download", 
+    "Home Page:": "http://github.com/babilen/wp-download", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "babilen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Wikipedia database dump downloader", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3aa5e617dd1b8dc201ab9913efb68b9c", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wp-download/wp-download-0.1.1.tar.gz"
+}

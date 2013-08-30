@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Argparse wrapper that supports fallback settings in env vars andor a yaml file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bits.btubbs.com/appsettings/", 
+  "info": {
+    "Author:": "Brent Tubbs", 
+    "Home Page:": "http://bits.btubbs.com/appsettings/", 
+    "Package Index Owner:": "btubbs"
+  }, 
+  "license": "", 
+  "longdescription": "Argparse wrapper that supports fallback settings in env vars andor a yaml file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "256d6fb82a086095d56d0c67735c97da", 
+  "source_uri": "https://pypi.python.org/packages/source/a/appsettings/appsettings-0.3.2.tar.gz"
+}

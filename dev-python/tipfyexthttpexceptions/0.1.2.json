@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tipfy extension to catch 500 and 404 pages and show proper message", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/xen/tipfy.ext.httpexceptions", 
+  "info": {
+    "Author:": "xen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/xen/tipfy.ext.httpexceptions", 
+    "License:": "BSD", 
+    "Package Index Owner:": "xen"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tipfy extension to catch 500 and 404 pages and show proper message", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89d7a728c56c729dfae32a7a98c079c4", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tipfy.ext.httpexceptions/tipfy.ext.httpexceptions-0.1.2.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds a redis-based queue extension to python-slimta.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://slimta.org/", 
+  "info": {
+    "Author:": "Ian Good", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Mail Transport Agents"
+      ]
+    }, 
+    "Home Page:": "http://slimta.org/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "icgood"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Adds a redis-based queue extension to python-slimta.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "20c2938d8b4f1d0df1ac7083960c2392", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-slimta-redisstorage/python-slimta-redisstorage-0.1.0.tar.gz"
+}

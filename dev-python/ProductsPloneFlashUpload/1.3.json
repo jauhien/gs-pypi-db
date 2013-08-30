@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add-on that allows mass-upload of files and images.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/ploneflashupload", 
+  "info": {
+    "Author:": "Rocky Burt (3.0 support by Reinout van Rees)", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/ploneflashupload", 
+    "Keywords:": "plone upload images", 
+    "License:": "Zope Public License (ZPL) Version 2.1", 
+    "Package Index Owner:": "dunny, reinout, ramonski, sargo, hannosch, maurits"
+  }, 
+  "license": "", 
+  "longdescription": "Add-on that allows mass-upload of files and images.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b71c8845165f11cae61fa2cca6995c4", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneFlashUpload/Products.PloneFlashUpload-1.3.zip"
+}

@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python USBTMC driver for controlling instruments over USB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://alexforencich.com/wiki/en/python-usbtmc/start", 
+  "info": {
+    "Author:": "Alex Forencich", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Download URL:": "http://github.com/alexforencich/python-usbtmc/tarball/master", 
+    "Home Page:": "http://alexforencich.com/wiki/en/python-usbtmc/start", 
+    "Keywords:": "USB USBTMC measurement instrument", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "alex.forencich"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python USBTMC driver for controlling instruments over USB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://github.com/alexforencich/python-usbtmc/tarball/master"
+}

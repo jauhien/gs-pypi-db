@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "twisted interface to MPD (www.musicpd.org)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bigasterisk.com", 
+  "info": {
+    "Author:": "Drew Perttula", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://projects.bigasterisk.com/pympd-1.2.tar.gz", 
+    "Home Page:": "http://bigasterisk.com", 
+    "Package Index Owner:": "drewp"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "twisted interface to MPD (www.musicpd.org)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://projects.bigasterisk.com/pympd-1.2.tar.gz"
+}

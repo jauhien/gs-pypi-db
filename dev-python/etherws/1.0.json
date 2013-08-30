@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ethernet over WebSocket", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Atzm WATANABE", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Keywords:": "http,websocket,ethernet,network", 
+    "License:": "BSD-2", 
+    "Package Index Owner:": "atzm", 
+    "Platform:": "Linux"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Ethernet over WebSocket", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5f52f32d0bc4ec7e017d4a4d42f24ad6", 
+  "source_uri": "https://pypi.python.org/packages/source/e/etherws/etherws-1.0.tar.gz"
+}

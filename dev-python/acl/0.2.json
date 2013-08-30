@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Network access control list parsing library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jathanism/acl", 
+  "info": {
+    "Author:": "Jathan McCollum", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jathanism/acl", 
+    "Keywords:": "Configuration Management,IANA,IEEE,IP,IP Address,IPv4,IPv6,Firewall,Network Automation,Networking,Network Engineering,Network Configuration,Systems Administration,Switch", 
+    "License:": "APL 2.0", 
+    "Package Index Owner:": "jathanism"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Network access control list parsing library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b86adc869292e0fa29f29e78dc33ae8a", 
+  "source_uri": "https://pypi.python.org/packages/source/a/acl/acl-0.2.tar.gz"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fork of django-avatar, for GeoNode", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ingenieroariel/geonode-avatar/", 
+  "info": {
+    "Author:": "Ariel Nunez", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ingenieroariel/geonode-avatar/", 
+    "Keywords:": "avatar,django", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ariel.Nunez"
+  }, 
+  "license": "", 
+  "longdescription": "A fork of django-avatar, for GeoNode", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7243231e017fe37bf6ccbd145b81a57", 
+  "source_uri": "https://pypi.python.org/packages/source/g/geonode-avatar/geonode-avatar-2.1.1.tar.gz"
+}

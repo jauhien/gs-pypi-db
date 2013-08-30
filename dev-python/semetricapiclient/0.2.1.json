@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper for the Semetric API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://developer.musicmetric.com", 
+  "info": {
+    "Author:": "Matt Jeffery", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Setuptools Plugin"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v2 or later (LGPLv2+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://developer.musicmetric.com", 
+    "License:": "LGPLv2+", 
+    "Package Index Owner:": "mattj", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU Lesser General Public License v2 or later (LGPLv2+)", 
+  "longdescription": "Wrapper for the Semetric API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c12e93be946087c6a0d21b928ed7a3f6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/semetric.apiclient/semetric.apiclient-0.2.1.tar.gz"
+}

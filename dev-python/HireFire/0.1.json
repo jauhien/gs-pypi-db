@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python lib to integrate with the HireFire service --The Heroku Proccess Manager.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hirefire.readthedocs.org/", 
+  "info": {
+    "Author:": "Jannis Leidel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://hirefire.readthedocs.org/", 
+    "Package Index Owner:": "jezdez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Python lib to integrate with the HireFire service --The Heroku Proccess Manager.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9739630a3f2f0b66859bea7085cc975d", 
+  "source_uri": "https://pypi.python.org/packages/source/H/HireFire/HireFire-0.1.tar.gz"
+}

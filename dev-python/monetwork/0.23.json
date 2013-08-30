@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library of network utilities for use in Moilla testing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+  "info": {
+    "Author:": "Mozilla Automation and Tools team", 
+    "Home Page:": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+    "Keywords:": "mozilla", 
+    "License:": "MPL", 
+    "Package Index Owner:": "davehunt, markrcote, elvis314, edmorley, whimboo, chmanchester, wlach, ctalbert, ahal, mdas, jgriffin, k0s"
+  }, 
+  "license": "", 
+  "longdescription": "Library of network utilities for use in Moilla testing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "86c0f1ba9abf79d364ec7237f663ccb9", 
+  "source_uri": "https://pypi.python.org/packages/source/m/moznetwork/moznetwork-0.23.tar.gz"
+}

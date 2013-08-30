@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package adds saved search functionality to Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.collection", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.collection", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "davisagli, esteele, timo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This package adds saved search functionality to Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f97abc0cd5e370c4bbb1a73f7ee05a7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.collection/plone.app.collection-1.0.11.zip"
+}

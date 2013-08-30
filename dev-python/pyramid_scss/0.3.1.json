@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds support for SCSS to Pyramid projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jessedhillon/pyramid_scss", 
+  "info": {
+    "Author:": "Jesse Dhillon", 
+    "Categories": {
+      "Framework": [
+        "Pylons"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jessedhillon/pyramid_scss", 
+    "Keywords:": "web wsgi css scss pyramid", 
+    "Package Index Owner:": "jessedhillon"
+  }, 
+  "license": "", 
+  "longdescription": "Adds support for SCSS to Pyramid projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "636d7d09144796424151f966e53e107e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_scss/pyramid_scss-0.3.1.tar.gz"
+}

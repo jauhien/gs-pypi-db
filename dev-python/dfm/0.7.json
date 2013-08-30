@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Downloader for the DF Mediathek", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/enkore/zdfm/", 
+  "info": {
+    "Author:": "Marian Beermann", 
+    "Home Page:": "http://github.com/enkore/zdfm/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dom0"
+  }, 
+  "license": "", 
+  "longdescription": "Downloader for the DF Mediathek", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3234624e9c70bb54d261d6ab550d08c4", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zdfm/zdfm-0.7.tar.gz"
+}

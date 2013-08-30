@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Check syntax of sql for PostgreSQL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/markdrago/pgsanity", 
+  "info": {
+    "Author:": "Mark Drago", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/pgsanity", 
+    "Home Page:": "http://github.com/markdrago/pgsanity", 
+    "License:": "MIT", 
+    "Package Index Owner:": "markdrago"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Check syntax of sql for PostgreSQL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f36aecdf949cf9e8a563c96811f1ef5", 
+  "source_uri": "http://pypi.python.org/pypi/pgsanity"
+}

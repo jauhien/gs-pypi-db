@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Key and Token authentication for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.github.com/jorgeecardona/django-apikey", 
+  "info": {
+    "Author:": "Jorge Eduardo Cardona", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "https://www.github.com/jorgeecardona/django-apikey", 
+    "Keywords:": "django authentication piston", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jorgeecardona"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple Key and Token authentication for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "186d9ecd3f7e2717cedc0e87711eb71e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-apikey/django-apikey-0.2.0.tar.gz"
+}

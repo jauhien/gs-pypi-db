@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reusable django app to handle favicon.ico and robots.txt for your site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/littlepea/django-site-basics", 
+  "info": {
+    "Author:": "Evgeny Demchenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/littlepea/django-site-basics", 
+    "License:": "BSD", 
+    "Package Index Owner:": "littlepea"
+  }, 
+  "license": "", 
+  "longdescription": "Reusable django app to handle favicon.ico and robots.txt for your site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49308c08ad0071a100c9d1c0e7a76f6c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-site-basics/django-site-basics-0.2.4.tar.gz"
+}

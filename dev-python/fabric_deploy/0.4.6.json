@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "capistrano like deploy recipe for fabric", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yyuu/fabric_deploy", 
+  "info": {
+    "Author:": "Yamashita Yuu", 
+    "Home Page:": "https://github.com/yyuu/fabric_deploy", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "yyuu"
+  }, 
+  "license": "", 
+  "longdescription": "capistrano like deploy recipe for fabric", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "173f9f66bd2f57e34f5f303be3cc60d2", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fabric_deploy/fabric_deploy-0.4.6.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MathJax integration for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.mathjax", 
+  "info": {
+    "Author:": "Johannes Raggam", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.mathjax", 
+    "Keywords:": "plone resources", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rnix, thet"
+  }, 
+  "license": "", 
+  "longdescription": "MathJax integration for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb5d50290ee471b7333494751b28d232", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.mathjax/collective.mathjax-1.1.1.tar.gz"
+}

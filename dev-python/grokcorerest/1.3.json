@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "REST View component for Grok.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://grok.zope.org", 
+  "info": {
+    "Author:": "Grok Team", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://cheeseshop.python.org/pypi/grok/", 
+    "Home Page:": "http://grok.zope.org", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "trollfot, cklinger, jw, faassen, janjaapdriessen, thefunny42"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "REST View component for Grok.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d155f0bb3b2753e7d9414a36abfae2e7", 
+  "source_uri": "http://cheeseshop.python.org/pypi/grok/"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "General purpose components extending the circuits framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/circuits-bricks", 
+  "info": {
+    "Author:": "Michael N. Lipp", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//circuits-bricks", 
+    "Home Page:": "http://packages.python.org/circuits-bricks", 
+    "Keywords:": "circuits component", 
+    "License:": "MIT", 
+    "Package Index Owner:": "login.launchpad.net_85"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "General purpose components extending the circuits framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49c5afa93b01f9ffa30404c75a382877", 
+  "source_uri": "https://pypi.python.org/packages/source/c/circuits-bricks/circuits-bricks-0.3.tar.gz"
+}

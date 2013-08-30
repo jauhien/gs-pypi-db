@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pytest plugin for apps written with Googles AppEngine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/petraszd/pytest_gae/", 
+  "info": {
+    "Author:": "Petras Zdanavicius (petraszd)", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/petraszd/pytest_gae/", 
+    "Keywords:": "py.test pytest google app engine", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "petraszd.blogspot.com"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "pytest plugin for apps written with Googles AppEngine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "217005a4f7730d0da59ebaeddd8b787b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest_gae/pytest_gae-0.2.2.tar.gz"
+}

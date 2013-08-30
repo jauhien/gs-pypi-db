@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ReCaptcha widget for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.formwidget.recaptcha", 
+  "info": {
+    "Author:": "Timo Stollenwerk - Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.formwidget.recaptcha", 
+    "Keywords:": "plone discussion plone.app.discussion spam captcha recaptcha", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "hannosch, davisagli", 
+    "Package Index Owner:": "timo, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "ReCaptcha widget for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "027df255d36e270659a448e366f9214a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.formwidget.recaptcha/plone.formwidget.recaptcha-1.0b3.zip"
+}

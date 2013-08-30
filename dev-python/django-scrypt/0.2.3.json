@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Scrypt-enabled password hasher for Django 1.41.5", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/kelvinwong_ca/django-scrypt", 
+  "info": {
+    "Author:": "Kelvin Wong", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/kelvinwong_ca/django-scrypt", 
+    "Keywords:": "Py-Scrypt,Scrypt,Django,Django-Scrypt", 
+    "Package Index Owner:": "kelvinwong"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Scrypt-enabled password hasher for Django 1.41.5", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2c62d25c0cb322665cc06b7c4ff6fc72", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-scrypt/django-scrypt-0.2.3.tar.gz"
+}

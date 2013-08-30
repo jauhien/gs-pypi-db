@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast GTF parser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/gtf-to-genes/", 
+  "info": {
+    "Author:": "Leo Goodstadt", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/gtf-to-genes/", 
+    "Keywords:": "GTF Ensembl gene transcript parser GFF bioinformatics science", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bunbun"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Fast GTF parser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0ce9b19aa297dcc1eda43adbe6a2f92d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gtf_to_genes/gtf_to_genes-1.09.tar.gz"
+}

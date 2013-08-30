@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application that improves management of FileFields", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://tracpub.yaco.es/djangoapps/wiki/StdFile", 
+  "info": {
+    "Author:": "Yaco Sistemas S.L.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ]
+    }, 
+    "Home Page:": "https://tracpub.yaco.es/djangoapps/wiki/StdFile", 
+    "Keywords:": "django stdfiles filefields files", 
+    "License:": "LGPL 3", 
+    "Package Index Maintainer:": "Goin", 
+    "Package Index Owner:": "pyriku, msaelices"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Django application that improves management of FileFields", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08cd37a2df7d2136430a764ca463eae0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-stdfile/django-stdfile-0.5.tar.gz"
+}

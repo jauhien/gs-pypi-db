@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An HTML minification plugin for Pelican, the static site generator.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rdegges/pelican-minify", 
+  "info": {
+    "Author:": "Randall Degges", 
+    "Home Page:": "https://github.com/rdegges/pelican-minify", 
+    "Keywords:": "pelican blog static minify html minification", 
+    "License:": "UNLICENSE", 
+    "Package Index Owner:": "rdegges"
+  }, 
+  "license": "", 
+  "longdescription": "An HTML minification plugin for Pelican, the static site generator.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d7475fab5fe2a82f15f51928e853ae75", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pelican-minify/pelican-minify-0.4.tar.gz"
+}

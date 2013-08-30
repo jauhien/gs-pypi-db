@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "emit card id on Ivy software bus", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/omnikey2ivy/", 
+  "info": {
+    "Author:": "Fabien Andre", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/omnikey2ivy/", 
+    "Package Index Owner:": "fabien.andre"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "emit card id on Ivy software bus", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "257b8a8d484c9116dd0052c179503a9d", 
+  "source_uri": "https://pypi.python.org/packages/source/o/omnikey2ivy/omnikey2ivy-0.1.2.tar.gz"
+}

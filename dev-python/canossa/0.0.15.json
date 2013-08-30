@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides basic, transparent, off-screen(invisible) terminal emulation service, for terminal apps.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/saitoha/canossa", 
+  "info": {
+    "Author:": "Hayaki Saito (user@zuse.jp)", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Terminals"
+      ]
+    }, 
+    "Home Page:": "https://github.com/saitoha/canossa", 
+    "Keywords:": "terminal", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "saitoha"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Provides basic, transparent, off-screen(invisible) terminal emulation service, for terminal apps.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b0073614ce4eb3e63ac07f635e16ae7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/canossa/canossa-0.0.15.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "uWSGI cache backend.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ionelmc/django-uwsgi-cache", 
+  "info": {
+    "Author:": "Ionel Cristian M\u0103rie\u0219", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ionelmc/django-uwsgi-cache", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ionel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "uWSGI cache backend.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1e97ddafc010a79a0a8f57cb4b75dc36", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-uwsgi-cache/django-uwsgi-cache-0.2.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compile po files when releasing a package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zestsoftware/zest.pocompile", 
+  "info": {
+    "Author:": "Maurits van Rees", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Internationalization"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zestsoftware/zest.pocompile", 
+    "Keywords:": "i18n locales po compile release", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maurits, reinout, fredvd, markvl"
+  }, 
+  "license": "", 
+  "longdescription": "Compile po files when releasing a package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a40b0384d2f5dceb374170d7afc8e559", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zest.pocompile/zest.pocompile-1.4.zip"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A squid cache publishing and advertising tool designed to work in fast changing environments", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/hep-gc/shoal", 
+  "info": {
+    "Author:": "Mike Chester", 
+    "Home Page:": "http://github.com/hep-gc/shoal", 
+    "License:": "'GPL3' or 'Apache 2'", 
+    "Package Index Owner:": "Mike.Chester"
+  }, 
+  "license": "", 
+  "longdescription": "A squid cache publishing and advertising tool designed to work in fast changing environments", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ab12c0bb10d298c8139f3813d7cce38", 
+  "source_uri": "https://pypi.python.org/packages/source/s/shoal-agent/shoal-agent-0.6.0.tar.gz"
+}

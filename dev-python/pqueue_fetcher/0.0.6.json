@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implements a priority-queue-based fetching system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/intuited/pqueue_fetcher", 
+  "info": {
+    "Author:": "Ted Tibbetts", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/intuited/pqueue_fetcher", 
+    "Keywords:": "threading,multithreading,networking,queue,priority_queue", 
+    "Package Index Owner:": "intuited"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Implements a priority-queue-based fetching system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b95f5b48d6e4b294c7062ec8b2465baf", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pqueue_fetcher/pqueue_fetcher-0.0.6.tar.gz"
+}

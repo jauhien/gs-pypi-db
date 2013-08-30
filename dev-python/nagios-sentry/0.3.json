@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin for Nagios, which check a count of messages in Sentry", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/adw0rd/nagios-sentry", 
+  "info": {
+    "Author:": "Mikhail Andreev", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/adw0rd/nagios-sentry", 
+    "Keywords:": "nagios,sentry", 
+    "License:": "BSD", 
+    "Package Index Owner:": "adw0rd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Plugin for Nagios, which check a count of messages in Sentry", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd7e44369deed856ad8c1c2fdfcd5f22", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nagios-sentry/nagios-sentry-0.3.tar.gz"
+}

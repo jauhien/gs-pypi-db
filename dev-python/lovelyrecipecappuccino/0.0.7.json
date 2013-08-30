@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "local cappuccino setup for c.buildout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lovelysystems/lovely.recipe.cappuccino", 
+  "info": {
+    "Author:": "Lovely Systems", 
+    "Home Page:": "http://github.com/lovelysystems/lovely.recipe.cappuccino", 
+    "Keywords:": "buildout recipe cappuccino javascript objectiv-j cocoa", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "quodt, jukart, dobe"
+  }, 
+  "license": "", 
+  "longdescription": "local cappuccino setup for c.buildout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc5fb626a4a36aab6217f43a437c2623", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lovely.recipe.cappuccino/lovely.recipe.cappuccino-0.0.7.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone 4 add-on Representation of organisational structures", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/vs.org/", 
+  "info": {
+    "Author:": "Veit Schiele", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/vs.org/", 
+    "Keywords:": "Zope Plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vsc, ajung"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone 4 add-on Representation of organisational structures", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7397d4f8ecf4e47e94674f8af89ff4c", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vs.org/vs.org-1.1.1.zip"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides the Horae resource planning system as a Grok application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Simon Kaeser", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "GPL", 
+    "Package Index Owner:": "raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Provides the Horae resource planning system as a Grok application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5fb93b1e4912f2efa2d96bbcfd1fac0d", 
+  "source_uri": "https://pypi.python.org/packages/source/h/horae.app/horae.app-1.0a1.tar.gz"
+}

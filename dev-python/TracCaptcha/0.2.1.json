@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pluggable captcha infrastructure for trac with reCAPTCHA included", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.schwarz.eu/opensource/projects/trac_captcha", 
+  "info": {
+    "Author:": "Felix Schwarz", 
+    "Download URL:": "http://www.schwarz.eu/opensource/projects/TracCaptcha/download/0.2.1/TracCaptcha-0.2.1.tar.gz", 
+    "Home Page:": "http://www.schwarz.eu/opensource/projects/trac_captcha", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fs"
+  }, 
+  "license": "", 
+  "longdescription": "pluggable captcha infrastructure for trac with reCAPTCHA included", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c5f5b1e255e4826f1d8c05b7f79ab7d6", 
+  "source_uri": "http://www.schwarz.eu/opensource/projects/TracCaptcha/download/0.2.1/TracCaptcha-0.2.1.tar.gz"
+}

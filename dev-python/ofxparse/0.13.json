@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for working with the OFX (Open Financial Exchange) file format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sites.google.com/site/ofxparse", 
+  "info": {
+    "Author:": "Jerry Seutter", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://sites.google.com/site/ofxparse", 
+    "Keywords:": "ofx,Open Financial Exchange,file formats", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jseutter"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Tools for working with the OFX (Open Financial Exchange) file format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8df7d84914dc4f12d842975785b82e6f", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ofxparse/ofxparse-0.13.tar.gz"
+}

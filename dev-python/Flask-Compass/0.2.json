@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds automatic Compass compilation to Flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zerok/flask-compass", 
+  "info": {
+    "Author:": "Horst Gutmann", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Flask-Compass", 
+    "Home Page:": "https://github.com/zerok/flask-compass", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zerok", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds automatic Compass compilation to Flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "83b91474e6b7794fedc421182b8866a7", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Compass/Flask-Compass-0.2.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "library for working with ELF files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/elflib/", 
+  "info": {
+    "Author:": "Ilan Schnell", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/elflib/", 
+    "License:": "PSF", 
+    "Package Index Owner:": "ilanschnell"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "library for working with ELF files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a744b78b795a31f960d3446abb1cb2a", 
+  "source_uri": "https://pypi.python.org/packages/source/e/elflib/elflib-0.1.0.tar.gz"
+}

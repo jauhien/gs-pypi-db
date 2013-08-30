@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Nose Clean Env restores os.environ after each test", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/olsoneric/nose-clean-env", 
+  "info": {
+    "Author:": "Eric Olson", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/olsoneric/nose-clean-env", 
+    "Keywords:": "nose,plugins,os.environ,os,env,environment", 
+    "Package Index Owner:": "olsoneric"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Nose Clean Env restores os.environ after each test", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "621fb0c9060a7eb97939c8b09a488aa4", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-clean-env/nose-clean-env-0.0.1.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DB-API compatible interface on top of PLPython", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/petere/plpydbapi", 
+  "info": {
+    "Author:": "Peter Eisentraut", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/petere/plpydbapi", 
+    "Package Index Owner:": "petere"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "DB-API compatible interface on top of PLPython", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f93c91dd45b37315b4cbdaee5400fa4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plpydbapi/plpydbapi-0.20121018.tar.gz"
+}

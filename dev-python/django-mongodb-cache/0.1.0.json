@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mongodb cache backend for Django framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/lorien/django-mongodb-cache/", 
+  "info": {
+    "Author:": "Grigoriy Petukhov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/lorien/django-mongodb-cache/", 
+    "Keywords:": "django cache mongodb", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lorien"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Mongodb cache backend for Django framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f42ab3b39b5f0d9066952bdda9d7a0c9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mongodb-cache/django-mongodb-cache-0.1.0.tar.gz"
+}

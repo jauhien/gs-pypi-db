@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides natural equivalence support for SQLAlchemy declarative models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kvesteri/sqlalchemy-equivalence", 
+  "info": {
+    "Author:": "Konsta Vesterinen", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kvesteri/sqlalchemy-equivalence", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kvesteri", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Provides natural equivalence support for SQLAlchemy declarative models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e7cc608b7ca4c79e8c37c3b95557a15a", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SQLAlchemy-Equivalence/SQLAlchemy-Equivalence-0.1.1.tar.gz"
+}

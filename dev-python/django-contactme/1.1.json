@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django pluggable contact form app with email verification.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/danirus/django-contactme/", 
+  "info": {
+    "Author:": "Daniel Rus Morales", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-contactme", 
+    "Home Page:": "http://github.com/danirus/django-contactme/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "danirus"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django pluggable contact form app with email verification.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "386739d29fb1a3ca202c01cb9fce8517", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-contactme/django-contactme-1.1.tar.gz"
+}

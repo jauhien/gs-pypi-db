@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HyperLogLog cardinality counter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Vasily Evseenko", 
+    "License:": "LGPL 2.1 or later", 
+    "Package Index Owner:": "svpcom"
+  }, 
+  "license": "", 
+  "longdescription": "HyperLogLog cardinality counter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "86c49a0b6075d5921b16d7c9cb65cf50", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hyperloglog/hyperloglog-0.0.5.tar.gz"
+}

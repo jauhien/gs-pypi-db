@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django URL cache invalidation from model saves", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.github.com/saulshanabrook/django-dumper", 
+  "info": {
+    "Author:": "Saul Shanabrook", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://www.github.com/saulshanabrook/django-dumper", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "saulshanabrook"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django URL cache invalidation from model saves", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "655acb13c8c80ec234c44aba4e65224f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dumper/django-dumper-0.1.1.tar.gz"
+}

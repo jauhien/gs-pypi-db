@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Test Sphinx builds with Python tests.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/benoitbryon/sphinxcontrib-testbuild", 
+  "info": {
+    "Author:": "Beno\u00eet Bryon", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/benoitbryon/sphinxcontrib-testbuild", 
+    "License:": "BSD", 
+    "Package Index Owner:": "benoit.bryon", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Test Sphinx builds with Python tests.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f429a76246b566ef1b3f9c225bd31a74", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sphinxcontrib-testbuild/sphinxcontrib-testbuild-0.1.zip"
+}

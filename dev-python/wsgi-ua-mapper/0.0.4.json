@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI app mapping requesting User Agent to arbitrary value through user defined module. Utilies Wurfl to deliver requesting device info.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/praekelt/wsgi-ua-mapper", 
+  "info": {
+    "Author:": "Praekelt Foundation", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/praekelt/wsgi-ua-mapper", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Shaun.Sephton, Praekelt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "WSGI app mapping requesting User Agent to arbitrary value through user defined module. Utilies Wurfl to deliver requesting device info.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "555206c51e6109e9f1d711a3fe40f6b3", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgi-ua-mapper/wsgi-ua-mapper-0.0.4.tar.gz"
+}

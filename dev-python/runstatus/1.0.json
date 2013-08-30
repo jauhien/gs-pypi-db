@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a library to detect if a program is already running", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/riquito/runstatus/", 
+  "info": {
+    "Author:": "Riccardo Attilio Galli", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/riquito/runstatus/", 
+    "Keywords:": "process,program,run,uptime", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "riquito", 
+    "Platform:": "Windows,Mac OSX,Linux,BSD"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "a library to detect if a program is already running", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d0f3ff2ff68dd4eb3d20d9a65438961", 
+  "source_uri": "https://pypi.python.org/packages/source/r/runstatus/runstatus-1.0.tar.gz"
+}

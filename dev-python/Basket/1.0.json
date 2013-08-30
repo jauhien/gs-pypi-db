@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A local static PyPI repository builder", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/Basket", 
+  "info": {
+    "Author:": "Damien Baty", 
+    "Documentation:": "http://pythonhosted.org//Basket", 
+    "Home Page:": "http://packages.python.org/Basket", 
+    "Keywords:": "eggs easy_install pip package static repository pypi", 
+    "Package Index Owner:": "dbaty"
+  }, 
+  "license": "", 
+  "longdescription": "A local static PyPI repository builder", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4d1434e9370ce4263d01267339139cc", 
+  "source_uri": "https://pypi.python.org/packages/source/B/Basket/Basket-1.0.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Imports delicious bookmarks to FluidDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fluidinfo.com", 
+  "info": {
+    "Author:": "Nicholas Tollervey", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://fluidinfo.com", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ntoll"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Imports delicious bookmarks to FluidDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5f424ae58954bdacd48a5f01e4a929d7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/delicious2fluid/delicious2fluid-0.1.2.tar.gz"
+}

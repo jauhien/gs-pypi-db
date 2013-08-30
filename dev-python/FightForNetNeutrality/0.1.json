@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package is a WSGI middleware which allow to block some IP Address. By default the french parlement is denied.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://reflets.info/wp-neutalityfr-la-neutralite-du-net-expliquee-de-maniere-optimalisee-a-muriel/", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Home Page:": "http://reflets.info/wp-neutalityfr-la-neutralite-du-net-expliquee-de-maniere-optimalisee-a-muriel/", 
+    "Keywords:": "net neutrality wsgi", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gawel"
+  }, 
+  "license": "", 
+  "longdescription": "This package is a WSGI middleware which allow to block some IP Address. By default the french parlement is denied.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "00f4ef0736b42346160b057309fb76ee", 
+  "source_uri": "https://pypi.python.org/packages/source/F/FightForNetNeutrality/FightForNetNeutrality-0.1.tar.gz"
+}

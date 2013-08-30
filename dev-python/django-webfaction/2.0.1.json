@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Collection of tools to run django on webfaction more seamless", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/hovel/django-webfaction", 
+  "info": {
+    "Author:": "Pavel Zhukov", 
+    "Home Page:": "https://github.com/hovel/django-webfaction", 
+    "Keywords:": "webfaction,django", 
+    "License:": "GPL", 
+    "Package Index Owner:": "zeus"
+  }, 
+  "license": "", 
+  "longdescription": "Collection of tools to run django on webfaction more seamless", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd2d91b0ff3607de0bb52943e87edf6e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-webfaction/django-webfaction-2.0.1.tar.gz"
+}

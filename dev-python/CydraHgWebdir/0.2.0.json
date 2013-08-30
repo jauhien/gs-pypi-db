@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cydra plugin for hgwebdir", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cydra.org", 
+  "info": {
+    "Author:": "Manuel Stocker", 
+    "Home Page:": "http://www.cydra.org", 
+    "Keywords:": "cydra hgwebdir", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mensi"
+  }, 
+  "license": "", 
+  "longdescription": "Cydra plugin for hgwebdir", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "37b8d222d5f91614e522d351a445c7d1", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CydraHgWebdir/CydraHgWebdir-0.2.0.tar.gz"
+}

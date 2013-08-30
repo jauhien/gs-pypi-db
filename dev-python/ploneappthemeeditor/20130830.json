@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Theme Editor for Plone, Customie your theme resourcesthrough the web", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "David Glick", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "theme editor customization plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli, pigeonflight, do3cc"
+  }, 
+  "license": "", 
+  "longdescription": "Theme Editor for Plone, Customie your theme resourcesthrough the web", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c289d32f5334a916b63a0abec272fdd4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.themeeditor/plone.app.themeeditor-1.0a7.zip"
+}

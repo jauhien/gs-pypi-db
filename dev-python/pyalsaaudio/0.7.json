@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ALSA bindings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyalsaaudio.sourceforge.net/", 
+  "info": {
+    "Author:": "Lars Immisch", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio", 
+        "Players"
+      ]
+    }, 
+    "Home Page:": "http://pyalsaaudio.sourceforge.net/", 
+    "License:": "PSF", 
+    "Package Index Owner:": "larsimmisch", 
+    "Platform:": "posix"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "ALSA bindings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c98f6eccd9580451dd7867b9ba16bb2a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyalsaaudio/pyalsaaudio-0.7.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application that allows you to easily store    preferences for your users to choose from. Sending emails but want to let    the user choose the frequency  Do it by adding a preferences.py file in    your email app.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Narsil/django-userpreferences", 
+  "info": {
+    "Author:": "Nicolas Patry", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://github.com/Narsil/django-userpreferences/downloads/", 
+    "Home Page:": "http://github.com/Narsil/django-userpreferences", 
+    "Keywords:": "django preferences user settings profile", 
+    "Package Index Owner:": "narsil"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Django application that allows you to easily store    preferences for your users to choose from. Sending emails but want to let    the user choose the frequency  Do it by adding a preferences.py file in    your email app.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1ac68e1425d43c88ac7d688428d79a7", 
+  "source_uri": "http://github.com/Narsil/django-userpreferences/downloads/"
+}

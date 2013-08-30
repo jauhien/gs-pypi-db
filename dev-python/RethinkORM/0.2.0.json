@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Useful little ORM style wrapper for working with RethinkDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/JoshAshby/pyRethinkORM", 
+  "info": {
+    "Author:": "Joshua P Ashby", 
+    "Home Page:": "https://github.com/JoshAshby/pyRethinkORM", 
+    "License:": "GPL v3 (See LICENSE.txt for more info)", 
+    "Package Index Owner:": "Josh.Ashby"
+  }, 
+  "license": "", 
+  "longdescription": "Useful little ORM style wrapper for working with RethinkDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88027377199ead9da343eb21ebc258d0", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RethinkORM/RethinkORM-0.2.0.tar.gz"
+}

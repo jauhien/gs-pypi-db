@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A secure session authentication scheme based on signed tokens.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.objectrealms.net/view/public/browser/ore.tokenauth/trunk", 
+  "info": {
+    "Author:": "Kapil Thangavelu", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://svn.objectrealms.net/view/public/browser/ore.tokenauth/trunk", 
+    "Keywords:": "zope authentication", 
+    "License:": "GPL", 
+    "Package Index Owner:": "kapilt"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A secure session authentication scheme based on signed tokens.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f85e4a6739262dd21b642b371044bfe6", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ore.tokenauth/ore.tokenauth-0.3.5.tar.gz"
+}

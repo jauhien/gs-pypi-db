@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a python debug server that is complient with DBGP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jabapyth.github.com/pydbgp/", 
+  "info": {
+    "Author:": "Jared Forsyth", 
+    "Home Page:": "http://jabapyth.github.com/pydbgp/", 
+    "Package Index Owner:": "jabapyth"
+  }, 
+  "license": "", 
+  "longdescription": "a python debug server that is complient with DBGP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "050b2e0310a5b60a3a1fcd06936f04d7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dbgp/dbgp-1.1.tar.gz"
+}

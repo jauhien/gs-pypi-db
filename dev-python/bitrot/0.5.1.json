@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Detects bit rotten files on the hard drive to save your precious photo and music collection from slow decay.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ambv/bitrot/", 
+  "info": {
+    "Author:": "\u0141ukasz Langa", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ambv/bitrot/", 
+    "Keywords:": "file checksum database", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ambv", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Detects bit rotten files on the hard drive to save your precious photo and music collection from slow decay.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "24d816479353eb1cdf08a1b98cfdaf8e", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bitrot/bitrot-0.5.1.tar.gz"
+}

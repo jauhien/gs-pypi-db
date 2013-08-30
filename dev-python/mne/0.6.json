@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MNE python project for MEG and EEG data analysis.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://martinos.org/mne", 
+  "info": {
+    "Author:": "Alexandre Gramfort", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "http://github.com/mne-tools/mne-python", 
+    "Home Page:": "http://martinos.org/mne", 
+    "License:": "BSD (3-clause)", 
+    "Package Index Owner:": "agramfort", 
+    "Platform:": "any"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "MNE python project for MEG and EEG data analysis.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c11f0c44cd4bed201b45bfd56086f860", 
+  "source_uri": "http://github.com/mne-tools/mne-python"
+}

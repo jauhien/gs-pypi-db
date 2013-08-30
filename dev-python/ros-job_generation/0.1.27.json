@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "build farm job generation for dry jobs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/job_generation", 
+  "info": {
+    "Author:": "Wim Meeussen", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pr.willowgarage.com/downloads/", 
+    "Home Page:": "http://www.ros.org/wiki/job_generation", 
+    "Keywords:": "ROS", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kwc, wim, tfoote, dthomas"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "build farm job generation for dry jobs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0030e53a8ec85d516107f40b17ef5a6e", 
+  "source_uri": "http://pr.willowgarage.com/downloads/"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IP address manipulation and ARIN whois lookup library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Nadeem Douba", 
+    "Download URL:": "http://pypi.canariproject.com/pyiptools/pyiptools-0.1.tar.gz", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ndouba"
+  }, 
+  "license": "", 
+  "longdescription": "IP address manipulation and ARIN whois lookup library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://pypi.canariproject.com/pyiptools/pyiptools-0.1.tar.gz"
+}

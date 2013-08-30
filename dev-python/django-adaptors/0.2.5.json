@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert CSVXML files into python object or django model", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Anthony Tresontani", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Keywords:": "CSV XML Django adaptor", 
+    "License:": "BSD", 
+    "Package Index Owner:": "trez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Convert CSVXML files into python object or django model", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9bea90077c303a43291b03f4e15cac38", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-adaptors/django-adaptors-0.2.5.tar.gz"
+}

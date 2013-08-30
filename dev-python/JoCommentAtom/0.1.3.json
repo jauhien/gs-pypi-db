@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Atom feed generator for JoComment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/JoCommentAtom", 
+  "info": {
+    "Author:": "Jakub Warmuz", 
+    "Categories": {
+      "Framework": [
+        "Pylons"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/JoCommentAtom", 
+    "Keywords:": "joomla php joomlacomment comment atom feed rss web wsgi bfg pylons pyramid", 
+    "Package Index Owner:": "kuba"
+  }, 
+  "license": "", 
+  "longdescription": "Atom feed generator for JoComment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c73f171d96f4241e260eff89330752c", 
+  "source_uri": "https://pypi.python.org/packages/source/J/JoCommentAtom/JoCommentAtom-0.1.3.tar.gz"
+}

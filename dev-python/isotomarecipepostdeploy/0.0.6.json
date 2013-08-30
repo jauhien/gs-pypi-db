@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipes for postdeploy.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/isotoma.recipe.postdeploy", 
+  "info": {
+    "Author:": "John Carr", 
+    "Categories": {
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/isotoma.recipe.postdeploy", 
+    "Keywords:": "proxy buildout postdeploy", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "johncarr"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Buildout recipes for postdeploy.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f616f48b9d89a6bf79045f5e48cb44d2", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.postdeploy/isotoma.recipe.postdeploy-0.0.6.tar.gz"
+}

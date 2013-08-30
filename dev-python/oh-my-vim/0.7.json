@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Vim plugin manager and Vim related stuff", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gawel/oh-my-vim", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Text Editors"
+      ]
+    }, 
+    "Home Page:": "https://github.com/gawel/oh-my-vim", 
+    "Keywords:": "vim pathogen", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gawel"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Vim plugin manager and Vim related stuff", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "86fcec192ab1c80ad140193721efdce0", 
+  "source_uri": "https://pypi.python.org/packages/source/o/oh-my-vim/oh-my-vim-0.7.tar.gz"
+}

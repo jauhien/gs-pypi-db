@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Retrieve and pretty-print data from mongo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/anossov/ppmongo", 
+  "info": {
+    "Author:": "Pavel Anossov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/anossov/ppmongo", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Pavel.Anossov"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Retrieve and pretty-print data from mongo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2faec6896c880ba277ed9a909a76a1f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/ppmongo/ppmongo-0.1.3.tar.gz"
+}

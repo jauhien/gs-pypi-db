@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates release commits directly in git, unleashes them on PyPI and pushes tags to github.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mbr/unleash", 
+  "info": {
+    "Author:": "Marc Brinkmann", 
+    "Home Page:": "http://github.com/mbr/unleash", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mbr"
+  }, 
+  "license": "", 
+  "longdescription": "Creates release commits directly in git, unleashes them on PyPI and pushes tags to github.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b70f8233904739b9c98663c458163a5", 
+  "source_uri": "https://pypi.python.org/packages/source/u/unleash/unleash-0.5.tar.gz"
+}

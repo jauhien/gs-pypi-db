@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Financial and accounting module (only for Germany)     - Provides chart of accounts SKR03     - Provides account structure like balance and income statement     - Provides taxes, tax groups, tax rules     - Provides tax codes for german tax report (UStVA)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.virtual-things.biz/", 
+  "info": {
+    "Author:": "virtual things", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Manufacturing"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "German"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Office/Business", 
+        "Financial", 
+        "Accounting"
+      ]
+    }, 
+    "Download URL:": "http://downloads.tryton.org/2.0/", 
+    "Home Page:": "http://www.virtual-things.biz/", 
+    "License:": "GPL-3", 
+    "Package Index Maintainer:": "ced, yangoon", 
+    "Package Index Owner:": "udono, ced, yangoon, bch, nicoe"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Financial and accounting module (only for Germany)     - Provides chart of accounts SKR03     - Provides account structure like balance and income statement     - Provides taxes, tax groups, tax rules     - Provides tax codes for german tax report (UStVA)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2174395c5c92d1535e44aead8a655a78", 
+  "source_uri": "http://downloads.tryton.org/2.0/"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Deploy Ceph with minimal infrastructure", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ceph/ceph-deploy", 
+  "info": {
+    "Author:": "Inktank", 
+    "Home Page:": "https://github.com/ceph/ceph-deploy", 
+    "Keywords:": "ceph deploy", 
+    "License:": "MIT", 
+    "Package Index Owner:": "alfredodeza"
+  }, 
+  "license": "", 
+  "longdescription": "Deploy Ceph with minimal infrastructure", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "890e95169c89199cc2e68e64854f6dd3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/ceph-deploy/ceph-deploy-1.2.3.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "API implementation for the Fedora Commons Repository platform", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://infrae.com/download/fedoracommons/fcrepo", 
+  "info": {
+    "Author:": "Infrae", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://infrae.com/download/fedoracommons/fcrepo", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gbuijs, jsproc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "API implementation for the Fedora Commons Repository platform", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61bafa0ca88316a7e87de5be82c7688a", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fcrepo/fcrepo-1.1.tar.gz"
+}

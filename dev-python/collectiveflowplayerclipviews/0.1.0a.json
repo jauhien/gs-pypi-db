@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin for Plone and collective.flowplayer. Get statistics on how many times the video has been seen", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/keul/collective.flowplayerclipviews", 
+  "info": {
+    "Author:": "keul", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Video"
+      ]
+    }, 
+    "Home Page:": "http://github.com/keul/collective.flowplayerclipviews", 
+    "Keywords:": "flowplayer video views statistic clip", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul"
+  }, 
+  "license": "", 
+  "longdescription": "Plugin for Plone and collective.flowplayer. Get statistics on how many times the video has been seen", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec15e9726e0afe1edc918342c3c063f6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.flowplayerclipviews/collective.flowplayerclipviews-0.1.0a.tar.gz"
+}

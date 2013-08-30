@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integrate blockdiag series into Trac wiki", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yosisa/TracBlockdiag", 
+  "info": {
+    "Author:": "Yoshihisa Tanaka", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yosisa/TracBlockdiag", 
+    "Keywords:": "trac,macro,blockdiag", 
+    "License:": "MIT", 
+    "Package Index Owner:": "yosisa"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Integrate blockdiag series into Trac wiki", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "056fa9bbf6cf9da01a82c53e51c273fa", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracBlockdiag/TracBlockdiag-0.2.1.tar.gz"
+}

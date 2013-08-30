@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Log handler and c.3monitor plugin to monitor log activity", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m"
+  }, 
+  "license": "", 
+  "longdescription": "Log handler and c.3monitor plugin to monitor log activity", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21a0333b05d8e4d680a169e8770fd2e6", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.monitorlogstats/zc.monitorlogstats-0.1.0.tar.gz"
+}

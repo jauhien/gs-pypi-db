@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This reusable Django app using WYSIWYG editor redactorjs.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/TigorC/django-redactorjs", 
+  "info": {
+    "Author:": "Igor Tokarev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/TigorC/django-redactorjs", 
+    "Package Index Owner:": "TigorC"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "This reusable Django app using WYSIWYG editor redactorjs.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cff91f469695b1056509b6966944d220", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-redactorjs/django-redactorjs-0.2.4.tar.gz"
+}

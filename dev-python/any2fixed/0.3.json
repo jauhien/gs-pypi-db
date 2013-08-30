@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to generate fixed length files from a list of python instances", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Florent Aide", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "General"
+      ]
+    }, 
+    "Keywords:": "fixed length python", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "jschemoul"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A tool to generate fixed length files from a list of python instances", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a733c0568de1fd29d2ce9bbcc16d2a6", 
+  "source_uri": "https://pypi.python.org/packages/source/a/any2fixed/any2fixed-0.3.tar.gz"
+}

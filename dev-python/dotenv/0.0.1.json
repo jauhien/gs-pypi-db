@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Handle .env files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://witoi.github.com", 
+  "info": {
+    "Author:": "Pedro Bur\u00f3n", 
+    "Home Page:": "http://witoi.github.com", 
+    "Package Index Owner:": "pedroburon"
+  }, 
+  "license": "", 
+  "longdescription": "Handle .env files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6d1b6c48f66db10a1926ff9b541ec2f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dotenv/dotenv-0.0.1.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Slideshow Folder provides a simple, elegant animated slideshow for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/slideshowfolder", 
+  "info": {
+    "Author:": "Johnpaul Burbank, Jon Baldivieso, David Glick, et al", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/slideshowfolder", 
+    "Keywords:": "plone slideshow album mootools javascript", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli, jbaldivieso, cewing"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Slideshow Folder provides a simple, elegant animated slideshow for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e125f7166cef3b58b98504d106aa82fd", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.slideshowfolder/Products.slideshowfolder-4.1b1.zip"
+}

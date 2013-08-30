@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pipe to connect various SQL databases to a PipeStack application. Supports PostgreSQL, SQLite and SQLServer 2000 via plugins.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jimmyg.org/work/code/databasepipe/index.html", 
+  "info": {
+    "Author:": "James Gardner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://jimmyg.org/work/code/databasepipe/index.html", 
+    "License:": "GNU AGPLv3", 
+    "Package Index Owner:": "thejimmyg"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "A pipe to connect various SQL databases to a PipeStack application. Supports PostgreSQL, SQLite and SQLServer 2000 via plugins.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f260bd8ae66b054ca6213c7e8998a7c", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DatabasePipe/DatabasePipe-2.2.1.tar.gz"
+}

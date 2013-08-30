@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "generate statsd events by monitoring a syslog udp stream", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pandemicsyn/statsdlog", 
+  "info": {
+    "Author:": "Florian Hines", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pandemicsyn/statsdlog", 
+    "Keywords:": "statsd syslog graphite", 
+    "License:": "Apache License, (2.0)", 
+    "Package Index Owner:": "pandemicsyn"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "generate statsd events by monitoring a syslog udp stream", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff1c8490cf1aed79604d8c099316acf6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/statsdlog/statsdlog-0.0.8.tar.gz"
+}

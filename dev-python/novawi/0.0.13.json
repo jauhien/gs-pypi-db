@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a command-line wiard for nova", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "github.com/echohead/novawiz", 
+  "info": {
+    "Author:": "tim miller", 
+    "Home Page:": "github.com/echohead/novawiz", 
+    "Package Index Owner:": "echohead"
+  }, 
+  "license": "", 
+  "longdescription": "a command-line wiard for nova", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "219266201dca217c3af51cd5aa32a1e4", 
+  "source_uri": "https://pypi.python.org/packages/source/n/novawiz/novawiz-0.0.13.tar.gz"
+}

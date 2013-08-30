@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Workflow management and application generation tool for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.it.uwosh.edu/svn/plone/Projects/uwosh.northstar", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://svn.it.uwosh.edu/svn/plone/Projects/uwosh.northstar", 
+    "Keywords:": "workflow uwosh plone manager ajax product generation", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "tkimnguyen", 
+    "Package Index Owner:": "vangheem, tkimnguyen"
+  }, 
+  "license": "", 
+  "longdescription": "Workflow management and application generation tool for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9ff554e01d48b266e20081a572d0c3a", 
+  "source_uri": "https://pypi.python.org/packages/source/u/uwosh.northstar/uwosh.northstar-1.1b3.tar.gz"
+}

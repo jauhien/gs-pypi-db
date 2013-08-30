@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rule registry for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/yourlabs/django-rules-light", 
+  "info": {
+    "Author:": "James Pic", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/yourlabs/django-rules-light", 
+    "Keywords:": "django security rules acl rbac", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jpic"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Rule registry for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14492ab1db487de677b62023537d265a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-rules-light/django-rules-light-0.0.9.tar.gz"
+}

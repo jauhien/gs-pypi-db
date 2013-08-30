@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "file storage for management command in django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/spulec/django-file-keeper", 
+  "info": {
+    "Author:": "Steve Pulec", 
+    "Home Page:": "https://github.com/spulec/django-file-keeper", 
+    "Package Index Owner:": "spulec"
+  }, 
+  "license": "", 
+  "longdescription": "file storage for management command in django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba63d3278a65214bf19a5575c68e1614", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-file-keeper/django-file-keeper-0.0.1.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "celery store backend and kombu transport for redis that supports connections via unix sockets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/piquadrat/celery-redis-unixsocket", 
+  "info": {
+    "Author:": "Benjamin Wohlwend", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/piquadrat/celery-redis-unixsocket", 
+    "License:": "BSD", 
+    "Package Index Owner:": "piquadrat", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "celery store backend and kombu transport for redis that supports connections via unix sockets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b68783686f90a76ed1e7762dd8acfbfc", 
+  "source_uri": "https://pypi.python.org/packages/source/c/celery-redis-unixsocket/celery-redis-unixsocket-0.3.tar.gz"
+}

@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PFG extension, to be able to use fields specific to credit cards", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sixfeetup.com", 
+  "info": {
+    "Author:": "Lucie Lejard", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://sixfeetup.com", 
+    "License:": "GPL", 
+    "Package Index Owner:": "claytron, lucielejard, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "PFG extension, to be able to use fields specific to credit cards", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "869b1ec9fa508a7aefcf8c9789366403", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.pfg.creditcardfields/collective.pfg.creditcardfields-1.3.zip"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Retrieve INSEE codes of french territories from their postal distributions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/Podis/", 
+  "info": {
+    "Author:": "Romain Soufflet", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Podis", 
+    "Home Page:": "http://packages.python.org/Podis/", 
+    "Keywords:": "code depcom insee postal routing", 
+    "License:": "http://www.fsf.org/licensing/licenses/agpl-3.0.html", 
+    "Package Index Owner:": "Gentux"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Retrieve INSEE codes of french territories from their postal distributions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61fad434158d5dd096b950dd245d740e", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Podis/Podis-2.3.tar.gz"
+}

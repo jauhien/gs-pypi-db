@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python API for accessing resources on a Jenkins continuous-integration server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/salimfadhley/jenkinsapi", 
+  "info": {
+    "Author:": "Salim Fadhley, Ramon van Alteren, Ruslan Lutsenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//jenkinsapi", 
+    "Home Page:": "https://github.com/salimfadhley/jenkinsapi", 
+    "Package Index Owner:": "salimfadhley"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Python API for accessing resources on a Jenkins continuous-integration server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "70614571f4150699192380df4fab8bf1", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jenkinsapi/jenkinsapi-0.2.13.tar.gz"
+}

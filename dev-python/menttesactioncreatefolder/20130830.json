@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An action to create folders with content rules", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://labs.menttes.com", 
+  "info": {
+    "Author:": "Roberto Allende", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://labs.menttes.com", 
+    "Keywords:": "content rules action create folder", 
+    "License:": "GPL", 
+    "Package Index Owner:": "r0ver, menttes"
+  }, 
+  "license": "", 
+  "longdescription": "An action to create folders with content rules", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2bf415ad985ebbb47d55fafd38d8b63c", 
+  "source_uri": "https://pypi.python.org/packages/source/m/menttes.action.createfolder/menttes.action.createfolder-0.1dev-r68295.tar.gz"
+}

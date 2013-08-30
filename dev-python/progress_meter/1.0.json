@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple progress bar for long running tasks (Tkinter based)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/takluyver/progress_meter", 
+  "info": {
+    "Author:": "Michael Lange, Thomas Kluyver", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "User Interfaces"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/takluyver/progress_meter", 
+    "Package Index Owner:": "takowl"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple progress bar for long running tasks (Tkinter based)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b72234180ddc5f3c7ec7b65408ae422f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/progress_meter/progress_meter-1.0.tar.gz"
+}

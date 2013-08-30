@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds Schema.org attributes to collective.perseo package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fdelia, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "Adds Schema.org attributes to collective.perseo package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bece1906d6413325ce40c5425386650b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.perseoschema/collective.perseoschema-0.1.1.tar.gz"
+}

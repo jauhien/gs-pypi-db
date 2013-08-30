@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Search backend for Cubes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://databrewery.org", 
+  "info": {
+    "Author:": "Stefan Urbanek", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://databrewery.org", 
+    "Keywords:": "olap multidimensional data analysis", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Stiivi"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Search backend for Cubes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "444d31b3df3739a80a5c098d4ed66c5d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubes_search/cubes_search-0.3.0.tar.gz"
+}

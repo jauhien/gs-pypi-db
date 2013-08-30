@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Console-based access to the Gatherer Magic Card Database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/chigby/mtg", 
+  "info": {
+    "Author:": "Cameron Higby-Naquin", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/chigby/mtg", 
+    "Keywords:": "mtg,magic,gatherer", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chigby"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Console-based access to the Gatherer Magic Card Database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "56a6c20d6d77010da5425e0f04e62a3e", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mtg/mtg-1.2.2.tar.gz"
+}

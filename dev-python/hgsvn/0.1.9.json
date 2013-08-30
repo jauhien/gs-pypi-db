@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of scripts to work locally on Subversion checkouts using Mercurial", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/andialbrecht/hgsvn", 
+  "info": {
+    "Author:": "Antoine Pitrou", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/andialbrecht/hgsvn", 
+    "License:": "GNU GPL", 
+    "Package Index Owner:": "antoine, aalbrecht"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A set of scripts to work locally on Subversion checkouts using Mercurial", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "901f2fb04faad5a1e7cf84abfad564fd", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hgsvn/hgsvn-0.1.9.tar.gz"
+}

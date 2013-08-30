@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HARPy a simple library for interrogating an HTTP Archive (HAR) file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/adamgoucher/HARPy", 
+  "info": {
+    "Author:": "Adam Goucher", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/adamgoucher/HARPy", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "adamgoucher", 
+    "Platform:": "unix,linux,osx,cygwin,win32"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "HARPy a simple library for interrogating an HTTP Archive (HAR) file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "843f2c115a309da6dfb377060719fee2", 
+  "source_uri": "https://pypi.python.org/packages/source/H/HARPy/HARPy-0.2.0.tar.gz"
+}

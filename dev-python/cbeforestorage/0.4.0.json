@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "View storage before a given time", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Framework": [
+        "ZODB"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m, aaron, satchit"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "View storage before a given time", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2832ad5c4dbfaf88ef3dbe0dee9242c3", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.beforestorage/zc.beforestorage-0.4.0.tar.gz"
+}

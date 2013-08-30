@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ODB Activity Monitor that just logs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zc.zodbactivitylog/", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zc.zodbactivitylog/", 
+    "Keywords:": "Zope, ZODB", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "fdrake, J1m"
+  }, 
+  "license": "", 
+  "longdescription": "ODB Activity Monitor that just logs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c36cbb662001e6d3df429f42858cfcab", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.zodbactivitylog/zc.zodbactivitylog-0.1.1.tar.gz"
+}

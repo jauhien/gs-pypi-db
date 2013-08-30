@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for checking system configuration.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.simplistix.co.uk/software/python/checker", 
+  "info": {
+    "Author:": "Chris Withers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//checker", 
+    "Home Page:": "http://www.simplistix.co.uk/software/python/checker", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chrisw"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A tool for checking system configuration.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c4f72f80d298ed05f9140445a6eb85b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/checker/checker-1.9.tar.gz"
+}

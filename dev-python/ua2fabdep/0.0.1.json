@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fabric management for external source code repositories.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ua2web/ua2.fabdep", 
+  "info": {
+    "Author:": "AVK", 
+    "Home Page:": "https://bitbucket.org/ua2web/ua2.fabdep", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "ua2web, avkoval"
+  }, 
+  "license": "", 
+  "longdescription": "Fabric management for external source code repositories.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "348da33c566c04ae8017588d626128ce", 
+  "source_uri": "https://pypi.python.org/packages/source/u/ua2.fabdep/ua2.fabdep-0.0.1.tar.gz"
+}

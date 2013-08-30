@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Minimalist Heroku bootstrap for Flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/daveshawley/flask-heroku-runner/", 
+  "info": {
+    "Author:": "Dave Shawley", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/daveshawley/flask-heroku-runner/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "daveshawley", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Minimalist Heroku bootstrap for Flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7ea9998d347381d0a82dea7207735753", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Heroku-Runner/Flask-Heroku-Runner-2.tar.gz"
+}

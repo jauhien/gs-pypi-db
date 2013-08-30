@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of Django tools which make it easy to changetext filled with oembed links into the embedded objects themselves.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-oembed.googlecode.com", 
+  "info": {
+    "Author:": "Eric Florenzano", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://django-oembed.googlecode.com", 
+    "Package Index Owner:": "jezdez, ericflo, brosner"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A collection of Django tools which make it easy to changetext filled with oembed links into the embedded objects themselves.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0496abe7e49e2a720556683c37354b99", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-oembed/django-oembed-0.1.3.tar.gz"
+}

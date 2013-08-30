@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Remove rules system from plone by Makina Corpus", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.remove/rules/trunk", 
+  "info": {
+    "Author:": "JeanMichel FRANCOIS", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.remove/rules/trunk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "toutpt"
+  }, 
+  "license": "", 
+  "longdescription": "Remove rules system from plone by Makina Corpus", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5476e44f02ae3479180e54239377d33b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.remove.rules/collective.remove.rules-0.1.zip"
+}

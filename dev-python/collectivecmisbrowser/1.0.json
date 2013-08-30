@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CMIS repository browser for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.cmisbrowser", 
+  "info": {
+    "Author:": "Sylvain Viollon", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.cmisbrowser", 
+    "Keywords:": "CMIS connection browser plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "wimbou"
+  }, 
+  "license": "", 
+  "longdescription": "CMIS repository browser for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df9fc446847ba45b0d761dbaf84cec26", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.cmisbrowser/collective.cmisbrowser-1.0.tar.gz"
+}

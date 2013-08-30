@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipes for App Engine development.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/appfy/", 
+  "info": {
+    "Author:": "Rodrigo Moraes", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/appfy/", 
+    "Keywords:": "buildout recipe google app engine appengine gae zc.buildout appfy tipfy", 
+    "License:": "Apache Software License", 
+    "Package Index Maintainer:": "prmtl", 
+    "Package Index Owner:": "moraes"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Buildout recipes for App Engine development.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "747ffdfaafab5ec9a5d990320a1cb57e", 
+  "source_uri": "https://pypi.python.org/packages/source/a/appfy.recipe.gae/appfy.recipe.gae-0.9.3.tar.gz"
+}

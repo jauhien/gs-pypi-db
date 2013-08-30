@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RosterServer is a XMLRPC Server for Roster.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/roster-dns-management/", 
+  "info": {
+    "Author:": "Roster Development Team", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Name Service (DNS)"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/roster-dns-management/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "stephenharrell, jcollins"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "RosterServer is a XMLRPC Server for Roster.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba4cc2740901463dbf715b654a2f1ce1", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RosterServer/RosterServer-0.17.tar.gz"
+}

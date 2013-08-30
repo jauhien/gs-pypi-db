@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple CLI to control the Spotify desktop client.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Christopher Rosell", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "chrippa"
+  }, 
+  "license": "", 
+  "longdescription": "A simple CLI to control the Spotify desktop client.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19e363da83727c5e7bbeab1f7e356e5d", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spotify-remote/spotify-remote-0.1.0.tar.gz"
+}

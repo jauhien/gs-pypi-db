@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone content rule for send e-mail to addresses taken from the content", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.contentrules.mailfromfield", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/collective.contentrules.mailfromfield/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.contentrules.mailfromfield", 
+    "Keywords:": "plone rules mail plonegov", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "micecchi", 
+    "Package Index Owner:": "keul, massimo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Plone content rule for send e-mail to addresses taken from the content", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b1f02f5b7ea5678643dcd4f807bbebe", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentrules.mailfromfield/collective.contentrules.mailfromfield-0.2.0.zip"
+}

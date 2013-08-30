@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Snaptastic is a python tool to enable easy snapshottingand mounting of snapshots on AWSEC2 EBS volumes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tschellenbach/Snaptastic", 
+  "info": {
+    "Author:": "Thierry Schellenbach", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tschellenbach/Snaptastic", 
+    "Package Index Owner:": "tschellenbach"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Snaptastic is a python tool to enable easy snapshottingand mounting of snapshots on AWSEC2 EBS volumes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2043559e5d79b7e2685f962c033763a", 
+  "source_uri": "https://pypi.python.org/packages/source/s/snaptastic/snaptastic-0.2.12.zip"
+}

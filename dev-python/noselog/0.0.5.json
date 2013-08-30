@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Nose plugin for controlling test logs output", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Rotem Yaari", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "vmalloc"
+  }, 
+  "license": "", 
+  "longdescription": "Nose plugin for controlling test logs output", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb6b676c916b3415901d3db727d7c72c", 
+  "source_uri": "https://pypi.python.org/packages/source/n/noselog/noselog-0.0.5.tar.gz"
+}

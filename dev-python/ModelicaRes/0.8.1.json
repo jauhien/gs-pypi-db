@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utilities to set up and analye Modelica simulation experiments", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://kdavies4.github.io/ModelicaRes/", 
+  "info": {
+    "Author:": "Kevin Davies", 
+    "Bug Tracker:": "https://github.com/kdavies4/ModelicaRes/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://kdavies4.github.io/ModelicaRes/", 
+    "Keywords:": "Modelica,Dymola,plot,matplotlib,simulation,experiment,results", 
+    "License:": "BSD-compatible (see LICENSE.txt)", 
+    "Package Index Owner:": "kdavies4"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Utilities to set up and analye Modelica simulation experiments", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a4465b706a8ea8ea76892c9276ded70", 
+  "source_uri": "https://pypi.python.org/packages/source/M/ModelicaRes/ModelicaRes-0.8.1.tar.gz"
+}

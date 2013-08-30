@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple FAQ application for Django sites.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-fack.rtfd.org/", 
+  "info": {
+    "Author:": "Kevin Fricovsky", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://django-fack.rtfd.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jacobian"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple FAQ application for Django sites.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ee2243813452a3a5f5dfbdbc0720a50", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fack/django-fack-1.1.tar.gz"
+}

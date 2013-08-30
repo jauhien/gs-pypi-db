@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightweight tools for signing and encrypting cookies, urls and stuff. This package isnt really secure, but its secure enough for most needs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jvanasco/insecure_but_secure_enough", 
+  "info": {
+    "Author:": "Jonathan Vanasco", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jvanasco/insecure_but_secure_enough", 
+    "Keywords:": "web pylons pyramid", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jvanasco"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Lightweight tools for signing and encrypting cookies, urls and stuff. This package isnt really secure, but its secure enough for most needs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36b292846ab19935fea93b24cab2a6a2", 
+  "source_uri": "https://pypi.python.org/packages/source/i/insecure_but_secure_enough/insecure_but_secure_enough-0.0.3.tar.gz"
+}

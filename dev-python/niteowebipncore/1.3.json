@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Support for Instant Payment Notifications in Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/niteoweb.ipn.core", 
+  "info": {
+    "Author:": "NiteoWeb Ltd.", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/niteoweb.ipn.core", 
+    "Keywords:": "Plone IPN", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zupo"
+  }, 
+  "license": "", 
+  "longdescription": "Support for Instant Payment Notifications in Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e695b73d7ba4c9e1bb4b74886e08c1c", 
+  "source_uri": "https://pypi.python.org/packages/source/n/niteoweb.ipn.core/niteoweb.ipn.core-1.3.zip"
+}

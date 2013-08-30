@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Alternates user models for use with django  1.5", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://v.licheni.net/drc/django-altuser.git", 
+  "info": {
+    "Author:": "Davide Riccardo Caliendo", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://v.licheni.net/drc/django-altuser.git", 
+    "License:": "GPLv3 MIT License", 
+    "Package Index Owner:": "drc"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Alternates user models for use with django  1.5", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d9f9a47827952ec8934f0b0c83c1dcf", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-altuser/django-altuser-0.4.tar.gz"
+}

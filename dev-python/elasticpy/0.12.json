@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Wrapper for elasticsearch", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ooici/elasticpy/", 
+  "info": {
+    "Author:": "Luke Campbell", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ooici/elasticpy/", 
+    "Keywords:": "elasticsearch search wrapper", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "lcampbell"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python Wrapper for elasticsearch", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ca39f9a132c4fc5f257e5eb66b951a5a", 
+  "source_uri": "https://pypi.python.org/packages/source/e/elasticpy/elasticpy-0.12.tar.gz"
+}

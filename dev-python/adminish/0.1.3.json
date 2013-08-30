@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Auto web admin system for couchdb and restish", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ish.io", 
+  "info": {
+    "Author:": "Tim Parkin & Matt Goodall", 
+    "Home Page:": "http://ish.io", 
+    "Package Index Owner:": "ish"
+  }, 
+  "license": "", 
+  "longdescription": "Auto web admin system for couchdb and restish", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ddc6f01cf65a480012d687ccf61b45bd", 
+  "source_uri": "https://pypi.python.org/packages/source/a/adminish/adminish-0.1.3.tar.gz"
+}

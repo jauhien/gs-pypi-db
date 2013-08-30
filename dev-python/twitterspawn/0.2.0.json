@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous, concurrent requests to the Twitter REST API, that respect Twitters rate limits, using gevent and requests.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/swinton/twitterspawn", 
+  "info": {
+    "Author:": "Steve Winton", 
+    "Home Page:": "https://github.com/swinton/twitterspawn", 
+    "Keywords:": "requests,python-requests,gevent,twitterspawn", 
+    "License:": "MIT", 
+    "Package Index Owner:": "swinton"
+  }, 
+  "license": "", 
+  "longdescription": "Asynchronous, concurrent requests to the Twitter REST API, that respect Twitters rate limits, using gevent and requests.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "68c8d07c0fad0e310cdcafb22f354f03", 
+  "source_uri": "https://pypi.python.org/packages/source/t/twitterspawn/twitterspawn-0.2.0.tar.gz"
+}

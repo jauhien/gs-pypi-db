@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "System Buildouts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m"
+  }, 
+  "license": "", 
+  "longdescription": "System Buildouts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7cee419cb084e7806944f35e0dae1c16", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.sbo/zc.sbo-0.6.1.tar.gz"
+}

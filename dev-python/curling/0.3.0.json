@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Slumber wrapper for Django that works well with Tastypie", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/andymckay/curling", 
+  "info": {
+    "Author:": "Andy McKay", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "https://github.com/andymckay/curling", 
+    "License:": "BSD", 
+    "Package Index Owner:": "andymckay"
+  }, 
+  "license": "", 
+  "longdescription": "Slumber wrapper for Django that works well with Tastypie", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c461802b3043b49703f6d2fdffa3c6db", 
+  "source_uri": "https://pypi.python.org/packages/source/c/curling/curling-0.3.0.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An experimental resource-based web framework built on Tornados IOLoop", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://alekstorm.github.com/vortex", 
+  "info": {
+    "Author:": "Alek Storm", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.0"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Server"
+      ]
+    }, 
+    "Home Page:": "http://alekstorm.github.com/vortex", 
+    "Package Index Owner:": "alekstorm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An experimental resource-based web framework built on Tornados IOLoop", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a33787e6b05aab006bd0ac760dea4729", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vortex/vortex-0.0.5.tar.gz"
+}

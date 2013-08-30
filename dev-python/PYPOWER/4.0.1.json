@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Solves power flow and optimal power flow problems", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pypower.org/", 
+  "info": {
+    "Author:": "Richard Lincoln", 
+    "Home Page:": "http://www.pypower.org/", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "rwl"
+  }, 
+  "license": "", 
+  "longdescription": "Solves power flow and optimal power flow problems", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98756a4a3304589ccd5ebb8516e2f9a2", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PYPOWER/PYPOWER-4.0.1.tar.gz"
+}

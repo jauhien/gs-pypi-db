@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Gettext po to mo file compiler.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/python-gettext", 
+  "info": {
+    "Author:": "Hanno Schlichting", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Localization"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/python-gettext", 
+    "Keywords:": "Python Gettext Msgctxt", 
+    "License:": "BSD", 
+    "Package Index Owner:": "hannosch"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python Gettext po to mo file compiler.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "06632b51fc3d66334cc79fb20e6464b4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-gettext/python-gettext-2.1.zip"
+}

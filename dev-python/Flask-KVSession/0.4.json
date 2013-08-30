@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Transparent server-side session support for flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mbr", 
+  "info": {
+    "Author:": "Marc Brinkmann", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mbr", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mbr", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Transparent server-side session support for flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aaf0eb9e1f7da525be5f6f2806c031f4", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-KVSession/Flask-KVSession-0.4.tar.gz"
+}

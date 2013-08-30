@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast python port of protobuf", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://evgenus.github.com/protocyt/", 
+  "info": {
+    "Author:": "Eugene Chernyshov", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://evgenus.github.com/protocyt/", 
+    "Keywords:": "serialization data-format cython protobuf", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "Ev_genus"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Fast python port of protobuf", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "05d9c0fd47d704ad1de5b9d8750198f8", 
+  "source_uri": "https://pypi.python.org/packages/source/p/protocyt/protocyt-0.1.4.zip"
+}

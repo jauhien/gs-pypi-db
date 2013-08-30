@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parse Senate LD-1LD-2 lobbying disclosure XML documents", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dhess/lobbyists/", 
+  "info": {
+    "Author:": "Drew Hess", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dhess/lobbyists/", 
+    "Keywords:": "lobbyists government parser", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "dhess"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Parse Senate LD-1LD-2 lobbying disclosure XML documents", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "968d7a38ec6e0d299d129ace229dfce6", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lobbyists/lobbyists-0.10.tar.gz"
+}

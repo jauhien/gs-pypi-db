@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app for remember-me functionality (using a token)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ailabs/django-auth-remember/", 
+  "info": {
+    "Author:": "Michael van Tellingen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ailabs/django-auth-remember/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mvt"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django app for remember-me functionality (using a token)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8e3d42f8e48fd765e210b8fc01648651", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-auth-remember/django-auth-remember-0.3.tar.gz"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple library to send email using GMail (includes background worker and logging classes)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/paulchakravarti/gmail-sender", 
+  "info": {
+    "Author:": "Paul Chakravarti", 
+    "Categories": {
+      "Topic": [
+        "Communications", 
+        "Email"
+      ]
+    }, 
+    "Home Page:": "https://github.com/paulchakravarti/gmail-sender", 
+    "License:": "BSD", 
+    "Package Index Owner:": "paulc"
+  }, 
+  "license": "", 
+  "longdescription": "Simple library to send email using GMail (includes background worker and logging classes)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b411981c96bb645ee04614529fb2dc1a", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gmail/gmail-0.4.tar.gz"
+}

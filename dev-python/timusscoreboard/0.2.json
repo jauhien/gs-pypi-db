@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Custom contest support for the Timus Online Judge", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/admp/timus-scoreboard", 
+  "info": {
+    "Author:": "Adomas Paltanavicius", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Education"
+      ]
+    }, 
+    "Home Page:": "http://github.com/admp/timus-scoreboard", 
+    "Package Index Owner:": "admp"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Custom contest support for the Timus Online Judge", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eaf8cf94e39e682505d77f742788bf3f", 
+  "source_uri": "https://pypi.python.org/packages/source/t/timus.scoreboard/timus.scoreboard-0.2.tar.gz"
+}

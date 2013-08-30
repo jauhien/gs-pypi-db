@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for ssdeep", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/kbandla/pydeep", 
+  "info": {
+    "Author:": "Kiran Bandla", 
+    "Home Page:": "http://www.github.com/kbandla/pydeep", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gback"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for ssdeep", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3bd2480de77f2f0593b6bc8f34a7c5dc", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pydeep/pydeep-0.2.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allow Members to request access to private Plone Folders.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.subscribablesections", 
+  "info": {
+    "Author:": "Kees Hink", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.subscribablesections", 
+    "Keywords:": "Plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "khink, huub, helmantel, kcleong, puittenbroek"
+  }, 
+  "license": "", 
+  "longdescription": "Allow Members to request access to private Plone Folders.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a1082a8e11e14a9b5525d8c44a48e4b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.subscribablesections/collective.subscribablesections-0.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hive thrift client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/tebeka/hive", 
+  "info": {
+    "Author:": "Miki Tebeka", 
+    "Home Page:": "https://bitbucket.org/tebeka/hive", 
+    "License:": "MIT", 
+    "Package Index Owner:": "tebeka"
+  }, 
+  "license": "", 
+  "longdescription": "Hive thrift client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "91c5d09be30a94b11183dcbc19693d80", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hiver/hiver-0.2.1.tar.gz"
+}

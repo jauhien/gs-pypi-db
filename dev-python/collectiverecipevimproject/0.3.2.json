@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Set up a VIM development environment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/buildout/collective.recipe.vimproject/trunk", 
+  "info": {
+    "Author:": "Stefan Eletzhofer", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/buildout/collective.recipe.vimproject/trunk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "seletz"
+  }, 
+  "license": "", 
+  "longdescription": "Set up a VIM development environment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb1778b558f3d56ef505e7ca9b8dcbd1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.vimproject/collective.recipe.vimproject-0.3.2.tar.gz"
+}

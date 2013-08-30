@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "easy integration between djangocl and supervisord", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rfk/django-supervisor", 
+  "info": {
+    "Author:": "Ryan Kelly", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rfk/django-supervisor", 
+    "Keywords:": "django supervisord process", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rfk"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "easy integration between djangocl and supervisord", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "de4863165d5db78293ad4e3c2e15012e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-supervisor/django-supervisor-0.3.1.tar.gz"
+}

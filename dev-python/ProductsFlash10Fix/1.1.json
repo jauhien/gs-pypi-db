@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package fixes httpdev.plone.orgploneticket8624 which prevents .swf movies from playing in Flash 10 when served from Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "David Glick", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "plone flash video swf", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli, jbaldivieso"
+  }, 
+  "license": "", 
+  "longdescription": "This package fixes httpdev.plone.orgploneticket8624 which prevents .swf movies from playing in Flash 10 when served from Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61d41e843455852048943f8f2ad0adc4", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.Flash10Fix/Products.Flash10Fix-1.1.tar.gz"
+}

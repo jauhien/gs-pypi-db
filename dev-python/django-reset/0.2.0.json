@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Forward-port of Djangos reset management command. It was removed with Django 1.5.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gregmuellegger/django-reset", 
+  "info": {
+    "Author:": "Gregor M\u00fcllegger", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gregmuellegger/django-reset", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gremu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Forward-port of Djangos reset management command. It was removed with Django 1.5.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71ca67886b219208657279a12a556feb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-reset/django-reset-0.2.0.tar.gz"
+}

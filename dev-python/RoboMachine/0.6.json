@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Test data generator for Robot Framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mkorpela/RoboMachine", 
+  "info": {
+    "Author:": "Mikko Korpela", 
+    "Bug Tracker:": "https://github.com/mkorpela/RoboMachine/issues", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mkorpela/RoboMachine", 
+    "Package Index Owner:": "mkorpela"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Test data generator for Robot Framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e95eaa43afda0f363c78a88e9da7159", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RoboMachine/RoboMachine-0.6.tar.gz"
+}

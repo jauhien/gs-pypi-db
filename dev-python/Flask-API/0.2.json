@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Flask extension which allow to build and publish an API for a Flask application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/namlook/Flask-API", 
+  "info": {
+    "Author:": "Nicolas Clairon", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/namlook/Flask-API", 
+    "License:": "BSD", 
+    "Package Index Owner:": "namlook", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Flask extension which allow to build and publish an API for a Flask application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a462da25f0653af8e81cf676f5a3a70", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-API/Flask-API-0.2.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe to generate a text file from a genshi template.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/buildout/collective.recipe.genshi/trunk", 
+  "info": {
+    "Author:": "Florian Schulze", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/buildout/collective.recipe.genshi/trunk", 
+    "Keywords:": "template recipe", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fschulze"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout recipe to generate a text file from a genshi template.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41b834ceb9cf03070b75e630e87d5afe", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.genshi/collective.recipe.genshi-1.0.zip"
+}

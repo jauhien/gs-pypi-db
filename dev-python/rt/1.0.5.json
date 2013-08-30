@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to Request Tracker API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://git.nic.cz/redmine/projects/python-rt", 
+  "info": {
+    "Author:": "Jiri Machalek", 
+    "Bug Tracker:": "https://git.nic.cz/redmine/projects/python-rt/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://git.nic.cz/redmine/projects/python-rt", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "machalekj.mojeid.cz"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Python interface to Request Tracker API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15dfba0d6a390e0475e3a79c11f08835", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rt/rt-1.0.5.tar.gz"
+}

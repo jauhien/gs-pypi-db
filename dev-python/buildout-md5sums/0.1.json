@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A c.builout extension that allows you to specify and enforce md5 checksums for all downloads", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/buildout-md5sums", 
+  "info": {
+    "Author:": "Filip Noetzel", 
+    "Home Page:": "http://www.python.org/pypi/buildout-md5sums", 
+    "License:": "Beerware", 
+    "Package Index Owner:": "peritus"
+  }, 
+  "license": "", 
+  "longdescription": "A c.builout extension that allows you to specify and enforce md5 checksums for all downloads", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fa376420d9659c62dd5d4088f6ba4e6c", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildout-md5sums/buildout-md5sums-0.1.tar.gz"
+}

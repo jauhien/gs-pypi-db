@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Base classes for functional and load testing of OpenERP with Funkload", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/anybox.funkload.openerp", 
+  "info": {
+    "Author:": "Georges Racinet", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Topic": [
+        "System", 
+        "Benchmark"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/anybox.funkload.openerp", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "gracinet"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Base classes for functional and load testing of OpenERP with Funkload", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be7c51cf3c2c23e4d5fbbecd2e80df90", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anybox.funkload.openerp/anybox.funkload.openerp-0.2.tar.gz"
+}

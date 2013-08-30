@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "buildout recipe for packaging projects as applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Infinidat/infi.recipe.application_packager", 
+  "info": {
+    "Author:": "Arnon Yaari", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Infinidat/infi.recipe.application_packager", 
+    "License:": "PSF", 
+    "Package Index Owner:": "infinidat, guyr"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "buildout recipe for packaging projects as applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b2b3822f88a7cad64123c8e44135adbc", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infi.recipe.application_packager/infi.recipe.application_packager-0.3.29.tar.gz"
+}

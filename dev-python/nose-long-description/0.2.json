@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A nose plugin that combines the name and docstring of a test when describing it.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Matthew J Desmarais", 
+    "License:": "MIT", 
+    "Package Index Owner:": "desmaj"
+  }, 
+  "license": "", 
+  "longdescription": "A nose plugin that combines the name and docstring of a test when describing it.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b2467702d4617a332584cea4bd48f873", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-long-description/nose-long-description-0.2.tar.gz"
+}

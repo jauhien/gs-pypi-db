@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A extendable category app using django-mptt for django-shop", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fivethreeo/django-shop-categories/", 
+  "info": {
+    "Author:": "Oyvind Saltvik", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fivethreeo/django-shop-categories/", 
+    "Package Index Owner:": "fivethreeo"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A extendable category app using django-mptt for django-shop", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6dd6590bb19c09915718304d0a7a3b4f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-shop-categories/django-shop-categories-1.0.zip"
+}

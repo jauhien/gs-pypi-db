@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Filesystem synchroniation utility for ope 3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zope.app.fssync", 
+  "info": {
+    "Author:": "Zope Corporation and Contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zope.app.fssync", 
+    "Keywords:": "zope3 serialization synchronization", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "aaron, amos, J1m, benji, fdrake, srichter, gary, tlotze, faassen, agroszer, hannosch, baijum, menesis, davisagli, achapman"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Filesystem synchroniation utility for ope 3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fac7ae805745b21b44b43d857e5537ba", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zope.app.fssync/zope.app.fssync-3.5.tar.gz"
+}

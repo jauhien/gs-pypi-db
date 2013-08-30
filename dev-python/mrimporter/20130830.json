@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily import static HTML websites on the file system into Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/parse2plone", 
+  "info": {
+    "Author:": "Alex Clark", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/parse2plone", 
+    "Package Index Owner:": "aclark"
+  }, 
+  "license": "", 
+  "longdescription": "Easily import static HTML websites on the file system into Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03b31f87cf14a88a11774f83f027cf68", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mr.importer/mr.importer-1.0a5.zip"
+}

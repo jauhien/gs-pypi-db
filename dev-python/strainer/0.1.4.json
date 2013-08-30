@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to allow developers to cleanup web serialiation objects (HTML, JSON, XHTML)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Tom Lynn and Chris Perkins", 
+    "Keywords:": "html xhtml json wsgi", 
+    "License:": "MIT", 
+    "Package Index Owner:": "percious"
+  }, 
+  "license": "", 
+  "longdescription": "Tools to allow developers to cleanup web serialiation objects (HTML, JSON, XHTML)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5894adf6e0ea38f2c5e8bba2ae722448", 
+  "source_uri": "https://pypi.python.org/packages/source/s/strainer/strainer-0.1.4.tar.gz"
+}

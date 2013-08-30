@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "initd module for simplifying creation of initd daemons.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/initd/0.0.1", 
+  "info": {
+    "Author:": "Michael Andreas Dagitses", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Boot", 
+        "Init"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/any/i/initd/initd-0.0.1-py2.5.egg#md5=2f6f1739cae5505995c93f04b46473c0", 
+    "Home Page:": "http://pypi.python.org/pypi/initd/0.0.1", 
+    "License:": "http://www.gnu.org/licenses/gpl.html", 
+    "Package Index Owner:": "michaeldagitses", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "initd module for simplifying creation of initd daemons.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8df1d4f4eb7ae7b430433a6b59b39e26", 
+  "source_uri": "http://pypi.python.org/packages/any/i/initd/initd-0.0.1-py2.5.egg#md5=2f6f1739cae5505995c93f04b46473c0"
+}

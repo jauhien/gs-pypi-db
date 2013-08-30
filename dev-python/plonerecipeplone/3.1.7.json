@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Install Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/dist/plone.recipe.plone", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/dist/plone.recipe.plone", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "optilude, hannosch, wichert"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Install Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "30a95af00e8b11244a5421c752bab121", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.recipe.plone/plone.recipe.plone-3.1.7.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to generate PDF invoice.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/creckx/InvoiceGenerator", 
+  "info": {
+    "Author:": "Adam Strauch", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/creckx/InvoiceGenerator", 
+    "Keywords:": "invoice invoices generator", 
+    "License:": "BSD", 
+    "Package Index Owner:": "cx"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Library to generate PDF invoice.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c32adf3d5a621dcfcd9b967333ea01f", 
+  "source_uri": "https://pypi.python.org/packages/source/I/InvoiceGenerator/InvoiceGenerator-0.4.1.tar.gz"
+}

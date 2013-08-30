@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LinOTP Service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.linotp.org", 
+  "info": {
+    "Author:": "LSE Leading Security Experts GmbH", 
+    "Categories": {
+      "Framework": [
+        "Pylons"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "http://www.linotp.org", 
+    "License:": "AGPL v3, (C) LSE Leading Security Experts GmbH", 
+    "Package Index Owner:": "linotp"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "LinOTP Service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3cdf4b11940efd96af37c2e7e8b63063", 
+  "source_uri": "https://pypi.python.org/packages/source/L/LinOTP/LinOTP-2.5.2.1.tar.gz"
+}

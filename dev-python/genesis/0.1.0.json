@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Run Genesis on a copy of a project template to create a new project.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/genesis/", 
+  "info": {
+    "Author:": "Jonathan Hartley", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/genesis/", 
+    "Keywords:": "console command-line development project template", 
+    "Package Index Owner:": "tartley"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Run Genesis on a copy of a project template to create a new project.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "333af5d31d37f8e40dc959a7c02a4537", 
+  "source_uri": "https://pypi.python.org/packages/source/g/genesis/genesis-0.1.0.tar.gz"
+}

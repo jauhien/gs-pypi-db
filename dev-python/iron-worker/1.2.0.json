@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Python client for IronWorker, a cloud service for background processing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.github.com/iron-io/iron_worker_python", 
+  "info": {
+    "Author:": "Iron.io", 
+    "Bug Tracker:": "https://github.com/iron-io/iron_worker_python/issues", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://www.github.com/iron-io/iron_worker_python", 
+    "Keywords:": "iron,ironio,iron.io,iron-io,ironworker,iron-worker,iron_worker,worker,cloud,task queue,background processing", 
+    "Package Index Owner:": "ironio"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "The Python client for IronWorker, a cloud service for background processing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3dcb16633e4eac7c2d0f57b28840a86", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iron-worker/iron-worker-1.2.0.tar.gz"
+}

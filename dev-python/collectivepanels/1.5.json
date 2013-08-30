@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add-on for Plone that adds portlet panels.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "plone portlets", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "bosim, malthe"
+  }, 
+  "license": "", 
+  "longdescription": "Add-on for Plone that adds portlet panels.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "86a235ce54960f36fd86f64d614916cc", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.panels/collective.panels-1.5.tar.gz"
+}

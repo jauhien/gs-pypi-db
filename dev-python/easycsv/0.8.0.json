@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A module that permits to manage a database using csv files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://aboutwilson.net/easycsv/easycsv-api", 
+  "info": {
+    "Author:": "Wilson Freitas", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://aboutwilson.net/easycsv/easycsv-api", 
+    "Keywords:": "csv ORM database", 
+    "License:": "GPL", 
+    "Maintainer:": "wilson freitas", 
+    "Package Index Owner:": "wilson", 
+    "Platform:": "ALL"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A module that permits to manage a database using csv files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f8468ac0d2438f8976b3e38de1a67b32", 
+  "source_uri": "https://pypi.python.org/packages/source/e/easycsv/easycsv-0.8.0.tar.gz"
+}

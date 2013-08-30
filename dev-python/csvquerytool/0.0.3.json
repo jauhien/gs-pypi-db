@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Execute SQL queries on CSV files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/acordiner/csvquerytool/", 
+  "info": {
+    "Author:": "Alister Cordiner", 
+    "Home Page:": "http://bitbucket.org/acordiner/csvquerytool/", 
+    "License:": "http://www.gnu.org/licenses/gpl.html", 
+    "Package Index Owner:": "Alister.Cordiner"
+  }, 
+  "license": "", 
+  "longdescription": "Execute SQL queries on CSV files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2e4632d2e8bf3cb7fc059b354b674860", 
+  "source_uri": "https://pypi.python.org/packages/source/c/csvquerytool/csvquerytool-0.0.3.tar.gz"
+}

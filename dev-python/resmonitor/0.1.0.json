@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A resource monitoring  CPU and Memory monitor webservice", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Francis Pieraut", 
+    "License:": "AGPL v3 or later", 
+    "Package Index Owner:": "fraka6"
+  }, 
+  "license": "", 
+  "longdescription": "A resource monitoring  CPU and Memory monitor webservice", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "af3bac5d78d62938a3082fad486eab87", 
+  "source_uri": "https://pypi.python.org/packages/source/r/resmonitor/resmonitor-0.1.0.tar.gz"
+}

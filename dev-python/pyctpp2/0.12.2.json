@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to CTPP2 library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/klepa/pyctpp2", 
+  "info": {
+    "Author:": "Konstantin Lepa", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/klepa/pyctpp2", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vaultboy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python interface to CTPP2 library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "588da36f7b6c637a2d943e909d60cc3b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyctpp2/pyctpp2-0.12.2.tar.gz"
+}

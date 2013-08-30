@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast and easy OpenStreetMap XMLPBF parser.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://imposm.org/docs/imposm.parser/latest/", 
+  "info": {
+    "Author:": "Oliver Tonnhofer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://imposm.org/docs/imposm.parser/latest/", 
+    "License:": "Apache Software License 2.0", 
+    "Package Index Owner:": "olt"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Fast and easy OpenStreetMap XMLPBF parser.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a864f890c98351d470a3cf10d6c2a238", 
+  "source_uri": "https://pypi.python.org/packages/source/i/imposm.parser/imposm.parser-1.0.4.tar.gz"
+}

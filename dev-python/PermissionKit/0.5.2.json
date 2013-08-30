@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A very simple framework for creating permission objects and using them in authoriation checks.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "James Gardner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "thejimmyg"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "A very simple framework for creating permission objects and using them in authoriation checks.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c761d0b1a024d247f33110eb87583cbf", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PermissionKit/PermissionKit-0.5.2.tar.gz"
+}

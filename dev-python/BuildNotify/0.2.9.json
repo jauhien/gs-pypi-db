@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cruise Control build monitor for WindowsLinuxMac", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/Anay/buildnotify/", 
+  "info": {
+    "Author:": "Anay Nayak", 
+    "Home Page:": "http://bitbucket.org/Anay/buildnotify/", 
+    "Keywords:": "cctray ccmenu buildnotify ubuntu linux cruisecontrol continuous integration ci", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "Anay"
+  }, 
+  "license": "", 
+  "longdescription": "Cruise Control build monitor for WindowsLinuxMac", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c4f4fb574d5198ef4fa118830e2065de", 
+  "source_uri": "https://pypi.python.org/packages/source/B/BuildNotify/BuildNotify-0.2.9.tar.gz"
+}

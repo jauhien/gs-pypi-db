@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for reading Finvoice XML files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://postita.fi", 
+  "info": {
+    "Author:": "Norfello Oy", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Financial and Insurance Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Office/Business"
+      ]
+    }, 
+    "Home Page:": "https://postita.fi", 
+    "Keywords:": "finvoice norfello postita.fi", 
+    "License:": "BSD", 
+    "Package Index Owner:": "norfello"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A library for reading Finvoice XML files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d67bec14e4105ae536c342359e195e0", 
+  "source_uri": "https://pypi.python.org/packages/source/F/FinvoiceLib/FinvoiceLib-0.1.13.tar.gz"
+}

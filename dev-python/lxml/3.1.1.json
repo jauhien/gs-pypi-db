@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Powerful and Pythonic XML processing library combining libxml2libxslt with the ElementTree API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lxml.de/", 
+  "info": {
+    "Author:": "lxml dev team", 
+    "Bug Tracker:": "https://bugs.launchpad.net/lxml", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/l/lxml/lxml-3.1.1.tar.gz", 
+    "Home Page:": "http://lxml.de/", 
+    "Package Index Maintainer:": "zope.wineggbuilder, scoder", 
+    "Package Index Owner:": "faassen, scoder"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Powerful and Pythonic XML processing library combining libxml2libxslt with the ElementTree API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f185d8cdcd6b8934c67f9b0356aab33", 
+  "source_uri": "http://pypi.python.org/packages/source/l/lxml/lxml-3.1.1.tar.gz"
+}

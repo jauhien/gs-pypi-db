@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line tool for adding boilerplate licensing to your open-source projects. GPL, MIT, and BSD licenses supported.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/jhamon/garnish", 
+  "info": {
+    "Author:": "Jennifer Hamon", 
+    "Home Page:": "http://www.github.com/jhamon/garnish", 
+    "Keywords:": "opensource gpl mit bsd licenses licensing", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jhamon"
+  }, 
+  "license": "", 
+  "longdescription": "Command-line tool for adding boilerplate licensing to your open-source projects. GPL, MIT, and BSD licenses supported.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8fcd002d5d15fd30128ddb6d2e9c973e", 
+  "source_uri": "https://pypi.python.org/packages/source/g/garnish/garnish-0.1.0.tar.gz"
+}

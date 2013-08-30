@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy access to SNMP data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cread/ecks", 
+  "info": {
+    "Author:": "Chris Read", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cread/ecks", 
+    "Keywords:": "snmp monitoring", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "cread"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Easy access to SNMP data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e02f72ec1b84de6a63c19eb220a331c0", 
+  "source_uri": "https://pypi.python.org/packages/source/E/Ecks/Ecks-0.9.tar.gz"
+}

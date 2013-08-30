@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The SelectShuttle widget provides a mechanism for selecting multiple values from a list of values by allowing the user to move items between two lists. On modern browsers you can also double click an item to move it from one list to the other. After the first move, all entries will be sorted automatically accordingly to its description on both lists. Take a look at the code for SelectShuttleDesc for an example of how to use this widget in your code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.g2ctech.com/", 
+  "info": {
+    "Author:": "Jorge Godoy", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "TurboGears", 
+        "Widgets"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://www.g2ctech.com/widgets/Select_Shuttle-1.3.3-py2.5.egg", 
+    "Home Page:": "http://www.g2ctech.com/", 
+    "Keywords:": "turbogears.widgets", 
+    "License:": "MIT", 
+    "Package Index Owner:": "godoy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "The SelectShuttle widget provides a mechanism for selecting multiple values from a list of values by allowing the user to move items between two lists. On modern browsers you can also double click an item to move it from one list to the other. After the first move, all entries will be sorted automatically accordingly to its description on both lists. Take a look at the code for SelectShuttleDesc for an example of how to use this widget in your code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5fd99675e75fc10cb8479c1cde3489a6", 
+  "source_uri": "http://www.g2ctech.com/widgets/Select_Shuttle-1.3.3-py2.5.egg"
+}

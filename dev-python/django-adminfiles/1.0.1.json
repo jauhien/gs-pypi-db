@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "File upload manager and picker for Django admin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/carljm/django-adminfiles/", 
+  "info": {
+    "Author:": "Carl Meyer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/carljm/django-adminfiles/", 
+    "Package Index Owner:": "carljm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "File upload manager and picker for Django admin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db768791f5870ac867b6ee14bf89b899", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-adminfiles/django-adminfiles-1.0.1.tar.gz"
+}

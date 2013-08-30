@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python style guide checker", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pep8.readthedocs.org/", 
+  "info": {
+    "Author:": "Johann C. Rocholl", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pep8.readthedocs.org/", 
+    "Keywords:": "pep8", 
+    "License:": "Expat license", 
+    "Package Index Owner:": "reinout, jcrocholl, flox"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python style guide checker", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a03bb494859e87b42601b61b1b043a0c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pep8/pep8-1.4.6.tar.gz"
+}

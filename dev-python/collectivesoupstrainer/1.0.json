@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Clean up HTML using BeautifulSoup and filter rules.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.soupstrainer", 
+  "info": {
+    "Author:": "Florian Schulze", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.soupstrainer", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fschulze"
+  }, 
+  "license": "", 
+  "longdescription": "Clean up HTML using BeautifulSoup and filter rules.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f8ac48e7ba6976a3dc61c74f9c37c3f9", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.soupstrainer/collective.soupstrainer-1.0.zip"
+}

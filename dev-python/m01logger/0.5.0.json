@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Blocking python logging handler and formatter using mongodb", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/m01.logger", 
+  "info": {
+    "Author:": "Roger Ineichen, Projekt01 GmbH", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/m01.logger", 
+    "Keywords:": "Zope3 z3c logging logger p01 m01 mongo", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "agroszer, projekt01"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Blocking python logging handler and formatter using mongodb", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84a173feaec7540784415d41574ff9e7", 
+  "source_uri": "https://pypi.python.org/packages/source/m/m01.logger/m01.logger-0.5.0.zip"
+}

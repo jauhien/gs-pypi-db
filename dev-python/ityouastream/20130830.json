@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone product Displays an activity stream", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "ITYOU/LM", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "activity stream", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Luc.Mller", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "Plone product Displays an activity stream", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d26744746e599c0656b4584429720f7d", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ityou.astream/ityou.astream-1.1rc4.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple web spider with pluggable recursion strategies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/slinkp/spydey", 
+  "info": {
+    "Author:": "Paul M. Winkler", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management", 
+        "Link Checking"
+      ]
+    }, 
+    "Home Page:": "http://github.com/slinkp/spydey", 
+    "License:": "MIT", 
+    "Package Index Owner:": "slinkp"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple web spider with pluggable recursion strategies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a7f174988d1102e8bc68fd6adcc7e057", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spydey/spydey-0.5.tar.gz"
+}

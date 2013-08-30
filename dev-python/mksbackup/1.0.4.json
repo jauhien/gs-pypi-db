@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Front-end for popular Windows, Linux and VMware backup tools. Sending a mail report at end of backup.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.magikmon.com/mksbackup", 
+  "info": {
+    "Author:": "Alain Spineux", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Backup"
+      ]
+    }, 
+    "Home Page:": "http://www.magikmon.com/mksbackup", 
+    "License:": "GPL", 
+    "Package Index Owner:": "aspineux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Front-end for popular Windows, Linux and VMware backup tools. Sending a mail report at end of backup.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "00726b1009f8dee1312f81ea27f4876e", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mksbackup/mksbackup-1.0.4.tar.gz"
+}

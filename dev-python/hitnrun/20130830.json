@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rerun scons on changed build dependencies.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mbr/hitnrun", 
+  "info": {
+    "Author:": "Marc Brinkmann", 
+    "Home Page:": "http://github.com/mbr/hitnrun", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mbr"
+  }, 
+  "license": "", 
+  "longdescription": "Rerun scons on changed build dependencies.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "083c4d5297b462a8b737a44cbe1b27aa", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hitnrun/hitnrun-0.3.1dev.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Added niceness for railsy tracebacks in Sentry", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/causes/sentry_cardinal", 
+  "info": {
+    "Author:": "Noah Silas", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/causes/sentry_cardinal", 
+    "License:": "MIT", 
+    "Package Index Owner:": "noah256"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Added niceness for railsy tracebacks in Sentry", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "358d2c454b4d6e6428d52eb458f5a627", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-cardinal/sentry-cardinal-0.1.0-1.tar.gz"
+}

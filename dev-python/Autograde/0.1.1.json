@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django autograder.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Autograde/", 
+  "info": {
+    "Author:": "Henry Bradlow", 
+    "Home Page:": "http://pypi.python.org/pypi/Autograde/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "hbradlow"
+  }, 
+  "license": "", 
+  "longdescription": "A django autograder.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4151b3965bf7d1e421eb0dcd7017343c", 
+  "source_uri": "https://pypi.python.org/packages/source/A/Autograde/Autograde-0.1.1.tar.gz"
+}

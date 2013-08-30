@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send logs to Django Sentry.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/SentryLogs/", 
+  "info": {
+    "Author:": "Mauro De Giorgi", 
+    "Home Page:": "http://pypi.python.org/pypi/SentryLogs/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "mdgart"
+  }, 
+  "license": "", 
+  "longdescription": "Send logs to Django Sentry.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "658d1c7630814d941cdec1bfcd30c285", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SentryLogs/SentryLogs-0.0.9.tar.gz"
+}

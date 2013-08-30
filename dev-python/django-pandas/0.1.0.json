@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for working with pydata.pandas in your Django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/chrisdev/django-pands/", 
+  "info": {
+    "Author:": "Christopher Clarke", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/chrisdev/django-pands/", 
+    "Package Index Owner:": "chrisdev"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tools for working with pydata.pandas in your Django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9dbb8f1fa0abc97fd1191d269778186f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pandas/django-pandas-0.1.0.tar.gz"
+}

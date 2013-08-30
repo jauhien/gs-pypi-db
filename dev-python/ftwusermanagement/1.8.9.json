@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An advanced view for managing users in plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/ftw.usermanagement", 
+  "info": {
+    "Author:": "Mathias Leimgruber", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/ftw.usermanagement", 
+    "Keywords:": "ftw usermanagement user management view plone", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "jone, tschanzt, 4teamwork, maethu"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "An advanced view for managing users in plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e231d9620d244840001051243c33682b", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftw.usermanagement/ftw.usermanagement-1.8.9.tar.gz"
+}

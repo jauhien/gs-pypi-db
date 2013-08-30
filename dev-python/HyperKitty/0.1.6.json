@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A web interface to access GNU Mailman v3 archives", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://fedorahosted.org/hyperkitty/", 
+  "info": {
+    "Author:": "HyperKitty Developers", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Mailing List Servers"
+      ]
+    }, 
+    "Home Page:": "https://fedorahosted.org/hyperkitty/", 
+    "Keywords:": "email", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "abompard"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A web interface to access GNU Mailman v3 archives", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47ca5b7dec81453f8644a33218f2897c", 
+  "source_uri": "https://pypi.python.org/packages/source/H/HyperKitty/HyperKitty-0.1.6.tar.gz"
+}

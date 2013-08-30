@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utilities for fitting correlators in lattice QCD.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gplepage/corrfitter.git", 
+  "info": {
+    "Author:": "G. Peter Lepage, Cornell University", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//corrfitter", 
+    "Home Page:": "https://github.com/gplepage/corrfitter.git", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "gplepage", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Utilities for fitting correlators in lattice QCD.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a19171c68bfff5889f9465acd0ed9ee", 
+  "source_uri": "https://pypi.python.org/packages/source/c/corrfitter/corrfitter-3.6.tar.gz"
+}

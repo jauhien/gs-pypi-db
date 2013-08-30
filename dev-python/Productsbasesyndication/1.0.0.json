@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Basic Syndication interfaces and templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.plone.org/collective/browser/Products.basesyndication", 
+  "info": {
+    "Author:": "Tim Hicks", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://dev.plone.org/collective/browser/Products.basesyndication", 
+    "Keywords:": "plone syndication atom rss", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "jhackel", 
+    "Package Index Owner:": "tim2p, jhackel"
+  }, 
+  "license": "", 
+  "longdescription": "Basic Syndication interfaces and templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ce4be5feaf010358ccef5a3ed728af8", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.basesyndication/Products.basesyndication-1.0.0.tar.gz"
+}

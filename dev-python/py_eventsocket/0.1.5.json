@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy to use TCP socket based on libevent", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/agoragames/py-eventsocket", 
+  "info": {
+    "Author:": "Aaron Westendorf", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/agoragames/py-eventsocket", 
+    "Keywords:": "socket,event", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "aaron.westendorf, vbabiy, Ola.Mork"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Easy to use TCP socket based on libevent", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb6f0c2c72c73887bf42aa7a2c308370", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py_eventsocket/py_eventsocket-0.1.5.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "nose plugin to display colored results.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aodag/nosecolor", 
+  "info": {
+    "Author:": "Atsushi Odagiri", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/aodag/nosecolor", 
+    "Keywords:": "nose test", 
+    "License:": "MIT", 
+    "Package Index Owner:": "aodag"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "nose plugin to display colored results.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c05bc0a53b2acb198c62b4ba0e13dc3", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nosecolor/nosecolor-0.1.tar.gz"
+}

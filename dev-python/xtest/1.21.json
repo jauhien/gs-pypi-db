@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pyrex interface to XTest including faking multi-key presses such as Control-Shift-s", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bigasterisk.com/darcs/?r=xtest", 
+  "info": {
+    "Author:": "Drew Perttula", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://projects.bigasterisk.com/xtest-1.21.tar.gz", 
+    "Home Page:": "http://bigasterisk.com/darcs/?r=xtest", 
+    "Package Index Owner:": "drewp"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "pyrex interface to XTest including faking multi-key presses such as Control-Shift-s", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://projects.bigasterisk.com/xtest-1.21.tar.gz"
+}

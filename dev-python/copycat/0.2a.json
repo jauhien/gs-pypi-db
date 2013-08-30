@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "copycat - simple, transparent and non-intrusive python persistence", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://copycat.loogica.net/", 
+  "info": {
+    "Author:": "Felipe Cruz", 
+    "Categories": {
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Database", 
+        "Database Engines/Servers"
+      ]
+    }, 
+    "Home Page:": "http://copycat.loogica.net/", 
+    "Package Index Owner:": "felipecruz"
+  }, 
+  "license": "", 
+  "longdescription": "copycat - simple, transparent and non-intrusive python persistence", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cbeb29185808e73fb9774481e4f2654d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/copycat/copycat-0.2a.tar.gz"
+}

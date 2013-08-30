@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display preset strings as select tag right beside TextInput widget in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lqez/django-choiceinput", 
+  "info": {
+    "Author:": "Park, Hyunwoo", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lqez/django-choiceinput", 
+    "Package Index Owner:": "lqez"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Display preset strings as select tag right beside TextInput widget in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5dccedf0a9dc3014508aa2035e713ae3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-choiceinput/django-choiceinput-0.1.0.tar.gz"
+}

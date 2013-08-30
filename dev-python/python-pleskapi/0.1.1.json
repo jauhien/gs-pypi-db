@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Make easy requests to Parallels Plesk Panel API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sandromello/pypleskapi", 
+  "info": {
+    "Author:": "Sandro Mello", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation"
+      ]
+    }, 
+    "Home Page:": "https://github.com/sandromello/pypleskapi", 
+    "Keywords:": "plesk api rpc", 
+    "License:": "GNU General Public License", 
+    "Package Index Owner:": "sandromello"
+  }, 
+  "license": "", 
+  "longdescription": "Make easy requests to Parallels Plesk Panel API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b27b1f456c84670164cbe0f8bc7965cb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-pleskapi/python-pleskapi-0.1.1.tar.gz"
+}

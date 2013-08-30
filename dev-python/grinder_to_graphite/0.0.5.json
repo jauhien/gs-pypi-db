@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ingests data from Grinder logs into Graphite where it can be visualied.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/travis_bear/grinder_to_graphite", 
+  "info": {
+    "Author:": "Travis Bear", 
+    "Home Page:": "https://bitbucket.org/travis_bear/grinder_to_graphite", 
+    "Keywords:": "graphite grinder logster logs", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "travis.bear"
+  }, 
+  "license": "", 
+  "longdescription": "Ingests data from Grinder logs into Graphite where it can be visualied.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33fb3bd873b44dc5162eaf5a38d2ded0", 
+  "source_uri": "https://pypi.python.org/packages/source/g/grinder_to_graphite/grinder_to_graphite-0.0.5.tar.gz"
+}

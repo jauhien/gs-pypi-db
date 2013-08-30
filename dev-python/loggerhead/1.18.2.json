@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Loggerhead is a web viewer for projects in baaar", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Michael Hudson", 
+    "License:": "GNU GPL v2 or later", 
+    "Package Index Owner:": "flacoste, lifeless"
+  }, 
+  "license": "", 
+  "longdescription": "Loggerhead is a web viewer for projects in baaar", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb603307cf2b17c72a12a3d56713211f", 
+  "source_uri": "https://pypi.python.org/packages/source/l/loggerhead/loggerhead-1.18.2.tar.gz"
+}

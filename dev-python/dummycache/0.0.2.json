@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A dummy in-memory cache for development and testing. (Not recommended for production use.)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/dummycache/", 
+  "info": {
+    "Author:": "Vichaya Sirisanthana", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/dummycache", 
+    "Home Page:": "http://code.google.com/p/dummycache/", 
+    "Keywords:": "cache python", 
+    "License:": "GPL-3.0", 
+    "Package Index Owner:": "vsirisanthana, euam"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A dummy in-memory cache for development and testing. (Not recommended for production use.)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04fa9ac02190ac788b59f2fc38af89c4", 
+  "source_uri": "http://pypi.python.org/pypi/dummycache"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provide useful base classes for testing in Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/prdg-python/", 
+  "info": {
+    "Author:": "Rafael Oliveira", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/prdg-python/", 
+    "Keywords:": "plone testing TestCase", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rafaelbco"
+  }, 
+  "license": "", 
+  "longdescription": "Provide useful base classes for testing in Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9acd992472f24d1b203f2b72ec021b5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/prdg.plone.testing/prdg.plone.testing-0.0.6.zip"
+}

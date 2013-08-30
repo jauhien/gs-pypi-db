@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A DNS toolkit for Python 3.x", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.dnspython.org", 
+  "info": {
+    "Author:": "Bob Halley", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "Freeware"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://www.dnspython.org/kits3/1.11.0/dnspython3-1.11.0.zip", 
+    "Home Page:": "http://www.dnspython.org", 
+    "License:": "http://www.dnspython.org/LICENSE", 
+    "Package Index Owner:": "rthalley", 
+    "Platform:": "POSIX, Win32"
+  }, 
+  "license": "Freeware", 
+  "longdescription": "A DNS toolkit for Python 3.x", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a979f1f5d46b6007b8db8c24586e550", 
+  "source_uri": "http://www.dnspython.org/kits3/1.11.0/dnspython3-1.11.0.zip"
+}

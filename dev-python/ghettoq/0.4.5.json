@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ghetto Queue using Redis or Django Models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ask/ghettoq/", 
+  "info": {
+    "Author:": "Ask Solem", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ask/ghettoq/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ask", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Ghetto Queue using Redis or Django Models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7975bd7115a06766bbe62c85f9b86390", 
+  "source_uri": "https://pypi.python.org/packages/source/g/ghettoq/ghettoq-0.4.5.tar.gz"
+}

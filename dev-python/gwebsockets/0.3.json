@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GLib based websockets server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dnarvaez/gwebsockets", 
+  "info": {
+    "Author:": "Daniel Narvaez", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dnarvaez/gwebsockets", 
+    "Package Index Owner:": "dnarvaez"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "GLib based websockets server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6cab6b8aaef4e3498fc98a7aed166c7b", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gwebsockets/gwebsockets-0.3.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper of urllib2 suited for HTTP REST service requests.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/timsavage/service-agent", 
+  "info": {
+    "Author:": "Tim Savage", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/timsavage/service-agent", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "Tim.Savage", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "Wrapper of urllib2 suited for HTTP REST service requests.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0674780d1f60daa7e332903a93f9b94", 
+  "source_uri": "https://pypi.python.org/packages/source/S/ServiceAgent007/ServiceAgent007-0.3.2.tar.gz"
+}

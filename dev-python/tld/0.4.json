@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extracts the top level domain (TLD) from the URL given.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/barseghyanartur/tld", 
+  "info": {
+    "Author:": "Artur Barseghyan", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//tld", 
+    "Home Page:": "https://bitbucket.org/barseghyanartur/tld", 
+    "Keywords:": "tld,top level domain names,python", 
+    "License:": "GPL 2.0/LGPL 2.1", 
+    "Package Index Owner:": "delusionalinsanity"
+  }, 
+  "license": "", 
+  "longdescription": "Extracts the top level domain (TLD) from the URL given.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14be99881d285553b0ab5d9a223d6a96", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tld/tld-0.4.tar.gz"
+}

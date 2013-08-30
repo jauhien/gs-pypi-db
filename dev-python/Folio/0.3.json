@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Pythonic static website generator based on Jinja2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyfolio.org", 
+  "info": {
+    "Author:": "Juan M Mart\u00ednez", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Folio", 
+    "Home Page:": "http://pyfolio.org", 
+    "License:": "ISC", 
+    "Package Index Owner:": "guide42", 
+    "Platform:": "any"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "A Pythonic static website generator based on Jinja2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d04f5147e98558cf33e736346ef468ad", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Folio/Folio-0.3.tar.gz"
+}

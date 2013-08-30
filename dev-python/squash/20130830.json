@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A distributed, highly configurable issue tracking system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bitbucket.org/DeadWisdom/squash/", 
+  "info": {
+    "Author:": "Brantley Harris", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Bug Tracking"
+      ]
+    }, 
+    "Home Page:": "http://www.bitbucket.org/DeadWisdom/squash/", 
+    "Keywords:": "bug tracker issue tracking project management", 
+    "License:": "BSD", 
+    "Package Index Owner:": "deadwisdom"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A distributed, highly configurable issue tracking system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95e74eb452f506de598862ec503acb5f", 
+  "source_uri": "https://pypi.python.org/packages/source/s/squash/squash-0.5.0alpha.tar.gz"
+}

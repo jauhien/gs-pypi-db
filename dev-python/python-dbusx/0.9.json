@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An alternate interface to D-BUS supporting evented IO", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/geertj/python-dbusx", 
+  "info": {
+    "Author:": "Geert Jansen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/geertj/python-dbusx", 
+    "License:": "MIT", 
+    "Package Index Owner:": "geertj"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An alternate interface to D-BUS supporting evented IO", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "06923ae09f0ef278e19dc9e6e6b72e62", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-dbusx/python-dbusx-0.9.tar.gz"
+}

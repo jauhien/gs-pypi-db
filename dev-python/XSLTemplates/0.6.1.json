@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An XSLT based template system for WSGI applications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Eric Larson", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Keywords:": "xml xslt wsgi template", 
+    "License:": "BSD", 
+    "Package Index Owner:": "elarson"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An XSLT based template system for WSGI applications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dad500e5b338856ad337f8523aa0a750", 
+  "source_uri": "https://pypi.python.org/packages/source/X/XSLTemplates/XSLTemplates-0.6.1.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides FeinCMSs mptt admin tree editor as a separate app", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/san/django-mptt-tree-editor", 
+  "info": {
+    "Author:": "Santiago Piccinini", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/san/django-mptt-tree-editor", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "spiccinini", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Provides FeinCMSs mptt admin tree editor as a separate app", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b6dd336dd185fd7bb322302a60cfb38", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mptt-tree-editor/django-mptt-tree-editor-0.1.1.tar.gz"
+}

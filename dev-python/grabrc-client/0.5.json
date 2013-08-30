@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightweight, portable Github wrapper. Retrieval of dotfiles (.emacs, .vimrc, etc.) in any environment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/louisrli/grabrc-client/", 
+  "info": {
+    "Author:": "Louis Li", 
+    "Home Page:": "http://www.github.com/louisrli/grabrc-client/", 
+    "Package Index Owner:": "louisrli"
+  }, 
+  "license": "", 
+  "longdescription": "Lightweight, portable Github wrapper. Retrieval of dotfiles (.emacs, .vimrc, etc.) in any environment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb3fbe10c2f98b8187171b731ae9ee24", 
+  "source_uri": "https://pypi.python.org/packages/source/g/grabrc-client/grabrc-client-0.5.tar.gz"
+}

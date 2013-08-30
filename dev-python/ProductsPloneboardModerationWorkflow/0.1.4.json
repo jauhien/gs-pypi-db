@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An alternative workflow (and optional Moderator role) for Ploneboard product", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.PloneboardModerationWorkflow/", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.PloneboardModerationWorkflow/", 
+    "Keywords:": "plone ploneboard workflow moderation", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul, massimo, micecchi"
+  }, 
+  "license": "", 
+  "longdescription": "An alternative workflow (and optional Moderator role) for Ploneboard product", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8449895c5cd1d367405c5cfd4d5079d", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneboardModerationWorkflow/Products.PloneboardModerationWorkflow-0.1.4.zip"
+}

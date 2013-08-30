@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTTP REPL with multiple sessions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/talos/requepl", 
+  "info": {
+    "Author:": "John Krauss", 
+    "Home Page:": "http://github.com/talos/requepl", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "John.Krauss"
+  }, 
+  "license": "", 
+  "longdescription": "HTTP REPL with multiple sessions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4cd22300d9aeac483f8ff6b3272ee97c", 
+  "source_uri": "https://pypi.python.org/packages/source/r/requepl/requepl-0.0.12.tar.gz"
+}

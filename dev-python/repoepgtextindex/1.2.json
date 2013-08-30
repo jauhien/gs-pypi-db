@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Text index for repoe.catalog based on PostgreSQL 8.4+", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/repoze.pgtextindex", 
+  "info": {
+    "Author:": "Shane Hathaway", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "ZODB"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/repoze.pgtextindex", 
+    "Keywords:": "repoze catalog ZODB PostgreSQL text index", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "hathawsh, chrisrossi"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "Text index for repoe.catalog based on PostgreSQL 8.4+", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "06f843950f16284ca50f4799e223d8bf", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.pgtextindex/repoze.pgtextindex-1.2.tar.gz"
+}

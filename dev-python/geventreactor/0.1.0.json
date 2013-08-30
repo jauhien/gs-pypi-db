@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twisted reactor based on gevent", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jyio/geventreactor", 
+  "info": {
+    "Author:": "Jiang Yio", 
+    "Home Page:": "http://github.com/jyio/geventreactor", 
+    "License:": "MIT", 
+    "Package Index Owner:": "inportb"
+  }, 
+  "license": "", 
+  "longdescription": "Twisted reactor based on gevent", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "30754343d52f773395438cf18e68bf34", 
+  "source_uri": "https://pypi.python.org/packages/source/g/geventreactor/geventreactor-0.1.0.tar.gz"
+}

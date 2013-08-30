@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Interactive egg dependency browser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mg.pov.lt/gtkeggdeps/", 
+  "info": {
+    "Author:": "Marius Gedminas", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "http://cheeseshop.python.org/pypi/gtkeggdeps", 
+    "Home Page:": "http://mg.pov.lt/gtkeggdeps/", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "mgedmin"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Interactive egg dependency browser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d36811967fee8c039c53191f249c32a", 
+  "source_uri": "http://cheeseshop.python.org/pypi/gtkeggdeps"
+}

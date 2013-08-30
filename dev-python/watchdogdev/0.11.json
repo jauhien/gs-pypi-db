@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of Linux watchdog device API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://timka.org/watchdogdev/", 
+  "info": {
+    "Author:": "Timur Izhbulatov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Operating System Kernels", 
+        "Linux"
+      ]
+    }, 
+    "Home Page:": "http://timka.org/watchdogdev/", 
+    "License:": "http://opensource.org/licenses/PythonSoftFoundation.php", 
+    "Package Index Owner:": "timur", 
+    "Platform:": "linux2"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Implementation of Linux watchdog device API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5913a2e9066865dfc78ce49d4a470d10", 
+  "source_uri": "https://pypi.python.org/packages/source/w/watchdogdev/watchdogdev-0.11.tar.gz"
+}

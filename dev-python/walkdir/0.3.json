@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to manipulate and filter os.walk() style iteration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://walkdir.readthedocs.org", 
+  "info": {
+    "Author:": "Nick Coghlan", 
+    "Home Page:": "http://walkdir.readthedocs.org", 
+    "License:": "Simplified BSD License", 
+    "Package Index Owner:": "ncoghlan"
+  }, 
+  "license": "", 
+  "longdescription": "Tools to manipulate and filter os.walk() style iteration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e99204b8f449f020dd5518d0c4d20d21", 
+  "source_uri": "https://pypi.python.org/packages/source/w/walkdir/walkdir-0.3.tar.gz"
+}

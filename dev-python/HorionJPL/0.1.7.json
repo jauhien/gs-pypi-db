@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Access to NASAs JPL HORION Ephemeris System", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/HorizonJPL/", 
+  "info": {
+    "Author:": "Matthew Mihok", 
+    "Home Page:": "http://pypi.python.org/pypi/HorizonJPL/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "mihok"
+  }, 
+  "license": "", 
+  "longdescription": "Access to NASAs JPL HORION Ephemeris System", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44737f3c72262c66772dee83c0f010f5", 
+  "source_uri": "https://pypi.python.org/packages/source/H/HorizonJPL/HorizonJPL-0.1.7.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rewind is a (CQRS) event store that talks eroMQ.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/JensRantil/rewind", 
+  "info": {
+    "Author:": "Jens Rantil", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/JensRantil/rewind", 
+    "Keywords:": "CQRS,event sourcing,ZeroMQ", 
+    "License:": "GNU AGPL, version 3", 
+    "Package Index Owner:": "Jens.Rantil"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Rewind is a (CQRS) event store that talks eroMQ.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d5761b8cf0c6cce1c452e71ea4ce6e11", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rewind/rewind-0.3.1.tar.gz"
+}

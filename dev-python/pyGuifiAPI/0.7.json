@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python interface for the Guifi.net API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Pablo Castellano", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "pablog"
+  }, 
+  "license": "", 
+  "longdescription": "A Python interface for the Guifi.net API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61c777f4a0601970f685475a6d981b36", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyGuifiAPI/pyGuifiAPI-0.7.tar.gz"
+}

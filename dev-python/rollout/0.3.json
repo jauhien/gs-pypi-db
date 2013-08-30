@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use Proclaim to release features to target users inside your Django project.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/e-loue/rollout", 
+  "info": {
+    "Author:": "Timoth\u00c3\u00a9e Peignier", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "http://github.com/e-loue/rollout/downloads", 
+    "Home Page:": "http://github.com/e-loue/rollout", 
+    "Keywords:": "redis rollout proclaim django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "tim"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Use Proclaim to release features to target users inside your Django project.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6d15ed1c83a26c6303b168cb61b173c", 
+  "source_uri": "http://github.com/e-loue/rollout/downloads"
+}

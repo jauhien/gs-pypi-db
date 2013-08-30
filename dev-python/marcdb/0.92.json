@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "parse MARC data and store into a rdbms", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://inkdroid.org/bzr/marcdb", 
+  "info": {
+    "Author:": "Ed Summers", 
+    "Home Page:": "http://inkdroid.org/bzr/marcdb", 
+    "Package Index Owner:": "esummers"
+  }, 
+  "license": "", 
+  "longdescription": "parse MARC data and store into a rdbms", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6fc69e34ff7362879c922931e7b1342", 
+  "source_uri": "https://pypi.python.org/packages/source/m/marcdb/marcdb-0.92.tar.gz"
+}

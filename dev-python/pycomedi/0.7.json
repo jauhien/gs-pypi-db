@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An object-oriented interface for the Comedi drivers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blog.tremily.us/posts/pycomedi/", 
+  "info": {
+    "Author:": "W. Trevor King", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://git.tremily.us/?p=pycomedi.git;a=snapshot;h=0.7;sf=tgz", 
+    "Home Page:": "http://blog.tremily.us/posts/pycomedi/", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "wking", 
+    "Platform:": "all"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "An object-oriented interface for the Comedi drivers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f059133e24fef637ef40abda19f7ae8", 
+  "source_uri": "http://git.tremily.us/?p=pycomedi.git;a=snapshot;h=0.7;sf=tgz"
+}

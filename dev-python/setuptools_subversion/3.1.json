@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Setuptools revision control system plugin for Subversion", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/setuptools_subversion", 
+  "info": {
+    "Author:": "Martijn Pieters", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Setuptools Plugin"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/setuptools_subversion", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mj"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Setuptools revision control system plugin for Subversion", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "34a913308de323a9d380407d1287fff2", 
+  "source_uri": "https://pypi.python.org/packages/source/s/setuptools_subversion/setuptools_subversion-3.1.zip"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous VCS command runner", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Takafumi Arakaki", 
+    "Keywords:": "vcs,version control system,Git,Mercurial,Bazaar", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "tkf"
+  }, 
+  "license": "", 
+  "longdescription": "Asynchronous VCS command runner", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ec803cafcf3e1e9982c0a12164f8bb9", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bvcs/bvcs-0.0.1.dev0.tar.gz"
+}

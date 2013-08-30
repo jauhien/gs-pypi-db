@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Support for working with immutable data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/khinsen/immutablepy", 
+  "info": {
+    "Author:": "Konrad Hinsen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/khinsen/immutablepy", 
+    "License:": "CeCILL-B", 
+    "Package Index Owner:": "khinsen"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Support for working with immutable data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "386dbe09cec0f978f0f444151e72124e", 
+  "source_uri": "https://pypi.python.org/packages/source/I/ImmutablePy/ImmutablePy-0.1.tar.gz"
+}

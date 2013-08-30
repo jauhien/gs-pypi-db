@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Little helper application to improve django choices(for fields)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/twidi/django-extended-choices", 
+  "info": {
+    "Author:": "Stephane \"Twidi\" Angel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/twidi/django-extended-choices", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Twidi"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Little helper application to improve django choices(for fields)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "97e17d237a6ab4382989dd8ea2f7ee12", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-extended-choices/django-extended-choices-0.3.0.tar.gz"
+}

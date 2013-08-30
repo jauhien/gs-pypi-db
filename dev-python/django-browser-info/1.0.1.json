@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django middleware and view decorator to add browser info to the request object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/chrisdrackett/django-browser-info", 
+  "info": {
+    "Author:": "Chris Drackett", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/chrisdrackett/django-browser-info", 
+    "Package Index Owner:": "chrisdrackett"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django middleware and view decorator to add browser info to the request object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "52141d8eb3c49f3a923c9d16d96089a8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-browser-info/django-browser-info-1.0.1.tar.gz"
+}

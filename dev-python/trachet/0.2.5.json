@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides step-by-step debugging and formatted sequence tracing service, with terminal applications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://saitoha.github.com/trachet", 
+  "info": {
+    "Author:": "Hayaki Saito (user@zuse.jp)", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Terminals"
+      ]
+    }, 
+    "Home Page:": "http://saitoha.github.com/trachet", 
+    "Keywords:": "terminal debugger", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "saitoha"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Provides step-by-step debugging and formatted sequence tracing service, with terminal applications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ea4ec99cb9883af989e35b077676bb4", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trachet/trachet-0.2.5.tar.gz"
+}

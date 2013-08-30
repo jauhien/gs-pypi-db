@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "py.test extension for per-test couchdb databases using couchdbkit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/RonnyPfannschmidt/pytest-couchdbkit", 
+  "info": {
+    "Author:": "RonnyPfannschmidt", 
+    "Home Page:": "http://bitbucket.org/RonnyPfannschmidt/pytest-couchdbkit", 
+    "Package Index Owner:": "ronny"
+  }, 
+  "license": "", 
+  "longdescription": "py.test extension for per-test couchdb databases using couchdbkit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df659c60b3e67f00b98fa3d0b0a3ccdc", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-couchdbkit/pytest-couchdbkit-0.5.1.tar.gz"
+}

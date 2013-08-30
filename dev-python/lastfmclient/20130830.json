@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client for the Last.fm API with a pythonic interface to all methods,including auth, etc. An async, Tornado-based client included as well.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jkbr/lastfmclient", 
+  "info": {
+    "Author:": "UNKNOWN", 
+    "Download URL:": "https://github.com/jkbr/lastfmclient", 
+    "Home Page:": "https://github.com/jkbr/lastfmclient", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jkbr"
+  }, 
+  "license": "", 
+  "longdescription": "Python client for the Last.fm API with a pythonic interface to all methods,including auth, etc. An async, Tornado-based client included as well.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c9b1ed9f8e5ba509f59b85e69fdc0d9", 
+  "source_uri": "https://github.com/jkbr/lastfmclient"
+}

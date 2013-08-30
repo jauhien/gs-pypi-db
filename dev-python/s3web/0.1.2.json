@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple upload files to amaon s3 as a website", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jake Hickenlooper", 
+    "Package Index Owner:": "jkenlooper.myopenid.com"
+  }, 
+  "license": "", 
+  "longdescription": "Simple upload files to amaon s3 as a website", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc1e5011dbc26b40ea953736fa52cfb6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s3web/s3web-0.1.2.tar.gz"
+}

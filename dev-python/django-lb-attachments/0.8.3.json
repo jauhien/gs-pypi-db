@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django app to manager attachments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/vicalloy/django-lb-attachments/", 
+  "info": {
+    "Author:": "vicalloy", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/vicalloy/django-lb-attachments/", 
+    "Keywords:": "attachment,django", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vicalloy"
+  }, 
+  "license": "", 
+  "longdescription": "A django app to manager attachments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08c3e4d70f237a459f1f694f65288b6f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-lb-attachments/django-lb-attachments-0.8.3.tar.gz"
+}

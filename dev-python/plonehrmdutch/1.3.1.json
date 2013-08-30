@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dutch specific Plone HRM parts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/plonehrm", 
+  "info": {
+    "Author:": "Zest Software", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/plonehrm", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maurits, vincentpretre, jladage, markvl"
+  }, 
+  "license": "", 
+  "longdescription": "Dutch specific Plone HRM parts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5a7f2593a32abb475f209cafc0ea9463", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonehrm.dutch/plonehrm.dutch-1.3.1.tar.gz"
+}

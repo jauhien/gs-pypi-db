@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "upload script for Rietveld code review tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://codereview.appspot.com/", 
+  "info": {
+    "Author:": "Google Inc. & Co.", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://codereview.appspot.com/", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "techtonik"
+  }, 
+  "license": "", 
+  "longdescription": "upload script for Rietveld code review tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c53436dcd29be983f98e220380c0ffb6", 
+  "source_uri": "https://pypi.python.org/packages/source/r/review/review-966.zip"
+}

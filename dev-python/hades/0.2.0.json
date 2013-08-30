@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A daemon for asynchronous job processing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/miljank/hades", 
+  "info": {
+    "Author:": "Miljan Karadzic", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/hades", 
+    "Home Page:": "https://github.com/miljank/hades", 
+    "Keywords:": "asynchronous,job,processing,json,tasks", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "miljan"
+  }, 
+  "license": "", 
+  "longdescription": "A daemon for asynchronous job processing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "10233ee1947fb887eda8e0cfa870f457", 
+  "source_uri": "http://pypi.python.org/pypi/hades"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a product that can manage volunteering.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.example", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.example", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vangheem"
+  }, 
+  "license": "", 
+  "longdescription": "a product that can manage volunteering.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef6426bd5f0fa4dc2e32acb2bf621f28", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.volunteer/collective.volunteer-1.03.tar.gz"
+}

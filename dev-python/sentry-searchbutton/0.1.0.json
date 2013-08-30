@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple sentry plugin that adds a sidebar widget to sentry, making it easy to launch a Google search for the error you are viewing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/timmyomahony/sentry-seachbutton", 
+  "info": {
+    "Author:": "Timmy O'Mahony", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/timmyomahony/sentry-seachbutton", 
+    "License:": "BSD", 
+    "Package Index Owner:": "timmyomahony"
+  }, 
+  "license": "", 
+  "longdescription": "A simple sentry plugin that adds a sidebar widget to sentry, making it easy to launch a Google search for the error you are viewing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "52d91f9f9e0ed55a412eb29140512925", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-searchbutton/sentry-searchbutton-0.1.0.tar.gz"
+}

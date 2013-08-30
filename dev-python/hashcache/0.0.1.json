@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper for the django cache api to gracefully handle long or non-ascii keys", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/yola/hashcache", 
+  "info": {
+    "Author:": "Yola, Inc.", 
+    "Home Page:": "http://github.com/yola/hashcache", 
+    "Keywords:": "django cache library", 
+    "License:": "MIT", 
+    "Package Index Owner:": "yola, blaix"
+  }, 
+  "license": "", 
+  "longdescription": "Wrapper for the django cache api to gracefully handle long or non-ascii keys", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c343dff852eaa3603cc52ea192d244e2", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hashcache/hashcache-0.0.1.tar.gz"
+}

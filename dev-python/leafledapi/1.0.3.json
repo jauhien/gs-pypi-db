@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Leafled REST-API Library and CLI", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://leafled.de/", 
+  "info": {
+    "Author:": "Bastian Bense", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://leafled.de/", 
+    "Keywords:": "leafled,i18n,json,publishing", 
+    "Package Index Owner:": "bastibense"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Leafled REST-API Library and CLI", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b93ef4ad2499f1a6f6a0ad2cd39c086d", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leafledapi/leafledapi-1.0.3.tar.gz"
+}

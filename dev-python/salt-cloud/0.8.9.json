@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic cloud provisioning system with build in functions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://saltstack.org", 
+  "info": {
+    "Author:": "Thomas S Hatch", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "http://saltstack.org", 
+    "Package Index Maintainer:": "techhat", 
+    "Package Index Owner:": "techhat, thatch45"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Generic cloud provisioning system with build in functions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "729b0041743848917af0b5a23b71d027", 
+  "source_uri": "https://pypi.python.org/packages/source/s/salt-cloud/salt-cloud-0.8.9.tar.gz"
+}

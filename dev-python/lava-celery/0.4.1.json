@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Celery integration for LAVA Server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zygmunt Krynicki", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "License:": "AGPL", 
+    "Package Index Maintainer:": "mwhudson, doanac", 
+    "Package Index Owner:": "terceiro, mwhudson, zyga, doanac"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Celery integration for LAVA Server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3df589ccf56fc088305e6787be07f9f4", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lava-celery/lava-celery-0.4.1.tar.gz"
+}

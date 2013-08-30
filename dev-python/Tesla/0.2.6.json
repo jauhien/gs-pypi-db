@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pylons template with Elixir ORM bindings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tesla-pylons-elixir.googlecode.com", 
+  "info": {
+    "Author:": "beachcoder", 
+    "Home Page:": "http://tesla-pylons-elixir.googlecode.com", 
+    "Keywords:": "sqlalchemy elixir sacontext pylons wsgi makotemplate paste", 
+    "License:": "MIT", 
+    "Package Index Owner:": "beachcoder"
+  }, 
+  "license": "", 
+  "longdescription": "Pylons template with Elixir ORM bindings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d6313b848850f0f357853df230b0fb5", 
+  "source_uri": "https://pypi.python.org/packages/source/T/Tesla/tesla-0.2.6.tar.gz"
+}

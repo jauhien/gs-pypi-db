@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A convenience wrapper for beanstalkd clients and workers in Django using the beanstalkc library for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jonasvp/django-beanstalkd", 
+  "info": {
+    "Author:": "Jonas VP", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jonasvp/django-beanstalkd", 
+    "License:": "MPL", 
+    "Package Index Owner:": "jonasvp"
+  }, 
+  "license": "", 
+  "longdescription": "A convenience wrapper for beanstalkd clients and workers in Django using the beanstalkc library for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "700c64d4cbdae7c2774beea3050d7842", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-beanstalkd/django-beanstalkd-0.2.tar.gz"
+}

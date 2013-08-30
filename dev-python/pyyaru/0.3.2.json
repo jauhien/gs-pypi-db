@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface for ya.ru blog service API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/idlesign/pyyaru", 
+  "info": {
+    "Author:": "Igor 'idle sign' Starikov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/idlesign/pyyaru", 
+    "Package Index Owner:": "idlesign"
+  }, 
+  "license": "", 
+  "longdescription": "Python interface for ya.ru blog service API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "81513189f93620269aa053e86c6962ec", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyyaru/pyyaru-0.3.2.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "kestrel command-line interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/hogelog/kestrel-cli", 
+  "info": {
+    "Author:": "hogelog", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/hogelog/kestrel-cli", 
+    "Keywords:": "kestrel cli commandline", 
+    "License:": "MIT", 
+    "Package Index Owner:": "hogelog"
+  }, 
+  "license": "", 
+  "longdescription": "kestrel command-line interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3e4dfe0d2849a66579b9476730cf770", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kestrel-cli/kestrel-cli-0.0.7.tar.gz"
+}

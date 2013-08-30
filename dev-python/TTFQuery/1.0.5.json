@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FontTools-based package for querying system fonts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ttfquery.sourceforge.net/", 
+  "info": {
+    "Author:": "Mike C. Fletcher", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://ttfquery.sourceforge.net/", 
+    "Keywords:": "fonttools,ttf,truetype,outline,font,curve,system fonts", 
+    "License:": "BSD-style, see license.txt for details", 
+    "Package Index Owner:": "mcfletch", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "FontTools-based package for querying system fonts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e01d38684eb94978fad70eba4c68463", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TTFQuery/TTFQuery-1.0.5.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django app to import gnucash data for budgeting and reporting", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/evandavey/django-openbudget", 
+  "info": {
+    "Author:": "Evan Davey", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/evandavey/django-openbudget", 
+    "License:": "CC-SA-NC", 
+    "Package Index Owner:": "Evan.Davey", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A django app to import gnucash data for budgeting and reporting", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9e582eda172c3f748055d461426b61f1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-openbudget/django-openbudget-0.1.0.tar.gz"
+}

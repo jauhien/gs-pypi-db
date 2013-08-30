@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tipfy extension to simplify projects beta test, it simply send all exceptions traceback via email to application administrators", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/iparkcode/", 
+  "info": {
+    "Author:": "Ilya Petrov, Mikhail Kashkin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/iparkcode/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "xen"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tipfy extension to simplify projects beta test, it simply send all exceptions traceback via email to application administrators", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7aece2d4d99ca5d57ae24d89ff42059", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ipark.ereporter/ipark.ereporter-0.3.tar.gz"
+}

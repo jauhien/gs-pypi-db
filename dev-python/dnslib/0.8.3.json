@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple library to encodedecode DNS wire-format packets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/paulc/dnslib/", 
+  "info": {
+    "Author:": "Paul Chakravarti", 
+    "Categories": {
+      "Topic": [
+        "Internet", 
+        "Name Service (DNS)"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/paulc/dnslib/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "paulc"
+  }, 
+  "license": "", 
+  "longdescription": "Simple library to encodedecode DNS wire-format packets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a09a407ae5239e8d53e3115510e7107", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dnslib/dnslib-0.8.3.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Workers, a work pool library for threads", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nasuni/workerpool", 
+  "info": {
+    "Author:": "Jesse Noller", 
+    "Home Page:": "https://bitbucket.org/nasuni/workerpool", 
+    "Keywords:": "threads threadpool parallel", 
+    "License:": "Apache Software License 2.0", 
+    "Package Index Owner:": "jnoller"
+  }, 
+  "license": "", 
+  "longdescription": "Workers, a work pool library for threads", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df9449c327b6e530e31e6922bdf2a51a", 
+  "source_uri": "https://pypi.python.org/packages/source/w/workers/workers-0.1.tar.gz"
+}

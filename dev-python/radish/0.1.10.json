@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of common tools for testing django projects with lettuce.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ff0000.com/", 
+  "info": {
+    "Author:": "Red Interactive", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://github.com/ff0000/radish", 
+    "Home Page:": "http://ff0000.com/", 
+    "Keywords:": "django,admin,bdd,tdd,documentation,lettuce", 
+    "Package Index Owner:": "claudiob, ff0000"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A set of common tools for testing django projects with lettuce.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc8e9b80c16318b2413a68f6000ce03e", 
+  "source_uri": "https://github.com/ff0000/radish"
+}

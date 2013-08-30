@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compact implementation of Mustache logic-less templating. Fork of Stache.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/SmithSamuelM/staching", 
+  "info": {
+    "Author:": "Samuel M. Smith", 
+    "Home Page:": "https://github.com/SmithSamuelM/staching", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Samuel.Smith", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Compact implementation of Mustache logic-less templating. Fork of Stache.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f1eefd7d5a6ce5b51cf09b887dd007ce", 
+  "source_uri": "https://pypi.python.org/packages/source/s/staching/staching-0.0.2.tar.gz"
+}

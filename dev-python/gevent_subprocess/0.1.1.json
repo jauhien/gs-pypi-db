@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "gevent adapter for the standard python subprocess", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bombela/gevent_subprocess", 
+  "info": {
+    "Author:": "Fran\u00e7ois-Xavier Bourlet <bombela@gmail.com>", 
+    "Home Page:": "https://github.com/bombela/gevent_subprocess", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bombela"
+  }, 
+  "license": "", 
+  "longdescription": "gevent adapter for the standard python subprocess", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "256c22ec2b5ec89748839e99ebd1303b", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gevent_subprocess/gevent_subprocess-0.1.1.tar.gz"
+}

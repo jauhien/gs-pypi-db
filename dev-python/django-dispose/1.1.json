@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Disposes of media files that are no longer referenced in the database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/danhawkes/django-dispose", 
+  "info": {
+    "Author:": "Daniel Hawkes", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Installation/Setup"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/danhawkes/django-dispose", 
+    "License:": "MIT", 
+    "Package Index Owner:": "danhawkes"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Disposes of media files that are no longer referenced in the database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f0e4bf1543dfb2dde560be430856a6f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dispose/django-dispose-1.1.tar.gz"
+}

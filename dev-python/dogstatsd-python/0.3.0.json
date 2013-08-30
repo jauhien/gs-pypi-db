@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings to Datadogs API and a user-facing command line tool.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.datadoghq.com", 
+  "info": {
+    "Author:": "Datadog, Inc.", 
+    "Home Page:": "http://www.datadoghq.com", 
+    "Keywords:": "datadog data statsd metrics", 
+    "License:": "BSD", 
+    "Package Index Owner:": "clutchski, clofresh, alq666, mattdog"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings to Datadogs API and a user-facing command line tool.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ca47a6cfa29bda0461de26b30eccab0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dogstatsd-python/dogstatsd-python-0.3.0.tar.gz"
+}

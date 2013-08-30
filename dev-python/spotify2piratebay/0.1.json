@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Download your Spotify music using the Pirate Bay", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dokterbob/spotify2piratebay/", 
+  "info": {
+    "Author:": "Mathijs de Bruin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dokterbob/spotify2piratebay/", 
+    "Package Index Owner:": "dokterbob"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Download your Spotify music using the Pirate Bay", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4be2144b100af6633decca9ba2f377b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spotify2piratebay/spotify2piratebay-0.1.tar.gz"
+}

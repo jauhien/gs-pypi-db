@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mailing lists management software", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/codigo23/mailjam", 
+  "info": {
+    "Author:": "Francisco de Borja Lopez Rio", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Mailing List Servers"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//mailjam", 
+    "Download URL:": "http://pypi.python.org/pypi/mailjam#downloads", 
+    "Home Page:": "https://bitbucket.org/codigo23/mailjam", 
+    "License:": "BSD licence, see LICENSE", 
+    "Package Index Owner:": "codigo23"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Mailing lists management software", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fe3e6783aef4739ce3b72a144bf07d9a", 
+  "source_uri": "http://pypi.python.org/pypi/mailjam#downloads"
+}

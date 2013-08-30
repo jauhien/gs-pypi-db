@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Uses factory_boy to supply test data factory classes for all stock Django models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/votizen/django-factory_boy", 
+  "info": {
+    "Author:": "Votizen", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/votizen/django-factory_boy", 
+    "Package Index Owner:": "jdunck"
+  }, 
+  "license": "", 
+  "longdescription": "Uses factory_boy to supply test data factory classes for all stock Django models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "50a5af3561a595c62e65a1bdbfa4e2d9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-factory_boy/django-factory_boy-0.1.6.tar.gz"
+}

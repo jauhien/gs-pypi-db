@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure-Python RSA implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://stuvel.eu/rsa", 
+  "info": {
+    "Author:": "Sybren A. Stuvel", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://stuvel.eu/rsa", 
+    "License:": "ASL 2", 
+    "Package Index Owner:": "sybrenstuvel"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Pure-Python RSA implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01e6b88c078e8f74718a455e0a05623d", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rsa/rsa-3.1.1.tar.gz"
+}

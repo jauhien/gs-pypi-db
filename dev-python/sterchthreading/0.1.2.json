@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides interfaces and CML directives for standard threading library objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.sterch.net/sterch.threading", 
+  "info": {
+    "Author:": "Maksym Polscha", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.sterch.net/sterch.threading", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "maximp"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Provides interfaces and CML directives for standard threading library objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bce565bfd7baf5c030ac0f4566007561", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sterch.threading/sterch.threading-0.1.2.tar.gz"
+}

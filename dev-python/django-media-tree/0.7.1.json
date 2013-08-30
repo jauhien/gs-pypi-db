@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django Media Tree is a Django app for managing your websites media files in a folder tree, and using them in your own applications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/philomat/django-media-tree", 
+  "info": {
+    "Author:": "Samuel Luescher", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/philomat/django-media-tree", 
+    "License:": "BSD", 
+    "Package Index Owner:": "sam.luescher"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django Media Tree is a Django app for managing your websites media files in a folder tree, and using them in your own applications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c2673f63d5492b66bfe55d454992411", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-media-tree/django-media-tree-0.7.1.tar.gz"
+}

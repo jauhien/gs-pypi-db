@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Password Stack is a simple tool that allows normal users to reset their own password in the OpenStack Dashboard", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://futuregrid.github.com/passwdstack/index.html", 
+  "info": {
+    "Author:": "Javier Diaz, Koji Tanaka, Fugang Wang, Gregor von Laszewski", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "http://futuregrid.github.com/passwdstack/index.html", 
+    "Keywords:": "Cloud,Grid,HPC", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "javidiaz"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Password Stack is a simple tool that allows normal users to reset their own password in the OpenStack Dashboard", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6326be608bad4478a60b34a776d561a1", 
+  "source_uri": "https://pypi.python.org/packages/source/f/futuregrid_passwdstack/futuregrid_passwdstack-0.1.tar.gz"
+}

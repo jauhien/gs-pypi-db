@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Macro-recipe for buildout.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Aaron Lehmann", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "development build macro", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "aaron"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Macro-recipe for buildout.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b1c6705715d969a82898e2f0fc790d8", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.recipe.macro/zc.recipe.macro-1.3.0.tar.gz"
+}

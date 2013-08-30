@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Connector from Plone to Arecibo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://clearwind.ca", 
+  "info": {
+    "Author:": "ClearWind Consulting", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://clearwind.ca", 
+    "License:": "BSD", 
+    "Package Index Owner:": "andymckay, me.eleddy.com"
+  }, 
+  "license": "", 
+  "longdescription": "Connector from Plone to Arecibo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d204bf07aeffb531b47a20d07528b7c8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/clearwind.arecibo/clearwind.arecibo-0.7.tar.gz"
+}

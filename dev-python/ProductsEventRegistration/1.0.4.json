@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An event registration system for plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/Products.EventRegistration", 
+  "info": {
+    "Author:": "Alex Clark", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/Products.EventRegistration", 
+    "Keywords:": "plone events", 
+    "License:": "GPL", 
+    "Package Index Owner:": "aclark"
+  }, 
+  "license": "", 
+  "longdescription": "An event registration system for plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "126cb59fe6965e8e17dfafc80547baae", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.EventRegistration/Products.EventRegistration-1.0.4.zip"
+}

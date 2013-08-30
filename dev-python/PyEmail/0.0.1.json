@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library to send emails using SMTPLIB library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.yashsinha.com/PyEmail", 
+  "info": {
+    "Author:": "Yash Sinha", 
+    "Home Page:": "http://www.yashsinha.com/PyEmail", 
+    "License:": "GNU GENERAL PUBLIC LICENSE Version 3", 
+    "Package Index Owner:": "sinhayash"
+  }, 
+  "license": "", 
+  "longdescription": "Python library to send emails using SMTPLIB library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7a7bfe9aee1fc3a2f5a412c53b35201", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyEmail/PyEmail-0.0.1.zip"
+}

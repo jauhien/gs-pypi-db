@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for ImageMagicks MagickWand 6.6.0", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://digitalarchitekt.de/contributions/magickwand", 
+  "info": {
+    "Author:": "Oliver Berger", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Graphics"
+      ]
+    }, 
+    "Home Page:": "http://digitalarchitekt.de/contributions/magickwand", 
+    "Keywords:": "ImageMagick MagickWand CDLL Binding", 
+    "Package Index Owner:": "diefans"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for ImageMagicks MagickWand 6.6.0", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e667143a4e8051e1b7b812459ccf4af", 
+  "source_uri": "https://pypi.python.org/packages/source/m/magickwand/magickwand-0.2.tar.bz2"
+}

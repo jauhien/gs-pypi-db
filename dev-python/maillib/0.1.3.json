@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simplified interface to Pythons email package.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jkocherhans/maillib", 
+  "info": {
+    "Author:": "Joseph Kocherhans", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//maillib", 
+    "Home Page:": "http://github.com/jkocherhans/maillib", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jkocherhans"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simplified interface to Pythons email package.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c155c6c17d6af7db1ce2c2b60e79c6d9", 
+  "source_uri": "https://pypi.python.org/packages/source/m/maillib/maillib-0.1.3.tar.gz"
+}

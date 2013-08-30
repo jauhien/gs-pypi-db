@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple GAE-extension for buildout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Zojax/zojax.mr.gae", 
+  "info": {
+    "Author:": "Zojax", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//zojax.mr.gae", 
+    "Home Page:": "https://github.com/Zojax/zojax.mr.gae", 
+    "Keywords:": "gae zojax", 
+    "License:": "GPL", 
+    "Package Index Owner:": "developers_zojax"
+  }, 
+  "license": "", 
+  "longdescription": "Simple GAE-extension for buildout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "370215428dae5f8499a1fa41d81ce784", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zojax.mr.gae/zojax.mr.gae-0.3.tar.gz"
+}

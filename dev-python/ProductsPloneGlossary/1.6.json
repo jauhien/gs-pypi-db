@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Highlight Plone content terms, mouseover shows the term definition as tooltip.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/Products.PloneGlossary", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/Products.PloneGlossary", 
+    "Keywords:": "plone glossary", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "garbas, rnix, ajung, jensens", 
+    "Package Index Owner:": "garbas, ingeniweb, rnix, ajung, jensens, maurits"
+  }, 
+  "license": "", 
+  "longdescription": "Highlight Plone content terms, mouseover shows the term definition as tooltip.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d7920eec6c6060e1c0e76a24a99a8ba", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneGlossary/Products.PloneGlossary-1.6.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Functions for executing individual and concurrent shell commands.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Todd Mueller", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "microlinux"
+  }, 
+  "license": "", 
+  "longdescription": "Functions for executing individual and concurrent shell commands.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d38e6a154f03d3949fc1910a4181fa1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyshell/pyshell-1.41b.tar.gz"
+}

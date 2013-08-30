@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mercurial hook to run tests before every commit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/gm/smoker", 
+  "info": {
+    "Author:": "Marco Giusti", 
+    "Download URL:": "http://pypi.python.org/pypi/smoker", 
+    "Home Page:": "https://bitbucket.org/gm/smoker", 
+    "Keywords:": "mercurial hg hook unittest testing", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gm"
+  }, 
+  "license": "", 
+  "longdescription": "Mercurial hook to run tests before every commit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d4a2cd570f6db997fc8e8dda25fce89", 
+  "source_uri": "http://pypi.python.org/pypi/smoker"
+}

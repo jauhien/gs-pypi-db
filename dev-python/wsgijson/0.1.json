@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "helpers for JSON-based WSGI services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fivehut/wsgijson", 
+  "info": {
+    "Author:": "Casey Marks", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fivehut/wsgijson", 
+    "Keywords:": "wsgi,json", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fivehut"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "helpers for JSON-based WSGI services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "904d3baa12ec8bc6c4b956062113c239", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgijson/wsgijson-0.1.tar.gz"
+}

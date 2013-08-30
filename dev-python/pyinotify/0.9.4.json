@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Linux filesystem events monitoring", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/seb-m/pyinotify", 
+  "info": {
+    "Author:": "Sebastien Martini", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/pyinotify", 
+    "Home Page:": "http://github.com/seb-m/pyinotify", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "ookoi", 
+    "Platform:": "Linux"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Linux filesystem events monitoring", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "701c91854d241514ede7ffe72086566d", 
+  "source_uri": "http://pypi.python.org/pypi/pyinotify"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fabric deployment script.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://linkscreative.codebasehq.com/projects/links-creative/repositories/devops", 
+  "info": {
+    "Author:": "James Cleveland", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://linkscreative.codebasehq.com/projects/links-creative/repositories/devops", 
+    "Package Index Owner:": "antihero"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Fabric deployment script.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "743a36f1231d8d8eb0124782af258039", 
+  "source_uri": "https://pypi.python.org/packages/source/l/links-devops/links-devops-0.1.6.tar.gz"
+}

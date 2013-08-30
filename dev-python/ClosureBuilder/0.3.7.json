@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Closure Builder is a simple dependency management tool for The Closure compiler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andrey Churin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Pylons"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Compilers"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ClosureBuilder", 
+    "Keywords:": "ClosureBuilder Closure compiler javascript management", 
+    "License:": "Apache License v2", 
+    "Package Index Owner:": "aachurin"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "The Closure Builder is a simple dependency management tool for The Closure compiler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da159d997ea6bbae0e53d5a17bc3ad4c", 
+  "source_uri": "https://pypi.python.org/packages/source/C/ClosureBuilder/ClosureBuilder-0.3.7.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django backend for MS SQL Server and Windows Aure SQL Database using pyodbc", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/michiya/django-pyodbc-azure", 
+  "info": {
+    "Author:": "Michiya Takahashi", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/michiya/django-pyodbc-azure", 
+    "License:": "BSD", 
+    "Package Index Owner:": "michiya"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django backend for MS SQL Server and Windows Aure SQL Database using pyodbc", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd74d9ea07886421ca4fbc8f218c8987", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pyodbc-azure/django-pyodbc-azure-1.0.7.zip"
+}

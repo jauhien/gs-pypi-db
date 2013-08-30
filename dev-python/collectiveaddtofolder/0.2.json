@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add Add to parent folder option. Allows users to add content to the folder you are currently in.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.plone.org/collective/browser/collective.addtofolder", 
+  "info": {
+    "Author:": "Philip Bauer", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://dev.plone.org/collective/browser/collective.addtofolder", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pbauer"
+  }, 
+  "license": "", 
+  "longdescription": "Add Add to parent folder option. Allows users to add content to the folder you are currently in.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c2368ef6d6db809d0e673e6aaf274da8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.addtofolder/collective.addtofolder-0.2.tar.gz"
+}

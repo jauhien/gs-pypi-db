@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate API info for Python Packages via Epydoc", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/epyparse", 
+  "info": {
+    "Author:": "Gerard Flanagan", 
+    "Download URL:": "http://pypi.python.org/packages/source/e/epyparse/epyparse-0.2.5.tar.gz", 
+    "Home Page:": "http://pypi.python.org/pypi/epyparse", 
+    "Package Index Owner:": "walterwefft"
+  }, 
+  "license": "", 
+  "longdescription": "Generate API info for Python Packages via Epydoc", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fa8d23943932b33937d7181f51f73e73", 
+  "source_uri": "http://pypi.python.org/packages/source/e/epyparse/epyparse-0.2.5.tar.gz"
+}

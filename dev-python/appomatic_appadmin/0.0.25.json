@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django admin page to administer appomatic apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/redhog/appomatic", 
+  "info": {
+    "Author:": "RedHog (Egil Moeller)", 
+    "Home Page:": "http://github.com/redhog/appomatic", 
+    "Keywords:": "appomatic django-admin", 
+    "License:": "GPL", 
+    "Package Index Owner:": "redhog"
+  }, 
+  "license": "", 
+  "longdescription": "Django admin page to administer appomatic apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d9a6657a9dc9c44c5dd06fa4353f3d4", 
+  "source_uri": "https://pypi.python.org/packages/source/a/appomatic_appadmin/appomatic_appadmin-0.0.25.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TWAIN API for accessing scanners, cameras, etc on Windows", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/denisenkom/pytwain", 
+  "info": {
+    "Author:": "Mikhail Denisenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Graphics", 
+        "Capture", 
+        "Scanners"
+      ]
+    }, 
+    "Home Page:": "https://github.com/denisenkom/pytwain", 
+    "Package Index Owner:": "denisenkom"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "TWAIN API for accessing scanners, cameras, etc on Windows", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9479d7bd9e68c1941e881c3fb50b3a09", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytwain/pytwain-2.0.tar.gz"
+}

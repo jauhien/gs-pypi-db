@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for grace", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cacr.caltech.edu/~mmckerns/software.html", 
+  "info": {
+    "Author:": "Mike McKerns", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pygrace", 
+    "Download URL:": "http://dev.danse.us/packages/pygrace-0.4.tgz", 
+    "Home Page:": "http://www.cacr.caltech.edu/~mmckerns/software.html", 
+    "Keywords:": "grace xmgrace plotting", 
+    "License:": "modified BSD", 
+    "Maintainer:": "Mike McKerns", 
+    "Package Index Owner:": "mmckerns", 
+    "Platform:": "Linux, Windows, and Mac"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for grace", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://dev.danse.us/packages/pygrace-0.4.tgz"
+}

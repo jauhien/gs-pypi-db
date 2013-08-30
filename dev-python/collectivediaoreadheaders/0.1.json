@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Middleware that allows flexible Diao theme selection based upon incoming HTTP headers. Extends functionality found in Diao.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.diazo.readheaders", 
+  "info": {
+    "Author:": "David Beitey", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.diazo.readheaders", 
+    "Keywords:": "diazo theme wsgi html xslt", 
+    "License:": "gpl", 
+    "Package Index Owner:": "davidjb"
+  }, 
+  "license": "", 
+  "longdescription": "Middleware that allows flexible Diao theme selection based upon incoming HTTP headers. Extends functionality found in Diao.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "603178e12a5ebd81aa1c0c330e8360de", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.diazo.readheaders/collective.diazo.readheaders-0.1.zip"
+}

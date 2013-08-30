@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A templated email generation library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cadithealth/genemail", 
+  "info": {
+    "Author:": "Philip J Grabner, Cadit Health Inc", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cadithealth/genemail", 
+    "Keywords:": "template email generation html text smtp", 
+    "License:": "MIT (http://opensource.org/licenses/MIT)", 
+    "Package Index Owner:": "grabner"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A templated email generation library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be2bafcc835fd48645b687f4e0960a73", 
+  "source_uri": "https://pypi.python.org/packages/source/g/genemail/genemail-0.1.5.tar.gz"
+}

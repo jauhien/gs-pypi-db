@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "suisseID PAS plugin for ope", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.seantis.ch", 
+  "info": {
+    "Author:": "Seantis GmbH", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "http://www.seantis.ch", 
+    "License:": "GPL", 
+    "Package Index Owner:": "seantis"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "suisseID PAS plugin for ope", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b3459ecfa69c5603e06a36fd2bff86cc", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pas.plugins.suisseid/pas.plugins.suisseid-0.1b4.tar.gz"
+}

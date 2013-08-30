@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "memached datastore implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/datastore/datastore.memcached", 
+  "info": {
+    "Author:": "Juan Batiz-Benet", 
+    "Categories": {
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://github.com/datastore/datastore.memcached", 
+    "Keywords:": "datastore,memcached", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jbenet"
+  }, 
+  "license": "", 
+  "longdescription": "memached datastore implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4f0fe7c958298fe8c312a831ab8df49", 
+  "source_uri": "https://pypi.python.org/packages/source/d/datastore.memcached/datastore.memcached-0.1.1.tar.gz"
+}

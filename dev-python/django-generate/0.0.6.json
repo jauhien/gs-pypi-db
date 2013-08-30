@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django slightly smarter than fixtures content generation app.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/praekelt/django-generate", 
+  "info": {
+    "Author:": "Praekelt Foundation", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/praekelt/django-generate", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "Rizziepit", 
+    "Package Index Owner:": "Shaun.Sephton, Praekelt, hedley, Rizziepit"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django slightly smarter than fixtures content generation app.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3089f3550a26df33695af6d2e1ff61e5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-generate/django-generate-0.0.6.tar.gz"
+}

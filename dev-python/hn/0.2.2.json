@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A CLI and Python library for using the HNSearch API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zachwill/hn", 
+  "info": {
+    "Author:": "Zach Williams", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zachwill/hn", 
+    "Keywords:": "hn,ycombinator,hacker news,newsyc", 
+    "License:": "MIT", 
+    "Package Index Owner:": "zachwill"
+  }, 
+  "license": "", 
+  "longdescription": "A CLI and Python library for using the HNSearch API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b0adf5dfb5877a2dfb78cc29f840717", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hn/hn-0.2.2.tar.gz"
+}

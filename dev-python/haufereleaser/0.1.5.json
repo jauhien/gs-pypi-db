@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Performs local upload of distribution files to a haufe.eggserver instance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "ZPL V2.1", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "", 
+  "longdescription": "Performs local upload of distribution files to a haufe.eggserver instance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44e411ff83ddec67d1ebe188aec55cf3", 
+  "source_uri": "https://pypi.python.org/packages/source/h/haufe.releaser/haufe.releaser-0.1.5.tar.gz"
+}

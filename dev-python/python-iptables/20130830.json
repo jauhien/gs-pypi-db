@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for iptables", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://nilvec.com/", 
+  "info": {
+    "Author:": "Dhananjay Sathe", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://nilvec.com/", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "dhananjaysathe"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python bindings for iptables", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6c416cd79c42d6fc04190afaca4852d1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-iptables/python-iptables-0.2.0-dev.tar.gz"
+}

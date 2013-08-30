@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utilities for working (only under Unix, for now) with file and directories sies, space on internalexternal hard drives", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andrea Leopardi", 
+    "License:": "This module is distributed under the GNU license, and it is reusable by everyone", 
+    "Package Index Owner:": "whatyouhide", 
+    "Platform:": "Unix"
+  }, 
+  "license": "", 
+  "longdescription": "Utilities for working (only under Unix, for now) with file and directories sies, space on internalexternal hard drives", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12ff231ed128442194bd07fc22956a4e", 
+  "source_uri": "https://pypi.python.org/packages/source/f/filesys_utils/filesys_utils-0.1.tar.gz"
+}

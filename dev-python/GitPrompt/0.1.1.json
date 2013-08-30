@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display git repository information in a command prompt.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/GitPrompt", 
+  "info": {
+    "Author:": "Luke Stebbing", 
+    "Categories": {
+      "Development Status": [
+        "7 - Inactive"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/GitPrompt", 
+    "License:": "MIT", 
+    "Package Index Owner:": "lukestebbing"
+  }, 
+  "license": "", 
+  "longdescription": "Display git repository information in a command prompt.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eddc0713618b80610298e27fd0eb3694", 
+  "source_uri": "https://pypi.python.org/packages/source/G/GitPrompt/GitPrompt-0.1.1.tar.gz"
+}

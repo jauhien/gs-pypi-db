@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lay Django fragment cache sweeping", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/smn/django-cache-sweeper", 
+  "info": {
+    "Author:": "Simon de Haan", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/smn/django-cache-sweeper", 
+    "License:": "BSD", 
+    "Package Index Owner:": "smn"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Lay Django fragment cache sweeping", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "02545bd319d1027c61f8df0ccc486332", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cache-sweeper/django-cache-sweeper-0.1.2.tar.gz"
+}

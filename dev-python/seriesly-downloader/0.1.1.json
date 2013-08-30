@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Download torrents from Seriesly.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/seriesly-downloader/", 
+  "info": {
+    "Author:": "Michel Lang", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ]
+    }, 
+    "Download URL:": "http://seriesly-downloader.googlecode.com/files/seriesly-downloader-0.1.1.tar.gz", 
+    "Home Page:": "http://code.google.com/p/seriesly-downloader/", 
+    "Keywords:": "rss feed cli torrent seriesly tvshows cron", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "michel"
+  }, 
+  "license": "", 
+  "longdescription": "Download torrents from Seriesly.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://seriesly-downloader.googlecode.com/files/seriesly-downloader-0.1.1.tar.gz"
+}

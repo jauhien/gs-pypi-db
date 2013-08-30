@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app to help manage external dependencies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-dependency/", 
+  "info": {
+    "Author:": "Caktus Consulting Group", 
+    "Home Page:": "http://code.google.com/p/django-dependency/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "tobias.mcnulty"
+  }, 
+  "license": "", 
+  "longdescription": "Django app to help manage external dependencies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d81017b33ee3e314de650b9438062814", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dependency/django-dependency-1.1.tar.gz"
+}

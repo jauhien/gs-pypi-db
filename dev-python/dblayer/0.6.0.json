@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Database Abstraction Layer Generator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/dblayer", 
+  "info": {
+    "Author:": "Viktor Ferenczi", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/dblayer", 
+    "Keywords:": "python database orm postgresql abstraction layer generator codegeneration performance", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fviktor"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Database Abstraction Layer Generator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "abb309172f3e456c260eff1f05f76512", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dblayer/dblayer-0.6.0.tar.gz"
+}

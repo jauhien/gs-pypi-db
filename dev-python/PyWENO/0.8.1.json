@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Weighted Essentially Non-oscillatory (WENO) reconstructions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://readthedocs.org/docs/pyweno/en/latest/", 
+  "info": {
+    "Author:": "Matthew Emmett", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Home Page:": "http://readthedocs.org/docs/pyweno/en/latest/", 
+    "Keywords:": "weno,interpolate,interpolation,finite,volume", 
+    "License:": "BSD", 
+    "Package Index Owner:": "memmett"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Weighted Essentially Non-oscillatory (WENO) reconstructions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d937ad87bea78e210e345f34b013db0", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyWENO/PyWENO-0.8.1.tar.gz"
+}

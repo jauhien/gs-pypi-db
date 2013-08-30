@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Gloopy is a Python library for creating 3D polyhedra and rendering them usingOpenGL. It uses Pyglet to open a window and manage events, and PyOpenGL forOpenGL bindings.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/tartley/gloopy", 
+  "info": {
+    "Author:": "Jonathan Hartley", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/tartley/gloopy", 
+    "License:": "New BSD", 
+    "Package Index Owner:": "tartley"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Gloopy is a Python library for creating 3D polyhedra and rendering them usingOpenGL. It uses Pyglet to open a window and manage events, and PyOpenGL forOpenGL bindings.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0abccb1cd35fae5965ea8834eaf3b3b3", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gloopy/gloopy-0.1.3a.zip"
+}

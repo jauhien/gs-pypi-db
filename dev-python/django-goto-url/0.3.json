@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wraps external links in base64 and relocate on the special View, later redirect to source URL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/adw0rd/django-goto-url", 
+  "info": {
+    "Author:": "Mikhail Andreev", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/adw0rd/django-goto-url", 
+    "Keywords:": "django,goto,url,redirect,relocation", 
+    "License:": "BSD", 
+    "Package Index Owner:": "adw0rd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Wraps external links in base64 and relocate on the special View, later redirect to source URL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8313aede5b520d9df370c9195eacf10b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-goto-url/django-goto-url-0.3.tar.gz"
+}

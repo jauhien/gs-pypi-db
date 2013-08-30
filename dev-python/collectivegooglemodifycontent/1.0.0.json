@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GMC embeds the Google Docs application inside the Google Modify panel, allowing Plone users to edit their documents directly from the Plone application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.googlemodifycontent", 
+  "info": {
+    "Author:": "D'Elia Federica", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.googlemodifycontent", 
+    "Keywords:": "plone google googledocs", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fdelia, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "GMC embeds the Google Docs application inside the Google Modify panel, allowing Plone users to edit their documents directly from the Plone application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9298d2fc54ba97b24f14e83a5c41d1d0", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.googlemodifycontent/collective.googlemodifycontent-1.0.0.tar.gz"
+}

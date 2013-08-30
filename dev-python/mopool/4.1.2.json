@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "System to manage a pool of cranky mobile devices", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.mozilla.org/build/mozpool", 
+  "info": {
+    "Author:": "Ted Mielczarek, Mark C\u00f4t\u00e9, Dustin Mitchell", 
+    "Home Page:": "http://hg.mozilla.org/build/mozpool", 
+    "Package Index Owner:": "djmitche, armenzg"
+  }, 
+  "license": "", 
+  "longdescription": "System to manage a pool of cranky mobile devices", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2ba0193569183b226e6ccae49525ebf", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozpool/mozpool-4.1.2.tar.gz"
+}

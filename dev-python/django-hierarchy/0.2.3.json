@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for storing trees in the Django ORM.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/larsyencken/django-hierarchy/", 
+  "info": {
+    "Author:": "Lars Yencken", 
+    "Home Page:": "http://bitbucket.org/larsyencken/django-hierarchy/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lars512"
+  }, 
+  "license": "", 
+  "longdescription": "A library for storing trees in the Django ORM.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dfbb2e897fc20892414ee402093987b6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-hierarchy/django-hierarchy-0.2.3.tar.gz"
+}

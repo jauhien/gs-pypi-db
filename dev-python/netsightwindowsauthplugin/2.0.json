@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Windows Intergrated Authentication (SPNEGOKerberos) Plugin for PAS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/netsight/netsight.windowsauthplugin", 
+  "info": {
+    "Author:": "Matt Hamilton", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/netsight/netsight.windowsauthplugin", 
+    "Keywords:": "zope plone pas kerberos windows active directory", 
+    "License:": "GPL", 
+    "Package Index Owner:": "matth"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Windows Intergrated Authentication (SPNEGOKerberos) Plugin for PAS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15eeaa150be8bdcbbb7dfff1eced6afa", 
+  "source_uri": "https://pypi.python.org/packages/source/n/netsight.windowsauthplugin/netsight.windowsauthplugin-2.0.zip"
+}

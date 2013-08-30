@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client for HBase Stargate REST server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/barseghyanartur/starbase", 
+  "info": {
+    "Author:": "Artur Barseghyan", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//starbase", 
+    "Home Page:": "https://github.com/barseghyanartur/starbase", 
+    "Keywords:": "hadoop,hbase,stargate,app,python", 
+    "License:": "GPL 2.0/LGPL 2.1", 
+    "Package Index Owner:": "delusionalinsanity"
+  }, 
+  "license": "", 
+  "longdescription": "Python client for HBase Stargate REST server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb0e7e2fff1e2904f0167fc8ef83b69e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/starbase/starbase-0.1.tar.gz"
+}

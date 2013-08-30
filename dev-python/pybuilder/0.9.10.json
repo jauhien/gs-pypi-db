@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extensible, easy to use continuous build tool for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pybuilder.github.com", 
+  "info": {
+    "Author:": "Alexander Metzner, Michael Gruber, Udo Juettner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://pybuilder.github.com", 
+    "License:": "Apache License", 
+    "Package Index Owner:": "mriehl, Michael.Gruber, Halimath.Wilanthaou"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "An extensible, easy to use continuous build tool for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a85854fb25eab9b05f49ca3393b7518", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pybuilder/pybuilder-0.9.10.tar.gz"
+}

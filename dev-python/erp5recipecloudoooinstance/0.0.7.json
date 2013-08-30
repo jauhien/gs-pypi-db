@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for installing a cloudooo instance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Gabriel M. Monnerat", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ]
+    }, 
+    "Keywords:": "cloud buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "gmonnerat"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "C Buildout recipe for installing a cloudooo instance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9fd486bc47052cca85e75c26e532136b", 
+  "source_uri": "https://pypi.python.org/packages/source/e/erp5.recipe.cloudoooinstance/erp5.recipe.cloudoooinstance-0.0.7.tar.gz"
+}

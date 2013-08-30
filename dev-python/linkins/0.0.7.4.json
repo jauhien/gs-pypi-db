@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Links a directory structure and optionally executes user-defined scripts at each level of the directory hierarchy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/thelinuxkid/linkins", 
+  "info": {
+    "Author:": "Andres Buritica", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/thelinuxkid/linkins", 
+    "License:": "MIT", 
+    "Package Index Owner:": "thelinuxkid"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Links a directory structure and optionally executes user-defined scripts at each level of the directory hierarchy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bc48a81e13cfad9b7acbd4cc188c3f47", 
+  "source_uri": "https://pypi.python.org/packages/source/l/linkins/linkins-0.0.7.4.tar.gz"
+}

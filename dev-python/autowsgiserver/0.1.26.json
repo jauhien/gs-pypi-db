@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "autowsgiserver v. 0.1.25CherryPy based WSGI server that scans specified dir for WSGI clients and runthem as WSGI applications with different virtual hosts. Allows to runmultiple simple web applications on one server without any configuration.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/eyeofhell/autowsgiserver", 
+  "info": {
+    "Author:": "Grigory Petrov", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "HTTP Servers"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/eyeofhell/autowsgiserver", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "eyeofhell"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "autowsgiserver v. 0.1.25CherryPy based WSGI server that scans specified dir for WSGI clients and runthem as WSGI applications with different virtual hosts. Allows to runmultiple simple web applications on one server without any configuration.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fe58a697461f5440a79eee9125f926a9", 
+  "source_uri": "https://pypi.python.org/packages/source/a/autowsgiserver/autowsgiserver-0.1.26.zip"
+}

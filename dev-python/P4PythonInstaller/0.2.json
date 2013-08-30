@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bootstrap installer for P4Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.review-board.org/", 
+  "info": {
+    "Author:": "Christian Hammond", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ]
+    }, 
+    "Download URL:": "http://reviewboard.googlecode.com/svn/trunk/P4PythonInstaller#egg=P4PythonInstaller-0.2", 
+    "Home Page:": "http://www.review-board.org/", 
+    "Keywords:": "P4, Perforce", 
+    "Package Index Owner:": "chipx86"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Bootstrap installer for P4Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://reviewboard.googlecode.com/svn/trunk/P4PythonInstaller#egg=P4PythonInstaller-0.2"
+}

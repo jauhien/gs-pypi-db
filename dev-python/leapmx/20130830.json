@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An asynchronous, transparently-encrypting remailer for the LEAP platform", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/leapcode/leap_mx", 
+  "info": {
+    "Author:": "The LEAP Encryption Access Project", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3 or later (AGPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://github.com/leapcode/leap_mx", 
+    "License:": "AGPLv3+", 
+    "Package Index Owner:": "kali"
+  }, 
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)", 
+  "longdescription": "An asynchronous, transparently-encrypting remailer for the LEAP platform", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8940b724f2cec5ff60cb9daab5f3c712", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leap.mx/leap.mx-0.3.1-2-gf85f17b.tar.gz"
+}

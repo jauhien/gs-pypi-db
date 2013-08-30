@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe that downloads and installs OpenOffice.org", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.zope.org/z3c.recipe.openoffice", 
+  "info": {
+    "Author:": "Infrae", 
+    "Home Page:": "http://svn.zope.org/z3c.recipe.openoffice", 
+    "Keywords:": "buildout openoffice", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "leorochael", 
+    "Package Index Owner:": "jfroche"
+  }, 
+  "license": "", 
+  "longdescription": "c.buildout recipe that downloads and installs OpenOffice.org", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5767d0062ae9722e1409fe15e4526557", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.recipe.openoffice/z3c.recipe.openoffice-0.3.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command-line utility that creates projects from project templates. E.g. Python package projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/audreyr/cookiecutter", 
+  "info": {
+    "Author:": "Audrey Roy", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/audreyr/cookiecutter", 
+    "Keywords:": "cookiecutter,Python,projects,project templates,Jinja2,project directory,setup.py,package,packaging", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "audreyr, pydanny", 
+    "Package Index Owner:": "audreyr"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A command-line utility that creates projects from project templates. E.g. Python package projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8297b3bfd255ab499323c00191a398d8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cookiecutter/cookiecutter-0.3.tar.gz"
+}

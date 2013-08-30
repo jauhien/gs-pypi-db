@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for converting a token stream into a data structure for use in web form posts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.pylonsproject.org/projects/peppercorn/en/latest/", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://docs.pylonsproject.org/projects/peppercorn/en/latest/", 
+    "Keywords:": "web wsgi form generation library", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism"
+  }, 
+  "license": "", 
+  "longdescription": "A library for converting a token stream into a data structure for use in web form posts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "464d6f2342eaf704dfb52046c1f5c320", 
+  "source_uri": "https://pypi.python.org/packages/source/p/peppercorn/peppercorn-0.4.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin to give bottle a stateless request object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/turtlebender/bottle-request/", 
+  "info": {
+    "Author:": "Tom Howe", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/turtlebender/bottle-request/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Tom.Howe", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Plugin to give bottle a stateless request object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4da8d6bfebf4a9a80b70948cbd234dc7", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bottle-request/bottle-request-0.2.0.tar.gz"
+}

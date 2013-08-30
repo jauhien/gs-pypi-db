@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Redis-based Django session engine for django.contrib.sessions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/liokm/django-redisession", 
+  "info": {
+    "Author:": "Li Meng", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/liokm/django-redisession", 
+    "Home Page:": "https://github.com/liokm/django-redisession", 
+    "License:": "MIT", 
+    "Package Index Owner:": "liokm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Redis-based Django session engine for django.contrib.sessions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "798d4b5f492e123bf7a7792508785566", 
+  "source_uri": "https://github.com/liokm/django-redisession"
+}

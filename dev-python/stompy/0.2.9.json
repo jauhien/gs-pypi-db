@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of the STOMP protocol in Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/benjaminws/python-stomp/", 
+  "info": {
+    "Author:": "Benjamin W. Smith", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//stompy", 
+    "Home Page:": "http://bitbucket.org/benjaminws/python-stomp/", 
+    "Keywords:": "stomp activemq jms messaging", 
+    "License:": "BSD", 
+    "Package Index Owner:": "benjaminws"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Implementation of the STOMP protocol in Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aca5be1a264bfeb4de1d268b69f73a3c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stompy/stompy-0.2.9.tar.gz"
+}

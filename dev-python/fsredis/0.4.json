@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "fsredis in-process redis api, persisting to file system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/hpk42/fsredis", 
+  "info": {
+    "Author:": "holger krekel", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/hpk42/fsredis", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "hpk", 
+    "Platform:": "unix,linux,osx,cygwin,win32"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "fsredis in-process redis api, persisting to file system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "410423504440acb42751b5c496ab7870", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fsredis/fsredis-0.4.tar.gz"
+}

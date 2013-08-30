@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django-specific enhancement to virtualenvwrappers mkvirtualenv function to setup the settings and pythonpath variables, auto-install requirements, set the project path, and install git modules if possible.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mrcoles/mkdjangovirtualenv", 
+  "info": {
+    "Author:": "Peter Coles", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mrcoles/mkdjangovirtualenv", 
+    "Package Index Owner:": "mrcoles"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A django-specific enhancement to virtualenvwrappers mkvirtualenv function to setup the settings and pythonpath variables, auto-install requirements, set the project path, and install git modules if possible.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "58702956042108a5813184fb34653ca0", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mkdjangovirtualenv/mkdjangovirtualenv-0.0.7.tar.gz"
+}

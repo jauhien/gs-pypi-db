@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Converts DocBook 45 documents into ePub. Requires the DocBook XSL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/epub-tools/", 
+  "info": {
+    "Author:": "Liza Daly", 
+    "Bug Tracker:": "http://code.google.com/p/epub-tools/issues/list", 
+    "Home Page:": "http://code.google.com/p/epub-tools/", 
+    "Keywords:": "epub", 
+    "License:": "New BSD", 
+    "Package Index Owner:": "Faraz.Yashar"
+  }, 
+  "license": "", 
+  "longdescription": "Converts DocBook 45 documents into ePub. Requires the DocBook XSL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0fbeb90caa0775c493aaecd8091cd8b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/docbook2epub/docbook2epub-1.0.1dev-r138.tar.gz"
+}

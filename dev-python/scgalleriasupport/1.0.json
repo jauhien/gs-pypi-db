@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple gallery for Plone based in httpgalleria.io", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.simplesconsultoria.com.br", 
+  "info": {
+    "Author:": "Simples Consultoria", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.simplesconsultoria.com.br", 
+    "Keywords:": "python simples_consultoria plone galleria gallery", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cleberjsantos, ericoandrei, hvelarde"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Simple gallery for Plone based in httpgalleria.io", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d5e42da51a0e5e34a7b2f6be193dfe1", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sc.galleria.support/sc.galleria.support-1.0.zip"
+}

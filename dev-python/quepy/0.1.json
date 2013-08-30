@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A framework to convert natural language to database queries.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/machinalis/quepy", 
+  "info": {
+    "Author:": "Rafael Carrascosa, Gonzalo Garcia Berrotaran", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/machinalis/quepy", 
+    "Keywords:": "regular expressions,regexp,re,NLP,natural language processing,natural language interface to database,sparql,database,interface,quepy", 
+    "Package Index Owner:": "rafacarrascosa"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A framework to convert natural language to database queries.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a899b23931d978c90adfbab69917e7b", 
+  "source_uri": "https://pypi.python.org/packages/source/q/quepy/quepy-0.1.tar.gz"
+}

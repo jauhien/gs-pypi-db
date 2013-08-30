@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A table input component for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/datagridfield", 
+  "info": {
+    "Author:": "Mikko Ohtamaa", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/datagridfield", 
+    "Keywords:": "Plone DataGridField Archetypes", 
+    "License:": "GPL", 
+    "Package Index Owner:": "thomasw, smcmahon, optilude, andrewburkhalter, vincentfretin, davisagli, maurits, ajung"
+  }, 
+  "license": "", 
+  "longdescription": "A table input component for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "578aacae0017c1ee5ee06b8f4e8f1ff7", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.DataGridField/Products.DataGridField-1.8.4.zip"
+}

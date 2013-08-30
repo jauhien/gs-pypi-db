@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TAXII Library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://taxii.mitre.org/", 
+  "info": {
+    "Author:": "Mark Davidson", 
+    "Home Page:": "http://taxii.mitre.org/", 
+    "Keywords:": "taxii libtaxii", 
+    "Package Index Owner:": "MarkDavidson, gback"
+  }, 
+  "license": "", 
+  "longdescription": "TAXII Library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "68f0e168b692e5cba837e2882512e65f", 
+  "source_uri": "https://pypi.python.org/packages/source/l/libtaxii/libtaxii-1.0.105.tar.gz"
+}

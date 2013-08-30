@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Browse your AWS resources using a hierarchical object model", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tuxpiper/awsom", 
+  "info": {
+    "Author:": "David Losada Carballo", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tuxpiper/awsom", 
+    "Keywords:": "aws internet cloud", 
+    "License:": "MIT", 
+    "Package Index Owner:": "tuxpiper"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Browse your AWS resources using a hierarchical object model", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ab4f81f9eba25405cad4c7c4d59f9b7e", 
+  "source_uri": "https://pypi.python.org/packages/source/a/awsom/awsom-0.0.3.tar.gz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python binding to the X Window System protocol via libxcb.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://xcb.freedesktop.org", 
+  "info": {
+    "Author:": "Eamon Walsh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://xcb.freedesktop.org/dist/", 
+    "Home Page:": "http://xcb.freedesktop.org", 
+    "Keywords:": "xcb, xlib, x11, xpyb", 
+    "License:": "Public Domain", 
+    "Maintainer:": "XCB developers", 
+    "Package Index Owner:": "jd"
+  }, 
+  "license": "", 
+  "longdescription": "Python binding to the X Window System protocol via libxcb.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://xcb.freedesktop.org/dist/"
+}

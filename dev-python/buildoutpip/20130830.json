@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout extension to install from pip requirements files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/taras/buildoutpip", 
+  "info": {
+    "Author:": "Taras Mankovski", 
+    "Home Page:": "http://github.com/taras/buildoutpip", 
+    "Keywords:": "buildout extension pip", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "tarasm"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout extension to install from pip requirements files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "94338010339842e535f3bb2fdf6fa18f", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildoutpip/buildoutpip-0.1dev.tar.gz"
+}

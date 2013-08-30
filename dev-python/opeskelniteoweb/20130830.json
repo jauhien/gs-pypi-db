@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Paster templates for standard NiteoWeb Plone projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zopeskel.niteoweb", 
+  "info": {
+    "Author:": "NiteoWeb Ltd.", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//zopeskel.niteoweb", 
+    "Home Page:": "http://pypi.python.org/pypi/zopeskel.niteoweb", 
+    "Keywords:": "plone zopeskel", 
+    "License:": "GPL", 
+    "Package Index Owner:": "zupo"
+  }, 
+  "license": "", 
+  "longdescription": "Paster templates for standard NiteoWeb Plone projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5801a3dfb0d8bdb6537ef15060bf584", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zopeskel.niteoweb/zopeskel.niteoweb-0.2b1.tar.gz"
+}

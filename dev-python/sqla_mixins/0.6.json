@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python module that contains a number of simple declarative sqlalchemy mixins.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bboe/sqla_mixins", 
+  "info": {
+    "Author:": "Bryce Boe", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bboe/sqla_mixins", 
+    "License:": "Simplified BSD License", 
+    "Package Index Owner:": "bboe"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A python module that contains a number of simple declarative sqlalchemy mixins.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea56f3d924e99f92ae5b59c53ab2d1c6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqla_mixins/sqla_mixins-0.6.tar.gz"
+}

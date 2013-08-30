@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package handles files in NASA Common Data Format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://efw.ssl.berkeley.edu/packages/cdf", 
+  "info": {
+    "Author:": "Matt Born", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//CDF", 
+    "Home Page:": "http://efw.ssl.berkeley.edu/packages/cdf", 
+    "Package Index Owner:": "mattbornski"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "This package handles files in NASA Common Data Format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9cd8547ab9d1e5e44db6a08d97e0ec2d", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CDF/CDF-0.32.tar.gz"
+}

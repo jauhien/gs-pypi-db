@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple markup and processor to make initial models.py less tedious", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ptone/django-modelish", 
+  "info": {
+    "Author:": "Preston Holmes", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ptone/django-modelish", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ptone"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple markup and processor to make initial models.py less tedious", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "220c1f4d5e917d09778debeeda85cd45", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-modelish/django-modelish-0.1.tar.gz"
+}

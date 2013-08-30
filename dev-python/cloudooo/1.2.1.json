@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XML-RPC openoffice document convertion server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.erp5.org/repos/public/erp5/trunk/utils/cloudooo", 
+  "info": {
+    "Author:": "Gabriel M. Monnerat", 
+    "Categories": {
+      "Framework": [
+        "Paste"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Operating System Kernels", 
+        "Linux"
+      ]
+    }, 
+    "Home Page:": "https://svn.erp5.org/repos/public/erp5/trunk/utils/cloudooo", 
+    "Keywords:": "xmlrpc openoffice wsgi paste python", 
+    "License:": "GPL 2", 
+    "Package Index Owner:": "gmonnerat, nicolas_delaby"
+  }, 
+  "license": "", 
+  "longdescription": "XML-RPC openoffice document convertion server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3eb88fbd0ffcecbf23addd1d63037127", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cloudooo/cloudooo-1.2.1.tar.gz"
+}

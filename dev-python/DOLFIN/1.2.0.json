@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C++Python library for solving differential equations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fenicsproject.org", 
+  "info": {
+    "Author:": "Anders Logg, Garth N. Wells, et. al.", 
+    "Bug Tracker:": "https://bugs.launchpad.net/dolfin", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "https://launchpad.net/dolfin/1.2.x/1.2.0/+download/dolfin-1.2.0.tar.gz", 
+    "Home Page:": "http://fenicsproject.org", 
+    "Package Index Owner:": "johannr, logg"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "C++Python library for solving differential equations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://launchpad.net/dolfin/1.2.x/1.2.0/+download/dolfin-1.2.0.tar.gz"
+}

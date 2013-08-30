@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Vector AutoRegressive model for time series data.  Requires numpy.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://stanford.edu/~jeffwong", 
+  "info": {
+    "Author:": "Jeffrey Wong", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Home Page:": "http://stanford.edu/~jeffwong", 
+    "Package Index Owner:": "jeffwong"
+  }, 
+  "license": "", 
+  "longdescription": "Vector AutoRegressive model for time series data.  Requires numpy.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "693fbbeaf9a6cb6c08865b53aab83c59", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fastVAR/fastVAR-1.0.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package aims to provide language dependent character set for sending emails from Plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.langMailHost", 
+  "info": {
+    "Author:": "Taito Horiuchi", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.langMailHost", 
+    "License:": "GPL", 
+    "Package Index Owner:": "taito"
+  }, 
+  "license": "", 
+  "longdescription": "This package aims to provide language dependent character set for sending emails from Plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b0b945bf7f1c07a88cccbe5ffaff9ed", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.langMailHost/collective.langMailHost-0.3.5.tar.gz"
+}

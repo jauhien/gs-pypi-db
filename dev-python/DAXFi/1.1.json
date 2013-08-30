@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "configure different kinds of firewalls in a consistent way.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://daxfi.sourceforge.net/", 
+  "info": {
+    "Author:": "Davide Alberani", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Download URL:": "http://downloads.sourceforge.net/daxfi/daxfi-1.1.tar.gz", 
+    "Home Page:": "http://daxfi.sourceforge.net/", 
+    "Keywords:": "firewall management dynamic configuration linux bsd unix iptables ipchains ipfilter ipfwadm", 
+    "License:": "GPL", 
+    "Maintainer:": "Davide Alberani", 
+    "Package Index Owner:": "alberanid", 
+    "Platform:": "Linux, BSD, Solaris"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "configure different kinds of firewalls in a consistent way.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "038be0785ed8f4f18baea735a5bedb20", 
+  "source_uri": "http://downloads.sourceforge.net/daxfi/daxfi-1.1.tar.gz"
+}

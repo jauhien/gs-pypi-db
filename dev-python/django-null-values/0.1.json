@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatically convert empty strings to NULL if nullTrue", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.schinckel.net/django-null-values/", 
+  "info": {
+    "Author:": "Matthew Schinckel", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://hg.schinckel.net/django-null-values/", 
+    "Package Index Owner:": "schinckel"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "Automatically convert empty strings to NULL if nullTrue", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf7e38203cd588c85d646b7bcdc34836", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-null-values/django-null-values-0.1.tar.gz"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GeoIp data as an app to facilitate installing. Also features template filters, utility functions and a management command for updating the GeoIP data.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Gidsy/django-geoip-utils", 
+  "info": {
+    "Author:": "Philipp Wassibauer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/Gidsy/django-geoip-utils", 
+    "Package Index Maintainer:": "jezdez", 
+    "Package Index Owner:": "jezdez, philW"
+  }, 
+  "license": "", 
+  "longdescription": "GeoIp data as an app to facilitate installing. Also features template filters, utility functions and a management command for updating the GeoIP data.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4d9aa906eb41d395eef8e35ba32b45d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-geoip-utils/django-geoip-utils-0.1.1.tar.gz"
+}

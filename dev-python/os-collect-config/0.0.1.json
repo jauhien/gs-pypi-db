@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Collect and cache metadata, run hooks on changes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/stackforge/os-collect-config", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/stackforge/os-collect-config", 
+    "Package Index Owner:": "openstackci, sdirector"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Collect and cache metadata, run hooks on changes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d52e2738cd8eac7446a736f147fdfef", 
+  "source_uri": "https://pypi.python.org/packages/source/o/os-collect-config/os-collect-config-0.0.1.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Run an online advocacy campaign from your Plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.megaphone/trunk", 
+  "info": {
+    "Author:": "Groundwire", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.megaphone/trunk", 
+    "Keywords:": "plone advocacy action letter petition", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli, jbaldivieso, yomatters"
+  }, 
+  "license": "", 
+  "longdescription": "Run an online advocacy campaign from your Plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1db0d77b2d18f2997cfebafa31bbeb82", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.megaphone/collective.megaphone-2.1.5.zip"
+}

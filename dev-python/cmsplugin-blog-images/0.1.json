@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extension for cmsplugin-blog which adds images to blog entries.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bitmazk/cmsplugin-blog-images", 
+  "info": {
+    "Author:": "Martin Brochhaus", 
+    "Home Page:": "https://github.com/bitmazk/cmsplugin-blog-images", 
+    "Keywords:": "django,blog,django-cms,app,plugin,apphook,images,gallery", 
+    "License:": "The MIT License", 
+    "Package Index Maintainer:": "Tobias.Lorenz, dkaufhold", 
+    "Package Index Owner:": "mbrochh", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "Extension for cmsplugin-blog which adds images to blog entries.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "63b9b7c7a18017fe3facfc47da6d8885", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin-blog-images/cmsplugin-blog-images-0.1.tar.gz"
+}

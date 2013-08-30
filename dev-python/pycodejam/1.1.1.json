@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This module provides helpers to run and parse CodeJam problems", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/yanatan16/pycodejam", 
+  "info": {
+    "Author:": "Jon Eisen", 
+    "Documentation:": "http://pythonhosted.org//pycodejam", 
+    "Home Page:": "http://github.com/yanatan16/pycodejam", 
+    "Keywords:": "google code jam codejam competition problem", 
+    "License:": "MIT", 
+    "Package Index Owner:": "yanatan16"
+  }, 
+  "license": "", 
+  "longdescription": "This module provides helpers to run and parse CodeJam problems", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cad3a883a2c71d4924f5df3aba0c2ded", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycodejam/pycodejam-1.1.1.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds a new tab to Product form to define product kits.         That is a list of products that are added automatically when the         creates a new sale, picking, etc.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nan-tic.com/", 
+  "info": {
+    "Author:": "NaN\u00b7tic", 
+    "Bug Tracker:": "https://bitbucket.org/angelnan/product_kit/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Tryton"
+      ], 
+      "Intended Audience": [
+        "Manufacturing"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Office/Business"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/angelnan/product_kit", 
+    "Home Page:": "http://www.nan-tic.com/", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "angelnan"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Adds a new tab to Product form to define product kits.         That is a list of products that are added automatically when the         creates a new sale, picking, etc.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "908e78439f03df1652efbd9b8430c577", 
+  "source_uri": "https://bitbucket.org/angelnan/product_kit"
+}

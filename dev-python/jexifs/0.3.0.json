@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Select jpegs based on their exif-data.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/thomst/jexifs", 
+  "info": {
+    "Author:": "Thomas Leichtfuss", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://pypi.python.org/packages/source/j/jexifs/jexifs-0.3.0.tar.gz", 
+    "Home Page:": "https://github.com/thomst/jexifs", 
+    "Keywords:": "exif exifdata jpeg time batch selection", 
+    "License:": "GPL", 
+    "Package Index Owner:": "thomst"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Select jpegs based on their exif-data.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ca3ed0229b44c159fb962b385e06387", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jexifs/jexifs-0.3.0.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Gerrit IRC Bot.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/openstack-ci/gerritbot", 
+  "info": {
+    "Author:": "Hewlett-Packard Development Company, L.P.", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/openstack-ci/gerritbot", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "corvus, sdirector, cboylan, openstackci"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Gerrit IRC Bot.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b836456beabafaece29ab64d48d97b95", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gerritbot/gerritbot-0.1.2.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone Integration with YAFOWIL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/yafowil.plone", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/yafowil.plone", 
+    "Keywords:": "zope2 plone request response html input widgets", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jensens, rnix"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Plone Integration with YAFOWIL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7308e7b6c241d3a146f2361ec864ab2", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yafowil.plone/yafowil.plone-2.0.2.tar.gz"
+}

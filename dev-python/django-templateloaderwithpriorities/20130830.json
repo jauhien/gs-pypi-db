@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django Template Loader with priorities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/qubird/django-templateloaderwithpriorities", 
+  "info": {
+    "Author:": "Vincenzo E. Antignano (@qubird)", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/qubird/django-templateloaderwithpriorities", 
+    "Keywords:": "django template loader", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "qubird"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Django Template Loader with priorities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d50de1b8893bb2718838d1949b409c3b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-templateloaderwithpriorities/django-templateloaderwithpriorities-1.0dev.tar.gz"
+}

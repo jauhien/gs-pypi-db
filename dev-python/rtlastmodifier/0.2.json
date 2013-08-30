@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Save and show user last modifier information on Plone contents", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/rt.lastmodifier", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/rt.lastmodifier/issues", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/rt.lastmodifier", 
+    "Keywords:": "plone plonegov modifier catalog byline", 
+    "License:": "GPL", 
+    "Package Index Owner:": "massimo, keul"
+  }, 
+  "license": "", 
+  "longdescription": "Save and show user last modifier information on Plone contents", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36efdbf1c0d6b636fa8317235e9a601b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rt.lastmodifier/rt.lastmodifier-0.2.zip"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Mercurial extension for working with GitHub repositories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/stephenmcd/hg-github", 
+  "info": {
+    "Author:": "Stephen McDonald", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://github.com/stephenmcd/hg-github", 
+    "License:": "BSD", 
+    "Package Index Owner:": "stephenmcd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Mercurial extension for working with GitHub repositories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ffa1b00e66433bd102a9e8c79641593", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hg-github/hg-github-0.1.4.tar.gz"
+}

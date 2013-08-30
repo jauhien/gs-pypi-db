@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Update links to child objects in TextFields and ReferenceFields when an Archetypes based object is copied and pasted", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.updatelinksoncopy", 
+  "info": {
+    "Author:": "Matt Halstead", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.updatelinksoncopy", 
+    "Keywords:": "Plone Archetypes", 
+    "License:": "GPL", 
+    "Package Index Owner:": "matthalstead, dunny, hannosch"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Update links to child objects in TextFields and ReferenceFields when an Archetypes based object is copied and pasted", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "55a19b80960ffa6bae69f82b20e3083f", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.updatelinksoncopy/collective.updatelinksoncopy-1.0.zip"
+}

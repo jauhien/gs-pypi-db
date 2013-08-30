@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Search the text of source code in your Trac repositories (0.12 and up)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/MultiRepoSearchPlugin", 
+  "info": {
+    "Author:": "Ethan Jucovy", 
+    "Home Page:": "http://trac-hacks.org/wiki/MultiRepoSearchPlugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "Search the text of source code in your Trac repositories (0.12 and up)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b875f759c8eee6687df451bfd89c6f5c", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trac-MultiRepoSearchPlugin/trac-MultiRepoSearchPlugin-0.6.tar.gz"
+}

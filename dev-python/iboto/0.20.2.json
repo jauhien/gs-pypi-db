@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Amaon EC2 shell for managing multiple accounts and regions easily", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://loads.pickle.me.uk/iboto/", 
+  "info": {
+    "Author:": "Barnaby Gray", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://loads.pickle.me.uk/iboto/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "barnybug"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Amaon EC2 shell for managing multiple accounts and regions easily", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a415d6861e8d2a4f24ed69a4dc650684", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iboto/iboto-0.20.2.tar.gz"
+}

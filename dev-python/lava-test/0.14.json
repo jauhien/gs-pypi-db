@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LAVA test execution framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/lava-test", 
+  "info": {
+    "Author:": "Linaro Validation Team", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/lava-test", 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "terceiro, Paul.Larson, zyga, mwhudson, doanac"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "LAVA test execution framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7adee4ecdede509c6203107d5e8a6f96", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lava-test/lava-test-0.14.tar.gz"
+}

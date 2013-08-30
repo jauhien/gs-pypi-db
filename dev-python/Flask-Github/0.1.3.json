@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds support for authoriing users with Github to Flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jarodl/flask-github", 
+  "info": {
+    "Author:": "Jarod Luebbert", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jarodl/flask-github", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jarodl", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Adds support for authoriing users with Github to Flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "267104fa7518f0081b9c9ee900cccfaa", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Github/Flask-Github-0.1.3.tar.gz"
+}

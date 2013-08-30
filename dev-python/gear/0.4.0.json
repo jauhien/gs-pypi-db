@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python Async Gear Protocol Library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/gear", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//gear", 
+    "Home Page:": "http://pypi.python.org/pypi/gear", 
+    "Package Index Owner:": "openstackci, corvus"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Pure Python Async Gear Protocol Library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd8a80cd57d75ee56dcf7fc34e52b7a6", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gear/gear-0.4.0.tar.gz"
+}

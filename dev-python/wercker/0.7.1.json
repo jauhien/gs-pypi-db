@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "wercker command line interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://beta.wercker.com/", 
+  "info": {
+    "Author:": "jacco @ wercker", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://beta.wercker.com/", 
+    "Keywords:": "cli,command line", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "wercker"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "wercker command line interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9110b8506b199eaec63481316fe38b55", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wercker/wercker-0.7.1.tar.gz"
+}

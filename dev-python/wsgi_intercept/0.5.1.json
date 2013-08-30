@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "installs a WSGI application in place of a real URI for testing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/wsgi-intercept/", 
+  "info": {
+    "Author:": "Titus Brown, Kumar McMillan", 
+    "Home Page:": "http://code.google.com/p/wsgi-intercept/", 
+    "License:": "MIT License", 
+    "Package Index Maintainer:": "cdent", 
+    "Package Index Owner:": "kumar303, cdent"
+  }, 
+  "license": "", 
+  "longdescription": "installs a WSGI application in place of a real URI for testing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "162ce46c503ff70992d5f1395b7b693b", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgi_intercept/wsgi_intercept-0.5.1.tar.gz"
+}

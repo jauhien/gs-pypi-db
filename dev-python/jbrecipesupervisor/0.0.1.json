@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recipe for installing Supervisor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/multani/jb.recipe.supervisor", 
+  "info": {
+    "Author:": "Jonathan Ballet", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "https://github.com/multani/jb.recipe.supervisor", 
+    "Keywords:": "buildout recipe supervisor template", 
+    "License:": "BSD", 
+    "Package Index Owner:": "multani"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Recipe for installing Supervisor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8962b15b0b44877768a852929baa28e3", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jb.recipe.supervisor/jb.recipe.supervisor-0.0.1.tar.gz"
+}

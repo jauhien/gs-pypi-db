@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implements a MongoDB-backed session store for web.py", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/webpy-mongodb-sessions", 
+  "info": {
+    "Author:": "Steven Anderson", 
+    "Home Page:": "http://pypi.python.org/pypi/webpy-mongodb-sessions", 
+    "Keywords:": "web.py mongodb", 
+    "License:": "MIT", 
+    "Package Index Owner:": "magicbronson"
+  }, 
+  "license": "", 
+  "longdescription": "Implements a MongoDB-backed session store for web.py", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be2114b28b924e34f21bbf8188784d12", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webpy-mongodb-sessions/webpy-mongodb-sessions-0.2.2dev.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper for mutagen that uses consistent keys among various tagging formats", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/clee704/mutagenwrapper", 
+  "info": {
+    "Author:": "Choongmin Lee", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/clee704/mutagenwrapper", 
+    "Keywords:": "audio metadata tags", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "choongmin"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A wrapper for mutagen that uses consistent keys among various tagging formats", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf6b3db85dd807d9c9f6bd1f42530cb7", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mutagenwrapper/mutagenwrapper-0.0.3.tar.gz"
+}

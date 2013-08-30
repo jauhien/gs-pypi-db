@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Archetypes Field dealing with Plone Users and assign local roles.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/archetypes/MoreFieldsAndWidgets/UserField", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/archetypes/MoreFieldsAndWidgets/UserField", 
+    "Keywords:": "zope zope2 plone archetypes filed user", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jensens, rnix, ajung"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Archetypes Field dealing with Plone Users and assign local roles.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7efb78cd05d5e387b39d27f7f792f355", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.UserField/Products.UserField-2.0.tar.gz"
+}

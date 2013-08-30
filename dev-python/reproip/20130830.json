@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reproducibility tool for packing and unpacking experiments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Fernando Chirigati", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "fchirigati"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Reproducibility tool for packing and unpacking experiments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31b737bd439148de15e337527e8f824b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/reprozip/reprozip-0.1.0-beta.tar.gz"
+}

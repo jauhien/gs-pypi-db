@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Resiing and cropping images via Nginx, and cache the result", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/adw0rd/django-nginx-image", 
+  "info": {
+    "Author:": "Mikhail Andreev", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/adw0rd/django-nginx-image", 
+    "Keywords:": "django,nginx,image,resize,crop,cache", 
+    "License:": "BSD", 
+    "Package Index Owner:": "adw0rd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Resiing and cropping images via Nginx, and cache the result", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b6518120121c6bb0bdddb9a0c0b188b8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-nginx-image/django-nginx-image-0.3.tar.gz"
+}

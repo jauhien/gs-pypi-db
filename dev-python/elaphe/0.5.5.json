@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generates various barcodes using barcode.ps and PIL.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/whosaysni/elaphe", 
+  "info": {
+    "Author:": "Yasushi Masuda", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/whosaysni/elaphe", 
+    "Keywords:": "barcode convert postscript image graphics", 
+    "License:": "New BSD", 
+    "Package Index Owner:": "whosaysni"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generates various barcodes using barcode.ps and PIL.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ba7ca4a33f55bf164814dbaada0c4b0", 
+  "source_uri": "https://pypi.python.org/packages/source/e/elaphe/elaphe-0.5.5.tar.gz"
+}

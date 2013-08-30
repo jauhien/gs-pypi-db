@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integrates ClickBank digital products retailer system with Plone for paid memberships.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/niteoweb.clickbank", 
+  "info": {
+    "Author:": "NiteoWeb Ltd.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//niteoweb.clickbank", 
+    "Home Page:": "http://svn.plone.org/svn/collective/niteoweb.clickbank", 
+    "Keywords:": "plone clickbank", 
+    "License:": "GPL", 
+    "Package Index Owner:": "zupo"
+  }, 
+  "license": "", 
+  "longdescription": "Integrates ClickBank digital products retailer system with Plone for paid memberships.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4bb7654c94670b8cf2de0c3cfe5f459a", 
+  "source_uri": "https://pypi.python.org/packages/source/n/niteoweb.clickbank/niteoweb.clickbank-0.5.1.tar.gz"
+}

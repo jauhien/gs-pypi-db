@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Workflow mgmgt + task scheduling + dependency resolution", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/spotify/luigi", 
+  "info": {
+    "Author:": "Erik Bernhardsson", 
+    "Home Page:": "https://github.com/spotify/luigi", 
+    "Package Index Owner:": "erikbern"
+  }, 
+  "license": "", 
+  "longdescription": "Workflow mgmgt + task scheduling + dependency resolution", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f6a390a7d928f3866f13bd5be55a91d", 
+  "source_uri": "https://pypi.python.org/packages/source/l/luigi/luigi-1.0.10.tar.gz"
+}

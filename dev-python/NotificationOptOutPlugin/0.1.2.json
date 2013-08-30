@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allow users to opt-out from notifications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mitar.tnode.com/", 
+  "info": {
+    "Author:": "Mitar", 
+    "Home Page:": "http://mitar.tnode.com/", 
+    "Keywords:": "trac plugin", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "mitar"
+  }, 
+  "license": "", 
+  "longdescription": "Allow users to opt-out from notifications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7666ba9a8e9074ff66bf6753c1f525a2", 
+  "source_uri": "https://pypi.python.org/packages/source/N/NotificationOptOutPlugin/NotificationOptOutPlugin-0.1.2.tar.gz"
+}

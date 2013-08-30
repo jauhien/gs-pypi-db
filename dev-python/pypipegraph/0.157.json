@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A workflow (job) enginepipeline for bioinformatics and scientific computing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pypipegraph/", 
+  "info": {
+    "Author:": "Florian Finkernagel", 
+    "Home Page:": "http://code.google.com/p/pypipegraph/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ffinkernagel"
+  }, 
+  "license": "", 
+  "longdescription": "A workflow (job) enginepipeline for bioinformatics and scientific computing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ad9dccadd313eea6e3b04c7ff2ec333", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pypipegraph/pypipegraph-0.157.tar.gz"
+}

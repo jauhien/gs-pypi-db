@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HBase image storage for Thumbor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dhardy92/thumbor_hbase", 
+  "info": {
+    "Author:": "Damien Hardy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Graphics", 
+        "Presentation"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dhardy92/thumbor_hbase", 
+    "Keywords:": "thumbor,hbase,hadoop,images", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dhardy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "HBase image storage for Thumbor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c98fd01bac10f542cf3c0f30582aa99b", 
+  "source_uri": "https://pypi.python.org/packages/source/t/thumbor_hbase/thumbor_hbase-0.11.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper over Wldap32 Windows library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/icecrime/PyWldap", 
+  "info": {
+    "Author:": "Arnaud Porterie", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/icecrime/PyWldap", 
+    "Package Index Owner:": "icecrime"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper over Wldap32 Windows library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "68a212c4c526d502f8f0df099466b3ce", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyWldap/PyWldap-0.3.0.tar.gz"
+}

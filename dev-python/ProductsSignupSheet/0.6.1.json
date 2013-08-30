@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A signup sheet implementation for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/signupsheet", 
+  "info": {
+    "Author:": "Aaron VanDerlip and others", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Products.SignupSheet", 
+    "Home Page:": "http://plone.org/products/signupsheet", 
+    "Keywords:": "Archetypes Plone Zope Python PloneGov", 
+    "License:": "GPL2", 
+    "Maintainer:": "RedTurtle Technology", 
+    "Package Index Owner:": "alert, ajung, aaronv, deo, keul, massimo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A signup sheet implementation for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b0af18390ce2bfce6627ef3bd029186", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.SignupSheet/Products.SignupSheet-0.6.1.tar.gz"
+}

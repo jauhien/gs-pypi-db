@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool for setting up SSH tunnels.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/rfaulkner/tunneler", 
+  "info": {
+    "Author:": "Wikimedia Foundation", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.github.com/rfaulkner/tunneler", 
+    "Package Index Owner:": "rfaulkner"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Tool for setting up SSH tunnels.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c353df2d708af8377499522e9f5f7d52", 
+  "source_uri": "https://pypi.python.org/packages/source/s/ssh_tunneler/ssh_tunneler-0.1.1.tar.gz"
+}

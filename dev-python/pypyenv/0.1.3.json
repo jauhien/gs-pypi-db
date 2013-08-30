@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Install PyPy in virtualenv", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/boronine/pypyenv", 
+  "info": {
+    "Author:": "Alexei Boronine", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "http://github.com/boronine/pypyenv/downloads", 
+    "Home Page:": "http://github.com/boronine/pypyenv", 
+    "Keywords:": "pypy virtualenv", 
+    "License:": "MIT", 
+    "Package Index Owner:": "alexeiboronine"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Install PyPy in virtualenv", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://github.com/boronine/pypyenv/downloads"
+}

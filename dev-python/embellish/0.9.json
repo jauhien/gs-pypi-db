@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Static site generator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/boscoh/embellish", 
+  "info": {
+    "Author:": "Bosco Ho", 
+    "Home Page:": "http://github.com/boscoh/embellish", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Bosco.Ho"
+  }, 
+  "license": "", 
+  "longdescription": "Static site generator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1cc6526c520c9969d44968f1dad0dce", 
+  "source_uri": "https://pypi.python.org/packages/source/e/embellish/embellish-0.9.tar.gz"
+}

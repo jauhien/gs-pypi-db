@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An ORM for hdf5 using h5py for basic IO", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jbmohler/h5pom", 
+  "info": {
+    "Author:": "Joel B. Mohler", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/jbmohler/h5pom", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jbmohler"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An ORM for hdf5 using h5py for basic IO", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "34e76a1bd0260c77b02976de66f20f21", 
+  "source_uri": "https://pypi.python.org/packages/source/h/h5pom/h5pom-0.1.tar.gz"
+}

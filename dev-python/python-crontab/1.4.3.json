@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Crontab API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/python-crontab", 
+  "info": {
+    "Author:": "Martin Owens", 
+    "Bug Tracker:": "https://bugs.launchpad.net/python-crontab", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "SunOS/Solaris"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/python-crontab", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "doctormo", 
+    "Platform:": "linux"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Python Crontab API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1d6848d5f315438e58d88ef06e1e17ff", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-crontab/python-crontab-1.4.3.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JQuery Tools Integration for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.app.jquerytools", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.app.jquerytools", 
+    "Keywords:": "Plone JQuery", 
+    "License:": "GPL", 
+    "Package Index Owner:": "smcmahon"
+  }, 
+  "license": "", 
+  "longdescription": "JQuery Tools Integration for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec051faf542279e4cd37d4034aa576aa", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.jqtools/plone.app.jqtools-1.0.zip"
+}

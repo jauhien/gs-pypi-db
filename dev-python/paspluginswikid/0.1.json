@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is a WiKID Strong Authentication System Plugin for the ope2 Pluggable Authentication Service (PAS).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/pas.plugins.wikid", 
+  "info": {
+    "Author:": "Quintagroup", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/pas.plugins.wikid", 
+    "License:": "GPL", 
+    "Package Index Owner:": "quintagroup"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This is a WiKID Strong Authentication System Plugin for the ope2 Pluggable Authentication Service (PAS).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6350fc2cb52ea0d4255967313163407d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pas.plugins.wikid/pas.plugins.wikid-0.1.zip"
+}

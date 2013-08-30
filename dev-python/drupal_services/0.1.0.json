@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Some simple Python classes for interacting with the Drupal services module.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "David Snopek", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "License:": "MIT", 
+    "Package Index Owner:": "David.Snopek"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Some simple Python classes for interacting with the Drupal services module.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be47e529b8bf46f644dc6486295edd76", 
+  "source_uri": "https://pypi.python.org/packages/source/d/drupal_services/drupal_services-0.1.0.tar.gz"
+}

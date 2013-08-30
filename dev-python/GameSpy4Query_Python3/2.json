@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Server object to query game servers using the Gamespy4 Protocol or UT3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://c5gaming.com", 
+  "info": {
+    "Author:": "sifter", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation"
+      ], 
+      "Topic": [
+        "Games/Entertainment"
+      ]
+    }, 
+    "Home Page:": "http://c5gaming.com", 
+    "Keywords:": "gamespy arma2 DAYZ minecraft gamespy4 python3 ut3", 
+    "Package Index Owner:": "sifter"
+  }, 
+  "license": "", 
+  "longdescription": "Server object to query game servers using the Gamespy4 Protocol or UT3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79adfdcf1c838ec7e1b600ae76af7193", 
+  "source_uri": "https://pypi.python.org/packages/source/G/GameSpy4Query_Python3/gamespy4query-python3_v21.tar.gz"
+}

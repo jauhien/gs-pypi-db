@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Distributed BLAST for gene phylogeny estimation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bcbio.wordpress.com", 
+  "info": {
+    "Author:": "Brad Chapman", 
+    "Home Page:": "http://bcbio.wordpress.com", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chapmanb"
+  }, 
+  "license": "", 
+  "longdescription": "Distributed BLAST for gene phylogeny estimation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d0c32b0eef946b35ff005e42f92c9d23", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bcbio-phyloblast/bcbio-phyloblast-0.1.2.tar.gz"
+}

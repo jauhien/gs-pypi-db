@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Nagios check script for temperature monitoring using thermosnake hardware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gocept.com", 
+  "info": {
+    "Author:": "Daniel Havlik", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://gocept.com", 
+    "Keywords:": "nagios thermosnake", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mickey_is_back, DanielHavlikGocept"
+  }, 
+  "license": "", 
+  "longdescription": "Nagios check script for temperature monitoring using thermosnake hardware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e48a178b576eaa216023cf87e8793ea1", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.thermosnake/gocept.thermosnake-0.7.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for posting notifications to the Growl daemon", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://growl.info", 
+  "info": {
+    "Author:": "Mark Rowe", 
+    "Home Page:": "http://growl.info", 
+    "Package Index Owner:": "ccollins"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for posting notifications to the Growl daemon", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ae936fa66bd4c27c1af7856047c4e45", 
+  "source_uri": "https://pypi.python.org/packages/source/g/growl-py/growl-py-0.0.7.tar.gz"
+}

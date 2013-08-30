@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The goal of slc.dublettefinder is to find duplicate files (dublettes ) in the ODB and then warn the user via validation error during content editcreation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/slc.dublettefinder/", 
+  "info": {
+    "Author:": "JC Brand, Syslab.com GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/slc.dublettefinder/", 
+    "Keywords:": "dublettefinder dublette duplications", 
+    "License:": "GPL", 
+    "Package Index Owner:": "goibhniu, pilz, thomasw, jcbrand, do3cc"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "The goal of slc.dublettefinder is to find duplicate files (dublettes ) in the ODB and then warn the user via validation error during content editcreation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f25126088e2c0fb7c6be7fd2c548d521", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slc.dublettefinder/slc.dublettefinder-0.3.1.tar.gz"
+}

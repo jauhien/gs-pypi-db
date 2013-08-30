@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Real-time monitoring of Celery workers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/celery/celerymon/", 
+  "info": {
+    "Author:": "Ask Solem", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://github.com/celery/celerymon/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "mher, ask, smorin", 
+    "Package Index Owner:": "ask", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Real-time monitoring of Celery workers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8d8782ea699f7679f99ae3a1cfb59044", 
+  "source_uri": "https://pypi.python.org/packages/source/c/celerymon/celerymon-1.0.3.tar.gz"
+}

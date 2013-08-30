@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility that helps with local TCP ports managment. It can find an unused TCP localhost port and remember the association.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kmike/port-for/", 
+  "info": {
+    "Author:": "Mikhail Korobov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kmike/port-for/", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "kmike"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Utility that helps with local TCP ports managment. It can find an unused TCP localhost port and remember the association.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "42cda1d22dfaef1810c1987dc1c69f40", 
+  "source_uri": "https://pypi.python.org/packages/source/p/port-for/port-for-0.3.tar.gz"
+}

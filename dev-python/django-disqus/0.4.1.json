@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Export comments and integrate DISQUS into your Django website", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-disqus.readthedocs.org", 
+  "info": {
+    "Author:": "Arthur Koziel", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://django-disqus.readthedocs.org", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "arthurk"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Export comments and integrate DISQUS into your Django website", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b53604b119b998c71ad00aaaa09f8bd0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-disqus/django-disqus-0.4.1.tar.gz"
+}

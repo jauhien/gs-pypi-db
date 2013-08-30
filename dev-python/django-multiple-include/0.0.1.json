@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A version of { include } that accepts multiple template names.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fcurella/django-multiple-include", 
+  "info": {
+    "Author:": "Flavio Curella", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/fcurella/django-multiple-include", 
+    "License:": "MIT", 
+    "Package Index Owner:": "curella.org"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A version of { include } that accepts multiple template names.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a13ba864e5eb1855bd44365cdb3d9a6a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-multiple-include/django-multiple-include-0.0.1.tar.gz"
+}

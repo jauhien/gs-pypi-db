@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JSONStore is a lightweight database for JSON documents exposed through HTTP.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.dealmeida.net/jsonstore", 
+  "info": {
+    "Author:": "Roberto De Almeida", 
+    "Home Page:": "http://code.dealmeida.net/jsonstore", 
+    "License:": "MIT", 
+    "Package Index Owner:": "roberto"
+  }, 
+  "license": "", 
+  "longdescription": "JSONStore is a lightweight database for JSON documents exposed through HTTP.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75312e3431565a834b6075fa088e5afd", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jsonstore/jsonstore-1.3.1.tar.gz"
+}

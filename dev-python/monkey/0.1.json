@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package that provides tools for guerilla (monkey)-patching.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "malthe"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A package that provides tools for guerilla (monkey)-patching.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a19888a3e3fe507d67a6dc094077ac8f", 
+  "source_uri": "https://pypi.python.org/packages/source/m/monkey/monkey-0.1.tar.gz"
+}

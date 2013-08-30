@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XMPP support for Chandler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Morgen Sagen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Chandler"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Office/Business", 
+        "Groupware"
+      ]
+    }, 
+    "Package Index Maintainer:": "hamstar", 
+    "Package Index Owner:": "morgen"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "XMPP support for Chandler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e39d493a28718176a5ef5f070fe46d93", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Chandler-XmppPlugin/Chandler-XmppPlugin-0.8-r1761.tar.gz"
+}

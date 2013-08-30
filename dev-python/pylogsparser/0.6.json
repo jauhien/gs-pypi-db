@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A log parser library packaged with a set of ready to use parsers (DHCPd, Squid, Apache, ...)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.wallix.org/pylogsparser-project/", 
+  "info": {
+    "Author:": "Wallix", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Home Page:": "http://www.wallix.org/pylogsparser-project/", 
+    "Keywords:": "log parser xml library python", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "Wallix"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A log parser library packaged with a set of ready to use parsers (DHCPd, Squid, Apache, ...)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ad9980098f3cbab10537ab088111bb99", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pylogsparser/pylogsparser-0.6.tar.gz"
+}

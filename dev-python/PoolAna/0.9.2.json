@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Worker process pool based analysis framework for use with PyROOT.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/PoolAna/", 
+  "info": {
+    "Author:": "J.S. Wilson", 
+    "Home Page:": "http://pypi.python.org/pypi/PoolAna/", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "jsw"
+  }, 
+  "license": "", 
+  "longdescription": "Worker process pool based analysis framework for use with PyROOT.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1cf6ef339cb4f2af27a2e5049c15faf", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PoolAna/PoolAna-0.9.2.tar.gz"
+}

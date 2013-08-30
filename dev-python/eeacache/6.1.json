@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools and config for memcache related caching", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://eea.github.com/docs/eea.cache", 
+  "info": {
+    "Author:": "Alin Voinea (Eau de Web)", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 1.0 (MPL)"
+      ], 
+      "Programming Language": [
+        "Zope"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/eea.cache", 
+    "Home Page:": "http://eea.github.com/docs/eea.cache", 
+    "Keywords:": "eea cache memcache", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Alin.Voinea, eea"
+  }, 
+  "license": "Mozilla Public License 1.0 (MPL)", 
+  "longdescription": "Tools and config for memcache related caching", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba5012a75062cf6c141a7a18a61d62ad", 
+  "source_uri": "http://pypi.python.org/pypi/eea.cache"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hack to force use of wdb over pdb (Useful for thing like py.test --pdb)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Kozea/wdb", 
+  "info": {
+    "Author:": "Florian Mounier @ kozea", 
+    "Home Page:": "http://github.com/Kozea/wdb", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "Florian.Mounier"
+  }, 
+  "license": "", 
+  "longdescription": "Hack to force use of wdb over pdb (Useful for thing like py.test --pdb)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1dd00c213046855adf4241dba0c2ee32", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wdb_over_pdb/wdb_over_pdb-0.1.tar.gz"
+}

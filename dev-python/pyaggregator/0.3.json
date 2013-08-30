@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Handles the tedious portions of aggregating web log posts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Neil Blakey-Milner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "blog rss atom feed", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nbm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Handles the tedious portions of aggregating web log posts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba4b46ee499b55538c28e34691e2fce9", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyaggregator/pyaggregator-0.3.tar.gz"
+}

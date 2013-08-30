@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Support for applying monkey patches late in the startup cycle by using CML configuration actions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.monkeypatcher", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.monkeypatcher", 
+    "Keywords:": "zope monkey patch", 
+    "License:": "BSD", 
+    "Package Index Owner:": "davisagli, esteele, optilude, hannosch"
+  }, 
+  "license": "", 
+  "longdescription": "Support for applying monkey patches late in the startup cycle by using CML configuration actions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4d4f20f9b8bb84b24afadc4f56f6dc2c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.monkeypatcher/collective.monkeypatcher-1.0.1.zip"
+}

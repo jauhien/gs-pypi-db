@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pythonic wrapper around FFTW, the FFT library, presenting a unified interface for all the supported transforms.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hgomersall.github.com/pyFFTW/", 
+  "info": {
+    "Author:": "Henry Gomersall", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyFFTW", 
+    "Home Page:": "http://hgomersall.github.com/pyFFTW/", 
+    "Package Index Owner:": "heng"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A pythonic wrapper around FFTW, the FFT library, presenting a unified interface for all the supported transforms.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8dc47edcf9a82efa4d02347c3801058", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyFFTW/pyFFTW-0.9.0.tar.gz"
+}

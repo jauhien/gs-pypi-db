@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Special ThreadLock objects used in ope2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ThreadLock", 
+  "info": {
+    "Author:": "Zope Corporation and Contributors", 
+    "Home Page:": "http://pypi.python.org/pypi/ThreadLock", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "tseaver, ajung, hannosch"
+  }, 
+  "license": "", 
+  "longdescription": "Special ThreadLock objects used in ope2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3e646d4583bf29c66d44c8d256281ca1", 
+  "source_uri": "https://pypi.python.org/packages/source/T/ThreadLock/ThreadLock-2.13.0.zip"
+}

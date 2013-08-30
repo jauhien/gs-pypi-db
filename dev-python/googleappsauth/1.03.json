@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "googleappsauth authenticates Django Users against a Google Apps Domain", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/hudora/django-googleappsauth#readme", 
+  "info": {
+    "Author:": "Maximillian Dornseif", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/hudora/django-googleappsauth#readme", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mdornseif"
+  }, 
+  "license": "", 
+  "longdescription": "googleappsauth authenticates Django Users against a Google Apps Domain", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f42942d09e9ac33854936d4f191b304", 
+  "source_uri": "https://pypi.python.org/packages/source/g/googleappsauth/googleappsauth-1.03.tar.gz"
+}

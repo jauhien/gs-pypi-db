@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django module to support PGP encrypted and signed e-mails with attachments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.abnorm.org/projects/django-emailpgp/", 
+  "info": {
+    "Author:": "Faust", 
+    "Bug Tracker:": "https://github.com/faust/django-emailpgp/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://github.com/faust/django-emailpgp/downloads", 
+    "Home Page:": "https://www.abnorm.org/projects/django-emailpgp/", 
+    "Keywords:": "gpg pgp GnuPG encrypt sign verify django email", 
+    "License:": "GNU General Public License v3 or later (GPLv3+)", 
+    "Package Index Owner:": "faust", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Django module to support PGP encrypted and signed e-mails with attachments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "042fb1f8178f9bfd821a29c1033a8d0e", 
+  "source_uri": "https://github.com/faust/django-emailpgp/downloads"
+}

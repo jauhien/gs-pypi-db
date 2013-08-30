@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone4Artists audio abstraction library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.plone4artists.org/products/plone4artistsaudio", 
+  "info": {
+    "Author:": "Rocky Burt", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.plone4artists.org/products/plone4artistsaudio", 
+    "Keywords:": "Plone4Artists audio mp3 ogg podcasting podcast id3 music", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rockyburt, nateaune"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone4Artists audio abstraction library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a7cc96aa7666bcc11eef8221c48f46f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/p4a.audio/p4a.audio-1.1rc1.tar.gz"
+}

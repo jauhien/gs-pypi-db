@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app that will analye and report on links in any model that you register with it.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/andybak/django-linkcheck/", 
+  "info": {
+    "Author:": "Andy Baker", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/andybak/django-linkcheck/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ixxy"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app that will analye and report on links in any model that you register with it.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "881b65d3dfc54ed9e14e0400c6934eb9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-linkcheck/django-linkcheck-1.0.tar.gz"
+}

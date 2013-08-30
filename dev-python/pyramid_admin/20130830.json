@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "admin (CRUD) interface for pyramid framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Bug Tracker:": "https://github.com/appetito/pyramid_admin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Keywords:": "web pyramid sqlalchemy admin crud", 
+    "Package Index Owner:": "appetito"
+  }, 
+  "license": "", 
+  "longdescription": "admin (CRUD) interface for pyramid framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5803e182ca54c2216e7dd59ab7c1f89", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_admin/pyramid_admin-0.4.2dev.tar.gz"
+}

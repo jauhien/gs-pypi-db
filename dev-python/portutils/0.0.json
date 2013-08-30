@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Find processes given a port number and kill them", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jeff Hammel", 
+    "Keywords:": "opencore", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "Find processes given a port number and kill them", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e36960349b214cf794a0f9c16046694", 
+  "source_uri": "https://pypi.python.org/packages/source/p/portutils/portutils-0.0.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Retrieves common Windows folders as Unicode strings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ginstrom.com/code/winpaths.html", 
+  "info": {
+    "Author:": "Ryan Ginstrom", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://ginstrom.com/code/winpaths.html", 
+    "License:": "MIT", 
+    "Maintainer:": "Ryan Ginstrom", 
+    "Package Index Owner:": "ginstrom", 
+    "Platform:": "Win32"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Retrieves common Windows folders as Unicode strings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a877b45e05af7cc5a0f6677f72b0b03", 
+  "source_uri": "https://pypi.python.org/packages/source/w/winpaths/winpaths-0.1.zip"
+}

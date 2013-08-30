@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mercurial Python library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://selenic.com/repo/python-hglib", 
+  "info": {
+    "Author:": "Idan Kamara", 
+    "Home Page:": "http://selenic.com/repo/python-hglib", 
+    "License:": "MIT", 
+    "Package Index Owner:": "idank"
+  }, 
+  "license": "", 
+  "longdescription": "Mercurial Python library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61b7192731449e529d09014194dbcd7d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-hglib/python-hglib-1.0.tar.gz"
+}

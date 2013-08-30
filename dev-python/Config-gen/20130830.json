@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility to generate configuration files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rshk/config-gen", 
+  "info": {
+    "Author:": "Samuele Santi", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rshk/config-gen", 
+    "License:": "GNU General Public License v3 or later (GPLv3+)", 
+    "Package Index Owner:": "rshk"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Utility to generate configuration files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "74e88890e3e96022655fd3ad5551acba", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Config-gen/Config-gen-1.0-alpha6.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Import once all required js files from Django project templates at the end of generated html document for optimiation purpose.    Compatible with django-compressor.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/platypus-creation/jsrequirements", 
+  "info": {
+    "Author:": "Platypus Creation", 
+    "Home Page:": "https://github.com/platypus-creation/jsrequirements", 
+    "Package Index Owner:": "platypus"
+  }, 
+  "license": "", 
+  "longdescription": "Import once all required js files from Django project templates at the end of generated html document for optimiation purpose.    Compatible with django-compressor.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82118feae9e647557b26ae4d560197b0", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jsrequirements/jsrequirements-0.1.0.tar.gz"
+}

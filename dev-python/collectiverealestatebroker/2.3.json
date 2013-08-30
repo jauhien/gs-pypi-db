@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An easy and professional way to publish real estate objects on your Plone website", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/realestatebroker", 
+  "info": {
+    "Author:": "Zest software", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/realestatebroker", 
+    "Keywords:": "realestate makelaar plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "reinout, jladage, maurits, fredvd, markvl"
+  }, 
+  "license": "", 
+  "longdescription": "An easy and professional way to publish real estate objects on your Plone website", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bdbcd59f007e6ca8d427ae9045511042", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.realestatebroker/collective.realestatebroker-2.3.zip"
+}

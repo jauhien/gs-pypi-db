@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone add-on providing a simple solution to comply with the so called European Cookie Law.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tlspu.com/consultancy/cookiepolicy", 
+  "info": {
+    "Author:": "TLSPU", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.tlspu.com/consultancy/cookiepolicy", 
+    "Keywords:": "python plone zope cookie eu law", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "haqa"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone add-on providing a simple solution to comply with the so called European Cookie Law.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc3a7ef2a634219b8f554c808b0eb720", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tlspu.cookiepolicy/tlspu.cookiepolicy-1.1.3.tar.gz"
+}

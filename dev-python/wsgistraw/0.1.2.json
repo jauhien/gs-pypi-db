@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Decorators for WSGI without start_response and write", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://abstracthack.wordpress.com/wsgistraw", 
+  "info": {
+    "Author:": "Andrey Nordin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://abstracthack.wordpress.com/wsgistraw", 
+    "Keywords:": "wsgi decorator start_response write", 
+    "License:": "GNU LGPL", 
+    "Package Index Owner:": "anrienord"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Decorators for WSGI without start_response and write", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "70f49051741377d2ae4a3a6f7099812a", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgistraw/wsgistraw-0.1.2.zip"
+}

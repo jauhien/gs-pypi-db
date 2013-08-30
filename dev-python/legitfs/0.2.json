@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A read-only FUSE-based filesystem allowing you to browse git repositories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mbr/legitfs", 
+  "info": {
+    "Author:": "Marc Brinkmann", 
+    "Home Page:": "http://github.com/mbr/legitfs", 
+    "Keywords:": "git,fuse,filesystem,fs,read-only,readonly,legit,legitfs", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mbr"
+  }, 
+  "license": "", 
+  "longdescription": "A read-only FUSE-based filesystem allowing you to browse git repositories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e88e9d84b68a6a59d3fcda5c5646970", 
+  "source_uri": "https://pypi.python.org/packages/source/l/legitfs/legitfs-0.2.tar.gz"
+}

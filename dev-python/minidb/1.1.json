@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple SQLite3 store for Python objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://thp.io/2010/minidb/", 
+  "info": {
+    "Author:": "Thomas Perl", 
+    "Download URL:": "http://thp.io/2010/minidb/minidb-1.1.tar.gz", 
+    "Home Page:": "http://thp.io/2010/minidb/", 
+    "License:": "ISC", 
+    "Package Index Owner:": "thp"
+  }, 
+  "license": "", 
+  "longdescription": "A simple SQLite3 store for Python objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98265d1d7406925fc8e46a29ec0a69e9", 
+  "source_uri": "http://thp.io/2010/minidb/minidb-1.1.tar.gz"
+}

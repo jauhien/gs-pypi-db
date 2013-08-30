@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An XML-RPC client specially created for interfacing with a Plone site using the Web Services API for Plone (wsapi4plone).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://weblion.psu.edu/trac/weblion/wiki/WebServicesApiPlone", 
+  "info": {
+    "Author:": "WebLion Group, Penn State University", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.4"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://weblion.psu.edu/trac/weblion/wiki/WebServicesApiPlone", 
+    "Keywords:": "wsapi,api,xmlrpc,weblion", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pumazi"
+  }, 
+  "license": "", 
+  "longdescription": "An XML-RPC client specially created for interfacing with a Plone site using the Web Services API for Plone (wsapi4plone).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "324e3d1158c4dbb26c479d96dbe7d8e9", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsapi4plone.client/wsapi4plone.client-0.1a3.tar.gz"
+}

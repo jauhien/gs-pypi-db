@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pre-serialie model instances and querysets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bruth/django-preserialize/", 
+  "info": {
+    "Author:": "Byron Ruth", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bruth/django-preserialize/", 
+    "Keywords:": "serialize model queryset django", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bruth"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Pre-serialie model instances and querysets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23e8d5b26fc35593de776557e7d84ac4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-preserialize/django-preserialize-1.0.4.tar.gz"
+}

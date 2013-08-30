@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MailChimp-integration for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "plone rss mailchimp", 
+    "License:": "GPL", 
+    "Package Index Owner:": "malthe"
+  }, 
+  "license": "", 
+  "longdescription": "MailChimp-integration for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01e721b4cab460e4f3debcbe473ba2db", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.chimpfeed/collective.chimpfeed-1.9.8.tar.gz"
+}

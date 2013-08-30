@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper of argparse that helps to build command line tools with minimal effort.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/m1m0r1/argtools.py", 
+  "info": {
+    "Author:": "Takahiro Mimori", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/m1m0r1/argtools.py", 
+    "Keywords:": "argparse subcommand command cli", 
+    "Package Index Owner:": "m1m0r1"
+  }, 
+  "license": "", 
+  "longdescription": "A wrapper of argparse that helps to build command line tools with minimal effort.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a166002322c9a0d8f60cabbd1429b3a7", 
+  "source_uri": "https://pypi.python.org/packages/source/a/argtools/argtools-0.1.2.tar.gz"
+}

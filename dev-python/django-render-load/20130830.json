@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django template tags render_object and load_object grouped together.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alexander Pugachev", 
+    "Keywords:": "django template", 
+    "Package Index Owner:": "peroksid"
+  }, 
+  "license": "", 
+  "longdescription": "Django template tags render_object and load_object grouped together.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69350b6b4507dc9e3fd574db95058d30", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-render-load/django-render-load-0.0dev.tar.gz"
+}

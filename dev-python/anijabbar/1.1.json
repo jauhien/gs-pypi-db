@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integrate iJab(an open source XMPP web chat client recommended by xmpp.org) to your plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/anz.ijabbar/", 
+  "info": {
+    "Author:": "jiangdongjin", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/anz.ijabbar/", 
+    "Keywords:": "plone xmpp web chat", 
+    "License:": "GPL", 
+    "Package Index Owner:": "eastxing"
+  }, 
+  "license": "", 
+  "longdescription": "Integrate iJab(an open source XMPP web chat client recommended by xmpp.org) to your plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dbe70f984fd7564cf98d16566f789e7a", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anz.ijabbar/anz.ijabbar-1.1.tar.gz"
+}

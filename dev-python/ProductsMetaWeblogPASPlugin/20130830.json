@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enables user authentication for the MetaWeblogAPI", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/quills", 
+  "info": {
+    "Author:": "Quills Team", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/quills", 
+    "Keywords:": "plone blogging metaweblog", 
+    "License:": "GPL", 
+    "Package Index Owner:": "tim2p"
+  }, 
+  "license": "", 
+  "longdescription": "Enables user authentication for the MetaWeblogAPI", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "63e7194cd4c45aace7ce9d21022340cd", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.MetaWeblogPASPlugin/Products.MetaWeblogPASPlugin-1.0.0b2.zip"
+}

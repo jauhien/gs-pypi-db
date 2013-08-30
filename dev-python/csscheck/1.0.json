@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple command line tool to help CSS developers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Vincent Pretre (Zest software)", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vincentpretre, maurits, markvl, fredvd"
+  }, 
+  "license": "", 
+  "longdescription": "Simple command line tool to help CSS developers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f1cb3928a0f77a43109e95a20c24a07", 
+  "source_uri": "https://pypi.python.org/packages/source/c/csscheck/csscheck-1.0.zip"
+}

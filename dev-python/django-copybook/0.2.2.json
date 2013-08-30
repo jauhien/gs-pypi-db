@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert Objects and Django models tofrom fixed format records.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/imtapps/django-copybook", 
+  "info": {
+    "Author:": "Matthew J. Morrison", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/imtapps/django-copybook", 
+    "Package Index Owner:": "mattjmorrison, imtapps"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Convert Objects and Django models tofrom fixed format records.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2dc7679a7c68c8dbb3e6d320e09ac87e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-copybook/django-copybook-0.2.2.tar.gz"
+}

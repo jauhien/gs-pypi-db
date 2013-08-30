@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to the Erma SSI1417 card.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.andre-bell.de/en/projects/pyermassi", 
+  "info": {
+    "Author:": "Andre Alexander Bell", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Hardware", 
+        "Hardware Drivers"
+      ]
+    }, 
+    "Download URL:": "http://www.andre-bell.de/en/projects/pyermassi/downloads", 
+    "Home Page:": "http://www.andre-bell.de/en/projects/pyermassi", 
+    "Keywords:": "SSI,synchronous serial interface,ermassi", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pygraham"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python interface to the Erma SSI1417 card.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.andre-bell.de/en/projects/pyermassi/downloads"
+}

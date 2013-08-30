@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django template tag for embedding Mustache.js templates safely.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mjumbewu/django-mustachejs/", 
+  "info": {
+    "Author:": "Mjumbe Wawatu Ukweli", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mjumbewu/django-mustachejs/", 
+    "Package Index Owner:": "mjumbewu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django template tag for embedding Mustache.js templates safely.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ca2cc492849fe42d97eee1214d290ec", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mustachejs/django-mustachejs-0.8.3-eol.tar.gz"
+}

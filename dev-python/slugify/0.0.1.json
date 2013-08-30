@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A generic slugifier.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zacharyvoase/slugify", 
+  "info": {
+    "Author:": "Zachary Voase", 
+    "Home Page:": "http://github.com/zacharyvoase/slugify", 
+    "Package Index Owner:": "disturbyte"
+  }, 
+  "license": "", 
+  "longdescription": "A generic slugifier.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "557a7e401ea3c9716d29389c56cf82c5", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slugify/slugify-0.0.1.tar.gz"
+}

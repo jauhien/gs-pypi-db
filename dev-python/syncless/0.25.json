@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Syncless asynchronous client and server library using Stackless Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/syncless/", 
+  "info": {
+    "Author:": "Peter Szabo", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://syncless.googlecode.com/files/syncless-0.25.tar.gz", 
+    "Home Page:": "http://code.google.com/p/syncless/", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "pts", 
+    "Platform:": "Unix"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Syncless asynchronous client and server library using Stackless Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://syncless.googlecode.com/files/syncless-0.25.tar.gz"
+}

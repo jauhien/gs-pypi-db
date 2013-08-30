@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "tool for versioning system files and directories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://codespeak.net/vadm", 
+  "info": {
+    "Author:": "holger krekel, merlinux GmbH", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://codespeak.net/vadm", 
+    "License:": "GPL V3", 
+    "Package Index Owner:": "hpk"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "tool for versioning system files and directories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a79cda52c692a45c3ee842c3ec9a079f", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vadm/vadm-0.6.3.zip"
+}

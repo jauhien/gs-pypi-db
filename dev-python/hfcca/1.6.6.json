@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "source_analyer is a simple code complexity source_file_counter without caring about the CC++ header files.It can deal with CC++Objective C  TNSDL code. It count the NLOC (lines of code without comments), CCN (cyclomatic complexity number) and token count of _functions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/terryyin/hfcca", 
+  "info": {
+    "Author:": "Terry Yin", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "Freeware"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Quality Assurance"
+      ]
+    }, 
+    "Home Page:": "https://github.com/terryyin/hfcca", 
+    "Package Index Owner:": "Terry.Yin"
+  }, 
+  "license": "Freeware", 
+  "longdescription": "source_analyer is a simple code complexity source_file_counter without caring about the CC++ header files.It can deal with CC++Objective C  TNSDL code. It count the NLOC (lines of code without comments), CCN (cyclomatic complexity number) and token count of _functions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c23643124c4619685e4d0ff8c20de794", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hfcca/hfcca-1.6.6.tar.gz"
+}

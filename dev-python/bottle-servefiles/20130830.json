@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A reusable app that serves static files for bottle apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/rudylattae/bottle-servefiles", 
+  "info": {
+    "Author:": "Rudy Lattae", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/rudylattae/bottle-servefiles", 
+    "Keywords:": "bottle,bottle.py,static,file,files,web,app", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "rudylattae"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A reusable app that serves static files for bottle apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f0f2e2df7cd99858d58abefb26eb6a3", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bottle-servefiles/bottle-servefiles-0.1.2dev.zip"
+}

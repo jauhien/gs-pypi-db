@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Custom CSS and JS injection for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/customoverrides/", 
+  "info": {
+    "Author:": "Goldmund, Wyldebeast & Wunderliebe", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/customoverrides/", 
+    "Keywords:": "Plone custom CSS JS", 
+    "Package Index Owner:": "khink, huub, puittenbroek, helmantel, kcleong"
+  }, 
+  "license": "", 
+  "longdescription": "Custom CSS and JS injection for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b03a970c65cb3df6a4838751e2272167", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.CustomOverrides/Products.CustomOverrides-1.0.3.zip"
+}

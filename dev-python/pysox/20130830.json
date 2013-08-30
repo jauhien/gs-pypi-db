@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for sox and libsox.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://foo42.de/wiki/pysox", 
+  "info": {
+    "Author:": "Patrick Atamaniuk", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pysox", 
+    "Download URL:": "http://foo42.de/devel/pysox/dist/pysox-0.3.6.alpha.tar.gz", 
+    "Home Page:": "http://foo42.de/wiki/pysox", 
+    "License:": "BSD", 
+    "Package Index Owner:": "patamani", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python bindings for sox and libsox.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08c6eed8ff29f1b6756558cf545fe3be", 
+  "source_uri": "http://foo42.de/devel/pysox/dist/pysox-0.3.6.alpha.tar.gz"
+}

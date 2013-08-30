@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fixes some problems with Unicode text after the fact", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/LuminosoInsight/python-ftfy", 
+  "info": {
+    "Author:": "Luminoso, LLC", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Filters"
+      ]
+    }, 
+    "Home Page:": "http://github.com/LuminosoInsight/python-ftfy", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rspeer", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Fixes some problems with Unicode text after the fact", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "438303f855820fbd80b265576484f16b", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftfy/ftfy-3.0.tar.gz"
+}

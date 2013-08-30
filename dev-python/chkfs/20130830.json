@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A commandline tool for storing filesystems inside a chkstore.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nejucomo/chkfs", 
+  "info": {
+    "Author:": "Nathan Wilcox", 
+    "Home Page:": "https://bitbucket.org/nejucomo/chkfs", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "nejucomo"
+  }, 
+  "license": "", 
+  "longdescription": "A commandline tool for storing filesystems inside a chkstore.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0e81b5fe4aabdf5466ff18c6c4509106", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chkfs/chkfs-0.990c613daa19960e8a900cbffc5472e44282b6f1.tar.gz"
+}

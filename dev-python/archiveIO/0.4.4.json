@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convenience decorators for reading and writing to compressed archives", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/invisibleroads/archiveIO", 
+  "info": {
+    "Author:": "Roy Hyunjin Han", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/invisibleroads/archiveIO", 
+    "Keywords:": "zip tar.gz tar.bz2 tar", 
+    "License:": "MIT", 
+    "Package Index Owner:": "invisibleroads"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Convenience decorators for reading and writing to compressed archives", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec4c09fe82965ab6af653aab7d4f794f", 
+  "source_uri": "https://pypi.python.org/packages/source/a/archiveIO/archiveIO-0.4.4.tar.gz"
+}

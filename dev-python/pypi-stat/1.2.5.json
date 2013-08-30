@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "solution for getting packages stat, and graphing them", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jul/pypi-stat", 
+  "info": {
+    "Author:": "Julien Tayon", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pypi-stat", 
+    "Home Page:": "https://github.com/jul/pypi-stat", 
+    "Package Index Owner:": "julien.tayon"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "solution for getting packages stat, and graphing them", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ca03c87c70dc8d4c28af8d927ae2506", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pypi-stat/pypi-stat-1.2.5.tar.gz"
+}

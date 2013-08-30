@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "general package for testing and debugging aids for CMF, Plone, ope2 and ope3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.testing/trunk#egg=collective.testing", 
+  "info": {
+    "Author:": "whit", 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.testing/trunk#egg=collective.testing", 
+    "Keywords:": "'testing debug pdb profile zope.testing'", 
+    "License:": "MIT", 
+    "Package Index Owner:": "whitmo"
+  }, 
+  "license": "", 
+  "longdescription": "general package for testing and debugging aids for CMF, Plone, ope2 and ope3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e09ec6a8311477c7af8a8c8c69c80018", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.testing/collective.testing-0.3.tar.gz"
+}

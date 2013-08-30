@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tiny Django app for checking over your error pages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dominicrodger/djohno", 
+  "info": {
+    "Author:": "Dominic Rodger", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dominicrodger/djohno", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dominicrodger"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A tiny Django app for checking over your error pages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b356fd1e4148857d57d29b768c0859c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djohno/djohno-0.1.6.tar.gz"
+}

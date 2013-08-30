@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Private pastebin (server-side implementation)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ownpaste.rtfd.org/", 
+  "info": {
+    "Author:": "Rafael G. Martins", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://ownpaste.rtfd.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rafaelmartins"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Private pastebin (server-side implementation)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec3562154569968af3dfe04b1acfa1a0", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ownpaste/ownpaste-0.2.2.tar.gz"
+}

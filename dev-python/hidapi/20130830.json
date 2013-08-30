@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Cython interface to the hidapi from httpsgithub.comsignal11hidapi", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gbishop/cython-hidapi", 
+  "info": {
+    "Author:": "gbishop", 
+    "Categories": {
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "https://github.com/gbishop/cython-hidapi", 
+    "Package Index Owner:": "slush"
+  }, 
+  "license": "", 
+  "longdescription": "A Cython interface to the hidapi from httpsgithub.comsignal11hidapi", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e2739ae22ea057f0d487e2d199510daf", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hidapi/hidapi-0.7.0-1.tar.gz"
+}

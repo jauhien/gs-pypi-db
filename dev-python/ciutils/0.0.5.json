@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helpers to use in CI environments (e.g. use xmlrunner together with test command)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Olemis Lang", 
+    "Package Index Owner:": "olemis"
+  }, 
+  "license": "", 
+  "longdescription": "Helpers to use in CI environments (e.g. use xmlrunner together with test command)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e90bf7d7eb58ff514b5db6fd1db669a7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/ciutils/ciutils-0.0.5.tar.gz"
+}

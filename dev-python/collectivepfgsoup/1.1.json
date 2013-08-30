@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PloneFormGen Addon Store Data, ShowSearch, Edit, CSV-export (based on souper.soup)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pypi.python.org/pypi/collective.pfg.soup", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://pypi.python.org/pypi/collective.pfg.soup", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "rnix, jensens"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "PloneFormGen Addon Store Data, ShowSearch, Edit, CSV-export (based on souper.soup)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8b90a821fbb6c05f933ef6fcd6ead12", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.pfg.soup/collective.pfg.soup-1.1.tar.gz"
+}

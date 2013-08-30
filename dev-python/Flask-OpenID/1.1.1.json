@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenID support for Flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mitsuhiko/flask-openid/", 
+  "info": {
+    "Author:": "Armin Ronacher", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Flask-OpenID", 
+    "Home Page:": "http://github.com/mitsuhiko/flask-openid/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mitsuhiko", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "OpenID support for Flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3205300ed9ecb2881570bce0a2dd6359", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-OpenID/Flask-OpenID-1.1.1.tar.gz"
+}

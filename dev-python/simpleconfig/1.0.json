@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dead simple configuration file parser.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://kisom.github.com/pysimpleconfig", 
+  "info": {
+    "Author:": "Kyle Isom", 
+    "Home Page:": "http://kisom.github.com/pysimpleconfig", 
+    "License:": "ISC", 
+    "Package Index Owner:": "kyleisom"
+  }, 
+  "license": "", 
+  "longdescription": "Dead simple configuration file parser.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3495309bc03a8a319ebdca7185ef5035", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simpleconfig/simpleconfig-1.0.tar.gz"
+}

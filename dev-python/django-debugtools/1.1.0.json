@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A toolbox of small utilities to assist Django development", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/edoburu/django-debugtools", 
+  "info": {
+    "Author:": "Diederik van der Boor", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Debuggers"
+      ]
+    }, 
+    "Download URL:": "https://github.com/edoburu/django-debugtools/zipball/master", 
+    "Home Page:": "https://github.com/edoburu/django-debugtools", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "vdboor"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A toolbox of small utilities to assist Django development", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "833845d2f8817091ac54b6b73efe65e3", 
+  "source_uri": "https://github.com/edoburu/django-debugtools/zipball/master"
+}

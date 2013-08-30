@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Filesystem access to the DataONE Workspace", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dataone.org", 
+  "info": {
+    "Author:": "DataONE Project", 
+    "Documentation:": "http://pythonhosted.org//dataone.onedrive", 
+    "Home Page:": "http://dataone.org", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "dataone"
+  }, 
+  "license": "", 
+  "longdescription": "Filesystem access to the DataONE Workspace", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2bfccdb23fea1e728ef0fe8076bd55dd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dataone.onedrive/dataone.onedrive-2.0.0RC1.tar.gz"
+}

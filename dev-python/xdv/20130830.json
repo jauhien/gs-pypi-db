@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XDV implements a subset of Deliverance using a pure XSLT engine. With XDV, youcompile your theme and ruleset in one step, then use a superfastsimpletransform on each request thereafter. Alternatively, compile your theme duringdevelopment, check it into Subversion, and not touch XDV during deployment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Paul Everitt, Laurence Rowe and Martin Aspeli.", 
+    "License:": "New BSD", 
+    "Package Index Owner:": "laurencerowe, optilude"
+  }, 
+  "license": "", 
+  "longdescription": "XDV implements a subset of Deliverance using a pure XSLT engine. With XDV, youcompile your theme and ruleset in one step, then use a superfastsimpletransform on each request thereafter. Alternatively, compile your theme duringdevelopment, check it into Subversion, and not touch XDV during deployment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d05c27f0a6dffb63dfa09b392c12cfba", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xdv/xdv-0.4b3.tar.gz"
+}

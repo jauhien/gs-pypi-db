@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/thomst/timeparse", 
+  "info": {
+    "Author:": "Thomas Leichtfuss", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Download URL:": "https://pypi.python.org/packages/source/t/timeparse/timeparse-0.5.4.tar.gz", 
+    "Home Page:": "https://github.com/thomst/timeparse", 
+    "Keywords:": "parser parse datetime time strings", 
+    "License:": "GPL", 
+    "Package Index Owner:": "thomst"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "An argparse-extension for parsing command-line arguments as time-, date-, datetime-, or timedelta-objects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "248ed8f4bbb03f83ddf13ad5327aa1dc", 
+  "source_uri": "https://pypi.python.org/packages/source/t/timeparse/timeparse-0.5.4.tar.gz"
+}

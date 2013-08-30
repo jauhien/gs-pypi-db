@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django middleware for unhandled AJAX errors", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/yaniv-aknin/django-ajaxerrors", 
+  "info": {
+    "Author:": "Yaniv Aknin", 
+    "Home Page:": "http://github.com/yaniv-aknin/django-ajaxerrors", 
+    "Keywords:": "django ajax middleware", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Yaniv.Aknin"
+  }, 
+  "license": "", 
+  "longdescription": "Django middleware for unhandled AJAX errors", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b6d184345c1accbf56b65e44c8130e0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ajaxerrors/django-ajaxerrors-1.1.tar.gz"
+}

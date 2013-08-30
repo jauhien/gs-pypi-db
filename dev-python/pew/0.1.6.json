@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "tools to manage multiple virtualenvs written in pure python, a virtualenvwrapper rewrite", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/berdario/invewrapper", 
+  "info": {
+    "Author:": "Dario Bertini", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/berdario/invewrapper", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "berdario"
+  }, 
+  "license": "", 
+  "longdescription": "tools to manage multiple virtualenvs written in pure python, a virtualenvwrapper rewrite", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da7321790d3933a7131cda6c64050eb3", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pew/pew-0.1.6.tar.gz"
+}

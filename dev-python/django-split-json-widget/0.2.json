@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a widget that renders JSON data as separate, editable inputs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/abbasovalex/django-SplitJSONWidget-form", 
+  "info": {
+    "Author:": "Alexander Abbasov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/abbasovalex/django-SplitJSONWidget-form", 
+    "License:": "MIT", 
+    "Package Index Owner:": "abbasovalex", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Provides a widget that renders JSON data as separate, editable inputs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d0f80383fbd0e8c8d8f50e9ad7721569", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-split-json-widget/django-split-json-widget-0.2.tar.gz"
+}

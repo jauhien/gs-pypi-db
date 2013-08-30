@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "mykvm is a vagrant like tool to create multiple kvm instances", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/scottchoi/mykvm", 
+  "info": {
+    "Author:": "Scott Choi", 
+    "Home Page:": "https://github.com/scottchoi/mykvm", 
+    "Keywords:": "kvm vmbuilder qemu-imge virt-install", 
+    "License:": "PSF", 
+    "Package Index Owner:": "scottchoi"
+  }, 
+  "license": "", 
+  "longdescription": "mykvm is a vagrant like tool to create multiple kvm instances", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87fd0f16940be3e6ea5316c5cf0859df", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mykvm/mykvm-0.3.7.tar.gz"
+}

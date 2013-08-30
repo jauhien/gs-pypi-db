@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Api and command line client for Bookie", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.bmark.us", 
+  "info": {
+    "Author:": "Rick Harding", 
+    "Home Page:": "http://docs.bmark.us", 
+    "Keywords:": "bookmarks api client command line", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "mitechie"
+  }, 
+  "license": "", 
+  "longdescription": "Api and command line client for Bookie", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8f18dfd1c4dd4397b2b62fa88eb9f05", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bookie_api/bookie_api-0.4.7.tar.gz"
+}

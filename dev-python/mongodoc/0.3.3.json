@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates a uml-like diagram for a nested mongodb document", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cswank/mongodoc", 
+  "info": {
+    "Author:": "Craig Swank", 
+    "Home Page:": "https://github.com/cswank/mongodoc", 
+    "Keywords:": "mongodb database schema documentation", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "cswank"
+  }, 
+  "license": "", 
+  "longdescription": "Creates a uml-like diagram for a nested mongodb document", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c627761b50e36258bd32cf326dc422a2", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mongodoc/mongodoc-0.3.3.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of test helpers, additional assertions, and the like.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.gocept.com/hg/public/gocept.testing", 
+  "info": {
+    "Author:": "Wolfgang Schnerring <ws at gocept dot com>", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://code.gocept.com/hg/public/gocept.testing", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ckauhaus, ctheune, DanielHavlikGocept, sweh, zagy, wosc, icemac, tlotze"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A collection of test helpers, additional assertions, and the like.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c91c25831f01a63fb2ba57cc3f2bb0aa", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.testing/gocept.testing-1.8.tar.gz"
+}

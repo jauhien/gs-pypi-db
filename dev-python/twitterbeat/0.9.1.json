@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for follow one user from twitter with daemon mode.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/valdergallo/twitterbeat", 
+  "info": {
+    "Author:": "valdergallo", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/valdergallo/twitterbeat", 
+    "Keywords:": "python django twitter follow subprocess daemon", 
+    "License:": "MIT", 
+    "Package Index Owner:": "valdergallo"
+  }, 
+  "license": "", 
+  "longdescription": "A library for follow one user from twitter with daemon mode.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bbb2fd10b5e50afa99c1929f5fdb4e3a", 
+  "source_uri": "https://pypi.python.org/packages/source/t/twitterbeat/twitterbeat-0.9.1.tar.gz"
+}

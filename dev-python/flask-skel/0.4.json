@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Basic Flask paster skeleton template", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/eka/flask-skel/", 
+  "info": {
+    "Author:": "Esteban Feldman", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/eka/flask-skel/", 
+    "Keywords:": "wsgi,flask,web development,mongoengine,paster", 
+    "License:": "BSD", 
+    "Package Index Owner:": "eka"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Basic Flask paster skeleton template", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e226d5eb596d8f778d6a492f943c09c", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flask-skel/flask-skel-0.4.tar.gz"
+}

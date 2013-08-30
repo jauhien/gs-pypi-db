@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pluggable command-line frontend, including commands to setup package file layouts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonpaste.org/script/", 
+  "info": {
+    "Author:": "Ian Bicking", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pythonpaste.org/script/", 
+    "Keywords:": "web wsgi setuptools framework command-line setup", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ianb"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A pluggable command-line frontend, including commands to setup package file layouts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c72d78dcb6bb993f30536842c16af4d", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PasteScript/PasteScript-1.7.5.tar.gz"
+}

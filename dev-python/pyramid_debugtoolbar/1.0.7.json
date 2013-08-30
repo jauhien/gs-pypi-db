@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package which provides an interactive HTML debugger for Pyramid application development", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.pylonsproject.org", 
+  "info": {
+    "Author:": "Chris McDonough, Michael Merickel, Casey Duncan, Blaise Laflamme", 
+    "Categories": {
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://docs.pylonsproject.org", 
+    "Keywords:": "wsgi pylons pyramid transaction", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "blaflamme", 
+    "Package Index Owner:": "blaflamme, chrism"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "A package which provides an interactive HTML debugger for Pyramid application development", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c1ea9b0fc8938a2bec1e36f15ad6c3cb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_debugtoolbar/pyramid_debugtoolbar-1.0.7.tar.gz"
+}

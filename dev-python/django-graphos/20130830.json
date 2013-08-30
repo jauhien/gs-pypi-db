@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app to provide a JS agnostic way to work with charts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/agiliq/django-graphos", 
+  "info": {
+    "Author:": "Agiliq", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/agiliq/django-graphos", 
+    "License:": "BSD", 
+    "Package Index Owner:": "shabda"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django app to provide a JS agnostic way to work with charts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0ef2a4d9882972148df66b2332c1a6f1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-graphos/django-graphos-0.0.2a0.tar.gz"
+}

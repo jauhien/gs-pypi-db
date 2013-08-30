@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Publish-Subscribe framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jldupont/pysubpub", 
+  "info": {
+    "Author:": "Jean-Lou Dupont", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jldupont/pysubpub", 
+    "Package Index Owner:": "jldupont"
+  }, 
+  "license": "", 
+  "longdescription": "Publish-Subscribe framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "93d89447e523d9b8e97c6749ab411c12", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysubpub/pysubpub-0.2.0.tar.gz"
+}

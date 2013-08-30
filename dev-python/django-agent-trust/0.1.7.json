@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A framework for managing agent trust, such as public vs. private computers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/psagers/django-agent-trust", 
+  "info": {
+    "Author:": "Peter Sagerson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-agent-trust", 
+    "Home Page:": "https://bitbucket.org/psagers/django-agent-trust", 
+    "License:": "BSD", 
+    "Package Index Owner:": "psagers"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A framework for managing agent trust, such as public vs. private computers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "92aab754a330a5aa666d893cf8b82b05", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-agent-trust/django-agent-trust-0.1.7.tar.gz"
+}

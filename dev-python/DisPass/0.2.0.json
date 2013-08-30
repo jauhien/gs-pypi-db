@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Password manager for GNULinux, BSD, MacOS X and Windows.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dispass.babab.nl/", 
+  "info": {
+    "Author:": "Benjamin Althues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/DisPass/", 
+    "Home Page:": "http://dispass.babab.nl/", 
+    "License:": "ISC", 
+    "Package Index Owner:": "babab", 
+    "Platform:": "any"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Password manager for GNULinux, BSD, MacOS X and Windows.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7cd80e7130f0228b8bf446b544e7ceca", 
+  "source_uri": "http://pypi.python.org/pypi/DisPass/"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python object-oriented interface for ImageMagick using ctypes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tailhook/magickpy", 
+  "info": {
+    "Author:": "Paul Colomiets", 
+    "Home Page:": "http://github.com/tailhook/magickpy", 
+    "Keywords:": "imagemagick ctypes image manipulation crop resize retouch", 
+    "License:": "MIT", 
+    "Package Index Owner:": "PC"
+  }, 
+  "license": "", 
+  "longdescription": "Python object-oriented interface for ImageMagick using ctypes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd30c7baf7272eae05f139ce40d145ff", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MagickPy/MagickPy-0.3.tar.gz"
+}

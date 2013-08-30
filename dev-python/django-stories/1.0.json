@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An application for handling newspaper-like stories on a web site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/callowayproject/django-stories/", 
+  "info": {
+    "Author:": "Calloway Project", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/callowayproject/django-stories/", 
+    "Package Index Owner:": "coordt, washtimes, jsoa"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "An application for handling newspaper-like stories on a web site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e042ad73bdaa31b3b1f671d77e72d835", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-stories/django-stories-1.0.tar.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An  alternative calendar portlet for the Plone Monet Calendar events suite", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/monet.calendar.star", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/monet.calendar.star", 
+    "Keywords:": "plone plonegov calendar event monet", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "mirof", 
+    "Package Index Owner:": "keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "An  alternative calendar portlet for the Plone Monet Calendar events suite", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b4b94e262146b2a18f60fdc239e6543", 
+  "source_uri": "https://pypi.python.org/packages/source/m/monet.calendar.portlet/monet.calendar.portlet-0.3.0.tar.gz"
+}

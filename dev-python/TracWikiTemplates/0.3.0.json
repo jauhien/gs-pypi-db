@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trac Plugin to pre-format parts of the Wiki page using it", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wikitemplates.ufsoft.org", 
+  "info": {
+    "Author:": "Pedro Algarvio", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://python.org/pypi/TracWikiTemplates", 
+    "Home Page:": "http://wikitemplates.ufsoft.org", 
+    "License:": "BSD", 
+    "Package Index Owner:": "s0undt3ch", 
+    "Platform:": "OS Independent - Anywhere Python and Trac >=0.10 is known to run."
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Trac Plugin to pre-format parts of the Wiki page using it", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b5753b012467a0aa0d6a1f45bb52fe6", 
+  "source_uri": "http://python.org/pypi/TracWikiTemplates"
+}

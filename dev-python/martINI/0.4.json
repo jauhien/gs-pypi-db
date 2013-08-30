@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "edit .ini files from the command line", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://k0s.org/hg/martINI", 
+  "info": {
+    "Author:": "Jeff Hammel", 
+    "Home Page:": "http://k0s.org/hg/martINI", 
+    "Keywords:": "ini cli", 
+    "License:": "GPL", 
+    "Package Index Owner:": "k0s"
+  }, 
+  "license": "", 
+  "longdescription": "edit .ini files from the command line", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "356f4943bff2411493563642ddd48eae", 
+  "source_uri": "https://pypi.python.org/packages/source/m/martINI/martINI-0.4.tar.gz"
+}

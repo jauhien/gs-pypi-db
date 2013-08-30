@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a Pythonic interface to IRAF.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stsci.edu/resources/software_hardware/pyraf", 
+  "info": {
+    "Home Page:": "http://www.stsci.edu/resources/software_hardware/pyraf", 
+    "Maintainer:": "Chris Sontag", 
+    "Package Index Owner:": "cdsontag, stsci_ssb"
+  }, 
+  "license": "", 
+  "longdescription": "Provides a Pythonic interface to IRAF.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f46b11131212ee57b78334c508dee71a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyraf/pyraf-2.1.3.tar.gz"
+}

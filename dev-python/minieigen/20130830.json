@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrap parts of Eigen3, c++ library for basic math and geometry.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.launchpad.net/minieigen", 
+  "info": {
+    "Author:": "V\u00e1clav \u0160milauer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 (LGPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Home Page:": "http://www.launchpad.net/minieigen", 
+    "Package Index Owner:": "eudoxos"
+  }, 
+  "license": "GNU Lesser General Public License v3 (LGPLv3)", 
+  "longdescription": "Wrap parts of Eigen3, c++ library for basic math and geometry.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47977f8ae3e408b4e6b26ca30f4c5310", 
+  "source_uri": "https://pypi.python.org/packages/source/m/minieigen/minieigen-0.3-8.tar.gz"
+}

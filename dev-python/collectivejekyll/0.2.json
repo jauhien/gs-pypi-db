@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Diagnostic for your Plone content", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Godefroid Chapelle", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "Plone content diagnosis", 
+    "License:": "gpl", 
+    "Package Index Owner:": "jfroche, bsuttor, gotcha"
+  }, 
+  "license": "", 
+  "longdescription": "Diagnostic for your Plone content", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4331077e8f05f8b530eaed3b1d162be", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.jekyll/collective.jekyll-0.2.zip"
+}

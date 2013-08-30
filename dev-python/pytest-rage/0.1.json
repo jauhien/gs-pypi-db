@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pytest plugin to implement PEP712", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/santagada/pytest-rage/", 
+  "info": {
+    "Author:": "Leonardo Santagada", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/santagada/pytest-rage/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "santagada"
+  }, 
+  "license": "", 
+  "longdescription": "pytest plugin to implement PEP712", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "382b6b10b86419422f3702738569b7dc", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-rage/pytest-rage-0.1.tar.gz"
+}

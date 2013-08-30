@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cydra plugin for git http serving", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cydra.org", 
+  "info": {
+    "Author:": "Manuel Stocker, D. Dotsenko", 
+    "Home Page:": "http://www.cydra.org", 
+    "Keywords:": "cydra git http", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mensi"
+  }, 
+  "license": "", 
+  "longdescription": "Cydra plugin for git http serving", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae81034a184a92a170faf8d84d87c7c9", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CydraGitHTTP/CydraGitHTTP-0.1.tar.gz"
+}

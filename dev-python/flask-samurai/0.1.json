@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily create Heroku addons in Flask.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rdegges/flask-samurai", 
+  "info": {
+    "Author:": "Randall Degges", 
+    "Home Page:": "https://github.com/rdegges/flask-samurai", 
+    "Keywords:": "python security heroku flask web addon provider", 
+    "License:": "UNLICENSE", 
+    "Package Index Owner:": "rdegges"
+  }, 
+  "license": "", 
+  "longdescription": "Easily create Heroku addons in Flask.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9cb77ad8db4f3ecdd4f148e92976e095", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flask-samurai/flask-samurai-0.1.tar.gz"
+}

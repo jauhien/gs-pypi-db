@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A galleryslideshow product for plone that can aggregate from picasa (add collective.ptg.flickr) and flickr (add collective.ptg.flickr) or use plone images.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.plone.org/products/plone-true-gallery", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.plone.org/products/plone-true-gallery", 
+    "Keywords:": "gallery plone slideshow photo photos image images picasa flickr highslide nivoslider nivogallery pikachoose fancybox supersized quicksandgalleriffic galleria", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "espen, frisi", 
+    "Package Index Owner:": "espen, vangheem, frisi"
+  }, 
+  "license": "", 
+  "longdescription": "A galleryslideshow product for plone that can aggregate from picasa (add collective.ptg.flickr) and flickr (add collective.ptg.flickr) or use plone images.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b40977a346ba1ba58d7a0f577bac15c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.plonetruegallery/collective.plonetruegallery-3.3.2.zip"
+}

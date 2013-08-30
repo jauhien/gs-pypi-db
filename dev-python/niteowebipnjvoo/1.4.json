@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JVoo IPN support in Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/niteoweb.ipn.jvzoo", 
+  "info": {
+    "Author:": "NiteoWeb Ltd.", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/niteoweb.ipn.jvzoo", 
+    "Keywords:": "Plone IPN JVZoo", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zupo"
+  }, 
+  "license": "", 
+  "longdescription": "JVoo IPN support in Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f556306e581e349b8f90022a3c0e259b", 
+  "source_uri": "https://pypi.python.org/packages/source/n/niteoweb.ipn.jvzoo/niteoweb.ipn.jvzoo-1.4.zip"
+}

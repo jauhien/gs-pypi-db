@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A c.3monitor extension to follow ope3 server threads activity", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.ztfy.org/ztfy.monitor", 
+  "info": {
+    "Author:": "Thierry Florac", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://trac.ztfy.org/ztfy.monitor", 
+    "Keywords:": "ZTFY Zope3 threads monitor", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tflorac"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A c.3monitor extension to follow ope3 server threads activity", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e9efc1abd9faac6f6a2829c25fd7f0e", 
+  "source_uri": "https://pypi.python.org/packages/source/z/ztfy.monitor/ztfy.monitor-0.1.tar.gz"
+}

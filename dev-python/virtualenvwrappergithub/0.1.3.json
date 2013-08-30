@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin for virtualenvwrapper to automatically create projects based on github repositories.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jmcantrell/virtualenvwrapper.github/", 
+  "info": {
+    "Author:": "Jeremy Cantrell", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://github.com/jmcantrell/virtualenvwrapper.github/tarball/0.1.3", 
+    "Home Page:": "http://github.com/jmcantrell/virtualenvwrapper.github/", 
+    "Package Index Owner:": "jmcantrell", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Plugin for virtualenvwrapper to automatically create projects based on github repositories.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "140205ddda04973ec96c7bef42da72fa", 
+  "source_uri": "http://github.com/jmcantrell/virtualenvwrapper.github/tarball/0.1.3"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool to create isolated Python environment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/workingenv.py", 
+  "info": {
+    "Author:": "Ian Bicking", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/workingenv.py", 
+    "Keywords:": "setuptools deployment installation distutils", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ianb"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Tool to create isolated Python environment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8a0e793e7b4a2abe339b3c96b7889390", 
+  "source_uri": "https://pypi.python.org/packages/source/w/workingenv.py/workingenv.py-0.6.5.tar.gz"
+}

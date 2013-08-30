@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An application designed for storing Feeds entries and notifying subscribers only when there are new entries.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/YAmikep/django-feedstorage", 
+  "info": {
+    "Author:": "Michael Palumbo", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Home Page:": "https://github.com/YAmikep/django-feedstorage", 
+    "Package Index Owner:": "Michael.Palumbo"
+  }, 
+  "license": "", 
+  "longdescription": "An application designed for storing Feeds entries and notifying subscribers only when there are new entries.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1172a709e5eb3c416b15e547b4a5bcc1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-feedstorage/django-feedstorage-0.1.zip"
+}

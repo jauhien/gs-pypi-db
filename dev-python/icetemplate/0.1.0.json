@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Persistent Cheetah templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/ice.template", 
+  "info": {
+    "Author:": "Ilshad Habibullin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/ice.template", 
+    "License:": "GPL v.3", 
+    "Package Index Owner:": "astoon"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Persistent Cheetah templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "317542ddfd85d8dbea0455e978015a3c", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ice.template/ice.template-0.1.0.tar.gz"
+}

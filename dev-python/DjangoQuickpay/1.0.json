@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app for danish payment gateway Quickpay", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Niels Sandholt Busch", 
+    "Package Index Owner:": "jarcoal"
+  }, 
+  "license": "", 
+  "longdescription": "Django app for danish payment gateway Quickpay", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7063e8a678c4fa2963a5b507cffbba7", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DjangoQuickpay/DjangoQuickpay-1.0.tar.gz"
+}

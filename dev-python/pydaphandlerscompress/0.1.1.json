@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "compress handler for Pydap", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pydap.org/handlers.html#compress", 
+  "info": {
+    "Author:": "Nicholas Lederer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pydap.org/handlers.html#compress", 
+    "Keywords:": "netcdf compress opendap dods dap data science climate oceanography meteorology", 
+    "License:": "MIT", 
+    "Package Index Owner:": "roberto"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "compress handler for Pydap", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b33a4415d4dd5c6bd49c1c0d23707ca2", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pydap.handlers.compress/pydap.handlers.compress-0.1.1.tar.gz"
+}

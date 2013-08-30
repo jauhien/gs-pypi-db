@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "logging stream server written on gevent", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lemanyk/netlog", 
+  "info": {
+    "Author:": "lemanyk", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "https://github.com/lemanyk/netlog/", 
+    "Home Page:": "https://github.com/lemanyk/netlog", 
+    "License:": "MIT", 
+    "Package Index Owner:": "lemanyk"
+  }, 
+  "license": "", 
+  "longdescription": "logging stream server written on gevent", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fd384771ecf17259c1f9100128b25b2", 
+  "source_uri": "https://github.com/lemanyk/netlog/"
+}

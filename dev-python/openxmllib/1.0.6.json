@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides resources to handle OpenXML documents.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/openxmllib/", 
+  "info": {
+    "Author:": "Gilles Lenfant", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Indexing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//openxmllib", 
+    "Home Page:": "http://code.google.com/p/openxmllib/", 
+    "Keywords:": "Python OpenXML lxml Office2007 ECMA376", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "kdeldycke, glenfant"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Provides resources to handle OpenXML documents.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0744371cd7f98d5f554f218df59e1bd", 
+  "source_uri": "https://pypi.python.org/packages/source/o/openxmllib/openxmllib-1.0.6.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for setting up mongoDB.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/rod.recipe.mongodb", 
+  "info": {
+    "Author:": "Tobias Rodaebel", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/rod.recipe.mongodb", 
+    "Keywords:": "mongodb zc.buildout recipe", 
+    "License:": "LGPL 3", 
+    "Package Index Owner:": "safari, ajung"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "C Buildout recipe for setting up mongoDB.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65d9548799e0c7d9a4f5884ff9435fa6", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rod.recipe.mongodb/rod.recipe.mongodb-1.2.2.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A PEP3156 interface for various event loops", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/geertj/looping", 
+  "info": {
+    "Author:": "Geert Jansen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/geertj/looping", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "geertj"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A PEP3156 interface for various event loops", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23672fef075a8aa94e145b7246ad5094", 
+  "source_uri": "https://pypi.python.org/packages/source/l/looping/looping-0.2.tar.gz"
+}

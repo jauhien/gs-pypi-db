@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "nashvegas is a management command for managing Django database migrations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/paltman/nashvegas/", 
+  "info": {
+    "Author:": "Patrick Altman", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ]
+    }, 
+    "Home Page:": "http://github.com/paltman/nashvegas/", 
+    "Package Index Owner:": "paltman, brosner"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "nashvegas is a management command for managing Django database migrations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a51aa96aaf68bf0ee0a956bbfe8a01f", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nashvegas/nashvegas-0.5.tar.gz"
+}

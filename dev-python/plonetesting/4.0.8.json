@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Testing infrastructure for ope and Plone projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.testing", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.testing", 
+    "Keywords:": "plone zope testing", 
+    "License:": "BSD", 
+    "Package Index Owner:": "optilude, davisagli, esteele, gotcha, jfroche"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Testing infrastructure for ope and Plone projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a49b0c9899466ae6aeb4ae97d8a0a33a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.testing/plone.testing-4.0.8.zip"
+}

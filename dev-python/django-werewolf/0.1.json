@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Item publishing workflow for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/barseghyanartur/django-werewolf", 
+  "info": {
+    "Author:": "Artur Barseghyan", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-werewolf", 
+    "Home Page:": "https://bitbucket.org/barseghyanartur/django-werewolf", 
+    "Keywords:": "workflow,publishing", 
+    "License:": "GPL 2.0/LGPL 2.1", 
+    "Package Index Owner:": "delusionalinsanity"
+  }, 
+  "license": "", 
+  "longdescription": "Item publishing workflow for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "abe1e4681850d2a69d1e16c55c9523ab", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-werewolf/django-werewolf-0.1.tar.gz"
+}

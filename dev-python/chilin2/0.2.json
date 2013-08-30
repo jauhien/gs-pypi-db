@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ChIP-seq pipeline", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Hanfei Sun, Shenglin Mei, Qian Qin", 
+    "License:": "MIT", 
+    "Package Index Owner:": "hanfeisun"
+  }, 
+  "license": "", 
+  "longdescription": "ChIP-seq pipeline", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d100789485674ff04e22c74fecc1ce8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chilin2/chilin2-0.2.tar.gz"
+}

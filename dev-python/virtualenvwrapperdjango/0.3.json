@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "virtualenvwrapper plugin to create a Django project work directory", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/dhellmann/virtualenvwrapper.django", 
+  "info": {
+    "Author:": "Doug Hellmann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/dhellmann/virtualenvwrapper.django", 
+    "Package Index Owner:": "doughellmann", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "virtualenvwrapper plugin to create a Django project work directory", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "45ab4459dc7760396780cb28eb87c9e1", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtualenvwrapper.django/virtualenvwrapper.django-0.3.tar.gz"
+}

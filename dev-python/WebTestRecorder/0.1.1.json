@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Record activity from a WSGI application, and generate WebTest tests from that record", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonpaste.org/webtestrecorder/", 
+  "info": {
+    "Author:": "Ian Bicking", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://pythonpaste.org/webtestrecorder/", 
+    "Keywords:": "wsgi testing unittest doctest webtest", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ianb"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Record activity from a WSGI application, and generate WebTest tests from that record", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "faa3587da6746515013d845c60a0e1fd", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WebTestRecorder/WebTestRecorder-0.1.1.tar.gz"
+}

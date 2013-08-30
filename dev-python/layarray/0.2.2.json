@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a Python package that provides a laily-evaluated numerical array class, larray, based on and compatible with NumPy arrays.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/apdavison/lazyarray/", 
+  "info": {
+    "Author:": "Andrew P. Davison", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/apdavison/lazyarray/", 
+    "License:": "Modified BSD", 
+    "Package Index Owner:": "apdavison"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "a Python package that provides a laily-evaluated numerical array class, larray, based on and compatible with NumPy arrays.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9bdd7d64e648d50394b1940fcfc7d58d", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lazyarray/lazyarray-0.2.2.tar.gz"
+}

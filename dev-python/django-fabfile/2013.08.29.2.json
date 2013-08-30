@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fabric tasks for Django and Amaon Web Services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/django-fabfile", 
+  "info": {
+    "Author:": "Max Chervonec", 
+    "Bug Tracker:": "https://github.com/webengineer/django-fabfile/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-fabfile", 
+    "Download URL:": "http://pypi.python.org/pypi/django-fabfile/", 
+    "Home Page:": "http://packages.python.org/django-fabfile", 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "Max.Chervonec"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Fabric tasks for Django and Amaon Web Services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1e61a616379c295f9ac4b453c7d62a15", 
+  "source_uri": "http://pypi.python.org/pypi/django-fabfile/"
+}

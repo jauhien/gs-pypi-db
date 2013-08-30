@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Converts oracle SDO_GEOMETRY objects to WKT and GeoJSON.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "tib00r", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Keywords:": "oracle sdo_geometry locator cx_Oracle", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "tib00r"
+  }, 
+  "license": "", 
+  "longdescription": "Converts oracle SDO_GEOMETRY objects to WKT and GeoJSON.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8932a8657c1f7af0b980d6b88e959781", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sdo/sdo-0.6.5.zip"
+}

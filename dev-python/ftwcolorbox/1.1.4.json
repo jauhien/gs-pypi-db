@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An image gallery for Plone using ColorBox", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/ftw.colorbox", 
+  "info": {
+    "Author:": "4teamwork GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/ftw.colorbox", 
+    "Keywords:": "ftw colorbox", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "buchi, 4teamwork, maethu"
+  }, 
+  "license": "", 
+  "longdescription": "An image gallery for Plone using ColorBox", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed94f399ab66736bb84617c2ee30b001", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftw.colorbox/ftw.colorbox-1.1.4.zip"
+}

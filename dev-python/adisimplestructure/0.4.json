@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Removes top and footer viewlets and adds portlets instead.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Ida Ebkes", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ida"
+  }, 
+  "license": "", 
+  "longdescription": "Removes top and footer viewlets and adds portlets instead.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "678b4d8e035864afcd693a3664f5ed60", 
+  "source_uri": "https://pypi.python.org/packages/source/a/adi.simplestructure/adi.simplestructure-0.4.tar.gz"
+}

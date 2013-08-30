@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client for the reaktor.io notification service.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://reaktor.io", 
+  "info": {
+    "Author:": "Tomasz Brue", 
+    "Home Page:": "http://reaktor.io", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "tomaszbrue"
+  }, 
+  "license": "", 
+  "longdescription": "Python client for the reaktor.io notification service.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "99e98fdb29cc266a92038135ffd8ffeb", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyReaktor/PyReaktor-0.1.4.tar.gz"
+}

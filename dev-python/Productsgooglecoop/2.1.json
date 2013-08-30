@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Google Coop for Plone makes it easy for you to integrate a Google Co-op Custom Search engine in your plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/google-co-op", 
+  "info": {
+    "Author:": "Christian Ledermann", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/google-co-op", 
+    "Keywords:": "search google", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "Christian.Ledermann", 
+    "Package Index Owner:": "Vitaliy.Podoba, Christian.Ledermann"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Google Coop for Plone makes it easy for you to integrate a Google Co-op Custom Search engine in your plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54679315746a42b6c2f687e79c6c6a1a", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.googlecoop/Products.googlecoop-2.1.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Query for AWS EC2 instances and security groups simply", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mattrobenolt/ec2", 
+  "info": {
+    "Author:": "Matt Robenolt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mattrobenolt/ec2", 
+    "Package Index Owner:": "mattrobenolt"
+  }, 
+  "license": "", 
+  "longdescription": "Query for AWS EC2 instances and security groups simply", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a32432e4d08b390cbde895ce9ff7b0e3", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ec2/ec2-0.2.0.tar.gz"
+}

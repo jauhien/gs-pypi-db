@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An API for interacting with the Tahrir database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rossdylan/tahrir-api", 
+  "info": {
+    "Author:": "Ross Delinger", 
+    "Categories": {
+      "Framework": [
+        "Pyramid"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rossdylan/tahrir-api", 
+    "Keywords:": "web sqlalchemy api", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "oddshocks, ralphbean, rossdylan"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "An API for interacting with the Tahrir database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5516456b159c78c9f44992a78385cde", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tahrir-api/tahrir-api-0.3.0.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Custom Django field for easy use of markup in text fields", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jamesturk/django-markupfield/", 
+  "info": {
+    "Author:": "James Turk", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jamesturk/django-markupfield/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "jamesturk", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Custom Django field for easy use of markup in text fields", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d7978ee0ced3d848cdf282772777f5a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-markupfield/django-markupfield-1.2.0.tar.gz"
+}

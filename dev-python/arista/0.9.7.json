@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An easy multimedia transcoder for GNOME", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.transcoder.org/", 
+  "info": {
+    "Author:": "Daniel G. Taylor", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://programmer-art.org/media/releases/arista-transcoder/arista-0.9.7.tar.gz", 
+    "Home Page:": "http://www.transcoder.org/", 
+    "Keywords:": "gnome gtk gstreamer transcode multimedia", 
+    "Package Index Owner:": "danielgtaylor", 
+    "Platform:": "Platform Independent"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "An easy multimedia transcoder for GNOME", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://programmer-art.org/media/releases/arista-transcoder/arista-0.9.7.tar.gz"
+}

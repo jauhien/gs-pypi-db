@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ABAQUS plug-in to create virtual x-rays from bone models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.google.com/p/pyvxray", 
+  "info": {
+    "Author:": "Michael Hogg", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Visualization"
+      ]
+    }, 
+    "Download URL:": "https://code.google.com/p/pyvxray/downloads", 
+    "Home Page:": "https://code.google.com/p/pyvxray", 
+    "Keywords:": "python,virtual,x-rays,ABAQUS,finite,element,bone", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "Michael.Hogg"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "ABAQUS plug-in to create virtual x-rays from bone models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb35f4f150627ab6fa281893efdfca78", 
+  "source_uri": "https://code.google.com/p/pyvxray/downloads"
+}

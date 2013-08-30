@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings to the Tokyo Cabinet database library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rsms/tc", 
+  "info": {
+    "Author:": "Rasmus Andersson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.0"
+      ], 
+      "Topic": [
+        "System", 
+        "Clustering"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rsms/tc", 
+    "Package Index Owner:": "rsms", 
+    "Platform:": "ALL"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python bindings to the Tokyo Cabinet database library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4405e1464caf0a0b1e1bc30f0874cd9f", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tc/tc-0.7.2.tar.gz"
+}

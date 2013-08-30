@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Collection of utilities to query a repository of python packages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Bogdan Hodorog", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Keywords:": "python repository pypi", 
+    "Package Index Owner:": "bhodorog"
+  }, 
+  "license": "", 
+  "longdescription": "Collection of utilities to query a repository of python packages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "643b7bdb875ead3697398c748c5e54f2", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoq/repoq-0.0.1.tar.gz"
+}

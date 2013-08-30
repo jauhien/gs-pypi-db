@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utilities for talking to a GSM modem over USB via AT commands.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/smn/txgsm", 
+  "info": {
+    "Author:": "Simon de Haan", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://github.com/smn/txgsm", 
+    "License:": "BSD", 
+    "Package Index Owner:": "smn"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Utilities for talking to a GSM modem over USB via AT commands.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12aed89606ade59de76e5dab77193eaf", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txgsm/txgsm-0.1.2.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Distribution Utilitie to retrive a DOI number from Crossref, according to a given metadata", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/sigs/distutils-sig/", 
+  "info": {
+    "Author:": "Fabio Batalha", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.python.org/sigs/distutils-sig/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "fabiobatalha"
+  }, 
+  "license": "", 
+  "longdescription": "Python Distribution Utilitie to retrive a DOI number from Crossref, according to a given metadata", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "300a2505dccebfb97da2cb8dba843454", 
+  "source_uri": "https://pypi.python.org/packages/source/d/doifinder/doifinder-0.8.tar.gz"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A predicate class constructed like Django Q objects, used to test whether a new or modified model would match a query", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ptone/django-predicate", 
+  "info": {
+    "Author:": "Preston Holmes", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ptone/django-predicate", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ptone"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A predicate class constructed like Django Q objects, used to test whether a new or modified model would match a query", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a27061cd3d739b8496f7777f19a336b9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-predicate/django-predicate-0.1.1.tar.gz"
+}

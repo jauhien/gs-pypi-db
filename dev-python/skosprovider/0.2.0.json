@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Abstraction layer for SKOS vocabularies.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/koenedaele/skosprovider", 
+  "info": {
+    "Author:": "Koen Van Daele", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "http://github.com/koenedaele/skosprovider", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Koen.Van.Daele"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Abstraction layer for SKOS vocabularies.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a12ffc491ee6a7c3b9ab03c9fc6f92e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/skosprovider/skosprovider-0.2.0.tar.gz"
+}

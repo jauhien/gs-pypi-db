@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper for PyMongo Connection that offers additional application level monitoring. When connecting to multiple MongoDB servers, allows you to verify connectivity to MongoDB slave servers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.point2.com/", 
+  "info": {
+    "Author:": "Brian Richardson & James Townley", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.point2.com/", 
+    "License:": "Release under Apache-BSD style license", 
+    "Package Index Owner:": "jtownley, brichardson", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Wrapper for PyMongo Connection that offers additional application level monitoring. When connecting to multiple MongoDB servers, allows you to verify connectivity to MongoDB slave servers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e845e9a6b9c6864684254ef4ecd2e2bc", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyMongo-Frisk/PyMongo-Frisk-0.0.6.tar.gz"
+}

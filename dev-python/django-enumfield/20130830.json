@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Custom Django field for using enumerations of named constants", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/5monkeys/django-enumfield", 
+  "info": {
+    "Author:": "Hannes Ljungberg", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://github.com/5monkeys/django-enumfield/tarball/1.0c1", 
+    "Home Page:": "http://github.com/5monkeys/django-enumfield", 
+    "Keywords:": "django,enum,field,status,state,choices,form,model", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "Patrik.Grdeman", 
+    "Package Index Owner:": "Hannes.Ljungberg", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Custom Django field for using enumerations of named constants", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0504d73983da626f6f2a2af8cb8acf84", 
+  "source_uri": "https://github.com/5monkeys/django-enumfield/tarball/1.0c1"
+}

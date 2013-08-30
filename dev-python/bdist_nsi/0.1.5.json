@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create NSIS windows installers for Python modules.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bdist-nsi.sourceforge.net/", 
+  "info": {
+    "Author:": "Amorilia", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://bdist-nsi.sourceforge.net/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "amorilia", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Create NSIS windows installers for Python modules.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd96c2903b575b2f7c799dfebbfc144f", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bdist_nsi/bdist_nsi-0.1.5.zip"
+}

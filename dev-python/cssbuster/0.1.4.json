@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cssbuster is a simple command line tool to invalidate(when its necessary) external resources linked to a css file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jorgebastida/cssbuster", 
+  "info": {
+    "Author:": "Jorge Bastida", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jorgebastida/cssbuster", 
+    "License:": "BSD", 
+    "Package Index Owner:": "neo2001", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "cssbuster is a simple command line tool to invalidate(when its necessary) external resources linked to a css file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4dab8e4439fa3c1e4a16c4cdcfef2098", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cssbuster/cssbuster-0.1.4.tar.gz"
+}

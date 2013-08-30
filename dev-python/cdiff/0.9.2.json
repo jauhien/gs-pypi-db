@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "View colored, incremental diff in a workspace or from stdin, with side by side and auto pager support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ymattw/cdiff", 
+  "info": {
+    "Author:": "Matthew Wang", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ymattw/cdiff", 
+    "Keywords:": "colored incremental side-by-side diff", 
+    "License:": "BSD-3", 
+    "Package Index Owner:": "ymattw"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "View colored, incremental diff in a workspace or from stdin, with side by side and auto pager support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4330cbbc7793be8a9c00bb3133b256d8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cdiff/cdiff-0.9.2.tar.gz"
+}

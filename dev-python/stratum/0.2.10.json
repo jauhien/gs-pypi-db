@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Stratum server implementation based on Twisted", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blog.bitcoin.cz/stratum", 
+  "info": {
+    "Author:": "slush", 
+    "Home Page:": "http://blog.bitcoin.cz/stratum", 
+    "Package Index Owner:": "slush"
+  }, 
+  "license": "", 
+  "longdescription": "Stratum server implementation based on Twisted", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "047ef769135a05a21315b8161b36f35f", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stratum/stratum-0.2.10.tar.gz"
+}

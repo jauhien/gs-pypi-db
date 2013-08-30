@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a behavior for using plone.app.iterate with dexterity content types", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/dexterity", 
+  "info": {
+    "Author:": "Jonas Baumann", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/dexterity", 
+    "Keywords:": "plone dexterity behavior iterate staging", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli, 4teamwork, optilude, jone, deo, esteele"
+  }, 
+  "license": "", 
+  "longdescription": "Provides a behavior for using plone.app.iterate with dexterity content types", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f9589ec056c303ea0c81a804dd411eb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.stagingbehavior/plone.app.stagingbehavior-0.1b4.zip"
+}

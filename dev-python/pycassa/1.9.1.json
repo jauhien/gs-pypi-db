@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client library for Apache Cassandra", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pycassa/pycassa", 
+  "info": {
+    "Author:": "Tyler Hobbs", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pycassa/pycassa", 
+    "Keywords:": "pycassa,cassandra,client,driver,db,distributed,thrift", 
+    "Package Index Maintainer:": "thobbs", 
+    "Package Index Owner:": "alq666, thobbs"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python client library for Apache Cassandra", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "875d1068f097755a5da22c25458ae17b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycassa/pycassa-1.9.1.tar.gz"
+}

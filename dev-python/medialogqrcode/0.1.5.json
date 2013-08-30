@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "QRcode views and portlet for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/espenmn/medialog.qrcode/", 
+  "info": {
+    "Author:": "Espen Moe-Nilssen", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/espenmn/medialog.qrcode/", 
+    "Keywords:": "QRcode QR generator", 
+    "License:": "GPL", 
+    "Package Index Owner:": "espen"
+  }, 
+  "license": "", 
+  "longdescription": "QRcode views and portlet for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8e5b126709c6fc52bdf273b23e2c13d4", 
+  "source_uri": "https://pypi.python.org/packages/source/m/medialog.qrcode/medialog.qrcode-0.1.5.tar.gz"
+}

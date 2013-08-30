@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLAlchemys mapper extension which canautomatically track changes in mapped classes andcalculate aggregations based on them", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.mr-pc.kiev.ua/en/projects/SQLAlchemyAggregator", 
+  "info": {
+    "Author:": "Paul Colomiets", 
+    "Home Page:": "http://www.mr-pc.kiev.ua/en/projects/SQLAlchemyAggregator", 
+    "Keywords:": "sql sqlalchemy aggragation database", 
+    "License:": "MIT", 
+    "Package Index Owner:": "PC"
+  }, 
+  "license": "", 
+  "longdescription": "SQLAlchemys mapper extension which canautomatically track changes in mapped classes andcalculate aggregations based on them", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fabc6de6007fd398b9123d72cfce3dff", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SQLAlchemyAggregator/SQLAlchemyAggregator-0.1.4.dev-r849.tar.gz"
+}

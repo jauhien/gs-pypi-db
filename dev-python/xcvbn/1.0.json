@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Password strength estimator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.github.com/rpearl/python-zxcvbn", 
+  "info": {
+    "Author:": "Ryan Pearl", 
+    "Home Page:": "https://www.github.com/rpearl/python-zxcvbn", 
+    "Package Index Owner:": "rpearl"
+  }, 
+  "license": "", 
+  "longdescription": "Password strength estimator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b875b9f954a7aef2269eb8c1177b591", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zxcvbn/zxcvbn-1.0.tar.gz"
+}

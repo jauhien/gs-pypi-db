@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple QuickSilver launcher helper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://greyworld.net/en/projects/qslaunch/", 
+  "info": {
+    "Author:": "Serge \u00c3\u0089mond", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "MacOS X"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "MacOS", 
+        "MacOS X"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//qslaunch", 
+    "Home Page:": "http://greyworld.net/en/projects/qslaunch/", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "sergeemond"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Simple QuickSilver launcher helper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "366590c187fa73c49fe35c29b7b58235", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qslaunch/qslaunch-0.3.2.tar.gz"
+}

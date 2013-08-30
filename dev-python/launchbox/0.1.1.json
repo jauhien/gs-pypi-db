@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Packaging and dependency resolution for chef-solo cookbooks", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/RisingOak/launchbox", 
+  "info": {
+    "Author:": "Cosmin Stejerean", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/RisingOak/launchbox", 
+    "Keywords:": "chef chef-solo dependency package bundle", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "cstejerean"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Packaging and dependency resolution for chef-solo cookbooks", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dedf46de9b9fa6aa7352e814437a5054", 
+  "source_uri": "https://pypi.python.org/packages/source/l/launchbox/launchbox-0.1.1.tar.gz"
+}

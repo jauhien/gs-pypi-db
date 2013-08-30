@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Inline Wysiwyg editing making use of a subclassed Django Admin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/servee/servee-tinymce/", 
+  "info": {
+    "Author:": "Issac Kelly", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/servee/servee-tinymce/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "issackelly"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Inline Wysiwyg editing making use of a subclassed Django Admin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a469116121c91d8d54047c7ea6999649", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-servee-tinymce/django-servee-tinymce-0.1.1.tar.gz"
+}

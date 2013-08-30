@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple gevent based web spider and tools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jmoiron/aranha", 
+  "info": {
+    "Author:": "Jason Moiron", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jmoiron/aranha", 
+    "Keywords:": "python gevent spider", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jmoiron"
+  }, 
+  "license": "", 
+  "longdescription": "simple gevent based web spider and tools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "747ed5323240c88c98c63711a56d3232", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aranha/aranha-0.1.1.tar.gz"
+}

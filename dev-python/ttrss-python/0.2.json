@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A client library for the Tiny Tiny RSS web API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Vassius/ttrss-python", 
+  "info": {
+    "Author:": "Markus Wiik", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Vassius/ttrss-python", 
+    "Package Index Owner:": "Vassius"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A client library for the Tiny Tiny RSS web API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f64579171d801582c55d7fb4117da517", 
+  "source_uri": "https://pypi.python.org/packages/source/t/ttrss-python/ttrss-python-0.2.tar.gz"
+}

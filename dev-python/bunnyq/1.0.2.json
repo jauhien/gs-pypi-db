@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command shell and CLI app for testingadministering RabbitMQ using its RESTful HTTP Management API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/bkjones/bunnyq", 
+  "info": {
+    "Author:": "Brian K. Jones", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Download URL:": "http://www.github.com/bkjones/bunnyq", 
+    "Home Page:": "http://www.github.com/bkjones/bunnyq", 
+    "Keywords:": "python http amqp rabbit rabbitmq management", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jonesy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A command shell and CLI app for testingadministering RabbitMQ using its RESTful HTTP Management API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "48387a5bfbe89852d595a956568b0660", 
+  "source_uri": "http://www.github.com/bkjones/bunnyq"
+}

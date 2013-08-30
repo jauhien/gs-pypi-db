@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GetPaid plugin allowing for recording orders in Salesforce.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/getpaid", 
+  "info": {
+    "Author:": "Rob LaRubbio", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/getpaid", 
+    "Keywords:": "Zope CMF Plone Salesforce.com CRM integration", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pjstevns, larubbio, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "GetPaid plugin allowing for recording orders in Salesforce.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b4c546bd2852b0f73987f05f8e4456c", 
+  "source_uri": "https://pypi.python.org/packages/source/g/getpaid.SalesforceOrderRecorder/getpaid.SalesforceOrderRecorder-0.5.zip"
+}

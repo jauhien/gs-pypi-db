@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Flickr backup utility", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/optilude/flickrbackup", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Home Page:": "http://github.com/optilude/flickrbackup", 
+    "Keywords:": "flickr backup", 
+    "License:": "BSD", 
+    "Package Index Owner:": "optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Flickr backup utility", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d43a884c295ae4ca520eae17eaef0c7", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flickrbackup/flickrbackup-0.8.2.tar.gz"
+}

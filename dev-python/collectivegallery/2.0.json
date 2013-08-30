@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Base gallery product for plone with picasa and flickr support by Makina Corpus", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.gallery", 
+  "info": {
+    "Author:": "JeanMichel FRANCOIS aka toutpt", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.gallery", 
+    "Keywords:": "plone gallery", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "garbas", 
+    "Package Index Owner:": "toutpt"
+  }, 
+  "license": "", 
+  "longdescription": "Base gallery product for plone with picasa and flickr support by Makina Corpus", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "57d06c3f2fb3ee889c3e03006d3e6ce7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.gallery/collective.gallery-2.0.zip"
+}

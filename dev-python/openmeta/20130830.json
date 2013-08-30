@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trivial wrapper providing tidy python access to the openmeta command-line client to set OS X openmeta tags on files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/howthebodyworks/openmeta/src", 
+  "info": {
+    "Author:": "Dan MacKinlay", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "MacOS X"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "MacOS", 
+        "MacOS X"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/howthebodyworks/openmeta/src", 
+    "Keywords:": "metadata", 
+    "License:": "BSD", 
+    "Package Index Owner:": "howthebodyworks.myopenid.com"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Trivial wrapper providing tidy python access to the openmeta command-line client to set OS X openmeta tags on files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc756cb3f2be89f58d8931b7c416bc2e", 
+  "source_uri": "https://pypi.python.org/packages/source/o/openmeta/openmeta-0.1.1dev.tar.gz"
+}

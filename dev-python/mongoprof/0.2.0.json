@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "command line tool for watching mongodb queries", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sunlightlabs/mongoprof", 
+  "info": {
+    "Author:": "James Turk", 
+    "Home Page:": "http://github.com/sunlightlabs/mongoprof", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jamesturk"
+  }, 
+  "license": "", 
+  "longdescription": "command line tool for watching mongodb queries", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a68cd240f4fe8f230e9d68dd950b5662", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mongoprof/mongoprof-0.2.0.tar.gz"
+}

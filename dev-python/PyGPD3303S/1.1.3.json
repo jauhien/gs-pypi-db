@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Interface for DC power supply GPD-3303S", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://sourceforge.net/p/pygpd3303s/", 
+  "info": {
+    "Author:": "Akira Okumura", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Terminals", 
+        "Serial"
+      ]
+    }, 
+    "Home Page:": "https://sourceforge.net/p/pygpd3303s/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "oxon", 
+    "Platform:": "MacOS :: MacOS X,POSIX,Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Python Interface for DC power supply GPD-3303S", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "97bd92e6e5b1823be611e18c2408e401", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyGPD3303S/PyGPD3303S-1.1.3.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Form authentication middleware for WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/Dalius/authform-middleware/", 
+  "info": {
+    "Author:": "Dalius Dobravolskas", 
+    "Home Page:": "http://bitbucket.org/Dalius/authform-middleware/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dalius"
+  }, 
+  "license": "", 
+  "longdescription": "Form authentication middleware for WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e6668696671364dfb4053e9e988952eb", 
+  "source_uri": "https://pypi.python.org/packages/source/a/authform_middleware/authform_middleware-0.2.3.zip"
+}

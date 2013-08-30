@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper for the Gnu Privacy Guard (GPG or GnuPG)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/python-gnupg/index.html", 
+  "info": {
+    "Author:": "Vinay Sajip", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//python-gnupg", 
+    "Download URL:": "http://python-gnupg.googlecode.com/files/python-gnupg-0.3.4.tar.gz", 
+    "Home Page:": "http://packages.python.org/python-gnupg/index.html", 
+    "License:": "Copyright (C) 2008-2013 by Vinay Sajip. All Rights Reserved. See LICENSE for license.", 
+    "Package Index Owner:": "vsajip", 
+    "Platform:": "No particular restrictions"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A wrapper for the Gnu Privacy Guard (GPG or GnuPG)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bdc516bae61bf9249edc9c833a160e4b", 
+  "source_uri": "http://python-gnupg.googlecode.com/files/python-gnupg-0.3.4.tar.gz"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of Quine-McCluskey algorithm for minimiing boolean expressions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Chris Rossi", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Package Index Owner:": "chrisrossi"
+  }, 
+  "license": "", 
+  "longdescription": "Implementation of Quine-McCluskey algorithm for minimiing boolean expressions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd2fe4b4184ee2649aa209b4ca27ee6d", 
+  "source_uri": "https://pypi.python.org/packages/source/m/minbool/minbool-1.0.tar.gz"
+}

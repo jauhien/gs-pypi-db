@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "elasticbackup tools to backup and restore ElasticSearch indices", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/nickstenning/elasticbackup", 
+  "info": {
+    "Author:": "Nick Stenning", 
+    "Home Page:": "https://github.com/nickstenning/elasticbackup", 
+    "Keywords:": "sysadmin elasticsearch backup restore", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nickstenning"
+  }, 
+  "license": "", 
+  "longdescription": "elasticbackup tools to backup and restore ElasticSearch indices", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14763265b11ef0a8ea6a639dce5593ee", 
+  "source_uri": "https://pypi.python.org/packages/source/e/elasticbackup/elasticbackup-0.0.3.tar.gz"
+}

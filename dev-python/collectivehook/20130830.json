@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A very simple hook system for ope application by Makina-Corpus.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.hook", 
+  "info": {
+    "Author:": "JeanMichel FRANCOIS aka toutpt", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.hook", 
+    "License:": "GPL", 
+    "Package Index Owner:": "toutpt"
+  }, 
+  "license": "", 
+  "longdescription": "A very simple hook system for ope application by Makina-Corpus.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fdee0f632656f5cc31a039e8a858074c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.hook/collective.hook-1.0b1.zip"
+}

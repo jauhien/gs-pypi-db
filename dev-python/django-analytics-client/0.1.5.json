@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Custom analytics client for Django projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/funkbit/django-analytics-client", 
+  "info": {
+    "Author:": "Funkbit AS", 
+    "Home Page:": "https://github.com/funkbit/django-analytics-client", 
+    "License:": "BSD", 
+    "Package Index Owner:": "funkbit"
+  }, 
+  "license": "", 
+  "longdescription": "Custom analytics client for Django projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c6566155f2e2593b2f582696ae58b74", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-analytics-client/django-analytics-client-0.1.5.tar.gz"
+}

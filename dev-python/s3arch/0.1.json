@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create local backups of S3 buckets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jcarbaugh/s3arch/", 
+  "info": {
+    "Author:": "Jeremy Carbaugh", 
+    "Home Page:": "https://github.com/jcarbaugh/s3arch/", 
+    "Package Index Owner:": "jcarbaugh"
+  }, 
+  "license": "", 
+  "longdescription": "Create local backups of S3 buckets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff170f07fda8919276390f417862d926", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s3arch/s3arch-0.1.tar.gz"
+}

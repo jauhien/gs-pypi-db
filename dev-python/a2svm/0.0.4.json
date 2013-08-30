@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple CLI tool to create and delete easily virtual hosts in Apache.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cypx/a2svm", 
+  "info": {
+    "Author:": "Cyprien Devillez", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/cypx/a2svm", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cyp"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Simple CLI tool to create and delete easily virtual hosts in Apache.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "186790f0fc475cec28b72c48729b7a6c", 
+  "source_uri": "https://pypi.python.org/packages/source/a/a2svm/a2svm-0.0.4.tar.gz"
+}

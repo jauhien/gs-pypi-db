@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CADF Library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/pycadf", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/pycadf", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "chungg, openstackci"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "CADF Library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "09dc921aac4ba483af20a351f69df3d9", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycadf/pycadf-0.1.5.tar.gz"
+}

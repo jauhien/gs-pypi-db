@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An egg proxy for apache and mod_python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://ingeniweb.svn.sourceforge.net/svnroot/ingeniweb/iw.eggproxy", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://ingeniweb.svn.sourceforge.net/svnroot/ingeniweb/iw.eggproxy", 
+    "Keywords:": "setuptools easy_install index proxy", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "An egg proxy for apache and mod_python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1596803186c22897fa4a155ff428837", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iw.eggproxy/iw.eggproxy-0.2.0.tar.gz"
+}

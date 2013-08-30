@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "sysinfo component for the CubicWeb framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-sysinfo", 
+  "info": {
+    "Author:": "Logilab", 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-sysinfo", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "sysinfo component for the CubicWeb framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "965ec0b27b4e50a69af3a238cf6bf3ee", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-sysinfo/cubicweb-sysinfo-0.11.0.tar.gz"
+}

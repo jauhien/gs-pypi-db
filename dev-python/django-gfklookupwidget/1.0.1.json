@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A widget to replace the object_id in a generic relation with a search link.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mqsoh/django-gfklookupwidget", 
+  "info": {
+    "Author:": "Mason Staugler", 
+    "Home Page:": "https://github.com/mqsoh/django-gfklookupwidget", 
+    "Keywords:": "django,contenttype,genericforeignkey,generic,relation", 
+    "License:": "ISC license", 
+    "Package Index Owner:": "mqsoh"
+  }, 
+  "license": "", 
+  "longdescription": "A widget to replace the object_id in a generic relation with a search link.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7cfba92deae9bce6e40cbb300f57ecd0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-gfklookupwidget/django-gfklookupwidget-1.0.1.tar.gz"
+}

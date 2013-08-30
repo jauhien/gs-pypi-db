@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Listen for TCP connections on multiple ports, each of which forwards to another hostport.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nejucomo/proxytcp", 
+  "info": {
+    "Author:": "Nathan Wilcox", 
+    "Home Page:": "https://bitbucket.org/nejucomo/proxytcp", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "nejucomo"
+  }, 
+  "license": "", 
+  "longdescription": "Listen for TCP connections on multiple ports, each of which forwards to another hostport.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "356077ff95088dd0648990da3664476b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/proxytcp/proxytcp-0.3.tar.gz"
+}

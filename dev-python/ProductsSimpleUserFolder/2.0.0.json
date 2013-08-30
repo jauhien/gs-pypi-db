@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A scriptable, subclassable, fully documented and tested user folder implementation for ope 2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.simplistix.co.uk/software/zope/simpleuserfolder", 
+  "info": {
+    "Author:": "Chris Withers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Products.SimpleUserFolder", 
+    "Home Page:": "http://www.simplistix.co.uk/software/zope/simpleuserfolder", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chrisw"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A scriptable, subclassable, fully documented and tested user folder implementation for ope 2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62f7b47775be080ff0c79e74c372a78e", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.SimpleUserFolder/Products.SimpleUserFolder-2.0.0.tar.gz"
+}

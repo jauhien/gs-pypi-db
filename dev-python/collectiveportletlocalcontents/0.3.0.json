@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A local navigation for Plone, that shows only contents in current folder", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.portlet.localcontents", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.portlet.localcontents", 
+    "Keywords:": "plone portlet navigation", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "micecchi", 
+    "Package Index Owner:": "micecchi, keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "A local navigation for Plone, that shows only contents in current folder", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9fcbcd737c3ab3d2d979ddbc8be270da", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.localcontents/collective.portlet.localcontents-0.3.0.zip"
+}

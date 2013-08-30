@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy object serialiation. Mimics RoR ActiveRecord serialier.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kvesteri/serializer", 
+  "info": {
+    "Author:": "Konsta Vesterinen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/kvesteri/serializer", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kvesteri", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Easy object serialiation. Mimics RoR ActiveRecord serialier.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5fbdea6d5775af3ef22d19cd38dd9167", 
+  "source_uri": "https://pypi.python.org/packages/source/S/Serializer/Serializer-0.2.1.tar.gz"
+}

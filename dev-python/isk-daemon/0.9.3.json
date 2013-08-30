@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Server and library for adding content-based (visual) image searching to any image related website or software.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://server.imgseek.net/", 
+  "info": {
+    "Author:": "Ricardo Niederberger Cabral", 
+    "Download URL:": "http://www.imgseek.net/isk-daemon/download", 
+    "Home Page:": "http://server.imgseek.net/", 
+    "Keywords:": "imgseek iskdaemon image cbir imagedatabase isk-daemon database searchengine", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "Niederberger", 
+    "Platform:": "Linux,Windows,Mac OSX"
+  }, 
+  "license": "", 
+  "longdescription": "Server and library for adding content-based (visual) image searching to any image related website or software.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5c72efcc62d7470262dae1a2c36af546", 
+  "source_uri": "http://www.imgseek.net/isk-daemon/download"
+}

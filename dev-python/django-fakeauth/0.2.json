@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fake authentication backend for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Mozilla Foundation & contributors", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Package Index Owner:": "alexis.metaireau"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A fake authentication backend for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e6557d4c8babd1489837292c271ccd1c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fakeauth/django-fakeauth-0.2.tar.gz"
+}

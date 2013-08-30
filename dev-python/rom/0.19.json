@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Redis object mapper for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/josiahcarlson/rom", 
+  "info": {
+    "Author:": "Josiah Carlson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//rom", 
+    "Home Page:": "https://github.com/josiahcarlson/rom", 
+    "License:": "GNU LGPL v2.1", 
+    "Package Index Owner:": "josiahcarlson"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A Redis object mapper for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1187e32e5aa2f592a604ac005f2ff6b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rom/rom-0.19.tar.gz"
+}

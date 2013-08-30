@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A light version of the Plone review_list portlet", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/redturtle.portlet.lightreviewlist", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/redturtle.portlet.lightreviewlist", 
+    "Keywords:": "plone portlet review_list", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "A light version of the Plone review_list portlet", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f020854c52cbd50408ec3700845c930a", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redturtle.portlet.lightreviewlist/redturtle.portlet.lightreviewlist-0.1.1.tar.gz"
+}

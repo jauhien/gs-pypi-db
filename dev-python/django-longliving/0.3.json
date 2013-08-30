@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A framework for long-living worker processes for Django using redis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/oucs/django-longliving", 
+  "info": {
+    "Author:": "Oxford University Computing Services", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/oucs/django-longliving", 
+    "Keywords:": "University of Oxford,long-living,worker process,Django", 
+    "License:": "BSD", 
+    "Package Index Owner:": "alexdutton"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A framework for long-living worker processes for Django using redis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "42df8975ab802968d6dfe6eff54e940b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-longliving/django-longliving-0.3.tar.gz"
+}

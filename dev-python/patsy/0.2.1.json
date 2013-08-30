@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python package for describing statistical models and forbuilding design matrices.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pydata/patsy", 
+  "info": {
+    "Author:": "Nathaniel J. Smith", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "https://github.com/pydata/patsy", 
+    "License:": "2-clause BSD", 
+    "Package Index Owner:": "njs"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Python package for describing statistical models and forbuilding design matrices.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea36c846d62231e41df684a827a5fd58", 
+  "source_uri": "https://pypi.python.org/packages/source/p/patsy/patsy-0.2.1.tar.gz"
+}

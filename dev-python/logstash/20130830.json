@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library for Logstash", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Matt McClean", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "Matt.McClean"
+  }, 
+  "license": "", 
+  "longdescription": "Python library for Logstash", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3891ab034237fe021e4184c9fc9b0959", 
+  "source_uri": "https://pypi.python.org/packages/source/l/logstash/logstash-0.1dev.tar.gz"
+}

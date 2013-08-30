@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helpers for Python package hosting at GitHub", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dinoboff.github.com/github-tools/", 
+  "info": {
+    "Author:": "Damien Lebrun", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://dinoboff.github.com/github-tools/", 
+    "Keywords:": "sphinx github paster", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Dinoboff"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Helpers for Python package hosting at GitHub", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "86bf14d32565dc8b6e42c6827dddd5f3", 
+  "source_uri": "https://pypi.python.org/packages/source/g/github-tools/github-tools-0.2rc1.tar.gz"
+}

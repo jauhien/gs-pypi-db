@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cache rendered pages including headers with ETag support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.TemplateCacheManager", 
+  "info": {
+    "Author:": "Andreas Gabriel", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.TemplateCacheManager", 
+    "Keywords:": "caching zope CMF", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "agabriel"
+  }, 
+  "license": "", 
+  "longdescription": "Cache rendered pages including headers with ETag support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a06f4b4d2aa43f32168d25b54ce7d5c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.TemplateCacheManager/Products.TemplateCacheManager-0.1dev-r67896.tar.gz"
+}

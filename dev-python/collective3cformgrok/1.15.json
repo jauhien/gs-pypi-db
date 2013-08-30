@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small integration of 3cform using grok magic on plone by Makina Corpus.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.z3cform.grok", 
+  "info": {
+    "Author:": "Mathieu Pasquet", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Zope"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.z3cform.grok", 
+    "License:": "GPL", 
+    "Package Index Owner:": "kiorky"
+  }, 
+  "license": "", 
+  "longdescription": "A small integration of 3cform using grok magic on plone by Makina Corpus.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f49d0efc7c9ae3b3c6a0008711bdfbf5", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.z3cform.grok/collective.z3cform.grok-1.15.zip"
+}

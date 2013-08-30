@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Firebird database adapter for ope2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/nakagami/Products.FirebirdDA", 
+  "info": {
+    "Author:": "Hajime Nakagami", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/nakagami/Products.FirebirdDA", 
+    "Keywords:": "Firebird", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "nakagami"
+  }, 
+  "license": "", 
+  "longdescription": "Firebird database adapter for ope2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b3640571e84537dac19b188c3d73ab85", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.FirebirdDA/Products.FirebirdDA-0.6.0.tar.gz"
+}

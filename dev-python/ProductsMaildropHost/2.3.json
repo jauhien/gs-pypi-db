@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous transaction-aware MailHost replacement for ope 2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.MaildropHost", 
+  "info": {
+    "Author:": "Jens Vagelpohl", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.MaildropHost", 
+    "Keywords:": "web zope zope2 mail smtp", 
+    "License:": "ZPL 2.1 (http://www.zope.org/Resources/License/ZPL-2.1)", 
+    "Package Index Owner:": "dataflake"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Asynchronous transaction-aware MailHost replacement for ope 2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "abcf4a8ced8d403cb5c97d4a3c8791eb", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.MaildropHost/Products.MaildropHost-2.3.tar.gz"
+}

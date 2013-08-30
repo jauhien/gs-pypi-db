@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Schevo tools for TurboGears", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://schevo.org/wiki/SchevoGears", 
+  "info": {
+    "Author:": "Orbtech, L.L.C. and contributors", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://schevo.org/wiki/SchevoGears", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "gldnspud", 
+    "Platform:": "UNIX,Windows"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Schevo tools for TurboGears", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "947e5e433d45118a14a775ba095a9f6b", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SchevoGears/SchevoGears-1.0a1.tar.gz"
+}

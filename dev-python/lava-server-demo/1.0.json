@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Demo application for LAVA Server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zygmunt Krynicki", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "zyga"
+  }, 
+  "license": "", 
+  "longdescription": "Demo application for LAVA Server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bc27dc051628b6ce2cddf952bc06ca27", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lava-server-demo/lava-server-demo-1.0.tar.gz"
+}

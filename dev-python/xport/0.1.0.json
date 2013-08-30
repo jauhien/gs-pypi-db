@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SAS XPORT data file reader.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jcushman/xport", 
+  "info": {
+    "Author:": "Jack Cushman", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jcushman/xport", 
+    "Keywords:": "sas xport", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Jack.Cushman"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "SAS XPORT data file reader.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "427b7b444e750671d5b29af73ed32090", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xport/xport-0.1.0.tar.gz"
+}

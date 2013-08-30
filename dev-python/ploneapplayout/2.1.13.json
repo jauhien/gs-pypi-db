@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Layout mechanisms for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.layout", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.layout", 
+    "Keywords:": "plone layout viewlet", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "optilude, wichert, evilbungle, fschulze, davisagli, hannosch, alecm, esteele, mj, gotcha, witsch"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Layout mechanisms for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8652d42bb04ee1977ff6bbb15b38857", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.layout/plone.app.layout-2.1.13.tar.gz"
+}

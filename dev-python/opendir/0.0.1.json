@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implements POSIX opendir", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mail.python.org/pipermail/python-ideas/2007-November/001232.html", 
+  "info": {
+    "Author:": "Gregory Ewing", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "http://mail.python.org/pipermail/python-ideas/2007-November/001232.html", 
+    "Keywords:": "opendir readdir closedir seekdir", 
+    "Maintainer:": "Johannes 'josch' Schauer", 
+    "Package Index Owner:": "josch"
+  }, 
+  "license": "", 
+  "longdescription": "Implements POSIX opendir", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2c1b27fa488818c28e734444a88a70ee", 
+  "source_uri": "https://pypi.python.org/packages/source/o/opendir/opendir-0.0.1.tar.gz"
+}

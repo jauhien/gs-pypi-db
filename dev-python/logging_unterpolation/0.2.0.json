@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "patch logging module to accept PEP-3101 formatting syntax", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/rdennis463/logging_unterpolation", 
+  "info": {
+    "Author:": "Rob Dennis", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/rdennis463/logging_unterpolation", 
+    "Package Index Owner:": "Rob.Dennis"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "patch logging module to accept PEP-3101 formatting syntax", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d0d4de0763be1a1cf044e7ddcce8e1a8", 
+  "source_uri": "https://pypi.python.org/packages/source/l/logging_unterpolation/logging_unterpolation-0.2.0.tar.gz"
+}

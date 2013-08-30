@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "File modification notifier in your system tray", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/latestrevision/systray-file-watcher/", 
+  "info": {
+    "Author:": "Adam Coddington", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/latestrevision/systray-file-watcher/", 
+    "Package Index Owner:": "latestrevision"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "File modification notifier in your system tray", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db71258288a4e28e6ab99e047a83f0d9", 
+  "source_uri": "https://pypi.python.org/packages/source/s/systray_file_watcher/systray_file_watcher-0.4.0.tar.gz"
+}

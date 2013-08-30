@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "API for Linux kernel SCSI target (aka LIO)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/agrover/rtslib-fb", 
+  "info": {
+    "Author:": "Andy Grover", 
+    "Home Page:": "http://github.com/agrover/rtslib-fb", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "agrover"
+  }, 
+  "license": "", 
+  "longdescription": "API for Linux kernel SCSI target (aka LIO)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "009a24a788cd12e253dd79b3c4977f11", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rtslib-fb/rtslib-fb-2.1.37.tar.gz"
+}

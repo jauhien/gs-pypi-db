@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python utilites for manipulating IPv4 and IPv6 addresses", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bd808/python-iptools", 
+  "info": {
+    "Author:": "Bryan Davis", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/i/iptools/", 
+    "Home Page:": "https://github.com/bd808/python-iptools", 
+    "Keywords:": "ip2long long2ip django cidr ipv4 ipv6", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Bryan.Davis", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python utilites for manipulating IPv4 and IPv6 addresses", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aed4045638fd40c16f8d9bb04606f700", 
+  "source_uri": "http://pypi.python.org/packages/source/i/iptools/"
+}

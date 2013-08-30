@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compiler backend for array expressions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/markflorisson88/minivect", 
+  "info": {
+    "Author:": "Mark Florisson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Compilers"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//minivect", 
+    "Home Page:": "https://github.com/markflorisson88/minivect", 
+    "License:": "BSD", 
+    "Package Index Owner:": "markflorisson88"
+  }, 
+  "license": "", 
+  "longdescription": "Compiler backend for array expressions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95ce8aaa0fbc57e90bf2ae713992ec0d", 
+  "source_uri": "https://pypi.python.org/packages/source/m/minivect/minivect-0.1.tar.bz2"
+}

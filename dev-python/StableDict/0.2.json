@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A dict subclass which remembers insertion order", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martin Kammerhofer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "http://mitglied.lycos.de/mkamm/distfiles/", 
+    "License:": "PSF", 
+    "Package Index Owner:": "mkamm", 
+    "Platform:": "any"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "A dict subclass which remembers insertion order", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6eaa3d87fd1096f75e434822721cfae", 
+  "source_uri": "http://mitglied.lycos.de/mkamm/distfiles/"
+}

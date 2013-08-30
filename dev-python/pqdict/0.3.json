@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An indexed priority queue implementation with a dictionary interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/nvictus/priority-queue-dictionary", 
+  "info": {
+    "Author:": "Nezar Abdennur", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/nvictus/priority-queue-dictionary", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nvictus"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An indexed priority queue implementation with a dictionary interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "29e20e06c6691c7388669488b9325470", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pqdict/pqdict-0.3.tar.gz"
+}

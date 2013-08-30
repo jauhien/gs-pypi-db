@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple YAML accessor for shell scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/0k/shyaml", 
+  "info": {
+    "Author:": "Valentin Lab", 
+    "Home Page:": "http://github.com/0k/shyaml", 
+    "Package Index Owner:": "vaab"
+  }, 
+  "license": "", 
+  "longdescription": "Simple YAML accessor for shell scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d5b136fd54d86bca0bd04b80e21cd095", 
+  "source_uri": "https://pypi.python.org/packages/source/s/shyaml/shyaml-0.2.0.tar.gz"
+}

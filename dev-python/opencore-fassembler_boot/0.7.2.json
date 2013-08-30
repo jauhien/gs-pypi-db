@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates a setup for new OpenCore site deployments that use Fassembler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.coactivate.org/projects/opencore", 
+  "info": {
+    "Author:": "opencore-dev", 
+    "Home Page:": "http://www.coactivate.org/projects/opencore", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "Creates a setup for new OpenCore site deployments that use Fassembler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ee18f785129649dd3b7a6d2e40823f40", 
+  "source_uri": "https://pypi.python.org/packages/source/o/opencore-fassembler_boot/opencore-fassembler_boot-0.7.2.tar.gz"
+}

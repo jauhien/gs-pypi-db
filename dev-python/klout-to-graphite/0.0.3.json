@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to send Klout scores to Graphite", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/philipcristiano/klout-to-graphite", 
+  "info": {
+    "Author:": "Philip Cristiano", 
+    "Home Page:": "https://github.com/philipcristiano/klout-to-graphite", 
+    "Keywords:": "klout graphite", 
+    "License:": "BSD", 
+    "Package Index Owner:": "philipcristiano"
+  }, 
+  "license": "", 
+  "longdescription": "A tool to send Klout scores to Graphite", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b2f55af6765fa088b45641bcffda902", 
+  "source_uri": "https://pypi.python.org/packages/source/k/klout-to-graphite/klout-to-graphite-0.0.3.tar.gz"
+}

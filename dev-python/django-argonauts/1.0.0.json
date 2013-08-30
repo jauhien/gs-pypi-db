@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A lightweight collection of JSON helpers for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fusionbox/django-argonauts", 
+  "info": {
+    "Author:": "Fusionbox, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/fusionbox/django-argonauts", 
+    "Keywords:": "rest json views django helpers", 
+    "Package Index Owner:": "fusionbox"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A lightweight collection of JSON helpers for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14397e132f7e97eae4fe6cc8de2a29ee", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-argonauts/django-argonauts-1.0.0.tar.gz"
+}

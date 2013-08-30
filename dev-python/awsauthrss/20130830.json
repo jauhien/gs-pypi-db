@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Private Plone RSS feeds through a user private token", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/aws.authrss", 
+  "info": {
+    "Author:": "Gilles Lenfant", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "French"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/aws.authrss", 
+    "Keywords:": "plone rss", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Private Plone RSS feeds through a user private token", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8e330f4fe58ba154025c5c7ba06fcb53", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aws.authrss/aws.authrss-1.0.0b2.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A JSONRPC-like client and server with additions to enable authenticated requests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.wyre-it.co.uk/authrpc/", 
+  "info": {
+    "Author:": "Ben Croston", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://www.wyre-it.co.uk/authrpc/", 
+    "Keywords:": "json,rpc,wsgi,auth", 
+    "License:": "MIT", 
+    "Package Index Owner:": "croston", 
+    "Platform:": "Any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A JSONRPC-like client and server with additions to enable authenticated requests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db72e8fad761db48df9ce7836a8ff3c1", 
+  "source_uri": "https://pypi.python.org/packages/source/A/AuthRPC/AuthRPC-0.3.1a.tar.gz"
+}

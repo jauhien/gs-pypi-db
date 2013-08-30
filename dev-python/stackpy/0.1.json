@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the Stack Exchange API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/stackpy", 
+  "info": {
+    "Author:": "Nathan Osman", 
+    "Home Page:": "https://launchpad.net/stackpy", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Nathan.Osman"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for the Stack Exchange API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bc71cdb7bd630265c51d70ce16b5ef76", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stackpy/stackpy-0.1.tar.gz"
+}

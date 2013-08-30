@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides an interface and a default adapter to allow users to search the catalog independent of the View permission.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.allowsearch/trunk", 
+  "info": {
+    "Author:": "Stefan Eletzhofer", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.allowsearch/trunk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "seletz"
+  }, 
+  "license": "", 
+  "longdescription": "Provides an interface and a default adapter to allow users to search the catalog independent of the View permission.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "548046117b0f4fbba638de2e4fbdf581", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.allowsearch/collective.allowsearch-0.1.4.tar.gz"
+}

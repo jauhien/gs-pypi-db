@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Password manager utility using bcrypt or pbkdf2 encoding. Useful in combination with ope.password", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/z3c.bcrypt", 
+  "info": {
+    "Author:": "The Health Agency and the Zope Community", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/z3c.bcrypt", 
+    "Keywords:": "zope authentication password bcrypy pbkdf2", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "jw, janjaapdriessen"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Password manager utility using bcrypt or pbkdf2 encoding. Useful in combination with ope.password", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "25a0bd3cf255f3e3422ffbd3c072fdc7", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.bcrypt/z3c.bcrypt-1.1.tar.gz"
+}

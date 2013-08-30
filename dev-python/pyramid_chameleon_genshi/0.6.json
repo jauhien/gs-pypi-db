@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "chameleon.genshi template bindings for the Pyramid web framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.pylonshq.com", 
+  "info": {
+    "Author:": "Chris McDonough, Agendaless Consulting", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://docs.pylonshq.com", 
+    "Keywords:": "bfg pyramid pylons genshi chameleon templates", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism"
+  }, 
+  "license": "", 
+  "longdescription": "chameleon.genshi template bindings for the Pyramid web framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1f6a655aa9dead0a3c74bc0b1c39e07", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_chameleon_genshi/pyramid_chameleon_genshi-0.6.tar.gz"
+}

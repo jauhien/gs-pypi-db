@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a port of the var_dump function of php to python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jvanasco/php_var_dump", 
+  "info": {
+    "Author:": "Jonathan Vanasco", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jvanasco/php_var_dump", 
+    "Package Index Owner:": "jvanasco"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "a port of the var_dump function of php to python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c4f7c8010d9e470704c5ccbc31e628f4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/php_var_dump/php_var_dump-0.1.tar.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTTP server integration for testing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://projects.gocept.com/projects/gocept-httpserverlayer/", 
+  "info": {
+    "Author:": "gocept <mail@gocept.com>", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ]
+    }, 
+    "Home Page:": "https://projects.gocept.com/projects/gocept-httpserverlayer/", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ckauhaus, ctheune, DanielHavlikGocept, sweh, icemac, zagy, tlotze, wosc"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "HTTP server integration for testing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ade6afe6f329f573e4259995a21e984", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.httpserverlayer/gocept.httpserverlayer-1.3.0.zip"
+}

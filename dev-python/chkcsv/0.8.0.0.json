@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Check the format of a CSV file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "none", 
+  "info": {
+    "Author:": "Dreas Nielsen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "General"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//chkcsv", 
+    "Home Page:": "none", 
+    "Package Index Owner:": "rdnielsen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Check the format of a CSV file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "48886ea9447f90c1e8f7733b79524725", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chkcsv/chkcsv-0.8.0.0.zip"
+}

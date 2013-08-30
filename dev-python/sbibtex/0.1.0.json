@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small collection of bibtex utilities (incl. a minimal parser)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zerok/zsbibtex/", 
+  "info": {
+    "Author:": "Horst Gutmann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/zerok/zsbibtex/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zerok"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A small collection of bibtex utilities (incl. a minimal parser)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "527c99050d368c8035bce53b62cf6c04", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zs.bibtex/zs.bibtex-0.1.0.tar.gz"
+}

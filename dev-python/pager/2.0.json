@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Terminalconsole pager module for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/techtonik/python-pager", 
+  "info": {
+    "Author:": "anatoly techtonik", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/techtonik/python-pager", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "techtonik"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Terminalconsole pager module for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c119c46236b55a5418d736178c1dc47", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pager/pager-2.0.tar.gz"
+}

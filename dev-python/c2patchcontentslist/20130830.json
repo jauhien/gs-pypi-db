@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "contents tab viewing order change on folder in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cmscom.jp", 
+  "info": {
+    "Author:": "Manabu TERADA", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.cmscom.jp", 
+    "Keywords:": "plone patch contentstab", 
+    "License:": "GPL", 
+    "Package Index Owner:": "terapyon"
+  }, 
+  "license": "", 
+  "longdescription": "contents tab viewing order change on folder in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f5e584e7c480446a32760813d732c09", 
+  "source_uri": "https://pypi.python.org/packages/source/c/c2.patch.contentslist/c2.patch.contentslist-1.0RC4.tar.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple schema-based serialiation and deserialiation library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.pylonsproject.org/projects/colander/en/latest/", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "http://docs.pylonsproject.org/projects/colander/en/latest/", 
+    "Keywords:": "serialize deserialize validate schema validation", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism"
+  }, 
+  "license": "", 
+  "longdescription": "A simple schema-based serialiation and deserialiation library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "569dea523561f5d94338ef9d9a98d249", 
+  "source_uri": "https://pypi.python.org/packages/source/c/colander/colander-1.0a5.tar.gz"
+}

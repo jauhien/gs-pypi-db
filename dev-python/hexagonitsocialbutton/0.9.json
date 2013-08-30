@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds viewlets for embedding codes such as social buttons for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.hexagonit.fi", 
+  "info": {
+    "Author:": "Hexagon IT", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//hexagonit.socialbutton", 
+    "Home Page:": "http://www.hexagonit.fi", 
+    "License:": "BSD", 
+    "Package Index Owner:": "taito"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds viewlets for embedding codes such as social buttons for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0f1fdc68b9dc2fae499bb2d6f4f1b62", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hexagonit.socialbutton/hexagonit.socialbutton-0.9.zip"
+}

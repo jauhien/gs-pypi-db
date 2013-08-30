@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command Wrapper (make subprocess.Popen() easy)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Yves-Gwenael Bourhis", 
+    "License:": "GNU General Public License version 2.0", 
+    "Package Index Owner:": "ygbourhis", 
+    "Platform:": "Windows,Linux,Mac OS"
+  }, 
+  "license": "", 
+  "longdescription": "Command Wrapper (make subprocess.Popen() easy)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a337bfbcc98dcb13cd85995e252a9d90", 
+  "source_uri": "https://pypi.python.org/packages/source/c/commandwrapper/commandwrapper-0.7.zip"
+}

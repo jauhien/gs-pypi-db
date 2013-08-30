@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Code for creating Twisted JSON-RPC servers and clients.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/txjsonrpc", 
+  "info": {
+    "Author:": "Duncan McGreggor", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/txjsonrpc", 
+    "License:": "MIT", 
+    "Package Index Owner:": "oubiwann"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Code for creating Twisted JSON-RPC servers and clients.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6654aaa01a6d0aff53e57073c81e08c", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txJSON-RPC/txJSON-RPC-0.0.4.tar.gz"
+}

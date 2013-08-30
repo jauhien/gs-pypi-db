@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tiny tool for generating templated config files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/j4mie/confuzzle", 
+  "info": {
+    "Author:": "Jamie Matthews", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/j4mie/confuzzle", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "j4mie"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A tiny tool for generating templated config files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dbbfec7eff557b08388e70b4d48c4782", 
+  "source_uri": "https://pypi.python.org/packages/source/c/confuzzle/confuzzle-0.2.0.tar.gz"
+}

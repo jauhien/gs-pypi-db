@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C implementation of the FastCGI application protocol", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zope Corp. (formerly Digital Creations, LLC.)", 
+    "License:": "MIT-style", 
+    "Package Index Owner:": "pje", 
+    "Platform:": "Posix,Cygwin"
+  }, 
+  "license": "", 
+  "longdescription": "C implementation of the FastCGI application protocol", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "093da7f57ff1ca7eddd20b3e874f06dd", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fcgiapp/fcgiapp-1.4.tar.bz2"
+}

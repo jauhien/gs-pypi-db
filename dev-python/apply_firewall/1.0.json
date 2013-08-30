@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for applying iptables of linux safely, it rollbacks to  original iptables if you dont type yes in specific time period. This is useful  to void some situation which like blocked your self from accessing SSH remotely", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/victorlin/apply_firewall/", 
+  "info": {
+    "Author:": "Victor Lin", 
+    "Home Page:": "http://bitbucket.org/victorlin/apply_firewall/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "victorlin"
+  }, 
+  "license": "", 
+  "longdescription": "A tool for applying iptables of linux safely, it rollbacks to  original iptables if you dont type yes in specific time period. This is useful  to void some situation which like blocked your self from accessing SSH remotely", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6c5e0e1d74ce0bd424d931592381a475", 
+  "source_uri": "https://pypi.python.org/packages/source/a/apply_firewall/apply_firewall-1.0.zip"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "git post-commit hook for github. git remote add github, create github repoupdate github repo settings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cancerhermit/githubhook/", 
+  "info": {
+    "Author:": "cancerhermit", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cancerhermit/githubhook/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cancerhermit"
+  }, 
+  "license": "", 
+  "longdescription": "git post-commit hook for github. git remote add github, create github repoupdate github repo settings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8fc47dde27fda58fb61d14539fe7437e", 
+  "source_uri": "https://pypi.python.org/packages/source/g/githubhook/githubhook-0.0.2.tar.gz"
+}

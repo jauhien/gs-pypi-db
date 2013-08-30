@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "postgresql adapter for Flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://example.com/flask-psycopg2/", 
+  "info": {
+    "Author:": "Stefan Brink", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://example.com/flask-psycopg2/", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "brefan", 
+    "Platform:": "any"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "postgresql adapter for Flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff31c9fc8d6af9b1f4d399096c240f99", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Psycopg2/Flask-Psycopg2-1.2.tar.gz"
+}

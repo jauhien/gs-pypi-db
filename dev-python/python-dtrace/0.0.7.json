@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DTrace consumer for Python based on libdtrace. Use Python as DTrace Consumer and Provider See the homepage for more information.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tmetsch.github.com/python-dtrace/", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://tmetsch.github.com/python-dtrace/", 
+    "Keywords:": "DTrace", 
+    "License:": "MIT", 
+    "Package Index Owner:": "tmetsch"
+  }, 
+  "license": "", 
+  "longdescription": "DTrace consumer for Python based on libdtrace. Use Python as DTrace Consumer and Provider See the homepage for more information.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "585210625693619f0bcdaaa1e3cd5a3e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-dtrace/python-dtrace-0.0.7.tar.gz"
+}

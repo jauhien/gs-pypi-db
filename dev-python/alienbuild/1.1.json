@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A large code and asset build system written in python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.chelestra.com/~crawley/alienbuild_web/home.py", 
+  "info": {
+    "Author:": "Patrick Crawley and Charles Mason", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi?%3Aaction=search&term=alienbuild&submit=search", 
+    "Home Page:": "http://www.chelestra.com/~crawley/alienbuild_web/home.py", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Maintainer:": "cemasoniv, libvan", 
+    "Package Index Owner:": "libvan"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A large code and asset build system written in python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d19cad814b6df57942ee4f49a0167d8d", 
+  "source_uri": "http://pypi.python.org/pypi?%3Aaction=search&term=alienbuild&submit=search"
+}

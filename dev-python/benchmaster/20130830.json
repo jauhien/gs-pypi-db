@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for running and automating distributed loadtests with Funkload", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/funkload-bench", 
+  "info": {
+    "Author:": "Julian Coyne and Martin Aspeli", 
+    "Home Page:": "http://pypi.python.org/pypi/funkload-bench", 
+    "Keywords:": "funkload clustered load testing", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for running and automating distributed loadtests with Funkload", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8f0248c5b15cbe3e0defd1e0e39cd270", 
+  "source_uri": "https://pypi.python.org/packages/source/b/benchmaster/benchmaster-1.0b1.tar.gz"
+}

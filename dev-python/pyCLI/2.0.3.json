@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple, object-oriented approach to Python CLI apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/pyCLI/", 
+  "info": {
+    "Author:": "Will Maier", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyCLI", 
+    "Home Page:": "http://packages.python.org/pyCLI/", 
+    "Keywords:": "command line application framework", 
+    "Package Index Owner:": "willmaier"
+  }, 
+  "license": "", 
+  "longdescription": "Simple, object-oriented approach to Python CLI apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89c487e7c8068ce05d63394d2ae7ebad", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyCLI/pyCLI-2.0.3.tar.gz"
+}

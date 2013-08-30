@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python client for communicating with Oracle UCM 11g Content Server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.webmasterwords.com/python-ucm-client", 
+  "info": {
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://www.webmasterwords.com/python-ucm-client", 
+    "Keywords:": "oracle ucm services client", 
+    "Package Index Owner:": "webmasterwords"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A python client for communicating with Oracle UCM 11g Content Server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18287f43909ace90726710aa772f895f", 
+  "source_uri": "https://pypi.python.org/packages/source/u/ucmclient/ucmclient-0.1.0.tar.gz"
+}

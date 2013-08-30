@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A module for querying the sphinx search daemon", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.sphinxsearch.com/", 
+  "info": {
+    "Author:": "Andrew Aksyonoff, Mike Osadnik", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.sphinxsearch.com/", 
+    "Keywords:": "sphinx search daemon", 
+    "Maintainer:": "Johannes 'josch' Schauer", 
+    "Package Index Owner:": "josch"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A module for querying the sphinx search daemon", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "920deac1bd4d16fe1c5b51fe839140ab", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sphinxsearch/sphinxsearch-0.1.tar.gz"
+}

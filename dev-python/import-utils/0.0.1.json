@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A module that supports simple programmatic module imports", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://askbot.org", 
+  "info": {
+    "Author:": "Evgeny.Fadeev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://askbot.org", 
+    "Keywords:": "import,module", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Evgeny.Fadeev"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A module that supports simple programmatic module imports", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9786b19c5760d60acc8ff18b4b5caac6", 
+  "source_uri": "https://pypi.python.org/packages/source/i/import-utils/import-utils-0.0.1.tar.gz"
+}

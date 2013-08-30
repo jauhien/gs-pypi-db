@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plone add-on for videoaudio support using the JWPlayer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://qiweb.net", 
+  "info": {
+    "Author:": "G. Gozadinos", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://qiweb.net", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ggozad"
+  }, 
+  "license": "", 
+  "longdescription": "A plone add-on for videoaudio support using the JWPlayer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "20b798d814c304453d23c005f019e604", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qi.jwMedia/qi.jwMedia-0.5b3.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Gene expression model browser for results from tigre RBioconductor package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://users.ics.tkk.fi/ahonkela/tigre/", 
+  "info": {
+    "Author:": "Miika-Petteri Matikainen", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://users.ics.tkk.fi/ahonkela/tigre/", 
+    "License:": "AGPL3", 
+    "Maintainer:": "Antti Honkela", 
+    "Package Index Owner:": "ahonkela"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Gene expression model browser for results from tigre RBioconductor package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "48262db4dc9352cf84f14d0f86c4449c", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tigreBrowser/tigreBrowser-1.0.2.tar.gz"
+}

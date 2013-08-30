@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Blob storage for PloneSoftwareCenter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.psc.blobstorage", 
+  "info": {
+    "Author:": "Tarek Ziade", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.psc.blobstorage", 
+    "Keywords:": "psc disutils storage", 
+    "License:": "GPL", 
+    "Package Index Owner:": "aclark"
+  }, 
+  "license": "", 
+  "longdescription": "Blob storage for PloneSoftwareCenter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "252f475f34099dfb20e0dd6f5acab514", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.psc.blobstorage/collective.psc.blobstorage-0.1.1.zip"
+}

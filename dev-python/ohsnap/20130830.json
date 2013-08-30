@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tarsnap backup manager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/ohsnap", 
+  "info": {
+    "Author:": "Shawn Siefkas", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ohsnap", 
+    "Home Page:": "http://packages.python.org/ohsnap", 
+    "Keywords:": "backup tarsnap", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ssiefkas"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A tarsnap backup manager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "927d1c7967714eca3ebff31545497b9d", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ohsnap/ohsnap-0.1.0a-20120509.tar.gz"
+}

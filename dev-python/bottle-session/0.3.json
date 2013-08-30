@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis based sessions for bottle.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/devries/bottle-session", 
+  "info": {
+    "Author:": "Christopher De Vries", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Bottle"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Artistic License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/devries/bottle-session", 
+    "License:": "Artistic", 
+    "Package Index Owner:": "nissyen"
+  }, 
+  "license": "Artistic License", 
+  "longdescription": "Redis based sessions for bottle.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "270023aa1edbcb1eeb5eaef5dcfe9b52", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bottle-session/bottle-session-0.3.tar.gz"
+}

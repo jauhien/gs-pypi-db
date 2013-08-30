@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A graphical workflow editor for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.workflowed", 
+  "info": {
+    "Author:": "Carlos de la Guardia", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.workflowed", 
+    "Keywords:": "zope plone workflow editor", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cguardia"
+  }, 
+  "license": "", 
+  "longdescription": "A graphical workflow editor for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c36c727028153723e10bed35f81138cc", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.workflowed/collective.workflowed-1.1.tar.gz"
+}

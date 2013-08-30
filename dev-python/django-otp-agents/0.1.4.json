@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration of django-otp and django-agent-trust.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/psagers/django-otp", 
+  "info": {
+    "Author:": "Peter Sagerson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-otp-agents", 
+    "Home Page:": "https://bitbucket.org/psagers/django-otp", 
+    "License:": "BSD", 
+    "Package Index Owner:": "psagers"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Integration of django-otp and django-agent-trust.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f582899b25b3b90a82abae7682abb12c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-otp-agents/django-otp-agents-0.1.4.tar.gz"
+}

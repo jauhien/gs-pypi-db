@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A configurable pipeline, aimed at transforming content for import and export", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.transmogrifier", 
+  "info": {
+    "Author:": "Jarn", 
+    "Home Page:": "http://pypi.python.org/pypi/collective.transmogrifier", 
+    "Keywords:": "content import filtering", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "optilude, laurencerowe", 
+    "Package Index Owner:": "lentinj, mj, laurencerowe"
+  }, 
+  "license": "", 
+  "longdescription": "A configurable pipeline, aimed at transforming content for import and export", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e9149e4d58877317acda6fc67babc63d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.transmogrifier/collective.transmogrifier-1.5.zip"
+}

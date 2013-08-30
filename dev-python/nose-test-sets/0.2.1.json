@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create test sets to test different implementations of the same interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mwilliamson/spur.py", 
+  "info": {
+    "Author:": "Michael Williamson", 
+    "Home Page:": "http://github.com/mwilliamson/spur.py", 
+    "Package Index Owner:": "michaelwilliamson"
+  }, 
+  "license": "", 
+  "longdescription": "Create test sets to test different implementations of the same interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2c935d230cce29a0c93601d2d0c49e94", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-test-sets/nose-test-sets-0.2.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python Gevent RPC  golang RPC", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/seewind/grpc", 
+  "info": {
+    "Author:": "seewind", 
+    "Home Page:": "https://bitbucket.org/seewind/grpc", 
+    "License:": "MIT", 
+    "Package Index Owner:": "seewind"
+  }, 
+  "license": "", 
+  "longdescription": "Pure Python Gevent RPC  golang RPC", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e2fde4ddded04fcfe962aa3f3c29ffa", 
+  "source_uri": "https://pypi.python.org/packages/source/g/grpc/grpc-0.3-16.tar.gz"
+}

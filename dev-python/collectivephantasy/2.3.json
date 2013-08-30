@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "dynamic theme for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective-phantasy", 
+  "info": {
+    "Author:": "Jean-mat Grimaldi & Gilles Lenfant's good advice and moral support", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective-phantasy", 
+    "Keywords:": "theme skin dynamic-skin", 
+    "License:": "GPL", 
+    "Package Index Owner:": "macadames, ingeniweb, tdesvenain, vincentfretin"
+  }, 
+  "license": "", 
+  "longdescription": "dynamic theme for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1dcf3577b29006ef0e6a5deefc1712ff", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.phantasy/collective.phantasy-2.3.zip"
+}

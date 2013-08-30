@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A logger that logs in a tree structure form in mongo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/TheThing/treelogger4mongo", 
+  "info": {
+    "Author:": "Jonatan Nilsson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/TheThing/treelogger4mongo", 
+    "License:": "WTFPL-2", 
+    "Package Index Owner:": "TheThing"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A logger that logs in a tree structure form in mongo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c4f623253c09b512288f6f603647ffb", 
+  "source_uri": "https://pypi.python.org/packages/source/t/treelogger4mongo/treelogger4mongo-0.1.0.tar.gz"
+}

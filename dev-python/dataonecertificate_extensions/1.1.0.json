@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python extensions for generating and extracting PEM formatted X.50 v3 certificates that contain DataONE Session information", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dataone.org", 
+  "info": {
+    "Author:": "DataONE Project", 
+    "Documentation:": "http://pythonhosted.org//dataone.certificate_extensions", 
+    "Home Page:": "http://dataone.org", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "dataone"
+  }, 
+  "license": "", 
+  "longdescription": "Python extensions for generating and extracting PEM formatted X.50 v3 certificates that contain DataONE Session information", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b27f5437539aef19c45ede0661830751", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dataone.certificate_extensions/dataone.certificate_extensions-1.1.0.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client for Google Cloud Messaging (GCM)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/sardarnl/gcm-client", 
+  "info": {
+    "Author:": "Sardar Yumatov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/sardarnl/gcm-client", 
+    "Keywords:": "gcm push notification google cloud messaging android", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "sardarnl"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python client for Google Cloud Messaging (GCM)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77dc4034107eefcaae46612ca2cb8426", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gcm-client/gcm-client-0.1.3.tar.gz"
+}

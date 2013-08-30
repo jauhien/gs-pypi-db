@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for your taskwarrior database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ralphbean/taskw", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ralphbean/taskw", 
+    "Keywords:": "taskwarrior task", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python bindings for your taskwarrior database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1734cc12938cf8be509c4cefdd834090", 
+  "source_uri": "https://pypi.python.org/packages/source/t/taskw/taskw-0.6.0.tar.gz"
+}

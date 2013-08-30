@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "memcached_memoie is decorator to make easy to use Djangos cache backends to memoie python functions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/globocom/memcached_memoize", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/globocom/memcached_memoize", 
+    "Keywords:": "memcached_memoize", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vbmendes"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "memcached_memoie is decorator to make easy to use Djangos cache backends to memoie python functions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4315b3fc8b330baba57575da5fc9afeb", 
+  "source_uri": "https://pypi.python.org/packages/source/m/memcached_memoize/memcached_memoize-0.2.1.tar.gz"
+}

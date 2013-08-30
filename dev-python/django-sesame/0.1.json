@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "URL-based authentication, an application that provides one-click login via specially crafted URLs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aaugustin/django-sesame", 
+  "info": {
+    "Author:": "Aymeric Augustin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/django-sesame", 
+    "Home Page:": "https://github.com/aaugustin/django-sesame", 
+    "License:": "BSD", 
+    "Package Index Owner:": "aaugustin", 
+    "Platform:": "all"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "URL-based authentication, an application that provides one-click login via specially crafted URLs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be452501c526e231c6bd6da161409f15", 
+  "source_uri": "http://pypi.python.org/pypi/django-sesame"
+}

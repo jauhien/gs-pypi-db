@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "iniconfig brain-dead simple config-ini parsing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/RonnyPfannschmidt/inipkg", 
+  "info": {
+    "Author:": "Ronny Pfannschmidt, Holger Krekel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/RonnyPfannschmidt/inipkg", 
+    "License:": "MIT License", 
+    "Package Index Maintainer:": "hpk", 
+    "Package Index Owner:": "ronny, hpk", 
+    "Platform:": "unix,linux,osx,cygwin,win32"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "iniconfig brain-dead simple config-ini parsing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b575d98a890d4896a089b09f660c462b", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iniconfig/iniconfig-0.2.dev0.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Link third-party service accounts to Django accounts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zen4ever/django-linked-accounts", 
+  "info": {
+    "Author:": "Andrii Kurinnyi", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zen4ever/django-linked-accounts", 
+    "Keywords:": "django,oauth,accounts,twitter,facebook", 
+    "Package Index Owner:": "prigun.myopenid.com"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Link third-party service accounts to Django accounts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1aecc6aae74b9f8825492a7e71087b1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-linked-accounts/django-linked-accounts-2.2.1.tar.gz"
+}

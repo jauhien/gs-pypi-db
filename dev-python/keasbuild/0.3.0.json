@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Build System", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/keas.build", 
+  "info": {
+    "Author:": "Stephan Richter and the Zope Community", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/keas.build", 
+    "Keywords:": "zope3 release build", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "pcardune, agroszer, projekt01, srichter, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A Build System", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "215edaa5b48f991e14c20224f8dfa2e5", 
+  "source_uri": "https://pypi.python.org/packages/source/k/keas.build/keas.build-0.3.0.zip"
+}

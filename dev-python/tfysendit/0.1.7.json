@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TFY application used to share files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.ztfy.org/sendit", 
+  "info": {
+    "Author:": "Thierry Florac", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://hg.ztfy.org/sendit", 
+    "Keywords:": "ZTFY sendit application", 
+    "License:": "zpl", 
+    "Package Index Owner:": "tflorac"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "TFY application used to share files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4074d5820367bacf689795be100ad13", 
+  "source_uri": "https://pypi.python.org/packages/source/z/ztfy.sendit/ztfy.sendit-0.1.7.tar.gz"
+}

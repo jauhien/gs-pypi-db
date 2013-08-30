@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Let the user secure his session for usage in public computers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yourlabs/django-session-security", 
+  "info": {
+    "Author:": "James Pic", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yourlabs/django-session-security", 
+    "Keywords:": "django session", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jpic"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Let the user secure his session for usage in public computers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "16fc514f3c6e2a8fc8274d95e274284e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-session-security/django-session-security-2.0.5.tar.gz"
+}

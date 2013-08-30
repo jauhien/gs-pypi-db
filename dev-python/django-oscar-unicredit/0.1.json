@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plugin to pay with unicredit bank", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/marcominutoli/django-oscar-unicredit", 
+  "info": {
+    "Author:": "Marco Minutoli", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/marcominutoli/django-oscar-unicredit", 
+    "Keywords:": "E-commerce,Django,domain-driven,Payment,Unicredit", 
+    "License:": "BSD", 
+    "Package Index Owner:": "marcominutoli"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A plugin to pay with unicredit bank", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b311f7d8e167cfe97c13167e5ebe8960", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-oscar-unicredit/django-oscar-unicredit-0.1.tar.gz"
+}

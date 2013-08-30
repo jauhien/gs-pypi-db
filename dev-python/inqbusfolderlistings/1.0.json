@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A databrowser-like view for folders and collections", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Max Brauer", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "derstappenit, thomas.massmann", 
+    "Package Index Owner:": "M.Brauer"
+  }, 
+  "license": "", 
+  "longdescription": "A databrowser-like view for folders and collections", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c583d2609d6269cbe9fc07ddd72affa", 
+  "source_uri": "https://pypi.python.org/packages/source/i/inqbus.folderlistings/inqbus.folderlistings-1.0.tar.gz"
+}

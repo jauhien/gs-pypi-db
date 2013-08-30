@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous jobs worker for TurboGears2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/_amol_/tgext.asyncjob", 
+  "info": {
+    "Author:": "Alessandro Molina", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "TurboGears"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/_amol_/tgext.asyncjob", 
+    "Keywords:": "turbogears2.extension pylons", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "amol"
+  }, 
+  "license": "", 
+  "longdescription": "Asynchronous jobs worker for TurboGears2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21428bdc012a9b1e84db97f04b6d9cec", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tgext.asyncjob/tgext.asyncjob-0.2.1.tar.gz"
+}

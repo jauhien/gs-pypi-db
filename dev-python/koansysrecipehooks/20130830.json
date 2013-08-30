@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe to run python methods as hooks", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://koansys-recipe-hooks.googlecode.com/svn/trunk", 
+  "info": {
+    "Author:": "Chris Shenton", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ]
+    }, 
+    "Home Page:": "http://koansys-recipe-hooks.googlecode.com/svn/trunk", 
+    "Keywords:": "buildout", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cshenton"
+  }, 
+  "license": "", 
+  "longdescription": "c.buildout recipe to run python methods as hooks", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c1691d25b5c6d53980b1aa052a0ca165", 
+  "source_uri": "https://pypi.python.org/packages/source/k/koansys.recipe.hooks/koansys.recipe.hooks-0.1-dev-r8.tar.gz"
+}

@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Application installation support recipes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/p01.recipe.setup", 
+  "info": {
+    "Author:": "Roger Ineichen and the Zope Community", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/p01.recipe.setup", 
+    "Keywords:": "zope3 p01 dev recipe setup installation installer", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "projekt01, agroszer, srichter, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Application installation support recipes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d85003ac41d89c079660d4e557bc00ea", 
+  "source_uri": "https://pypi.python.org/packages/source/p/p01.recipe.setup/p01.recipe.setup-0.7.6.zip"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility for installing binaries from source with a single command", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mwilliamson/whack", 
+  "info": {
+    "Author:": "Michael Williamson", 
+    "Home Page:": "http://github.com/mwilliamson/whack", 
+    "Package Index Owner:": "michaelwilliamson"
+  }, 
+  "license": "", 
+  "longdescription": "Utility for installing binaries from source with a single command", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be5106c6cdf21c56b88832b3995c5530", 
+  "source_uri": "https://pypi.python.org/packages/source/w/whack/whack-0.6.9.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lets doit read tasks defined using classes, decorated functions or function calls.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/takluyver/letsdoit", 
+  "info": {
+    "Author:": "Thomas Kluyver", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/takluyver/letsdoit", 
+    "Package Index Owner:": "takowl"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Lets doit read tasks defined using classes, decorated functions or function calls.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7ba71e2b64fc4d070923c1a186700d49", 
+  "source_uri": "https://pypi.python.org/packages/source/l/letsdoit/letsdoit-0.1.tar.gz"
+}

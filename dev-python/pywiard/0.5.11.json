@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool that implements chefpuppet -like approach for server management.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alex Rudakov", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ribozz"
+  }, 
+  "license": "", 
+  "longdescription": "Tool that implements chefpuppet -like approach for server management.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b8afc1f07764abc77e233424c737a96", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pywizard/pywizard-0.5.11.tar.gz"
+}

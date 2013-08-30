@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Import binary content into TiddlyWeb via twanager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.bimport", 
+  "info": {
+    "Author:": "Ben Gillies", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.bimport", 
+    "Package Index Owner:": "bengillies", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Import binary content into TiddlyWeb via twanager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "226e8c2a53ceb75f4585ff0aacf66d48", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.bimport/tiddlywebplugins.bimport-0.3.tar.gz"
+}

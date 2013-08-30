@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "python deployment process based on buildout and mr.developer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/bda.recipe.deployment", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/bda.recipe.deployment", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "rnix, jensens"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "python deployment process based on buildout and mr.developer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f01f2e629d59b055265acdaab942164b", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bda.recipe.deployment/bda.recipe.deployment-2.0b5.tar.gz"
+}

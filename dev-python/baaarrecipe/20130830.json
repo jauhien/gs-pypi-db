@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe for Baaar", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/bazaarrecipe", 
+  "info": {
+    "Author:": "Jeroen Vloothuis", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/bazaarrecipe", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jvloothuis"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Buildout recipe for Baaar", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc77bf5ee09706beb07ad993a4db5044", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bazaarrecipe/bazaarrecipe-0.1dev.tar.gz"
+}

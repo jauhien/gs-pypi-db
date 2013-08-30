@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "package to display a fill-percentage for AT based content", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.beancounter/trunk", 
+  "info": {
+    "Author:": "Stefan Eletzhofer", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.beancounter/trunk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "seletz"
+  }, 
+  "license": "", 
+  "longdescription": "package to display a fill-percentage for AT based content", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dcd815319a8be9ee82ffd8b06f5f4aff", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.beancounter/collective.beancounter-0.3.1.tar.gz"
+}

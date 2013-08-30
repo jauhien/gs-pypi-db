@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Testing django without all the fixtures", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ccollins/milkman/", 
+  "info": {
+    "Author:": "Wilkes Joiner, Chuck Collins, Patrick Altman", 
+    "Home Page:": "http://github.com/ccollins/milkman/", 
+    "Keywords:": "django testing mock stub", 
+    "License:": "MIT", 
+    "Package Index Owner:": "paltman, ccollins"
+  }, 
+  "license": "", 
+  "longdescription": "Testing django without all the fixtures", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f260072c4a3713a666c602d227f73847", 
+  "source_uri": "https://pypi.python.org/packages/source/m/milkman/milkman-0.4.5.tar.gz"
+}

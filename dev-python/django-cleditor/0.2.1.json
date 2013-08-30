@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django form widget for CLEditor (a super clean, MIT licensed WYSIWYG HTML editor) that handles uploading", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yuchant/django-cleditor", 
+  "info": {
+    "Author:": "Yuji Tomita", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yuchant/django-cleditor", 
+    "Package Index Owner:": "yuchant"
+  }, 
+  "license": "", 
+  "longdescription": "A django form widget for CLEditor (a super clean, MIT licensed WYSIWYG HTML editor) that handles uploading", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec1f4120d752c2d4bbc16475653a3f00", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cleditor/django-cleditor-0.2.1.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django APP for Social account login via OAuth2 Service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yueyoum/django-social-login", 
+  "info": {
+    "Author:": "Wang Chao", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yueyoum/django-social-login", 
+    "Keywords:": "social,oauth,oauth2,django,login", 
+    "License:": "BSD", 
+    "Package Index Owner:": "yueyoum"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django APP for Social account login via OAuth2 Service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f7efecfe3a63df7f6ac66967693350d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-social-login/django-social-login-0.2.0.tar.gz"
+}

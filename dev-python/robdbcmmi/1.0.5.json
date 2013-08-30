@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for BDB configuremakemake install", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/ro.bdb.cmmi", 
+  "info": {
+    "Author:": "Reed O'Brien", 
+    "Download URL:": "http://ro-bdb-cmmi.googlecode.com/files/ro.bdb.cmmi-1.0.5.tar.gz", 
+    "Home Page:": "http://www.python.org/pypi/ro.bdb.cmmi", 
+    "Keywords:": "zope3", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "reedobrien"
+  }, 
+  "license": "", 
+  "longdescription": "C Buildout recipe for BDB configuremakemake install", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7b8488b3e43acedc9019f4830f489d29", 
+  "source_uri": "http://ro-bdb-cmmi.googlecode.com/files/ro.bdb.cmmi-1.0.5.tar.gz"
+}

@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenID integration for django.contrib.auth", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/django-openid-auth", 
+  "info": {
+    "Author:": "Canonical Ltd", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://launchpad.net/django-openid-auth/trunk/0.5/+download/django-openid-auth-0.5.tar.gz", 
+    "Home Page:": "https://launchpad.net/django-openid-auth", 
+    "License:": "BSD", 
+    "Package Index Owner:": "james, elachuni", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "OpenID integration for django.contrib.auth", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75277ad166be391fbc4ca87666bf64d1", 
+  "source_uri": "http://launchpad.net/django-openid-auth/trunk/0.5/+download/django-openid-auth-0.5.tar.gz"
+}

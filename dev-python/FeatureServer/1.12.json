@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A server for geographic features on the web.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://featureserver.org/", 
+  "info": {
+    "Author:": "MetaCarta Labs", 
+    "Home Page:": "http://featureserver.org/", 
+    "License:": "Clear BSD", 
+    "Package Index Owner:": "iocast, crschmidt"
+  }, 
+  "license": "", 
+  "longdescription": "A server for geographic features on the web.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6fc99d4dcf8d93d667005fa4e0a8e39a", 
+  "source_uri": "https://pypi.python.org/packages/source/F/FeatureServer/FeatureServer-1.12.tar.gz"
+}

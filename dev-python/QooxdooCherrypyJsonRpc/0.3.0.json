@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Qooxdoo-specific CherryPy-based JSON RPC-server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/qooxdoo-cherrypy-json-rpc/", 
+  "info": {
+    "Author:": "saaj", 
+    "Categories": {
+      "Framework": [
+        "CherryPy"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Communications"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/qooxdoo-cherrypy-json-rpc/", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "saaj", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "Qooxdoo-specific CherryPy-based JSON RPC-server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae7e41ef13b9f5b11520b74edae5d0c8", 
+  "source_uri": "https://pypi.python.org/packages/source/Q/QooxdooCherrypyJsonRpc/QooxdooCherrypyJsonRpc-0.3.0.zip"
+}

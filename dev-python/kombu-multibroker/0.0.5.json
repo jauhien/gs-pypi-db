@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Support for multiple brokers and publisher confirms in Kombu", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rbranson/kombu-multibroker", 
+  "info": {
+    "Author:": "Rick Branson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rbranson/kombu-multibroker", 
+    "Keywords:": "kombu broker amqp", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rbranson, mikeyk"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Support for multiple brokers and publisher confirms in Kombu", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d19527e613cd93bf73785883277f8393", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kombu-multibroker/kombu-multibroker-0.0.5.tar.gz"
+}

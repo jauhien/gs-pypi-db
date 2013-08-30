@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "opeEdit  External Editor Client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.zopeedit/", 
+  "info": {
+    "Author:": "Thierry Benita - atReal", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.zopeedit/", 
+    "Keywords:": "zope plone externaleditor zopeedit edition", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tbenita, tiazma, f10w"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "opeEdit  External Editor Client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac7b6c7c5e5e6b95b8282783472f0247", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.zopeedit/collective.zopeedit-1.0.0.tar.gz"
+}

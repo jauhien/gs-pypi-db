@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Transaction management for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.zope.org/Products/ZODB", 
+  "info": {
+    "Author:": "Zope Corporation", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Framework": [
+        "ZODB"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.zope.org/Products/ZODB", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "mgedmin, chrism, srichter, tseaver, J1m, ctheune, roymath, gary, tlotze, faassen, agroszer, hannosch, baijum, menesis, davisagli", 
+    "Platform:": "any"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Transaction management for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8db2680bc0f999219861a67b8f335a88", 
+  "source_uri": "https://pypi.python.org/packages/source/t/transaction/transaction-1.4.1.zip"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of skeletons for quickstarting projects with Ingeniweb products.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ingeniweb.svn.sourceforge.net/svnroot/ingeniweb/IngeniSkel", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://ingeniweb.svn.sourceforge.net/svnroot/ingeniweb/IngeniSkel", 
+    "Keywords:": "web zope command-line skeleton project", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A collection of skeletons for quickstarting projects with Ingeniweb products.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75340cd47552b0b66dec88e664d2052a", 
+  "source_uri": "https://pypi.python.org/packages/source/I/IngeniSkel/IngeniSkel-0.3.3.tar.gz"
+}

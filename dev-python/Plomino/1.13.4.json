@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create specific applications in Plone without developing. Created by Makina Corpus.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.plomino.net", 
+  "info": {
+    "Author:": "Eric BREHAULT", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.plomino.net", 
+    "Keywords:": "RAD,dynamic forms,web application builder", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "kiorky", 
+    "Package Index Owner:": "ebrehault"
+  }, 
+  "license": "", 
+  "longdescription": "Create specific applications in Plone without developing. Created by Makina Corpus.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5c08b1777cdffcb3606ce0f01293ae12", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Plomino/Plomino-1.13.4.tar.gz"
+}

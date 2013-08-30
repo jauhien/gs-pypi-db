@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A portlet that provides the links of an action category", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective-portlet-actions", 
+  "info": {
+    "Author:": "Gilles Lenfant", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective-portlet-actions", 
+    "Keywords:": "plone portlet", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb, iT0m"
+  }, 
+  "license": "", 
+  "longdescription": "A portlet that provides the links of an action category", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "699b78ce8b2944a1407d2a81c35f91cd", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.actions/collective.portlet.actions-1.2.2.zip"
+}

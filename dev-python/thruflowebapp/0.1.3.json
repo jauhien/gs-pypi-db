@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Yet another WSGI web app framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/thruflo/thruflo.webapp", 
+  "info": {
+    "Author:": "James Arthur", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/thruflo/thruflo.webapp", 
+    "License:": "Public Domain (http://creativecommons.org/publicdomain/zero/1.0/legalcode)", 
+    "Package Index Owner:": "thruflo"
+  }, 
+  "license": "", 
+  "longdescription": "Yet another WSGI web app framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a3322a084d5945c81ce2d0549b9caa72", 
+  "source_uri": "https://pypi.python.org/packages/source/t/thruflo.webapp/thruflo.webapp-0.1.3.tar.gz"
+}

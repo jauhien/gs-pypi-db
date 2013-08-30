@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plants some git-related data into the .egg-info directory of a python package.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Package Index Owner:": "jayd3e"
+  }, 
+  "license": "", 
+  "longdescription": "Plants some git-related data into the .egg-info directory of a python package.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95787d45e8115fb5de020c241a134b59", 
+  "source_uri": "https://pypi.python.org/packages/source/e/egggitinfo/egggitinfo-0.1.tar.gz"
+}

@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python interface to sendfile(2)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ben Woolley", 
+    "Package Index Owner:": "ionel"
+  }, 
+  "license": "", 
+  "longdescription": "A Python interface to sendfile(2)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64c591fd32aeed948ff8e295e8952a80", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py-sendfile/py-sendfile-1.2.3.tar.gz"
+}

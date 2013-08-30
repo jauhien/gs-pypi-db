@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for the Linux schroot command", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/boerni/pyschroot", 
+  "info": {
+    "Author:": "Bernhard Janetzki", 
+    "Home Page:": "https://bitbucket.org/boerni/pyschroot", 
+    "Package Index Owner:": "boerni"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper for the Linux schroot command", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dab308792c545f17e508a5cc7e2afbcb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyschroot/pyschroot-0.0.2.tar.gz"
+}

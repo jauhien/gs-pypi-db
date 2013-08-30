@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Selectively purge daily full backups", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://thp.io/2013/backuppurge/", 
+  "info": {
+    "Author:": "Thomas Perl", 
+    "Download URL:": "http://thp.io/2013/backuppurge/backuppurge-1.0.2.tar.gz", 
+    "Home Page:": "http://thp.io/2013/backuppurge/", 
+    "License:": "Simplified BSD License", 
+    "Package Index Owner:": "thp"
+  }, 
+  "license": "", 
+  "longdescription": "Selectively purge daily full backups", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c2e0d054eedc6ff8629f70f6b42f1ca2", 
+  "source_uri": "http://thp.io/2013/backuppurge/backuppurge-1.0.2.tar.gz"
+}

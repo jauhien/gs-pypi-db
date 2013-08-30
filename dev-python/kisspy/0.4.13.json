@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MVC web framework in Python with Gevent, Jinja2, Werkeug", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://stanislavfeldman.github.com/kiss.py/", 
+  "info": {
+    "Author:": "Stanislav Feldman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://stanislavfeldman.github.com/kiss.py/", 
+    "Keywords:": "web framework gevent jinja2 werkzeug orm oauth socialauth vkontakte facebook google yandex", 
+    "Package Index Owner:": "stanislavfeldman"
+  }, 
+  "license": "", 
+  "longdescription": "MVC web framework in Python with Gevent, Jinja2, Werkeug", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "752271a3c2cb95ddf42a2501cc721800", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kiss.py/kiss.py-0.4.13.tar.gz"
+}

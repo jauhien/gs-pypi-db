@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A patch to query an browser on every context", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/hoka/hoka.patches.get_browser", 
+  "info": {
+    "Author:": "Kai Hoppert", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management", 
+        "Link Checking"
+      ]
+    }, 
+    "Home Page:": "https://github.com/hoka/hoka.patches.get_browser", 
+    "Keywords:": "hoka hook get_browser zope2", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "hoka", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A patch to query an browser on every context", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2210584f4a13f4d8ee6aafbfa328cbae", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hoka.patches.get_browser/hoka.patches.get_browser-2.13.19.2.zip"
+}

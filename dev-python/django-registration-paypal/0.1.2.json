@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-registration backend to support paypal payments", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/buchuki/django-registration-paypal", 
+  "info": {
+    "Author:": "Dusty Phillips", 
+    "Home Page:": "http://github.com/buchuki/django-registration-paypal", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "buchuki"
+  }, 
+  "license": "", 
+  "longdescription": "django-registration backend to support paypal payments", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95d9caaebe98ee4205636728acccfd9a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-registration-paypal/django-registration-paypal-0.1.2.tar.gz"
+}

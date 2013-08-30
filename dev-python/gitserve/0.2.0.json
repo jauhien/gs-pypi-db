@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A helper tool for git that mimics mercurials serve command", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jezdez/gitserve/", 
+  "info": {
+    "Author:": "Jannis Leidel", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jezdez/gitserve/", 
+    "Keywords:": "git dvcs mercurial serve cgi", 
+    "License:": "GPL-2", 
+    "Package Index Owner:": "jezdez"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A helper tool for git that mimics mercurials serve command", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ac758f65b5205bf57f25ffefae71c11", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gitserve/gitserve-0.2.0.tar.gz"
+}

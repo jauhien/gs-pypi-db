@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tornado-powered python library that provides asynchronous access to elasticsearch.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/globocom/tornado-es", 
+  "info": {
+    "Author:": "Team Search of globo.com", 
+    "Download URL:": "http://github.com/globocom/tornado-es", 
+    "Home Page:": "http://github.com/globocom/tornado-es", 
+    "License:": "MIT", 
+    "Package Index Owner:": "luizgpsantos"
+  }, 
+  "license": "", 
+  "longdescription": "A tornado-powered python library that provides asynchronous access to elasticsearch.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e59e867544eb8b015044f71a4b221e4e", 
+  "source_uri": "http://github.com/globocom/tornado-es"
+}

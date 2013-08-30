@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous HTTP fetching, cluster management, and other goodies for the Twisted framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://foss.eepatents.com/Twisted-Goodies/", 
+  "info": {
+    "Author:": "Edwin A. Suominen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://foss.eepatents.com/Twisted-Goodies/", 
+    "Keywords:": "Twisted,asynchronous,web,fetch,patent,wget", 
+    "License:": "GPL", 
+    "Package Index Owner:": "edsuom", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Asynchronous HTTP fetching, cluster management, and other goodies for the Twisted framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ecfaae638dc8f22477044e0e5667c8b", 
+  "source_uri": "https://pypi.python.org/packages/source/T/Twisted-Goodies/Twisted-Goodies-0.4.tar.gz"
+}

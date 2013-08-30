@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Stateless captcha generation and verification", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mjpieters/collective.captcha", 
+  "info": {
+    "Author:": "Jarn", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mjpieters/collective.captcha", 
+    "Keywords:": "captcha stateless", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mj, wichert, spliter, fschulze, tesdal, helmantel"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Stateless captcha generation and verification", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bc65090fd026b538ccbbce21e40a579e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.captcha/collective.captcha-1.7.zip"
+}

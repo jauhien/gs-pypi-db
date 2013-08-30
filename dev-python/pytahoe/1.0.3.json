@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module for working with the Tahoe-LAFS filesystem.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cryto.net/pytahoe", 
+  "info": {
+    "Author:": "Sven Slootweg", 
+    "Home Page:": "http://cryto.net/pytahoe", 
+    "Package Index Owner:": "Sven.Slootweg_2"
+  }, 
+  "license": "", 
+  "longdescription": "Python module for working with the Tahoe-LAFS filesystem.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8916d8f73d26884a65a5109affca46c3", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytahoe/pytahoe-1.0.3.tar.gz"
+}

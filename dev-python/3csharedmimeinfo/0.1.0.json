@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MIME type guessing framework for ope, based on shared-mime-info", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/z3c.sharedmimeinfo", 
+  "info": {
+    "Author:": "Dan Korostelev and Zope Community", 
+    "Home Page:": "http://pypi.python.org/pypi/z3c.sharedmimeinfo", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "projekt01, J1m, nadako, srichter, faassen, gary, tlotze, baijum, agroszer, hannosch, menesis, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "MIME type guessing framework for ope, based on shared-mime-info", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f40c6aed4e14a0c7f13d9cc9f39f89e", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.sharedmimeinfo/z3c.sharedmimeinfo-0.1.0.tar.gz"
+}

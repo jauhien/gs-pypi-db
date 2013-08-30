@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Migrations from legacy Plone sites (2.0, 2.1, 2.5) to Plone 4.0", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.jsonmigrator", 
+  "info": {
+    "Author:": "Rok Garbas", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.jsonmigrator", 
+    "Keywords:": "plone transmogrifier", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ericoandrei"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "Migrations from legacy Plone sites (2.0, 2.1, 2.5) to Plone 4.0", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4424db4bff4e91036faa0e4c940613cc", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.jsonmigrator/collective.jsonmigrator-0.2.zip"
+}

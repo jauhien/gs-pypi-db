@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bit.ly integration for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/discovery/django-bitly/", 
+  "info": {
+    "Author:": "Discovery Creative", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/discovery/django-bitly/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "curella.org, josh.ourisman.myopenid.com", 
+    "Package Index Owner:": "curella.org, richleland", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Bit.ly integration for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "945a58fba6a0799d32879f3d4a325103", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-bitly/django-bitly-0.7.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "polling svn repository and notify by email.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/shimizukawa/svnpoller", 
+  "info": {
+    "Author:": "Takayuki SHIMIZUKAWA", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/shimizukawa/svnpoller", 
+    "Keywords:": "subversion,svn,poll,notify", 
+    "License:": "PSL", 
+    "Package Index Owner:": "shimizukawa"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "polling svn repository and notify by email.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "142c8c073cd74edde4474cd2fb5d4782", 
+  "source_uri": "https://pypi.python.org/packages/source/s/svnpoller/svnpoller-0.0.10.tar.gz"
+}

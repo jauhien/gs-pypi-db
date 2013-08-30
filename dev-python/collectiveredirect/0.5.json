@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Administer redirects to internal or external URLs using Link like content", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.redirect", 
+  "info": {
+    "Author:": "Ross Patterson", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.redirect", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "cguardia", 
+    "Package Index Owner:": "collective, rpatterson, cguardia"
+  }, 
+  "license": "", 
+  "longdescription": "Administer redirects to internal or external URLs using Link like content", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14d91ed432920823cdb351eec6f919f6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.redirect/collective.redirect-0.5.tar.gz"
+}

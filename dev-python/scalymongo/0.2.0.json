@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A scaling-centric MongoDB object document mapper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/allancaffee/scaly-mongo", 
+  "info": {
+    "Author:": "Allan Caffee", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/allancaffee/scaly-mongo", 
+    "Keywords:": "mongo sharding db", 
+    "License:": "BSD", 
+    "Package Index Owner:": "patricksmith, Allan.Caffee"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A scaling-centric MongoDB object document mapper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "387a7ddf4e1a37e3c0c5b0b0f233db72", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scalymongo/scalymongo-0.2.0.tar.gz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a minimal DSL for building a WSGI app", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://soundofemptiness.com/projects/berry", 
+  "info": {
+    "Author:": "Adeel Ahmad Khan", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "http://soundofemptiness.com/projects/berry", 
+    "Package Index Owner:": "adeel"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "a minimal DSL for building a WSGI app", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "841655fdd3c9c86cb6797942b2ce8924", 
+  "source_uri": "https://pypi.python.org/packages/source/b/berry/berry-0.3.1.tar.gz"
+}

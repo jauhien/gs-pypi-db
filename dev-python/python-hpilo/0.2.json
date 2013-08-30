@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Accessing HP iLO interfaces from python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/seveas/python-hpilo", 
+  "info": {
+    "Author:": "Dennis Kaarsemaker", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//python-hpilo", 
+    "Home Page:": "http://github.com/seveas/python-hpilo", 
+    "Package Index Owner:": "seveas"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Accessing HP iLO interfaces from python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1d2ad8b937bda431e23e6fd053a9544", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-hpilo/python-hpilo-0.2.tar.gz"
+}

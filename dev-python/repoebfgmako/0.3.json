@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mako template bindings for repoe.bfg", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Chris McDonough / Agendaless Consulting", 
+    "Categories": {
+      "Framework": [
+        "BFG"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "web wsgi zope", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "Mako template bindings for repoe.bfg", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4986b703672ee4afe9d64545d79ba1b0", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.bfg.mako/repoze.bfg.mako-0.3.tar.gz"
+}

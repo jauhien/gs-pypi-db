@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Mail Queuing for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dstegelman/django-mail-queue", 
+  "info": {
+    "Author:": "Derek Stegelman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dstegelman/django-mail-queue", 
+    "Keywords:": "django-mail-queue", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dstegelman"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple Mail Queuing for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f99f4a8faba1fc51743a63c7d38a60e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mail-queue/django-mail-queue-2.0.2.tar.gz"
+}

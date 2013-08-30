@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line tool and library for the WebFaction API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.doapspace.org/webf", 
+  "info": {
+    "Author:": "Rob Cakebread", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://trac.doapspace.org/webf", 
+    "Keywords:": "webf webfaction xmlrpc", 
+    "License:": "BSD-2", 
+    "Package Index Owner:": "pythonhead"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Command-line tool and library for the WebFaction API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3bf2a2ffcf0cfbf1c4d0f736a19d72fb", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webf/webf-0.1.0.tar.gz"
+}

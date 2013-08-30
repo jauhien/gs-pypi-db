@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple clone of django_assets compatible with django 1.3 and staticfiles", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Viktor Kotseruba", 
+    "Keywords:": "web django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "barbuza"
+  }, 
+  "license": "", 
+  "longdescription": "simple clone of django_assets compatible with django 1.3 and staticfiles", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1549fc6646cf48169344d05f5027d975", 
+  "source_uri": "https://pypi.python.org/packages/source/a/asset_bundles/asset_bundles-0.1.3.tar.gz"
+}

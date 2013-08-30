@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Very simple application, that allow to define a thread specific global variables.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/svetlyak40wt/django-globals/", 
+  "info": {
+    "Author:": "Alexander Artemenko", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/svetlyak40wt/django-globals/", 
+    "Keywords:": "django apps", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "svetlyak40wt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Very simple application, that allow to define a thread specific global variables.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a7f8587e3340fcf53b0e77a78f5e7ac", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-globals/django-globals-0.1.0.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Package Manager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyg.readthedocs.org/", 
+  "info": {
+    "Author:": "Michele Lacchia", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/pyg", 
+    "Home Page:": "http://pyg.readthedocs.org/", 
+    "Keywords:": "python,easy_install,pip,setuptools,package manager,command line,CLI", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Michele.Lacchia", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python Package Manager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f264abf7d290afbb3cb6235f2926678a", 
+  "source_uri": "http://pypi.python.org/pypi/pyg"
+}

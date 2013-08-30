@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Distributed encrypted backup utility", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://datahaven.net", 
+  "info": {
+    "Author:": "Veselin Penev", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://datahaven.net", 
+    "Home Page:": "http://datahaven.net", 
+    "Keywords:": "p2p,peer to peer,backup,restore,distributed,cloud,online,storage,data,recover,python,twisted", 
+    "Package Index Owner:": "datahaven"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "Distributed encrypted backup utility", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "51cb4d17b8bf991def2e876270f5a94b", 
+  "source_uri": "http://datahaven.net"
+}

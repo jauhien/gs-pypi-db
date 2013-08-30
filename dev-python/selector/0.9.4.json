@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI request delegation. (AKA routing.)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lukearno/selector/", 
+  "info": {
+    "Author:": "Luke Arno", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lukearno/selector/", 
+    "Keywords:": "wsgi delegation routing web http rest webapps", 
+    "License:": "MIT", 
+    "Package Index Owner:": "luke"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WSGI request delegation. (AKA routing.)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19effa18e9174dcb8651bc9f4479781a", 
+  "source_uri": "https://pypi.python.org/packages/source/s/selector/selector-0.9.4.tar.gz"
+}

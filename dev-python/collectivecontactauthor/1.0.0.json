@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A very simple customiation for Plone author form, where anonymous user can send message to authors, with captcha protection", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.contactauthor", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.contactauthor", 
+    "Keywords:": "plone plonegov captcha author e-mail contact", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "micecchi", 
+    "Package Index Owner:": "micecchi, keul, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "A very simple customiation for Plone author form, where anonymous user can send message to authors, with captcha protection", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2fcc5b0aeef747d3572fdac13641f243", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contactauthor/collective.contactauthor-1.0.0.zip"
+}

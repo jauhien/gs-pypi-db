@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Client for Couchbase", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/couchbase/couchbase-python-client", 
+  "info": {
+    "Author:": "Couchbase, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//couchbase", 
+    "Home Page:": "https://github.com/couchbase/couchbase-python-client", 
+    "Keywords:": "couchbase,nosql,pycouchbase,libcouchbase", 
+    "License:": "Apache License 2.0", 
+    "Package Index Maintainer:": "BigBlueHat", 
+    "Package Index Owner:": "mnunberg, ingenthr"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python Client for Couchbase", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "39a6f568804a86b04ef71545469a7a14", 
+  "source_uri": "https://pypi.python.org/packages/source/c/couchbase/couchbase-1.0.0.tar.gz"
+}

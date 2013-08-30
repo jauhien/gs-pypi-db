@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Coroutines and asynchronous IO using enhanced generators         from python 2.5, including a enhanced WSGI server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/cogen/", 
+  "info": {
+    "Author:": "Maries Ionel Cristian", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//cogen", 
+    "Home Page:": "http://code.google.com/p/cogen/", 
+    "Package Index Owner:": "ionel"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Coroutines and asynchronous IO using enhanced generators         from python 2.5, including a enhanced WSGI server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6c765905e4bc0278d35dd5c0011d032d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cogen/cogen-0.2.1.zip"
+}

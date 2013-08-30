@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django admin tool for custom reports", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://versae.github.com/qbe/", 
+  "info": {
+    "Author:": "Javier de la Rosa", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://versae.github.com/qbe/", 
+    "Keywords:": "qbe django admin reports query sql", 
+    "License:": "MIT", 
+    "Package Index Owner:": "versae"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django admin tool for custom reports", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fcb096a1e630d37f92a0eac92d43951d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_qbe/django_qbe-0.2.0.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recipe for installing Python package distributions as eggs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/zc.recipe.egg", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/zc.recipe.egg", 
+    "Keywords:": "development build", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m, fdrake, srichter, baijum, philikon, chrism, ctheune, ignas, benji, projekt01, mgedmin, ccomb, pcardune, faassen, nadako, chrisw, hathawsh, icemac, hannosch, tseaver, gary, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Recipe for installing Python package distributions as eggs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f8d379bab6d6e69be49c6d8f94804d0d", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.recipe.egg/zc.recipe.egg-2.0.0.tar.gz"
+}

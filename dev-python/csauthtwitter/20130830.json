@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twitter based login for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/codesyntax/cs.auth.twitter/", 
+  "info": {
+    "Author:": "Mikel Larreategi", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/codesyntax/cs.auth.twitter/", 
+    "Keywords:": "pas plugin plone authentication twitter", 
+    "License:": "GPL", 
+    "Package Index Owner:": "erral"
+  }, 
+  "license": "", 
+  "longdescription": "Twitter based login for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "172b82850150168c4d3ca186cb9b97df", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cs.auth.twitter/cs.auth.twitter-1.0b3.zip"
+}

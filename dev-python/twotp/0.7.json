@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twotp is an implementation of the Erlang node protocol written in Python, using the Twisted networking engine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/twotp", 
+  "info": {
+    "Author:": "Thomas Herve", 
+    "Home Page:": "http://launchpad.net/twotp", 
+    "License:": "MIT", 
+    "Package Index Owner:": "therve"
+  }, 
+  "license": "", 
+  "longdescription": "Twotp is an implementation of the Erlang node protocol written in Python, using the Twisted networking engine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c115cb9237f54cd97745492af68f1fad", 
+  "source_uri": "https://pypi.python.org/packages/source/t/twotp/twotp-0.7.tar.gz"
+}

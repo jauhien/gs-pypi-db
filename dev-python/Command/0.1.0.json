@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command runner with debug capabilities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/helgi/python-command", 
+  "info": {
+    "Author:": "Helgi \u00deorbj\u00f6rnsson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/helgi/python-command", 
+    "Keywords:": "subprocess,command", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "helgi", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Command runner with debug capabilities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54ff29fb8a100a4bdbd508afca4333ea", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Command/Command-0.1.0.tar.gz"
+}

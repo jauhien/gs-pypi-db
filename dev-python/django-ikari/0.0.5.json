@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django middleware to allow user configurable domain anchoring to admin configured urlconfs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zenobius Jiricek", 
+    "Package Index Owner:": "airtonix"
+  }, 
+  "license": "", 
+  "longdescription": "Django middleware to allow user configurable domain anchoring to admin configured urlconfs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ee76199b14a508aab53ac12a1e2aecfd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ikari/django-ikari-0.0.5.tar.gz"
+}

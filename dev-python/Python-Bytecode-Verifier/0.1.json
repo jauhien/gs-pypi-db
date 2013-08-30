@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Verifies that compiled Python bytecode is safe to execute", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.kornelpal.com/", 
+  "info": {
+    "Author:": "Korn\u00c3\u00a9l P\u00c3\u00a1l", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://www.kornelpal.com/", 
+    "License:": "MIT/X11 license", 
+    "Package Index Owner:": "kornelpal"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Verifies that compiled Python bytecode is safe to execute", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71d52aa9dd721314800fa28a3b7fe2a8", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Python-Bytecode-Verifier/Python-Bytecode-Verifier-0.1.tar.bz2"
+}

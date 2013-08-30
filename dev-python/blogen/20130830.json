@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A local static blog site generator and previewer,that help you deploy blog on github pages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ipconfiger/blogen", 
+  "info": {
+    "Author:": "Alexander.Li", 
+    "Home Page:": "https://github.com/ipconfiger/blogen", 
+    "Keywords:": "github pages blog", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "alexanderli"
+  }, 
+  "license": "", 
+  "longdescription": "A local static blog site generator and previewer,that help you deploy blog on github pages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5a920d38ee18b7d0a209ab295785a817", 
+  "source_uri": "https://pypi.python.org/packages/source/b/blogen/blogen-0.0.0.9.pre.tar.gz"
+}

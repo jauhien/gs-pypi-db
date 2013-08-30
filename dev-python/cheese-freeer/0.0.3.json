@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Upload helper for your local PyPI mirror", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lqc/cheese-freezer/", 
+  "info": {
+    "Author:": "\u00c5\u0081ukasz Rekucki", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lqc/cheese-freezer/", 
+    "Keywords:": "pypi chishop upload mirror", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lrekucki"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Upload helper for your local PyPI mirror", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8542ff8189c509e8192ba014505a4cdc", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cheese-freezer/cheese-freezer-0.0.3.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Daily links publishing from Delicious to Wordpress", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/deliciouslinks/", 
+  "info": {
+    "Author:": "Maksym Kozlenko", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/deliciouslinks/", 
+    "Keywords:": "delicious wordpress", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "maxim75"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Daily links publishing from Delicious to Wordpress", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be0bd21f30aca5deb55e6d289ddeedfb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/delicious_links/delicious_links-0.6dev-r6.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reusable django application managing navigation menues with permissions, auto selection and crumbs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-navbar/", 
+  "info": {
+    "Author:": "Doug Napoleone", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/django-navbar/", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "dougn", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Reusable django application managing navigation menues with permissions, auto selection and crumbs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4725cd19b5bcde61fbab0f568664524", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-navbar/django-navbar-0.3.0.tar.gz"
+}

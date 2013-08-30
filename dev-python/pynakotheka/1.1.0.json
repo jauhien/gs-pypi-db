@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pynakotheka is a simple python script which generates static HTML photo albums.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://inigo.katxi.org/devel/pynakotheka", 
+  "info": {
+    "Author:": "I\u00c3\u00b1igo Serna", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://inigo.katxi.org/devel/pynakotheka", 
+    "License:": "GPL", 
+    "Package Index Owner:": "inigoserna", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "pynakotheka is a simple python script which generates static HTML photo albums.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82b44c59ecf40ee3cb3ecd64016579b2", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pynakotheka/pynakotheka-1.1.0.tar.gz"
+}

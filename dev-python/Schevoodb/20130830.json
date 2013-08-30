@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ODB3 storage backend for Schevo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://schevo.org/wiki/SchevoZodb", 
+  "info": {
+    "Author:": "Orbtech, L.L.C. and contributors", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://schevo.org/wiki/SchevoZodb", 
+    "Keywords:": "database dbms", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "gldnspud", 
+    "Platform:": "UNIX,Windows"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "ODB3 storage backend for Schevo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "385c5f4dac5c51655fe560832bfdbe69", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SchevoZodb/SchevoZodb-3.1a1.tar.gz"
+}

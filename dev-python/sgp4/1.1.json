@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Track earth satellite TLE orbits using up-to-date 2010 version of SGP4", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/brandon-rhodes/python-sgp4", 
+  "info": {
+    "Author:": "Brandon Rhodes", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Home Page:": "https://github.com/brandon-rhodes/python-sgp4", 
+    "License:": "MIT", 
+    "Package Index Owner:": "brandonrhodes"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Track earth satellite TLE orbits using up-to-date 2010 version of SGP4", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0ba35fa78bfe9d6f600d4a9a5571e03f", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sgp4/sgp4-1.1.tar.gz"
+}

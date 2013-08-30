@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PyNLPl, pronounced as pineapple, is a Python library for Natural Language Processing. It contains various modules useful for common, and less common, NLP tasks. PyNLPl can be used for example the computation of n-grams, frequency lists and distributions, language models. There are also more complex data types, such as Priority Queues, and search algorithms, such as Beam Search.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/proycon/pynlpl", 
+  "info": {
+    "Author:": "Maarten van Gompel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//PyNLPl", 
+    "Home Page:": "https://github.com/proycon/pynlpl", 
+    "Keywords:": "nlp computational_linguistics search ngrams language_models linguistics toolkit", 
+    "License:": "GPL", 
+    "Package Index Owner:": "proycon"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "PyNLPl, pronounced as pineapple, is a Python library for Natural Language Processing. It contains various modules useful for common, and less common, NLP tasks. PyNLPl can be used for example the computation of n-grams, frequency lists and distributions, language models. There are also more complex data types, such as Priority Queues, and search algorithms, such as Beam Search.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82161f4b0491f10635511b1f5f1a6ed0", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyNLPl/PyNLPl-0.6.5.1.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Get a public suffix for a domain name using the Public Suffix List.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Tomaz Solc", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Name Service (DNS)"
+      ]
+    }, 
+    "License:": "MIT", 
+    "Package Index Owner:": "avian"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Get a public suffix for a domain name using the Public Suffix List.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "00f0d39cdfc3d6ab45d7a3910346d9b3", 
+  "source_uri": "https://pypi.python.org/packages/source/p/publicsuffix/publicsuffix-1.0.4.tar.gz"
+}

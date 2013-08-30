@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A product that converts existing External Methods that used to live in the Extensions folder to a product folder", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nidelven-it.no/d", 
+  "info": {
+    "Author:": "Morten W. Petersen", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.nidelven-it.no/d", 
+    "Keywords:": "python zope plone silva cmf migration developers", 
+    "License:": "GPL", 
+    "Package Index Owner:": "morphex"
+  }, 
+  "license": "", 
+  "longdescription": "A product that converts existing External Methods that used to live in the Extensions folder to a product folder", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9acd6dc3a23d13af47d138f0b62419f2", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.MigrateExternalMethods/Products.MigrateExternalMethods-1.0.1.tar.gz"
+}

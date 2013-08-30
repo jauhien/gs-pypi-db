@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ORDF - SurfRDF back-end", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ordf.org/", 
+  "info": {
+    "Author:": "Open Knowledge Foundation", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pylons"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://ordf.org/", 
+    "Keywords:": "rdf rdflib provenance messaging", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "wwaites"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "ORDF - SurfRDF back-end", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3229e029e231ca72414c77d95bb75cb5", 
+  "source_uri": "https://pypi.python.org/packages/source/o/osurf/osurf-0.2.tar.gz"
+}

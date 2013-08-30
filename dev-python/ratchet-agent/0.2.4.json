@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ratchet.io server-side agent", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ratchetio/ratchet-agent", 
+  "info": {
+    "Author:": "Ratchet, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ratchetio/ratchet-agent", 
+    "Package Index Maintainer:": "sbezboro", 
+    "Package Index Owner:": "sbezboro, coryvirok, brianr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Ratchet.io server-side agent", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2c5e70476421a82512d6a215db60e5f3", 
+  "source_uri": "https://pypi.python.org/packages/source/r/ratchet-agent/ratchet-agent-0.2.4.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatically import all of a modules descendants", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/brightinteractive/import-descendants/", 
+  "info": {
+    "Author:": "Bright Interactive", 
+    "Home Page:": "http://github.com/brightinteractive/import-descendants/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bright"
+  }, 
+  "license": "", 
+  "longdescription": "Automatically import all of a modules descendants", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "301af73cec54fcc650662e061979cfb3", 
+  "source_uri": "https://pypi.python.org/packages/source/i/import-descendants/import-descendants-1.0.0.tar.gz"
+}

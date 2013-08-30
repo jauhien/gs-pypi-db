@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line tool and library for DOAP (Description of a Project) RDF.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.doapspace.org/doapfiend", 
+  "info": {
+    "Author:": "Rob Cakebread", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://doapspace.org/static/doapfiend/dist/doapfiend-0.3.3.tar.gz", 
+    "Home Page:": "http://trac.doapspace.org/doapfiend", 
+    "Keywords:": "doap rdf semantic web", 
+    "License:": "BSD-2", 
+    "Package Index Owner:": "pythonhead"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Command-line tool and library for DOAP (Description of a Project) RDF.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd1c77414db6137d2c69ffce686e3fa2", 
+  "source_uri": "http://doapspace.org/static/doapfiend/dist/doapfiend-0.3.3.tar.gz"
+}

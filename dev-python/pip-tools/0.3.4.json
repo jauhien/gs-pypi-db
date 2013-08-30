@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pip-tools keeps your pinned dependencies fresh.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/nvie/pip-tools/", 
+  "info": {
+    "Author:": "Vincent Driessen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "https://github.com/nvie/pip-tools/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nvie", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "pip-tools keeps your pinned dependencies fresh.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "99c67fbe4b17ddbcd8c6dbc39474a530", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pip-tools/pip-tools-0.3.4.tar.gz"
+}

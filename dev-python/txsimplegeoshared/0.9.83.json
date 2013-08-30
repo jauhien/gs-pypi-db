@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twisted library for interfacing with SimpleGeos API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/simplegeo/python-txsimplegeo.shared", 
+  "info": {
+    "Author:": "Zooko Wilcox-O'Hearn", 
+    "Home Page:": "http://github.com/simplegeo/python-txsimplegeo.shared", 
+    "Keywords:": "simplegeo", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "simplegeo"
+  }, 
+  "license": "", 
+  "longdescription": "Twisted library for interfacing with SimpleGeos API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "820e408e36fe9f6e56a63a56157e1e14", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txsimplegeo.shared/txsimplegeo.shared-0.9.83.tar.gz"
+}

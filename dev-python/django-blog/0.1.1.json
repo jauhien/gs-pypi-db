@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple blog app", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/djangoware/django-blog", 
+  "info": {
+    "Author:": "Michael Samoylov", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/djangoware/django-blog", 
+    "Package Index Owner:": "Michael.Samoylov"
+  }, 
+  "license": "", 
+  "longdescription": "A simple blog app", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1105c2e45cdbe9f9a476e02fcea2c329", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-blog/django-blog-0.1.1.tar.gz"
+}

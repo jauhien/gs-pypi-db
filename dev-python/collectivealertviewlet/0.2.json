@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows site administrator to quickly put a global alert on the site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org//svn/collective/collective.alertviewlet", 
+  "info": {
+    "Author:": "Antonio Tirabasso; Francesco Merlo", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org//svn/collective/collective.alertviewlet", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Lili, cesku"
+  }, 
+  "license": "", 
+  "longdescription": "Allows site administrator to quickly put a global alert on the site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eea8f34563db9eb197b334f412f3deca", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.alertviewlet/collective.alertviewlet-0.2.tar.gz"
+}

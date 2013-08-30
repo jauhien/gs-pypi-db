@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for accessing the Proxmox 2 API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/thesheep/pve2/", 
+  "info": {
+    "Author:": "Radomir Dopieralski", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/thesheep/pve2/", 
+    "Keywords:": "pve2 api proxmox2 proxmox", 
+    "License:": "MIT", 
+    "Package Index Owner:": "sheep", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A library for accessing the Proxmox 2 API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6ea2fea75d2735ab2519e7da7353c76", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pve2/pve2-1.0.0dev.tar.gz"
+}

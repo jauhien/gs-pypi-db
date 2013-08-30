@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "better passwords using hashes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.wearpants.org/petapass", 
+  "info": {
+    "Author:": "Peter Fein", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Security"
+      ]
+    }, 
+    "Home Page:": "http://hg.wearpants.org/petapass", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pfein"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "better passwords using hashes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2172d2493ea0334ca36eb74bc62e1edb", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Petapass/Petapass-0.2.1.tar.gz"
+}

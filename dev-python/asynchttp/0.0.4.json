@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple httplib2 based asynchronous HTTP library for python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ross/python-asynchttp", 
+  "info": {
+    "Author:": "Ross McFarland", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ross/python-asynchttp", 
+    "Package Index Owner:": "rwmcfa1"
+  }, 
+  "license": "", 
+  "longdescription": "A simple httplib2 based asynchronous HTTP library for python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5ffa9536948d02eb8e560e2115b76b3", 
+  "source_uri": "https://pypi.python.org/packages/source/a/asynchttp/asynchttp-0.0.4.tar.gz"
+}

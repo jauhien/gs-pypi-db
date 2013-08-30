@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic, erorpc-powered, blobs storage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rshk/blobstore", 
+  "info": {
+    "Author:": "Samuele Santi", 
+    "Home Page:": "http://github.com/rshk/blobstore", 
+    "License:": "GNU General Public License v3 or later (GPLv3+)", 
+    "Package Index Owner:": "rshk"
+  }, 
+  "license": "", 
+  "longdescription": "Generic, erorpc-powered, blobs storage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5fa4d1484924d2adcf0dd81c20e59eb", 
+  "source_uri": "https://pypi.python.org/packages/source/b/blobstore/blobstore-0.1-alpha-2.tar.gz"
+}

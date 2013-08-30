@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple recipe to collect symbolic links in one directory.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/svetlyak40wt/svetlyak40wt.recipe.symlinks", 
+  "info": {
+    "Author:": "Alexander Artemenko", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/svetlyak40wt/svetlyak40wt.recipe.symlinks", 
+    "Keywords:": "buildout recipe", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "svetlyak40wt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple recipe to collect symbolic links in one directory.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "679b7d519977e02bf476909d78e6e0f5", 
+  "source_uri": "https://pypi.python.org/packages/source/s/svetlyak40wt.recipe.symlinks/svetlyak40wt.recipe.symlinks-0.2.1.tar.gz"
+}

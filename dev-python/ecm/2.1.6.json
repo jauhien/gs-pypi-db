@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "EVE Corp Management is a management and decision-making helper-application for EVE Online.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://eve-corp-management.org/", 
+  "info": {
+    "Author:": "Robin Jarry", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Download URL:": "http://releases.eve-corp-management.org/src/", 
+    "Home Page:": "http://eve-corp-management.org/", 
+    "Keywords:": "eve-online,django,corporation,management", 
+    "License:": "GPLv3", 
+    "Package Index Maintainer:": "johnfoo", 
+    "Package Index Owner:": "ajurna, diabeteman", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "EVE Corp Management is a management and decision-making helper-application for EVE Online.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "40738ca7edd6fbe15629760a88c06c89", 
+  "source_uri": "http://releases.eve-corp-management.org/src/"
+}

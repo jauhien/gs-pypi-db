@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple microblogging in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cosent/plonesocial.microblog", 
+  "info": {
+    "Author:": "Guido Stevens", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cosent/plonesocial.microblog", 
+    "Keywords:": "plone socbiz social microblog", 
+    "License:": "GPL", 
+    "Package Index Owner:": "guidostevens"
+  }, 
+  "license": "", 
+  "longdescription": "Simple microblogging in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ec73cfe8e90a3b2097004a0adfc4bf5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonesocial.microblog/plonesocial.microblog-0.5.2.zip"
+}

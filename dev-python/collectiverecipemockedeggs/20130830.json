@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A recipe to simulate eggs for non eggs modules installed at python level", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.recipe.mockedeggs", 
+  "info": {
+    "Author:": "Thomas Desvenain", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.recipe.mockedeggs", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tdesvenain"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A recipe to simulate eggs for non eggs modules installed at python level", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3aa5b5d4b4d258e80ba78934f15e877b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.mockedeggs/collective.recipe.mockedeggs-1.0rc1.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "abbix API scripts for creation and deletion hosts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gnetsman/zabbix_api", 
+  "info": {
+    "Author:": "Grigoriy Netsman", 
+    "Home Page:": "https://github.com/gnetsman/zabbix_api", 
+    "Package Index Owner:": "gnetsman"
+  }, 
+  "license": "", 
+  "longdescription": "abbix API scripts for creation and deletion hosts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f60156d57f13ecafa16af2e6f06e437b", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zabbix-api/zabbix-api-1.0.tar.gz"
+}

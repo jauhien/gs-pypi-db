@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Check_po to verify if everything is translated                         and that no fuy are still here.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/novagile/check_po", 
+  "info": {
+    "Author:": "R\u00e9my Hubscher", 
+    "Categories": {
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/novagile/check_po", 
+    "License:": "WTFPL", 
+    "Package Index Owner:": "benoit.bryon, Natim"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "Check_po to verify if everything is translated                         and that no fuy are still here.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae71dea87466bbad4a5625368d4de88e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/check_po/check_po-0.3.zip"
+}

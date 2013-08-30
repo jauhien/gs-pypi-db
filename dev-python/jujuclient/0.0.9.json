@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A juju-coregojuju simple synchronous python api client.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://juju.ubuntu.com", 
+  "info": {
+    "Author:": "Kapil Thangavelu", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://juju.ubuntu.com", 
+    "Package Index Owner:": "kapilt"
+  }, 
+  "license": "", 
+  "longdescription": "A juju-coregojuju simple synchronous python api client.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d3677ac14fcb65d1bbeae934744432b", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jujuclient/jujuclient-0.0.9.tar.gz"
+}

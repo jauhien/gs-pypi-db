@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Text User Interface client for CORBA Telecom Log Service.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/tlscli", 
+  "info": {
+    "Author:": "Thomas Girard", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/tlscli", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "tgg"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Text User Interface client for CORBA Telecom Log Service.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d5e03d59a927c415b63e6fdff48db48", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tlscli/tlscli-1.1.0.tar.gz"
+}

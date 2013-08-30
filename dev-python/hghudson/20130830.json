@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mercurial integration with Hudson", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gitorious.org/hghudson", 
+  "info": {
+    "Author:": "N\u00c3\u00a9stor Salceda", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://www.gitorious.org/hghudson", 
+    "License:": "MIT/X11", 
+    "Package Index Owner:": "nestor"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Mercurial integration with Hudson", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd8a7fff68a15c71b1ec51e639ce5d6a", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hghudson/hghudson-0.1.1dev.tar.gz"
+}

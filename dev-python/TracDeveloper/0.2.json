@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds some features to Trac that are useful for developers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/TracDeveloperPlugin", 
+  "info": {
+    "Author:": "Alec Thomas", 
+    "Home Page:": "http://trac-hacks.org/wiki/TracDeveloperPlugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "evandrix"
+  }, 
+  "license": "", 
+  "longdescription": "Adds some features to Trac that are useful for developers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c45d9e564ee31d5a05518a744587c3a9", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracDeveloper/TracDeveloper-0.2.zip"
+}

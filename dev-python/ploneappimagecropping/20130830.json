@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "allows images to be manually cropped using JCrop JS library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/plone.app.imagecropping", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/plone.app.imagecropping", 
+    "Keywords:": "plone image crop", 
+    "License:": "GPLv2", 
+    "Package Index Maintainer:": "petschki", 
+    "Package Index Owner:": "frisi, petschki"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "allows images to be manually cropped using JCrop JS library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e377900c7e3b986de39fb6e8f9f6ca32", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.imagecropping/plone.app.imagecropping-0.1rc2.zip"
+}

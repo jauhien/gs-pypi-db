@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mock for redis-py", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/HackingHabits/mockredis", 
+  "info": {
+    "Author:": "madankumar.t@gmail.com", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/HackingHabits/mockredis", 
+    "License:": "Apache2", 
+    "Package Index Owner:": "HackingHabits"
+  }, 
+  "license": "", 
+  "longdescription": "Mock for redis-py", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e29ce9cbdfb0ae5dfb924277b8351f20", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redismock/redismock-1.0.5.tar.gz"
+}

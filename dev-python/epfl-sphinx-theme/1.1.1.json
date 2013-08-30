@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Sphinx theme for EPFL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://kis-doc.epfl.ch/sphinx/", 
+  "info": {
+    "Author:": "EPFL/SI/DIT/KIS", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Documentation"
+      ]
+    }, 
+    "Home Page:": "http://kis-doc.epfl.ch/sphinx/", 
+    "Keywords:": "sphinx extension theme epfl", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "grfavre"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Sphinx theme for EPFL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5d6d32f2757695b7671f71c6ca58cccd", 
+  "source_uri": "https://pypi.python.org/packages/source/e/epfl-sphinx-theme/epfl-sphinx-theme-1.1.1.tar.gz"
+}

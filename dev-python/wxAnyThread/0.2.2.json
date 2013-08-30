@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allow wxPython object methods to be called from any thread.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/wxAnyThread/", 
+  "info": {
+    "Author:": "Ryan Kelly", 
+    "Home Page:": "http://pypi.python.org/pypi/wxAnyThread/", 
+    "Keywords:": "wxPython threading", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rfk"
+  }, 
+  "license": "", 
+  "longdescription": "Allow wxPython object methods to be called from any thread.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2979fc528ac69e4d6f0be45894f92b0a", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wxAnyThread/wxAnyThread-0.2.2.tar.gz"
+}

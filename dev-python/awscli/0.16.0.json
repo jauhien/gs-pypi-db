@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Universal Command Line Environment for AWS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://aws.amazon.com/cli/", 
+  "info": {
+    "Author:": "Mitch Garnaat", 
+    "Home Page:": "http://aws.amazon.com/cli/", 
+    "Package Index Owner:": "aws, garnaat"
+  }, 
+  "license": "", 
+  "longdescription": "Universal Command Line Environment for AWS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "172b329d8a37f3025496f4c2138d60d9", 
+  "source_uri": "https://pypi.python.org/packages/source/a/awscli/awscli-0.16.0.tar.gz"
+}

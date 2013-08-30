@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "High-level python wapper for the Sun Grid Engine (SGE) using DRMAA and MQ", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pythongrid/", 
+  "info": {
+    "Author:": "Chris Widmer", 
+    "Download URL:": "http://code.google.com/p/pythongrid/downloads/detail?name=pythongrid-0.2.tar.gz", 
+    "Home Page:": "http://code.google.com/p/pythongrid/", 
+    "Keywords:": "drmaa sge cluster distributed parallel", 
+    "License:": "GPL", 
+    "Package Index Owner:": "soramimo"
+  }, 
+  "license": "", 
+  "longdescription": "High-level python wapper for the Sun Grid Engine (SGE) using DRMAA and MQ", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7abeb4635dfa76ab1df4109f75e9951b", 
+  "source_uri": "http://code.google.com/p/pythongrid/downloads/detail?name=pythongrid-0.2.tar.gz"
+}

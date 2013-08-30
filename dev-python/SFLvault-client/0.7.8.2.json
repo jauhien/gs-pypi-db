@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Networked credentials store and authentication manager - Client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.sflvault.org", 
+  "info": {
+    "Author:": "Alexandre Bourget", 
+    "Home Page:": "http://www.sflvault.org", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "sfl, abourget"
+  }, 
+  "license": "", 
+  "longdescription": "Networked credentials store and authentication manager - Client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88f2eeb3ed1f6326f3bfb6e997404eed", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SFLvault-client/SFLvault-client-0.7.8.2.tar.gz"
+}

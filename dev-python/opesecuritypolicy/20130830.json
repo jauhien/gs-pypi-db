@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Default security policy for ope3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zope.securitypolicy", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zope.securitypolicy", 
+    "Keywords:": "zope3 security policy", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "srichter, J1m, baijum, philikon, ignas, ctheune, chrism, fdrake, benji, projekt01, ccomb, mgedmin, pcardune, hathawsh, nadako, faassen, chrisw, hannosch, tseaver, icemac, gary, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Default security policy for ope3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "43b3399e859d4e6c22f6c8585646743e", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zope.securitypolicy/zope.securitypolicy-4.0.0a1.zip"
+}

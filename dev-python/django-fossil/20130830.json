@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fossil is a library to store fossilied tracks of objects from Djangos ORM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://reddes.bvsalud.org/projects/clinical-trials/browser/sandbox/django-fossil", 
+  "info": {
+    "Author:": "OpenTrials team (Marinho Brandao, Luciano Ramalho and Rafael Soares)", 
+    "Home Page:": "http://reddes.bvsalud.org/projects/clinical-trials/browser/sandbox/django-fossil", 
+    "License:": "GNU Lesser General Public License (LGPL)", 
+    "Package Index Maintainer:": "gustavo.fonseca", 
+    "Package Index Owner:": "marinho, gustavo.fonseca"
+  }, 
+  "license": "", 
+  "longdescription": "Fossil is a library to store fossilied tracks of objects from Djangos ORM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "96ef1d9a1913fd1b51b16fb9a97ca65e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fossil/django-fossil-0.8-stable.tar.gz"
+}

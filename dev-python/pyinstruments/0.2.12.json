@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Control of data acquisition with remote instruments using     IVI-C or IVI-COM, Visa, and serial protocols.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/SamuelDeleglise/pyinstruments", 
+  "info": {
+    "Author:": "Samuel Deleglise", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Human Machine Interfaces"
+      ]
+    }, 
+    "Home Page:": "https://github.com/SamuelDeleglise/pyinstruments", 
+    "Keywords:": "instruments data-acquisition IVI interface", 
+    "License:": "BSD", 
+    "Package Index Owner:": "SamuelDeleglise"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Control of data acquisition with remote instruments using     IVI-C or IVI-COM, Visa, and serial protocols.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4fa5231d94ba82843cf86b1bdb600e34", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyinstruments/pyinstruments-0.2.12.zip"
+}

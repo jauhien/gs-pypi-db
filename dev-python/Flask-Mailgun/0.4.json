@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds Mailgun support to Flask applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sleekslush/flask-mailgun", 
+  "info": {
+    "Author:": "Craig Slusher", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/sleekslush/flask-mailgun", 
+    "License:": "BSD", 
+    "Package Index Owner:": "cslusher", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds Mailgun support to Flask applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb1786b5f8542293b06d937ba0f4a077", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Mailgun/Flask-Mailgun-0.4.tar.gz"
+}

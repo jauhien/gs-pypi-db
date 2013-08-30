@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An in-process object-relational database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://divmod.org/trac/wiki/DivmodAxiom", 
+  "info": {
+    "Author:": "Divmod, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "http://divmod.org/trac/wiki/DivmodAxiom", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "lvh", 
+    "Package Index Owner:": "exarkun, glyph", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An in-process object-relational database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c2287b5a5f4739883d65285958e74127", 
+  "source_uri": "https://pypi.python.org/packages/source/A/Axiom/Axiom-0.6.0.tar.gz"
+}

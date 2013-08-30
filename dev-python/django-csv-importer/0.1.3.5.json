@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert csv files into python object or django model", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Anthony Tresontani", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Keywords:": "CSV Django loader", 
+    "License:": "BSD", 
+    "Package Index Owner:": "trez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Convert csv files into python object or django model", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4d974837fe93ee94b17f23514197b919", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-csv-importer/django-csv-importer-0.1.3.5.tar.gz"
+}

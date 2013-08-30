@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IDLE extesion catches long output to keep IDLE alive", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Noam Raphael", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "IDLE"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "University of Illinois/NCSA Open Source License"
+      ]
+    }, 
+    "Keywords:": "IDLE, hang, output", 
+    "Maintainer:": "Tal Einat", 
+    "Package Index Owner:": "taleinat"
+  }, 
+  "license": "University of Illinois/NCSA Open Source License", 
+  "longdescription": "IDLE extesion catches long output to keep IDLE alive", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "124042b1a895c761f15aabaa6d9d9efa", 
+  "source_uri": "https://pypi.python.org/packages/source/S/Squeezer/Squeezer.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pytest plugin to check PEP8 requirements", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/hpk42/pytest-pep8/", 
+  "info": {
+    "Author:": "Holger Krekel and Ronny Pfannschmidt", 
+    "Home Page:": "http://bitbucket.org/hpk42/pytest-pep8/", 
+    "Package Index Owner:": "hpk"
+  }, 
+  "license": "", 
+  "longdescription": "pytest plugin to check PEP8 requirements", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff74c592d96b36972a4b8f12d0cb975d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-pep8/pytest-pep8-1.0.4.zip"
+}

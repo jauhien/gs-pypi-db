@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Expose more advanced posixfile system APIs to Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nasuni/fsnix", 
+  "info": {
+    "Author:": "John Mulligan", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/nasuni/fsnix/get/v0.2.tar.bz2", 
+    "Home Page:": "https://bitbucket.org/nasuni/fsnix", 
+    "License:": "MIT", 
+    "Package Index Owner:": "phlogistonjohn"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Expose more advanced posixfile system APIs to Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f69a34bc4b37f8e95e6708e404f958ab", 
+  "source_uri": "https://bitbucket.org/nasuni/fsnix/get/v0.2.tar.bz2"
+}

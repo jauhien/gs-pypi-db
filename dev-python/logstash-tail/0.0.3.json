@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tail logstash tcp output", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ohlol/logstash-tail", 
+  "info": {
+    "Author:": "Scott Smith", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ohlol/logstash-tail", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ohlol"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tail logstash tcp output", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a55b1e36936ad06319e4807593de4223", 
+  "source_uri": "https://pypi.python.org/packages/source/l/logstash-tail/logstash-tail-0.0.3.tar.gz"
+}

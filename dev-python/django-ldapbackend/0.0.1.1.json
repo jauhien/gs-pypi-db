@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LDAP Backend for Django (1.0 or higher)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-ldapbackend.googlecode.com", 
+  "info": {
+    "Author:": "Alexander 'Swixel' Stanley", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory", 
+        "LDAP"
+      ]
+    }, 
+    "Download URL:": "http://django-ldapbackend.googlecode.com/files/django-ldapbackend-0.0.1.tar.gz", 
+    "Home Page:": "http://django-ldapbackend.googlecode.com", 
+    "License:": "New BSD", 
+    "Package Index Owner:": "swixel", 
+    "Platform:": "Windows,POSIX"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "LDAP Backend for Django (1.0 or higher)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "750bbefb95164cd392c7b31acc5340ec", 
+  "source_uri": "http://django-ldapbackend.googlecode.com/files/django-ldapbackend-0.0.1.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The BitTorrent bencode module as light-weight, standalone package.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bittorrent.com/", 
+  "info": {
+    "Author:": "Thomas Rampelberg", 
+    "Home Page:": "http://bittorrent.com/", 
+    "Keywords:": "bittorrent bencode bdecode", 
+    "License:": "BitTorrent Open Source License", 
+    "Package Index Owner:": "pyronicide"
+  }, 
+  "license": "", 
+  "longdescription": "The BitTorrent bencode module as light-weight, standalone package.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "400dd42ff346eb7db91245403f8f2b7b", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bencode/bencode-1.0.tar.gz"
+}

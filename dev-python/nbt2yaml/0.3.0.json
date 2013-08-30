@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read and write Minecraft NBT files using Yaml.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zzzeek/nbt2yaml", 
+  "info": {
+    "Author:": "Mike Bayer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/zzzeek/nbt2yaml", 
+    "Keywords:": "minecraft", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zzzeek"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Read and write Minecraft NBT files using Yaml.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8dd55e2c97d265aae4ae207e7573a0cc", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nbt2yaml/nbt2yaml-0.3.0.tar.gz"
+}

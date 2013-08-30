@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility commands for manage Noody sessions from unix-like shell.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ced_zola/noody-utils", 
+  "info": {
+    "Author:": "Simone Dalla", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "Italian"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ced_zola/noody-utils", 
+    "License:": "BSD", 
+    "Package Index Owner:": "simodalla"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Utility commands for manage Noody sessions from unix-like shell.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6109f2ea34c58b8752745655185099ca", 
+  "source_uri": "https://pypi.python.org/packages/source/n/noody-utils/noody-utils-1.0.1.tar.gz"
+}

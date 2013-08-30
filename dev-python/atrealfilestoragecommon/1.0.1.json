@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Defines a common API to handle file objects independently of storage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.atreal.fr/", 
+  "info": {
+    "Author:": "atReal", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.atreal.fr/", 
+    "Keywords:": "plone atreal file blob", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "rbeylerian", 
+    "Package Index Owner:": "drjnut, tbenita, tiazma, f10w, rbeylerian"
+  }, 
+  "license": "", 
+  "longdescription": "Defines a common API to handle file objects independently of storage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aa0a922bf7c757dadeb339b485a2b9cf", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atreal.filestorage.common/atreal.filestorage.common-1.0.1.zip"
+}

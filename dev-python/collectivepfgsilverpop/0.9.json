@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Addon for PloneFormGen providing Silverpop integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.pfg.silverpop/tags/0.9", 
+  "info": {
+    "Author:": "Hans-Peter Locher", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.pfg.silverpop/tags/0.9", 
+    "Keywords:": "Plone PloneFormGen Silverpop", 
+    "License:": "GPL", 
+    "Package Index Owner:": "hplocher, seletz"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Addon for PloneFormGen providing Silverpop integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8eb513980c11edcca053f30f9e94904a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.pfg.silverpop/collective.pfg.silverpop-0.9.zip"
+}

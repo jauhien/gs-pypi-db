@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Authentication for developer access to applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://devauth.openplans.org", 
+  "info": {
+    "Author:": "Ian Bicking", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://devauth.openplans.org", 
+    "Keywords:": "wsgi debug tool", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "ejucovy", 
+    "Package Index Owner:": "ianb, ejucovy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Authentication for developer access to applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9382f8c0d161042c0d7b9cad5b7e22a", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DevAuth/DevAuth-0.1.2.tar.gz"
+}

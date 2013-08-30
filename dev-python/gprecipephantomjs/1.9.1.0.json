@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "buildout recipe to install phantomjscasperjs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gawel/gp.recipe.phantomjs", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gawel/gp.recipe.phantomjs", 
+    "Keywords:": "buildout phantomjs casperjs", 
+    "License:": "gpl", 
+    "Package Index Owner:": "gawel"
+  }, 
+  "license": "", 
+  "longdescription": "buildout recipe to install phantomjscasperjs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "16b68e6ef4baa3f624fa5362e11d5c96", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gp.recipe.phantomjs/gp.recipe.phantomjs-1.9.1.0.tar.gz"
+}

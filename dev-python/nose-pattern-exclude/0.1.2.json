@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Exclude specific files and directories from nosetests runs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jkbr/nose-pattern-exclude", 
+  "info": {
+    "Author:": "Jakub Roztocil", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jkbr/nose-pattern-exclude", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jkbr"
+  }, 
+  "license": "", 
+  "longdescription": "Exclude specific files and directories from nosetests runs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "531be7adbf7ef2df6e291262d05278ca", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-pattern-exclude/nose-pattern-exclude-0.1.2.tar.gz"
+}

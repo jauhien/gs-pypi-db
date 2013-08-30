@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for sending OS performance data to statsd", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dlamotte/statsd-ostools", 
+  "info": {
+    "Author:": "Dan LaMotte", 
+    "Home Page:": "https://github.com/dlamotte/statsd-ostools", 
+    "Package Index Owner:": "dlamotte"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for sending OS performance data to statsd", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "76aea58f5b435d903075d32a4c07f4d6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/statsd-ostools/statsd-ostools-0.2.tar.gz"
+}

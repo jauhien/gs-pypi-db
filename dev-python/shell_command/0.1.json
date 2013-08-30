@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for easy invocation of system shell commands", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://shell-command.readthedocs.org", 
+  "info": {
+    "Author:": "Nick Coghlan", 
+    "Home Page:": "http://shell-command.readthedocs.org", 
+    "License:": "Simplified BSD License", 
+    "Package Index Owner:": "ncoghlan"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for easy invocation of system shell commands", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c0034ebadf7c60a7c54ff28eccbfc99", 
+  "source_uri": "https://pypi.python.org/packages/source/s/shell_command/shell_command-0.1.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Babble Instant messaging client for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/babble.client", 
+  "info": {
+    "Author:": "Syslab.com, JC Brand", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/babble.client", 
+    "Keywords:": "plone syslab.com portlet onlinecontacts", 
+    "License:": "GPL", 
+    "Package Index Owner:": "thomasw, jcbrand, goibhniu, pilz, do3cc"
+  }, 
+  "license": "", 
+  "longdescription": "Babble Instant messaging client for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "22f6c5b400f781cc22472ac0d8de2330", 
+  "source_uri": "https://pypi.python.org/packages/source/b/babble.client/babble.client-2.0.zip"
+}

@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lib suite for readingwriting 80211 packets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Textile & Crypt0s", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "License:": "GPL2", 
+    "Package Index Owner:": "xayon"
+  }, 
+  "license": "", 
+  "longdescription": "Lib suite for readingwriting 80211 packets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc0d085259864815c18052f01f34eca9", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py80211/py80211-1.0.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django App for storing FlatPage fixtures per file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/keegan_csmith/django-fileflatpages", 
+  "info": {
+    "Author:": "Keegan Carruthers-Smith", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/keegan_csmith/django-fileflatpages", 
+    "Package Index Owner:": "keegancsmith"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django App for storing FlatPage fixtures per file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8107c55d2ba574dfd2c248e802d62618", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fileflatpages/django-fileflatpages-0.1.tar.gz"
+}

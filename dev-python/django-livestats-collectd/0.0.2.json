@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collectd import module for django-livestats", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Kristian Oellegaard", 
+    "Package Index Owner:": "KristianOellegaard", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "A collectd import module for django-livestats", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc5963276c279499c07cb8f7c2f93853", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-livestats-collectd/django-livestats-collectd-0.0.2.tar.gz"
+}

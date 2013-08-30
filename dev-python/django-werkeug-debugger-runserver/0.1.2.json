@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Replaces Djangos runserver command with one that includes the Werkeug debugger (shamelessly ripped out off django-extensions)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/philippbosch/django-werkzeug-debugger-runserver", 
+  "info": {
+    "Author:": "Philipp Bosch and https://github.com/django-extensions/django-extensions/contributors", 
+    "Home Page:": "http://github.com/philippbosch/django-werkzeug-debugger-runserver", 
+    "License:": "BSD", 
+    "Package Index Owner:": "philippbosch"
+  }, 
+  "license": "", 
+  "longdescription": "Replaces Djangos runserver command with one that includes the Werkeug debugger (shamelessly ripped out off django-extensions)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fefc5f60765f509297f48f8bb4ef6ea6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-werkzeug-debugger-runserver/django-werkzeug-debugger-runserver-0.1.2.tar.gz"
+}

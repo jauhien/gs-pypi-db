@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Offload tasks to child processes, using a fork based processing model. A variation on Paul Boddies Parallel.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/chattyparallel", 
+  "info": {
+    "Author:": "Ludovico Magnocavallo", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "http://www.python.org/pypi/chattyparallel", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ludo"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Offload tasks to child processes, using a fork based processing model. A variation on Paul Boddies Parallel.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b4642016c085fe72144013f24cd351e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chattyparallel/chattyparallel-0.3.tar.gz"
+}

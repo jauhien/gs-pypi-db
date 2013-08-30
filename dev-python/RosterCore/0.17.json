@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RosterCore contains the Core and  DB libraries for Roster", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/roster-dns-management/", 
+  "info": {
+    "Author:": "Roster Development Team", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Name Service (DNS)"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/roster-dns-management/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "stephenharrell, jcollins"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "RosterCore contains the Core and  DB libraries for Roster", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3cadd954cda12d3442df31686f6ad681", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RosterCore/RosterCore-0.17.tar.gz"
+}

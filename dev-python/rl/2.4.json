@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Alternative Python bindings for GNU Readline", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/rl", 
+  "info": {
+    "Author:": "Stefan H. Holek", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//rl", 
+    "Home Page:": "http://pypi.python.org/pypi/rl", 
+    "Keywords:": "gnu readline bindings", 
+    "License:": "GPL or PSF", 
+    "Package Index Owner:": "stefanholek"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Alternative Python bindings for GNU Readline", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "206512834d837e9cdde81e6cf7e8fca4", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rl/rl-2.4.zip"
+}

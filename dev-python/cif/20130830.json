@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a sample python client for accessing the CIF interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Wes Young", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "wesyoung"
+  }, 
+  "license": "", 
+  "longdescription": "a sample python client for accessing the CIF interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15bd56b4b0c7ffe81c3cb339d4217b61", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cif/cif-0.01-14.tar.gz"
+}

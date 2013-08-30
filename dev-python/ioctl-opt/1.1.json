@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Functions to compute fnctl.ioctls opt argument", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vpelletier/python-ioctl-opt", 
+  "info": {
+    "Author:": "Vincent Pelletier", 
+    "Categories": {
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vpelletier/python-ioctl-opt", 
+    "Keywords:": "ioctl", 
+    "License:": "GPL 2+", 
+    "Package Index Owner:": "vpelletier"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Functions to compute fnctl.ioctls opt argument", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d8747695e45821acf4f66d70887e71c0", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ioctl-opt/ioctl-opt-1.1.tar.gz"
+}

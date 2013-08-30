@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Specify whitelist of keywords for tests to be run by nose", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/iElectric/nose-selecttests/", 
+  "info": {
+    "Author:": "Domen Kozar", 
+    "Home Page:": "http://github.com/iElectric/nose-selecttests/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "iElectric"
+  }, 
+  "license": "", 
+  "longdescription": "Specify whitelist of keywords for tests to be run by nose", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5572d6cc43ab90e59927a3895dbea60a", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-selecttests/nose-selecttests-0.4.zip"
+}

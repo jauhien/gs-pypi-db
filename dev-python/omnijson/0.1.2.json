@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wraps the best JSON installed, falling back on an    internal simplejson.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kennethreitz/omnijson", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Home Page:": "https://github.com/kennethreitz/omnijson", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kennethreitz"
+  }, 
+  "license": "", 
+  "longdescription": "Wraps the best JSON installed, falling back on an    internal simplejson.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47c51c2e34275d7ad40ae6c826b7f001", 
+  "source_uri": "https://pypi.python.org/packages/source/o/omnijson/omnijson-0.1.2.tar.gz"
+}

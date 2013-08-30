@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small PyPI replacement based on a local distribution directory (implemented using GROK)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ajung, dataflake"
+  }, 
+  "license": "", 
+  "longdescription": "A small PyPI replacement based on a local distribution directory (implemented using GROK)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7572decbd5222ce1e888e0e27f1a2d8c", 
+  "source_uri": "https://pypi.python.org/packages/source/h/haufe.eggserver/haufe.eggserver-0.2.6.tar.gz"
+}

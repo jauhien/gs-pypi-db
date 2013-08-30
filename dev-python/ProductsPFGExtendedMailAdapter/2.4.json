@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds extended mail adapter to Products.PloneFormGen.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/Products.PFGExtendedMailAdapter", 
+  "info": {
+    "Author:": "Taito Horiuchi", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Products.PFGExtendedMailAdapter", 
+    "Home Page:": "https://github.com/collective/Products.PFGExtendedMailAdapter", 
+    "License:": "BSD", 
+    "Package Index Owner:": "taito"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds extended mail adapter to Products.PloneFormGen.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d0524fea84d38e767f78a90a80b5c8e3", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PFGExtendedMailAdapter/Products.PFGExtendedMailAdapter-2.4.zip"
+}

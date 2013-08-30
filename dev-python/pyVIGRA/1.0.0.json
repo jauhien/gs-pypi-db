@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrappers for VIGRA", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyvigra.cellcognition.org/", 
+  "info": {
+    "Author:": "F. Oliver Gathmann, Michael Held", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "http://cellcognition.ethz.ch/download/pyvigra/pyVIGRA-1.0.0.tar.gz", 
+    "Home Page:": "http://pyvigra.cellcognition.org/", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "webheld", 
+    "Package Index Owner:": "fogathmann, webheld", 
+    "Platform:": "Win32,Linux,Mac OS-X"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrappers for VIGRA", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://cellcognition.ethz.ch/download/pyvigra/pyVIGRA-1.0.0.tar.gz"
+}

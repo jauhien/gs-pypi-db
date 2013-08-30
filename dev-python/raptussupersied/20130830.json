@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides the supersied jQuery plugin integrated into Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/raptus.supersized", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/raptus.supersized", 
+    "License:": "GPL", 
+    "Package Index Owner:": "raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Provides the supersied jQuery plugin integrated into Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c8cea75627936ba4469c80abc8d74d1b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.supersized/raptus.supersized-1.0a1.tar.gz"
+}

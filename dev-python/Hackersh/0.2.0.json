@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hacker Shell, a shell (command interpreter) written in Python with Pythonect-like syntax, built-in security commands, and out of the box wrappers for various security tools.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.hackersh.org/", 
+  "info": {
+    "Author:": "Itzik Kotler", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://www.hackersh.org/", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "ikotler"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "Hacker Shell, a shell (command interpreter) written in Python with Pythonect-like syntax, built-in security commands, and out of the box wrappers for various security tools.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6343e39b48980ee224ba0f8dd55678e0", 
+  "source_uri": "https://pypi.python.org/packages/source/H/Hackersh/Hackersh-0.2.0.tar.gz"
+}

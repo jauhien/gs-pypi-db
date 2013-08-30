@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a TNEF decoding library written in python, without external dependencies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/koodaamo/tnefparse", 
+  "info": {
+    "Author:": "Petri Savolainen", 
+    "Home Page:": "https://github.com/koodaamo/tnefparse", 
+    "Keywords:": "TNEF MAPI decoding mail email microsoft", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "petri"
+  }, 
+  "license": "", 
+  "longdescription": "a TNEF decoding library written in python, without external dependencies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26a7f7a4f4a6584c18d23865252e2f6a", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tnefparse/tnefparse-1.2.zip"
+}

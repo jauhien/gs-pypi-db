@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLAlchemy-based PAS usergroupprop store.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Malthe Borch and Stefan Eletzhofer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Keywords:": "web pas plone", 
+    "License:": "GNU GPL v2", 
+    "Package Index Owner:": "malthe"
+  }, 
+  "license": "", 
+  "longdescription": "SQLAlchemy-based PAS usergroupprop store.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "481d5c8d3047836ffd7720df3da2f69b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pas.plugins.sqlalchemy/pas.plugins.sqlalchemy-0.3.tar.gz"
+}

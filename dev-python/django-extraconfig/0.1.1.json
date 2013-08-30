@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An entry-point based solution to extendthe Django configuration.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pbs/django-extraconfig/", 
+  "info": {
+    "Author:": "Sever Banesiu", 
+    "Home Page:": "http://github.com/pbs/django-extraconfig/", 
+    "Keywords:": "Django settings", 
+    "License:": "BSD", 
+    "Package Index Owner:": "severb"
+  }, 
+  "license": "", 
+  "longdescription": "An entry-point based solution to extendthe Django configuration.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "63899d76f9f7a6e18645af1baf4e6a24", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-extraconfig/django-extraconfig-0.1.1.tar.gz"
+}

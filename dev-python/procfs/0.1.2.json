@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python API for the Linux proc virtual filesystem", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pmuller/procfs", 
+  "info": {
+    "Author:": "Philippe Muller", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Topic": [
+        "System", 
+        "Operating System Kernels", 
+        "Linux"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//procfs", 
+    "Home Page:": "https://github.com/pmuller/procfs", 
+    "Keywords:": "linux proc procfs system kernel", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pmuller", 
+    "Platform:": "Linux"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python API for the Linux proc virtual filesystem", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ca053f33361eef169a5f15c09df76d6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/procfs/procfs-0.1.2.tar.gz"
+}

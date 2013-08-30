@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command executor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/alfredodeza/delgado", 
+  "info": {
+    "Author:": "Alfredo Deza", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/alfredodeza/delgado", 
+    "Keywords:": "commands,unix,socket,execute,terminal", 
+    "License:": "MIT", 
+    "Package Index Owner:": "alfredodeza"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Command executor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c89e4d94f9f5b00e30bc01fa09c8c8a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/delgado/delgado-0.0.1.tar.gz"
+}

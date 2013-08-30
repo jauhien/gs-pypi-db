@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pluggable application for Django that helps you to importexport fixtures via the administration interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/semente/django-smuggler", 
+  "info": {
+    "Author:": "Guilherme Gondim", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 or later (LGPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://github.com/semente/django-smuggler/downloads", 
+    "Home Page:": "http://github.com/semente/django-smuggler", 
+    "Keywords:": "django apps tools backup fixtures admin", 
+    "License:": "GNU Lesser General Public License v3 or later (LGPLv3+)", 
+    "Package Index Maintainer:": "jaap.roes", 
+    "Package Index Owner:": "semente"
+  }, 
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)", 
+  "longdescription": "Pluggable application for Django that helps you to importexport fixtures via the administration interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "af3cf76b896e5961b9e1c0264a47b94a", 
+  "source_uri": "http://github.com/semente/django-smuggler/downloads"
+}

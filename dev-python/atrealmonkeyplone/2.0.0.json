@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Patch for Plone cutcopypastedelete permissions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.atreal.net/", 
+  "info": {
+    "Author:": "atReal", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.atreal.net/", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "rbeylerian", 
+    "Package Index Owner:": "drjnut, f10w, tiazma, tbenita, rbeylerian"
+  }, 
+  "license": "", 
+  "longdescription": "A Patch for Plone cutcopypastedelete permissions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ae51ef5fa08606f48241cde84a5527b", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atreal.monkeyplone/atreal.monkeyplone-2.0.0.zip"
+}

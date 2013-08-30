@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A suckerfishsuperfish integration into plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.superfish", 
+  "info": {
+    "Author:": "Daniel Widerin", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.superfish", 
+    "Keywords:": "navigation suckerfish superfish jquery dropdown", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "petschki, frisi, gauthierbastien", 
+    "Package Index Owner:": "saily"
+  }, 
+  "license": "", 
+  "longdescription": "A suckerfishsuperfish integration into plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ca089cee1b7933972f210c7ba4b0efb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.superfish/collective.superfish-0.6.zip"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Caching decorator and django cache backend with advanced invalidation ability and dog-pile effect prevention", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/kmike/django-cache-utils/", 
+  "info": {
+    "Author:": "Mikhail Korobov", 
+    "Download URL:": "http://bitbucket.org/kmike/django-cache-utils/get/tip.zip", 
+    "Home Page:": "http://bitbucket.org/kmike/django-cache-utils/", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "kmike"
+  }, 
+  "license": "", 
+  "longdescription": "Caching decorator and django cache backend with advanced invalidation ability and dog-pile effect prevention", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7dc91b4f7615611ef87795960c84c2e0", 
+  "source_uri": "http://bitbucket.org/kmike/django-cache-utils/get/tip.zip"
+}

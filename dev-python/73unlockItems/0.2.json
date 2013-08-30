@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small tool for unlocking web_dav locked item in a plone portal.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jean-Michel CEZ", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "unlock", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jecez"
+  }, 
+  "license": "", 
+  "longdescription": "A small tool for unlocking web_dav locked item in a plone portal.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be071a794d4e9b40fa0183c98b7a828f", 
+  "source_uri": "https://pypi.python.org/packages/source/7/73.unlockItems/73.unlockItems-0.2.tar.gz"
+}

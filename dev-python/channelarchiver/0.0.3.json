@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client for the EPICS Channel Archiver.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/RobbieClarken/channelarchiver", 
+  "info": {
+    "Author:": "Robbie Clarken", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "https://github.com/RobbieClarken/channelarchiver", 
+    "Package Index Owner:": "RobbieClarken"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python client for the EPICS Channel Archiver.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b40e223121ee1743496e38df32d49ac", 
+  "source_uri": "https://pypi.python.org/packages/source/c/channelarchiver/channelarchiver-0.0.3.tar.gz"
+}

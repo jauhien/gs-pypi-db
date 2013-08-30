@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A web hook task queue based on tornado and redis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/thruflo/torque", 
+  "info": {
+    "Author:": "James Arthur", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/thruflo/torque", 
+    "License:": "Creative Commons CC0 1.0 Universal", 
+    "Package Index Owner:": "thruflo"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A web hook task queue based on tornado and redis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b4e8118f06ae2a6be43278b29320e62", 
+  "source_uri": "https://pypi.python.org/packages/source/t/torque/torque-0.4.5.tar.gz"
+}

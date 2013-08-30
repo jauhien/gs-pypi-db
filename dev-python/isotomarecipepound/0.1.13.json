@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipes to configure the pound load balancer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/isotoma.recipe.pound", 
+  "info": {
+    "Author:": "Doug Winter", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/isotoma.recipe.pound", 
+    "Keywords:": "proxy buildout pound", 
+    "License:": "Apache Software License", 
+    "Package Index Maintainer:": "alex2, johncarr", 
+    "Package Index Owner:": "winjer, johncarr"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Buildout recipes to configure the pound load balancer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e765b4045f32afe0696e87b6dbda1c9b", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.pound/isotoma.recipe.pound-0.1.13.zip"
+}

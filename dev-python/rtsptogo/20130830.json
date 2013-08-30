@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "rtsptogo is a tivo togo proxy serving mp4 video over RSTP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/armooo/rtsptogo/", 
+  "info": {
+    "Author:": "Jason Michalski", 
+    "Categories": {
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Video", 
+        "Conversion"
+      ]
+    }, 
+    "Home Page:": "http://github.com/armooo/rtsptogo/", 
+    "Keywords:": "tivo rstp mobile", 
+    "License:": "GPL", 
+    "Package Index Owner:": "armooo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "rtsptogo is a tivo togo proxy serving mp4 video over RSTP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a1dddb44990256f794d065c5cdb8b4f", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rtsptogo/rtsptogo-0.1.4dev2.tar.gz"
+}

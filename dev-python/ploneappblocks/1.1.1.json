@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implements the in-Plone blocks rendering process", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/plone/plone.app.blocks", 
+  "info": {
+    "Author:": "Martin Aspeli, Laurence Rowe", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/plone/plone.app.blocks", 
+    "Keywords:": "plone blocks deco", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "ericoandrei", 
+    "Package Index Owner:": "vangheem, garbas"
+  }, 
+  "license": "", 
+  "longdescription": "Implements the in-Plone blocks rendering process", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "70786497124646b40112164289154495", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.blocks/plone.app.blocks-1.1.1.zip"
+}

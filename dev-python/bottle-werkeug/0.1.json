@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Werkeug integration for Bottle.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bottlepy.org/docs/dev/plugin/werkzeug/", 
+  "info": {
+    "Author:": "Marcel Hellkamp", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bottlepy.org/docs/dev/plugin/werkzeug/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "defnull", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Werkeug integration for Bottle.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8d63aa1d562d66a82d8cb22c768366a", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bottle-werkzeug/bottle-werkzeug-0.1.tar.gz"
+}

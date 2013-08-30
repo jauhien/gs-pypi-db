@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This module uses the Inotify interface provided by the linux kernel. This makes it easy to watchout for events on a lot of files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.trash-media.de/inotify", 
+  "info": {
+    "Author:": "Timothy Head", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Packaging"
+      ]
+    }, 
+    "Download URL:": "http://www.trash-media.de/inotify.py", 
+    "Home Page:": "http://www.trash-media.de/inotify", 
+    "Keywords:": "python inotify fam gamin", 
+    "License:": "GPL General Public License", 
+    "Package Index Maintainer:": "thead", 
+    "Package Index Owner:": "thead", 
+    "Platform:": "linux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This module uses the Inotify interface provided by the linux kernel. This makes it easy to watchout for events on a lot of files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.trash-media.de/inotify.py"
+}

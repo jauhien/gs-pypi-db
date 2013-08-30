@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Container for thrift services.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/blackwithwhite666/thriftpool", 
+  "info": {
+    "Author:": "Lipin Dmitriy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/blackwithwhite666/thriftpool", 
+    "Keywords:": "thrift soa", 
+    "License:": "BSD", 
+    "Package Index Owner:": "blackwithwhite666"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Container for thrift services.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0608d0cd0683a40f92ae1dc115fe88d1", 
+  "source_uri": "https://pypi.python.org/packages/source/t/thriftpool/thriftpool-0.2.7.tar.gz"
+}

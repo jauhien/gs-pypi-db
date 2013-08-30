@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple dotfiles manager.  Uses symlinks and a git repo.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mvliet/tod", 
+  "info": {
+    "Author:": "Matthew Vliet", 
+    "Home Page:": "https://github.com/mvliet/tod", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Matthew.Vliet"
+  }, 
+  "license": "", 
+  "longdescription": "A simple dotfiles manager.  Uses symlinks and a git repo.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "588489bc8be16d198ffa052f83065a4e", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tod/tod-0.0.1.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tiny wrapper around the wssplat bundle of pyxb for XML-Signature and XML-Encryption -- obsolete.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/dm.xmlsec.pyxb", 
+  "info": {
+    "Author:": "Dieter Maurer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/dm.xmlsec.pyxb", 
+    "Keywords:": "pyxb xml security digital signature", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dmaurer"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tiny wrapper around the wssplat bundle of pyxb for XML-Signature and XML-Encryption -- obsolete.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a0d2635aed0c14e234f8713ab281832f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dm.xmlsec.pyxb/dm.xmlsec.pyxb-1.1.tar.gz"
+}

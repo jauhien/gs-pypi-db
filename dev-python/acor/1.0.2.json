@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Estimate the autocorrelation time of a time series quickly.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dfm/acor/", 
+  "info": {
+    "Author:": "Daniel Foreman-Mackey and Jonathan Goodman", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dfm/acor/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "danfm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Estimate the autocorrelation time of a time series quickly.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a63e6673f60fcc1dc817800367a6b887", 
+  "source_uri": "https://pypi.python.org/packages/source/a/acor/acor-1.0.2.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to send SQL results to Graphite", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/philipcristiano/sql-to-graphite", 
+  "info": {
+    "Author:": "Philip Cristiano", 
+    "Home Page:": "http://github.com/philipcristiano/sql-to-graphite", 
+    "Keywords:": "SQL Graphite", 
+    "License:": "BSD", 
+    "Package Index Owner:": "philipcristiano"
+  }, 
+  "license": "", 
+  "longdescription": "A tool to send SQL results to Graphite", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be4b537cdc8fcbbb3029796ff5b7e11d", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sql-to-graphite/sql-to-graphite-0.0.6.tar.gz"
+}

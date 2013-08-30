@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RRD Service is HTTP protocol based Round Robin Database and graphics service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/rrd-service", 
+  "info": {
+    "Author:": "Vitold Sedyshev", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/rrd-service", 
+    "Keywords:": "rrd http graphic monitor", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vit1251"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "RRD Service is HTTP protocol based Round Robin Database and graphics service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7ba0c2943b015c4082076ce118b3518b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rrd-service/rrd-service-0.0.1.zip"
+}

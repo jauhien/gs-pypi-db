@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fancy noticeboard for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.noticeboard", 
+  "info": {
+    "Author:": "Philip Bauer", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content", 
+        "Message Boards"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.noticeboard", 
+    "Keywords:": "Plone javascript", 
+    "License:": "gpl", 
+    "Package Index Owner:": "Gomez, do3cc, pbauer"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A fancy noticeboard for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "111bb2422f0f3508f1e8ca6c6104db4d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.noticeboard/collective.noticeboard-0.5.zip"
+}

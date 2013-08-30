@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pyQPCR quantitative PCR data analysis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyqpcr.sourceforge.net", 
+  "info": {
+    "Author:": "Thomas Gastine", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "Qt"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Medical Science Apps."
+      ]
+    }, 
+    "Home Page:": "http://pyqpcr.sourceforge.net", 
+    "Keywords:": "PCR", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "tgastine", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "pyQPCR quantitative PCR data analysis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "93945d69e2b1f91d443d5fb848f1b62d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyQPCR/pyQPCR-0.7.tar.gz"
+}

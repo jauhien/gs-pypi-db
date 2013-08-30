@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django e-mail backend for the Ubivox e-mail API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ubivox/django-ubivox-email", 
+  "info": {
+    "Author:": "Christian Joergensen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Financial and Insurance Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 (LGPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ubivox/django-ubivox-email", 
+    "License:": "LGPLv3", 
+    "Package Index Owner:": "chrj"
+  }, 
+  "license": "GNU Lesser General Public License v3 (LGPLv3)", 
+  "longdescription": "Django e-mail backend for the Ubivox e-mail API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "abc9ad3eaccad3cbe8daea924179d6e5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ubivox-email/django-ubivox-email-0.0.1.tar.gz"
+}

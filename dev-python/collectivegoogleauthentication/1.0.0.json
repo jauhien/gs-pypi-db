@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GA takes care of the user authentication upon Google Docs service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.googleauthentication/", 
+  "info": {
+    "Author:": "D'Elia Federica", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.googleauthentication/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fdelia, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "GA takes care of the user authentication upon Google Docs service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b0f94c5dff052157226d2012f148a579", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.googleauthentication/collective.googleauthentication-1.0.0.tar.gz"
+}

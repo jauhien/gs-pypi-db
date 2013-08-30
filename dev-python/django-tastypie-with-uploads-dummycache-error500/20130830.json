@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Patched version of Django Tastypie -- check README.rst.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/toastdriven/django-tastypie/", 
+  "info": {
+    "Author:": "Daniel Lindsley", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/toastdriven/django-tastypie/", 
+    "Package Index Owner:": "claudiob, ff0000"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Patched version of Django Tastypie -- check README.rst.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "10723fddfe01c8502b80cf8ba9be7215", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tastypie-with-uploads-dummycache-error500/django-tastypie-with-uploads-dummycache-error500-1.0.0-beta-red1.tar.gz"
+}

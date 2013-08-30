@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Transformations applied to HTML in Plone text fields as they are rendered", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/plone/plone.outputfilters", 
+  "info": {
+    "Author:": "David Glick, Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/plone/plone.outputfilters", 
+    "Keywords:": "plone transform filter uid caption", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gotcha, optilude, hannosch, esteele, davisagli, laurencerowe, mj"
+  }, 
+  "license": "", 
+  "longdescription": "Transformations applied to HTML in Plone text fields as they are rendered", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b7506f09ad98621f8bb388c55183d6d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.outputfilters/plone.outputfilters-1.11.1.zip"
+}

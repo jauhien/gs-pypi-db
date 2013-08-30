@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tornadoweb.org/", 
+  "info": {
+    "Author:": "Facebook", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "http://www.tornadoweb.org/", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "Ben.Darnell"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2348d626095c5675753287e9af0c321f", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tornado/tornado-3.1.tar.gz"
+}

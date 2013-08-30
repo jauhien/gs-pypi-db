@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Clean up the HTML formatting problems introduced by pasting content from MSWord into Plones RichText fields.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.example", 
+  "info": {
+    "Author:": "Syslab.com GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.example", 
+    "Keywords:": "plone syslab simplon microsoft word", 
+    "License:": "GPL", 
+    "Package Index Owner:": "do3cc, jcbrand, thomasw, goibhniu, pilz"
+  }, 
+  "license": "", 
+  "longdescription": "Clean up the HTML formatting problems introduced by pasting content from MSWord into Plones RichText fields.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ab89f735e822552648f68d1d828da8e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slc.cleanwordpastedtext/slc.cleanwordpastedtext-1.2.8.tar.gz"
+}

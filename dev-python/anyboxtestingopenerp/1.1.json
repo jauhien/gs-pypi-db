@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Useful testing base classes and tools for OpenERP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/anybox/anybox.testing.openerp", 
+  "info": {
+    "Author:": "Anybox", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/anybox/anybox.testing.openerp", 
+    "License:": "AGPL v3+", 
+    "Package Index Owner:": "gracinet"
+  }, 
+  "license": "", 
+  "longdescription": "Useful testing base classes and tools for OpenERP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b360cacdea740acfa2cd7e2674bcf383", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anybox.testing.openerp/anybox.testing.openerp-1.1.tar.gz"
+}

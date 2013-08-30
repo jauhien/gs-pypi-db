@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Application settings whose values can be updated while a project is up and running.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zlorf/django-dbsettings", 
+  "info": {
+    "Author:": "Jacek Tomaszewski", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zlorf/django-dbsettings", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zlorf"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Application settings whose values can be updated while a project is up and running.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "496507ed58121281d2a8719a015f6a2f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dbsettings/django-dbsettings-0.5.tar.gz"
+}

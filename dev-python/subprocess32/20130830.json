@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backport of the subprocess module from Python 3.2.5 for use on 2.x.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/python-subprocess32/", 
+  "info": {
+    "Author:": "Gregory P. Smith", 
+    "Bug Tracker:": "http://bugs.python.org/", 
+    "Home Page:": "http://code.google.com/p/python-subprocess32/", 
+    "License:": "PSF license", 
+    "Package Index Owner:": "GregoryPSmith"
+  }, 
+  "license": "", 
+  "longdescription": "Backport of the subprocess module from Python 3.2.5 for use on 2.x.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5f46106368be6336b54af95d048fea9", 
+  "source_uri": "https://pypi.python.org/packages/source/s/subprocess32/subprocess32-3.2.5rc1.tar.gz"
+}

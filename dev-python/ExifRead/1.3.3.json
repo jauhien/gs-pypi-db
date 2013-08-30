@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read Exif metadata from tiff and jpeg files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ianare/exif-py", 
+  "info": {
+    "Author:": "Ianar\u00e9 S\u00e9vi", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ianare/exif-py", 
+    "Keywords:": "exif image metadata photo", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ianare"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Read Exif metadata from tiff and jpeg files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fea447d507972fd89f224babe135801b", 
+  "source_uri": "https://pypi.python.org/packages/source/E/ExifRead/ExifRead-1.3.3.tar.gz"
+}

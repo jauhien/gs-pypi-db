@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fast C implementation of the ElementTree API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.effbot.org/zone/celementtree.htm", 
+  "info": {
+    "Author:": "Fredrik Lundh", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Download URL:": "http://effbot.org/downloads#celementtree", 
+    "Home Page:": "http://www.effbot.org/zone/celementtree.htm", 
+    "License:": "Python (MIT style)", 
+    "Package Index Owner:": "effbot", 
+    "Platform:": "Python 2.1 and later."
+  }, 
+  "license": "", 
+  "longdescription": "A fast C implementation of the ElementTree API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://effbot.org/downloads#celementtree"
+}

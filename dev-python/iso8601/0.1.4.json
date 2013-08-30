@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple module to parse ISO 8601 dates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pyiso8601/", 
+  "info": {
+    "Author:": "Michael Twomey", 
+    "Home Page:": "http://code.google.com/p/pyiso8601/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mick"
+  }, 
+  "license": "", 
+  "longdescription": "Simple module to parse ISO 8601 dates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f63c17a1786b9fe48d05b43d61970f85", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iso8601/iso8601-0.1.4.tar.gz"
+}

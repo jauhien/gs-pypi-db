@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Package to manage bibliography files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fisica.cab.cnea.gov.ar/colisiones/staff/fiol/biblio-py.html", 
+  "info": {
+    "Author:": "Juan Fiol", 
+    "Documentation:": "http://pythonhosted.org//biblio-py", 
+    "Home Page:": "http://fisica.cab.cnea.gov.ar/colisiones/staff/fiol/biblio-py.html", 
+    "Keywords:": "bibliography,bibtex,converter,html,xml,latex,parser", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "fiolj"
+  }, 
+  "license": "", 
+  "longdescription": "Package to manage bibliography files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "40448eb09c62766a17b8b155343e755d", 
+  "source_uri": "https://pypi.python.org/packages/source/b/biblio-py/biblio-py-0.6.1.tar.gz"
+}

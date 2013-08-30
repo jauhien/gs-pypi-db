@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "StatsD-utilities for Piped.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://piped.io", 
+  "info": {
+    "Author:": "Piped Project Contributors", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "http://piped.io", 
+    "License:": "MIT", 
+    "Package Index Owner:": "foundit"
+  }, 
+  "license": "", 
+  "longdescription": "StatsD-utilities for Piped.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "377518ebd33acae46243a7a0e5199c41", 
+  "source_uri": "https://pypi.python.org/packages/source/p/piped.contrib.statsd/piped.contrib.statsd-0.5.4.tar.gz"
+}

@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Task queue service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/z3c.taskqueue", 
+  "info": {
+    "Author:": "Godefroid Chapelle and the Zope community", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/z3c.taskqueue", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "gotcha, jfroche"
+  }, 
+  "license": "", 
+  "longdescription": "Task queue service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0eb919da64a8e19a50ed7eb1b09b980", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.taskqueue/z3c.taskqueue-0.2.1.zip"
+}

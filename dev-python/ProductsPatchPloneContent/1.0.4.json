@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Various utilities to patch standard Plone content types", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nidelven-it.no/d", 
+  "info": {
+    "Author:": "Morten W. Petersen", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://www.nidelven-it.no/d", 
+    "Keywords:": "python plone archetypes atcontenttypes monkeypatch", 
+    "License:": "GPL", 
+    "Package Index Owner:": "morphex"
+  }, 
+  "license": "", 
+  "longdescription": "Various utilities to patch standard Plone content types", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "56d6cb92b6ee44cd94b8d21526fffd4c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PatchPloneContent/Products.PatchPloneContent-1.0.4.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool for generating SQL commands from a tcm static structure diagram (SSD)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.gocept.com", 
+  "info": {
+    "Author:": "Christian Zagrodnick", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.gocept.com", 
+    "Keywords:": "sql tcm", 
+    "License:": "GPL 2", 
+    "Package Index Owner:": "tlotze, icemac, zagy"
+  }, 
+  "license": "", 
+  "longdescription": "Tool for generating SQL commands from a tcm static structure diagram (SSD)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "313f2fec25adf343863b698aeb58880c", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tcm2sql/tcm2sql-1.0.0.tar.gz"
+}

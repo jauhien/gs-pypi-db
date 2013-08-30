@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Healpix tools package for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/healpy", 
+  "info": {
+    "Author:": "C. Rosset, A. Zonca", 
+    "Home Page:": "http://github.com/healpy", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "andreazonca.myopenid.com"
+  }, 
+  "license": "", 
+  "longdescription": "Healpix tools package for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "60152b75ee6e19b15e73ca21a3c4ddde", 
+  "source_uri": "https://pypi.python.org/packages/source/h/healpy/healpy-1.6.3.tar.gz"
+}

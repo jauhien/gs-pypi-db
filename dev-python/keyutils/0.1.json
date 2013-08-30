@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "keyutils bindings for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/rpathsync/python-keyutils", 
+  "info": {
+    "Author:": "Mihai Ibanescu", 
+    "Categories": {
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Topic": [
+        "Security"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/rpathsync/python-keyutils", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "mibanescu", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "keyutils bindings for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b4007cf1d759a175b6bca311e55f67cb", 
+  "source_uri": "https://pypi.python.org/packages/source/k/keyutils/keyutils-0.1.tar.gz"
+}

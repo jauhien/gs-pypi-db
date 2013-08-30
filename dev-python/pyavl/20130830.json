@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "avl-tree type for Python (C-written extension module)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dasnar.sdf-eu.org/miscres.html", 
+  "info": {
+    "Author:": "Richard McGraw", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/projects/pyavl/", 
+    "Home Page:": "http://dasnar.sdf-eu.org/miscres.html", 
+    "License:": "None, public domain", 
+    "Package Index Owner:": "kolchak"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "avl-tree type for Python (C-written extension module)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://sourceforge.net/projects/pyavl/"
+}

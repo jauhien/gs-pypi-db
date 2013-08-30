@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ARP  RARP module for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andreas Urbanski", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Keywords:": "arp rarp windows winpcap raw ethernet socket", 
+    "License:": "GLPv3", 
+    "Package Index Owner:": "arpanet", 
+    "Platform:": "Windows XP SP2 (and greater)"
+  }, 
+  "license": "", 
+  "longdescription": "ARP  RARP module for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "168055bb3f0a65abf09cb3d2cf709e68", 
+  "source_uri": "https://pypi.python.org/packages/source/a/arp/arp-1.0.zip"
+}

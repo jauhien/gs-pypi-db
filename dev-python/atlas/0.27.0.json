@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Atlas Build Tool - simple, extensible build system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/atlas-build-tool", 
+  "info": {
+    "Author:": "Mike Parent", 
+    "Home Page:": "http://code.google.com/p/atlas-build-tool", 
+    "Keywords:": "build test", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "mparent61"
+  }, 
+  "license": "", 
+  "longdescription": "Atlas Build Tool - simple, extensible build system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed88dc6ddf7d2567157ea6d8c5fce084", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atlas/atlas-0.27.0.tar.gz"
+}

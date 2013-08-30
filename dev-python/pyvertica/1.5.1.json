@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for performing batch imports into Vertica", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/spilgames/pyvertica", 
+  "info": {
+    "Author:": "Guillaume Roger, Orne Brocaar", 
+    "Documentation:": "http://pythonhosted.org//pyvertica", 
+    "Home Page:": "https://github.com/spilgames/pyvertica", 
+    "License:": "BSD", 
+    "Package Index Owner:": "spilgames"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for performing batch imports into Vertica", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a7f7147ad52551fb949cc4b0bf4761ed", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyvertica/pyvertica-1.5.1.tar.gz"
+}

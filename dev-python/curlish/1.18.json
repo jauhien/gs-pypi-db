@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper for curl that adds OAuth support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fireteam/curlish", 
+  "info": {
+    "Author:": "Fireteam Ltd.", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//curlish", 
+    "Home Page:": "http://github.com/fireteam/curlish", 
+    "Package Index Owner:": "mitsuhiko"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A wrapper for curl that adds OAuth support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6cc46adeb7bda14e50a420cf1f948bdf", 
+  "source_uri": "https://pypi.python.org/packages/source/c/curlish/curlish-1.18.tar.gz"
+}

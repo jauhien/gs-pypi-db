@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone opengraph integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.opengraph", 
+  "info": {
+    "Author:": "Giorgio Borelli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.opengraph", 
+    "License:": "GPL", 
+    "Package Index Owner:": "amleczko"
+  }, 
+  "license": "", 
+  "longdescription": "Plone opengraph integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21d6f67e5fcc8913e835a16582668970", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.opengraph/collective.opengraph-1.0.1.zip"
+}

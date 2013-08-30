@@ -1,0 +1,67 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipes for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/2degrees/djangout/", 
+  "info": {
+    "Author:": "2degrees Limited", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//djangout", 
+    "Home Page:": "http://bitbucket.org/2degrees/djangout/", 
+    "Keywords:": "buildout recipe django media", 
+    "License:": "BSD (http://dev.2degreesnetwork.com/p/2degrees-license.html)", 
+    "Package Index Maintainer:": "FranRuiz", 
+    "Package Index Owner:": "Gustavo, euangoddard, FranRuiz"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Buildout recipes for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6839ba475491fcd07ad422b4e0afd586", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djangout/djangout-1.1.tar.gz"
+}

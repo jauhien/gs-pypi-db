@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchroniing plain text.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/google-diff-match-patch/", 
+  "info": {
+    "Author:": "Neil Fraser", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/google-diff-match-patch/", 
+    "License:": "Apache", 
+    "Package Index Owner:": "spookylukey"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchroniing plain text.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8de3bc2282fda5999f45fa4b576ad70f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/diff-match-patch/diff-match-patch-20120106.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A product with Mailman interface for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.platecom.com/productos/iccommunity.mailman/", 
+  "info": {
+    "Author:": "Inter-Cultura Consultora SRL - Ibai Sistemas SA - Eusko Ikaskuntza-Sociedad de Estudios Vascos", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Mailing List Servers"
+      ]
+    }, 
+    "Home Page:": "http://www.platecom.com/productos/iccommunity.mailman/", 
+    "Keywords:": "iccommunity,platecom,community,mailman,plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "intercultura"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A product with Mailman interface for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a0dc7aea4a4ffec870ce88afa4336ae6", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iccommunity.mailman/iccommunity.mailman-1.0-dev-r371.tar.gz"
+}

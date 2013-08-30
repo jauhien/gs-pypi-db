@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Makesite is collection scripts for make and control site structure.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/klen/makesite", 
+  "info": {
+    "Author:": "Kirill Klenov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//makesite", 
+    "Home Page:": "http://github.com/klen/makesite", 
+    "License:": "GNU LGPL", 
+    "Package Index Owner:": "klen", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Makesite is collection scripts for make and control site structure.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d15b904b3b3eb8871c7bf9683613651d", 
+  "source_uri": "https://pypi.python.org/packages/source/m/makesite/makesite-0.9.83.tar.gz"
+}

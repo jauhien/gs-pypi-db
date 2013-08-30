@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An model field that auto increments every time the model is saved", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bradleyayers/django-revisionfield/", 
+  "info": {
+    "Author:": "Bradley Ayers", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bradleyayers/django-revisionfield/", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "bradley.ayers"
+  }, 
+  "license": "", 
+  "longdescription": "An model field that auto increments every time the model is saved", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7ccb432d06d0fe8d705c10450a55d0b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-revisionfield/django-revisionfield-0.2.2.tar.gz"
+}

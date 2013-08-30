@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pytest plugin to abort tests after a timeout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/flub/pytest-timeout/", 
+  "info": {
+    "Author:": "Floris Bruynooghe", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/flub/pytest-timeout/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "flub"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "pytest plugin to abort tests after a timeout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46de81f106ab8a320c39a37d7d8f0429", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-timeout/pytest-timeout-0.3.tar.gz"
+}

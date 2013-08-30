@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A virtstrap plugin that installs node dependencies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ravenac95/virtstrap-npm", 
+  "info": {
+    "Author:": "Reuven V. Gonzales", 
+    "Home Page:": "http://github.com/ravenac95/virtstrap-npm", 
+    "Keywords:": "virtstrap ruby bundler virtualenv pip", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ravenac95"
+  }, 
+  "license": "", 
+  "longdescription": "A virtstrap plugin that installs node dependencies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9028119ff8620065ee8a15f4ff1ffe70", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtstrap-npm/virtstrap-npm-0.0.3.tar.gz"
+}

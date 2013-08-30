@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library and CLI to extract the subject, predicate and object for a given english sentence", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/codemaniac/sopex", 
+  "info": {
+    "Author:": "Ashish Prasad (codemaniac)", 
+    "Home Page:": "https://github.com/codemaniac/sopex", 
+    "Keywords:": "NLP subject predicate object triplet extraction", 
+    "License:": "LICENSE", 
+    "Package Index Owner:": "Ashish.Prasad"
+  }, 
+  "license": "", 
+  "longdescription": "Library and CLI to extract the subject, predicate and object for a given english sentence", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5078129f196ebe8159b3cf7cc951dc3c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sopex/sopex-0.1.tar.gz"
+}

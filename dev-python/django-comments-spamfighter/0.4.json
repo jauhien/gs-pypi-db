@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app that contributes Akismet and Keyword blocking to your django comments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/barttc/django-comments-spamfighter/", 
+  "info": {
+    "Author:": "Martin Mahner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/barttc/django-comments-spamfighter/downloads/", 
+    "Home Page:": "http://bitbucket.org/barttc/django-comments-spamfighter/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bartTC"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app that contributes Akismet and Keyword blocking to your django comments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "02d59f0b00ded5625713a0714a81b6bb", 
+  "source_uri": "http://bitbucket.org/barttc/django-comments-spamfighter/downloads/"
+}

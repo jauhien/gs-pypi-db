@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple and generic application for Django projects to attach and handle links for any object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://matagus.github.com/django-generic-links/", 
+  "info": {
+    "Author:": "Mat\u00edas Agust\u00edn M\u00e9ndez", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://matagus.github.com/django-generic-links/", 
+    "Keywords:": "django apps links generic", 
+    "License:": "BSD License Version 2", 
+    "Package Index Owner:": "matagus"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple and generic application for Django projects to attach and handle links for any object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b3a43a74fe77386cd3f6252c6232b93", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-generic-links/django-generic-links-0.2.0.tar.gz"
+}

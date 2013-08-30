@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of small python utilities for working with binary files and Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/emory-libraries/eulcommon", 
+  "info": {
+    "Author:": "Emory University Libraries", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/emory-libraries/eulcommon", 
+    "Keywords:": "Binary data", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "EULSystems"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A collection of small python utilities for working with binary files and Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "827a327a9244d3fd087917f7fb3e68ae", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eulcommon/eulcommon-0.17.0.tar.gz"
+}

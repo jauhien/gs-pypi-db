@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple cart for django based shop", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/lorien/django-simple-cart/", 
+  "info": {
+    "Author:": "Grigoriy Petukhov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/lorien/django-simple-cart/", 
+    "Keywords:": "django application development shop cart", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lorien"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple cart for django based shop", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a76c59076f1f563f341e025d2c53cd29", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-simple-cart/django-simple-cart-0.1.0.tar.gz"
+}

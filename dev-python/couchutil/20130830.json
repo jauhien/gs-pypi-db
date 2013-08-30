@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "utils for couchdb. changes handler and reservation handling ctx mgr.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ish.io", 
+  "info": {
+    "Author:": "Tim Parkin & Matt Goodall", 
+    "Home Page:": "http://ish.io", 
+    "Package Index Owner:": "ish"
+  }, 
+  "license": "", 
+  "longdescription": "utils for couchdb. changes handler and reservation handling ctx mgr.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "76a12e6ba92f59b41050634aa49f6b22", 
+  "source_uri": "https://pypi.python.org/packages/source/c/couchutil/couchutil-0.1.1dev.tar.gz"
+}

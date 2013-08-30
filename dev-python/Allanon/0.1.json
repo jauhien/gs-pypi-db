@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A crawler for visit a predictable set of URLs, and download resources from them", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/keul/Allanon", 
+  "info": {
+    "Author:": "keul", 
+    "Bug Tracker:": "https://github.com/keul/Allanon/issues", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/keul/Allanon", 
+    "Keywords:": "crawler robot spider downloader parser", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A crawler for visit a predictable set of URLs, and download resources from them", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c1ac97d8dbe1e7f3ab6211bf1f2d29ea", 
+  "source_uri": "https://pypi.python.org/packages/source/A/Allanon/Allanon-0.1.zip"
+}

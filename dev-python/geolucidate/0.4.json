@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parse free-form geographic coordinates in text, and automatically generate links and metadata.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kurtraschke/geolucidate", 
+  "info": {
+    "Author:": "Kurt Raschke", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//geolucidate", 
+    "Home Page:": "http://github.com/kurtraschke/geolucidate", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kurtraschke"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Parse free-form geographic coordinates in text, and automatically generate links and metadata.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea0fae3039779517e0fa720a7a5d4c24", 
+  "source_uri": "https://pypi.python.org/packages/source/g/geolucidate/geolucidate-0.4.tar.gz"
+}

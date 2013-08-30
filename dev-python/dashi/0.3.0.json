@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple RPC layer on top of kombu", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nimbusproject/dashi", 
+  "info": {
+    "Author:": "Nimbus team", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Download URL:": "http://www.nimbusproject.org/downloads/dashi-0.3.0.tar.gz", 
+    "Home Page:": "http://github.com/nimbusproject/dashi", 
+    "Keywords:": "nimbus,amqp,kombu", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "nimbusproject"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "simple RPC layer on top of kombu", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.nimbusproject.org/downloads/dashi-0.3.0.tar.gz"
+}

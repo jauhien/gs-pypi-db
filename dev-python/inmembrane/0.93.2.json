@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A bioinformatic pipeline for proteome annotation to predict if a protein is exposed on the surface of a bacteria.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/boscoh/inmembrane", 
+  "info": {
+    "Author:": "Andrew Perry & Bosco Ho", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://github.com/boscoh/inmembrane", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pansapiens"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A bioinformatic pipeline for proteome annotation to predict if a protein is exposed on the surface of a bacteria.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd937bdf212acd932052d8969d043186", 
+  "source_uri": "https://pypi.python.org/packages/source/i/inmembrane/inmembrane-0.93.2.tar.gz"
+}

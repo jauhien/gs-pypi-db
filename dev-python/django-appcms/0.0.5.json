@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Templatetags for inserting django-cms placeholders in app templates.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/codemill/django-appcms", 
+  "info": {
+    "Author:": "Ludvig Widman, CodeMill AB", 
+    "Home Page:": "http://github.com/codemill/django-appcms", 
+    "Package Index Owner:": "CodeMill"
+  }, 
+  "license": "", 
+  "longdescription": "Templatetags for inserting django-cms placeholders in app templates.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4fd23a60a3c92fc7689d10d629d692e7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-appcms/django-appcms-0.0.5.tar.gz"
+}

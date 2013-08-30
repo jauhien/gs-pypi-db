@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides custom Field subclasses intended for use with types available in PostgreSQL but not in the Django core ORM, including arrays and composite types.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lukesneeringer/django-pgfields", 
+  "info": {
+    "Author:": "Luke Sneeringer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lukesneeringer/django-pgfields", 
+    "License:": "New BSD", 
+    "Package Index Owner:": "lukesneeringer"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Provides custom Field subclasses intended for use with types available in PostgreSQL but not in the Django core ORM, including arrays and composite types.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "666406c0330213f868d9c9cdf1d7dc90", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pgfields/django-pgfields-1.0.tar.gz"
+}

@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A FIPS-181 Automated Password Generator implementation. Generates random, pronounceable words.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://devsuki.com/passogva/", 
+  "info": {
+    "Author:": "Steven Hazel", 
+    "Categories": {
+      "License": [
+        "Public Domain"
+      ]
+    }, 
+    "Home Page:": "http://devsuki.com/passogva/", 
+    "Keywords:": "password random pronounceable FIPS-181", 
+    "Package Index Owner:": "sah"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A FIPS-181 Automated Password Generator implementation. Generates random, pronounceable words.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cafc373cfc4f32f4b58e2dd3728219f3", 
+  "source_uri": "https://pypi.python.org/packages/source/p/passogva/passogva-1.0.tar.gz"
+}

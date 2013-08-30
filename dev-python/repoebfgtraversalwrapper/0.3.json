@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An add-on for the repoe.bfg web framework which supplies a model graph traverser which proxies location-ignorant model objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bfg.repoze.org", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bfg.repoze.org", 
+    "Keywords:": "bfg repoze.bfg traverser traversal proxy", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism"
+  }, 
+  "license": "", 
+  "longdescription": "An add-on for the repoe.bfg web framework which supplies a model graph traverser which proxies location-ignorant model objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3c680d850f674bbcb24d737b03d1ffca", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.bfg.traversalwrapper/repoze.bfg.traversalwrapper-0.3.tar.gz"
+}

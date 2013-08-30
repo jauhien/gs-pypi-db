@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Template-based rendering of Django forms layouts (not widgets).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/benoitbryon/django-formrenderingtools", 
+  "info": {
+    "Author:": "Benoit Bryon", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-formrenderingtools", 
+    "Download URL:": "http://bitbucket.org/benoitbryon/django-formrenderingtools/downloads", 
+    "Home Page:": "http://bitbucket.org/benoitbryon/django-formrenderingtools", 
+    "Keywords:": "templates forms layout", 
+    "License:": "BSD", 
+    "Package Index Owner:": "benoit.bryon", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Template-based rendering of Django forms layouts (not widgets).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18b3a64f99b31aaa383aefe29605e9c2", 
+  "source_uri": "http://bitbucket.org/benoitbryon/django-formrenderingtools/downloads"
+}

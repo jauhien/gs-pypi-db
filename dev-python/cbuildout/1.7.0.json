@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "System for managing development buildouts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zc.buildout", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zc.buildout", 
+    "Keywords:": "development build", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "icemac, aclark", 
+    "Package Index Owner:": "J1m, ajung, tarek, gary, tseaver, tlotze, aclark"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "System for managing development buildouts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e3b521600e475c56a0a66459a5fc7bb", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.buildout/zc.buildout-1.7.0.tar.gz"
+}

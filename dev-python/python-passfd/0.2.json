@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python functions to pass file descriptors across UNIX domain sockets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/python-passfd/", 
+  "info": {
+    "Author:": "Martin Ferrari", 
+    "Home Page:": "http://code.google.com/p/python-passfd/", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "Tincho", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "Python functions to pass file descriptors across UNIX domain sockets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "34c67a248223b8f06a3d55d903ff2903", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-passfd/python-passfd-0.2.tar.gz"
+}

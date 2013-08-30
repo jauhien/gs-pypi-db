@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone addon to reserve stuff in a calendar.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/seantis/seantis.reservation", 
+  "info": {
+    "Author:": "Seantis GmbH", 
+    "Bug Tracker:": "https://github.com/seantis/seantis.reservation/issues", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/seantis/seantis.reservation", 
+    "Keywords:": "reservation calendar seantis plone dexterity", 
+    "License:": "GPL v2", 
+    "Package Index Owner:": "seantis"
+  }, 
+  "license": "", 
+  "longdescription": "Plone addon to reserve stuff in a calendar.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "941753604829960f1bf94a96a9ea97f7", 
+  "source_uri": "https://pypi.python.org/packages/source/s/seantis.reservation/seantis.reservation-1.0.7.tar.gz"
+}

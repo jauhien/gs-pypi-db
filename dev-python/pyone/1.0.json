@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ctypes wrappers to manage Solaris ones in Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.org/tmetsch/pyzone", 
+  "info": {
+    "Author:": "Thijs Metsch", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "SunOS/Solaris"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.github.org/tmetsch/pyzone", 
+    "Keywords:": "Solaris,Zones,Containers", 
+    "License:": "???", 
+    "Package Index Owner:": "tmetsch"
+  }, 
+  "license": "", 
+  "longdescription": "Ctypes wrappers to manage Solaris ones in Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73bc2a4cd68f9841cd2cb8607301fb97", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyzone/pyzone-1.0.tar.gz"
+}

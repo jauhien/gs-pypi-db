@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Content actions and plone.app.iterate support for LinguaPlone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dholth/linguaplus", 
+  "info": {
+    "Author:": "Daniel Holth", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dholth/linguaplus", 
+    "License:": "GPL", 
+    "Package Index Owner:": "joeforker"
+  }, 
+  "license": "", 
+  "longdescription": "Content actions and plone.app.iterate support for LinguaPlone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc3bdc64a448c303eac62df4eb9ad8fe", 
+  "source_uri": "https://pypi.python.org/packages/source/L/LinguaPlus/LinguaPlus-0.4.tar.gz"
+}

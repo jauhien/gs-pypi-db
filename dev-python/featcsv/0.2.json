@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple AT CSV processing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.fezconsulting.com", 
+  "info": {
+    "Author:": "Dan Fairs", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.fezconsulting.com", 
+    "Keywords:": "plone zope archetypes csv import", 
+    "License:": "BSD", 
+    "Package Index Owner:": "danfairs"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple AT CSV processing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0cb96e70f2e95196f5585a31348a1021", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fez.atcsv/fez.atcsv-0.2.tar.gz"
+}

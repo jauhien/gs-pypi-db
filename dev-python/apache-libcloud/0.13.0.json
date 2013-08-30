@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A standard Python library that abstracts away differences among multiple cloud provider APIs. For more information and documentation, please see httplibcloud.apache.org", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://libcloud.apache.org/", 
+  "info": {
+    "Author:": "Apache Software Foundation", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://libcloud.apache.org/", 
+    "License:": "Apache License (2.0)", 
+    "Package Index Owner:": "pquerna, jerryapache, Kami"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A standard Python library that abstracts away differences among multiple cloud provider APIs. For more information and documentation, please see httplibcloud.apache.org", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b493c24fecc4e9ad86322d021cb3fbfd", 
+  "source_uri": "https://pypi.python.org/packages/source/a/apache-libcloud/apache-libcloud-0.13.0.tar.bz2"
+}

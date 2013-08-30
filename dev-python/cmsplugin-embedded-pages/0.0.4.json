@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DjangoCMS plugin that allows for embedding other pages in placeholders", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/airtonix/cmsplugin-embedded-pages", 
+  "info": {
+    "Author:": "Zenobius Jiricek", 
+    "Home Page:": "http://github.com/airtonix/cmsplugin-embedded-pages", 
+    "Keywords:": "django-cms,plugin,pages", 
+    "License:": "BSD", 
+    "Package Index Owner:": "airtonix"
+  }, 
+  "license": "", 
+  "longdescription": "DjangoCMS plugin that allows for embedding other pages in placeholders", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d64c5ba885967d05a5ea07a9a167b43", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin-embedded-pages/cmsplugin-embedded-pages-0.0.4.tar.gz"
+}

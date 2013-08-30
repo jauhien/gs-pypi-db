@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows to toggle edit mode in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/collective.editmodeswitcher", 
+  "info": {
+    "Author:": "4teamwork GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/collective.editmodeswitcher", 
+    "Keywords:": "plone edit mode switch toggle", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "4teamwork, maethu"
+  }, 
+  "license": "", 
+  "longdescription": "Allows to toggle edit mode in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dcab845324421f1d559a25712f1dbbb7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.editmodeswitcher/collective.editmodeswitcher-1.0.1.zip"
+}

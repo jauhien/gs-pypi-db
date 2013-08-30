@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python based fixture generator for peewee databases", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jorge Niedbalski R.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "Unix"
+      ]
+    }, 
+    "Keywords:": "fixture generator fake fake-factory peewee fixtures", 
+    "License:": "BSD", 
+    "Package Index Owner:": "niedbalski"
+  }, 
+  "license": "", 
+  "longdescription": "A Python based fixture generator for peewee databases", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "829b0d0da6ba473bc555d2e7a0b8e9be", 
+  "source_uri": "https://pypi.python.org/packages/source/p/peewee-fake-fixtures/peewee-fake-fixtures-0.2.tar.gz"
+}

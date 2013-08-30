@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read, manipulate, and write etcfstab files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Lars Wirzenius", 
+    "Package Index Owner:": "seocam"
+  }, 
+  "license": "", 
+  "longdescription": "Read, manipulate, and write etcfstab files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b2249a4af4e36a9b0963e8b9091f5172", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fstab/fstab-1.4.tar.gz"
+}

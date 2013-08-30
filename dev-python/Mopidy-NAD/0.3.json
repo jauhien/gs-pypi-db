@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mopidy extension for controlling volume on a NAD amplifier", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mopidy/mopidy-nad", 
+  "info": {
+    "Author:": "Stein Magnus Jodal", 
+    "Categories": {
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio", 
+        "Players"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mopidy/mopidy-nad", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "jodal"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Mopidy extension for controlling volume on a NAD amplifier", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a71e3efb6fa20b81280934cfe9b8233f", 
+  "source_uri": "https://pypi.python.org/packages/source/M/Mopidy-NAD/Mopidy-NAD-0.3.tar.gz"
+}

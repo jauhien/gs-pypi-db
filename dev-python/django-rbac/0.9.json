@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Role-based Access Control (RBAC) implementation for management of permissions in Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://nomadblue.com/projects/django-rbac/", 
+  "info": {
+    "Author:": "Hector Garcia", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/nabucosound/django-rbac/downloads/django-rbac-0.9.tar.gz", 
+    "Home Page:": "http://nomadblue.com/projects/django-rbac/", 
+    "Package Index Owner:": "nabucosound"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Role-based Access Control (RBAC) implementation for management of permissions in Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ac52ce2c1a2998c0e8fc823a6b4cd54", 
+  "source_uri": "http://bitbucket.org/nabucosound/django-rbac/downloads/django-rbac-0.9.tar.gz"
+}

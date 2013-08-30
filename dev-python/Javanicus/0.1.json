@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A WebHDFS FUSE driver", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rascalking/javanicus", 
+  "info": {
+    "Author:": "David Bonner", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rascalking/javanicus", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "David.Bonner"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A WebHDFS FUSE driver", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2490653c05a36807719a962700d1ef5a", 
+  "source_uri": "https://pypi.python.org/packages/source/J/Javanicus/Javanicus-0.1.tar.gz"
+}

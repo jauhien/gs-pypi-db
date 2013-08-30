@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI-compatible HTTP interface to Dropbox", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rianhunter/dropboxwsgi", 
+  "info": {
+    "Author:": "Rian Hunter", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rianhunter/dropboxwsgi", 
+    "Keywords:": "networking", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "rianhunter"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WSGI-compatible HTTP interface to Dropbox", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46b4dd563be925742449a79869aba0c8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dropboxwsgi/dropboxwsgi-1.0.1.tar.gz"
+}

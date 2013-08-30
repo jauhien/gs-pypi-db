@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An automated slug field for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/neithere/django-autoslug/", 
+  "info": {
+    "Author:": "Andy Mikhailenko", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "General"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-autoslug", 
+    "Download URL:": "http://bitbucket.org/neithere/django-autoslug/get/tip.zip", 
+    "Home Page:": "http://bitbucket.org/neithere/django-autoslug/", 
+    "Keywords:": "django field slug auto unique transliteration i18n", 
+    "License:": "GNU Lesser General Public License (LGPL), Version 3", 
+    "Package Index Owner:": "neithere"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "An automated slug field for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6a0c0c73051ffbda204f1a03ccd2c8a", 
+  "source_uri": "http://bitbucket.org/neithere/django-autoslug/get/tip.zip"
+}

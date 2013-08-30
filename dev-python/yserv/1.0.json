@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple commandline to serve on-demand files thru a builtin http server. Just give files you want to serve to yserv, and it will act as an http server, letting people download your files during a session.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.manatlan.com/page/yserv", 
+  "info": {
+    "Author:": "manatlan", 
+    "Home Page:": "http://www.manatlan.com/page/yserv", 
+    "Keywords:": "command,webserver,share,p2p", 
+    "License:": "GPL v2", 
+    "Package Index Owner:": "manatlan"
+  }, 
+  "license": "", 
+  "longdescription": "A simple commandline to serve on-demand files thru a builtin http server. Just give files you want to serve to yserv, and it will act as an http server, letting people download your files during a session.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2fef84774a9d91aa93a27261bcc89636", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yserv/yserv-1.0.tar.gz"
+}

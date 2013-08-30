@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenERP Client Library allows to easily interact with OpenERP in Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Nicolas Vanhoren", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "openerp library com communication rpc xml-rpc net-rpc xmlrpc python client lib web service", 
+    "License:": "BSD", 
+    "Package Index Owner:": "niv"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "OpenERP Client Library allows to easily interact with OpenERP in Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3992ac5865057b7ed57b173f46727fdd", 
+  "source_uri": "https://pypi.python.org/packages/source/o/openerp-client-lib/openerp-client-lib-1.1.2.tar.gz"
+}

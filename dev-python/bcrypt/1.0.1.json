@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Modern password hashing for your software and your servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dstufft/bcrypt/", 
+  "info": {
+    "Author:": "Donald Stufft", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dstufft/bcrypt/", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "dstufft"
+  }, 
+  "license": "", 
+  "longdescription": "Modern password hashing for your software and your servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61cef0c45330223bed769f6760b3b4ac", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bcrypt/bcrypt-1.0.1.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface for c-ares", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/saghul/pycares", 
+  "info": {
+    "Author:": "Sa\u00fal Ibarra Corretg\u00e9", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/saghul/pycares", 
+    "Package Index Owner:": "saghul", 
+    "Platform:": "POSIX,Microsoft Windows"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python interface for c-ares", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32eb52c17a8fc2a65751db22e93b70a9", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycares/pycares-0.5.0.tar.gz"
+}

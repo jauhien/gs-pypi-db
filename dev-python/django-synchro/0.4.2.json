@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app for database data synchroniation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zlorf/django-synchro", 
+  "info": {
+    "Author:": "Jacek Tomaszewski", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zlorf/django-synchro", 
+    "License:": "MIT", 
+    "Package Index Owner:": "zlorf"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django app for database data synchroniation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "85dbfc1a666b1a640b1fe584ff6a5344", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-synchro/django-synchro-0.4.2.tar.gz"
+}

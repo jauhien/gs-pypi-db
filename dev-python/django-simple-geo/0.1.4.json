@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Django city, state, country geo-spatially aware model and utilities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jaddison/django-simple-geo", 
+  "info": {
+    "Author:": "James Addison", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jaddison/django-simple-geo", 
+    "Keywords:": "django,geo,gis,geodjango,geocoding,longitude,latitude,geospatial,cities,coordinates", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jaddison"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple Django city, state, country geo-spatially aware model and utilities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6007dc5d9c2191270edd675dc6112bd6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-simple-geo/django-simple-geo-0.1.4.tar.gz"
+}

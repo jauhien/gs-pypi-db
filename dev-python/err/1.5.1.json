@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "err is a plugin based XMPP chatbot designed to be easily deployable, extensible and maintainable.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gbin.github.com/err/", 
+  "info": {
+    "Author:": "Guillaume BINET", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Conferencing"
+      ]
+    }, 
+    "Home Page:": "http://gbin.github.com/err/", 
+    "Keywords:": "xmpp jabber chatbot bot plugin", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gbin"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "err is a plugin based XMPP chatbot designed to be easily deployable, extensible and maintainable.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b59743e6b06cea10f3722b8b9d326f7c", 
+  "source_uri": "https://pypi.python.org/packages/source/e/err/err-1.5.1.tar.gz"
+}

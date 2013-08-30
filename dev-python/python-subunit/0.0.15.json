@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python implementation of subunit test streaming protocol", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/subunit", 
+  "info": {
+    "Author:": "Robert Collins", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/subunit", 
+    "Keywords:": "python test streaming", 
+    "Package Index Owner:": "lifeless"
+  }, 
+  "license": "", 
+  "longdescription": "Python implementation of subunit test streaming protocol", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65e43979f1156911a468fa76cc192c0a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-subunit/python-subunit-0.0.15.tar.gz"
+}

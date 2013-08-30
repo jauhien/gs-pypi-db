@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python binding of SugarCRM, that uses the SOAP API provided by SugarCRM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Florent Aide", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "SugarCRM SOAP", 
+    "License:": "PSF", 
+    "Package Index Owner:": "florentaide", 
+    "Platform:": "OS Independant"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Python binding of SugarCRM, that uses the SOAP API provided by SugarCRM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5701cd2b058ff4748cdffcad7b629edf", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysugar/pysugar-0.0.6.tar.gz"
+}

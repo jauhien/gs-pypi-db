@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mercurial extension to work with nested repositories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/hgnested/", 
+  "info": {
+    "Author:": "B2CK", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/hgnested/downloads/", 
+    "Home Page:": "http://code.google.com/p/hgnested/", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "ced, nicoe, bch"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Mercurial extension to work with nested repositories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8728dc59c0efcc859f1776b773b25224", 
+  "source_uri": "http://code.google.com/p/hgnested/downloads/"
+}

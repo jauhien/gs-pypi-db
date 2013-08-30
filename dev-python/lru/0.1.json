@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple LRU cache implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/luckythetourist/lru", 
+  "info": {
+    "Author:": "Jared Kuolt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/luckythetourist/lru", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "JaredKuolt", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple LRU cache implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "74c2d787780294c130d7ec3dc32ba207", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lru/lru-0.1.tar.gz"
+}

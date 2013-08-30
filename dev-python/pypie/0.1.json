@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "devilspie clone based on wnck and pygtk", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tabed.org/software/pypie/", 
+  "info": {
+    "Author:": "Mikhail Sakhno", 
+    "Categories": {
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Desktop Environment", 
+        "Window Managers"
+      ]
+    }, 
+    "Home Page:": "http://tabed.org/software/pypie/", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "pawnhearts", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "", 
+  "longdescription": "devilspie clone based on wnck and pygtk", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ea1152acbc37b859186e5bc5dccb65b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pypie/pypie-0.1.tar.gz"
+}

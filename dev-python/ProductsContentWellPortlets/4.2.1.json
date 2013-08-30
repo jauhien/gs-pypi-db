@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone product that enables you to add portlets to the central column in a page", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://weblion.psu.edu", 
+  "info": {
+    "Author:": "WebLion", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://weblion.psu.edu", 
+    "Keywords:": "plone portletmanager", 
+    "License:": "GPL", 
+    "Package Index Owner:": "catherinew, robzonenet, esteele, cah190, pumazi"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone product that enables you to add portlets to the central column in a page", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9da0c16e194b1d48b7126754f26782a0", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ContentWellPortlets/Products.ContentWellPortlets-4.2.1.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI form parsing and validation middleware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/lcrees/wsgiform/", 
+  "info": {
+    "Author:": "L. C. Rees", 
+    "Bug Tracker:": "https://bitbucket.org/lcrees/wsgiform/issues", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/lcrees/wsgiform/", 
+    "Keywords:": "form HTML validation parsing WSGI middleware web HTTP", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lcrees"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "WSGI form parsing and validation middleware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75ee4d5f02a014beec6bed9c3baf4e0b", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgiform/wsgiform-0.3.tar.bz2"
+}

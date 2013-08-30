@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add maps and photos from the French National Geographic Institute to GeoDjango", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/bruno/django-geoportail", 
+  "info": {
+    "Author:": "Bruno Renie", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-geoportail", 
+    "Home Page:": "http://bitbucket.org/bruno/django-geoportail", 
+    "License:": "BSD licence, see LICENCE file", 
+    "Package Index Owner:": "bruno"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Add maps and photos from the French National Geographic Institute to GeoDjango", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64925b759a9d9b1a29e8e17848b73900", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-geoportail/django-geoportail-0.4.6.tar.gz"
+}

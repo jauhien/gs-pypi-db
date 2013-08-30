@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Interact with Recurlys REST API for subscription management from your Python website", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.recurly.com/client-libraries/python", 
+  "info": {
+    "Author:": "Recurly", 
+    "Bug Tracker:": "https://github.com/recurly/recurly-client-python/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://docs.recurly.com/client-libraries/python", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "markpasc, pyronicide", 
+    "Package Index Owner:": "isaachall, markpasc, stephencelis, pyronicide"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Interact with Recurlys REST API for subscription management from your Python website", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a606c08e5ca0667b9d0b2ad3908416a5", 
+  "source_uri": "https://pypi.python.org/packages/source/r/recurly/recurly-2.1.11.tar.gz"
+}

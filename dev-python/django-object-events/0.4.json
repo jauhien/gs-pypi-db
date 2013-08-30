@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic app for creating events that can be shown to the user in a notifications list.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bitmazk/django-object-events", 
+  "info": {
+    "Author:": "Martin Brochhaus", 
+    "Home Page:": "https://github.com/bitmazk/django-object-events", 
+    "Keywords:": "django,reusable,events,notifications,generic", 
+    "License:": "The MIT License", 
+    "Package Index Maintainer:": "Tobias.Lorenz, dkaufhold", 
+    "Package Index Owner:": "Tobias.Lorenz, mbrochh", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "Generic app for creating events that can be shown to the user in a notifications list.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9fa260e7bb7ae5401db98547c5bde987", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-object-events/django-object-events-0.4.tar.gz"
+}

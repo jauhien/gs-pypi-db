@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CKAN Catalogue RDF Generation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "William Waites", 
+    "Keywords:": "ckan rdf data catalogue", 
+    "License:": "GPL", 
+    "Package Index Owner:": "wwaites"
+  }, 
+  "license": "", 
+  "longdescription": "CKAN Catalogue RDF Generation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69d64825b3ba86ec9de96fae972f3cb0", 
+  "source_uri": "https://pypi.python.org/packages/source/c/ckanrdf/ckanrdf-0.7.1.tar.gz"
+}

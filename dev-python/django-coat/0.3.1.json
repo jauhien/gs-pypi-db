@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The media files handler for Django. Represented with { coat } template tag. Can add cache-aware marks and compile files (with sass and etc.).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/daevaorn/django-coat/", 
+  "info": {
+    "Author:": "Alex Koshelev", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/daevaorn/django-coat/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "daevaorn"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "The media files handler for Django. Represented with { coat } template tag. Can add cache-aware marks and compile files (with sass and etc.).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "308dc4c87e415e6e43a9318abff46bf5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-coat/django-coat-0.3.1.tar.gz"
+}

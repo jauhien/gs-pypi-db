@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple pessimistic lock implementation using Redis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cezarsa/redis_lock", 
+  "info": {
+    "Author:": "Cezar S\u00e1 Espinola", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cezarsa/redis_lock", 
+    "Keywords:": "redis pessimistic lock setnx", 
+    "License:": "MIT", 
+    "Package Index Owner:": "cezarsa"
+  }, 
+  "license": "", 
+  "longdescription": "A simple pessimistic lock implementation using Redis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5dedd2439cf33e7b068f284837a9424", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redis-lock/redis-lock-0.2.0.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for interfacing Django with CMDBuild databases", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/dj-cmdbuild", 
+  "info": {
+    "Author:": "Emanuele Pucciarelli", 
+    "Home Page:": "http://code.google.com/p/dj-cmdbuild", 
+    "Keywords:": "django cmdbuild", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ep"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for interfacing Django with CMDBuild databases", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "30494cb21b4dab5cf6e1543d5a74bef2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dj-cmdbuild/dj-cmdbuild-0.1dev-r23.tar.gz"
+}

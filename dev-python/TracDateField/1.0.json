@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add custom date fields to Trac tickets.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/DateFieldPlugin", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/DateFieldPlugin", 
+    "Keywords:": "trac plugin ticket", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ryan.Ollos, coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "Add custom date fields to Trac tickets.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "92131fb409dabb890c3c75f4ff88db65", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracDateField/TracDateField-1.0.tar.gz"
+}

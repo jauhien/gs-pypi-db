@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility for creating Protocol Buffer Messages and RPC services from a Django model", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zachary Walker", 
+    "Package Index Owner:": "zwalker"
+  }, 
+  "license": "", 
+  "longdescription": "Utility for creating Protocol Buffer Messages and RPC services from a Django model", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eac9247f8d241f39b73a1431621e69f6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pbandj/pbandj-1.1.5.tar.gz"
+}

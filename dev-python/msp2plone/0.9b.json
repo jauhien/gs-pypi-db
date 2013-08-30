@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An M Project XML to Plone eXtreme Management importer.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://msp2plone.googlecode.com/svn/tags/0.9b", 
+  "info": {
+    "Author:": "Stefan Eletzhofer", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://msp2plone.googlecode.com/svn/tags/0.9b", 
+    "License:": "GPL", 
+    "Package Index Owner:": "seletz"
+  }, 
+  "license": "", 
+  "longdescription": "An M Project XML to Plone eXtreme Management importer.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4f1f5fdc244dd885872f5cd4ef09f465", 
+  "source_uri": "https://pypi.python.org/packages/source/m/msp2plone/msp2plone-0.9b.tar.gz"
+}

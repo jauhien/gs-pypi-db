@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python dictionary and set implemented using prefix trees", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://prefixtree.readthedocs.org", 
+  "info": {
+    "Author:": "Aaron Iles", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://prefixtree.readthedocs.org", 
+    "License:": "ASL", 
+    "Package Index Owner:": "Aaron.Iles"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python dictionary and set implemented using prefix trees", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fdeae4935baeef81e47ee21059521993", 
+  "source_uri": "https://pypi.python.org/packages/source/p/prefixtree/prefixtree-0.2.tar.gz"
+}

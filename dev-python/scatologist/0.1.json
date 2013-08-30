@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A framework for ad hoc analysis and reporting from log files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/scatologist", 
+  "info": {
+    "Author:": "Chris Withers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/scatologist", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chrisw"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A framework for ad hoc analysis and reporting from log files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ff8455ed86762f93a37c5a62b1a1dd9", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scatologist/scatologist-0.1.zip"
+}

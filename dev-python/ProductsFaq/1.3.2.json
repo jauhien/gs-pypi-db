@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FAQ - An AT contenttype for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tomgross/Products.Faq", 
+  "info": {
+    "Author:": "Four Digits", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tomgross/Products.Faq", 
+    "Keywords:": "FAQ Archetypes Plone Contenttype", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fourdigits, jaroel, iT0m"
+  }, 
+  "license": "", 
+  "longdescription": "FAQ - An AT contenttype for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2be00dcc345155b4d662855b12c20bf3", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.Faq/Products.Faq-1.3.2.zip"
+}

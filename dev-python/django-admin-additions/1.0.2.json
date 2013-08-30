@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Admin additions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.schinckel.net/django-admin-additions", 
+  "info": {
+    "Author:": "Matthew Schinckel", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://hg.schinckel.net/django-admin-additions", 
+    "Package Index Owner:": "schinckel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Admin additions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b78779f5be03237497e7672e0d49cbf0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-admin-additions/django-admin-additions-1.0.2.tar.gz"
+}

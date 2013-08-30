@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a utility library to help environment bootstrapping scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://toumorokoshi.github.io/sprinter", 
+  "info": {
+    "Author:": "Yusuke Tsutsumi", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://toumorokoshi.github.io/sprinter", 
+    "Package Index Owner:": "Yusuke.Tsutsumi"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "a utility library to help environment bootstrapping scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "92ce46e4c28ea7d9df11098f70e2a243", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sprinter/sprinter-0.8.0.tar.gz"
+}

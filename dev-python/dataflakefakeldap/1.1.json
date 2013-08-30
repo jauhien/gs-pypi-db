@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LDAP connection library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/dataflake.fakeldap", 
+  "info": {
+    "Author:": "Jens Vagelpohl", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory", 
+        "LDAP"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//dataflake.fakeldap", 
+    "Home Page:": "http://pypi.python.org/pypi/dataflake.fakeldap", 
+    "Keywords:": "ldap ldapv3", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "dataflake"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "LDAP connection library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84470ad5ef1f491a515c39a9a1e79e5c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dataflake.fakeldap/dataflake.fakeldap-1.1.tar.gz"
+}

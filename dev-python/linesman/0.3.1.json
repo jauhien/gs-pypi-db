@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI Profiling middleware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/linesman", 
+  "info": {
+    "Author:": "Andrew McFague", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//linesman", 
+    "Home Page:": "http://pypi.python.org/pypi/linesman", 
+    "Package Index Owner:": "amcfague"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI Profiling middleware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a83bc191e6e0da5a24796a89f8648bb", 
+  "source_uri": "https://pypi.python.org/packages/source/l/linesman/linesman-0.3.1.tar.gz"
+}

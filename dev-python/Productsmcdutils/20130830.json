@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A ope2 product which provides facilities for storing sessions in memcached.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ctheune/mcdutils", 
+  "info": {
+    "Author:": "Christian Theune", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ctheune/mcdutils", 
+    "Keywords:": "session memcache memcached Products", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ctheune"
+  }, 
+  "license": "", 
+  "longdescription": "A ope2 product which provides facilities for storing sessions in memcached.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5d0206e22d1599a071739faae3714e78", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.mcdutils/Products.mcdutils-0.2b3.tar.gz"
+}

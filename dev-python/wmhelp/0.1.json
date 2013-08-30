@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Infrastructure to add a ReStructuredText based help system to plone sites", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/webmeisterei/wm.help", 
+  "info": {
+    "Author:": "Harald Friessnegger", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/webmeisterei/wm.help", 
+    "Keywords:": "plone collective help documentation docutils rest restructuredtext rst", 
+    "License:": "GPL", 
+    "Package Index Owner:": "frisi"
+  }, 
+  "license": "", 
+  "longdescription": "Infrastructure to add a ReStructuredText based help system to plone sites", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "967d9f1987f66bdb3a7b7f7f2921a408", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wm.help/wm.help-0.1.zip"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Set of paster templates for rapid Pyramid development", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/serverzen/RapidGiza", 
+  "info": {
+    "Author:": "Rocky Burt", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "https://github.com/serverzen/RapidGiza", 
+    "Keywords:": "web wsgi bfg pylons pyramid sqlalchemy khufu jinja2", 
+    "Package Index Owner:": "rockyburt"
+  }, 
+  "license": "", 
+  "longdescription": "Set of paster templates for rapid Pyramid development", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd06290723b8575b107dbf43282a38a1", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RapidGiza/RapidGiza-0.2.1.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A non blocking TCP networking core based on select.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://exactlysimilar.org/docs/socketome", 
+  "info": {
+    "Author:": "Simon Wittber", 
+    "Home Page:": "http://exactlysimilar.org/docs/socketome", 
+    "License:": "MIT", 
+    "Package Index Owner:": "simonwittber", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "A non blocking TCP networking core based on select.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b12da158836d27299724d38f2754535", 
+  "source_uri": "https://pypi.python.org/packages/source/s/socketome/socketome-0.03.tar.gz"
+}

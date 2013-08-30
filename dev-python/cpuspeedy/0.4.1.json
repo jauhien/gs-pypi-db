@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cpuspeedy is a simple tool written in Python which allows you to change the clock speed and voltage of the CPUs using the Linuxs CPUFreq driver.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cpuspeedy.sourceforge.net", 
+  "info": {
+    "Author:": "Gabriele Giorgetti", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://prdownloads.sourceforge.net/cpuspeedy/cpuspeedy-0.4.1.tar.gz?download", 
+    "Home Page:": "http://cpuspeedy.sourceforge.net", 
+    "Keywords:": "cpu,speed,frequency,laptop,power,cpu clock,cpu speed,power managment", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ggdev", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Cpuspeedy is a simple tool written in Python which allows you to change the clock speed and voltage of the CPUs using the Linuxs CPUFreq driver.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://prdownloads.sourceforge.net/cpuspeedy/cpuspeedy-0.4.1.tar.gz?download"
+}

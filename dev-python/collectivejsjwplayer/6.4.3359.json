@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JWPlayer resource for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.js.jwplayer", 
+  "info": {
+    "Author:": "JeanMichel FRANCOIS aka toutpt", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.js.jwplayer", 
+    "Keywords:": "plone jwplayer", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "simahawk", 
+    "Package Index Owner:": "simahawk, toutpt"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "JWPlayer resource for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "426c87b30994f867c6a6baed32423e2e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.js.jwplayer/collective.js.jwplayer-6.4.3359.tar.gz"
+}

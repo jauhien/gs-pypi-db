@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backport of Brett Cannons full importlib module.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ralphbean/importlib_full", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ralphbean/importlib_full", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Backport of Brett Cannons full importlib module.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59ffd2f31fd4d65074d42aaac47c217a", 
+  "source_uri": "https://pypi.python.org/packages/source/i/importlib_full/importlib_full-0.0.1.tar.gz"
+}

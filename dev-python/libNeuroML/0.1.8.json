@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python library for working with NeuroML descriptions of neuronal models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://libneuroml.readthedocs.org/en/latest/", 
+  "info": {
+    "Author:": "libNeuroML authors and contributors", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "http://libneuroml.readthedocs.org/en/latest/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Mike.Vella"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Python library for working with NeuroML descriptions of neuronal models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "614d4de6a267c9ca26ab472ae99abc64", 
+  "source_uri": "https://pypi.python.org/packages/source/l/libNeuroML/libNeuroML-0.1.8.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Installs JTalks apps like jcommune and poulpe configuring them. Usually used by CI to implement CD (continuous delivery)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jtalks-org/jtalks-cicd", 
+  "info": {
+    "Author:": "Stanislav Bashkirtsev", 
+    "Home Page:": "http://github.com/jtalks-org/jtalks-cicd", 
+    "Package Index Owner:": "ctapobep"
+  }, 
+  "license": "", 
+  "longdescription": "Installs JTalks apps like jcommune and poulpe configuring them. Usually used by CI to implement CD (continuous delivery)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "96db5c55ed9adf078db5b631935c1262", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jtalks-cicd/jtalks-cicd-1.2.3.tar.gz"
+}

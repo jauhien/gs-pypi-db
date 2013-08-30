@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provide a simple API to create automatic groups in Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.autogroup", 
+  "info": {
+    "Author:": "Rafael Oliveira", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.autogroup", 
+    "Keywords:": "plone groups users", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rafaelbco"
+  }, 
+  "license": "", 
+  "longdescription": "Provide a simple API to create automatic groups in Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4f84b922af229d1e9a7e34392c766340", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.autogroup/collective.autogroup-0.1b1.zip"
+}

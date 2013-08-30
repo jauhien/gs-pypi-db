@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Displays social buttons (facebook, google+, twitter, linkedin) on the Plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.xhostplus.at/de/services/plone-downlods", 
+  "info": {
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "http://www.xhostplus.at/de/services/plone-downlods", 
+    "License:": "GPL", 
+    "Package Index Owner:": "firefreak"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Displays social buttons (facebook, google+, twitter, linkedin) on the Plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f2587773d6e068bad79a9cc2aabb58b", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xhostplus.social/xhostplus.social-1.4.6.tar.gz"
+}

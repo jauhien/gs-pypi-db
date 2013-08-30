@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows to get an HTML, coming from several previous URLs. Sometimes this is needed to get webpages that requires cookies or a HTTP referrer to get a certain page.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dperezrada/html-jumping", 
+  "info": {
+    "Author:": "Daniel Perez Rada", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dperezrada/html-jumping", 
+    "Keywords:": "html_jumping cookies html get post form referrer", 
+    "License:": "GNU Public License v3.0", 
+    "Package Index Owner:": "dperezrada"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Allows to get an HTML, coming from several previous URLs. Sometimes this is needed to get webpages that requires cookies or a HTTP referrer to get a certain page.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1b850e7a3e0c175c01ea53305bddf1d", 
+  "source_uri": "https://pypi.python.org/packages/source/h/html_jumping/html_jumping-0.2.4.tar.gz"
+}

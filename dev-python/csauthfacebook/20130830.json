@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Facebook authentication plugin for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/codesyntax/cs.auth.facebook", 
+  "info": {
+    "Author:": "Mikel Larreategi", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/codesyntax/cs.auth.facebook", 
+    "Keywords:": "plone pas login facebook authentication", 
+    "License:": "GPL", 
+    "Package Index Owner:": "erral"
+  }, 
+  "license": "", 
+  "longdescription": "Facebook authentication plugin for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dca9a857d3f4a2bc945975526a07eeef", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cs.auth.facebook/cs.auth.facebook-1.0b3.zip"
+}

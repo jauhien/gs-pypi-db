@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Open Knowledge Foundation RDF", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ordf.org/", 
+  "info": {
+    "Author:": "Open Knowledge Foundation", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pylons"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ordf", 
+    "Home Page:": "http://ordf.org/", 
+    "Keywords:": "rdf rdflib provenance messaging", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "wwaites"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Open Knowledge Foundation RDF", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75dcd0ab7af83bd7d176e00ec975596d", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ordf/ordf-0.36.tar.gz"
+}

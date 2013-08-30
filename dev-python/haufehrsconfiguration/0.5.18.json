@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A central configuration service for ope 23-based applications  based on a pseudo-hierarchical INI-file format with model support for defining the configuration schema", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "Zope Configuration", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "Sven.Deichmann", 
+    "Package Index Owner:": "ajung, Sven.Deichmann"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A central configuration service for ope 23-based applications  based on a pseudo-hierarchical INI-file format with model support for defining the configuration schema", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3e3cd6bab33660b86a6ebc14b1039d12", 
+  "source_uri": "https://pypi.python.org/packages/source/h/haufe.hrs.configuration/haufe.hrs.configuration-0.5.18.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to upload FIT, GPX, and TCX files to the Garmin Connect web site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/gcpuploader/", 
+  "info": {
+    "Author:": "David E. Lotton", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://sourceforge.net/projects/gcpuploader/", 
+    "Keywords:": "GARMIN CONNECT GPS TCX GPX FIT UPLOAD UPLOADER", 
+    "License:": "GPL", 
+    "Package Index Owner:": "dlotton"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A tool to upload FIT, GPX, and TCX files to the Garmin Connect web site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b250c4e26efac20fa3250c0d4f305d05", 
+  "source_uri": "https://pypi.python.org/packages/source/G/GcpUploader/GcpUploader-2013.05.05.tar.gz"
+}

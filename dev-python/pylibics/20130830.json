@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for libics (Image Cytometry Standard).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.andre-bell.de/en/projects/pylibics", 
+  "info": {
+    "Author:": "Andre Alexander Bell", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "http://www.andre-bell.de/en/projects/pylibics/downloads", 
+    "Home Page:": "http://www.andre-bell.de/en/projects/pylibics", 
+    "Keywords:": "libics,Image Cytometry Standard,ICS,IDS,image file format", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pygraham"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python wrapper for libics (Image Cytometry Standard).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.andre-bell.de/en/projects/pylibics/downloads"
+}

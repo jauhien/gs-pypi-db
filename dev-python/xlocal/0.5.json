@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "execution locals killing global state (including thread locals)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/hpk42/xlocal/", 
+  "info": {
+    "Author:": "Holger Krekel", 
+    "Home Page:": "http://bitbucket.org/hpk42/xlocal/", 
+    "Package Index Owner:": "hpk"
+  }, 
+  "license": "", 
+  "longdescription": "execution locals killing global state (including thread locals)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b5450d4841523f92229e08b0844db854", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xlocal/xlocal-0.5.zip"
+}

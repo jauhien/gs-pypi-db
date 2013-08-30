@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple django app that makes it easier to work with currencies and countries", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/willandskill/django-fiat", 
+  "info": {
+    "Author:": "Faisal Mahmud", 
+    "Home Page:": "http://bitbucket.org/willandskill/django-fiat", 
+    "License:": "BSD licence, see LICENCE.txt", 
+    "Package Index Owner:": "faisal"
+  }, 
+  "license": "", 
+  "longdescription": "A simple django app that makes it easier to work with currencies and countries", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "39cbbbf86eedd6bb2091dab2bc413295", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fiat/django-fiat-0.1.5.tar.gz"
+}

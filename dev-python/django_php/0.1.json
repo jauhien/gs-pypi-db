@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PHP support for the Django template language", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://animuchan.net/django_php/", 
+  "info": {
+    "Author:": "Mark Vasilkov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://animuchan.net/django_php/", 
+    "Keywords:": "django,template,php", 
+    "Package Index Owner:": "mvasilkov"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "PHP support for the Django template language", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7473d1ba8a8702405033f408e45cd669", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_php/django_php-0.1.tar.gz"
+}

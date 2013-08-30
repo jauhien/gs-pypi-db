@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Run commands and manipulate files locally", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mwilliamson/spur.py", 
+  "info": {
+    "Author:": "Michael Williamson", 
+    "Home Page:": "http://github.com/mwilliamson/spur.py", 
+    "Keywords:": "shell subprocess process", 
+    "Package Index Owner:": "michaelwilliamson"
+  }, 
+  "license": "", 
+  "longdescription": "Run commands and manipulate files locally", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "35dafeffe320642b1f41923ff8fd2aae", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spur.local/spur.local-0.3.5.tar.gz"
+}

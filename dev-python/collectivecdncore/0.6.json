@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CDN support for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.simplesconsultoria.com.br/", 
+  "info": {
+    "Author:": "Simples Consultoria", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.simplesconsultoria.com.br/", 
+    "Keywords:": "plone cdn content simplesconsultoria", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ericoandrei"
+  }, 
+  "license": "", 
+  "longdescription": "CDN support for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "631e3cdb677e2e2ecea8cfa74a236d1c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.cdn.core/collective.cdn.core-0.6.zip"
+}

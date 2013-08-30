@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Clean up branches from your Git remotes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://arc90.com", 
+  "info": {
+    "Author:": "Arc90, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://arc90.com", 
+    "Keywords:": "git maintenance branches", 
+    "License:": "MIT", 
+    "Package Index Owner:": "arc90"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Clean up branches from your Git remotes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f0353cb40a6815bf45361001462c291d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/git-sweep/git-sweep-0.1.1.tar.gz"
+}

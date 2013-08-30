@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple django ORM caching layer.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/streeter/django-cache-stockpile", 
+  "info": {
+    "Author:": "Chris Streeter", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/streeter/django-cache-stockpile", 
+    "License:": "BSD", 
+    "Package Index Owner:": "streeter"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple django ORM caching layer.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eae3f2a8f347a8d695710c668cf075bd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cache-stockpile/django-cache-stockpile-0.1.0.tar.gz"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility do build atom feeds for all commits in all forks of your projects on GitHub.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alexander Artemenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Keywords:": "git github fork forks atom rss feed", 
+    "Package Index Owner:": "svetlyak40wt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Utility do build atom feeds for all commits in all forks of your projects on GitHub.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08a9600000aa45364ae3d93b1fbc3147", 
+  "source_uri": "https://pypi.python.org/packages/source/f/forkfeed/forkfeed-0.1.4.tar.gz"
+}

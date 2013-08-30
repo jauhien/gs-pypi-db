@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple tool for javascript packging using config files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/jspack", 
+  "info": {
+    "Author:": "Pablo Caro", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "JavaScript"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/jspack", 
+    "Keywords:": "javascript tools", 
+    "License:": "MIT", 
+    "Package Index Owner:": "pcaro"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple tool for javascript packging using config files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c235919aad9ee631b75b3642a531173b", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jspack/jspack-0.4.tar.gz"
+}

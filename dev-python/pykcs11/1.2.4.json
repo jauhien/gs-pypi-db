@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Full PKCS11 Python wrapper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bit4id.org/trac/pykcs11", 
+  "info": {
+    "Author:": "Giuseppe Amato", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://www.bit4id.org/trac/pykcs11/wiki/Download", 
+    "Home Page:": "http://www.bit4id.org/trac/pykcs11", 
+    "Keywords:": "crypto,pki,pkcs11,c++", 
+    "License:": "GPL", 
+    "Maintainer:": "Ludovic Rousseau", 
+    "Package Index Maintainer:": "ludovic", 
+    "Package Index Owner:": "midori"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Full PKCS11 Python wrapper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "39f85ed9e30719819ede4db5345996d0", 
+  "source_uri": "http://www.bit4id.org/trac/pykcs11/wiki/Download"
+}

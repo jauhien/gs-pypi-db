@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Validates tests by comparing real output against expected output", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://efw.ssl.berkeley.edu/packages/diffval", 
+  "info": {
+    "Author:": "Matt Born", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//diffval", 
+    "Home Page:": "http://efw.ssl.berkeley.edu/packages/diffval", 
+    "Package Index Owner:": "mattbornski"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Validates tests by comparing real output against expected output", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9325848210743898d0776c1df1478a22", 
+  "source_uri": "https://pypi.python.org/packages/source/d/diffval/diffval-0.14.tar.gz"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An introspective interface for Django and MongoDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pydanny/django-mongonaut", 
+  "info": {
+    "Author:": "Daniel Greenfeld", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pydanny/django-mongonaut", 
+    "Keywords:": "mongodb,django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "pydanny"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An introspective interface for Django and MongoDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a46182fc963728e84dbfac961268b71f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mongonaut/django-mongonaut-0.2.19.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Gnome Arduino IDE implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gnome.eu.org/evo/index.php/Gnoduino", 
+  "info": {
+    "Author:": "Lucian Langa", 
+    "Home Page:": "http://gnome.eu.org/evo/index.php/Gnoduino", 
+    "License:": "GPL", 
+    "Package Index Owner:": "lucilanga", 
+    "Platform:": "linux"
+  }, 
+  "license": "", 
+  "longdescription": "Gnome Arduino IDE implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33d16c8ec8761fdacd06b6e23210decb", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gnoduino/gnoduino-0.4.0.tar.gz"
+}

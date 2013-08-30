@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Metabolic Network Completion. Compute minimal completions to your draft net with reactions from a repair net.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/meneco/", 
+  "info": {
+    "Author:": "Sven Thiele", 
+    "Home Page:": "http://pypi.python.org/pypi/meneco/", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "Sven.Thiele"
+  }, 
+  "license": "", 
+  "longdescription": "Metabolic Network Completion. Compute minimal completions to your draft net with reactions from a repair net.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "43efdf2d1ec081a35af762bb4da43002", 
+  "source_uri": "https://pypi.python.org/packages/source/m/meneco/meneco-1.1.tar.gz"
+}

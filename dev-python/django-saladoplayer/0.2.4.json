@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application for displaying spherical panoramas using SaladoPlayer flash viewer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/franckinux/django-saladoplayer", 
+  "info": {
+    "Author:": "Franck Barbenoire", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-saladoplayer", 
+    "Home Page:": "https://github.com/franckinux/django-saladoplayer", 
+    "Package Index Owner:": "franckinux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Django application for displaying spherical panoramas using SaladoPlayer flash viewer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a68a59e3f918b899a31daa842cf69abc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-saladoplayer/django-saladoplayer-0.2.4.tgz"
+}

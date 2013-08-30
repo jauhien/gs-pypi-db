@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scheduled jobs in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/shrubberysoft/django-future", 
+  "info": {
+    "Author:": "Shrubbery Software", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/shrubberysoft/django-future", 
+    "Package Index Owner:": "gintautasm, admp"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Scheduled jobs in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75b09c4f08f46995f22a8061a217a4ef", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-future/django-future-0.2.3.tar.gz"
+}

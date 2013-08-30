@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Capture stdout andor stderr", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Wijnand Modderman", 
+    "Keywords:": "capture stdout stderr write read", 
+    "License:": "MIT", 
+    "Package Index Owner:": "tehmaze"
+  }, 
+  "license": "", 
+  "longdescription": "Capture stdout andor stderr", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "888960f00fcc40a6dd6b81fc3f5e8693", 
+  "source_uri": "https://pypi.python.org/packages/source/c/capture/capture-0.1.tar.gz"
+}

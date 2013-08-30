@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extends Djangos admin logging capabilities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/django-adminaudit", 
+  "info": {
+    "Author:": "\u0141ukasz Czy\u017cykowski", 
+    "Bug Tracker:": "https://code.launchpad.net/django-adminaudit", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-adminaudit", 
+    "Home Page:": "https://launchpad.net/django-adminaudit", 
+    "License:": "LGPLv3", 
+    "Package Index Maintainer:": "ricardokirkner", 
+    "Package Index Owner:": "ricardokirkner, lukasz"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Extends Djangos admin logging capabilities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "72fc580352c2140427bf4f71d2455e86", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-adminaudit/django-adminaudit-0.3.3.tar.gz"
+}

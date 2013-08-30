@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "jstree admin for mptt models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.tabed.org/mptt_admin", 
+  "info": {
+    "Author:": "Mikhail Sakhno", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://code.tabed.org/mptt_admin", 
+    "Keywords:": "django admin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pawnhearts", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "", 
+  "longdescription": "jstree admin for mptt models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9ac2421548483598554d144090265fb", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mpttadmin/mpttadmin-0.3.1.tar.gz"
+}

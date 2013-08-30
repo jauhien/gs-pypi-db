@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Takes monitoring data from Nagios-plugins to push with NSCA (Nagios or Icinga) or WS-Shinken.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Eyepea/eyepea_monitoring_agent", 
+  "info": {
+    "Author:": "Ludovic Gasc", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Eyepea/eyepea_monitoring_agent", 
+    "License:": "GNU Affero General Public License v3", 
+    "Package Index Owner:": "Ludovic.Gasc", 
+    "Platform:": "UNIX"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Takes monitoring data from Nagios-plugins to push with NSCA (Nagios or Icinga) or WS-Shinken.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47e85d1a4a633de105da48ac1a276749", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eyepea-monitoring-agent/eyepea-monitoring-agent-0.9.tar.gz"
+}

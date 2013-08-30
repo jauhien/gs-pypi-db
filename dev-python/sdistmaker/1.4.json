@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Make sdists tarballs for projects in svn tree", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/reinout/sdistmaker/", 
+  "info": {
+    "Author:": "Reinout van Rees", 
+    "Home Page:": "http://bitbucket.org/reinout/sdistmaker/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "reinout"
+  }, 
+  "license": "", 
+  "longdescription": "Make sdists tarballs for projects in svn tree", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4cd512ccfafad839a0b9b41b0aef117", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sdistmaker/sdistmaker-1.4.tar.gz"
+}

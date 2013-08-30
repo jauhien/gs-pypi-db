@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Web application for manage a personal database of DVD movies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/papydvd/", 
+  "info": {
+    "Author:": "keul", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Framework": [
+        "BFG"
+      ], 
+      "Natural Language": [
+        "Italian"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://sourceforge.net/projects/papydvd/", 
+    "Keywords:": "web wsgi bfg dvd database", 
+    "Package Index Owner:": "keul"
+  }, 
+  "license": "", 
+  "longdescription": "Simple Web application for manage a personal database of DVD movies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aa46d43e12c4157c5914720a0b364dce", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PapyDVD/PapyDVD-0.0.3.tar.gz"
+}

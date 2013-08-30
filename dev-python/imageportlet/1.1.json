@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "imageportlet add-on provides a portlet for Plone CMS for easily add images, banners and carousels around the content on your site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://opensourcehacker.com", 
+  "info": {
+    "Author:": "Mikko Ohtamaa", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://opensourcehacker.com", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "miohtama"
+  }, 
+  "license": "", 
+  "longdescription": "imageportlet add-on provides a portlet for Plone CMS for easily add images, banners and carousels around the content on your site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb5b3ab07604d5afec6c23a78a7783cb", 
+  "source_uri": "https://pypi.python.org/packages/source/i/imageportlet/imageportlet-1.1.zip"
+}

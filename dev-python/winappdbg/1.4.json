@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Windows application debugging engine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://winappdbg.sourceforge.net/", 
+  "info": {
+    "Author:": "Mario Vilas", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//winappdbg", 
+    "Download URL:": "http://sourceforge.net/projects/winappdbg/", 
+    "Home Page:": "http://winappdbg.sourceforge.net/", 
+    "Package Index Owner:": "mvilas", 
+    "Platform:": "win32,win64,cygwin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Windows application debugging engine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31080f5caa4cdf16f1426295f590e2e2", 
+  "source_uri": "http://sourceforge.net/projects/winappdbg/"
+}

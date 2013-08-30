@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WebMoney Merchant Interface support for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-payment-webmoney/", 
+  "info": {
+    "Author:": "Ivan Fedorov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/django-payment-webmoney/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "oxyum"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WebMoney Merchant Interface support for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f19784ddd33e884d1a3ad4c8e695fd62", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-payment-webmoney/django-payment-webmoney-0.2.1.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backport publication events from ope 2.12 Publisher to ope 2.10", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Laurence Rowe", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "ZPL", 
+    "Package Index Owner:": "laurencerowe, optilude"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Backport publication events from ope 2.12 Publisher to ope 2.10", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "17597b4ba5b7a9ba169bf615e7ff7754", 
+  "source_uri": "https://pypi.python.org/packages/source/Z/ZPublisherEventsBackport/ZPublisherEventsBackport-1.1.tar.gz"
+}

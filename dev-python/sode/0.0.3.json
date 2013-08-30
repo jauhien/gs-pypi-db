@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PythonCython lib for solving Stochastic Ordinary Differential Equations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/oscarbenjamin/sode", 
+  "info": {
+    "Author:": "Oscar Benjamin", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Home Page:": "https://github.com/oscarbenjamin/sode", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "oscarbenjamin", 
+    "Platform:": "linux2,win32,darwin"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "PythonCython lib for solving Stochastic Ordinary Differential Equations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6516c3e4e381b406e429bf70a9a296ae", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sode/sode-0.0.3.tar.gz"
+}

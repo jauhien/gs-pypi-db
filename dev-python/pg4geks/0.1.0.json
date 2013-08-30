@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PostgreSQL for Gevent kept Simple.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/denis-ryzhkov/pg4geks", 
+  "info": {
+    "Author:": "Denis Ryzhkov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/denis-ryzhkov/pg4geks", 
+    "License:": "MIT", 
+    "Package Index Owner:": "denisr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "PostgreSQL for Gevent kept Simple.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a713ab0d36f8267bcaa92df1811df812", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pg4geks/pg4geks-0.1.0.tar.gz"
+}

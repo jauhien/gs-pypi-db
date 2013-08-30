@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django database backend for MySQL that provides pooling ala SQLAlchemy.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/smartfile/django-mysqlpool/", 
+  "info": {
+    "Author:": "Ben Timby", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/smartfile/django-mysqlpool/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Ben.Timby"
+  }, 
+  "license": "", 
+  "longdescription": "Django database backend for MySQL that provides pooling ala SQLAlchemy.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cbc6d88ea5129b799fe139aebb539d02", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mysqlpool/django-mysqlpool-0.1-9.tar.gz"
+}

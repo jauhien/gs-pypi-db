@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A datastore layer built on top of MySQL in Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/simplestore/", 
+  "info": {
+    "Author:": "David Reynolds", 
+    "Home Page:": "http://code.google.com/p/simplestore/", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "drr"
+  }, 
+  "license": "", 
+  "longdescription": "A datastore layer built on top of MySQL in Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5bd377dc7d4231e599d404c919d7f4fb", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simplestore/simplestore-0.3.1.tar.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Writeable file object that atomically updates a file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sashka/atomicfile", 
+  "info": {
+    "Author:": "Alexander Saltanov", 
+    "Bug Tracker:": "https://github.com/sashka/atomicfile/issues", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/sashka/atomicfile", 
+    "Package Index Owner:": "asdonair"
+  }, 
+  "license": "", 
+  "longdescription": "Writeable file object that atomically updates a file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03a821e9e5b62079f3350ae97b242697", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atomicfile/atomicfile-0.1.tar.gz"
+}

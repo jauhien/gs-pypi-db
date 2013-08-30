@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django leaderboard (scoreboard) app, using redis as its backend", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/laplacesdemon/django-leaderboard", 
+  "info": {
+    "Author:": "Suleyman Melikoglu", 
+    "Home Page:": "https://github.com/laplacesdemon/django-leaderboard", 
+    "License:": "BSD licence, see LICENCE.txt", 
+    "Package Index Owner:": "laplacesdemon"
+  }, 
+  "license": "", 
+  "longdescription": "A Django leaderboard (scoreboard) app, using redis as its backend", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "53a02a0b854750be0758afa5335816cd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-leaderboard/django-leaderboard-0.1.0.tar.gz"
+}

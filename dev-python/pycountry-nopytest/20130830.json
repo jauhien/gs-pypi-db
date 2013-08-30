@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ISO country, subdivision, language, currency and script definitions and their translations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Christian Theune", 
+    "Keywords:": "country subdivision language currency iso 3166 639 4217 15924 3166-2", 
+    "License:": "LGPL 2.1", 
+    "Package Index Owner:": "sontek"
+  }, 
+  "license": "", 
+  "longdescription": "ISO country, subdivision, language, currency and script definitions and their translations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32cc5c5b9e860ad32380e84f61774b58", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycountry-nopytest/pycountry-nopytest-0.16.dev0.tar.gz"
+}

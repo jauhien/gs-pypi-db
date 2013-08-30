@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Django admin application of uWSGI.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://projects.unbit.it/uwsgi", 
+  "info": {
+    "Author:": "Federico Maggi", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://projects.unbit.it/uwsgi", 
+    "Package Index Owner:": "phretor", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "The Django admin application of uWSGI.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e6352ea77832c86ff6ef37b2b9166ce7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-uwsgi-admin/django-uwsgi-admin-0.1-alpha.tar.gz"
+}

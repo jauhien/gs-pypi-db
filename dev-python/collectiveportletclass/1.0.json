@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add custom CSS classes to Plone portlet wrappers for flexible theming.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/shuttlethread/collective.portletclass", 
+  "info": {
+    "Author:": "Laurence Rowe", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/shuttlethread/collective.portletclass", 
+    "Keywords:": "plone", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "vangheem, laurencerowe", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Add custom CSS classes to Plone portlet wrappers for flexible theming.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "021c7648ccc7b2424507c1f096b9deb7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portletclass/collective.portletclass-1.0.zip"
+}

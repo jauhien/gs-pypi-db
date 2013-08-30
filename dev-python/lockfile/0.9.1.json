@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Platform-independent file locking module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pylockfile/", 
+  "info": {
+    "Author:": "Skip Montanaro", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.0"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//lockfile", 
+    "Home Page:": "http://code.google.com/p/pylockfile/", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "skip"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Platform-independent file locking module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce61468d4c1263e3005737bbed2641f0", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lockfile/lockfile-0.9.1.tar.gz"
+}

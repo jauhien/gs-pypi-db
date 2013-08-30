@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cli publishing of blog articles to a django-articles blog.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.recursivedream.com/django-publish/", 
+  "info": {
+    "Author:": "Tom Davis", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "http://docs.recursivedream.com/django-publish/", 
+    "Keywords:": "django django-articles reST publish blog", 
+    "License:": "BSD", 
+    "Package Index Owner:": "TomDavis"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "cli publishing of blog articles to a django-articles blog.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5236c5e53f76b00ca2423bcc6bb564c6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-publish/django-publish-1.0.5.tar.gz"
+}

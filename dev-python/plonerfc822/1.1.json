@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RFC822 marshalling for ope.schema fields", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.rfc822", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.rfc822", 
+    "Keywords:": "zope schema rfc822", 
+    "License:": "BSD", 
+    "Package Index Owner:": "esteele, optilude, davisagli, laurencerowe"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "RFC822 marshalling for ope.schema fields", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba3e26cab9e751fb1cf40639d661d2f0", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.rfc822/plone.rfc822-1.1.zip"
+}

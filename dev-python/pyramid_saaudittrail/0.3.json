@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatically audit db changes for pyramid and sqlalchemy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Framework": [
+        "Pyramid"
+      ]
+    }, 
+    "Package Index Owner:": "vangheem"
+  }, 
+  "license": "", 
+  "longdescription": "Automatically audit db changes for pyramid and sqlalchemy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d00546aab074f369ab8dc54c9d9ba7e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_saaudittrail/pyramid_saaudittrail-0.3.zip"
+}

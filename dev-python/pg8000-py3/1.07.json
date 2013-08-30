@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PostgreSQL interface library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pybrary.net/pg8000/", 
+  "info": {
+    "Author:": "Mathieu Fenniak", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.0"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pybrary.net/pg8000/pg8000-py3-1.07.tar.gz", 
+    "Home Page:": "http://pybrary.net/pg8000/", 
+    "Keywords:": "postgresql dbapi", 
+    "Package Index Owner:": "mfenniak"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "PostgreSQL interface library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://pybrary.net/pg8000/pg8000-py3-1.07.tar.gz"
+}

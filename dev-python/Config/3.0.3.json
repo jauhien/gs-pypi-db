@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Structured Configuration Library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.zope.org/Members/fdrake/zconfig/", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://www.zope.org/Members/fdrake/zconfig/", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "mgedmin, srichter, fdrake, tseaver, J1m, hannosch, ajung"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Structured Configuration Library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "60a107c5857c3877368dfe5930559804", 
+  "source_uri": "https://pypi.python.org/packages/source/Z/ZConfig/ZConfig-3.0.3.tar.gz"
+}

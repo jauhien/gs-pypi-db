@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone integration for GuruScan", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cosent/cosent.guruscan", 
+  "info": {
+    "Author:": "Guido Stevens", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cosent/cosent.guruscan", 
+    "Keywords:": "zope,plone,guruscan", 
+    "License:": "gpl", 
+    "Package Index Owner:": "guidostevens"
+  }, 
+  "license": "", 
+  "longdescription": "Plone integration for GuruScan", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6521ae2bca6c4c766b845a8450eb347c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cosent.guruscan/cosent.guruscan-1.0dev.zip"
+}

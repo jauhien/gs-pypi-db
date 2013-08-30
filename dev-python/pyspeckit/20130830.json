@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Toolkit for fitting and manipulating spectroscopic data in python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pyspeckit.bitbucket.org/", 
+  "info": {
+    "Author:": "['Adam Ginsburg', 'Jordan Mirocha']", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyspeckit", 
+    "Download URL:": "https://bitbucket.org/pyspeckit/pyspeckit.bitbucket.org/get/tip.tar.gz", 
+    "Home Page:": "https://pyspeckit.bitbucket.org/", 
+    "Package Index Owner:": "keflavich"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Toolkit for fitting and manipulating spectroscopic data in python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a6512c8fc3ca8088a17c0d01b6330a6", 
+  "source_uri": "https://bitbucket.org/pyspeckit/pyspeckit.bitbucket.org/get/tip.tar.gz"
+}

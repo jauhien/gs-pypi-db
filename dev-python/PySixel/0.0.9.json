@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Make SIXEL color graphics supported by some terminal emulators(DECTermRLoginmltermtanasinnxterm)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/saitoha/PySixel", 
+  "info": {
+    "Author:": "Hayaki Saito (user@zuse.jp)", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Terminals"
+      ]
+    }, 
+    "Home Page:": "https://github.com/saitoha/PySixel", 
+    "Keywords:": "sixel terminal", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "saitoha"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Make SIXEL color graphics supported by some terminal emulators(DECTermRLoginmltermtanasinnxterm)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "55b887d0b3b24e6c074c7fd3f55b9cff", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PySixel/PySixel-0.0.9.tar.gz"
+}

@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "small wiki engine based on static reST files in a directory and git for versionning", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ThomasChiroux/attowiki", 
+  "info": {
+    "Author:": "Thomas Chiroux", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ThomasChiroux/attowiki", 
+    "Keywords:": "restructuredText wiki", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ThomasChiroux"
+  }, 
+  "license": "", 
+  "longdescription": "small wiki engine based on static reST files in a directory and git for versionning", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04f4b90f03404abb0bd89ef299c6515f", 
+  "source_uri": "https://pypi.python.org/packages/source/a/attowiki/attowiki-v0.4.2.tar.gz"
+}

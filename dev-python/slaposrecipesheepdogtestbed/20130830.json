@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for the sheepdog test bed", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Categories": {
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "buildout sheepdogtestbed", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "danmcgoo, romain"
+  }, 
+  "license": "", 
+  "longdescription": "C Buildout recipe for the sheepdog test bed", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f3bd1a9ada54f56143f52dc8a860e4a", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slapos.recipe.sheepdogtestbed/slapos.recipe.sheepdogtestbed-0.0.1.dev.tar.gz"
+}

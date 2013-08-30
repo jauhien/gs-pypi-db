@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Server-side middleware which implements some of the functionality in the Yahoo User Interface Loader component.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/akaihola/django-yui-loader", 
+  "info": {
+    "Author:": "Antti Kaihola", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/akaihola/django-yui-loader", 
+    "Package Index Owner:": "akaihola"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Server-side middleware which implements some of the functionality in the Yahoo User Interface Loader component.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "27f532835ed848153ab1551f671e32da", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-yui-loader/django-yui-loader-0.3.2.tar.gz"
+}

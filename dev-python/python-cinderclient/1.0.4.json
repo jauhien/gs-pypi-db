@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client library for OpenStack Cinder API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/openstack/python-cinderclient", 
+  "info": {
+    "Author:": "OpenStack Contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/openstack/python-cinderclient", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "sdirector, openstackci"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Client library for OpenStack Cinder API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a6f2207b287f9c7699d3e5b2c8325b55", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-cinderclient/python-cinderclient-1.0.4.tar.gz"
+}

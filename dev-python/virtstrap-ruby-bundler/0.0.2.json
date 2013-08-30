@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A virtstrap plugin that installs bundler Gemfiles", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Reuven V. Gonzales", 
+    "Keywords:": "virtstrap ruby bundler virtualenv pip", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ravenac95"
+  }, 
+  "license": "", 
+  "longdescription": "A virtstrap plugin that installs bundler Gemfiles", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "019e668a7f06ae54255204e5daba5402", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtstrap-ruby-bundler/virtstrap-ruby-bundler-0.0.2.tar.gz"
+}

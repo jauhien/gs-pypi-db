@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple application, that provides customiable email form tempalte tag.You can specify form fields and optionally enable dedicated view to render feedback page. See 0.3..0 for Django 1.2.5 and older.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ivan Gromov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Keywords:": "django feedback form", 
+    "License:": "GPLv3", 
+    "Package Index Maintainer:": "Ivan.Gromov, evgeniy.gulitsyn, a.iv, victor.smirnov, Propp", 
+    "Package Index Owner:": "victor.smirnov, Propp, Redsolution"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Simple application, that provides customiable email form tempalte tag.You can specify form fields and optionally enable dedicated view to render feedback page. See 0.3..0 for Django 1.2.5 and older.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "83c5eac5b42bf8a31dde1ef250931882", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redsolutioncms.django-simple-feedback/redsolutioncms.django-simple-feedback-0.3.10.tar.gz"
+}

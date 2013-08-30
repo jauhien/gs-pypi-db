@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for running scripts in a chroot environment on Jenkins or locally", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/jenkins_tools", 
+  "info": {
+    "Author:": "Dirk Thomas", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pr.willowgarage.com/downloads/jenkins_tools/", 
+    "Home Page:": "http://www.ros.org/wiki/jenkins_tools", 
+    "Keywords:": "ROS", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dthomas, tfoote, wim"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A tool for running scripts in a chroot environment on Jenkins or locally", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "00ca9e6f93bd6c1700a3fc3dac7c99dd", 
+  "source_uri": "http://pr.willowgarage.com/downloads/jenkins_tools/"
+}

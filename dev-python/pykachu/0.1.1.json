@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Monitoramento simples de tarefas em background usando Redis como backend", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sievetech/pykachu", 
+  "info": {
+    "Author:": "Sieve", 
+    "Home Page:": "https://github.com/sievetech/pykachu", 
+    "License:": "3-BSD", 
+    "Package Index Owner:": "sievetech"
+  }, 
+  "license": "", 
+  "longdescription": "Monitoramento simples de tarefas em background usando Redis como backend", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4113d3e6c9612b8a740db40dab9e6e65", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pykachu/pykachu-0.1.1.tar.gz"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python extension computing string distances and similarities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/miohtama/python-Levenshtein", 
+  "info": {
+    "Author:": "mFabrik Research Oy", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/miohtama/python-Levenshtein", 
+    "Keywords:": "string Levenshtein comparison", 
+    "License:": "GPL", 
+    "Package Index Owner:": "dorianj, LukeImhoff, miohtama"
+  }, 
+  "license": "", 
+  "longdescription": "Python extension computing string distances and similarities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c8af7296dc640abdf511614ee677bbb8", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-Levenshtein/python-Levenshtein-0.10.2.tar.gz"
+}

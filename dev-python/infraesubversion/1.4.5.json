@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe for checking out from subversion", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.infrae.com/buildout/infrae.subversion/trunk/", 
+  "info": {
+    "Author:": "Eric Casteleijn, Guido Wesdorp, Daniel Nouri, Sylvain Viollon and Reinout van Rees", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "https://svn.infrae.com/buildout/infrae.subversion/trunk/", 
+    "Keywords:": "subversion buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "nouri, thefunny42, todd"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Buildout recipe for checking out from subversion", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c69d2d695e9ec94bcc87fa9e9cf35b2e", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infrae.subversion/infrae.subversion-1.4.5.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Captcha support for Silva", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.infrae.com/silva.captcha/trunk", 
+  "info": {
+    "Author:": "Sylvain Viollon", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.infrae.com/silva.captcha/trunk", 
+    "Keywords:": "captcha silva", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thefunny42, todd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Captcha support for Silva", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6859c0b18bed1e23ad678dc8c2bd8f97", 
+  "source_uri": "https://pypi.python.org/packages/source/s/silva.captcha/silva.captcha-1.1.tar.gz"
+}

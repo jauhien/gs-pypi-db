@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "fedmsg metadata providers for Fedora Infrastructures deployment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ralphbean/fedmsg_meta_fedora_infrastructure/", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Home Page:": "http://github.com/ralphbean/fedmsg_meta_fedora_infrastructure/", 
+    "License:": "LGPLv2+", 
+    "Package Index Maintainer:": "lmacken", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "fedmsg metadata providers for Fedora Infrastructures deployment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f57dc8981f37b28de50300930d1efba5", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fedmsg_meta_fedora_infrastructure/fedmsg_meta_fedora_infrastructure-0.1.9.tar.gz"
+}

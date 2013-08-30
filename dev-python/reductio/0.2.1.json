@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MapReduce for Fabric", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rspeer/reductio", 
+  "info": {
+    "Author:": "Rob Speer", 
+    "Home Page:": "http://github.com/rspeer/reductio", 
+    "Keywords:": "mapreduce distributed fabric", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "commonsense"
+  }, 
+  "license": "", 
+  "longdescription": "MapReduce for Fabric", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ffc3a36cf79907c0b2882fc943bfb18", 
+  "source_uri": "https://pypi.python.org/packages/source/r/reductio/reductio-0.2.1.tar.gz"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of tools for Django to help stub-out an app quickly.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Grant Viklund", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Keywords:": "django app", 
+    "License:": "BSD", 
+    "Package Index Owner:": "renderbox"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A set of tools for Django to help stub-out an app quickly.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2568fa6011b956ee7fde589a3936176f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-stubtools/django-stubtools-0.4.7.tar.gz"
+}

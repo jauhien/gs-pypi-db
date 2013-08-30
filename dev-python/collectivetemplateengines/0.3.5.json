@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Template engine abstraction layer for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.twinapex.com/for-developers/open-source/for-plone/easy-template", 
+  "info": {
+    "Author:": "Mikko Ohtamaa", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.twinapex.com/for-developers/open-source/for-plone/easy-template", 
+    "Keywords:": "template templates engine python interface zope cheetah django backend utils generic", 
+    "License:": "License :: OSI Approved :: BSD License", 
+    "Package Index Owner:": "vangheem, miohtama"
+  }, 
+  "license": "", 
+  "longdescription": "Template engine abstraction layer for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f7a3108640c06d506cc7595d6a60e93", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.templateengines/collective.templateengines-0.3.5.zip"
+}

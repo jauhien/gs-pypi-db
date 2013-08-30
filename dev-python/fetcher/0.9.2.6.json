@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple python fetcher, support head, get, post action, file upload, etc", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.taobao.org/trac/fetcher", 
+  "info": {
+    "Author:": "Mutang(\u00e7\u0089\u00a7\u00e5\u0094\u0090)", 
+    "Home Page:": "http://code.taobao.org/trac/fetcher", 
+    "Keywords:": "python fetcher spider charset", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "mutang"
+  }, 
+  "license": "", 
+  "longdescription": "simple python fetcher, support head, get, post action, file upload, etc", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "359c5820db2a6aa945689608b92e8ed7", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fetcher/fetcher-0.9.2.6.zip"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Its hard to get network interface information in python in a portable manner. This should help, at least in nix environments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mastahyeti/intinfo", 
+  "info": {
+    "Author:": "Ben Toews (mastahyeti)", 
+    "Home Page:": "http://github.com/mastahyeti/intinfo", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "mastahyeti"
+  }, 
+  "license": "", 
+  "longdescription": "Its hard to get network interface information in python in a portable manner. This should help, at least in nix environments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6db849a9a80466a61a6434132567b017", 
+  "source_uri": "https://pypi.python.org/packages/source/i/intinfo/intinfo-0.1.tar.gz"
+}

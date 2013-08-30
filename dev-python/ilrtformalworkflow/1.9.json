@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Formal workflow is designed to prevent editing, deletion or reversion of published content from skipping review", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/edcrewe/ilrt.formalworkflow", 
+  "info": {
+    "Author:": "Internet Development, ILRT, University of Bristol", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/edcrewe/ilrt.formalworkflow", 
+    "Keywords:": "web zope plone workflow", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cmetc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Formal workflow is designed to prevent editing, deletion or reversion of published content from skipping review", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d41ba9a69cff7f4f5038d1db73a0bba4", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ilrt.formalworkflow/ilrt.formalworkflow-1.9.tar.gz"
+}

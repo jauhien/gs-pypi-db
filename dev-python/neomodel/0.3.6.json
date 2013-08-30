@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An object mapper for the neo4j graph database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/robinedwards/neomodel", 
+  "info": {
+    "Author:": "Robin Edwards", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/robinedwards/neomodel", 
+    "Keywords:": "graph neo4j py2neo ORM", 
+    "License:": "MIT", 
+    "Package Index Owner:": "robsmoniker"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An object mapper for the neo4j graph database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7bcbfdcaa2ed2c8618d4bf603e5ef9b0", 
+  "source_uri": "https://pypi.python.org/packages/source/n/neomodel/neomodel-0.3.6.tar.gz"
+}

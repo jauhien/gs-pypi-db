@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple inline C calls using numpy arrays.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cs.wisc.edu/~johnl/np_inline/", 
+  "info": {
+    "Author:": "J. David Lee", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Home Page:": "http://www.cs.wisc.edu/~johnl/np_inline/", 
+    "Package Index Owner:": "JohnnyLee", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple inline C calls using numpy arrays.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b0c63382f05faba611ac2e40d05ccad0", 
+  "source_uri": "https://pypi.python.org/packages/source/n/np_inline/np_inline-0.3.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fork of Python 3 pickle module.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zodbpickle", 
+  "info": {
+    "Author:": "Python and Zope Foundation", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "ZODB"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zodbpickle", 
+    "License:": "PSFL 2 and ZPL 2.1", 
+    "Package Index Owner:": "tismer, tseaver, srichter, mgedmin", 
+    "Platform:": "any"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Fork of Python 3 pickle module.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d401bd89f99ec8d56c22493e6f8c0443", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zodbpickle/zodbpickle-0.5.2.tar.gz"
+}

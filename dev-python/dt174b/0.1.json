@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python tool for interfacing the CEM DT-174B Weather Datalogger that is talking on USB by some specific protocol.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jaryn/dt174b", 
+  "info": {
+    "Author:": "Jaroslav Henner", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "git+git://github.com/jaryn/dt174b.git", 
+    "Home Page:": "https://github.com/jaryn/dt174b", 
+    "Keywords:": "cem datalogger weather usb", 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "jary"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Python tool for interfacing the CEM DT-174B Weather Datalogger that is talking on USB by some specific protocol.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d788943030c64c84a30f26cbd21df53", 
+  "source_uri": "git+git://github.com/jaryn/dt174b.git"
+}

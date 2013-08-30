@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the gnuspeech tube resonance model", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lmjohns3/py-trm", 
+  "info": {
+    "Author:": "Leif Johnson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Human Machine Interfaces"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lmjohns3/py-trm", 
+    "Keywords:": "speech-synthesis gnuspeech tube-resonance-model", 
+    "License:": "MIT", 
+    "Package Index Owner:": "lmjohns3"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python bindings for the gnuspeech tube resonance model", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8a1cbb3f50ee2d334052350fbcf65483", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lmj.trm/lmj.trm-0.1.1.tar.gz"
+}

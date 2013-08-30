@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Nose plugin for finding tempfile leaks", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/drippy/", 
+  "info": {
+    "Author:": "Tres Seaver, Agendaless Consulting", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/drippy/", 
+    "Keywords:": "nose tempfile leak", 
+    "License:": "Python", 
+    "Package Index Owner:": "tseaver", 
+    "Platform:": "Unix,Windows"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Nose plugin for finding tempfile leaks", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31c428c65208f3ea6393be210ba9e26f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/drippy/drippy-0.1.tar.gz"
+}

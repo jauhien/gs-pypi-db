@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "py.test simple powerful testing with Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pytest.org", 
+  "info": {
+    "Author:": "Holger Krekel, Benjamin Peterson, Ronny Pfannschmidt, Floris Bruynooghe and others", 
+    "Bug Tracker:": "https://bitbucket.org/hpk42/pytest/issues", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ]
+    }, 
+    "Home Page:": "http://pytest.org", 
+    "License:": "MIT license", 
+    "Package Index Maintainer:": "ronny", 
+    "Package Index Owner:": "hpk", 
+    "Platform:": "unix"
+  }, 
+  "license": "", 
+  "longdescription": "py.test simple powerful testing with Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18f150e7be96b5fe3c388b0e817b8087", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest/pytest-2.3.5.tar.gz"
+}

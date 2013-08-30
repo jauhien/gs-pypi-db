@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to access and retrieve quotes from bash.org", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://venus.arosser.com/projects/bashquote.html", 
+  "info": {
+    "Author:": "Ben Rosser", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://venus.arosser.com/projects/bashquote.html", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Ben.Rosser"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Library to access and retrieve quotes from bash.org", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "16b10ee50d813bd185bf75db2825712e", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bashquote/bashquote-2.0.tar.gz"
+}

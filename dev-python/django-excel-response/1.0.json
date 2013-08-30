@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A subclass of HttpResponse which will transform a QuerySet,or sequence of sequences, into either an Excel spreadsheet orCSV file formatted for Excel, depending on the amount of data.httpdjangosnippets.orgsnippets1151", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/kmike/django-excel-response/", 
+  "info": {
+    "Author:": "Tarken", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/kmike/django-excel-response/get/tip.zip", 
+    "Home Page:": "http://bitbucket.org/kmike/django-excel-response/", 
+    "Package Index Owner:": "kmike"
+  }, 
+  "license": "", 
+  "longdescription": "A subclass of HttpResponse which will transform a QuerySet,or sequence of sequences, into either an Excel spreadsheet orCSV file formatted for Excel, depending on the amount of data.httpdjangosnippets.orgsnippets1151", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "09001aa9c8b6dadbe6111e902adbba32", 
+  "source_uri": "http://bitbucket.org/kmike/django-excel-response/get/tip.zip"
+}

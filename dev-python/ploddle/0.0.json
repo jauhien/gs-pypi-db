@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a syslog-compatible log collector and browser, with enhancements", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.shishnet.org/ploddle", 
+  "info": {
+    "Author:": "Shish", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://code.shishnet.org/ploddle", 
+    "Keywords:": "web syslog", 
+    "Package Index Owner:": "shish"
+  }, 
+  "license": "", 
+  "longdescription": "a syslog-compatible log collector and browser, with enhancements", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f45ff3bd14907363f0c76bd4266576db", 
+  "source_uri": "https://pypi.python.org/packages/source/p/ploddle/ploddle-0.0.tar.gz"
+}

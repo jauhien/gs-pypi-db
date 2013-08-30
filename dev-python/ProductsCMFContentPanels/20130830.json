@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CMFContentPanels is a plone portlets product to build composite pages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/Products.CMFContentPanels", 
+  "info": {
+    "Author:": "Erico Andrei, Maik Derstappen <maik.derstappen@inqbus.de>", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/Products.CMFContentPanels", 
+    "Keywords:": "plone web composite_pages CMFContentPanels", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ericoandrei, deo, lucmult, lepri, derstappenit"
+  }, 
+  "license": "", 
+  "longdescription": "CMFContentPanels is a plone portlets product to build composite pages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98a73bc34e339bda3f32175cf2071349", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.CMFContentPanels/Products.CMFContentPanels-2.6b2.tar.gz"
+}

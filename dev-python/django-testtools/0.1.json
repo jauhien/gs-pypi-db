@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A helper for writting Djangos tests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dekode/django-testtools", 
+  "info": {
+    "Author:": "Bernardo Fontes", 
+    "Home Page:": "http://github.com/dekode/django-testtools", 
+    "Keywords:": "django testing", 
+    "License:": "http://www.gnu.org/licenses/lgpl.html", 
+    "Package Index Owner:": "bernardofontes"
+  }, 
+  "license": "", 
+  "longdescription": "A helper for writting Djangos tests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "58815519519d4706ef9e7dcebb1352cd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-testtools/django-testtools-0.1.tar.gz"
+}

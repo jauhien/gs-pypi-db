@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pickleable Django QuerySet", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/denz/django-stored-queryset", 
+  "info": {
+    "Author:": "Denis Mishchishin", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/denz/django-stored-queryset", 
+    "Package Index Owner:": "denz"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "pickleable Django QuerySet", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8edcaa52990239682fa773d9f39ca429", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-stored-queryset/django-stored-queryset-0.0.2.tar.gz"
+}

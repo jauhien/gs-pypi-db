@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "devpi uploadinstall... workflow commands for Python developers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/hpk42/devpi", 
+  "info": {
+    "Author:": "Holger Krekel", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/hpk42/devpi", 
+    "Package Index Owner:": "hpk"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "devpi uploadinstall... workflow commands for Python developers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a936a50a2a30e10c21c65b6d16af2c21", 
+  "source_uri": "https://pypi.python.org/packages/source/d/devpi-client/devpi-client-1.0.tar.gz"
+}

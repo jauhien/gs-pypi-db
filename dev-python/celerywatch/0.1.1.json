@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Runs a celery app that monitors celeryd and stops it if it fails too many tasks.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/celerywatch/", 
+  "info": {
+    "Author:": "Matt Long", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/celerywatch/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mattlong"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Runs a celery app that monitors celeryd and stops it if it fails too many tasks.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "78206c85ecd3bbcda06577f3309b97d5", 
+  "source_uri": "https://pypi.python.org/packages/source/c/celerywatch/celerywatch-0.1.1.tar.gz"
+}

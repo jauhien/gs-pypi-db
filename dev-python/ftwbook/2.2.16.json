@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Produce books with Plone and export them in a high quality PDF.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/ftw.book", 
+  "info": {
+    "Author:": "Jonas Baumann", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/ftw.book", 
+    "Keywords:": "ftw book pdf plone", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "tschanzt, jone, 4teamwork, maethu"
+  }, 
+  "license": "", 
+  "longdescription": "Produce books with Plone and export them in a high quality PDF.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "baafcd8ddc1487f6036fbd4a84aaa5ee", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftw.book/ftw.book-2.2.16.zip"
+}

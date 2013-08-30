@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Importchecker finds unused imports in Python modules.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/importchecker", 
+  "info": {
+    "Author:": "Jan-Wijbrand Kolman", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/importchecker", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "jw, faassen"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Importchecker finds unused imports in Python modules.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "86706a671cb2be1629cda8b00af22785", 
+  "source_uri": "https://pypi.python.org/packages/source/i/importchecker/importchecker-1.1.tar.gz"
+}

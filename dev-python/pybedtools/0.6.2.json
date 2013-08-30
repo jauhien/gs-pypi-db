@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper around BEDTools for bioinformatics work", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "none", 
+  "info": {
+    "Author:": "Ryan Dale", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pybedtools", 
+    "Home Page:": "none", 
+    "Package Index Owner:": "daler"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Wrapper around BEDTools for bioinformatics work", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ee3677da171973bf4299242efad62685", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pybedtools/pybedtools-0.6.2.tar.gz"
+}

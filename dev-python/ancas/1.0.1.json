@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is an Python implementation of the server-end of JA-SIGs CAS protocol.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/anz.cas/", 
+  "info": {
+    "Author:": "jiangdongjin", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/anz.cas/", 
+    "Keywords:": "plone cas sso", 
+    "License:": "GPL", 
+    "Package Index Owner:": "eastxing"
+  }, 
+  "license": "", 
+  "longdescription": "This is an Python implementation of the server-end of JA-SIGs CAS protocol.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ef6aad0a5c66de85cb78380d90b2c8e", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anz.cas/anz.cas-1.0.1.tar.gz"
+}

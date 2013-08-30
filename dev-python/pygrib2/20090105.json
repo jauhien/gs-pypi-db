@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module for reading and writing GRIB Edition 2 files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pygrib2/", 
+  "info": {
+    "Author:": "Jeff Whitaker", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/pygrib2/downloads/list", 
+    "Home Page:": "http://code.google.com/p/pygrib2/", 
+    "Keywords:": "numpy data  oceanography meteorology climate", 
+    "License:": "OSI approved", 
+    "Maintainer:": "Jeff Whitaker", 
+    "Package Index Owner:": "jswhit", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Python module for reading and writing GRIB Edition 2 files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://code.google.com/p/pygrib2/downloads/list"
+}

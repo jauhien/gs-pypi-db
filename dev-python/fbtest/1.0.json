@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Firebird QA tools.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.firebirdsql.org/en/quality-assurance-status/", 
+  "info": {
+    "Author:": "Pavel Cisar", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//fbtest", 
+    "Home Page:": "http://www.firebirdsql.org/en/quality-assurance-status/", 
+    "Keywords:": "Firebird,QA", 
+    "License:": "IDPL", 
+    "Package Index Owner:": "pcisar"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Firebird QA tools.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49a2b8f0412466c5b5afe4bf28aef02c", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fbtest/fbtest-1.0.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A password hashing framework with bcrypt and pbkdf2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dholth/cryptacular/", 
+  "info": {
+    "Author:": "Daniel Holth", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dholth/cryptacular/", 
+    "Keywords:": "bcrypt password security pbkdf2 crypt hash", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joeforker"
+  }, 
+  "license": "", 
+  "longdescription": "A password hashing framework with bcrypt and pbkdf2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fe12232ac660185186dd8057d8ca7b0e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cryptacular/cryptacular-1.4.1.tar.gz"
+}

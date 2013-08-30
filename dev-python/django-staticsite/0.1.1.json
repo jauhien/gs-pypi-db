@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django static site generator for DEBUG and production.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/carltongibson/django-staticsite", 
+  "info": {
+    "Author:": "Carlton Gibson", 
+    "Home Page:": "https://github.com/carltongibson/django-staticsite", 
+    "License:": "BSD", 
+    "Package Index Owner:": "carltongibson"
+  }, 
+  "license": "", 
+  "longdescription": "Django static site generator for DEBUG and production.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba4831709d9d701dc5f82bf9176d9542", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-staticsite/django-staticsite-0.1.1.tar.gz"
+}

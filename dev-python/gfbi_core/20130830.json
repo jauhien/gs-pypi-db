@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Core files for interactive git filter branch.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mike-perdide/qfbi_core", 
+  "info": {
+    "Author:": "Julien Miotte", 
+    "Home Page:": "https://github.com/mike-perdide/qfbi_core", 
+    "Keywords:": "git,change dates,rewrite history", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "mike_perdide", 
+    "Requires Distributions": "https://pypi.python.org/pypi/GitPython"
+  }, 
+  "license": "", 
+  "longdescription": "Core files for interactive git filter branch.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7d9efd81a300bbab6e17e7ba5f8ac9a", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gfbi_core/gfbi_core-0.5b6.tar.gz"
+}

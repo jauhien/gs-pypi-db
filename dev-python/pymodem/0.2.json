@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Python interface to generic terminal and (specifically) GSM modem devices. Includes general serial connectionchat, AT command, SMS (including GSM.03.38) support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/paulchakravarti/pymodem", 
+  "info": {
+    "Author:": "Paul Chakravarti", 
+    "Categories": {
+      "Topic": [
+        "Terminals", 
+        "Serial"
+      ]
+    }, 
+    "Home Page:": "https://github.com/paulchakravarti/pymodem", 
+    "License:": "BSD", 
+    "Package Index Owner:": "paulc"
+  }, 
+  "license": "", 
+  "longdescription": "Simple Python interface to generic terminal and (specifically) GSM modem devices. Includes general serial connectionchat, AT command, SMS (including GSM.03.38) support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "235fabdf60c7b0e642534d4de30a3290", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pymodem/pymodem-0.2.tar.gz"
+}

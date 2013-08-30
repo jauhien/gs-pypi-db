@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django app that allows users to create contact groups and contacts, as well as views for displaying a contact in hcard format, downloading a vcard for the contact, a gravatar, and a QR code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/iiilx/addressbook", 
+  "info": {
+    "Author:": "Ben Lee", 
+    "Home Page:": "https://github.com/iiilx/addressbook", 
+    "License:": "BSD license, see LICENSE.txt", 
+    "Package Index Owner:": "ben86lee"
+  }, 
+  "license": "", 
+  "longdescription": "A django app that allows users to create contact groups and contacts, as well as views for displaying a contact in hcard format, downloading a vcard for the contact, a gravatar, and a QR code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aca90451f62512b7a24a87140850b78a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-addressbook/django-addressbook-0.1.1.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone utility that make possible for non-Manager users to manage some (specific) groups", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/simplegroupsmanagement", 
+  "info": {
+    "Author:": "keul", 
+    "Bug Tracker:": "https://github.com/keul/Products.SimpleGroupsManagement/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/simplegroupsmanagement", 
+    "Keywords:": "plone users groups acl", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "micecchi", 
+    "Package Index Owner:": "keul, micecchi"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone utility that make possible for non-Manager users to manage some (specific) groups", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "57cf9875bac347ba83acf13d6fc9b591", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.SimpleGroupsManagement/Products.SimpleGroupsManagement-0.4.0.zip"
+}

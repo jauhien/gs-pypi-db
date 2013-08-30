@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django helpers for dealing with URLs in templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/monwara/django-url-tools", 
+  "info": {
+    "Author:": "Monwara LLC", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/monwara/django-url-tools/downloads", 
+    "Home Page:": "https://bitbucket.org/monwara/django-url-tools", 
+    "License:": "BSD", 
+    "Package Index Owner:": "monwara"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django helpers for dealing with URLs in templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c516e9a13ef974ceebe574b09ca4801a", 
+  "source_uri": "https://bitbucket.org/monwara/django-url-tools/downloads"
+}

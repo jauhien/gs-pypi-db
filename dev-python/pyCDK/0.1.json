@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python binding to the Curses Development Kit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pycdk.sourceforge.net/", 
+  "info": {
+    "Author:": "Richard Lawson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console", 
+        "Curses"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/projects/pycdk/", 
+    "Home Page:": "http://pycdk.sourceforge.net/", 
+    "Keywords:": "curses, cdk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rlawson", 
+    "Platform:": "Posix"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python binding to the Curses Development Kit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://sourceforge.net/projects/pycdk/"
+}

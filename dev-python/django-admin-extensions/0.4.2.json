@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple tools to extend the django admin site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ionata/django-admin-extensions", 
+  "info": {
+    "Author:": "Ionata Web Solutions", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ionata/django-admin-extensions", 
+    "Package Index Owner:": "tim_heap"
+  }, 
+  "license": "", 
+  "longdescription": "Simple tools to extend the django admin site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8385e90c131dfc7d2039487db47545a7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-admin-extensions/django-admin-extensions-0.4.2.tar.gz"
+}

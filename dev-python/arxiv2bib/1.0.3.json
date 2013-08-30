@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Get arXiv.org metadata in BibTeX format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://nathangrigg.github.io/arxiv2bib", 
+  "info": {
+    "Author:": "Nathan Grigg", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "LaTeX"
+      ]
+    }, 
+    "Home Page:": "http://nathangrigg.github.io/arxiv2bib", 
+    "Keywords:": "arxiv,bibtex,latex,citation", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nathangrigg"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Get arXiv.org metadata in BibTeX format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "404136c32ad0d35853823dff0528cf4b", 
+  "source_uri": "https://pypi.python.org/packages/source/a/arxiv2bib/arxiv2bib-1.0.3.tar.gz"
+}

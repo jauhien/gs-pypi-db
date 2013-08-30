@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package provides the Python driver library for the RethinkDB database server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rethinkdb.com", 
+  "info": {
+    "Author:": "RethinkDB Inc.", 
+    "Home Page:": "http://rethinkdb.com", 
+    "Package Index Owner:": "rethinkdb"
+  }, 
+  "license": "", 
+  "longdescription": "This package provides the Python driver library for the RethinkDB database server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c635e4f38ce801d5f46f24b369be0272", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rethinkdb/rethinkdb-1.8.0-1.tar.gz"
+}

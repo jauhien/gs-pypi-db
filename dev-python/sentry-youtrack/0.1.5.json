@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Sentry extension which integrates with YouTrack", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bogdal/sentry-youtrack", 
+  "info": {
+    "Author:": "Adam Bogdal", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bogdal/sentry-youtrack", 
+    "License:": "BSD", 
+    "Package Index Owner:": "abogdal"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Sentry extension which integrates with YouTrack", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4f82275efed7d9d3865af45a608c6783", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-youtrack/sentry-youtrack-0.1.5.tar.gz"
+}

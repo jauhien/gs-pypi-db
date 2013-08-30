@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sudden ionospheric disturbance colletor (sidc) GUI", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sorki/sidc-gui", 
+  "info": {
+    "Author:": "Richard Marko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Visualization"
+      ]
+    }, 
+    "Home Page:": "http://github.com/sorki/sidc-gui", 
+    "License:": "BSD", 
+    "Package Index Owner:": "sorki"
+  }, 
+  "license": "", 
+  "longdescription": "Sudden ionospheric disturbance colletor (sidc) GUI", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "735fed7dd8da794eb599f56e5383ba0b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sidc-gui/sidc-gui-0.4.tar.gz"
+}

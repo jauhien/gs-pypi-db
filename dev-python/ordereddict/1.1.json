@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A drop-in substitute for Py2.7s new collections.OrderedDict that works in Python 2.4-2.6.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Raymond Hettinger", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Maintainer:": "Steven Hazel", 
+    "Package Index Owner:": "sah"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A drop-in substitute for Py2.7s new collections.OrderedDict that works in Python 2.4-2.6.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a0ed854ee442051b249bfad0f638bbec", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ordereddict/ordereddict-1.1.tar.gz"
+}

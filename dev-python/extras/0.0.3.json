@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Useful extra bits for Python - things that shold be in the standard library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/testing-cabal/extras", 
+  "info": {
+    "Author:": "Testing cabal", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "https://github.com/testing-cabal/extras", 
+    "Package Index Owner:": "lifeless"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Useful extra bits for Python - things that shold be in the standard library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62d8ba049e3386a6df69b413ea81517b", 
+  "source_uri": "https://pypi.python.org/packages/source/e/extras/extras-0.0.3.tar.gz"
+}

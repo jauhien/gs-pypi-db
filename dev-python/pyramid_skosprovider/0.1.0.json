@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration of skosprovider in pyramid", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/koenedaele/pyramid_skosprovider", 
+  "info": {
+    "Author:": "Koen Van Daele", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "https://github.com/koenedaele/pyramid_skosprovider", 
+    "Keywords:": "pyramid skos skosprovider", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Koen.Van.Daele"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Integration of skosprovider in pyramid", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c45ebe6a085a757ba81a25e807d191d4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_skosprovider/pyramid_skosprovider-0.1.0.tar.gz"
+}

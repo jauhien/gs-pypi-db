@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for MUMPS, a parallel sparse direct solver", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bfroehle/pymumps", 
+  "info": {
+    "Author:": "Bradley M. Froehle", 
+    "Bug Tracker:": "https://github.com/bfroehle/pymumps/issues", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Download URL:": "https://github.com/bfroehle/pymumps/tags", 
+    "Home Page:": "http://github.com/bfroehle/pymumps", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bfroehle"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python bindings for MUMPS, a parallel sparse direct solver", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f64dd26c6fd37af15809a3faef9479ba", 
+  "source_uri": "https://github.com/bfroehle/pymumps/tags"
+}

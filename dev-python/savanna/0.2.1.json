@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Savanna project", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://savanna.readthedocs.org", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://savanna.readthedocs.org", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "openstackci"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Savanna project", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "40e9b38cad21cdba7168f05e8921879e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/savanna/savanna-0.2.1.tar.gz"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "NoseGAE nose plugin for Google App Engine testing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/nose-gae/", 
+  "info": {
+    "Author:": "Kumar McMillan", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/nose-gae/", 
+    "License:": "LGPL License", 
+    "Package Index Maintainer:": "kumar303, nafismopub", 
+    "Package Index Owner:": "jpellerin, kumar303, nafismopub"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "NoseGAE nose plugin for Google App Engine testing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15b55bc4c7c95f96104d2ff69e67c107", 
+  "source_uri": "https://pypi.python.org/packages/source/N/NoseGAE/NoseGAE-0.2.0.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin for pelican to add bit.ly short urls to pages and articles. Useful for analytics of retweet", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rach/pelican.bitly", 
+  "info": {
+    "Author:": "Rach Belaid", 
+    "Home Page:": "https://github.com/rach/pelican.bitly", 
+    "Package Index Owner:": "rach"
+  }, 
+  "license": "", 
+  "longdescription": "Plugin for pelican to add bit.ly short urls to pages and articles. Useful for analytics of retweet", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a8183f17c8adf0dc96ff2690c3fb000", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pelican.bitly/pelican.bitly-0.1.tar.gz"
+}

@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This product allows you to associate Facebook accounts with a Plone site using OAuth authentication.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.facebook.accounts", 
+  "info": {
+    "Author:": "Franco Pellegrini", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.facebook.accounts", 
+    "Keywords:": "plone facebook oauth", 
+    "License:": "GPL", 
+    "Package Index Owner:": "hvelarde, frapell"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This product allows you to associate Facebook accounts with a Plone site using OAuth authentication.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01f0d547cf57750056f7c402464aae18", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.facebook.accounts/collective.facebook.accounts-1.0b4.zip"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Correctly generate plurals when using Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/inflect_dj", 
+  "info": {
+    "Author:": "Paul Dyson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/inflect_dj", 
+    "Keywords:": "plural,django", 
+    "Package Index Maintainer:": "agronholm", 
+    "Package Index Owner:": "pwdyson"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Correctly generate plurals when using Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a14cc1e0255eec47a5601e2c8eeddf24", 
+  "source_uri": "https://pypi.python.org/packages/source/i/inflect_dj/inflect_dj-v0.2.0.tar.gz"
+}

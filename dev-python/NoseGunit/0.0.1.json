@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A nose plugin for bootstrapping the GAE SDK and GAE Testbed", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/beaulyddon-wf/nose-gunit", 
+  "info": {
+    "Author:": "Beau Lyddon", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ]
+    }, 
+    "Download URL:": "https://github.com/beaulyddon-wf/nose-gunit", 
+    "Home Page:": "https://github.com/beaulyddon-wf/nose-gunit", 
+    "License:": "Apache License 2.0", 
+    "Maintainer:": "Beau Lyddon", 
+    "Package Index Owner:": "beau.lyddon"
+  }, 
+  "license": "", 
+  "longdescription": "A nose plugin for bootstrapping the GAE SDK and GAE Testbed", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2dc3c7ade923d94b504985d3c2000f32", 
+  "source_uri": "https://github.com/beaulyddon-wf/nose-gunit"
+}

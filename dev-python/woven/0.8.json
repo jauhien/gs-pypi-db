@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A deployment tool for Django built on Fabric", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bretth/woven", 
+  "info": {
+    "Author:": "Brett Haydon", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//woven", 
+    "Download URL:": "http://github.com/bretth/woven/downloads/", 
+    "Home Page:": "http://github.com/bretth/woven", 
+    "Package Index Owner:": "Brett.Haydon"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A deployment tool for Django built on Fabric", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba66bcabca1fe6dba8750566e3a25fe4", 
+  "source_uri": "http://github.com/bretth/woven/downloads/"
+}

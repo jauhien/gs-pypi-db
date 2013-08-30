@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django simple shopping cart, tests and south migrations included", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/otaviosoares/django-cart", 
+  "info": {
+    "Author:": "Ot\u00e1vio Soares", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/otaviosoares/django-cart", 
+    "License:": "GNU v3", 
+    "Package Index Owner:": "otaviosoares"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django simple shopping cart, tests and south migrations included", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fbab64835924ca74eb2a13c6a7e6d5d1", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yet-another-django-cart/yet-another-django-cart-1.0.3.zip"
+}

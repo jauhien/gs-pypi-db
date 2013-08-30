@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Flask handler for the Google Appengines deferred library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kaste/FlaskDeferredHandler", 
+  "info": {
+    "Author:": "herr kaste", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://github.com/kaste/FlaskDeferredHandler", 
+    "Keywords:": "flask google appengine gae deferred", 
+    "License:": "BSD", 
+    "Package Index Owner:": "herrkaste"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Flask handler for the Google Appengines deferred library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79a7afa1daebc20f5128263c291818ab", 
+  "source_uri": "https://pypi.python.org/packages/source/F/FlaskDeferredHandler/FlaskDeferredHandler-0.1.zip"
+}

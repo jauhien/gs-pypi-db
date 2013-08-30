@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate reports from your timesuck database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/derferman/timesuck", 
+  "info": {
+    "Author:": "Kyle Conroy", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/derferman/timesuck", 
+    "Keywords:": "time tracking,timesuck", 
+    "Package Index Owner:": "Kyle.Conroy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Generate reports from your timesuck database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e2a782748160bba2a0fcd30f769049f2", 
+  "source_uri": "https://pypi.python.org/packages/source/t/timesuck/timesuck-0.1.tar.gz"
+}

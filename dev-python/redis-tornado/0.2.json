@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Async redis client built on the Tornado IOLoop.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tweezercode.com", 
+  "info": {
+    "Author:": "Lin Salisbury", 
+    "Home Page:": "http://www.tweezercode.com", 
+    "License:": "APACHE", 
+    "Package Index Owner:": "d3vz3r0"
+  }, 
+  "license": "", 
+  "longdescription": "Async redis client built on the Tornado IOLoop.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0bc4c5f66a8d45810ff3f0bc58fb5728", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redis-tornado/redis-tornado-0.2.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cyrusbus - Dead simple event bus for python apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/heynemann/cyrusbus", 
+  "info": {
+    "Author:": "Bernardo Heynemann", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ]
+    }, 
+    "Home Page:": "http://github.com/heynemann/cyrusbus", 
+    "Keywords:": "message bus event python", 
+    "License:": "OSI", 
+    "Package Index Owner:": "heynemann"
+  }, 
+  "license": "", 
+  "longdescription": "cyrusbus - Dead simple event bus for python apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c2b0ada9d9da83d5c26d85f5276d3523", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cyrusbus/cyrusbus-0.1.0.tar.gz"
+}

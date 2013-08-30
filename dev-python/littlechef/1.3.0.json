@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cook with Chef without a Chef Server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tobami/littlechef", 
+  "info": {
+    "Author:": "Miquel Torres", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Download URL:": "http://github.com/tobami/littlechef/archives/master", 
+    "Home Page:": "http://github.com/tobami/littlechef", 
+    "Keywords:": "chef,devops,operations,sysadmin", 
+    "Package Index Maintainer:": "tobami", 
+    "Package Index Owner:": "tobami"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Cook with Chef without a Chef Server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ab6e32b5e49c98bbc1f5b6aa8598a22f", 
+  "source_uri": "http://github.com/tobami/littlechef/archives/master"
+}

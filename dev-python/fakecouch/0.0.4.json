@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fake implementation of CouchDBKit api for testing purposes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dimagi/fakecouch", 
+  "info": {
+    "Author:": "Dimagi", 
+    "Home Page:": "http://github.com/dimagi/fakecouch", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dimagi"
+  }, 
+  "license": "", 
+  "longdescription": "Fake implementation of CouchDBKit api for testing purposes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed6ba176af889d337714663c7ab85aa7", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fakecouch/fakecouch-0.0.4.tar.gz"
+}

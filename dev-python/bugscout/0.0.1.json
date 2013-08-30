@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface for the FogBug BugScout API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/thomasvandoren/bugzscout-py", 
+  "info": {
+    "Author:": "Thomas Van Doren", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "https://github.com/thomasvandoren/bugzscout-py", 
+    "Keywords:": "BugzScout,FogBugz", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thomasvandoren"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python interface for the FogBug BugScout API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7b594fd0c300541ac0ae00096ce97d92", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bugzscout/bugzscout-0.0.1.tar.gz"
+}

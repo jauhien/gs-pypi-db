@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "whoarder converts your Kindles My Clippings.txt file to a more pleasant, sortable, filterable HTML file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ronjouch/whoarder", 
+  "info": {
+    "Author:": "Ronan Jouchet", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ronjouch/whoarder", 
+    "Keywords:": "amazon kindle transform notes highlights clippings html", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "ronjouch"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "whoarder converts your Kindles My Clippings.txt file to a more pleasant, sortable, filterable HTML file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5531349279272566d062813b9acb8c59", 
+  "source_uri": "https://pypi.python.org/packages/source/w/whoarder/whoarder-0.2.1.tar.gz"
+}

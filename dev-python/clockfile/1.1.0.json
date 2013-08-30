@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Basic inter-process locks", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/zc.lockfile", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://www.python.org/pypi/zc.lockfile", 
+    "Keywords:": "lock", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "srichter, J1m"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Basic inter-process locks", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8e46b830417363501363bd09e1af1ecc", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.lockfile/zc.lockfile-1.1.0.zip"
+}

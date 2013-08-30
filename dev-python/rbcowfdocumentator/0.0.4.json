@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An add-on for ope and Plone which aims to provide user-friendly automatically generated documentation about workflow definitions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/rbco-wfdocumentator/", 
+  "info": {
+    "Author:": "Rafael Oliveira", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/rbco-wfdocumentator/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rafaelbco"
+  }, 
+  "license": "", 
+  "longdescription": "An add-on for ope and Plone which aims to provide user-friendly automatically generated documentation about workflow definitions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03fc2d2a1a215d320fda29c784ba210c", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rbco.wfdocumentator/rbco.wfdocumentator-0.0.4.zip"
+}

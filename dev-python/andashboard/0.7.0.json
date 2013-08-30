@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone netvibes like dashboard implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/anz.dashboard/", 
+  "info": {
+    "Author:": "jiangdongjin", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/anz.dashboard/", 
+    "Keywords:": "plone anz dashboard", 
+    "License:": "GPL", 
+    "Package Index Owner:": "eastxing, ajung"
+  }, 
+  "license": "", 
+  "longdescription": "Plone netvibes like dashboard implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1975b0b6b88c16ff286433277bd2eb0b", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anz.dashboard/anz.dashboard-0.7.0.zip"
+}

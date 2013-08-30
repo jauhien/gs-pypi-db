@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-email-bandit is a Django email backend for hijacking email sending in a test environment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/caktus/django-email-bandit", 
+  "info": {
+    "Author:": "Caktus Consulting Group", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/caktus/django-email-bandit", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mlavin, caktus"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-email-bandit is a Django email backend for hijacking email sending in a test environment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "650b3a5a56ea84fe25d351026c672ffd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-email-bandit/django-email-bandit-0.3.tar.gz"
+}

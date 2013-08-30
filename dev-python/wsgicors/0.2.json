@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI for Cross Origin Resource Sharing (CORS)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/may-day/wsgicors", 
+  "info": {
+    "Author:": "Norman Kr\u00e4mer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/may-day/wsgicors", 
+    "Keywords:": "wsgi,cors", 
+    "License:": "Apache Software License 2.0", 
+    "Package Index Owner:": "mayday"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "WSGI for Cross Origin Resource Sharing (CORS)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3abd41808913ff74df4c90208c39f3ac", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgicors/wsgicors-0.2.tar.gz"
+}

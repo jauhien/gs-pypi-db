@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Single-purpose ssh server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": ".", 
+  "info": {
+    "Author:": "Alex Lee", 
+    "Documentation:": "http://pythonhosted.org//grate", 
+    "Home Page:": ".", 
+    "Keywords:": "ssh django git", 
+    "Package Index Owner:": "AlexLee"
+  }, 
+  "license": "", 
+  "longdescription": "Single-purpose ssh server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "297caa42aef90bb305a5c577bd3fb770", 
+  "source_uri": "https://pypi.python.org/packages/source/g/grate/grate-0.3.tar.gz"
+}

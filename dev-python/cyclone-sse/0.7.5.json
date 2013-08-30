@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "EventSource (SSE, Server-Sent Events) broadcasting server with channel support, Last-Event-Id etc, based on top of cyclone web server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/FZambia/cyclone-sse", 
+  "info": {
+    "Author:": "Alexandr Emelin", 
+    "Home Page:": "https://github.com/FZambia/cyclone-sse", 
+    "Keywords:": "python non-blocking twisted cyclone sse eventsource broadcast http redis amqp rabbitmq", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "FZambia"
+  }, 
+  "license": "", 
+  "longdescription": "EventSource (SSE, Server-Sent Events) broadcasting server with channel support, Last-Event-Id etc, based on top of cyclone web server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a50a9c8588ded4ded64e5adafa90e9c2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cyclone-sse/cyclone-sse-0.7.5.tar.gz"
+}

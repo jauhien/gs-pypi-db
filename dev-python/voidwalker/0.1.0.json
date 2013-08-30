@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A GDB toolbox for low-level debugging", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dholm/voidwalker/", 
+  "info": {
+    "Author:": "David Holm", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "https://github.com/dholm/voidwalker/archive/v0.1.0.zip", 
+    "Home Page:": "http://github.com/dholm/voidwalker/", 
+    "Keywords:": "debugging,gdb,console,terminal", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "dholm"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A GDB toolbox for low-level debugging", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3fa008af9440748b82fd52b8045c1558", 
+  "source_uri": "https://github.com/dholm/voidwalker/archive/v0.1.0.zip"
+}

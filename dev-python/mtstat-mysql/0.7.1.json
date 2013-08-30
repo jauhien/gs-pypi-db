@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MySQL Plugins for mtstat", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.inaugust.com/mtstat", 
+  "info": {
+    "Author:": "Monty Taylor", 
+    "Home Page:": "http://trac.inaugust.com/mtstat", 
+    "Package Index Owner:": "sdirector"
+  }, 
+  "license": "", 
+  "longdescription": "MySQL Plugins for mtstat", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8e505dc88f7402dac45c508f45257ab4", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mtstat-mysql/mtstat_mysql-0.7.1.tar.gz"
+}

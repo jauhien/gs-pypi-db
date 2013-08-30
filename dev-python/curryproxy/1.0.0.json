@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A proxy and aggregator for querying multiple instances of an API spread across globally distributed data centers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rackerlabs/curryproxy", 
+  "info": {
+    "Author:": "Bryan Davidson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rackerlabs/curryproxy", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "bryansd"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A proxy and aggregator for querying multiple instances of an API spread across globally distributed data centers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a30fb4b1519e33312b25d82cc7ec2320", 
+  "source_uri": "https://pypi.python.org/packages/source/c/curryproxy/curryproxy-1.0.0.tar.gz"
+}

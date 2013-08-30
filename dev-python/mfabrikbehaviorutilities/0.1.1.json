@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helper patterns to create behaviors for Archetypes content with plone.behavior package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "mFabrik Research Oy", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "plone behavior archetypes", 
+    "License:": "GPL", 
+    "Package Index Owner:": "miohtama"
+  }, 
+  "license": "", 
+  "longdescription": "Helper patterns to create behaviors for Archetypes content with plone.behavior package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ba593cef154ed7ab31a05064f41653b", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mfabrik.behaviorutilities/mfabrik.behaviorutilities-0.1.1.tar.gz"
+}

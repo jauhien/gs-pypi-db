@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extendable markup content plugin for Django CMS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mitar.tnode.com/", 
+  "info": {
+    "Author:": "Mitar", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://mitar.tnode.com/", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "mitar"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Extendable markup content plugin for Django CMS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb7de784e39d115ca07c9941df1cb072", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin-markup/cmsplugin-markup-0.2.4.tar.gz"
+}

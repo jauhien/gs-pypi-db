@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Celery API discovery module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/imankulov/celery-api", 
+  "info": {
+    "Author:": "Roman Imankulov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/imankulov/celery-api", 
+    "License:": "BSD", 
+    "Package Index Owner:": "imankulov"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Celery API discovery module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b43462acdc1ec0d55e507cc99823b320", 
+  "source_uri": "https://pypi.python.org/packages/source/c/celery-api/celery-api-0.1.tar.gz"
+}

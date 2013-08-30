@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scheduling for rq.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pitchfork/hourglass/", 
+  "info": {
+    "Author:": "Pitchfork Media, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pitchfork/hourglass/", 
+    "Package Index Owner:": "pitchfork"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Scheduling for rq.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b5d82fce03f8062ef5bb954fb9ece46e", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hourglass/hourglass-0.2.tar.gz"
+}

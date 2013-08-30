@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for creating files from file templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/as.recipe.filetemplate", 
+  "info": {
+    "Author:": "Gary Poster", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/as.recipe.filetemplate", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "inercia"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "c.buildout recipe for creating files from file templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "58275647baf49dcbfb2e76575c5e4ba0", 
+  "source_uri": "https://pypi.python.org/packages/source/a/as.recipe.filetemplate/as.recipe.filetemplate-2.2.2.tar.gz"
+}

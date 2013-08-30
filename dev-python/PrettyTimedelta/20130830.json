@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Turn timedeltas into pretty format.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jakub Warmuz", 
+    "Keywords:": "timedelta pretty format date", 
+    "Package Index Owner:": "kuba"
+  }, 
+  "license": "", 
+  "longdescription": "Turn timedeltas into pretty format.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fed20722c45f8dfb6f0818c55217a9b4", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PrettyTimedelta/PrettyTimedelta-0.1dev.tar.gz"
+}

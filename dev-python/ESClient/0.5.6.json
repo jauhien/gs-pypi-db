@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A lightweight Python client for ElasticSearch, including a dump and import tool for indexes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/eriky/ESClient", 
+  "info": {
+    "Author:": "Erik-Jan van Baaren", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Indexing/Search"
+      ]
+    }, 
+    "Home Page:": "https://github.com/eriky/ESClient", 
+    "Keywords:": "elasticsearch", 
+    "License:": "New BSD license", 
+    "Package Index Owner:": "eriky"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A lightweight Python client for ElasticSearch, including a dump and import tool for indexes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "466ee9a5f561219c3679b2f92bf6a80d", 
+  "source_uri": "https://pypi.python.org/packages/source/E/ESClient/ESClient-0.5.6.tar.gz"
+}

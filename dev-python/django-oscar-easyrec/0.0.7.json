@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "easyrec recommendations module for django-oscar", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tangentlabs/django-oscar-easyrec", 
+  "info": {
+    "Author:": "Jonathan Moss", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tangentlabs/django-oscar-easyrec", 
+    "Keywords:": "Recommendation,easyrec", 
+    "License:": "BSD", 
+    "Package Index Owner:": "moose"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "easyrec recommendations module for django-oscar", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ff1cede08489cad3424abe315861311", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-oscar-easyrec/django-oscar-easyrec-0.0.7.tar.gz"
+}

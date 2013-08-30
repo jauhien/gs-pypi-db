@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This Django app adds a new field type, ValidatedFileField, that add the capability of checking the document sie and types the user may send.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kaleidos/django-validated-file", 
+  "info": {
+    "Author:": "Andr\u00e9s Moya Vel\u00e1zquez", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kaleidos/django-validated-file", 
+    "Keywords:": "django,filefield,validation", 
+    "License:": "GPL3", 
+    "Package Index Maintainer:": "jespino", 
+    "Package Index Owner:": "hirunatan"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "This Django app adds a new field type, ValidatedFileField, that add the capability of checking the document sie and types the user may send.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f25434951080617918214fd41a10caab", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-validated-file/django-validated-file-2.0.tar.gz"
+}

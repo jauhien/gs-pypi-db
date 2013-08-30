@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the low-level FUSE API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python-llfuse.googlecode.com/", 
+  "info": {
+    "Author:": "Nikolaus Rath", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/python-llfuse/downloads/", 
+    "Home Page:": "http://python-llfuse.googlecode.com/", 
+    "Keywords:": "FUSE,python", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "Nikratio", 
+    "Platform:": "Linux,FreeBSD,OS X"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Python bindings for the low-level FUSE API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ec1ac5727f736ba4341eae09332ab33", 
+  "source_uri": "http://code.google.com/p/python-llfuse/downloads/"
+}

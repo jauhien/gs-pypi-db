@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe to create testrunners for testing compatibility with other packages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/z3c.recipe.compattest", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/z3c.recipe.compattest", 
+    "Keywords:": "zope setuptools egg kgs", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "ctheune", 
+    "Package Index Owner:": "hannosch, ctheune, thefunny42, wosc, J1m, janjaapdriessen, jw"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Buildout recipe to create testrunners for testing compatibility with other packages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87509699dd58cb5991f1133462d1add4", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.recipe.compattest/z3c.recipe.compattest-1.0.zip"
+}

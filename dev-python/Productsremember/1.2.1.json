@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A content-based implementation of Plones default member infrastructure", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/remember", 
+  "info": {
+    "Author:": "Rob Miller", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "3.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/remember", 
+    "License:": "GPL", 
+    "Package Index Owner:": "collective, rafrombrc, rpatterson, Ken.Manheimer, maurits"
+  }, 
+  "license": "", 
+  "longdescription": "A content-based implementation of Plones default member infrastructure", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4cef711f74458ee28db7e91b0aac31b6", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.remember/Products.remember-1.2.1.tar.gz"
+}

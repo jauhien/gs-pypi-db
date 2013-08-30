@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ope2 session implementation using Beaker", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/davisagli/Products.BeakerSessionDataManager", 
+  "info": {
+    "Author:": "David Glick, Groundwire", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/davisagli/Products.BeakerSessionDataManager", 
+    "Keywords:": "zope sessions beaker", 
+    "License:": "MIT", 
+    "Package Index Owner:": "davisagli, optilude"
+  }, 
+  "license": "", 
+  "longdescription": "ope2 session implementation using Beaker", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef6c688412c96645fef0894703f58a3e", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.BeakerSessionDataManager/Products.BeakerSessionDataManager-1.1.zip"
+}

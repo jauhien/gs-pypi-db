@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add-on for Plone to list all Python packages available to the running Python process, its versionsand other information about them.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.installedpackages", 
+  "info": {
+    "Author:": "Rafael Oliveira", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.installedpackages", 
+    "Keywords:": "plone dexterity", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rafaelbco"
+  }, 
+  "license": "", 
+  "longdescription": "Add-on for Plone to list all Python packages available to the running Python process, its versionsand other information about them.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e53c158cdea3c827c3ea1f17ff96a9d3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.installedpackages/collective.installedpackages-0.1b2.tar.gz"
+}

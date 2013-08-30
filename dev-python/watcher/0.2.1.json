@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FileSystemWatcher clone for CPython", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Brian Curtin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows", 
+        "Windows NT/2000"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Keywords:": "watcher,FileSystemWatcher", 
+    "License:": "PSF", 
+    "Package Index Owner:": "brian.curtin", 
+    "Platform:": "Win"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "FileSystemWatcher clone for CPython", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "91bcfd2d2d1d0a02e11d65bcb314cf89", 
+  "source_uri": "https://pypi.python.org/packages/source/w/watcher/watcher-0.2.1.zip"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A portlet to show the weather via AEMET", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.codesyntax.com/private/cs.portlet.aemet", 
+  "info": {
+    "Author:": "Dani Reguera", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.codesyntax.com/private/cs.portlet.aemet", 
+    "Keywords:": "weather portlet plone aemet", 
+    "License:": "GPL", 
+    "Package Index Owner:": "erral"
+  }, 
+  "license": "", 
+  "longdescription": "A portlet to show the weather via AEMET", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12a323e55ee9a0aa52ea45659a3fb9ac", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cs.portlet.aemet/cs.portlet.aemet-1.2.tar.gz"
+}

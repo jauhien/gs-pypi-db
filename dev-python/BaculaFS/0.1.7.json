@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bacula Filesystem in USErspace", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/baculafs", 
+  "info": {
+    "Author:": "Avi Rozen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/baculafs", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ZungBang", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Bacula Filesystem in USErspace", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "50dcca4d11eeaa98fe0382dfd58243db", 
+  "source_uri": "https://pypi.python.org/packages/source/B/BaculaFS/BaculaFS-0.1.7.tar.gz"
+}

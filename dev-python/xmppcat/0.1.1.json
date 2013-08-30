@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CLI application that works like cat but sends its output through xmpp", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mtorromeo/xmppcat", 
+  "info": {
+    "Author:": "Massimiliano Torromeo", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Download URL:": "http://github.com/mtorromeo/xmppcat/tarball/v0.1.1", 
+    "Home Page:": "http://github.com/mtorromeo/xmppcat", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "mtorromeo"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "CLI application that works like cat but sends its output through xmpp", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ca71716527d101e312711bd274884733", 
+  "source_uri": "http://github.com/mtorromeo/xmppcat/tarball/v0.1.1"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Two-step authentication for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/cogni/django-twostepauth", 
+  "info": {
+    "Author:": "Nuno Maltez, Pedro Lima", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/cogni/django-twostepauth", 
+    "Keywords:": "django,authentication", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "nunomaltez", 
+    "Package Index Owner:": "cogni", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Two-step authentication for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d2df47dd577f2a5ab83846fccfb68c8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-twostepauth/django-twostepauth-0.1dev.tar.gz"
+}

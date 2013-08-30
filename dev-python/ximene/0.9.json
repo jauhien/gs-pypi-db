@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The purpose of Ximene is to execute an action on a set of collected items. Both the action and the way items are collected, are defined by Python modules, which are called plug-ins.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.noherring.com/ximenez", 
+  "info": {
+    "Author:": "Damien Baty", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://cheeseshop.python.org/pypi/ximenez", 
+    "Home Page:": "http://code.noherring.com/ximenez", 
+    "Keywords:": "collector action plug-in plugin", 
+    "License:": "GNU GPL", 
+    "Package Index Owner:": "dbaty"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "The purpose of Ximene is to execute an action on a set of collected items. Both the action and the way items are collected, are defined by Python modules, which are called plug-ins.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://cheeseshop.python.org/pypi/ximenez"
+}

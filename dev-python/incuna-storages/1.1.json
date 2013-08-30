@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of django storage backends.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/incuna/incuna-storages/", 
+  "info": {
+    "Author:": "Incuna Ltd", 
+    "Home Page:": "https://github.com/incuna/incuna-storages/", 
+    "Package Index Owner:": "incuna"
+  }, 
+  "license": "", 
+  "longdescription": "A collection of django storage backends.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da0151f4ee71891a9b1d2cf781da114f", 
+  "source_uri": "https://pypi.python.org/packages/source/i/incuna-storages/incuna-storages-1.1.tar.gz"
+}

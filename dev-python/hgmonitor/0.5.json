@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "mercurial repository monitoring and handling as a group", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/jbmohler/hg-monitor", 
+  "info": {
+    "Author:": "Joel B. Mohler", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/jbmohler/hg-monitor", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "jbmohler"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "mercurial repository monitoring and handling as a group", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5cc3add2fe5bee2c2f88818f3ceaa4f7", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hgmonitor/hgmonitor-0.5.tar.gz"
+}

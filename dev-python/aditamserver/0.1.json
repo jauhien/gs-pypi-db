@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automated and DIstributed TAsk Manager server part.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.aditam.org/", 
+  "info": {
+    "Author:": "ADITAM project", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.aditam.org/", 
+    "Keywords:": "tasks", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "aditam, aditam2"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Automated and DIstributed TAsk Manager server part.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6660176d259139e6e9683474bf6baa0e", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aditam.server/aditam.server-0.1.tar.gz"
+}

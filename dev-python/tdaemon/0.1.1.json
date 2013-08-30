@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Test Daemon", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/brunobord/tdaemon", 
+  "info": {
+    "Author:": "John Paulett", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/brunobord/tdaemon", 
+    "Keywords:": "test,testing,noestests,django,py.test", 
+    "License:": "MIT", 
+    "Package Index Owner:": "johnpaulett", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Test Daemon", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "48ba9e3b5567c06e4c9249b29a8163f2", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tdaemon/tdaemon-0.1.1.tar.gz"
+}

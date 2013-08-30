@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple extension to add advanced configuration source support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/petermelias/flask-aconfig", 
+  "info": {
+    "Author:": "Peter M. Elias", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/petermelias/flask-aconfig", 
+    "License:": "BSD", 
+    "Package Index Owner:": "petermelias", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple extension to add advanced configuration source support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15fe6b6a92560cf8296d52f62145b845", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-AConfig/Flask-AConfig-0.1.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenXml documents support for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Gilles Lenfant", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Zope"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Indexing"
+      ]
+    }, 
+    "License:": "GPL", 
+    "Maintainer:": "Gilles Lenfant", 
+    "Package Index Owner:": "tdesvenain, glenfant, ingeniweb, davidjb"
+  }, 
+  "license": "", 
+  "longdescription": "OpenXml documents support for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ad910cf453c4fdb9486c24bdc8cc93c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.OpenXml/Products.OpenXml-1.0.2.tar.gz"
+}

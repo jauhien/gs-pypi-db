@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Orderable model and admin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://incuna.com/", 
+  "info": {
+    "Author:": "Incuna Ltd", 
+    "Home Page:": "http://incuna.com/", 
+    "Package Index Owner:": "incuna"
+  }, 
+  "license": "", 
+  "longdescription": "Orderable model and admin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "70ea3ca42553d90aaef140c501654bc3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-orderable/django-orderable-1.2.tar.gz"
+}

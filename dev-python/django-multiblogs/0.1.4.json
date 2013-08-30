@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An application for managing multiple blogs, and even gasp blog sets.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/powellc/django-multiblogs", 
+  "info": {
+    "Author:": "Colin Powell", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/powellc/django-multiblogs", 
+    "License:": "BSD", 
+    "Package Index Owner:": "powellc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An application for managing multiple blogs, and even gasp blog sets.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f7091b051896d25b8837f56dda037b6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-multiblogs/django-multiblogs-0.1.4.tar.gz"
+}

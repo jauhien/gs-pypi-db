@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Migrate old Plone or Google Sites content to current Plone 4", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/edcrewe/ilrt.contentmigrator", 
+  "info": {
+    "Author:": "Internet Development, ILRT, University of Bristol", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/edcrewe/ilrt.contentmigrator", 
+    "Keywords:": "web zope plone migration setup release management workflow", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cmetc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Migrate old Plone or Google Sites content to current Plone 4", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2021121541edae8cd51d20561cd00071", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ilrt.contentmigrator/ilrt.contentmigrator-1.11.tar.gz"
+}

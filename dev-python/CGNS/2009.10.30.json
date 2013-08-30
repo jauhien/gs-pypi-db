@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pythonbindings for CGNS library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/python-cgns/", 
+  "info": {
+    "Author:": "Oliver Borm", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Home Page:": "http://sourceforge.net/projects/python-cgns/", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "boroli"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Pythonbindings for CGNS library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d32f068cfe4887ef813e1421bd579c3", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CGNS/CGNS-2009.10.30.tar.gz"
+}

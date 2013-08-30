@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Disallow access to a Plone site and its children if user is anonymous", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/iw.rejectanonymous", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/iw.rejectanonymous", 
+    "Keywords:": "plone extranet", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "gotcha", 
+    "Package Index Owner:": "ingeniweb, tdesvenain, me.eleddy.com"
+  }, 
+  "license": "", 
+  "longdescription": "Disallow access to a Plone site and its children if user is anonymous", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26b95a4e417b5d4f37c3ede2913e7d70", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iw.rejectanonymous/iw.rejectanonymous-1.2.2.zip"
+}

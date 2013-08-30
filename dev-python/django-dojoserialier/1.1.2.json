@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Serialies django model instances to a dojo data compatible JSON representation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-dojoserializer", 
+  "info": {
+    "Author:": "Fabian Topfstedt", 
+    "Home Page:": "http://code.google.com/p/django-dojoserializer", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fabian"
+  }, 
+  "license": "", 
+  "longdescription": "Serialies django model instances to a dojo data compatible JSON representation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59843a3272258aab7e0eb48eb51cc910", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dojoserializer/django-dojoserializer-1.1.2.tar.gz"
+}

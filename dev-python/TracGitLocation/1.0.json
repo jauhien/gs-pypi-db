@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provide links to the actual URLs of Git-dwelling items", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/GitLocationPlugin", 
+  "info": {
+    "Author:": "Andreas Zeidler", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/GitLocationPlugin", 
+    "Keywords:": "trac plugin git", 
+    "License:": "GPL", 
+    "Package Index Owner:": "witsch"
+  }, 
+  "license": "", 
+  "longdescription": "Provide links to the actual URLs of Git-dwelling items", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d054fc28e341f486478473e5bfe2ed3", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracGitLocation/TracGitLocation-1.0.zip"
+}

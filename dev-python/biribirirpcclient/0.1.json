@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple client class for accessing JSON rpc web-servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://biribiri.enodev.org", 
+  "info": {
+    "Author:": "Ilya Petrov", 
+    "Home Page:": "http://biribiri.enodev.org", 
+    "License:": "BSDL", 
+    "Package Index Owner:": "Ilya.Petrov"
+  }, 
+  "license": "", 
+  "longdescription": "Simple client class for accessing JSON rpc web-servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e0025f09c83d60f099aa1a78448db34", 
+  "source_uri": "https://pypi.python.org/packages/source/b/biribiri.rpc.client/biribiri.rpc.client-0.1.tar.gz"
+}

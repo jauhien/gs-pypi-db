@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe to fake ope 2 packages as eggs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.zope.org/z3c.recipe.fakezope2eggs", 
+  "info": {
+    "Author:": "Jean-Francois Roche", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.zope.org/z3c.recipe.fakezope2eggs", 
+    "Keywords:": "zope2 buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "jfroche"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "C Buildout recipe to fake ope 2 packages as eggs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df2d75a359f41e3b6271bf25906748c0", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.recipe.fakezope2eggs/z3c.recipe.fakezope2eggs-0.5.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An integration of the spread toolkit, (httpspread.org), with twisted.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/sprained", 
+  "info": {
+    "Author:": "K. Richard Pixley", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/sprained", 
+    "Keywords:": "twisted spread", 
+    "License:": "MIT", 
+    "Package Index Owner:": "krp"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An integration of the spread toolkit, (httpspread.org), with twisted.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f0e454c05bd294cb408534fef5646eee", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sprained/sprained-0.008.tar.gz"
+}

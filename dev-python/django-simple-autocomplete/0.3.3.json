@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "App enabling the use of jQuery UI autocomplete widget for ModelChoiceFields with minimal configuration required.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/praekelt/django-simple-autocomplete", 
+  "info": {
+    "Author:": "Praekelt Foundation", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/praekelt/django-simple-autocomplete", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "Rizziepit", 
+    "Package Index Owner:": "Rizziepit, hedley"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "App enabling the use of jQuery UI autocomplete widget for ModelChoiceFields with minimal configuration required.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c345ca2ce65f5d8607d39fa49a84684", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-simple-autocomplete/django-simple-autocomplete-0.3.3.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "monolith is an argparse based command line interface framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lukaszb/monolith", 
+  "info": {
+    "Author:": "Lukasz Balcerzak", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//monolith", 
+    "Home Page:": "https://github.com/lukaszb/monolith", 
+    "Package Index Owner:": "LukaszBalcerzak"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "monolith is an argparse based command line interface framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf16ea54bea208877655bb2eadfca1ea", 
+  "source_uri": "https://pypi.python.org/packages/source/m/monolith/monolith-0.3.1.tar.gz"
+}

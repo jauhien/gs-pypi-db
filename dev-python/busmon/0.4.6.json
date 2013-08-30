@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A webapp for visualiing activity on the Fedora Message Bus.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ralphbean/busmon", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Home Page:": "http://github.com/ralphbean/busmon", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "A webapp for visualiing activity on the Fedora Message Bus.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "039cc03eb56170defbb0659b3f168385", 
+  "source_uri": "https://pypi.python.org/packages/source/b/busmon/busmon-0.4.6.tar.gz"
+}

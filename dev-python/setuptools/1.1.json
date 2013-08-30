@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily download, build, install, upgrade, and uninstall Python packages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pypi.python.org/pypi/setuptools", 
+  "info": {
+    "Author:": "Python Packaging Authority", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//setuptools", 
+    "Home Page:": "https://pypi.python.org/pypi/setuptools", 
+    "Keywords:": "CPAN PyPI distutils eggs package management", 
+    "License:": "PSF or ZPL", 
+    "Package Index Maintainer:": "jaraco, ianb", 
+    "Package Index Owner:": "jaraco, pje"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Easily download, build, install, upgrade, and uninstall Python packages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84062633c3818c912af76d54a40d11a7", 
+  "source_uri": "https://pypi.python.org/packages/source/s/setuptools/setuptools-1.1.tar.gz"
+}

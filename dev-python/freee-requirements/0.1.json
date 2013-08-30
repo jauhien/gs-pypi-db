@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A script to help creating and maintaining froen requirements for pip", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Stupeflix/freeze-requirements", 
+  "info": {
+    "Author:": "Luper Rouch", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Stupeflix/freeze-requirements", 
+    "Keywords:": "pip requirements frozen", 
+    "License:": "BSD", 
+    "Package Index Owner:": "flupke"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A script to help creating and maintaining froen requirements for pip", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "85409a9e3e6304a3559c7f6f8cf4c49d", 
+  "source_uri": "https://pypi.python.org/packages/source/f/freeze-requirements/freeze-requirements-0.1.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Composable, cacheable, lay trees of Redis set operations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/j4mie/rediset", 
+  "info": {
+    "Author:": "Jamie Matthews", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "MacOS", 
+        "MacOS X"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/j4mie/rediset", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "j4mie"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Composable, cacheable, lay trees of Redis set operations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e727df662ac2d07261c08684919fb3e", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rediset/rediset-0.12.0.tar.gz"
+}

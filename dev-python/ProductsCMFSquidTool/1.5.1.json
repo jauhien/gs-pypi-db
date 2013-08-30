@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTTP cache management for CMF sites", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.CMFSquidTool/", 
+  "info": {
+    "Author:": "Simon Eisenmann and other", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.CMFSquidTool/", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "wichert, newbery, reinout, tesdal"
+  }, 
+  "license": "", 
+  "longdescription": "HTTP cache management for CMF sites", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "35586fcdfcdac7e75e250200ff275902", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.CMFSquidTool/Products.CMFSquidTool-1.5.1.zip"
+}

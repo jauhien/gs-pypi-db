@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "your elastic friend to start supervisord processes based on cpu cores available", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/mr.rubber", 
+  "info": {
+    "Author:": "Dylan Jay", 
+    "Home Page:": "http://pypi.python.org/pypi/mr.rubber", 
+    "Keywords:": "supervisord", 
+    "License:": "GPL", 
+    "Package Index Owner:": "djay"
+  }, 
+  "license": "", 
+  "longdescription": "your elastic friend to start supervisord processes based on cpu cores available", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e3ae0523ae755eb3e955714a0ad67af7", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mr.rubber/mr.rubber-1.0dev.tar.gz"
+}

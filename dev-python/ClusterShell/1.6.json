@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ClusterShell library and tools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://clustershell.sourceforge.net/", 
+  "info": {
+    "Author:": "Stephane Thiell", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ClusterShell", 
+    "Download URL:": "http://sourceforge.net/projects/clustershell/files/clustershell/1.6/", 
+    "Home Page:": "http://clustershell.sourceforge.net/", 
+    "Keywords:": "clustershell,clush,clubak,nodeset", 
+    "License:": "CeCILL-C (French equivalent to LGPLv2+)", 
+    "Package Index Owner:": "sthiell", 
+    "Platform:": "GNU/Linux,BSD,MacOSX"
+  }, 
+  "license": "", 
+  "longdescription": "ClusterShell library and tools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84a832352c713623117ac175ea715d0f", 
+  "source_uri": "http://sourceforge.net/projects/clustershell/files/clustershell/1.6/"
+}

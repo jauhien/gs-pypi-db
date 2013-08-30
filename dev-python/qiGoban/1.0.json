@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A product for storing, viewing and annotating Go game records in plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/qi.Goban", 
+  "info": {
+    "Author:": "G. Gozadinos", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/qi.Goban", 
+    "Keywords:": "plone go games", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ggozad"
+  }, 
+  "license": "", 
+  "longdescription": "A product for storing, viewing and annotating Go game records in plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4746082fa778f117dfb08fdf2fbd0aea", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qi.Goban/qi.Goban-1.0.tar.gz"
+}

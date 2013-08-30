@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allow a loggedin user to view a page as an anonymous user", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.anonymousview", 
+  "info": {
+    "Author:": "Four Digits", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.anonymousview", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "keul", 
+    "Package Index Owner:": "fourdigits, jaroel"
+  }, 
+  "license": "", 
+  "longdescription": "Allow a loggedin user to view a page as an anonymous user", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3648464f89871d977f4947aadbcb6a39", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.anonymousview/collective.anonymousview-1.1.zip"
+}

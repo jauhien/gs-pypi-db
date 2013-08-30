@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy shell-like pipelines, with input from a file-like object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/pythoric/", 
+  "info": {
+    "Author:": "Nathan Coulter", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://downloads.sourceforge.net/pythoric/pipeline.py?use_mirror=0", 
+    "Home Page:": "http://sourceforge.net/projects/pythoric/", 
+    "Keywords:": "shell pipeline command pipe subprocess ipc", 
+    "License:": "PYTHON SOFTWARE FOUNDATION LICENSE    VERSION 2", 
+    "Package Index Owner:": "pooryorick", 
+    "Platform:": "must provide os.fork"
+  }, 
+  "license": "", 
+  "longdescription": "Easy shell-like pipelines, with input from a file-like object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://downloads.sourceforge.net/pythoric/pipeline.py?use_mirror=0"
+}

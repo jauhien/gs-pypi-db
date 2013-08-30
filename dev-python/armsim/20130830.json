@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ARM Simulator for Linux", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/armdev/", 
+  "info": {
+    "Author:": "Eduardo Diaz", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Emulators"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//armsim", 
+    "Home Page:": "http://code.google.com/p/armdev/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "iamedu", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "ARM Simulator for Linux", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "696c16b42d0cc12b378b45fd88a4d564", 
+  "source_uri": "https://pypi.python.org/packages/source/a/armsim/armsim-0.1dev-r4.tar.gz"
+}

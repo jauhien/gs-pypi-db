@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A partyline middleware for WSGI with good intentions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rduplain/wsgi_party", 
+  "info": {
+    "Author:": "Ron DuPlain", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rduplain/wsgi_party", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ron.DuPlain", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A partyline middleware for WSGI with good intentions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f33f4d36a51559c8d9b6b5c4c19d036", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgi_party/wsgi_party-0.1b1.tar.bz2"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An implementation of django forms using mongoengine.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.schafproductions.com/projects/django-mongodb-forms/", 
+  "info": {
+    "Author:": "Jan Schrewe", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.schafproductions.com/projects/django-mongodb-forms/", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "jschrewe"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An implementation of django forms using mongoengine.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c608375e66791962966becd62cbaf10", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mongodbforms/mongodbforms-0.2.2.tar.gz"
+}

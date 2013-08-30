@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for creating Mechanical Turk workflows in python scripts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Fil Krynicki", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "filkr"
+  }, 
+  "license": "", 
+  "longdescription": "Library for creating Mechanical Turk workflows in python scripts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ff725895fa74a3100782c957cde28fe", 
+  "source_uri": "https://pypi.python.org/packages/source/t/turkflow/turkflow-0.2.2.tar.gz"
+}

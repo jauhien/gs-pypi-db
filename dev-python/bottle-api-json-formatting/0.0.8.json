@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A bottle plugin to json format standard and error responses.         Intended for REST APIs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bustleandflurry.com", 
+  "info": {
+    "Author:": "Aron Bartling", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Bottle"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Home Page:": "http://www.bustleandflurry.com", 
+    "Keywords:": "Bottle Plugin JSON", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bartlinga"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A bottle plugin to json format standard and error responses.         Intended for REST APIs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9789dd327a465428d21c64a8138bb68", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bottle-api-json-formatting/bottle-api-json-formatting-0.0.8.tar.gz"
+}

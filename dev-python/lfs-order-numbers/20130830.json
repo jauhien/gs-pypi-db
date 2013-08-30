@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The default order numbers generator for LFS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.getlfs.com", 
+  "info": {
+    "Author:": "Kai Diefenbach", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.getlfs.com", 
+    "Keywords:": "django e-commerce online-shop", 
+    "License:": "BSD", 
+    "Package Index Owner:": "diefenbach"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "The default order numbers generator for LFS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0e3e396380aa118518ad92178fb7a843", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lfs-order-numbers/lfs-order-numbers-1.0b1.tar.gz"
+}

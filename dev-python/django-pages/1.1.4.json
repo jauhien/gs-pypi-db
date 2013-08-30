@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple CMS for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lunemec/django-pages", 
+  "info": {
+    "Author:": "Lukas Nemec", 
+    "Home Page:": "https://github.com/lunemec/django-pages", 
+    "License:": "see LICENCE.txt", 
+    "Package Index Owner:": "lu.nemec"
+  }, 
+  "license": "", 
+  "longdescription": "Simple CMS for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e1523e8d6f10cc1bf6bf5692cf59249", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pages/django-pages-1.1.4.tar.gz"
+}

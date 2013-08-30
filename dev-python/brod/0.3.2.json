@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "brod lets you produce messages to the Kafka distributed publishsubscribe messaging service. It started as a fork of pykafka (httpsgithub.comdsullypykafka), but became a total rewrite as we needed to add many features.Its named after Max Brod, Fran Kafkas friend and supporter.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/datadog/brod", 
+  "info": {
+    "Author:": "Datadog, Inc.", 
+    "Home Page:": "https://github.com/datadog/brod", 
+    "License:": "MIT", 
+    "Package Index Owner:": "alq666, clofresh", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "brod lets you produce messages to the Kafka distributed publishsubscribe messaging service. It started as a fork of pykafka (httpsgithub.comdsullypykafka), but became a total rewrite as we needed to add many features.Its named after Max Brod, Fran Kafkas friend and supporter.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d9ad398d7a104a436ef69ec32bab06d", 
+  "source_uri": "https://pypi.python.org/packages/source/b/brod/brod-0.3.2.tar.gz"
+}

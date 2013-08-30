@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "authentication plugin for cubicweb instances behind a trusted reverse proxy managing authentication  (eg. apache + kerberos)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubicweb.org/project/cubicweb-trustedauth", 
+  "info": {
+    "Author:": "LOGILAB S.A. (Paris, FRANCE)", 
+    "Home Page:": "http://www.cubicweb.org/project/cubicweb-trustedauth", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "authentication plugin for cubicweb instances behind a trusted reverse proxy managing authentication  (eg. apache + kerberos)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1c0f5226f228f21dde0ac01e71229f4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cubicweb-trustedauth/cubicweb-trustedauth-0.3.0.tar.gz"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Auth extension for Flask.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/Shotca/flask-auth/", 
+  "info": {
+    "Author:": "Lars de Ridder", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Flask-Auth", 
+    "Home Page:": "http://bitbucket.org/Shotca/flask-auth/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "shotca", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Auth extension for Flask.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "92099b3c7ba067890c92ae683105aefd", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Auth/Flask-Auth-0.85.tar.gz"
+}

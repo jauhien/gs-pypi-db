@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Idiomatic access to digital objects in a Fedora Commons repository", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/emory-libraries/eulfedora", 
+  "info": {
+    "Author:": "Emory University Libraries", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/emory-libraries/eulfedora", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "EULSystems"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Idiomatic access to digital objects in a Fedora Commons repository", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12695395d9545c7349fc44003266c127", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eulfedora/eulfedora-0.20.0.tar.gz"
+}

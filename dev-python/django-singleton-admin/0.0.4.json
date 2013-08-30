@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package provides a way to ensure singleton classes can                      only have one instance in the Django admin panel.                     It is taken from Meanine by Stephen McDonald.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/RacingTadpole/django-singleton-admin", 
+  "info": {
+    "Author:": "Arthur Street", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/RacingTadpole/django-singleton-admin", 
+    "Keywords:": "globals singleton", 
+    "License:": "BSD", 
+    "Package Index Owner:": "RacingTadpole"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "This package provides a way to ensure singleton classes can                      only have one instance in the Django admin panel.                     It is taken from Meanine by Stephen McDonald.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "53e7d937f36652ef87f30d5ad5e00b29", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-singleton-admin/django-singleton-admin-0.0.4.tar.gz"
+}

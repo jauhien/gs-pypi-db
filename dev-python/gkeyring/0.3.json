@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool for shell access to GNOME keyring", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.launchpad.net/gkeyring", 
+  "info": {
+    "Author:": "Kamil Paral", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "Gnome"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://launchpad.net/gkeyring/+download", 
+    "Home Page:": "https://code.launchpad.net/gkeyring", 
+    "Keywords:": "gnome keyring access commandline", 
+    "License:": "GNU Affero GPL v3", 
+    "Package Index Owner:": "mpolla, kamil.paral"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Tool for shell access to GNOME keyring", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9fe42d7dd1318320d172b5f9dd1f31b3", 
+  "source_uri": "https://launchpad.net/gkeyring/+download"
+}

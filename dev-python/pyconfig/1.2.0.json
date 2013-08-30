@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python-based singleton configuration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/aol/pyconfig", 
+  "info": {
+    "Author:": "Jacob Alheid", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/aol/pyconfig", 
+    "Package Index Owner:": "shakefu"
+  }, 
+  "license": "", 
+  "longdescription": "Python-based singleton configuration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3db489bdd43f30e7df582797e9c57898", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyconfig/pyconfig-1.2.0.tar.gz"
+}

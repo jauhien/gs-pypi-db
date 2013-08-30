@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Driver for scapy to allow capturing packets via Linux NFLOG interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mk-fg/scapy-nflog-capture", 
+  "info": {
+    "Author:": "Mike Kazantsev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "System", 
+        "Operating System Kernels", 
+        "Linux"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mk-fg/scapy-nflog-capture", 
+    "Keywords:": "nflog,scapy,plugin,driver,traffic,analysis,analyze,capture,dump,network,linux,security,sniffer,spoof,netfilter,iptables,xtables,filter,filtering,firewall,audit,cffi,libnetfilter_log,socket", 
+    "License:": "WTFPL", 
+    "Package Index Owner:": "mk.fg"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Driver for scapy to allow capturing packets via Linux NFLOG interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "10563dae4c675949f13c38273d3fef58", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scapy-nflog-capture/scapy-nflog-capture-13.05.0.tar.gz"
+}

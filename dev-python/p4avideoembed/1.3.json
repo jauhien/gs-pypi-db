@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A registry and adapters for converting urls for various video sharing sites into embed codes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.plone4artists.org/svn/projects/p4a.videoembed", 
+  "info": {
+    "Author:": "Alec Mitchell", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.plone4artists.org/svn/projects/p4a.videoembed", 
+    "Keywords:": "Embedded Video Plone", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "rpatterson, lucielejard, sixfeetup, vangheem", 
+    "Package Index Owner:": "rockyburt, nateaune, alecm, vangheem"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A registry and adapters for converting urls for various video sharing sites into embed codes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "983c6b8223c98ed52a6ed4bfa514b09f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/p4a.videoembed/p4a.videoembed-1.3.zip"
+}

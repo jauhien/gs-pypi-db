@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Linux FUSE file system implementation with AWS DynamoDB as the storage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/denismo/dynamo-fuse", 
+  "info": {
+    "Author:": "Denis Mikhalkin", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "https://github.com/denismo/dynamo-fuse", 
+    "License:": "GNU General Public License, version 3", 
+    "Package Index Owner:": "denismo"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Linux FUSE file system implementation with AWS DynamoDB as the storage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0996986c4d3a17d03fbc25e3c450c4aa", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dynamo-fuse/dynamo-fuse-0.1.4.tar.gz"
+}

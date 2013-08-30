@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a CLI password manager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/flal/pwmngr", 
+  "info": {
+    "Author:": "Florent D'halluin", 
+    "Home Page:": "https://bitbucket.org/flal/pwmngr", 
+    "License:": "Beerware", 
+    "Package Index Owner:": "flal"
+  }, 
+  "license": "", 
+  "longdescription": "a CLI password manager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5335a62042116a679624692cf51ddf47", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Pwmngr/Pwmngr-0.1dev.tar.gz"
+}

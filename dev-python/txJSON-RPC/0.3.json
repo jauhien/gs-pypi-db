@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Code for creating Twisted JSON-RPC servers and clients.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Package Index Owner:": "oubiwann"
+  }, 
+  "license": "", 
+  "longdescription": "Code for creating Twisted JSON-RPC servers and clients.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f875c5d90c554c5a63ab6f1e04a73f06", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txJSON-RPC/txJSON-RPC-0.3.tar.gz"
+}

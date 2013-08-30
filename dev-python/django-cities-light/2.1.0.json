@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple alternative to django-cities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yourlabs/django-cities-light", 
+  "info": {
+    "Author:": "James Pic", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yourlabs/django-cities-light", 
+    "Keywords:": "django cities countries postal codes", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jpic"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple alternative to django-cities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "74d21bacd6e5126a46d2c8648fbdaec2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cities-light/django-cities-light-2.1.0.tar.gz"
+}

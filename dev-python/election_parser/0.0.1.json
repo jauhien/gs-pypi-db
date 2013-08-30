@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parse US real time and archived election data.  Really only supports CA real time rigth now", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/adamdeprince/election_parser", 
+  "info": {
+    "Author:": "Adam DePrince", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ]
+    }, 
+    "Home Page:": "http://github.com/adamdeprince/election_parser", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "adamdeprince"
+  }, 
+  "license": "", 
+  "longdescription": "Parse US real time and archived election data.  Really only supports CA real time rigth now", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ffad246126e91ff0eee7f42bd35d8eee", 
+  "source_uri": "https://pypi.python.org/packages/source/e/election_parser/election_parser-0.0.1.tar.gz"
+}

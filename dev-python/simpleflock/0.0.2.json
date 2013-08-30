@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple flock-based file locking, using the with syntax", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/derpston/python-simpleflock", 
+  "info": {
+    "Author:": "Derp Ston", 
+    "Home Page:": "https://github.com/derpston/python-simpleflock", 
+    "Package Index Owner:": "derpston"
+  }, 
+  "license": "", 
+  "longdescription": "Simple flock-based file locking, using the with syntax", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f915515643f7d7c55fbbe96bd61fc59", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simpleflock/simpleflock-0.0.2.tar.gz"
+}

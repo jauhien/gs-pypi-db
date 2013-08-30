@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reference this rather than Turbogears2 as a dependency to get a consistent install with your TG2 project", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/nickpholden/TurboGears2Frozen", 
+  "info": {
+    "Author:": "Nick Holden", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "TurboGears"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/nickpholden/TurboGears2Frozen", 
+    "Keywords:": "turbogears2", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "nickpholden"
+  }, 
+  "license": "", 
+  "longdescription": "Reference this rather than Turbogears2 as a dependency to get a consistent install with your TG2 project", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "27bd98c0784d1aab597d11014da6c535", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TurboGears2Frozen/TurboGears2Frozen-2.2.0.tar.gz"
+}

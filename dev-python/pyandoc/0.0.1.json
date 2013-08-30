@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for Pandoc - the universal document converter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kennethreitz/pyandoc", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Home Page:": "http://github.com/kennethreitz/pyandoc", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kennethreitz"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper for Pandoc - the universal document converter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1475c0e93725769a7a813cdb432c769c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyandoc/pyandoc-0.0.1.tar.gz"
+}

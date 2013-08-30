@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Job Queue", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/goosemo/job_queue", 
+  "info": {
+    "Author:": "Morgan Goose", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Clustering"
+      ]
+    }, 
+    "Home Page:": "http://github.com/goosemo/job_queue", 
+    "Package Index Owner:": "goosemo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Job Queue", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5962636c28f4d440487dec7e57a63941", 
+  "source_uri": "https://pypi.python.org/packages/source/j/job_queue/job_queue-0.1.tar.gz"
+}

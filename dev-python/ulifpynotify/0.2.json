@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scan filesystems for changes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ulif.pynotify", 
+  "info": {
+    "Author:": "Uli Fouquet", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ulif.pynotify", 
+    "Home Page:": "http://pypi.python.org/pypi/ulif.pynotify", 
+    "Keywords:": "filesystem changes monitor watchdog inotify", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ulif"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Scan filesystems for changes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d0bc1ba777875e5a74dba5d84630bd73", 
+  "source_uri": "https://pypi.python.org/packages/source/u/ulif.pynotify/ulif.pynotify-0.2.tar.gz"
+}

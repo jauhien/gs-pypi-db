@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hypermedia implementation for Avocado", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cbmi.github.com/serrano/", 
+  "info": {
+    "Author:": "Byron Ruth", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://cbmi.github.com/serrano/", 
+    "Keywords:": "hypermedia rest api avocado serrano cilantro harvest", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bruth"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Hypermedia implementation for Avocado", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1383600379798aa188f2f39a04cb152", 
+  "source_uri": "https://pypi.python.org/packages/source/s/serrano/serrano-2.0.18.tar.gz"
+}

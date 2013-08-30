@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enhance the builtin Django mail functionality to include task queueing or deferment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/keithio/django-mailify", 
+  "info": {
+    "Author:": "Keith Hall", 
+    "Bug Tracker:": "http://github.com/keithio/django-mailify/issues", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.github.com/keithio/django-mailify", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Keith.Hall"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Enhance the builtin Django mail functionality to include task queueing or deferment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4ae3b4870969e13f61c439f9b9fa773", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mailify/django-mailify-0.1.0alpha2.tar.gz"
+}

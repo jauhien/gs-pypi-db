@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Object non-relational manager for Cassandra", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/digg/lazyboy/tree/master", 
+  "info": {
+    "Author:": "Ian Eure", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "http://github.com/digg/lazyboy/downloads", 
+    "Home Page:": "http://github.com/digg/lazyboy/tree/master", 
+    "Keywords:": "database cassandra", 
+    "License:": "Three-clause BSD", 
+    "Package Index Owner:": "ieure"
+  }, 
+  "license": "", 
+  "longdescription": "Object non-relational manager for Cassandra", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://github.com/digg/lazyboy/downloads"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple way to install lxml in a static manner", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.percious.com", 
+  "info": {
+    "Author:": "Christopher Perkins", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://www.percious.com", 
+    "License:": "BSD", 
+    "Package Index Owner:": "percious"
+  }, 
+  "license": "", 
+  "longdescription": "A simple way to install lxml in a static manner", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77275ce07804ed078f94b493b18267d8", 
+  "source_uri": "https://pypi.python.org/packages/source/s/staticlxml/staticlxml-0.1.2.tar.gz"
+}

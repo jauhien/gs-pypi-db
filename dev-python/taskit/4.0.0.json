@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TaskIt -- A light-weight task management library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pydsigner/taskit", 
+  "info": {
+    "Author:": "Daniel Foerster/pydsigner", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pydsigner/taskit", 
+    "License:": "LGPLv3", 
+    "Package Index Owner:": "pydsigner"
+  }, 
+  "license": "", 
+  "longdescription": "TaskIt -- A light-weight task management library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ad87542328572e15625686bec6345cb", 
+  "source_uri": "https://pypi.python.org/packages/source/t/taskit/taskit-4.0.0.tar.gz"
+}

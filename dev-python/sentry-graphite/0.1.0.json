@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Sentry extension that counts events in Graphite", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/disqus/sentry-graphite", 
+  "info": {
+    "Author:": "DISQUS", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/disqus/sentry-graphite", 
+    "Keywords:": "sentry graphite", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "dctrwatson"
+  }, 
+  "license": "", 
+  "longdescription": "A Sentry extension that counts events in Graphite", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0ec772958332d94e80ddab11f321c2d9", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-graphite/sentry-graphite-0.1.0.tar.gz"
+}

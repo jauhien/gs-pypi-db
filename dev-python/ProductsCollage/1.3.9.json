@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A product to create page compositions in Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.plone.org/products/collage", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://www.plone.org/products/collage", 
+    "Keywords:": "plone layout composition", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "jladage", 
+    "Package Index Owner:": "jladage, davisagli, glenfant, malthe, iT0m"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A product to create page compositions in Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "52e8541e677f6f117dd6bf9ef68b18e2", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.Collage/Products.Collage-1.3.9.tar.gz"
+}

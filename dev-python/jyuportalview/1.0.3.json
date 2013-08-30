@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A content type, which displays content in a portal like aggregating view", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/jyu.portalview", 
+  "info": {
+    "Author:": "Jukka Ojaniemi", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/jyu.portalview", 
+    "Keywords:": "plone content portal view", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pingviini"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A content type, which displays content in a portal like aggregating view", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eaaf68aed693bcd2a868293512161480", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jyu.portalview/jyu.portalview-1.0.3.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for managing Whisper databases used in Graphite.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/josephl/whisperctl", 
+  "info": {
+    "Author:": "Joseph Lee", 
+    "Home Page:": "http://github.com/josephl/whisperctl", 
+    "Keywords:": "whisper,graphite,carbon,statsd", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Joe.Lee"
+  }, 
+  "license": "", 
+  "longdescription": "A tool for managing Whisper databases used in Graphite.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b9d6349e6d654106ae50ae0600810856", 
+  "source_uri": "https://pypi.python.org/packages/source/w/whisperctl/whisperctl-0.2.0.tar.gz"
+}

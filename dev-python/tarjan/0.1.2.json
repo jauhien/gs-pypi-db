@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of Tarjans algorithm resolve cyclic deps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bwesterb/py-tarjan/", 
+  "info": {
+    "Author:": "Bas Westerbaan", 
+    "Home Page:": "http://github.com/bwesterb/py-tarjan/", 
+    "Package Index Owner:": "bas"
+  }, 
+  "license": "", 
+  "longdescription": "Implementation of Tarjans algorithm resolve cyclic deps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5e98db206f660cac83826d2edd5148c", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tarjan/tarjan-0.1.2.tar.gz"
+}

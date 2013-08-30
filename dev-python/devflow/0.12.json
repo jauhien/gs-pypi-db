@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of tools to ease versioning and use of git flow.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.synnefo.org/", 
+  "info": {
+    "Author:": "Synnefo development team", 
+    "Home Page:": "http://www.synnefo.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "cstavr"
+  }, 
+  "license": "", 
+  "longdescription": "A set of tools to ease versioning and use of git flow.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "785452ae77e986efca57fcd6ee80bcce", 
+  "source_uri": "https://pypi.python.org/packages/source/d/devflow/devflow-0.12.tar.gz"
+}

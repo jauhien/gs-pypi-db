@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A subprocess wrapper which provides command pipeline functionality and easy data capture.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sarge.readthedocs.org/", 
+  "info": {
+    "Author:": "Vinay Sajip", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation"
+      ], 
+      "Topic": [
+        "System", 
+        "Shells"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sarge", 
+    "Download URL:": "https://pypi.python.org/packages/source/s/sarge/sarge-0.1.1.tar.gz", 
+    "Home Page:": "http://sarge.readthedocs.org/", 
+    "Keywords:": "subprocess wrapper external command", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vsajip"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A subprocess wrapper which provides command pipeline functionality and easy data capture.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a9b9d46e4ef6ae51e2a5ff7de93d9dd", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sarge/sarge-0.1.1.tar.gz"
+}

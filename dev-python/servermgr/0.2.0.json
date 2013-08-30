@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Server process configuration and management", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dpb1857/servermgr/", 
+  "info": {
+    "Author:": "Don Bennett", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//servermgr", 
+    "Home Page:": "http://github.com/dpb1857/servermgr/", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "dpb1857"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Server process configuration and management", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d2e7d7cbd7d3b7223995ed031ee5816", 
+  "source_uri": "https://pypi.python.org/packages/source/s/servermgr/servermgr-0.2.0.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An easy way to use the bonjouravahi service with Twisted.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jdcumpson/txbonjour", 
+  "info": {
+    "Author:": "jdcumpson", 
+    "Home Page:": "https://github.com/jdcumpson/txbonjour", 
+    "Package Index Owner:": "jdcumpson"
+  }, 
+  "license": "", 
+  "longdescription": "An easy way to use the bonjouravahi service with Twisted.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6871c907807a34df13978acb05fb2426", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txbonjour/txbonjour-0.3.zip"
+}

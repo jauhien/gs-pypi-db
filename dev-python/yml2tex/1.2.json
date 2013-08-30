@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "yml2tex is a simple python script which generates LaTeX Beamer code out of YAML files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/yml2tex/", 
+  "info": {
+    "Author:": "Arthur Koziel", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://yml2tex.googlecode.com/files/yml2tex-1.2.tar.gz", 
+    "Home Page:": "http://code.google.com/p/yml2tex/", 
+    "Keywords:": "yaml latex beamer", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "arthurk"
+  }, 
+  "license": "", 
+  "longdescription": "yml2tex is a simple python script which generates LaTeX Beamer code out of YAML files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://yml2tex.googlecode.com/files/yml2tex-1.2.tar.gz"
+}

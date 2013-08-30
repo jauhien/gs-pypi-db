@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django granular (row-level) permissions that inject themselves in a non-invasive fashion (without modifying the Django code)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-granular-permissions/", 
+  "info": {
+    "Author:": "Bartosz Ptaszynski", 
+    "Download URL:": "http://django-granular-permissions.googlecode.com/files/django-granular-permissions-0.1.tar.gz", 
+    "Home Page:": "http://code.google.com/p/django-granular-permissions/", 
+    "Package Index Owner:": "yazzgoth"
+  }, 
+  "license": "", 
+  "longdescription": "Django granular (row-level) permissions that inject themselves in a non-invasive fashion (without modifying the Django code)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://django-granular-permissions.googlecode.com/files/django-granular-permissions-0.1.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a tag cloud for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.example", 
+  "info": {
+    "Author:": "Luis Miguel Braga", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.example", 
+    "Keywords:": "tag cloud subject", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sureshvv"
+  }, 
+  "license": "", 
+  "longdescription": "a tag cloud for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88451897a7c5b174ae5dece910978c71", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.tagcloud/collective.tagcloud-0.1.zip"
+}

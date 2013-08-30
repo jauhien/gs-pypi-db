@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HDF5 plugin for pydap server based on Pytables", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pydap.org/plugins/hdf5.html", 
+  "info": {
+    "Author:": "Roberto De Almeida", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pydap.org/plugins/hdf5.html", 
+    "Keywords:": "hdf5 pytables dap opendap dods data", 
+    "License:": "MIT", 
+    "Package Index Owner:": "roberto"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "HDF5 plugin for pydap server based on Pytables", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59529a4286f2f223d22354cf8ca3940d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dap.plugins.hdf5/dap.plugins.hdf5-0.1.2.tar.gz"
+}

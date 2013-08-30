@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ssh wrappers to transparently use chef node names instead of hostnames", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kriswehner/chssh", 
+  "info": {
+    "Author:": "Kris Wehner", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/kriswehner/chssh", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wellokwhatever"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "ssh wrappers to transparently use chef node names instead of hostnames", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b2427112303498cadd6bb6c2dce2001d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chssh/chssh-0.2.tar.gz"
+}

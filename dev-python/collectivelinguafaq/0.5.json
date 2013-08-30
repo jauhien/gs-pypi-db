@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple multilanguage faq", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cirb.irisnet.be", 
+  "info": {
+    "Author:": "Benoit Suttor - CIRB/CIBG", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.cirb.irisnet.be", 
+    "Keywords:": "plone faq", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "hvelarde, cleberjsantos", 
+    "Package Index Owner:": "bsuttor"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A simple multilanguage faq", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "872efab2c738f55692407614381118f1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.linguafaq/collective.linguafaq-0.5.tar.gz"
+}

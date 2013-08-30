@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CAPTCHA alternative for Plone 3.x", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pydanny/Products.humanator", 
+  "info": {
+    "Author:": "Daniel Greenfeld", 
+    "Categories": {
+      "Development Status": [
+        "7 - Inactive"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pydanny/Products.humanator", 
+    "Keywords:": "plone", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pydanny"
+  }, 
+  "license": "", 
+  "longdescription": "CAPTCHA alternative for Plone 3.x", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c45844f73b9ef69921126b430f2343c8", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.humanator/Products.humanator-0.6.2.tar.gz"
+}

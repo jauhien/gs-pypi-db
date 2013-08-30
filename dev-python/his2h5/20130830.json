@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line utility to convert beterrn Hamamatsu Image Sequence (.HIS) files and HDF5 files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Rich Wareham", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rjw57"
+  }, 
+  "license": "", 
+  "longdescription": "Command line utility to convert beterrn Hamamatsu Image Sequence (.HIS) files and HDF5 files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff55efd5e01a33e799c20ccaec7f9789", 
+  "source_uri": "https://pypi.python.org/packages/source/h/his2h5/his2h5-0.1dev.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple eroMQ-based RPC.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zacharyvoase/zrpc", 
+  "info": {
+    "Author:": "Zachary Voase", 
+    "Home Page:": "http://github.com/zacharyvoase/zrpc", 
+    "Package Index Owner:": "disturbyte"
+  }, 
+  "license": "", 
+  "longdescription": "Simple eroMQ-based RPC.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9351344a9abd9da8d6516d802b83fc00", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zrpc/zrpc-0.3.1.tar.gz"
+}

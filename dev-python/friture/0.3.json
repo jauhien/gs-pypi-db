@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Real-time visualiation of live audio data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tlecomte.github.com/friture/", 
+  "info": {
+    "Author:": "Timoth\u00e9e Lecomte", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "Qt"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio", 
+        "Speech"
+      ]
+    }, 
+    "Home Page:": "http://tlecomte.github.com/friture/", 
+    "Keywords:": "audio,spectrum,spectrogram", 
+    "License:": "GNU GENERAL PUBLIC LICENSE", 
+    "Package Index Owner:": "tlecomte"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Real-time visualiation of live audio data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19205d7f190484d679dc8fe666d2dda7", 
+  "source_uri": "https://pypi.python.org/packages/source/f/friture/friture-0.3.tar.gz"
+}

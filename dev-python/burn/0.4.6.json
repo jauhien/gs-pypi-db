@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line tool for writing optical media.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bigpaul.org/burn/", 
+  "info": {
+    "Author:": "Ben Finney", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//burn", 
+    "Home Page:": "http://www.bigpaul.org/burn/", 
+    "Keywords:": "burn,cd,dvd,media", 
+    "License:": "GPL-2+", 
+    "Package Index Owner:": "bignose"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Command-line tool for writing optical media.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4dd8dccfb89480c41294d72537176b7", 
+  "source_uri": "https://pypi.python.org/packages/source/b/burn/burn-0.4.6.tar.gz"
+}

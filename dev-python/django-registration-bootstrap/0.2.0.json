@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bootstrap implementation for Django registration.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pydanny/django-registration-bootstrap", 
+  "info": {
+    "Author:": "Daniel Greenfeld", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pydanny/django-registration-bootstrap", 
+    "Keywords:": "django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "pydanny"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Bootstrap implementation for Django registration.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f2f44c424c115b8767b113ebe942632", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-registration-bootstrap/django-registration-bootstrap-0.2.0.tar.gz"
+}

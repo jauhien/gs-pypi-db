@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sphinx extension that adds a simple button to perform test calls to JSON based apis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/amol-/sphinxcontrib.jsoncall", 
+  "info": {
+    "Author:": "Alessandro Molina", 
+    "Home Page:": "https://github.com/amol-/sphinxcontrib.jsoncall", 
+    "License:": "MIT", 
+    "Package Index Owner:": "amol"
+  }, 
+  "license": "", 
+  "longdescription": "Sphinx extension that adds a simple button to perform test calls to JSON based apis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "524a3c7803b046053d7a4a4c478f0493", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sphinxcontrib-jsoncall/sphinxcontrib-jsoncall-0.1.tar.gz"
+}

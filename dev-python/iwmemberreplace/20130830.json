@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Replace a Plone member by another one (ownership, creators, sharings and mutable groups).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/iw.memberreplace", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/iw.memberreplace", 
+    "Keywords:": "plone membership", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "Replace a Plone member by another one (ownership, creators, sharings and mutable groups).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "90485113ca9b9e06b4fe6ec7cf0af215", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iw.memberreplace/iw.memberreplace-1.0.0-RC1.tar.gz"
+}

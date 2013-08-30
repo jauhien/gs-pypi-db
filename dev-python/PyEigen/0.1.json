@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PyEigen is a Python wrapper for the C++ linear algebra library Eigen.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/pyeigen", 
+  "info": {
+    "Author:": "Jussi Lepist\u00c3\u00b6", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/pyeigen", 
+    "License:": "BSD", 
+    "Package Index Owner:": "knarkles"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "PyEigen is a Python wrapper for the C++ linear algebra library Eigen.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f5eb8f87d90e05554ecf8a15f824b8b", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyEigen/PyEigen-0.1.zip"
+}

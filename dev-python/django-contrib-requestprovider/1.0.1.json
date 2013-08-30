@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "access django request object whenever you need it", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/malfaux/snakecheese/tree/master/gadjolib", 
+  "info": {
+    "Author:": "adrian ilarion ciobanu", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/malfaux/snakecheese/blob/master/eggs/django-contrib-requestprovider-1.0.1.tar.gz?raw=true", 
+    "Home Page:": "https://github.com/malfaux/snakecheese/tree/master/gadjolib", 
+    "Keywords:": "django contrib,request object provider", 
+    "License:": "License :: OSI Approved :: BSD License", 
+    "Package Index Owner:": "cheesebaker", 
+    "Platform:": "__all_django_supported__, !threaded"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "access django request object whenever you need it", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://github.com/malfaux/snakecheese/blob/master/eggs/django-contrib-requestprovider-1.0.1.tar.gz?raw=true"
+}

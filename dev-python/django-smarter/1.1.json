@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Smarter declarative style generic views for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/05bit/django-smarter", 
+  "info": {
+    "Author:": "Alexey Kinyov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/05bit/django-smarter", 
+    "Keywords:": "django,application,scaffolding,crud,views,utility", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Alexey.Kinyov"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Smarter declarative style generic views for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e7fa88adc550f4c3144a744b1f7830a0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-smarter/django-smarter-1.1.tar.gz"
+}

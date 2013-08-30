@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple reusable app for management of peer review of arbitrary django models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/weholt/django-peer-review", 
+  "info": {
+    "Author:": "Thomas Weholt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/weholt/django-peer-review", 
+    "Keywords:": "peer review arbitrary django models", 
+    "License:": "Modified BSD", 
+    "Package Index Owner:": "weholt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple reusable app for management of peer review of arbitrary django models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bedd5145fc283e447a790dfca7e2729f", 
+  "source_uri": "https://pypi.python.org/packages/source/D/Django-PeerReview/Django-PeerReview-0.1.0.zip"
+}

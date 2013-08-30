@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This tool is used to import and export ip files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.zipfiletransport", 
+  "info": {
+    "Author:": "enPraxis", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.zipfiletransport", 
+    "Keywords:": "zipfile bulk upload", 
+    "License:": "GPL", 
+    "Package Index Owner:": "dray, blambert"
+  }, 
+  "license": "", 
+  "longdescription": "This tool is used to import and export ip files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73886b855a66863afe2ba376e1d11165", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.zipfiletransport/collective.zipfiletransport-3.2.1.tar.gz"
+}

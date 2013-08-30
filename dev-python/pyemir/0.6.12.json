@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "EMIR Data Processing Pipeline", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://guaix.fis.ucm.es/projects/emir", 
+  "info": {
+    "Author:": "Sergio Pascual", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyemir", 
+    "Home Page:": "http://guaix.fis.ucm.es/projects/emir", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "sergiopasra"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "EMIR Data Processing Pipeline", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a9e28b6987f4e3660171137ace7cf5b4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyemir/pyemir-0.6.12.tar.gz"
+}

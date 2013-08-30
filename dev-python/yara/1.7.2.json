@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compile YARA rules to test against files or strings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/yara-project/", 
+  "info": {
+    "Author:": "Michael Dorman", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//yara", 
+    "Home Page:": "http://code.google.com/p/yara-project/", 
+    "License:": "Apache Software Licence", 
+    "Package Index Owner:": "mjdorma", 
+    "Platform:": "cygwin,win,linux"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Compile YARA rules to test against files or strings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a50a5c37490052fffd119fcd2532750", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yara/yara-1.7.2.zip"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "leo.org command line tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/JoiDegn/leo-cli", 
+  "info": {
+    "Author:": "Johannes Degn", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/JoiDegn/leo-cli", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joidegn"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "leo.org command line tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "57f8f6197c3cd8837ce98c19e41f0298", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leo-cli/leo-cli-0.2.tar.gz"
+}

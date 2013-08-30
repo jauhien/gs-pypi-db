@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ptree is a minimal implementation of PairTree, which is a filesystemconvention from the digital preservation community for mappingidentifiers to file system locations, and vice versa.See httpsconfluence.ucop.edudisplayCurationPairTree for more details.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/edsu/ptree", 
+  "info": {
+    "Author:": "Ed Summers", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "http://github.com/edsu/ptree", 
+    "Package Index Owner:": "esummers", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "ptree is a minimal implementation of PairTree, which is a filesystemconvention from the digital preservation community for mappingidentifiers to file system locations, and vice versa.See httpsconfluence.ucop.edudisplayCurationPairTree for more details.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c5c47860d05edee1ec896219cb1dc4cb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/ptree/ptree-0.1.tar.gz"
+}

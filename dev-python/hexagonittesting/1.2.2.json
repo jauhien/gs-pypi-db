@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone4 test helper which uses plone.testing and manuel.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/hexagonit.testing/", 
+  "info": {
+    "Author:": "Hexagon IT", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//hexagonit.testing", 
+    "Home Page:": "http://packages.python.org/hexagonit.testing/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dokai, taito"
+  }, 
+  "license": "", 
+  "longdescription": "Plone4 test helper which uses plone.testing and manuel.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "78e6a901fdfca8777962a81bd44d40c7", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hexagonit.testing/hexagonit.testing-1.2.2.zip"
+}

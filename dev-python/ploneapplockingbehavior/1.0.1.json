@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Locking integration for dexterity content objects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/plone/plone.app.lockingbehavior/", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/plone/plone.app.lockingbehavior/", 
+    "Keywords:": "dexterity locking behavior plone", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "esteele, jone, 4teamwork, optilude, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "Locking integration for dexterity content objects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a25745f1f40c6298da1b228ccd95ee27", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.lockingbehavior/plone.app.lockingbehavior-1.0.1.tar.gz"
+}

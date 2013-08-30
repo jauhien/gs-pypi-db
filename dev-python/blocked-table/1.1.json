@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Efficient on-disk sorted table format.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rjpower.org/browse.cgi/blocked-table", 
+  "info": {
+    "Author:": "Russell Power", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://rjpower.org/browse.cgi/blocked-table", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rjpower"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Efficient on-disk sorted table format.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d29aba3a6f474bf750cc0dbeccad5ada", 
+  "source_uri": "https://pypi.python.org/packages/source/b/blocked-table/blocked-table-1.1.tar.gz"
+}

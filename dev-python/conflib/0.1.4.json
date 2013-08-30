@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manage configuration hierarchies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/akerl/conflib", 
+  "info": {
+    "Author:": "Les Aker", 
+    "Home Page:": "https://github.com/akerl/conflib", 
+    "Package Index Owner:": "akerl"
+  }, 
+  "license": "", 
+  "longdescription": "Manage configuration hierarchies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "57e0ce473d3fe49ea7d49223a3c005e2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/conflib/conflib-0.1.4.tar.gz"
+}

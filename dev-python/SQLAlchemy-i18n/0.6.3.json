@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Internationaliation extension for SQLAlchemy models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kvesteri/sqlalchemy-i18n", 
+  "info": {
+    "Author:": "Konsta Vesterinen", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kvesteri/sqlalchemy-i18n", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kvesteri", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Internationaliation extension for SQLAlchemy models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1fed7283242cf9db5293623dbd081eb", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SQLAlchemy-i18n/SQLAlchemy-i18n-0.6.3.tar.gz"
+}

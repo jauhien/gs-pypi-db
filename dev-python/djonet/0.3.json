@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MonetDB backend for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gijzelaerr/djonet", 
+  "info": {
+    "Author:": "Gijs Molenaar", 
+    "Home Page:": "https://github.com/gijzelaerr/djonet", 
+    "Package Index Owner:": "gijzelaerr"
+  }, 
+  "license": "", 
+  "longdescription": "MonetDB backend for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62f6cff419e7588ab6305b1b618d6f87", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djonet/djonet-0.3.tar.gz"
+}

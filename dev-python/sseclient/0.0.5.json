@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client library for reading Server Sent Event streams.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bits.btubbs.com/sseclient", 
+  "info": {
+    "Author:": "Brent Tubbs", 
+    "Home Page:": "http://bits.btubbs.com/sseclient", 
+    "Package Index Owner:": "btubbs"
+  }, 
+  "license": "", 
+  "longdescription": "Python client library for reading Server Sent Event streams.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "367d9714ead109b31a898f43781edd04", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sseclient/sseclient-0.0.5.tar.gz"
+}

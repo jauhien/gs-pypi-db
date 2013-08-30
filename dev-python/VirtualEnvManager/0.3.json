@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package to manage various virtual environments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Diez B. Roggisch", 
+    "Keywords:": "python virtualenv", 
+    "License:": "PSF", 
+    "Package Index Owner:": "deets"
+  }, 
+  "license": "", 
+  "longdescription": "A package to manage various virtual environments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e337c5bb51caed28a853b34ad97eb7b8", 
+  "source_uri": "https://pypi.python.org/packages/source/V/VirtualEnvManager/VirtualEnvManager-0.3.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "rdflib extension for a Store implementation on top of a remote SPARQL endpoint", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/RDFLib/rdflib-sparqlstore", 
+  "info": {
+    "Author:": "Gunnar Aastrand Grimnes", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/RDFLib/rdflib-sparqlstore/zipball/master", 
+    "Home Page:": "https://github.com/RDFLib/rdflib-sparqlstore", 
+    "License:": "W3C", 
+    "Package Index Owner:": "gromgull", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "rdflib extension for a Store implementation on top of a remote SPARQL endpoint", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb21a4c1dacc0dd7f0a499150d2b34b1", 
+  "source_uri": "https://github.com/RDFLib/rdflib-sparqlstore/zipball/master"
+}

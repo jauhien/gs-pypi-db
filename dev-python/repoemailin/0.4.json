@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Map inbound mail onto application-defined handlers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//repoze.mailin", 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "e-mail zope repoze", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism, tseaver"
+  }, 
+  "license": "", 
+  "longdescription": "Map inbound mail onto application-defined handlers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ea9f4e1c6c636aaf3067c106fa997cf", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.mailin/repoze.mailin-0.4.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extension for GenericSetup, support for LDAP and AD", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/vs.genericsetup.ldap", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/vs.genericsetup.ldap", 
+    "Keywords:": "Zope Plone Python LDAP AD GenericSetup", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ajung, jone, 4teamwork, gotcha"
+  }, 
+  "license": "", 
+  "longdescription": "Extension for GenericSetup, support for LDAP and AD", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db36f24a7d56e042a6f03c8b48c6011f", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vs.genericsetup.ldap/vs.genericsetup.ldap-1.2.tar.gz"
+}

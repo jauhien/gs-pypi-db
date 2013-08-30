@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "General emulation framework for testing of peer-to-peer applications aiming to be highly usable, configurable and extensible.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Slavka Jaromerska", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "slavkajaromerska"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "General emulation framework for testing of peer-to-peer applications aiming to be highly usable, configurable and extensible.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f177d535bcd29a7935986e6f17a8650", 
+  "source_uri": "https://pypi.python.org/packages/source/P/P2PEM/P2PEM-0.1.tar.gz"
+}

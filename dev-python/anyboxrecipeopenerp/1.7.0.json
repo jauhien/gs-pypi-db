@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A buildout recipe to install and configure OpenERP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/anybox.recipe.openerp", 
+  "info": {
+    "Author:": "Anybox", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/anybox.recipe.openerp", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ccomb, gracinet"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A buildout recipe to install and configure OpenERP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b0ec141fbfbc29eeb19f8361150b95b6", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anybox.recipe.openerp/anybox.recipe.openerp-1.7.0.tar.gz"
+}

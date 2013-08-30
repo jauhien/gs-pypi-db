@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A dogpile lock, typically used as a component of a larger caching solution", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zzzeek/dogpile.core", 
+  "info": {
+    "Author:": "Mike Bayer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/zzzeek/dogpile.core", 
+    "Keywords:": "caching", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zzzeek"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A dogpile lock, typically used as a component of a larger caching solution", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5f76cce023d505a5375b07e094c3260f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dogpile.core/dogpile.core-0.4.1.tar.gz"
+}

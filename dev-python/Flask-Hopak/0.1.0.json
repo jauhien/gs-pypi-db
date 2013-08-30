@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Admin interface for Flask that uses Hopak models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/xen/flask-hopak", 
+  "info": {
+    "Author:": "Mikhail Kashkin (@xen), Ilya Petrov (@muromec)", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/xen/flask-hopak", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ilya.Petrov, xen", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Admin interface for Flask that uses Hopak models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c017b5b25c4e89a3c9fd4696ac047af", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Hopak/Flask-Hopak-0.1.0.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "tosca widget wrapper around jqgrid library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/twjqgrid", 
+  "info": {
+    "Author:": "Nicolas Laurance", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment", 
+        "ToscaWidgets"
+      ], 
+      "Framework": [
+        "TurboGears", 
+        "Widgets"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Widget Sets"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/twjqgrid", 
+    "Keywords:": "toscawidgets.widgets,jquery,grid,jqgrid", 
+    "Package Index Owner:": "nlaurance"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "tosca widget wrapper around jqgrid library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc32203e940d2ec35913c62a8b1bf889", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tw.jqgrid/tw.jqgrid-0.3.2.tar.gz"
+}

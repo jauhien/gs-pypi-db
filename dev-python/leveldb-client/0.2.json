@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client for LevelDB REST Server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Anatolie Rotaru", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "ardevelop", 
+    "Platform:": "UNIX"
+  }, 
+  "license": "", 
+  "longdescription": "Client for LevelDB REST Server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e34fbdc70511a740fabb80783b3bbcc", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leveldb-client/leveldb-client-0.2.tar.gz"
+}

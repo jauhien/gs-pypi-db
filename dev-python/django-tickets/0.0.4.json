@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reusable django application providing a generic support ticket system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/byteweaver/django-tickets", 
+  "info": {
+    "Author:": "akuryou", 
+    "Home Page:": "https://github.com/byteweaver/django-tickets", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "byteweaver, noxan"
+  }, 
+  "license": "", 
+  "longdescription": "Reusable django application providing a generic support ticket system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "738605cdba35d5a962f8c4bb2b00ee0a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tickets/django-tickets-0.0.4.tar.gz"
+}

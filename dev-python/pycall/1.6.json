@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A flexible python library for creating and using Asterisk callfiles.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pycall.org/", 
+  "info": {
+    "Author:": "Randall Degges", 
+    "Home Page:": "http://pycall.org/", 
+    "License:": "http://www.gnu.org/licenses/gpl-3.0.txt", 
+    "Package Index Owner:": "rdegges"
+  }, 
+  "license": "", 
+  "longdescription": "A flexible python library for creating and using Asterisk callfiles.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46b8b903b9fcde4ac295842d4092fdf5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycall/pycall-1.6.tar.gz"
+}

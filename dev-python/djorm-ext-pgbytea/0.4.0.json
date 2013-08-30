@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Core module of django orm extensions package. Is a collection of third party plugins build in one unified package.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/niwibe/djorm-ext-pgbytea", 
+  "info": {
+    "Author:": "Andrey Antukh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/niwibe/djorm-ext-pgbytea", 
+    "License:": "BSD", 
+    "Package Index Owner:": "niwibe", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Core module of django orm extensions package. Is a collection of third party plugins build in one unified package.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7bb1686804c56dee4bad26e4e5e531f3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djorm-ext-pgbytea/djorm-ext-pgbytea-0.4.0.tar.gz"
+}

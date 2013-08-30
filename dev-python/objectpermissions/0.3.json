@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A method for adding object-level or row-level permissions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://opensource.washingtontimes.com/projects/objectpermissions/", 
+  "info": {
+    "Author:": "Corey Oordt", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Security"
+      ]
+    }, 
+    "Home Page:": "http://opensource.washingtontimes.com/projects/objectpermissions/", 
+    "Package Index Owner:": "coordt"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A method for adding object-level or row-level permissions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "634c21bbbd721c5ceec59e74b8a8e8ed", 
+  "source_uri": "https://pypi.python.org/packages/source/o/objectpermissions/objectpermissions-0.3.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Password reset tool for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.PasswordResetTool", 
+  "info": {
+    "Author:": "J. Cameron Cooper", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.PasswordResetTool", 
+    "Keywords:": "password reset plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "hannosch, optilude, wichert, davisagli, esteele, laurencerowe, evilbungle"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Password reset tool for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "74b46348d023052285124683bf122272", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PasswordResetTool/Products.PasswordResetTool-2.0.15.zip"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is a generic payment app for django using Netaxept", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fivethreeo/django-netaxept/", 
+  "info": {
+    "Author:": "Oyvind Saltvik", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fivethreeo/django-netaxept/", 
+    "Package Index Owner:": "fivethreeo"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "This is a generic payment app for django using Netaxept", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21e193a1b6ae575f5116d212ca8d6886", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-netaxept/django-netaxept-1.0.zip"
+}

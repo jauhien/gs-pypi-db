@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A way of allowing subdomains to be served by the same project, and associating objects with particular subdomains.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mysociety/django-subdomain-instances", 
+  "info": {
+    "Author:": "mySociety", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mysociety/django-subdomain-instances", 
+    "Package Index Owner:": "mhl20, matthew"
+  }, 
+  "license": "", 
+  "longdescription": "A way of allowing subdomains to be served by the same project, and associating objects with particular subdomains.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ad072fd57cc5abf280724450c557534", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-subdomain-instances/django-subdomain-instances-0.1.tar.gz"
+}

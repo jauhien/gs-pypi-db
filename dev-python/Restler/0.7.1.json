@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RESTful base controller for Pylons 1.0.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/wyatt/restler", 
+  "info": {
+    "Author:": "Wyatt L Baldwin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pylons"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/wyatt/restler", 
+    "Keywords:": "web pylons controller REST WSGI", 
+    "License:": "BSD/MIT", 
+    "Package Index Owner:": "wyatt"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "RESTful base controller for Pylons 1.0.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e40ce4f46dc9b7ed61b07f9e65a864aa", 
+  "source_uri": "https://pypi.python.org/packages/source/R/Restler/Restler-0.7.1.tar.gz"
+}

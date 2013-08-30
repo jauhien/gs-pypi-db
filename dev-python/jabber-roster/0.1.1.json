@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool for listing Jabber roster contacts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/jabber-roster", 
+  "info": {
+    "Author:": "Kamil Paral", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://launchpad.net/jabber-roster/+download", 
+    "Home Page:": "https://launchpad.net/jabber-roster", 
+    "Keywords:": "Jabber XMPP roster contacts commandline", 
+    "License:": "GNU Affero GPL v3", 
+    "Package Index Owner:": "kamil.paral"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Tool for listing Jabber roster contacts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d84afe2874999bad5b627db24a0f4e5", 
+  "source_uri": "https://launchpad.net/jabber-roster/+download"
+}

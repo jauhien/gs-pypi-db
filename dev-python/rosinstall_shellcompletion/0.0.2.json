@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Linux shell completion for rosinstall commands", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/rosinstall", 
+  "info": {
+    "Author:": "Tully Foote", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Unix Shell"
+      ]
+    }, 
+    "Home Page:": "http://www.ros.org/wiki/rosinstall", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ijt, tfoote, dthomas"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Linux shell completion for rosinstall commands", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4836d94190a8c26e05f2388456df4fc1", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rosinstall_shellcompletion/rosinstall_shellcompletion-0.0.2.tar.gz"
+}

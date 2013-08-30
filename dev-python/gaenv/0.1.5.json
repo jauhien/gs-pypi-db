@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool to manage packages for google app engine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/faisalraja/gaenv", 
+  "info": {
+    "Author:": "Faisal Raja", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/faisalraja/gaenv", 
+    "Keywords:": "google app engine environment tool", 
+    "License:": "MIT", 
+    "Package Index Owner:": "faisalraja"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Tool to manage packages for google app engine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f84523658e859a9f95b8dd64b80aef3f", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gaenv/gaenv-0.1.5.tar.gz"
+}

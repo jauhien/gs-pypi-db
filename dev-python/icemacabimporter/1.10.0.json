@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Import infrastructure for icemac.addressbook", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/icemac.ab.importer", 
+  "info": {
+    "Author:": "Michael Howitz", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "German"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/icemac.ab.importer", 
+    "Keywords:": "icemac.addressbook", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "icemac"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Import infrastructure for icemac.addressbook", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f02beede7e36a01605b6a18c5a1248d7", 
+  "source_uri": "https://pypi.python.org/packages/source/i/icemac.ab.importer/icemac.ab.importer-1.10.0.zip"
+}

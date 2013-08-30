@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple, unified API for multiple data stores", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/datastore/datastore", 
+  "info": {
+    "Author:": "Juan Batiz-Benet", 
+    "Categories": {
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://github.com/datastore/datastore", 
+    "Keywords:": "datastore,unified api,database", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jbenet"
+  }, 
+  "license": "", 
+  "longdescription": "simple, unified API for multiple data stores", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "52e20f7abc06cd53a63a56a063bad11b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/datastore/datastore-0.3.6.tar.gz"
+}

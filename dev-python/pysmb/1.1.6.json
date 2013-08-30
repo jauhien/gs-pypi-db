@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pysmb is an experimental SMBCIFS library written in Python to support file sharing between Windows and Linux machines", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://miketeo.net/projects/pysmb", 
+  "info": {
+    "Author:": "Michael Teo", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "zlib/libpng License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pysmb", 
+    "Home Page:": "http://miketeo.net/projects/pysmb", 
+    "Keywords:": "windows samba cifs sharing ftp smb linux", 
+    "License:": "zlib/libpng", 
+    "Package Index Owner:": "miketeo"
+  }, 
+  "license": "zlib/libpng License", 
+  "longdescription": "pysmb is an experimental SMBCIFS library written in Python to support file sharing between Windows and Linux machines", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "465c767dd670fa018165a837bc3a2b3f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysmb/pysmb-1.1.6.tar.gz"
+}

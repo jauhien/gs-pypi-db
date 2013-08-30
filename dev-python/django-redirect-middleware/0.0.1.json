@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Remake of standart Django redirect middleware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Dmitry Sobolev", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Freely Distributable"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "Ivan.Gromov, Propp, victor.smirnov, evgeniy.gulitsyn, a.iv", 
+    "Package Index Owner:": "Propp"
+  }, 
+  "license": "Freely Distributable", 
+  "longdescription": "Remake of standart Django redirect middleware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5c6706bf219eaf47d36e6f8e3020ccc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-redirect-middleware/django-redirect-middleware-0.0.1.tar.gz"
+}

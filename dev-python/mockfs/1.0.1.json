@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mock filesystem implementation for unit tests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mockfs/mockfs", 
+  "info": {
+    "Author:": "David Aguilar", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mockfs/mockfs", 
+    "Keywords:": "unittest,mockfs,filesystem", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "davvid", 
+    "Package Index Owner:": "davvid, zyga", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Mock filesystem implementation for unit tests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9c28e5fa63c8a6733863e68bf603b57f", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mockfs/mockfs-1.0.1.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library to parse, create and handle HL7 v2.x messages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/crs4/hl7apy", 
+  "info": {
+    "Author:": "Daniela Ghironi, Vittorio Meloni, Alessandro Sulis, Federico Caboni", 
+    "Categories": {
+      "Intended Audience": [
+        "Healthcare Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Medical Science Apps."
+      ]
+    }, 
+    "Download URL:": "https://github.com/crs4/hl7apy/tarball/v1.0.0-rc.1", 
+    "Home Page:": "https://github.com/crs4/hl7apy", 
+    "Keywords:": "HL7,Health Level 7,healthcare,python", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "ghira"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python library to parse, create and handle HL7 v2.x messages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7ca221ec903f694b6f29b155384b3cf", 
+  "source_uri": "https://github.com/crs4/hl7apy/tarball/v1.0.0-rc.1"
+}

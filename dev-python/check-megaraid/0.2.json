@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Nagios plugin for MegaRAID controllers under Linux", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/check-megaraid/", 
+  "info": {
+    "Author:": "Robert J. Tanner", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Download URL:": "http://bazaar.launchpad.net/~tanner/check-megaraid/check-megaraid", 
+    "Home Page:": "https://launchpad.net/check-megaraid/", 
+    "Keywords:": "nagios nagios2 plugin linux", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "tanner"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Nagios plugin for MegaRAID controllers under Linux", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://bazaar.launchpad.net/~tanner/check-megaraid/check-megaraid"
+}

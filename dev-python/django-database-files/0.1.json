@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A storage system for Django that stores uploaded files in the database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bfirsh/django-database-files/", 
+  "info": {
+    "Author:": "Ben Firshman", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bfirsh/django-database-files/", 
+    "Package Index Owner:": "bfirsh"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A storage system for Django that stores uploaded files in the database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dcfc9182d740217d51302d7f94b3d983", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-database-files/django-database-files-0.1.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone collective.groupspace view for assigning roles to participants", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.groupspace.roles", 
+  "info": {
+    "Author:": "Maik Roeder", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.groupspace.roles", 
+    "Keywords:": "groupspace,roles,pas,borg.localrole,grufspaces", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maikroeder"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone collective.groupspace view for assigning roles to participants", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44dc58ae2523bc4da819bad2ad308d7b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.groupspace.roles/collective.groupspace.roles-1.0.3.zip"
+}

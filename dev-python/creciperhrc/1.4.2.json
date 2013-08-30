@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for Redhat RC scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Keywords:": "buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m, achapman"
+  }, 
+  "license": "", 
+  "longdescription": "C Buildout recipe for Redhat RC scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "97e03cf373886a140f2b09aaba01ea23", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.recipe.rhrc/zc.recipe.rhrc-1.4.2.tar.gz"
+}

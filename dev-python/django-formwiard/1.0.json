@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A FormWiard for Django with multiple storage backends", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/stephrdev/django-formwizard/", 
+  "info": {
+    "Author:": "Stephan Jaekel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/stephrdev/django-formwizard/", 
+    "Package Index Owner:": "stephrdev"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A FormWiard for Django with multiple storage backends", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d615089a66a3767bcaa67a0e032afd6e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-formwizard/django-formwizard-1.0.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a library of functions for connecting external apps tofrom opencore", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ethan Jucovy", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "a library of functions for connecting external apps tofrom opencore", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ca57cbedc3b20350b59e9f903c82fff", 
+  "source_uri": "https://pypi.python.org/packages/source/l/libopencore/libopencore-0.7.1.tar.gz"
+}

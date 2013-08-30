@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simplifying third-party authentication for web applications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://velruse.readthedocs.org/en/latest/index.html", 
+  "info": {
+    "Author:": "Michael Merickel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//velruse", 
+    "Home Page:": "http://velruse.readthedocs.org/en/latest/index.html", 
+    "Keywords:": "oauth openid social auth facebook google pyramid rest", 
+    "Package Index Maintainer:": "mmerickel", 
+    "Package Index Owner:": "bbangert, mmerickel"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simplifying third-party authentication for web applications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "40cc41048817e248d9292933be194eeb", 
+  "source_uri": "https://pypi.python.org/packages/source/v/velruse/velruse-1.1.1.tar.gz"
+}

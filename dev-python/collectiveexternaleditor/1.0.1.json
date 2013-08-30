@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Specific Plone layer for Products.ExternalEditor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.externaleditor", 
+  "info": {
+    "Author:": "atReal", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.externaleditor", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "ajung", 
+    "Package Index Owner:": "f10w, tiazma, tbenita, ajung"
+  }, 
+  "license": "", 
+  "longdescription": "Specific Plone layer for Products.ExternalEditor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb3513048807cb2cd961eaafc08004c7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.externaleditor/collective.externaleditor-1.0.1.zip"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "BTree folder with the option to keep an ordering in the items", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.unioncms.org/repos/Products.orderedbtreefolder", 
+  "info": {
+    "Author:": "union.cms developers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.unioncms.org/repos/Products.orderedbtreefolder", 
+    "Keywords:": "union.cms zope python content", 
+    "License:": "GPL", 
+    "Package Index Owner:": "icemac"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "BTree folder with the option to keep an ordering in the items", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e0d28bc68bcc3a00dd9b36ddd9db3dc7", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.orderedbtreefolder/Products.orderedbtreefolder-1.3.0.tar.gz"
+}

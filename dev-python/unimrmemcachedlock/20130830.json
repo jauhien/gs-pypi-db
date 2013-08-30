@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Memcached based locking factory functions to provide shared locking (e.g. bet. eo-clients)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/unimr.memcachedlock", 
+  "info": {
+    "Author:": "Andreas Gabriel", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/unimr.memcachedlock", 
+    "Keywords:": "ZEO Zope Memcached Lock", 
+    "License:": "GPL", 
+    "Package Index Owner:": "agabriel"
+  }, 
+  "license": "", 
+  "longdescription": "Memcached based locking factory functions to provide shared locking (e.g. bet. eo-clients)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b06a1ab488dfc881634ecb211ede1a9b", 
+  "source_uri": "https://pypi.python.org/packages/source/u/unimr.memcachedlock/unimr.memcachedlock-0.1rc2-r144828.tar.gz"
+}

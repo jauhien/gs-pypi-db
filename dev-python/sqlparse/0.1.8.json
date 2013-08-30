@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Non-validating SQL parser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/andialbrecht/sqlparse", 
+  "info": {
+    "Author:": "Andi Albrecht", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sqlparse", 
+    "Home Page:": "https://github.com/andialbrecht/sqlparse", 
+    "License:": "BSD", 
+    "Package Index Owner:": "aalbrecht"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Non-validating SQL parser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd14f9304bed67bcec616eb43e8c3b1b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlparse/sqlparse-0.1.8.tar.gz"
+}

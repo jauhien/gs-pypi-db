@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C buildout extension to checkout develop eggs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/gp.svndevelop", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/gp.svndevelop", 
+    "Keywords:": "buildout extension svn develop", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gawel, thefunny42"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "C buildout extension to checkout develop eggs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e3932c9b8b3f7a91c2ab748f6b964653", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gp.svndevelop/gp.svndevelop-0.4.tar.gz"
+}

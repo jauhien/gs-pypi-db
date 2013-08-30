@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "grepath - find executables in PATH that match PATTERN", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gist.github.com/79233", 
+  "info": {
+    "Author:": "zed", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://gist.github.com/79233", 
+    "License:": "MIT", 
+    "Package Index Owner:": "zed", 
+    "Platform:": "Windows,Linux"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "grepath - find executables in PATH that match PATTERN", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c431792d4af7aef86ddc16e04f128bf", 
+  "source_uri": "https://pypi.python.org/packages/source/g/grepath/grepath-0.0.2.tar.bz2"
+}

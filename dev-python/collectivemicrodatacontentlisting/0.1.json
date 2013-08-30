@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Folders and collections listing support for microdata in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/keul/collective.microdata.contentlisting", 
+  "info": {
+    "Author:": "keul", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/keul/collective.microdata.contentlisting", 
+    "Keywords:": "plone microdata schema.org html5 listing folder", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul"
+  }, 
+  "license": "", 
+  "longdescription": "Folders and collections listing support for microdata in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b5e3cbc25a38880d74b256ab2b4fa7f0", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.microdata.contentlisting/collective.microdata.contentlisting-0.1.zip"
+}

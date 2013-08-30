@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Records gettext translation messages and synchronies to message catalogs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "License:": "BSD-like (http://repoze.org/license.html)", 
+    "Package Index Owner:": "malthe"
+  }, 
+  "license": "", 
+  "longdescription": "Records gettext translation messages and synchronies to message catalogs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8479a5c541f7806c806800dd4d9e9c4e", 
+  "source_uri": "https://pypi.python.org/packages/source/t/translationrecorder/translationrecorder-1.0.3.tar.gz"
+}

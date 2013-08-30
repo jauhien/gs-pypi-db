@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI Middleware for Managing ODB Database Connections", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "satchit, J1m"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI Middleware for Managing ODB Database Connections", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "232c2d533cb24d35c87bedafc9b44663", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.zodbwsgi/zc.zodbwsgi-0.3.0.tar.gz"
+}

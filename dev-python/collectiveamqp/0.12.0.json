@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous AMQP-integration for Plone (and ope2)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.zamqp", 
+  "info": {
+    "Author:": "Asko Soukka", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.zamqp", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "datakurre"
+  }, 
+  "license": "", 
+  "longdescription": "Asynchronous AMQP-integration for Plone (and ope2)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "783057638d38705e1b06e7687d6884f0", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.zamqp/collective.zamqp-0.12.0.zip"
+}

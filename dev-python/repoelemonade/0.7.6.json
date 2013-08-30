@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "repoe.lemonade is a collection of utilties that make it possibleto create ope CMF-like applications without requiring any particularpersistence mechanism. It makes use of the ope component architecture.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "web wsgi zope", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism, tseaver"
+  }, 
+  "license": "", 
+  "longdescription": "repoe.lemonade is a collection of utilties that make it possibleto create ope CMF-like applications without requiring any particularpersistence mechanism. It makes use of the ope component architecture.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "996ccd0695067dfb7639acaa44b4745b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.lemonade/repoze.lemonade-0.7.6.tar.gz"
+}

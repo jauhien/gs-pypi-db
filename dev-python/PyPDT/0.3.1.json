@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pythonic access to high energy particle data tables and PDG ID codes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andy Buckley", 
+    "Keywords:": "hep physics particle mass lifetime charge pid pdg ctau montecarlo", 
+    "License:": "GPL", 
+    "Package Index Owner:": "andybuckley"
+  }, 
+  "license": "", 
+  "longdescription": "Pythonic access to high energy particle data tables and PDG ID codes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f15861d7fb8e1918cea93c2e11460f5", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyPDT/PyPDT-0.3.1.tar.gz"
+}

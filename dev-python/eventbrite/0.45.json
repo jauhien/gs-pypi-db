@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pyhton client for Eventbrites HTTP-based API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/eventbrite/eventbrite-client-py", 
+  "info": {
+    "Author:": "Ryan Jarvinen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Object Brokering"
+      ]
+    }, 
+    "Home Page:": "http://github.com/eventbrite/eventbrite-client-py", 
+    "License:": "Apache", 
+    "Package Index Owner:": "ryanj, ryan.jarvinen, mtai, eventbrite"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "pyhton client for Eventbrites HTTP-based API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4c4ad3beeab76bff3faca9c6db17f36", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eventbrite/eventbrite-0.45.tar.gz"
+}

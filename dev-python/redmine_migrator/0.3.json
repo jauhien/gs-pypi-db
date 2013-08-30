@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Migrate Redmine data from SQLite to Postgres with consistent type conversion.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://redmine-migrator.readthedocs.org/en/latest/", 
+  "info": {
+    "Author:": "Maxim Avanov", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Download URL:": "https://github.com/avanov/redmine_migrator", 
+    "Home Page:": "https://redmine-migrator.readthedocs.org/en/latest/", 
+    "Keywords:": "cli utils redmine migrate sqlite postgres", 
+    "License:": "MIT", 
+    "Package Index Owner:": "2ndmax"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Migrate Redmine data from SQLite to Postgres with consistent type conversion.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f70a641d6548dc10eff564a147deea47", 
+  "source_uri": "https://github.com/avanov/redmine_migrator"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A dar based backup tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jfardello.github.com/Dardrive/", 
+  "info": {
+    "Author:": "Jos\u00e9 Manuel Fardello", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Backup"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/dardrive", 
+    "Home Page:": "http://jfardello.github.com/Dardrive/", 
+    "Keywords:": "dar cli backup python cloud", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "jfardello"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A dar based backup tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "67d4ebe97fb8f37e03ed1d5fdfe77067", 
+  "source_uri": "http://pypi.python.org/pypi/dardrive"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django reverse proxy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/benoitc/dj-revproxy", 
+  "info": {
+    "Author:": "Benoit Chesneau", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://github.com/benoitc/dj-revproxy", 
+    "License:": "BSD", 
+    "Package Index Owner:": "benoitc"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django reverse proxy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ef36ae6fcfb5d1d4744018f0e4da6ba", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dj-revproxy/dj-revproxy-0.2.1.tar.gz"
+}

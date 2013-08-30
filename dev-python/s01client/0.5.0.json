@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JSON-RPC 2.0 s01.worker client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/s01.client", 
+  "info": {
+    "Author:": "Roger Ineichen, Projekt01 GmbH", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/s01.client", 
+    "Keywords:": "scrapy p01 s01 worker json-rpc proxy client zope zope3", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "agroszer, projekt01"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "JSON-RPC 2.0 s01.worker client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1852a1afcb95a8dccd6ac626febbd370", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s01.client/s01.client-0.5.0.zip"
+}

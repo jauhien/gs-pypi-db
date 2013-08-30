@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An asynchronous Spore Python API using Twisted.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/txspore", 
+  "info": {
+    "Author:": "Duncan McGreggor", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/txspore", 
+    "License:": "MIT", 
+    "Package Index Owner:": "oubiwann"
+  }, 
+  "license": "", 
+  "longdescription": "An asynchronous Spore Python API using Twisted.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33a6ccff0c8a60b06c6767afcc8c6afa", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txSpore/txSpore-0.0.1.tar.gz"
+}

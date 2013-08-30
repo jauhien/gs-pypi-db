@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package to intercept all calls to a CloudOOO Server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Douglas Camata", 
+    "License:": "GPL", 
+    "Package Index Owner:": "nsi"
+  }, 
+  "license": "", 
+  "longdescription": "A package to intercept all calls to a CloudOOO Server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf9e2f47324786d2c969d76883c03f9a", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nsi.cloudooomanager/nsi.cloudooomanager-0.2.5.tar.gz"
+}

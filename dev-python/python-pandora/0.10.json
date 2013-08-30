@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to access pandora.com. Based on the work from httpforum.xbmc.orgshowthread.phpt70471 and from Pithos", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Stefan Richter", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ]
+    }, 
+    "Package Index Owner:": "02strich"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Library to access pandora.com. Based on the work from httpforum.xbmc.orgshowthread.phpt70471 and from Pithos", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "70a8f7ea2f1d8c53023df9b5d991f93e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-pandora/python-pandora-0.10.tar.gz"
+}

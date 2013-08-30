@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python library for queryingupdating Saleforce.com data via SOAP API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/salesforce-beatbox/", 
+  "info": {
+    "Author:": "Simon Fell et al", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/salesforce-beatbox/", 
+    "Keywords:": "python salesforce salesforce.com", 
+    "License:": "GNU GENERAL PUBLIC LICENSE Version 2", 
+    "Package Index Owner:": "brianfive, andrewburkhalter, jessesnyder, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "A Python library for queryingupdating Saleforce.com data via SOAP API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c4e231701f732384c3e92f0357b8bf8a", 
+  "source_uri": "https://pypi.python.org/packages/source/b/beatbox/beatbox-20.0.zip"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of templatetags and filters to use restructured text inside django templates.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-rstify/", 
+  "info": {
+    "Author:": "Martin Mahner", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/django-rstify/", 
+    "Package Index Owner:": "bartTC"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A set of templatetags and filters to use restructured text inside django templates.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95ff57daabd8486cd06a5f1d522823bd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-rstify/django-rstify-0.2.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A DataONE Command-line interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dataone.org", 
+  "info": {
+    "Author:": "DataONE Project", 
+    "Documentation:": "http://pythonhosted.org//dataone.cli", 
+    "Home Page:": "http://dataone.org", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "dataone"
+  }, 
+  "license": "", 
+  "longdescription": "A DataONE Command-line interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e1dfe6dbf1862f0f95160246d961574", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dataone.cli/dataone.cli-1.2.0RC3.tar.gz"
+}

@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Sentry plugin that adds support for geo data.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/faulkner/sentry-geo", 
+  "info": {
+    "Author:": "Chris Faulkner", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ]
+    }, 
+    "Home Page:": "http://github.com/faulkner/sentry-geo", 
+    "Package Index Owner:": "chrisfaulkner"
+  }, 
+  "license": "", 
+  "longdescription": "A Sentry plugin that adds support for geo data.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b988fb9ff8d1b5d521622043cb1f481", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-geo/sentry-geo-0.0.0.tar.gz"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "distributing activities of the tox tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/hpk42/detox", 
+  "info": {
+    "Author:": "holger krekel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/hpk42/detox", 
+    "License:": "AGPL3", 
+    "Package Index Owner:": "hpk", 
+    "Platform:": "unix"
+  }, 
+  "license": "", 
+  "longdescription": "distributing activities of the tox tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "043c05d538ffb6fe9ffbadc6866be566", 
+  "source_uri": "https://pypi.python.org/packages/source/d/detox/detox-0.9.2.tar.gz"
+}

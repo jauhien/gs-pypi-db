@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Module for retrieving and parsing the WHOIS data for a domain. Supports most domains. Requires jwhois to be installed.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cryto.net/pythonwhois", 
+  "info": {
+    "Author:": "Sven Slootweg", 
+    "Home Page:": "http://cryto.net/pythonwhois", 
+    "Package Index Owner:": "Sven.Slootweg_2"
+  }, 
+  "license": "", 
+  "longdescription": "Module for retrieving and parsing the WHOIS data for a domain. Supports most domains. Requires jwhois to be installed.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "caf36b3b1228fc0064c1291ee8300619", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pythonwhois/pythonwhois-1.2.2.tar.gz"
+}

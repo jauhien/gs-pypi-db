@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple, pluggable app for attaching meta tags to objects with their own views.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cpharmston/django-metatags", 
+  "info": {
+    "Author:": "Chuck Harmston", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cpharmston/django-metatags", 
+    "License:": "Dual-licensed under MIT and GPL", 
+    "Package Index Owner:": "cpharmston"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple, pluggable app for attaching meta tags to objects with their own views.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77f8357fafb07f35d7a1c6f9a8a4c477", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-metatags/django-metatags-0.1.tar.gz"
+}

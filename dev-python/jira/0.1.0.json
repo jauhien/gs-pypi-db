@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client for Jira (over XMLRPC)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/tebeka/jira/src", 
+  "info": {
+    "Author:": "Miki Tebeka", 
+    "Home Page:": "https://bitbucket.org/tebeka/jira/src", 
+    "License:": "MIT", 
+    "Package Index Owner:": "tebeka"
+  }, 
+  "license": "", 
+  "longdescription": "Client for Jira (over XMLRPC)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2abccb3dfc1d30ad50b45bf855f3fbdb", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jira/jira-0.1.0.tar.gz"
+}

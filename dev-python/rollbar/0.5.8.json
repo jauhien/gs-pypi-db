@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Logs exceptions and other data to Rollbar. Provides a generic interface, as well as a Django middleware and a Pyramid tween.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rollbar/pyrollbar", 
+  "info": {
+    "Author:": "Brian Rue", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rollbar/pyrollbar", 
+    "Package Index Owner:": "coryvirok, brianr, sbezboro"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Logs exceptions and other data to Rollbar. Provides a generic interface, as well as a Django middleware and a Pyramid tween.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a7c7b05cb1ae5ae4bdcca19788324114", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rollbar/rollbar-0.5.8.tar.gz"
+}

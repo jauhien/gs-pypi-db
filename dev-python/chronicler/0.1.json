@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django App for preserving revisions of modified Model Objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/analytehealth/chronicler", 
+  "info": {
+    "Author:": "Analyte Health", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/analytehealth/chronicler", 
+    "Package Index Owner:": "analytehealth"
+  }, 
+  "license": "", 
+  "longdescription": "A Django App for preserving revisions of modified Model Objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7992489aeef55fd1b7d77478994741b2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chronicler/chronicler-0.1.tar.gz"
+}

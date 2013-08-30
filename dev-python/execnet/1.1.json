@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "execnet rapid multi-Python deployment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "holger krekel and others", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "License:": "GPL V2 or later", 
+    "Package Index Owner:": "hpk, ronny", 
+    "Platform:": "unix,linux,osx,cygwin,win32"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "execnet rapid multi-Python deployment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be885ccd9612966bb81839670d2da099", 
+  "source_uri": "https://pypi.python.org/packages/source/e/execnet/execnet-1.1.zip"
+}

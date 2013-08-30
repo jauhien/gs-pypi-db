@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module for doing common transactions in Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.corpb2c.com/django-transactional", 
+  "info": {
+    "Author:": "Nicolas Valcarcel Scerpella", 
+    "Home Page:": "http://code.corpb2c.com/django-transactional", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nxvl"
+  }, 
+  "license": "", 
+  "longdescription": "Python module for doing common transactions in Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "45d5a78cb76b6cfc7020bda1c88295d4", 
+  "source_uri": "https://pypi.python.org/packages/source/D/Django-transactional/Django-transactional-0.6.1.tar.gz"
+}

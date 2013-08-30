@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A new theme for Plone 3.0", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/", 
+  "info": {
+    "Author:": "Cornelis Kolbach and Alexander Limi", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "User Interfaces"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/", 
+    "Keywords:": "Plone theme tableless", 
+    "License:": "GPL", 
+    "Package Index Owner:": "wichert, optilude"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A new theme for Plone 3.0", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c68bf79c5c3e14662a7b2493ba652888", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.NuPlone/Products.NuPlone-1.0b3.tar.gz"
+}

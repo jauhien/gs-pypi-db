@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds i18nl10n support to Flask applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lepture/flask-babel", 
+  "info": {
+    "Author:": "Hsiaoming Yang", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lepture/flask-babel", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lepture", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds i18nl10n support to Flask applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9934a48f573db3ea1086d66188d5bdb1", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Babel2/Flask-Babel2-0.1.tar.gz"
+}

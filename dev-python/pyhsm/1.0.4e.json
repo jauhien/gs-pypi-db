@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python code for talking to a YubiHSM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.yubico.com/", 
+  "info": {
+    "Author:": "Fredrik Thulin", 
+    "Home Page:": "http://www.yubico.com/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dain"
+  }, 
+  "license": "", 
+  "longdescription": "Python code for talking to a YubiHSM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b367c4ac1798342ffa0e3f00806a731", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyhsm/pyhsm-1.0.4e.tar.gz"
+}

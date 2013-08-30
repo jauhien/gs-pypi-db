@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compute modal decompositions and reduced-order models easily, efficiently, and in parallel.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Brandt Belson, Jonathan Tu, and Clarence W. Rowley", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//modred", 
+    "License:": "Free BSD", 
+    "Package Index Owner:": "belson17"
+  }, 
+  "license": "", 
+  "longdescription": "Compute modal decompositions and reduced-order models easily, efficiently, and in parallel.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9034fe4b77a24b6a66e81bb9c6e287d7", 
+  "source_uri": "https://pypi.python.org/packages/source/m/modred/modred-1.0.1.tar.gz"
+}

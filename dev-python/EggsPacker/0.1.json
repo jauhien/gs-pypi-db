@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A very simple egg fetcher", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/cdevienne/eggspacker/", 
+  "info": {
+    "Author:": "Christophe de Vienne", 
+    "Home Page:": "https://bitbucket.org/cdevienne/eggspacker/", 
+    "License:": "Beer-ware", 
+    "Package Index Owner:": "cdevienne"
+  }, 
+  "license": "", 
+  "longdescription": "A very simple egg fetcher", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7117a6a9bb01d4c48e75ffc8991d2edb", 
+  "source_uri": "https://pypi.python.org/packages/source/E/EggsPacker/EggsPacker-0.1.tar.gz"
+}

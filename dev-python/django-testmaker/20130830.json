@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package to help automate creation of testing in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-testmaker/", 
+  "info": {
+    "Author:": "Eric Holscher", 
+    "Home Page:": "http://code.google.com/p/django-testmaker/", 
+    "Package Index Owner:": "ericholscher"
+  }, 
+  "license": "", 
+  "longdescription": "A package to help automate creation of testing in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01a7f0297faacbcf968042388a5327bf", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-testmaker/django-testmaker-0.2a3.tar.gz"
+}

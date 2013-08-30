@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ReST-based Sphinx documentation from GIR files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/matze/gir2rst", 
+  "info": {
+    "Author:": "Matthias Vogelgesang", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "http://github.com/matze/gir2rst", 
+    "Keywords:": "rst,gir", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "Matthias.Vogelgesang"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "ReST-based Sphinx documentation from GIR files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "710f6eff153b7e9b3f57b7830d62509e", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gir2rst/gir2rst-0.4.tar.gz"
+}

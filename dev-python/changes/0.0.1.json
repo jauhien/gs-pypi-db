@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generates a github changelog, tags and uploads your python library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/michaeljoseph/changes", 
+  "info": {
+    "Author:": "Michael Joseph", 
+    "Home Page:": "https://github.com/michaeljoseph/changes", 
+    "Package Index Owner:": "Michael.Joseph"
+  }, 
+  "license": "", 
+  "longdescription": "Generates a github changelog, tags and uploads your python library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73f9f11cf6c93a9f2b531a976f83b9ff", 
+  "source_uri": "https://pypi.python.org/packages/source/c/changes/changes-0.0.1.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a plugin to integrate Twisted trial with Ned Batchelders coverage.py", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tahoe-lafs.org/trac/trialcoverage", 
+  "info": {
+    "Author:": "Brian Warner", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://tahoe-lafs.org/trac/trialcoverage", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zooko"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "a plugin to integrate Twisted trial with Ned Batchelders coverage.py", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a75dd3e952d1ff2e54bd56bbd381e72e", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trialcoverage/trialcoverage-0.3.12.tar.gz"
+}

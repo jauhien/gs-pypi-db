@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Aggregate values in FITS headers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stsci.edu/resources/software_hardware/pyraf/stsci_python", 
+  "info": {
+    "Author:": "Michael Droettboom", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.stsci.edu/resources/software_hardware/pyraf/stsci_python", 
+    "Package Index Owner:": "stsci_ssb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Aggregate values in FITS headers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "00aa20a3f359d08302148a2d29557dd8", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fitsblender/fitsblender-0.2.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rich-text portlet for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "pelle, mustap", 
+    "Package Index Owner:": "malthe, mustap"
+  }, 
+  "license": "", 
+  "longdescription": "Rich-text portlet for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6639be67f33d07ba7f6d157046284d09", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.rich/collective.portlet.rich-0.4.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Turn your models into remote resources that you can access through Djangos ORM.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.welldev.org/django-roa/wiki/Home", 
+  "info": {
+    "Author:": "David Larlet", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Download URL:": "http://code.welldev.org/django-roa/downloads/", 
+    "Home Page:": "http://code.welldev.org/django-roa/wiki/Home", 
+    "License:": "BSD", 
+    "Package Index Owner:": "davidbgk"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Turn your models into remote resources that you can access through Djangos ORM.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "238c331fccd9875aca356f5a4f309db1", 
+  "source_uri": "http://code.welldev.org/django-roa/downloads/"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SoX based audio file merge-n-splitter appropriate to resplit audio books.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/idlesign/letmehear", 
+  "info": {
+    "Author:": "Igor 'idle sign' Starikov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio", 
+        "Conversion"
+      ]
+    }, 
+    "Home Page:": "http://github.com/idlesign/letmehear", 
+    "Package Index Owner:": "idlesign"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "SoX based audio file merge-n-splitter appropriate to resplit audio books.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "475dfbd3f341c149b4d9fefc2cd0cec6", 
+  "source_uri": "https://pypi.python.org/packages/source/l/letmehear/letmehear-0.5.tar.gz"
+}

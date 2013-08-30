@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A gcode generator to 3D print objects, directly from a python based model. Forget slicers, and build stuff directly from code ", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/madlag/fabby", 
+  "info": {
+    "Author:": "Francois Lagunas", 
+    "Home Page:": "https://github.com/madlag/fabby", 
+    "Keywords:": "3d printing reprap gcode", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Francois.Lagunas"
+  }, 
+  "license": "", 
+  "longdescription": "A gcode generator to 3D print objects, directly from a python based model. Forget slicers, and build stuff directly from code ", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a84ae7c738a4b25ad2bc2fbbf0fae72a", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fabby/fabby-0.01.tar.gz"
+}

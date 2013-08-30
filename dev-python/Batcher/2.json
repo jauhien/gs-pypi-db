@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cut sliceable objects into batches, eg for paging display on a website", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Oliver Cope", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "olly"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Cut sliceable objects into batches, eg for paging display on a website", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf65c0f1231655fc0579727f3fa5b19f", 
+  "source_uri": "https://pypi.python.org/packages/source/B/Batcher/Batcher-2.tar.gz"
+}

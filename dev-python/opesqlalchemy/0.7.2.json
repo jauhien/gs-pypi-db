@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Minimal opeSQLAlchemy transaction integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zope.sqlalchemy", 
+  "info": {
+    "Author:": "Laurence Rowe", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zope.sqlalchemy", 
+    "Keywords:": "zope zope3 sqlalchemy", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "laurencerowe, chrism"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Minimal opeSQLAlchemy transaction integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b654e5d144ed141e13b42591a21a4868", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zope.sqlalchemy/zope.sqlalchemy-0.7.2.zip"
+}

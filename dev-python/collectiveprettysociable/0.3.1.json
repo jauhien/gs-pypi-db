@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "prettySociable integration for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.prettysociable", 
+  "info": {
+    "Author:": "Thomas Massmann", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.prettysociable", 
+    "Keywords:": "Plone SocialMedia Web Links", 
+    "License:": "GPL", 
+    "Package Index Owner:": "thomas.massmann"
+  }, 
+  "license": "", 
+  "longdescription": "prettySociable integration for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5133974828ca8fcab739441073d6d94f", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.prettysociable/collective.prettysociable-0.3.1.tar.gz"
+}

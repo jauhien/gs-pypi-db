@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple tool to backup your Github and Bitbucket repositories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/srid/codebackup", 
+  "info": {
+    "Author:": "Sridhar Ratnakumar", 
+    "Home Page:": "http://github.com/srid/codebackup", 
+    "Keywords:": "github bitbucket backup mercurial git", 
+    "License:": "MIT", 
+    "Package Index Owner:": "srid"
+  }, 
+  "license": "", 
+  "longdescription": "A simple tool to backup your Github and Bitbucket repositories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "843d250e53f523d686e26c6d970f1ce8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/codebackup/codebackup-1.0b1.tar.gz"
+}

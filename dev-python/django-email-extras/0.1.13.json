@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django reusable app providing the ability to send PGP encrypted and multipart emails using the Django templating system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/stephenmcd/django-email-extras", 
+  "info": {
+    "Author:": "Stephen McDonald", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "https://github.com/stephenmcd/django-email-extras", 
+    "Package Index Owner:": "stephenmcd"
+  }, 
+  "license": "", 
+  "longdescription": "A Django reusable app providing the ability to send PGP encrypted and multipart emails using the Django templating system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b1dd962fbd8079c646f7d325451631a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-email-extras/django-email-extras-0.1.13.tar.gz"
+}

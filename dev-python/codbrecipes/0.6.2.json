@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipes for ODB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.zope.org/zc.zodbrecipes", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.zope.org/zc.zodbrecipes", 
+    "Keywords:": "zodb buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "janjaapdriessen", 
+    "Package Index Owner:": "janjaapdriessen, J1m"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "C Buildout recipes for ODB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "99cea0edbef153e15f38b8246daf0edc", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.zodbrecipes/zc.zodbrecipes-0.6.2.tar.gz"
+}

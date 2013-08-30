@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis backend for django sessions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lispython/redis_session_backend", 
+  "info": {
+    "Author:": "Alexandr Lispython", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lispython/redis_session_backend", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Lispython", 
+    "Platform:": "Linux,Mac"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Redis backend for django sessions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2200f584aee480c60d0813955d3c3b2f", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redis_session_backend/redis_session_backend-0.0.2.tar.gz"
+}

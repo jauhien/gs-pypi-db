@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a simple bridge to create PDFs from HTML views using PrinceXML", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Raptus/raptus.princexml", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Raptus/raptus.princexml", 
+    "License:": "GPL", 
+    "Package Index Owner:": "raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Provides a simple bridge to create PDFs from HTML views using PrinceXML", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bfaf545bd3f0651a0288bf51e1d33bf9", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.princexml/raptus.princexml-1.0a2.zip"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module dependency analysis tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/ronaldoussoren/modulegraph", 
+  "info": {
+    "Author:": "Ronald Oussoren", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//modulegraph", 
+    "Download URL:": "http://pypi.python.org/pypi/modulegraph", 
+    "Home Page:": "http://bitbucket.org/ronaldoussoren/modulegraph", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bob, ronaldoussoren", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python module dependency analysis tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b072312fd299d408e32c90583859da2f", 
+  "source_uri": "http://pypi.python.org/pypi/modulegraph"
+}

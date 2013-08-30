@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Modified ticket security for Trac.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/PrivateTicketsPlugin", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Download URL:": "http://trac-hacks.org/svn/privateticketsplugin/0.11#egg=TracPrivateTickets-dev", 
+    "Home Page:": "http://trac-hacks.org/wiki/PrivateTicketsPlugin", 
+    "Keywords:": "trac plugin ticket permissions security", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ryan.Ollos, coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "Modified ticket security for Trac.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3182c87c4aea1b4d5d5625d4ff647f36", 
+  "source_uri": "http://trac-hacks.org/svn/privateticketsplugin/0.11#egg=TracPrivateTickets-dev"
+}

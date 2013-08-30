@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple two-phase template rendering application useful for caching of authenticated requests.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-phased.readthedocs.org/", 
+  "info": {
+    "Author:": "Cody Soyland", 
+    "Bug Tracker:": "http://github.com/codysoyland/django-phased/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://django-phased.readthedocs.org/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "jezdez", 
+    "Package Index Owner:": "codysoyland, jezdez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple two-phase template rendering application useful for caching of authenticated requests.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44a9f05318b2283669f6eda560896c30", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-phased/django-phased-0.6.1.tar.gz"
+}

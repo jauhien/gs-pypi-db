@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An async beanstalkd client for Tornado", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nephics/beanstalkt", 
+  "info": {
+    "Author:": "Jacob Sondergaard", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/nephics/beanstalkt/get/v0.6.0.tar.gz", 
+    "Home Page:": "https://bitbucket.org/nephics/beanstalkt", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Maintainer:": "nephics", 
+    "Package Index Owner:": "nephics"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An async beanstalkd client for Tornado", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47b0e2c04cf4d4c0dc94f777141991c6", 
+  "source_uri": "https://bitbucket.org/nephics/beanstalkt/get/v0.6.0.tar.gz"
+}

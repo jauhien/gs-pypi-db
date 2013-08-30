@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a wheel type command interface for KDE, inspired by Kommando (KDE 3) and Neverwinternights.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://draketo.de/light/english/pyrad", 
+  "info": {
+    "Author:": "Arne Babenhauserheide", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "KDE"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://draketo.de/light/english/pyrad", 
+    "Keywords:": "babtools", 
+    "License:": "GNU GPL-3 or later", 
+    "Package Index Owner:": "ArneBab", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "a wheel type command interface for KDE, inspired by Kommando (KDE 3) and Neverwinternights.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c9899b5ce1113e7e76c1d915798f21e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyRadKDE/pyRadKDE-0.6.2.tar.gz"
+}

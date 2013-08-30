@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "plugin for django-selectable (to use with select2 UI)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/slafs/django-selectable-select2/", 
+  "info": {
+    "Author:": "Slawek Ehlert", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/slafs/django-selectable-select2/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "slafs"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "plugin for django-selectable (to use with select2 UI)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0cc635d13a3abae83c8d119ca56aa6e8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-selectable-select2/django-selectable-select2-0.2.3.tar.gz"
+}

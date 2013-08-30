@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Additional logging handlers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ulif.loghandlers", 
+  "info": {
+    "Author:": "Uli Fouquet", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 or later (LGPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ulif.loghandlers", 
+    "Home Page:": "http://pypi.python.org/pypi/ulif.loghandlers", 
+    "Keywords:": "logging logger rotating", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "ulif"
+  }, 
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)", 
+  "longdescription": "Additional logging handlers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a68aadefd3d0eb64db3d7d959116496b", 
+  "source_uri": "https://pypi.python.org/packages/source/u/ulif.loghandlers/ulif.loghandlers-0.1.1.tar.gz"
+}

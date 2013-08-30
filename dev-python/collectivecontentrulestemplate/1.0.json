@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone content rule for creating content based on templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.contentrules.template", 
+  "info": {
+    "Author:": "Luciano Pacheco", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.contentrules.template", 
+    "Keywords:": "plone content rules template", 
+    "License:": "GPL", 
+    "Package Index Owner:": "optilude, lucmult"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone content rule for creating content based on templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f0d1f643c37e794d12bcc8d86e04b72", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentrules.template/collective.contentrules.template-1.0.tar.gz"
+}

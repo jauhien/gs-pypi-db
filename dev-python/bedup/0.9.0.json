@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Deduplication for Btrfs filesystems", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/g2p/bedup", 
+  "info": {
+    "Author:": "Gabriel de Perthuis", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/g2p/bedup", 
+    "Keywords:": "btrfs deduplication filesystem dedup", 
+    "License:": "GNU GPL", 
+    "Package Index Owner:": "g2p"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Deduplication for Btrfs filesystems", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7b743397e2186e2540a83c857185c28a", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bedup/bedup-0.9.0.tar.gz"
+}

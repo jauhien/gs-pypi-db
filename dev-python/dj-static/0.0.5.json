@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Serve production static files with Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kennethreitz/dj-static", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kennethreitz/dj-static", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kennethreitz", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Serve production static files with Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59f26443a5293483c8f497b03bc6deca", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dj-static/dj-static-0.0.5.tar.gz"
+}

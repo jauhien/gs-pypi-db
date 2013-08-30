@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easier pdb debugging for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tomchristie/django-pdb", 
+  "info": {
+    "Author:": "Tom Christie", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tomchristie/django-pdb", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "tomchristie"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Easier pdb debugging for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "951e93a1384484aa547c1588252c1987", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pdb/django-pdb-0.3.2.tar.gz"
+}

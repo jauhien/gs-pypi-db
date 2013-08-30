@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple utility command line to generate a XML file for                  dynamic gnome wallpapers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ametaireau/gnome-background-generator/", 
+  "info": {
+    "Author:": "Alexis Metaireau", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "Gnome"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ametaireau/gnome-background-generator/", 
+    "Package Index Owner:": "alexis.metaireau"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "A simple utility command line to generate a XML file for                  dynamic gnome wallpapers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e25a63db17b082ce1bb79e7a597f73df", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gnome-background-generator/gnome-background-generator-1.1.2.tar.gz"
+}

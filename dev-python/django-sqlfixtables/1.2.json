@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Management command for fixing tables after model changes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/seveas/django-sqlfixtables", 
+  "info": {
+    "Author:": "Dennis Kaarsemaker", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/seveas/django-sqlfixtables", 
+    "Package Index Owner:": "seveas"
+  }, 
+  "license": "", 
+  "longdescription": "Management command for fixing tables after model changes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a626b917c4bdab3eee27e95f8a0dc616", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sqlfixtables/django-sqlfixtables-1.2.tar.gz"
+}

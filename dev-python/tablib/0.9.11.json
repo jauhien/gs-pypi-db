@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Format agnostic tabular data library (XLS, JSON, YAML, CSV)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python-tablib.org", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "http://python-tablib.org", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kennethreitz"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Format agnostic tabular data library (XLS, JSON, YAML, CSV)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "72ebb27dd1d2476d358dfc75fc90dc8f", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tablib/tablib-0.9.11.tar.gz"
+}

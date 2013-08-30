@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "User-to-User messaging system for Django, with gateway to AnonymousUser, moderation and thread management, user  exchange filters, inboxsentarchivestrash folders, support for apps auto-complete, notification, mailer.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/psam/django-postman/overview", 
+  "info": {
+    "Author:": "Patrick Samson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/psam/django-postman/overview", 
+    "Keywords:": "django messages messaging email moderation", 
+    "License:": "BSD", 
+    "Package Index Owner:": "maxcom"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "User-to-User messaging system for Django, with gateway to AnonymousUser, moderation and thread management, user  exchange filters, inboxsentarchivestrash folders, support for apps auto-complete, notification, mailer.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8849410377a9466c32ad9974073e65a7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-postman/django-postman-3.0.1.zip"
+}

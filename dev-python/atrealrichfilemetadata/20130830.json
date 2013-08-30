@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plugin for atreal.richfile that extracts metadata", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.atreal.net", 
+  "info": {
+    "Author:": "atReal", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.atreal.net", 
+    "Keywords:": "atreal plone richfile metadata", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "rbeylerian", 
+    "Package Index Owner:": "f10w, tbenita, drjnut, tiazma"
+  }, 
+  "license": "", 
+  "longdescription": "A plugin for atreal.richfile that extracts metadata", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb28bc6b6216d6389aa818578bedb9dd", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atreal.richfile.metadata/atreal.richfile.metadata-1.0.0rc1.tar.gz"
+}

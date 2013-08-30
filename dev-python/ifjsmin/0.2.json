@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI middleware for javascript compression.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zif.svn.sourceforge.net/viewvc/zif/zif.jsmin", 
+  "info": {
+    "Author:": "Jim Washington", 
+    "Home Page:": "http://zif.svn.sourceforge.net/viewvc/zif/zif.jsmin", 
+    "Keywords:": "jsmin wsgi middleware zope3", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fairwinds, jwashin"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI middleware for javascript compression.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dfa170d79767a52821424e223d8f6230", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zif.jsmin/zif.jsmin-0.2.tar.gz"
+}

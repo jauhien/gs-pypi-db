@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI middleware that does Rails style PUT and DELETE request emulation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/abiczo/emulaterest", 
+  "info": {
+    "Author:": "Andras Biczo", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/abiczo/emulaterest", 
+    "Keywords:": "web wsgi middleware rest", 
+    "License:": "MIT", 
+    "Package Index Owner:": "abiczo"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WSGI middleware that does Rails style PUT and DELETE request emulation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "35b69ebe278fc1d3617653c2b12df575", 
+  "source_uri": "https://pypi.python.org/packages/source/e/emulaterest/emulaterest-0.2.tar.gz"
+}

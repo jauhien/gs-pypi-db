@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe to manage jobs on a remote Jenkins CI server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tisto/collective.recipe.jenkinsjob", 
+  "info": {
+    "Author:": "Domen Ko\u017ear and Timo Stollenwerk", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tisto/collective.recipe.jenkinsjob", 
+    "License:": "gpl", 
+    "Package Index Owner:": "iElectric, timo"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout recipe to manage jobs on a remote Jenkins CI server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3eb695d8af855fa6704abb2463ada3ed", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.jenkinsjob/collective.recipe.jenkinsjob-1.0-alpha1.zip"
+}

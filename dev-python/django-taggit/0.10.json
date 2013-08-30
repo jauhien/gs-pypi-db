@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-taggit is a reusable Django application for simple tagging.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/alex/django-taggit/tree/master", 
+  "info": {
+    "Author:": "Alex Gaynor", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-taggit", 
+    "Home Page:": "http://github.com/alex/django-taggit/tree/master", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "apollo13", 
+    "Package Index Owner:": "apollo13, alexgaynor"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-taggit is a reusable Django application for simple tagging.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae250c6ce49be6cd49e1846dbce30f2f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-taggit/django-taggit-0.10.tar.gz"
+}

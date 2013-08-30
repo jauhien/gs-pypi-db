@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A DjangoNeo4j ORM layer based on the neo4j.py.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/neo4django", 
+  "info": {
+    "Author:": "Matt Luongo", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/neo4django", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mhluongo", 
+    "Platform:": "posix"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A DjangoNeo4j ORM layer based on the neo4j.py.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d18c12e3968afb14c9dca9a5122f32c", 
+  "source_uri": "https://pypi.python.org/packages/source/n/neo4django/neo4django-0.1.4.tar.gz"
+}

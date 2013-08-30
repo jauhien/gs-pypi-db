@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for organiing a collections of text for entity-centric stream processing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/trec-kba/kba-corpus", 
+  "info": {
+    "Author:": "Diffeo, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/trec-kba/kba-corpus", 
+    "Package Index Owner:": "jrf"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Tools for organiing a collections of text for entity-centric stream processing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5bf6ec43dfaeb8059a2dfd640b26dfa6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/streamcorpus/streamcorpus-0.2.22.tar.gz"
+}

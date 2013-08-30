@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Monte Carlo VIrtual Neutron Experiment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.danse.us/MCViNE", 
+  "info": {
+    "Author:": "Jiao Lin", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Download URL:": "http://dev.danse.us/packages/mcvine-1.0beta-src.tgz", 
+    "Home Page:": "http://docs.danse.us/MCViNE", 
+    "Keywords:": "neutron, neutron scattering, Monte Carlo, virtual experiment", 
+    "Maintainer:": "Jiao Lin", 
+    "Package Index Owner:": "linjiao", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "Monte Carlo VIrtual Neutron Experiment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://dev.danse.us/packages/mcvine-1.0beta-src.tgz"
+}

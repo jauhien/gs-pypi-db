@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python module for generating rabin fingerprints.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/aitjcize/pyrabin", 
+  "info": {
+    "Author:": "Wei-Ning Huang (AZ)", 
+    "Home Page:": "http://github.com/aitjcize/pyrabin", 
+    "License:": "GPL", 
+    "Package Index Owner:": "aitjcize"
+  }, 
+  "license": "", 
+  "longdescription": "A python module for generating rabin fingerprints.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c626149268175dd016c754c25b42dabf", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyRabin/PyRabin-0.3.tar.gz"
+}

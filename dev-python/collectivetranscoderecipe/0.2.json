@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recipe to setup a transcode daemon", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://unweb.me", 
+  "info": {
+    "Author:": "unweb.me", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://unweb.me", 
+    "Keywords:": "video plone zope transcoding recipe", 
+    "License:": "GPL", 
+    "Package Index Owner:": "dimo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Recipe to setup a transcode daemon", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15531fc7b9cefad187fe392e2977f7bc", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.transcode.recipe/collective.transcode.recipe-0.2.zip"
+}

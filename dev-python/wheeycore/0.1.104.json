@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A lightweight core library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/akorn/wheezy.core", 
+  "info": {
+    "Author:": "Andriy Kornatskyy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "System", 
+        "Benchmark"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//wheezy.core", 
+    "Home Page:": "https://bitbucket.org/akorn/wheezy.core", 
+    "Keywords:": "core benchmark collections config datetime db descriptor feistel i18n introspection json luhn mail pooling url uuid", 
+    "License:": "MIT", 
+    "Package Index Owner:": "akorn", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A lightweight core library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bca76e41ca9c4e6fa58ede0973c84044", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wheezy.core/wheezy.core-0.1.104.tar.gz"
+}

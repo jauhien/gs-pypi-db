@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for bcrypt", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bitbucket.org/ares/bcryptor/", 
+  "info": {
+    "Author:": "Jonas Melian", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.4"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://www.bitbucket.org/ares/bcryptor/", 
+    "Keywords:": "bcrypt,crypto,cryptography,hash,openbsd,password,security", 
+    "Package Index Owner:": "kless"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Python wrapper for bcrypt", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "681c3a0ec16af088e1b34f9af1f7e758", 
+  "source_uri": "https://pypi.python.org/packages/source/B/Bcryptor/Bcryptor-1.2.2.tar.gz"
+}

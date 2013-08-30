@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides an aggregation solution aimed at Plone sites with many different language versions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/slc.aggregation", 
+  "info": {
+    "Author:": "JC Brand, Syslab.com GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/slc.aggregation", 
+    "Keywords:": "syslab plone resource centralisation", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jcbrand, goibhniu, pilz, thomasw, do3cc"
+  }, 
+  "license": "", 
+  "longdescription": "Provides an aggregation solution aimed at Plone sites with many different language versions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "35fd431b6b65b9e45e70f059afde34cd", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slc.aggregation/slc.aggregation-1.3.zip"
+}

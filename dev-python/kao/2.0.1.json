@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple IRC notifier bot.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/BinetReseau/Kaoz", 
+  "info": {
+    "Author:": "Binet R\u00e9seau", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/kaoz/", 
+    "Home Page:": "http://github.com/BinetReseau/Kaoz", 
+    "Keywords:": "irc,notification,bot", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ioonag"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple IRC notifier bot.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b6faad5587f3feb02215a1d8dfc62b4", 
+  "source_uri": "http://pypi.python.org/pypi/kaoz/"
+}

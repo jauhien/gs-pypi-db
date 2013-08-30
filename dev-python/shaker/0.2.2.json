@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "EC2 Salt Minion Launcher", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rubic/shaker", 
+  "info": {
+    "Author:": "Jeff Bauer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rubic/shaker", 
+    "Keywords:": "salt,ec2,aws", 
+    "Package Index Owner:": "login.launchpad.net_36"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "EC2 Salt Minion Launcher", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b546d068cf8b16bbabe514ffeb13a827", 
+  "source_uri": "https://pypi.python.org/packages/source/s/shaker/shaker-0.2.2.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A more usable include tag for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pythonheads/inc", 
+  "info": {
+    "Author:": "Niels Wijk", 
+    "Home Page:": "http://github.com/pythonheads/inc", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nielsw"
+  }, 
+  "license": "", 
+  "longdescription": "A more usable include tag for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "411c36be118dbdfe80a0101cd780b950", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-inc/django-inc-0.3.tar.gz"
+}

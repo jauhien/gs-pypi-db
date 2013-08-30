@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple news plugin for django-cms 2.x", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zerok/cmsplugin-news/", 
+  "info": {
+    "Author:": "Horst Gutmann", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/zerok/cmsplugin-news/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "hvdklauw, zerok"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple news plugin for django-cms 2.x", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df8e0e7ce68c858159e22869a68b5780", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin-news/cmsplugin-news-0.4.2.tar.gz"
+}

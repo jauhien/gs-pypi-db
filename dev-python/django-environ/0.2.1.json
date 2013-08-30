@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django-environ allows you to utilie 12factor inspired environmentvariables to configure your Django application.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/joke2k/django-environ", 
+  "info": {
+    "Author:": "joke2k", 
+    "Bug Tracker:": "https://github.com/joke2k/django-environ/issues", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/joke2k/django-environ", 
+    "Keywords:": "django environment variables 12factor", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "joke2k"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django-environ allows you to utilie 12factor inspired environmentvariables to configure your Django application.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c8f80f2c2d8d9aeec64308008f334e9e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-environ/django-environ-0.2.1.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Flasky approach to distributed Django configuration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/delinhabit/django-kungfu", 
+  "info": {
+    "Author:": "Ion Scerbatiuc", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "https://github.com/delinhabit/django-kungfu", 
+    "Keywords:": "django settings overrides flasky", 
+    "License:": "BSD", 
+    "Package Index Owner:": "delinhabit"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Flasky approach to distributed Django configuration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b7675cbe4e9080e55e7845368d5ff0d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-kungfu/django-kungfu-0.1.tar.gz"
+}

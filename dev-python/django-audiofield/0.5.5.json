@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application which allows audio file upload and conversion to mp3, wav and ogg format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Star2Billing/django-audiofield", 
+  "info": {
+    "Author:": "Belaid Arezqui", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/Star2Billing/django-audiofield", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "areski"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django application which allows audio file upload and conversion to mp3, wav and ogg format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd9d75881b1d3998770ad36fe1c97e30", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-audiofield/django-audiofield-0.5.5.tar.gz"
+}

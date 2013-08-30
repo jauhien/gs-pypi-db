@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kill trailing whitespaces commit hook for br.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.piranha.org.ua/bzr-killtrailing/", 
+  "info": {
+    "Author:": "Alexander Solovyov", 
+    "Home Page:": "http://hg.piranha.org.ua/bzr-killtrailing/", 
+    "License:": "GNU GPL v2+", 
+    "Package Index Owner:": "piranha", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Kill trailing whitespaces commit hook for br.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b95fa46fb966c4e20dc20d0bab694d97", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bzr-killtrailing/bzr-killtrailing-1.1.tar.gz"
+}

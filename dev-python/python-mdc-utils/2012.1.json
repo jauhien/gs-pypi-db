@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automate exporting Mock Draft Central baseball ADP rankings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mattdennewitz/mdc-utils/", 
+  "info": {
+    "Author:": "Matt Dennewitz", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mattdennewitz/mdc-utils/", 
+    "Keywords:": "mockdraftcentral baseball data", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Matt.Dennewitz"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Automate exporting Mock Draft Central baseball ADP rankings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "344e85065ee60ca4374b5839f1118298", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-mdc-utils/python-mdc-utils-2012.1.tar.gz"
+}

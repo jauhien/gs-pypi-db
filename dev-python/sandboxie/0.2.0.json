@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to Sandboxie.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gg/sandboxie-py", 
+  "info": {
+    "Author:": "Gregg Gajic", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "https://github.com/gg/sandboxie-py", 
+    "Package Index Owner:": "gg"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python interface to Sandboxie.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "458b44a9f8a40f7ec38bf719dfdb7f02", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sandboxie/sandboxie-0.2.0.zip"
+}

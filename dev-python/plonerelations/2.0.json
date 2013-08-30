@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for defining and querying complex relationships between objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.relations", 
+  "info": {
+    "Author:": "Alec Mitchell", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.relations", 
+    "Keywords:": "references relationships plone", 
+    "License:": "GPL with container.txt covered by ZPL and owned by Zope Corp.", 
+    "Package Index Owner:": "alecm, fschulze, wichert, tesdal, hannosch"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for defining and querying complex relationships between objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a422b90480d687f94d08f7ecbe78fe3", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.relations/plone.relations-2.0.zip"
+}

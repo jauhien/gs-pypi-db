@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package to help configure nagios written in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://djagios.org/", 
+  "info": {
+    "Author:": "Jochen Maes", 
+    "Home Page:": "http://djagios.org/", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "sejo"
+  }, 
+  "license": "", 
+  "longdescription": "A package to help configure nagios written in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2e91d2866020369456043d56e5f0a54b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djagios/djagios-0.1.2.tar.gz"
+}

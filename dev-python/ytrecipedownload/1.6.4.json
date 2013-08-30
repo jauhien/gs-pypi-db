@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for downloading and extracting packages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/hexagonit/yt.recipe.download", 
+  "info": {
+    "Author:": "Kai Lautaportti", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/hexagonit/yt.recipe.download", 
+    "Keywords:": "development buildout recipe", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "Yusuke.Tsutsumi"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "c.buildout recipe for downloading and extracting packages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18b81559e5e9d98825faa270e0982c52", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yt.recipe.download/yt.recipe.download-1.6.4.tar.gz"
+}

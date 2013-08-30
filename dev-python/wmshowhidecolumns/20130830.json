@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows to show or hide the left or right portlet column per document", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/webmeisterei/wm.showhidecolumns", 
+  "info": {
+    "Author:": "Harald Friessnegger", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/webmeisterei/wm.showhidecolumns", 
+    "Keywords:": "plone,collective,portlets,columns,portletcolumn", 
+    "License:": "gpl", 
+    "Package Index Owner:": "frisi"
+  }, 
+  "license": "", 
+  "longdescription": "Allows to show or hide the left or right portlet column per document", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0199f48ddf3f2ef4506329b902a00743", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wm.showhidecolumns/wm.showhidecolumns-0.1rc1.zip"
+}

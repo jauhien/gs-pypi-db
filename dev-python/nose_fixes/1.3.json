@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plugin to make nose behave better.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/nose_fixes", 
+  "info": {
+    "Author:": "Chris Withers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//nose_fixes", 
+    "Home Page:": "http://packages.python.org/nose_fixes", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chrisw"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A plugin to make nose behave better.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "152ba81588620e13037ff6de00f7db57", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose_fixes/nose_fixes-1.3.tar.gz"
+}

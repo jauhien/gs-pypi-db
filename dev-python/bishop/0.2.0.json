@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Configuration Management", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://projects.chadwickmorris.com/bishop/", 
+  "info": {
+    "Author:": "Chad Morris", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Topic": [
+        "System", 
+        "Installation/Setup"
+      ]
+    }, 
+    "Home Page:": "http://projects.chadwickmorris.com/bishop/", 
+    "Keywords:": "configuration management", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mailchimp"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple Configuration Management", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e07aac05a4532a1517c6992fa6293efe", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bishop/bishop-0.2.0.tar.gz"
+}

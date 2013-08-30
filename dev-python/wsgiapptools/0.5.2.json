@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Collection of WSGI application tools including notification messages and cookie handling", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ish.io/projects/show/wsgiapptools", 
+  "info": {
+    "Author:": "Tim Parkin, Matt Goodall", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Widget Sets"
+      ]
+    }, 
+    "Home Page:": "http://ish.io/projects/show/wsgiapptools", 
+    "Keywords:": "wsgi,messages,cookie", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ish"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Collection of WSGI application tools including notification messages and cookie handling", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12d2afffb6219289603399c85c5ec6d0", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgiapptools/wsgiapptools-0.5.2.tar.gz"
+}

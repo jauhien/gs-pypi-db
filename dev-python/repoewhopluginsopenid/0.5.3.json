@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An OpenID plugin for repoe.who", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://quantumcore.org/docs/repoze.who.plugins.openid", 
+  "info": {
+    "Author:": "Christian Scholz, Friedrich Lindenberg", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://quantumcore.org/docs/repoze.who.plugins.openid", 
+    "Keywords:": "openid repoze who identification authentication plugin", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "mrtopf"
+  }, 
+  "license": "", 
+  "longdescription": "An OpenID plugin for repoe.who", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5e2c7f02709e324b59acef751ffc6b5", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.who.plugins.openid/repoze.who.plugins.openid-0.5.3.tar.gz"
+}

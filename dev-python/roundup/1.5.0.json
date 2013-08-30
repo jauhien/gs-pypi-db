@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple-to-use and -install issue-tracking system with command-line, web and e-mail interfaces. Highly customisable.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.roundup-tracker.org", 
+  "info": {
+    "Author:": "Ralf Schlatterbeck", 
+    "Bug Tracker:": "http://issues.roundup-tracker.org/", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Bug Tracking"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/roundup", 
+    "Home Page:": "http://www.roundup-tracker.org", 
+    "Package Index Maintainer:": "schlatterbeck", 
+    "Package Index Owner:": "richard, schlatterbeck"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple-to-use and -install issue-tracking system with command-line, web and e-mail interfaces. Highly customisable.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "964bcb0edb4f38dc08b4e78e7aff5c03", 
+  "source_uri": "http://pypi.python.org/pypi/roundup"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Minimal SSH command and control", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ansible.github.com/", 
+  "info": {
+    "Author:": "Michael DeHaan", 
+    "Bug Tracker:": "http://github.com/ansible/ansible/", 
+    "Home Page:": "http://ansible.github.com/", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "mpdehaan"
+  }, 
+  "license": "", 
+  "longdescription": "Minimal SSH command and control", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61aef50c636bb1b4d356a32ddae30884", 
+  "source_uri": "https://pypi.python.org/packages/source/a/ansible/ansible-1.2.3.tar.gz"
+}

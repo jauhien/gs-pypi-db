@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe for Baaar", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/bazaarrecipe", 
+  "info": {
+    "Author:": "foring.net", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/bazaarrecipe", 
+    "License:": "GPL", 
+    "Package Index Owner:": "visik7"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Buildout recipe for Baaar", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b4fe4d83c23a49d61cf96b2120446a03", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bazaarrecipeinfrae/bazaarrecipeinfrae-0.1.2dev.tar.gz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Edit the footer in the Plone Control Panel", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/IPnext/", 
+  "info": {
+    "Author:": "zedr", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/IPnext/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "zedr"
+  }, 
+  "license": "", 
+  "longdescription": "Edit the footer in the Plone Control Panel", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a538d59ebe2dcd686789e794a3a62824", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ipnext.site.editablefooter/ipnext.site.editablefooter-0.1.9.tar.gz"
+}

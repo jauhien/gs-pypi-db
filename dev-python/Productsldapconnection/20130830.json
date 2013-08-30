@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LDAP connection for ope", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.ldapconnection", 
+  "info": {
+    "Author:": "Ricardo Alves", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.ldapconnection", 
+    "Keywords:": "zope ldap", 
+    "License:": "GPL", 
+    "Package Index Owner:": "igbun"
+  }, 
+  "license": "", 
+  "longdescription": "LDAP connection for ope", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9ebfea943b7ff1a9be8430a276c8780", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ldapconnection/Products.ldapconnection-0.1a1.tar.gz"
+}

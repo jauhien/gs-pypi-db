@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Database storage for flup session middleware.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lukearno.com/projects/dbstore/", 
+  "info": {
+    "Author:": "Luke Arno", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://lukearno.com/projects/dbstore/", 
+    "Keywords:": "wsgi database mysql sessions flup", 
+    "License:": "LGPL2", 
+    "Package Index Owner:": "luke"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Database storage for flup session middleware.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "24046647fb20d74cdafb3647eb6e7887", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dbstore/dbstore-0.3.tar.gz"
+}

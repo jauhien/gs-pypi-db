@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Requests for header-sensitive servers (like Accept-Encoding)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kanzure/careful-requests", 
+  "info": {
+    "Author:": "Bryan Bishop", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kanzure/careful-requests", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kanzure", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Requests for header-sensitive servers (like Accept-Encoding)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "92ad0ba3fa477c7f84f7f8ef713189cf", 
+  "source_uri": "https://pypi.python.org/packages/source/c/careful-requests/careful-requests-0.1.4.tar.gz"
+}

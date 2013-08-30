@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Remote Python Call (RPyC), a transparent and symmetric RPC library modified for OpenProximity", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rpyc.sourceforge.net", 
+  "info": {
+    "Author:": "Tomer Filiba", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/projects/rpyc/files/main/3.2.1-openproximity", 
+    "Home Page:": "http://rpyc.sourceforge.net", 
+    "License:": "MIT", 
+    "Package Index Owner:": "manuelnaranjo", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Remote Python Call (RPyC), a transparent and symmetric RPC library modified for OpenProximity", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "980b0a9216699d973722ae4651d8704e", 
+  "source_uri": "http://sourceforge.net/projects/rpyc/files/main/3.2.1-openproximity"
+}

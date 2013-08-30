@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A TiddlyWeb plugin to allow the dispatching of tiddlers to non-Python handlers by serialising tiddler data to JSON", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tiddlywebplugins.jsondispatcher", 
+  "info": {
+    "Author:": "Ben Paddock", 
+    "Home Page:": "http://pypi.python.org/pypi/tiddlywebplugins.jsondispatcher", 
+    "Package Index Owner:": "pads", 
+    "Platform:": "Posix; MacOS X; Windows"
+  }, 
+  "license": "", 
+  "longdescription": "A TiddlyWeb plugin to allow the dispatching of tiddlers to non-Python handlers by serialising tiddler data to JSON", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dcf7efd64f4cf8a12d87d338e9653a0d", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tiddlywebplugins.jsondispatcher/tiddlywebplugins.jsondispatcher-0.1.3.tar.gz"
+}

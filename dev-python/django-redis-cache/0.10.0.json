@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis Cache Backend for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sebleier/django-redis-cache/", 
+  "info": {
+    "Author:": "Sean Bleier", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/sebleier/django-redis-cache/", 
+    "Package Index Owner:": "sebleier"
+  }, 
+  "license": "", 
+  "longdescription": "Redis Cache Backend for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e6b7cf25bc2499d66e7529d851bc81d8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-redis-cache/django-redis-cache-0.10.0.tar.gz"
+}

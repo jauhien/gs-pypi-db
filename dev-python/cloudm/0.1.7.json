@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for easy memoiation using Google App Engine memcache.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jjh2/cloudm", 
+  "info": {
+    "Author:": "Jonathan Hunt", 
+    "Home Page:": "https://github.com/jjh2/cloudm", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jjh"
+  }, 
+  "license": "", 
+  "longdescription": "Library for easy memoiation using Google App Engine memcache.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f78eef2546fbf2ffdbd4631bbdd64ad", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cloudm/cloudm-0.1.7.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "gpsparser is a package for the parsing of GPS NMEA strings.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Val Schmidt", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vschmidt"
+  }, 
+  "license": "", 
+  "longdescription": "gpsparser is a package for the parsing of GPS NMEA strings.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fe78f157ad6da41dd4d87a502ad5d02", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gpsparser/gpsparser-0.1.1.tar.gz"
+}

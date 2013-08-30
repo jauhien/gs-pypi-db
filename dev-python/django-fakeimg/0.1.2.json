@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django port of fakeimg.pl", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/scao/django-fakeimg", 
+  "info": {
+    "Author:": "Shu Cao", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/scao/django-fakeimg", 
+    "License:": "BSD", 
+    "Package Index Owner:": "shucao"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A django port of fakeimg.pl", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "91231b18090a77a28b6882b612a43a19", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fakeimg/django-fakeimg-0.1.2.tar.gz"
+}

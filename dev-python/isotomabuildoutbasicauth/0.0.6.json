@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout extension providing basic authentication support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "John Carr", 
+    "Keywords:": "buildout basicauth http authentication", 
+    "License:": "Apache Public License", 
+    "Package Index Owner:": "johncarr"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout extension providing basic authentication support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08cf3168dc142ce460f39a1ae59a4bfc", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.buildout.basicauth/isotoma.buildout.basicauth-0.0.6.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Distribute your nose tests across multiple machines, hassle-free", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://policystat.github.com/distributed-nose", 
+  "info": {
+    "Author:": "Wes Winham", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://policystat.github.com/distributed-nose", 
+    "License:": "BSD", 
+    "Package Index Owner:": "winhamwr.myopenid.com", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Distribute your nose tests across multiple machines, hassle-free", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46442f7934b46de2fb6dfa7574f162f0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/distributed-nose/distributed-nose-0.1.2.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for easy and fast creation of an ssh demon for popular VCSs (Mercurial and Git)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ellersseer/vcssshd-lib", 
+  "info": {
+    "Author:": "Dmitry Zhiltsov", 
+    "Categories": {
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ellersseer/vcssshd-lib", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dzhiltsov", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Library for easy and fast creation of an ssh demon for popular VCSs (Mercurial and Git)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2bd14ef32b2a07b5cc820ae84cd1c912", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vcssshd/vcssshd-0.2.3.tar.gz"
+}

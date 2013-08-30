@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for accessing data in the DELTA taxonomy description format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://freedelta.sourceforge.net/", 
+  "info": {
+    "Author:": "Mauro Cavalcanti, Thomas Kluyver", 
+    "Documentation:": "http://pythonhosted.org//pydelta", 
+    "Home Page:": "http://freedelta.sourceforge.net/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "takowl"
+  }, 
+  "license": "", 
+  "longdescription": "Library for accessing data in the DELTA taxonomy description format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84e5633eacdcf32ef4bfacee37e1ec1a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pydelta/pydelta-1.7.0.zip"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI request forging tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/javallone/Forgery", 
+  "info": {
+    "Author:": "Jeff Avallone", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://github.com/javallone/Forgery", 
+    "Package Index Owner:": "javallone"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WSGI request forging tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2de170a4d6eac18ef0284d13fbe9db2a", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Forgery/Forgery-0.1.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-peavy makes it easy to collect and monitor Django application logging.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fairview/django-peavy", 
+  "info": {
+    "Author:": "Fairview Computing LLC", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Download URL:": "http://github.com/fairview/django-peavy/downloads", 
+    "Home Page:": "http://github.com/fairview/django-peavy", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "fairview"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "django-peavy makes it easy to collect and monitor Django application logging.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c78e56dbcb3d5395feec59081638198", 
+  "source_uri": "http://github.com/fairview/django-peavy/downloads"
+}

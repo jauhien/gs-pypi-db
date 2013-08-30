@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Vim and Pdb integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gotcha/vimpdb", 
+  "info": {
+    "Author:": "Godefroid Chapelle", 
+    "Categories": {
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Text Editors"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gotcha/vimpdb", 
+    "Keywords:": "pdb vim", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "gotcha", 
+    "Package Index Owner:": "seletz, gotcha"
+  }, 
+  "license": "", 
+  "longdescription": "Vim and Pdb integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14c35b21b3ca8e01b1f832513a134f6f", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vimpdb/vimpdb-0.4.5.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration of oho web applications for Plone CMS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://webandmobile.mfabrik.com", 
+  "info": {
+    "Author:": "mFabrik Research Oy", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://webandmobile.mfabrik.com", 
+    "Keywords:": "zoho plone crm integration", 
+    "License:": "GPL", 
+    "Package Index Owner:": "miohtama, toutpt"
+  }, 
+  "license": "", 
+  "longdescription": "Integration of oho web applications for Plone CMS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "af96e64312a942b8fc5422de6c37e5a4", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mfabrik.plonezohointegration/mfabrik.plonezohointegration-0.1.4.zip"
+}

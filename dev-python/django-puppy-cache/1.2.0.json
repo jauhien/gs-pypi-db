@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django cache backend that helps prevent dog-piling.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/commoncode/puppy", 
+  "info": {
+    "Author:": "Curtis Maloney", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/commoncode/puppy", 
+    "Keywords:": "django,redis,cache", 
+    "Package Index Owner:": "FunkyBob"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django cache backend that helps prevent dog-piling.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a93587c746c1f62a5b3c764f90c8ba8b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-puppy-cache/django-puppy-cache-1.2.0.tar.gz"
+}

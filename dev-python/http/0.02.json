@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTTP library for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/franckcuny/http", 
+  "info": {
+    "Author:": "Franck Cuny", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/franckcuny/http", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Franck.Cuny"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "HTTP library for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9e4684a411a9cf371cbd0bc8658a803a", 
+  "source_uri": "https://pypi.python.org/packages/source/h/http/http-0.02.tar.gz"
+}

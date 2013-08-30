@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to enable your code run as a daemon process on Unix-like systems.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/thesharp/daemonize", 
+  "info": {
+    "Author:": "Ilya Otyutskiy", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/thesharp/daemonize", 
+    "License:": "MIT", 
+    "Package Index Owner:": "thesharp"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Library to enable your code run as a daemon process on Unix-like systems.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b4b93c031cf3ad9fab4bc393db5e82b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/daemonize/daemonize-2.2.1.tar.gz"
+}

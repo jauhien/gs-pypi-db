@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Autodoc all apps from a project to Sphinx", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Fandekasp/django-sphinx-autodoc", 
+  "info": {
+    "Author:": "Adrien Lemaire", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/Fandekasp/django-sphinx-autodoc", 
+    "Package Index Owner:": "Fandekasp"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Autodoc all apps from a project to Sphinx", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ffb8262b860a772423c83e79d0778bca", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sphinx-autodoc/django-sphinx-autodoc-0.2.tar.gz"
+}

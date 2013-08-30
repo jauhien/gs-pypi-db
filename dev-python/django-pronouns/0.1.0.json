@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic pronoun handling for Django applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/tim_heap/django-pronouns", 
+  "info": {
+    "Author:": "Tim Heap", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/tim_heap/django-pronouns", 
+    "Package Index Owner:": "tim_heap"
+  }, 
+  "license": "", 
+  "longdescription": "Generic pronoun handling for Django applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d7421e15d92fe4bf2513e4f664baa222", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pronouns/django-pronouns-0.1.0.tar.gz"
+}

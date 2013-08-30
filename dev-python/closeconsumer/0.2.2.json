@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "gevent based Streaming API consumer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/thruflo/close.consumer", 
+  "info": {
+    "Author:": "James Arthur", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/thruflo/close.consumer", 
+    "License:": "Creative Commons CC0 1.0 Universal", 
+    "Package Index Owner:": "thruflo"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "gevent based Streaming API consumer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bcaea9990f58b00611ac0fbeac7989e7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/close.consumer/close.consumer-0.2.2.tar.gz"
+}

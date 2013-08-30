@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds VAT field to dexterity content type.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.behavior.vat/", 
+  "info": {
+    "Author:": "Taito Horiuchi", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//collective.behavior.vat", 
+    "Home Page:": "https://github.com/collective/collective.behavior.vat/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "taito"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds VAT field to dexterity content type.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac4b7399d33e00387c6a206e74d5fbfb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.behavior.vat/collective.behavior.vat-0.4.zip"
+}

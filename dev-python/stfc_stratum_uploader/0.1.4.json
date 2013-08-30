@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides interface for uploading and distributing software through cvmfs repositories.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "git://github.com/mknapik/uploader.git", 
+  "info": {
+    "Author:": "Michal Knapik", 
+    "Home Page:": "git://github.com/mknapik/uploader.git", 
+    "Keywords:": "cvmfs,django,uploader,vo,cern,stfc,ral", 
+    "License:": "Apache License", 
+    "Package Index Owner:": "mknapik"
+  }, 
+  "license": "", 
+  "longdescription": "Provides interface for uploading and distributing software through cvmfs repositories.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84101a9dd919c5c9158a1068cb8290dc", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stfc_stratum_uploader/stfc_stratum_uploader-0.1.4.tar.gz"
+}

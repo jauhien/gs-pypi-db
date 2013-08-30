@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "forcibly inline python functions to their call site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rfk/atinline", 
+  "info": {
+    "Author:": "Ryan Kelly", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rfk/atinline", 
+    "Keywords:": "bytecode hack inline", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rfk"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "forcibly inline python functions to their call site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2dd54cdd363cb775c86e247f62bee26e", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atinline/atinline-0.1.1.tar.gz"
+}

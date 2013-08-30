@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CORS proxy and web server for static apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/olt/corsa", 
+  "info": {
+    "Author:": "Oliver Tonnhofer", 
+    "Home Page:": "https://github.com/olt/corsa", 
+    "License:": "MIT", 
+    "Package Index Owner:": "olt"
+  }, 
+  "license": "", 
+  "longdescription": "CORS proxy and web server for static apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8dc4f426ad50660f315be876562eaf7c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/corsa/corsa-0.1.1.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Import mail from POP3, IMAP, local mailboxes or directly from Postfix or Exim4 into your Django application automatically.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/latestrevision/django-mailbox/", 
+  "info": {
+    "Author:": "Adam Coddington", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Post-Office", 
+        "POP3"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/latestrevision/django-mailbox/", 
+    "Package Index Owner:": "latestrevision"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Import mail from POP3, IMAP, local mailboxes or directly from Postfix or Exim4 into your Django application automatically.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ef0b81964d15e8660301d8a23fd299f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mailbox/django-mailbox-3.0.1.tar.gz"
+}

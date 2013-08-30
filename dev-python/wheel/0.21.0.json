@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A built-package format for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dholth/wheel/", 
+  "info": {
+    "Author:": "Daniel Holth", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dholth/wheel/", 
+    "Keywords:": "wheel,packaging", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joeforker"
+  }, 
+  "license": "", 
+  "longdescription": "A built-package format for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c566fb6f3b77bfb9e9cc22340ea2549e", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wheel/wheel-0.21.0.tar.gz"
+}

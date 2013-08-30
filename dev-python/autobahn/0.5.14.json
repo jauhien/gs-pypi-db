@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "AutobahnPython - WebSocketWAMP implementation for PythonTwisted.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://autobahn.ws/python", 
+  "info": {
+    "Author:": "Tavendo GmbH", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://autobahn.ws/python", 
+    "Keywords:": "autobahn autobahn.ws websocket realtime rfc6455 wamp rpc pubsub", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "oberstet", 
+    "Platform:": "Any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "AutobahnPython - WebSocketWAMP implementation for PythonTwisted.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e2c80ba3e46428b32837537609d4d582", 
+  "source_uri": "https://pypi.python.org/packages/source/a/autobahn/autobahn-0.5.14.zip"
+}

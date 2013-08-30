@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A PloneFormGen adapter that will save the data from a form to an actual content type. This way you can still use permissions, workflows, etc on the form data.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/uwosh.pfg.d2c", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//uwosh.pfg.d2c", 
+    "Home Page:": "http://pypi.python.org/pypi/uwosh.pfg.d2c", 
+    "Keywords:": "ploneformgen plone forms adapter uwosh", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "petri", 
+    "Package Index Owner:": "vangheem, petri"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A PloneFormGen adapter that will save the data from a form to an actual content type. This way you can still use permissions, workflows, etc on the form data.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "acf8ff9dcea5ec16bdf92f95608a6f54", 
+  "source_uri": "https://pypi.python.org/packages/source/u/uwosh.pfg.d2c/uwosh.pfg.d2c-2.4.0.zip"
+}

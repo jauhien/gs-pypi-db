@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for setting up elasticsearch.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/koansys.recipe.elasticsearch", 
+  "info": {
+    "Author:": "Koansys, LLC", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/koansys.recipe.elasticsearch", 
+    "Keywords:": "elasticsearch zc.buildout recipe", 
+    "License:": "LGPL 3", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "C Buildout recipe for setting up elasticsearch.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6277944ee1335fd139066b53cbbb3b97", 
+  "source_uri": "https://pypi.python.org/packages/source/k/koansys.recipe.elasticsearch/koansys.recipe.elasticsearch-1.0.2.zip"
+}

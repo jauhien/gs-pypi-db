@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple collection of common Django utilities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://devcenter.heroku.com/articles/django", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://devcenter.heroku.com/articles/django", 
+    "Package Index Owner:": "kennethreitz", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A simple collection of common Django utilities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d7961695c78448fd56d9c220f3bd8349", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-toolbelt/django-toolbelt-0.0.1.tar.gz"
+}

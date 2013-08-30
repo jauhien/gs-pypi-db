@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A BlaeWeb component implimenting role based access control with SQLAlchemy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/rsyring/rbacbwc/", 
+  "info": {
+    "Author:": "Randy Syring", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/rsyring/rbacbwc/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rsyring"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A BlaeWeb component implimenting role based access control with SQLAlchemy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2631464024c66fda01b16c66a1283d84", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RBACBWC/RBACBWC-0.1.0.tar.gz"
+}

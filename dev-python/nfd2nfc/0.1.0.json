@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert Mac OSX NFD unicode filename to NFC unicode", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Stephane Klein", 
+    "Keywords:": "MacOSX unicode NFD NFC", 
+    "Package Index Owner:": "harobed"
+  }, 
+  "license": "", 
+  "longdescription": "Convert Mac OSX NFD unicode filename to NFC unicode", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d8f179bb56e155914bcab0f5e32cf7fa", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nfd2nfc/nfd2nfc-0.1.0.tar.gz"
+}

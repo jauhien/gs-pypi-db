@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A decogrid generator for plone columns.css file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/kombinat.decogrid/trunk", 
+  "info": {
+    "Author:": "Daniel Widerin", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/kombinat.decogrid/trunk", 
+    "Keywords:": "decogrid", 
+    "License:": "GPL", 
+    "Package Index Owner:": "saily, petschki, frisi"
+  }, 
+  "license": "", 
+  "longdescription": "A decogrid generator for plone columns.css file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4875cd47e8826e36d2240ec82a0166a", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kombinat.decogrid/kombinat.decogrid-0.2.zip"
+}

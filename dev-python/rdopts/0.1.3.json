@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A custom setuptools command for reading from setup.cfg", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Package Index Owner:": "amnorvend"
+  }, 
+  "license": "", 
+  "longdescription": "A custom setuptools command for reading from setup.cfg", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d0c00206b7ab64968263a8e09c976bb", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rdopts/rdopts-0.1.3.tar.gz"
+}

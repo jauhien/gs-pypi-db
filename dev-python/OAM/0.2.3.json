@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client library for OpenAerialMap (httpoam.osgeo.org)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/oam/oam/tree/master/accesstools/oampython", 
+  "info": {
+    "Author:": "Schuyler Erle", 
+    "Home Page:": "https://github.com/oam/oam/tree/master/accesstools/oampython", 
+    "Package Index Owner:": "migurski, schuyler, springmeyer"
+  }, 
+  "license": "", 
+  "longdescription": "Client library for OpenAerialMap (httpoam.osgeo.org)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6dd40a54b982945f8aa161bdc7f561fc", 
+  "source_uri": "https://pypi.python.org/packages/source/O/OAM/OAM-0.2.3.tar.gz"
+}

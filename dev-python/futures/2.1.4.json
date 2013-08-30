@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backport of the concurrent.futures package from Python 3.2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pythonfutures", 
+  "info": {
+    "Author:": "Alex Gr\u00f6nholm", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//futures", 
+    "Download URL:": "http://pypi.python.org/pypi/futures/", 
+    "Home Page:": "http://code.google.com/p/pythonfutures", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bquinlan, agronholm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Backport of the concurrent.futures package from Python 3.2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6116d2d8c3c1a7c386ce196a2c98a4d", 
+  "source_uri": "http://pypi.python.org/pypi/futures/"
+}

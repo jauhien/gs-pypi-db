@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenStack Swift storage backend for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/wecreatepixels/django-storage-swift", 
+  "info": {
+    "Author:": "Dennis Vermeulen", 
+    "Home Page:": "http://github.com/wecreatepixels/django-storage-swift", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dennis.vermeulen"
+  }, 
+  "license": "", 
+  "longdescription": "OpenStack Swift storage backend for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fc67ac06d5e7cda204e5676217afe6c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-storage-swift/django-storage-swift-0.9.tar.gz"
+}

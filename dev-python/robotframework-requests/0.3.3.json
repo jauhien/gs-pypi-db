@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Robot Framework keyword library wrapper around requests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bulkan/robotframework-requests", 
+  "info": {
+    "Author:": "Bulkan Savun Evcimen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bulkan/robotframework-requests", 
+    "Keywords:": "robotframework testing test automation http client requests", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "bulkan", 
+    "Platform:": "any"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Robot Framework keyword library wrapper around requests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e9a36b5d0a86c976b495e954dffbc177", 
+  "source_uri": "https://pypi.python.org/packages/source/r/robotframework-requests/robotframework-requests-0.3.3.tar.gz"
+}

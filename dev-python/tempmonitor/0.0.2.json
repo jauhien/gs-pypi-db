@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for tempmonitor, command-line version of Temperature Monitor (Mac OS)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cancerhermit/tempmonitor.py/", 
+  "info": {
+    "Author:": "cancerhermit", 
+    "Categories": {
+      "Environment": [
+        "MacOS X"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "MacOS"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cancerhermit/tempmonitor.py/", 
+    "Keywords:": "tempmonitor wrapper", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cancerhermit", 
+    "Platform:": "MacOS X"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python wrapper for tempmonitor, command-line version of Temperature Monitor (Mac OS)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b7f6ddbd92a7cdc76ac6619de3ffde5", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tempmonitor/tempmonitor-0.0.2.tar.gz"
+}

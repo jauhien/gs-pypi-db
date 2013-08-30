@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily embed GitHub Gists in your Pelican articles.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/streeter/pelican-gist", 
+  "info": {
+    "Author:": "Chris Streeter", 
+    "Home Page:": "https://github.com/streeter/pelican-gist", 
+    "License:": "MIT", 
+    "Package Index Owner:": "streeter"
+  }, 
+  "license": "", 
+  "longdescription": "Easily embed GitHub Gists in your Pelican articles.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e237249c2cc868a016425c54de54192", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pelican-gist/pelican-gist-0.2.0.tar.gz"
+}

@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An HTTP referer credentials plugin.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.zope.org/z3c.referercredentials", 
+  "info": {
+    "Author:": "Stephan Richter and the Zope Community", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://svn.zope.org/z3c.referercredentials", 
+    "Keywords:": "zope3 referer credentials pau", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "srichter, ctheune, philikon, baijum, ignas, J1m, benji, chrism, projekt01, mgedmin, ccomb, pcardune, faassen, nadako, hannosch, hathawsh, chrisw, icemac, gary, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "An HTTP referer credentials plugin.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "509db8c0d335f52f7fdcbbc7d89ea124", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.referercredentials/z3c.referercredentials-0.1.0.tar.gz"
+}

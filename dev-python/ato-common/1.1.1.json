@@ -1,0 +1,68 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Constants and utils common across the whole of ato ESB and app server (httpsato.io)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://zato.io", 
+  "info": {
+    "Author:": "Zato Developers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 (LGPLv3)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Object Brokering"
+      ]
+    }, 
+    "Home Page:": "https://zato.io", 
+    "Keywords:": "soa eai esb middleware messaging queueing asynchronous integration performance http zeromq framework events agile broker messaging server jms enterprise python middleware clustering amqp nosql websphere mq wmq mqseries ibm amqp zmq", 
+    "License:": "GNU Lesser General Public License v3 (LGPLv3)", 
+    "Package Index Owner:": "dsuch", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "GNU Lesser General Public License v3 (LGPLv3)", 
+  "longdescription": "Constants and utils common across the whole of ato ESB and app server (httpsato.io)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2318aac98fc68b41f422a6e073ef3218", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zato-common/zato-common-1.1.1.tar.gz"
+}

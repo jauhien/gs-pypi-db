@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pytest plugin with mechanisms for caching across test runs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/hpk42/pytest-cache/", 
+  "info": {
+    "Author:": "Holger Krekel", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pytest-cache", 
+    "Home Page:": "http://bitbucket.org/hpk42/pytest-cache/", 
+    "Package Index Owner:": "hpk"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "pytest plugin with mechanisms for caching across test runs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e51ff62fec70a1fd456d975ce47977cd", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-cache/pytest-cache-1.0.tar.gz"
+}

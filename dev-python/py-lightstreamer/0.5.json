@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightstreamer HTTP client for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dw/py-lightstreamer/", 
+  "info": {
+    "Author:": "David Wilson", 
+    "Home Page:": "http://github.com/dw/py-lightstreamer/", 
+    "License:": "Apache 2", 
+    "Package Index Owner:": "dw"
+  }, 
+  "license": "", 
+  "longdescription": "Lightstreamer HTTP client for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c15d3694e2687227cf8466a1f7c0e70b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py-lightstreamer/py-lightstreamer-0.5.tar.gz"
+}

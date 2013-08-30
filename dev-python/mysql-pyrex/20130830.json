@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pyrex interface to the MySQL 5 API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ehuss.org/mysql/", 
+  "info": {
+    "Author:": "Eric Huss", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "http://ehuss.org/mysql/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ehuss"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Pyrex interface to the MySQL 5 API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8f6f60e5e8579605026fa40d9e415a61", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mysql-pyrex/mysql-pyrex-0.9.0a1.tar.gz"
+}

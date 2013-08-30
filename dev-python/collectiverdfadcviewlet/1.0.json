@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds a viewlet that adds on your page meta with dublin core values in rdfa format, by ecreall", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Thomas Desvenain", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "Dublin Core,RDFa,Plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vincentfretin, tdesvenain"
+  }, 
+  "license": "", 
+  "longdescription": "Adds a viewlet that adds on your page meta with dublin core values in rdfa format, by ecreall", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "781dc56496e3a46b7081d380180014a8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.rdfadcviewlet/collective.rdfadcviewlet-1.0.zip"
+}

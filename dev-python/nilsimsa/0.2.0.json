@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Locality-sensitive hashing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/py-nilsimsa/", 
+  "info": {
+    "Author:": "John R. Frank", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Indexing"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/py-nilsimsa/", 
+    "Keywords:": "python,nilsimsa,hash,locality-sensitive,duplicate detection", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jrf"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Locality-sensitive hashing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "55549db6dbece0d10bef00b64840650a", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nilsimsa/nilsimsa-0.2.0.tar.gz"
+}

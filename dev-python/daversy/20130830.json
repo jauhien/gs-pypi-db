@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Daversy is a source control tool for relational databases.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.svn-hosting.com/trac/Daversy", 
+  "info": {
+    "Author:": "Ashish Kulkarni", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.svn-hosting.com/trac/Daversy", 
+    "License:": "GPL", 
+    "Package Index Owner:": "akulkarni"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Daversy is a source control tool for relational databases.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "101169c185091f40e8070c8390c63372", 
+  "source_uri": "https://pypi.python.org/packages/source/d/daversy/daversy-0.1.0.dev-r330.tar.gz"
+}

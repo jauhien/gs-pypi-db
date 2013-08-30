@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A basic xmpp client meant to serve as a base for others.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://chatblox.com/", 
+  "info": {
+    "Author:": "G. Gozadinos", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://chatblox.com/", 
+    "Keywords:": "xmpp bot twisted jabber", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ggozad"
+  }, 
+  "license": "", 
+  "longdescription": "A basic xmpp client meant to serve as a base for others.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a7388d3d570640f4a84ed1d692f720d", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qi.xmpp.client/qi.xmpp.client-0.1.tar.gz"
+}

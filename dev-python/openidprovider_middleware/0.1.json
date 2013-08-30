@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenID provider middleware for WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.sandbox.lt/openidprovider-middleware", 
+  "info": {
+    "Author:": "Dalius Dobravolskas", 
+    "Home Page:": "http://hg.sandbox.lt/openidprovider-middleware", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dalius"
+  }, 
+  "license": "", 
+  "longdescription": "OpenID provider middleware for WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a50141f95353b5648b1f66bbc10c31b3", 
+  "source_uri": "https://pypi.python.org/packages/source/o/openidprovider_middleware/openidprovider_middleware-0.1.tar.gz"
+}

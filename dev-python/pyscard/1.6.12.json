@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pyscard is a python module adding smart cards support to python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyscard.sourceforge.net/", 
+  "info": {
+    "Author:": "jean-daniel aussel", 
+    "Categories": {
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/projects/pyscard/", 
+    "Home Page:": "http://pyscard.sourceforge.net/", 
+    "Keywords:": "smart cards; security; cryptography", 
+    "License:": "LGPL", 
+    "Maintainer:": "jean-daniel aussel", 
+    "Package Index Owner:": "jdaussel", 
+    "Platform:": "windows 2000, xp\n, linux\n, Mac OS X Tiger or Leopard"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "pyscard is a python module adding smart cards support to python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://sourceforge.net/projects/pyscard/"
+}

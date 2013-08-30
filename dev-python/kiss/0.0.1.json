@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "KISS is a protocol for communicating with a serial TNC device used for Amateur Radio.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ampledata/kiss", 
+  "info": {
+    "Author:": "Greg Albrecht", 
+    "Home Page:": "https://github.com/ampledata/kiss", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "ampledata"
+  }, 
+  "license": "", 
+  "longdescription": "KISS is a protocol for communicating with a serial TNC device used for Amateur Radio.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c10f1d5e301b82f7f711533c137ecc0f", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kiss/kiss-0.0.1.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Javascript code prettifier for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.js.prettify", 
+  "info": {
+    "Author:": "Simone Orsi", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.js.prettify", 
+    "Keywords:": "Plone JQuery Javascript Prettify Code highlighter", 
+    "License:": "GPL", 
+    "Package Index Owner:": "simahawk, giorgio"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Javascript code prettifier for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73fdfd97be3b3ef07b0192f74d75c862", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.js.prettify/collective.js.prettify-0.2.tar.gz"
+}

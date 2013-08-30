@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An installable theme for Plone 3.0 based on the solemnity theme by Six Shooter Media.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/plonetheme.solemnity", 
+  "info": {
+    "Author:": "Timo Stollenwerk", 
+    "Categories": {
+      "Development Status": [
+        "7 - Inactive"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/plonetheme.solemnity", 
+    "Keywords:": "web zope plone theme", 
+    "License:": "GPL", 
+    "Package Index Owner:": "timo"
+  }, 
+  "license": "", 
+  "longdescription": "An installable theme for Plone 3.0 based on the solemnity theme by Six Shooter Media.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c42e2150861c3422cf4e23af30b29b8", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonetheme.solemnity/plonetheme.solemnity-0.7.tar.gz"
+}

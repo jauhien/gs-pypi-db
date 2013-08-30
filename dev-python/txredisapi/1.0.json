@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "non-blocking redis client for python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fiorix/txredisapi", 
+  "info": {
+    "Author:": "Alexandre Fiori", 
+    "Home Page:": "http://github.com/fiorix/txredisapi", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Maintainer:": "gmonnerat", 
+    "Package Index Owner:": "vandersonmota, fiorix"
+  }, 
+  "license": "", 
+  "longdescription": "non-blocking redis client for python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f79ed1fd836251ac20db0f1cc0828691", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txredisapi/txredisapi-1.0.tar.gz"
+}

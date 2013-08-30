@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generates populated plone sites from specifed content profiles", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.contentgenerator", 
+  "info": {
+    "Author:": "Plone Collective", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.contentgenerator", 
+    "Keywords:": "web zope plone test content generation profile", 
+    "License:": "BSD", 
+    "Maintainer:": "Ed Crewe", 
+    "Package Index Owner:": "cmetc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generates populated plone sites from specifed content profiles", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef347cb428d12227a02bda0f30e79928", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentgenerator/collective.contentgenerator-0.2.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An implementation of some functionalities of gobjectglibgio in pure python, but adding a lot of new features.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/caetanus/pygel", 
+  "info": {
+    "Author:": "Marcelo Aires Caetano", 
+    "Home Page:": "http://github.com/caetanus/pygel", 
+    "Keywords:": "event library,file monitor,watchdog", 
+    "License:": "BSD", 
+    "Package Index Owner:": "caetanus"
+  }, 
+  "license": "", 
+  "longdescription": "An implementation of some functionalities of gobjectglibgio in pure python, but adding a lot of new features.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b726e779cdb01c1e7caef32a29213bd", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pygel/pygel-0.2.3.tar.gz"
+}

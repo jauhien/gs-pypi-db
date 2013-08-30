@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Appomatic is a userfriendly Django environment with automatic plugin (app) management based on pip.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/redhog/appomatic", 
+  "info": {
+    "Author:": "RedHog (Egil Moeller)", 
+    "Home Page:": "http://github.com/redhog/appomatic", 
+    "Keywords:": "appomatic django apps pip", 
+    "License:": "GPL", 
+    "Package Index Owner:": "redhog"
+  }, 
+  "license": "", 
+  "longdescription": "Appomatic is a userfriendly Django environment with automatic plugin (app) management based on pip.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9c97659e278479877db909c0f2f4c75", 
+  "source_uri": "https://pypi.python.org/packages/source/a/appomatic/appomatic-0.0.25.tar.gz"
+}

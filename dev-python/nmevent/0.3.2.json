@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple C-like implementation of the Observer design pattern.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/nmevent", 
+  "info": {
+    "Author:": "Jan Mil\u00c3\u00adk", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//nmevent", 
+    "Home Page:": "http://pypi.python.org/pypi/nmevent", 
+    "Keywords:": "library event observer pattern", 
+    "License:": "Lesser General Public License v3", 
+    "Package Index Owner:": "janmilik"
+  }, 
+  "license": "", 
+  "longdescription": "A simple C-like implementation of the Observer design pattern.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea77150ee47150558791a376c3019094", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nmevent/nmevent-0.3.2.tar.gz"
+}

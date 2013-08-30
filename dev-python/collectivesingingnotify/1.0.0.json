@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plugin for SingingDancing that notify users unsubscriptions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.singingnotify", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.singingnotify", 
+    "Keywords:": "singing dancing newsletter unsubscribe notification", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul, massimo, micecchi"
+  }, 
+  "license": "", 
+  "longdescription": "A plugin for SingingDancing that notify users unsubscriptions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf4c25c13833bc60630ca7bcc18d8084", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.singingnotify/collective.singingnotify-1.0.0.zip"
+}

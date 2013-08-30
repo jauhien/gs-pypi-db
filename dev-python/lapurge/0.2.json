@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to purge your backup directories according to your retention rules", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/madmatah/lapurge", 
+  "info": {
+    "Author:": "Matthieu Huguet", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving"
+      ]
+    }, 
+    "Home Page:": "https://github.com/madmatah/lapurge", 
+    "Keywords:": "backup retention purge delete remove", 
+    "License:": "The MIT License: http://www.opensource.org/licenses/mit-license.php", 
+    "Package Index Owner:": "madmatah"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A tool to purge your backup directories according to your retention rules", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32ce8507ac4d4338f2e65a05c5f467be", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lapurge/lapurge-0.2.tar.gz"
+}

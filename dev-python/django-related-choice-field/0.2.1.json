@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A ModelChoiceField that restricts its content according to a foreign key contraint.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/linovia/django-related-choice-field", 
+  "info": {
+    "Author:": "Xavier Ordoquy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/linovia/django-related-choice-field", 
+    "License:": "BSD", 
+    "Package Index Owner:": "linovia"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A ModelChoiceField that restricts its content according to a foreign key contraint.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "99d12c2750d21d62bc84985ca5ed629b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-related-choice-field/django-related-choice-field-0.2.1.tar.gz"
+}

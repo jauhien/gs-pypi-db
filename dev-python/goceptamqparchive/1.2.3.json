@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Archiving, indexing and search for AMQP messages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.gocept.com/hg/public/gocept.amqparchive", 
+  "info": {
+    "Author:": "Wolfgang Schnerring <ws@gocept.com>, Christopher Grebs <christopher.grebs@native-instruments.de>", 
+    "Home Page:": "https://code.gocept.com/hg/public/gocept.amqparchive", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ckauhaus, ctheune, DanielHavlikGocept, sweh, tlotze, icemac, wosc, zagy"
+  }, 
+  "license": "", 
+  "longdescription": "Archiving, indexing and search for AMQP messages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e2b6aebdaa9a7a78602300cddd89443", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.amqparchive/gocept.amqparchive-1.2.3.zip"
+}

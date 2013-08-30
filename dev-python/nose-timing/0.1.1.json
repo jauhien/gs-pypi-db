@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Timing plugin for nose", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/andymckay/nose-timing", 
+  "info": {
+    "Author:": "Andy McKay", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "https://github.com/andymckay/nose-timing", 
+    "License:": "BSD", 
+    "Package Index Owner:": "andymckay"
+  }, 
+  "license": "", 
+  "longdescription": "Timing plugin for nose", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "362a7df6aa0548224f31686609d0e1ea", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-timing/nose-timing-0.1.1.tar.gz"
+}

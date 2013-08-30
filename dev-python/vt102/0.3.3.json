@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple vt102 emulator, useful for screen scraping.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/samfoo/vt102", 
+  "info": {
+    "Author:": "Sam Gibson", 
+    "Home Page:": "https://github.com/samfoo/vt102", 
+    "Keywords:": "vt102 terminal emulator screen scraper", 
+    "License:": "Lesser General Public License v3.0", 
+    "Package Index Owner:": "samfoo"
+  }, 
+  "license": "", 
+  "longdescription": "Simple vt102 emulator, useful for screen scraping.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da3c0bbec952544ed829fd38f5eed14c", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vt102/vt102-0.3.3.tar.gz"
+}

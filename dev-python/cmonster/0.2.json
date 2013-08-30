@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cmonster is a Python wrapper for the Clang C++ parser. As well as providingstandard preprocessingparsing capabilities, cmonster adds support for inlinePython macros, programmatic include handling, and (currently rudimentary)source-to-source translation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/axw/cmonster", 
+  "info": {
+    "Author:": "Andrew Wilkins", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Pre-processors"
+      ]
+    }, 
+    "Home Page:": "http://github.com/axw/cmonster", 
+    "Package Index Owner:": "axwalk"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "cmonster is a Python wrapper for the Clang C++ parser. As well as providingstandard preprocessingparsing capabilities, cmonster adds support for inlinePython macros, programmatic include handling, and (currently rudimentary)source-to-source translation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "48779e55b05ae6ad72bd96990068463b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmonster/cmonster-0.2.tar.gz"
+}

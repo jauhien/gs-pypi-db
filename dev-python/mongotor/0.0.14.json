@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "(MongoDB + Tornado) is an asynchronous driver and toolkit for working with MongoDB inside a Tornado app", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://marcelnicolay.github.com/mongotor/", 
+  "info": {
+    "Author:": "Marcel Nicolay", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Natural Language": [
+        "Portuguese (Brazilian)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://marcelnicolay.github.com/mongotor/", 
+    "Keywords:": "mongo,tornado", 
+    "License:": "OSI", 
+    "Package Index Owner:": "marcel.nicolay"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "(MongoDB + Tornado) is an asynchronous driver and toolkit for working with MongoDB inside a Tornado app", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "644ede36c6be9a1fe657f7194032a4d9", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mongotor/mongotor-0.0.14.tar.gz"
+}

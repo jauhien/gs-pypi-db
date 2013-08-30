@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MaxMind GeoIP2 API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.maxmind.com/", 
+  "info": {
+    "Author:": "Gregory Oschwald", 
+    "Bug Tracker:": "https://github.com/maxmind/GeoIP2-python/issues", 
+    "Documentation:": "http://pythonhosted.org//geoip2", 
+    "Home Page:": "http://www.maxmind.com/", 
+    "Package Index Owner:": "borisz, oschwald"
+  }, 
+  "license": "", 
+  "longdescription": "MaxMind GeoIP2 API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "68a5f733105e3a0ead1d7eddc7bc8310", 
+  "source_uri": "https://pypi.python.org/packages/source/g/geoip2/geoip2-0.2.2.tar.gz"
+}

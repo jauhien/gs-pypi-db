@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The MapReduce addon for Kotti sites", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/t2y/kotti_mapreduce", 
+  "info": {
+    "Author:": "Tetsuya Morimoto", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Pylons"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "https://github.com/t2y/kotti_mapreduce", 
+    "Keywords:": "kotti web emr mapreduce", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "t2y"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "The MapReduce addon for Kotti sites", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b95004779ed54846c7e9d4b1f4f5c106", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kotti_mapreduce/kotti_mapreduce-0.2.0.tar.gz"
+}

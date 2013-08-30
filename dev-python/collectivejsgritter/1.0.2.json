@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "jQuery Gritter (Growl-like-notification) plugin for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.js.gritter", 
+  "info": {
+    "Author:": "Radim Novotny", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.js.gritter", 
+    "Keywords:": "jquery plone notification growl", 
+    "License:": "GPL", 
+    "Package Index Owner:": "naro, ajung"
+  }, 
+  "license": "", 
+  "longdescription": "jQuery Gritter (Growl-like-notification) plugin for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d5a150067bbfdf0f44e61e737b2f1dff", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.js.gritter/collective.js.gritter-1.0.2.zip"
+}

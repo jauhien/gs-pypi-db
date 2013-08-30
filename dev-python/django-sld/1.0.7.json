@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple django library that generates SLD documents from geographic models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/azavea/django-sld/", 
+  "info": {
+    "Author:": "David Zwarg", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-sld", 
+    "Home Page:": "http://github.com/azavea/django-sld/", 
+    "Keywords:": "ogc sld geo geoserver mapserver osgeo geodjango", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "dzwarg"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A simple django library that generates SLD documents from geographic models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5db76ec68911fb730c465b16aeb0f278", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sld/django-sld-1.0.7.tar.gz"
+}

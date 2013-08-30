@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple beanstalkd client library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/earl/beanstalkc", 
+  "info": {
+    "Author:": "Andreas Bolka", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/earl/beanstalkc", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "abolka"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A simple beanstalkd client library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fefd5559abb0a45e1416c790c94f41c", 
+  "source_uri": "https://pypi.python.org/packages/source/b/beanstalkc/beanstalkc-0.3.0.tar.gz"
+}

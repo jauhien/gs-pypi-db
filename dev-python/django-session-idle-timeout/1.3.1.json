@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Timeout a logged user after a period of time", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tzulberti/django-session-idle-timeout", 
+  "info": {
+    "Author:": "Tomas Zulberti", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tzulberti/django-session-idle-timeout", 
+    "Keywords:": "django contrib,session login expiration", 
+    "License:": "License :: OSI Approved :: BSD License", 
+    "Package Index Owner:": "tzulberti"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Timeout a logged user after a period of time", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a6d6f4c920d57cb7058d035756b047b6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-session-idle-timeout/django-session-idle-timeout-1.3.1.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for manipulating LAVA dashboard bundles", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/linaro-python-dashboard-bundle", 
+  "info": {
+    "Author:": "Linaro Validation Team", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//linaro-dashboard-bundle", 
+    "Home Page:": "https://launchpad.net/linaro-python-dashboard-bundle", 
+    "Package Index Owner:": "terceiro, zyga, Paul.Larson, mwhudson, doanac"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Library for manipulating LAVA dashboard bundles", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7547cba914581c12a20d1153037d5316", 
+  "source_uri": "https://pypi.python.org/packages/source/l/linaro-dashboard-bundle/linaro-dashboard-bundle-1.9.tar.gz"
+}

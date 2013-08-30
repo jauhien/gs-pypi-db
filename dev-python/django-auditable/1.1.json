@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "audit records for django models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/chrishinds/django-auditable", 
+  "info": {
+    "Author:": "Chris Hinds", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ]
+    }, 
+    "Home Page:": "https://github.com/chrishinds/django-auditable", 
+    "Package Index Owner:": "chrishinds"
+  }, 
+  "license": "", 
+  "longdescription": "audit records for django models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "379c07dc0180ab713c27572d304ce150", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-auditable/django-auditable-1.1.tar.gz"
+}

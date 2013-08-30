@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python wrapper for the RtMidi C++ library written with Cython.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://chrisarndt.de/projects/python-rtmidi/", 
+  "info": {
+    "Author:": "Christopher Arndt", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://chrisarndt.de/projects/python-rtmidi/download/", 
+    "Home Page:": "http://chrisarndt.de/projects/python-rtmidi/", 
+    "Keywords:": "rtmidi,midi,music", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "strogon14", 
+    "Platform:": "POSIX,Windows,MacOS X"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Python wrapper for the RtMidi C++ library written with Cython.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f4f162b24d2eefcb80a2359a844a988", 
+  "source_uri": "http://chrisarndt.de/projects/python-rtmidi/download/"
+}

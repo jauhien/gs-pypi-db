@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Website for porting status of packages to Python 3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://getpython3.net/", 
+  "info": {
+    "Author:": "Baiju M.", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://getpython3.net/", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "baijum, noufal", 
+    "Platform:": "linux,osx,win32"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Website for porting status of packages to Python 3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "05ed1a7739b1e5494029e8da5191300c", 
+  "source_uri": "https://pypi.python.org/packages/source/g/getpython3/getpython3-0.1.tar.gz"
+}

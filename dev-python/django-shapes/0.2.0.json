@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Upload and export shapefiles using GeoDjango.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/springmeyer/django-shapes", 
+  "info": {
+    "Author:": "Dane Springmeyer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/springmeyer/django-shapes/get/0.2.0.tar.gz", 
+    "Home Page:": "http://bitbucket.org/springmeyer/django-shapes", 
+    "Package Index Owner:": "springmeyer"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Upload and export shapefiles using GeoDjango.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce90fffc7cce8b379cadf475aa396db2", 
+  "source_uri": "http://bitbucket.org/springmeyer/django-shapes/get/0.2.0.tar.gz"
+}

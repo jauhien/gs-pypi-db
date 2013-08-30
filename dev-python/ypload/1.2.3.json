@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple script to upload and publish files to Yandex.Disk", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bobuk/ypload", 
+  "info": {
+    "Author:": "Grigory Bakunov", 
+    "Home Page:": "http://github.com/bobuk/ypload", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bobuk"
+  }, 
+  "license": "", 
+  "longdescription": "Simple script to upload and publish files to Yandex.Disk", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f37ea4861f5deb8bc60ad271c7861858", 
+  "source_uri": "https://pypi.python.org/packages/source/y/ypload/ypload-1.2.3.tar.gz"
+}

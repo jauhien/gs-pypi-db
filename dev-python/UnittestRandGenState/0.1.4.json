@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Smart random-generation state persistence for unittest", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/UnittestRandGenState", 
+  "info": {
+    "Author:": "Ami Tavory", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/UnittestRandGenState", 
+    "License:": "BSD", 
+    "Package Index Owner:": "atavory"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Smart random-generation state persistence for unittest", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "39ac16950833f701c2de555d3b4b04e7", 
+  "source_uri": "https://pypi.python.org/packages/source/U/UnittestRandGenState/UnittestRandGenState-0.1.4.tar.gz"
+}

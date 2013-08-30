@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Supplies an Archetypes field useful for editing and storing ope Page Templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/scriptablefields", 
+  "info": {
+    "Author:": "Jens Klein", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/scriptablefields", 
+    "Keywords:": "Plone ScriptableFields TemplateFields", 
+    "License:": "GPL", 
+    "Package Index Owner:": "smcmahon, jensens, rnix, wichert, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "Supplies an Archetypes field useful for editing and storing ope Page Templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb0905e14e218077fc5f6cb6fe126439", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.TemplateFields/Products.TemplateFields-1.2.5.zip"
+}

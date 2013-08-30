@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "super simple Redis scheduling  queueing in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gamechanger/resched", 
+  "info": {
+    "Author:": "Kiril Savino", 
+    "Home Page:": "http://github.com/gamechanger/resched", 
+    "Keywords:": "redis queue schedule", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "dwoos", 
+    "Package Index Owner:": "Tom.Leach, kiril, dwoos"
+  }, 
+  "license": "", 
+  "longdescription": "super simple Redis scheduling  queueing in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95f42e6770f36f62a63999c24aad4131", 
+  "source_uri": "https://pypi.python.org/packages/source/R/Resched/Resched-0.1.14.tar.gz"
+}

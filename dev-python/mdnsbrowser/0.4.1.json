@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Multicast DNS service browser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.systemical.com/doc/opensource", 
+  "info": {
+    "Author:": "Jean-Lou Dupont", 
+    "Home Page:": "http://www.systemical.com/doc/opensource", 
+    "Package Index Owner:": "jldupont"
+  }, 
+  "license": "", 
+  "longdescription": "Multicast DNS service browser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8700840af9f3e702c87dffb2c048cc58", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mdnsbrowser/mdnsbrowser-0.4.1.tar.gz"
+}

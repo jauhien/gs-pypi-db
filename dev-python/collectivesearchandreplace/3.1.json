@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Batch Search and Replace", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.searchandreplace", 
+  "info": {
+    "Author:": "enPraxis", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.searchandreplace", 
+    "Keywords:": "batch regex search replace", 
+    "License:": "GPL", 
+    "Package Index Owner:": "dray, blambert"
+  }, 
+  "license": "", 
+  "longdescription": "Batch Search and Replace", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a46d61c1e84ff05ba08ef149c6ac53a6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.searchandreplace/collective.searchandreplace-3.1.tar.gz"
+}

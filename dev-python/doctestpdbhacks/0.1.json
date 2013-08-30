@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pdb doesnt play nice with doctests..  this is a quick hack to fix that.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jordan Baker", 
+    "Package Index Owner:": "hexsprite"
+  }, 
+  "license": "", 
+  "longdescription": "pdb doesnt play nice with doctests..  this is a quick hack to fix that.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "25c65a4dcdcd286030c8908a67c842fb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/doctestpdbhacks/doctestpdbhacks-0.1.tar.gz"
+}

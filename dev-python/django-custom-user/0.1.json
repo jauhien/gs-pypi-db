@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Custom user model for Django  1.5 with the same behaviour as Djangos default User but with email instead of username.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/recreatic/django-custom-user", 
+  "info": {
+    "Author:": "Recreatic", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/recreatic/django-custom-user", 
+    "Keywords:": "django custom user auth model email without username", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "recreatic"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Custom user model for Django  1.5 with the same behaviour as Djangos default User but with email instead of username.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bed1a0dbcc98937bb4879e9d434e2ee6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-custom-user/django-custom-user-0.1.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple bookmarking application for Django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kplaube/django-simple-links", 
+  "info": {
+    "Author:": "Klaus Laube", 
+    "Categories": {
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kplaube/django-simple-links", 
+    "Keywords:": "django apps links bookmark", 
+    "License:": "GNU Lesser General Public License (LGPL), Version 3", 
+    "Package Index Owner:": "kplaube"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Simple bookmarking application for Django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4d4f8fa4a3c60026facd38bd17c0f74", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-simple-links/django-simple-links-0.1.1.tar.gz"
+}

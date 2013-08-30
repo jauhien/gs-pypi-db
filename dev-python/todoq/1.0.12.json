@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simplest command-line TODO list", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jeffjia.github.com/todoq/", 
+  "info": {
+    "Author:": "Jeff Jia", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://jeffjia.github.com/todoq/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "jeffjia"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Simplest command-line TODO list", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4dd60ad11d9d379c512d550e99d3da20", 
+  "source_uri": "https://pypi.python.org/packages/source/t/todoq/todoq-1.0.12.tar.gz"
+}

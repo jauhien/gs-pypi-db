@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Basic database persistance  connection pooling for Django + Postgres.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gmcguire/django-db-pool", 
+  "info": {
+    "Author:": "Greg McGuire", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/gmcguire/django-db-pool", 
+    "License:": "BSD licence, see LICENSE", 
+    "Package Index Owner:": "gregjmcguire"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Basic database persistance  connection pooling for Django + Postgres.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87c857ea11bc466925e44181321a36c6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-db-pool/django-db-pool-0.0.9.tar.gz"
+}

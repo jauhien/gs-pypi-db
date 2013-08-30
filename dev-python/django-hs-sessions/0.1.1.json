@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HandlerSocket session backend for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dchaplinsky/django-hs-sessions", 
+  "info": {
+    "Author:": "Dmitry Chaplinsky", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dchaplinsky/django-hs-sessions", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dchaplinsky", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "HandlerSocket session backend for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1bdbe336dac426daa3428052c32768f8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-hs-sessions/django-hs-sessions-0.1.1.tar.gz"
+}

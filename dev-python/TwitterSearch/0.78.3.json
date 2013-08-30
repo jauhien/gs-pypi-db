@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library to easily iterate tweets found by the Twitter Search API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ckoepp/TwitterSearch", 
+  "info": {
+    "Author:": "Christian Koepp", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content", 
+        "CGI Tools/Libraries"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ckoepp/TwitterSearch", 
+    "Keywords:": "twitter api search", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ckoepp"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A library to easily iterate tweets found by the Twitter Search API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c3e62f468d3136ff4cc4a273e77200fb", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TwitterSearch/TwitterSearch-0.78.3.tar.gz"
+}

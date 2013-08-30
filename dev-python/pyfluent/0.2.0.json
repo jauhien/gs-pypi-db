@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python client library for Fluentd", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yosisa/pyfluent", 
+  "info": {
+    "Author:": "Yoshihisa Tanaka", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yosisa/pyfluent", 
+    "Keywords:": "logging,fluentd,json", 
+    "License:": "MIT", 
+    "Package Index Owner:": "yosisa"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A python client library for Fluentd", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "24f519627b530bdb7ebf0fa022ff4ab5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyfluent/pyfluent-0.2.0.tar.gz"
+}

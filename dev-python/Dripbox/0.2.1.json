@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Smart one-way SFTP file synchroniation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/epall/dripbox", 
+  "info": {
+    "Author:": "Eric Allen", 
+    "Home Page:": "http://github.com/epall/dripbox", 
+    "License:": "GPL v2.0", 
+    "Package Index Owner:": "epall"
+  }, 
+  "license": "", 
+  "longdescription": "Smart one-way SFTP file synchroniation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "35e343e5f5d470dfab8a717e5a604ed7", 
+  "source_uri": "https://pypi.python.org/packages/source/D/Dripbox/Dripbox-0.2.1.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Debian packaging tools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://deb-pkg-tools.readthedocs.org", 
+  "info": {
+    "Author:": "Peter Odding", 
+    "Home Page:": "https://deb-pkg-tools.readthedocs.org", 
+    "Package Index Owner:": "xolox"
+  }, 
+  "license": "", 
+  "longdescription": "Debian packaging tools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75dcd9b377b74fc612265ce47bf7a3d5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/deb-pkg-tools/deb-pkg-tools-1.4.1.tar.gz"
+}

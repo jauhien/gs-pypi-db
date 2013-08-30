@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone collective.groupspace mail service for contacting other participants", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.groupspace.mail", 
+  "info": {
+    "Author:": "Maik Roeder", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.groupspace.mail", 
+    "Keywords:": "groupspace,roles,pas,borg.localrole,grufspaces", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maikroeder"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone collective.groupspace mail service for contacting other participants", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be197c1e38c4a8edbe75c693a06711fe", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.groupspace.mail/collective.groupspace.mail-1.0.zip"
+}

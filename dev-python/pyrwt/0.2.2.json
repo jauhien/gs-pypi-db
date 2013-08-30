@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A cython wrapper for the Rice Wavelet Toolbox", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/amitibo/pyrwt", 
+  "info": {
+    "Author:": "Amit Aides", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyrwt", 
+    "Home Page:": "http://bitbucket.org/amitibo/pyrwt", 
+    "Keywords:": "wavelets,wavelet transform,DWT", 
+    "License:": "BSD", 
+    "Package Index Owner:": "amitibo"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A cython wrapper for the Rice Wavelet Toolbox", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e6584f5ea22c80ff31d845584b423249", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyrwt/pyrwt-0.2.2.tar.gz"
+}

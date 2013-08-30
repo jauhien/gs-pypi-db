@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A controller module for the SpecralPhenoClimatron smart growth chambersdeveloped in the Borevit lab. These consist of Conviron growth cabinetsand Heliospectra mulitspectral lamps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/borevitzlab/SpectralPhenoClimatron-control", 
+  "info": {
+    "Author:": "Kevin Murray", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 (LGPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/borevitzlab/SpectralPhenoClimatron-control", 
+    "Keywords:": "hvac,telnet,heliospectra,spcControl", 
+    "Package Index Owner:": "Kevin.Murray"
+  }, 
+  "license": "GNU Lesser General Public License v3 (LGPLv3)", 
+  "longdescription": "A controller module for the SpecralPhenoClimatron smart growth chambersdeveloped in the Borevit lab. These consist of Conviron growth cabinetsand Heliospectra mulitspectral lamps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82aff4edcb605f677d2d536875a76397", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spcControl/spcControl-0.1rc5.tar.gz"
+}

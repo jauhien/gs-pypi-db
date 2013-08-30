@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OAuth Plugin for django-twittersync", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vad/django-twittersync-oauth", 
+  "info": {
+    "Author:": "Davide Setti", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vad/django-twittersync-oauth", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "Davide.Setti"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "OAuth Plugin for django-twittersync", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be8fa08c0bdd66ec6d345f90d4bf7fd7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-twittersync-oauth/django-twittersync-oauth-0.1.1.tar.gz"
+}

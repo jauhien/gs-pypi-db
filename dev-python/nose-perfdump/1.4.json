@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dump per-test performance metrics to an SQLite database for querying.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/etscrivner/nose-perfdump", 
+  "info": {
+    "Author:": "Eric Scrivner", 
+    "Home Page:": "https://github.com/etscrivner/nose-perfdump", 
+    "Keywords:": "nose,nose plugin,profiler,profiling,tests,unittest", 
+    "License:": "BSD", 
+    "Package Index Owner:": "etscrivner"
+  }, 
+  "license": "", 
+  "longdescription": "Dump per-test performance metrics to an SQLite database for querying.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d10f85ea8c90bafe5710250e2d0d493", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose-perfdump/nose-perfdump-1.4.tar.gz"
+}

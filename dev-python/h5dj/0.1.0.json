@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HDF5 interfaces for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fish2000/h5dj/", 
+  "info": {
+    "Author:": "Alexander Bohn", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fish2000/h5dj/", 
+    "Keywords:": "imaging,image analysis,image comparison,image processing,django,numpy,arrays,matrix,storage", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fish2000"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "HDF5 interfaces for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e76acb7ffcaf7c6768e114b04f65fba", 
+  "source_uri": "https://pypi.python.org/packages/source/h/h5dj/h5dj-0.1.0.tar.gz"
+}

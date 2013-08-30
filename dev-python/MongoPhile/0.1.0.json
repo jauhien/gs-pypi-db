@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parse utilities for the MongoDB Profiler log", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bwmcadams/mongophile", 
+  "info": {
+    "Author:": "Brendan W. McAdams", 
+    "Home Page:": "http://github.com/bwmcadams/mongophile", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "bwmcadams"
+  }, 
+  "license": "", 
+  "longdescription": "Parse utilities for the MongoDB Profiler log", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "604da3bfe229bff09d7e1cf2260fd370", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MongoPhile/MongoPhile-0.1.0.tar.gz"
+}

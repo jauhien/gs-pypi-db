@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use old Canon cameras with Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/canon-remote/", 
+  "info": {
+    "Author:": "Kiril Zyapkov", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Hardware", 
+        "Hardware Drivers"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//canon-remote", 
+    "Home Page:": "http://packages.python.org/canon-remote/", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "Kiril.Zyapkov"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Use old Canon cameras with Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8d33255e601d265ac03e487839ef56aa", 
+  "source_uri": "https://pypi.python.org/packages/source/c/canon-remote/canon-remote-0.0.1.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "NetScaler API is a Python interface for interacting with Citrix NetScaler application delivery controllers, utiliing the SOAP API to execute commands.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jathanism/netscaler-api/", 
+  "info": {
+    "Author:": "Jathan McCollum", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//netscaler-api", 
+    "Home Page:": "http://github.com/jathanism/netscaler-api/", 
+    "Keywords:": "Networking,Automation,library,Security,NetScaler,API,SOAP", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jathanism"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "NetScaler API is a Python interface for interacting with Citrix NetScaler application delivery controllers, utiliing the SOAP API to execute commands.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ccf044829c30e7a3952a6c672c2287e2", 
+  "source_uri": "https://pypi.python.org/packages/source/n/netscaler-api/netscaler-api-0.2.3.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Yet another approach to provide soft (logical) delete or masking (thrashing) django models instead of deleting them physically from db.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/meteozond/django-permanent", 
+  "info": {
+    "Author:": "Alexander Klimenko", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/meteozond/django-permanent", 
+    "License:": "BSD", 
+    "Package Index Owner:": "meteozond"
+  }, 
+  "license": "", 
+  "longdescription": "Yet another approach to provide soft (logical) delete or masking (thrashing) django models instead of deleting them physically from db.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ca391f8a8aff04b3b9140916ff87716a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-permanent/django-permanent-0.0.2.tar.gz"
+}

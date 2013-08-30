@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Coopr interfaces to the COIN-OR Optimiation Services project.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://software.sandia.gov/svn/public/coopr/coopr.os", 
+  "info": {
+    "Author:": "William Hart", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Unix Shell"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://software.sandia.gov/svn/public/coopr/coopr.os", 
+    "Keywords:": "optimization", 
+    "License:": "BSD", 
+    "Package Index Owner:": "whart111", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Coopr interfaces to the COIN-OR Optimiation Services project.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b14d1386931015b31ca1083aeea059de", 
+  "source_uri": "https://pypi.python.org/packages/source/c/coopr.os/coopr.os-1.0.2.tar.gz"
+}

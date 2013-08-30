@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Blosc data compressor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/FrancescAlted/python-blosc", 
+  "info": {
+    "Author:": "Francesc Alted", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Compression"
+      ]
+    }, 
+    "Home Page:": "http://github.com/FrancescAlted/python-blosc", 
+    "License:": "http://www.opensource.org/licenses/mit-license.php", 
+    "Package Index Owner:": "falted", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Blosc data compressor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b0a30bace14fb7c64c78df6addf857e", 
+  "source_uri": "https://pypi.python.org/packages/source/b/blosc/blosc-1.1.tar.gz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Annoying helper module that finds unicodebytestring comparisions and other problems.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mitsuhiko/unicode-nazi", 
+  "info": {
+    "Author:": "Armin Ronacher", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mitsuhiko/unicode-nazi", 
+    "Package Index Owner:": "mitsuhiko"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Annoying helper module that finds unicodebytestring comparisions and other problems.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9b3d2c25c7887df643e67e2c8d99c45", 
+  "source_uri": "https://pypi.python.org/packages/source/u/unicode-nazi/unicode-nazi-1.1.tar.gz"
+}

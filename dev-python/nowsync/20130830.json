@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of tool for synchroniing local modification to remoteWSGI server, makes life of designer easier", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/victorlin/nowsync", 
+  "info": {
+    "Author:": "Victor Lin", 
+    "Home Page:": "https://bitbucket.org/victorlin/nowsync", 
+    "License:": "MIT", 
+    "Package Index Owner:": "victorlin"
+  }, 
+  "license": "", 
+  "longdescription": "A set of tool for synchroniing local modification to remoteWSGI server, makes life of designer easier", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "788b5fdb273b175d6cf9a96ae0c4388f", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nowsync/nowsync-0.3b3.dev30.zip"
+}

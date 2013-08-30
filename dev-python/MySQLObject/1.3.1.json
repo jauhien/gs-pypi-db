@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python class to convert a simple object in a MySQL connection driver.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rfc83/python-mysqlobject", 
+  "info": {
+    "Author:": "Rodrigo Fuentealba", 
+    "Home Page:": "http://github.com/rfc83/python-mysqlobject", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rfc83"
+  }, 
+  "license": "", 
+  "longdescription": "A Python class to convert a simple object in a MySQL connection driver.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a55bd2903e685fcd49ca1f89b74bd71a", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MySQLObject/MySQLObject-1.3.1.tar.gz"
+}

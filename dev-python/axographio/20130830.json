@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python library for reading and writing AxoGraph data files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/axographio/", 
+  "info": {
+    "Author:": "Kendrick Shaw", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/axographio/", 
+    "Keywords:": "physiology,electrophysiology,axograph", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "kms15"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A python library for reading and writing AxoGraph data files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f0b0e594d1361cde96a5801850c564c0", 
+  "source_uri": "https://pypi.python.org/packages/source/a/axographio/axographio-0.1.1b1.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Advanced improvement of django-orm with a lot of third-party plugins for use different parts of databases arenot covered by the standard orm.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/niwibe/django-orm", 
+  "info": {
+    "Author:": "Andrei Antoukh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/niwibe/django-orm", 
+    "License:": "BSD", 
+    "Package Index Owner:": "niwibe", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Advanced improvement of django-orm with a lot of third-party plugins for use different parts of databases arenot covered by the standard orm.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd28ef7ad67d33a69753224a8e3c318c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-orm/django-orm-2.0.5.tar.gz"
+}

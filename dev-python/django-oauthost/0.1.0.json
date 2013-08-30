@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This reusable Django application introduces OAuth2 server functionality.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/idlesign/django-oauthost", 
+  "info": {
+    "Author:": "Igor 'idle sign' Starikov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/idlesign/django-oauthost", 
+    "Package Index Owner:": "idlesign"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "This reusable Django application introduces OAuth2 server functionality.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e19c361867fb0cc40e49a79cb73cc6e8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-oauthost/django-oauthost-0.1.0.tar.gz"
+}

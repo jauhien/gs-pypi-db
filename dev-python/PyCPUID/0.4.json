@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CPUID powered by Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/PyCPUID", 
+  "info": {
+    "Author:": "Flight Data Services Ltd", 
+    "Bug Tracker:": "https://github.com/FlightDataServices/PyCPUID/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//PyCPUID", 
+    "Download URL:": "https://github.com/FlightDataServices/PyCPUID", 
+    "Home Page:": "http://pypi.python.org/pypi/PyCPUID", 
+    "Keywords:": "cpuid", 
+    "License:": "GNU Library or Lesser General Public License (LGPL)", 
+    "Package Index Owner:": "flightdataservices", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "CPUID powered by Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b31df680ff04462a606b1e8fb82e4e48", 
+  "source_uri": "https://github.com/FlightDataServices/PyCPUID"
+}

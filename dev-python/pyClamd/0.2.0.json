@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python module to scan files using the clamd interface of the ClamAV antivirus - Improved version of the original pyClamd published by Alexandre Norman Python 2.5+ support, scan timeout. See httpwww.decalage.infopythonpyclamd for more information.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.decalage.info/python/pyclamd", 
+  "info": {
+    "Author:": "Alexandre Norman, Philippe Lagadec", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://www.decalage.info/python/pyclamd", 
+    "Home Page:": "http://www.decalage.info/python/pyclamd", 
+    "License:": "GPL v2", 
+    "Package Index Owner:": "decalage"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Python module to scan files using the clamd interface of the ClamAV antivirus - Improved version of the original pyClamd published by Alexandre Norman Python 2.5+ support, scan timeout. See httpwww.decalage.infopythonpyclamd for more information.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.decalage.info/python/pyclamd"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A reusable application for collecting email addresses for later invitations and to restrict access to a site under private beta.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pragmaticbadger/django-privatebeta/", 
+  "info": {
+    "Author:": "Pragmatic Badger, LLC.", 
+    "Home Page:": "http://github.com/pragmaticbadger/django-privatebeta/", 
+    "Package Index Owner:": "mcroydon"
+  }, 
+  "license": "", 
+  "longdescription": "A reusable application for collecting email addresses for later invitations and to restrict access to a site under private beta.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "756223a1b169f5ac9c05159c7ba223b7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/privatebeta/privatebeta-0.4.1.tar.gz"
+}

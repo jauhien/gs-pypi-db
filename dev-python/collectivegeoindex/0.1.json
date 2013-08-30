@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "spatialindex for collective.geo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.geo.index/", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.geo.index/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Christian.Ledermann"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "spatialindex for collective.geo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b2afbefafd24c61744888c9dc7457c4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.geo.index/collective.geo.index-0.1.tar.gz"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Portlet which can show multiple feeds", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org", 
+  "info": {
+    "Author:": "Wichert Akkerman - Jarn", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org", 
+    "Keywords:": "plone rss atom feed portlet", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "davisagli", 
+    "Package Index Owner:": "wichert, fschulze, mj, spliter, tesdal, martior, matth, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "Portlet which can show multiple feeds", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf53a91b59906058083afb71e3ea466e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.feedmixer/collective.portlet.feedmixer-1.6.zip"
+}

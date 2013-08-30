@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python FITS interface built using CFITSIO", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://setiathome.berkeley.edu/~aparsons/aipy/aipy.cgi/PFits", 
+  "info": {
+    "Author:": "Aaron Parsons", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Home Page:": "http://setiathome.berkeley.edu/~aparsons/aipy/aipy.cgi/PFits", 
+    "License:": "GPL", 
+    "Package Index Owner:": "AaronParsons"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Python FITS interface built using CFITSIO", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac179f450ba783710aa954b70d029fdb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pfits/pfits-0.0.2.tar.gz"
+}

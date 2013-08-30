@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django management commands for working with Gearman job server from Django framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.codescale.net/en/community#django-gearman-commands", 
+  "info": {
+    "Author:": "Jozef \u0160ev\u010d\u00edk", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://github.com/jsk/django-gearman-commands/tarball/master", 
+    "Home Page:": "http://www.codescale.net/en/community#django-gearman-commands", 
+    "Keywords:": "django gearman gearmand jobs queue", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jsk", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django management commands for working with Gearman job server from Django framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd29df6937629b618c6f361c13e7f90c", 
+  "source_uri": "http://github.com/jsk/django-gearman-commands/tarball/master"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Donwload and parses a glosarium of terms usefull for the GNU project translations into the Spanish language", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gnu.org/server/standards/translations/es/", 
+  "info": {
+    "Author:": "Oscar Campos", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Download URL:": "https://github.com/DamnWidget/glosarium", 
+    "Home Page:": "http://www.gnu.org/server/standards/translations/es/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "oscar.campos", 
+    "Platform:": "Unix, Windows"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Donwload and parses a glosarium of terms usefull for the GNU project translations into the Spanish language", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84309e67420712ee36bd89c746bf9fe8", 
+  "source_uri": "https://github.com/DamnWidget/glosarium"
+}

@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Remote processing queue for ope3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/p01.remote", 
+  "info": {
+    "Author:": "Roger Ineichen, Projekt01 GmbH", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/p01.remote", 
+    "Keywords:": "Zope3 z3c p01 remote processor queue", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "agroszer, projekt01"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Remote processing queue for ope3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6940c90d27c903a5e7806c1ef462db0c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/p01.remote/p01.remote-0.5.4.tar.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django cache backend to use bmemcached module which supports memcached binary protocol with authentication.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jaysonsantos/django-bmemcached", 
+  "info": {
+    "Author:": "Jayson Reis", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jaysonsantos/django-bmemcached", 
+    "Package Index Owner:": "jaysonsantos"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django cache backend to use bmemcached module which supports memcached binary protocol with authentication.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "221e30433ee9f4afb425aefcea776d06", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-bmemcached/django-bmemcached-0.2.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Access api.tinypng.org from the shell and python scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/mbarkhau/tinypng/", 
+  "info": {
+    "Author:": "Manuel Barkhau", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/mbarkhau/tinypng/", 
+    "Keywords:": "png image compression tinypng shrink", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "Manuel.Barkhau"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Access api.tinypng.org from the shell and python scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54601ce6006b92e924d01eb471af8e93", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tinypng/tinypng-1.3.0.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A harvester to collect records from an OAI-PMH enabled provider.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bloomonkey/oai-harvest", 
+  "info": {
+    "Author:": "John Harrison", 
+    "Bug Tracker:": "https://github.com/bloomonkey/oai-harvest/issues", 
+    "Categories": {
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bloomonkey/oai-harvest", 
+    "License:": "BSD", 
+    "Package Index Owner:": "John.Harrison"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A harvester to collect records from an OAI-PMH enabled provider.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8accb74490fc2dc5d3766476e721e1a2", 
+  "source_uri": "https://pypi.python.org/packages/source/o/oaiharvest/oaiharvest-1.1.2.tar.gz"
+}

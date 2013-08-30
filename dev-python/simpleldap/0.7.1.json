@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A module that makes simple LDAP usage simple.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gdub/python-simpleldap", 
+  "info": {
+    "Author:": "Gary Wilson Jr.", 
+    "Home Page:": "https://github.com/gdub/python-simpleldap", 
+    "Keywords:": "ldap simple simpleldap", 
+    "License:": "MIT", 
+    "Package Index Owner:": "garywilson"
+  }, 
+  "license": "", 
+  "longdescription": "A module that makes simple LDAP usage simple.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df2f1f104cda1f492e2b7fa69593378b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simpleldap/simpleldap-0.7.1.tar.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line client for working with Velociraptor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jaraco/cagey", 
+  "info": {
+    "Author:": "Jason R. Coombs", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/jaraco/cagey", 
+    "Package Index Owner:": "jaraco"
+  }, 
+  "license": "", 
+  "longdescription": "Command-line client for working with Velociraptor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8feb7eabc2aae8bb9ce4deb057e7f6d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cagey/cagey-2.2.zip"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This product installs an Add Bookmarklet document_action to your Plone site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/plonebookmarklets", 
+  "info": {
+    "Author:": "enPraxis", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/plonebookmarklets", 
+    "Keywords:": "tagging bookmarklets social bookmarking", 
+    "License:": "GPL", 
+    "Package Index Owner:": "blambert, dray"
+  }, 
+  "license": "", 
+  "longdescription": "This product installs an Add Bookmarklet document_action to your Plone site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd3fe3f378fb5c32b6c267ead5cf2a29", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.plonebookmarklets/collective.plonebookmarklets-3.1.tar.gz"
+}

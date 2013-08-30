@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A timer context manager measuring the clock wall time of the code block it contains.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/brouberol/contexttimer", 
+  "info": {
+    "Author:": "Balthazar Rouberol", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/brouberol/contexttimer", 
+    "Keywords:": "time,timer", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "brouberol"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A timer context manager measuring the clock wall time of the code block it contains.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3164b2f0bddd109d332da0e8789acbfa", 
+  "source_uri": "https://pypi.python.org/packages/source/c/contexttimer/contexttimer-0.2.0.tar.gz"
+}

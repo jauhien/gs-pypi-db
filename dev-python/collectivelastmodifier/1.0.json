@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extends Plone content with metadata about the last modifier", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/collective.lastmodifier", 
+  "info": {
+    "Author:": "Thomas Buchberger", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/collective.lastmodifier", 
+    "License:": "GPL", 
+    "Package Index Owner:": "4teamwork, buchi"
+  }, 
+  "license": "", 
+  "longdescription": "Extends Plone content with metadata about the last modifier", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "13aa98c7538a7c8152e5d7a42b94a615", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.lastmodifier/collective.lastmodifier-1.0.tar.gz"
+}

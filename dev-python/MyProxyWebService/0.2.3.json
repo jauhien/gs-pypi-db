@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MyProxy Web Service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://proj.badc.rl.ac.uk/ndg/wiki/Security/MyProxyWebService", 
+  "info": {
+    "Author:": "Philip Kershaw", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//MyProxyWebService", 
+    "Home Page:": "http://proj.badc.rl.ac.uk/ndg/wiki/Security/MyProxyWebService", 
+    "License:": "BSD - See LICENSE file in top-level directory", 
+    "Package Index Owner:": "philipkershaw", 
+    "Platform:": "POSIX,Linux,Windows"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "MyProxy Web Service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5d4416aa4719d0e49fc621cfaffc0f5d", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MyProxyWebService/MyProxyWebService-0.2.3.tar.gz"
+}

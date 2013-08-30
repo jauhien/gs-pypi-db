@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client library for Rackspace Cloud Monitoring", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/racker/rackspace-monitoring", 
+  "info": {
+    "Author:": "Rackspace, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/racker/rackspace-monitoring", 
+    "License:": "Apache License (2.0)", 
+    "Package Index Maintainer:": "jirwin", 
+    "Package Index Owner:": "rphillips, jirwin, russellhaering, lakshmi.kannan, Kami, pquerna, dispalt"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Client library for Rackspace Cloud Monitoring", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ce0c1f2e0fcb3f1ad674f456a1b2c80", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rackspace-monitoring/rackspace-monitoring-0.5.3.tar.gz"
+}

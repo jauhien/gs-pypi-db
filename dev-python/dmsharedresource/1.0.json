@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Resources which can safely be used by concurrent threads", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.dieter.handshake.de/pyprojects/Zope", 
+  "info": {
+    "Author:": "Dieter Maurer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.dieter.handshake.de/pyprojects/Zope", 
+    "Keywords:": "sharedresource", 
+    "License:": "BSD (see \"dm/sharedresource/LICENSE.txt\", for details)", 
+    "Package Index Owner:": "dmaurer"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Resources which can safely be used by concurrent threads", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "85eeef8f11ea4dcd18db67724ba64e34", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dm.sharedresource/dm.sharedresource-1.0.tar.gz"
+}

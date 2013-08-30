@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Relationships (e.g. friendships) backed by Redis.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/agoragames/amico-python", 
+  "info": {
+    "Author:": "David Czarnecki", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/agoragames/amico-python", 
+    "Keywords:": "python,redis,friendships", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "czarneckid"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Relationships (e.g. friendships) backed by Redis.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed201e0e9adb30221ab25801c708f3f8", 
+  "source_uri": "https://pypi.python.org/packages/source/a/amico/amico-1.0.1.tar.gz"
+}

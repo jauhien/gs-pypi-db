@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extension of docutils rst2latex with inline math, equations, references, and raw latex", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://muralab.org/rstex", 
+  "info": {
+    "Author:": "Marcin Cieslik", 
+    "Home Page:": "http://muralab.org/rstex", 
+    "Keywords:": "restructuredtext rst docutils latex tex math rst2latex", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "marcincieslik"
+  }, 
+  "license": "", 
+  "longdescription": "An extension of docutils rst2latex with inline math, equations, references, and raw latex", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7af2824d613f8c514335c0c002473f09", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rstex/rstex-0.12.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a subclass of Thread with facilities to raise an exception in the thread or terminate the thread from another thread.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/intuited/terminable_thread", 
+  "info": {
+    "Author:": "Ted Tibbetts", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Freely Distributable"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/intuited/terminable_thread", 
+    "Keywords:": "threading,multithreading", 
+    "License:": "http://sam.zoy.org/wtfpl/", 
+    "Package Index Owner:": "intuited"
+  }, 
+  "license": "Freely Distributable", 
+  "longdescription": "Provides a subclass of Thread with facilities to raise an exception in the thread or terminate the thread from another thread.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4f052ea5c1efa98889f0fd10335ae5d", 
+  "source_uri": "https://pypi.python.org/packages/source/t/terminable_thread/terminable_thread-0.7.1.tar.gz"
+}

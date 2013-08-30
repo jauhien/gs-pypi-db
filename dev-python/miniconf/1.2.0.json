@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plain text Python built-in objects persistence", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Sylvain Fourmanoit", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Package Index Owner:": "syfou"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Plain text Python built-in objects persistence", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0ae38af15f98706d7490b828e31c6936", 
+  "source_uri": "https://pypi.python.org/packages/source/m/miniconf/miniconf-1.2.0.tar.gz"
+}

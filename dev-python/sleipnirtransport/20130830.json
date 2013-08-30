@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Wrapper around pika AMQP Library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sleipnir.liberalia.net/", 
+  "info": {
+    "Author:": "Carlos Mart\u00edn", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://sleipnir.liberalia.net/", 
+    "License:": "GNU General Public License, version 2", 
+    "Package Index Owner:": "inean"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Wrapper around pika AMQP Library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0523361b3a0f6ab45315c586a1cc755e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sleipnir.transport/sleipnir.transport-0.1-devel.tar.gz"
+}

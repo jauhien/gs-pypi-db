@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Setuptools plugin for Cython", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jaraco/cython-plugin", 
+  "info": {
+    "Author:": "Jason R. Coombs", 
+    "Home Page:": "https://bitbucket.org/jaraco/cython-plugin", 
+    "Package Index Owner:": "jaraco"
+  }, 
+  "license": "", 
+  "longdescription": "Setuptools plugin for Cython", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54d43935362a019779b35157913b870c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cython-plugin/cython-plugin-1.0.zip"
+}

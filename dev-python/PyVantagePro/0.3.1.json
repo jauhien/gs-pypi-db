@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Communication tools for the Davis VantagePro2 devices", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/SalemHarrache/PyVantagePro", 
+  "info": {
+    "Author:": "Salem Harrache", 
+    "Bug Tracker:": "https://github.com/SalemHarrache/PyVantagePro/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//PyVantagePro", 
+    "Home Page:": "https://github.com/SalemHarrache/PyVantagePro", 
+    "License:": "GNU GPL v3", 
+    "Maintainer:": "Lionel Darras", 
+    "Package Index Owner:": "SalemHarrache"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Communication tools for the Davis VantagePro2 devices", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a29a4f098eec402341dbe51547d61e7", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyVantagePro/PyVantagePro-0.3.1.tar.gz"
+}

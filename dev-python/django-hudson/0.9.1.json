@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plug and play continuous integration with django and hudson", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kmmbvnr/django-hudson", 
+  "info": {
+    "Author:": "Mikhail Podgurskiy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/kmmbvnr/django-hudson", 
+    "Keywords:": "pyunit,unittest,testrunner,hudson,django", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "kmmbvnr", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Plug and play continuous integration with django and hudson", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e846818adf694a3b14990669b1d19a84", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-hudson/django-hudson-0.9.1.tar.gz"
+}

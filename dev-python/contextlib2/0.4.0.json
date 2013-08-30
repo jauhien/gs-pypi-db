@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backports and enhancements for the contextlib module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://contextlib2.readthedocs.org", 
+  "info": {
+    "Author:": "Nick Coghlan", 
+    "Home Page:": "http://contextlib2.readthedocs.org", 
+    "License:": "PSF License", 
+    "Package Index Owner:": "ncoghlan"
+  }, 
+  "license": "", 
+  "longdescription": "Backports and enhancements for the contextlib module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea687207db25f65552061db4a2c6727d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/contextlib2/contextlib2-0.4.0.tar.gz"
+}

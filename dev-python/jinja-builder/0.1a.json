@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a simple jinja2 based JinjaBuilder class for scons", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/StefanZimmermann/jinja-builder", 
+  "info": {
+    "Author:": "Stefan Zimmermann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/StefanZimmermann/jinja-builder", 
+    "Keywords:": "scons,jinja,jinja2,builder,build,template,macro", 
+    "License:": "LGPLv3", 
+    "Package Index Owner:": "StefanZimmermann"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "a simple jinja2 based JinjaBuilder class for scons", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e10c77164f61393fc95d11ad91a83a3e", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jinja-builder/jinja-builder-0.1a.tar.gz"
+}

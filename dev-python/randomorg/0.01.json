@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "python module to access random.org for random numbers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hawking.nonlogic.org/projects/randomorg/", 
+  "info": {
+    "Author:": "Ali Polatel", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://hawking.nonlogic.org/projects/randomorg/", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "hawking2"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "python module to access random.org for random numbers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ad22902ab69d3eea7314d2810adff253", 
+  "source_uri": "https://pypi.python.org/packages/source/r/randomorg/randomorg-0.01.tar.bz2"
+}

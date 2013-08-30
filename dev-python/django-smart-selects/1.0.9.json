@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application to handle chained model fields.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Patrick Lauber", 
+    "Package Index Maintainer:": "sika", 
+    "Package Index Owner:": "digi604"
+  }, 
+  "license": "", 
+  "longdescription": "Django application to handle chained model fields.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "478fabe6aaf3b4ddd02181a634a60d2e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-smart-selects/django-smart-selects-1.0.9.tar.gz"
+}

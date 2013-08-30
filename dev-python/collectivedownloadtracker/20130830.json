@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "It tracks which registered user has downloaded a file (ATFile) at which time. It displays this value in aviewlet below Files title. Administrators are able to delete tracked records.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.downloadtracker", 
+  "info": {
+    "Author:": "Pavel Bogdanovi\u0107", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.downloadtracker", 
+    "Keywords:": "plone zope", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pabo"
+  }, 
+  "license": "", 
+  "longdescription": "It tracks which registered user has downloaded a file (ATFile) at which time. It displays this value in aviewlet below Files title. Administrators are able to delete tracked records.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ca3a907f7911ec4a4af44c1c60238f8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.downloadtracker/collective.downloadtracker-1.0b1.zip"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Patch error_log to also log the error number.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.errornumber", 
+  "info": {
+    "Author:": "Stefan H. Holek", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.errornumber", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "stefanholek"
+  }, 
+  "license": "", 
+  "longdescription": "Patch error_log to also log the error number.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e6409e28b1eddf05766d12fffa425816", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.errornumber/Products.errornumber-1.2.tar.gz"
+}

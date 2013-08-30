@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FieldWidget to support recurring dates.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.plone.org/archetypes/log/MoreFieldsAndWidgets/archetypes.recurringdate", 
+  "info": {
+    "Author:": "Dorneles Tremea", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://dev.plone.org/archetypes/log/MoreFieldsAndWidgets/archetypes.recurringdate", 
+    "Keywords:": "date recurring archetypes field widget", 
+    "License:": "GPL", 
+    "Package Index Owner:": "deo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "FieldWidget to support recurring dates.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd2ad62219ff924d03a3a58ececdf551", 
+  "source_uri": "https://pypi.python.org/packages/source/a/archetypes.recurringdate/archetypes.recurringdate-0.2.tar.gz"
+}

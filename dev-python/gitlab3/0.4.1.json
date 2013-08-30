@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GitLab API v3 Python Wrapper.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/alexvh/python-gitlab3", 
+  "info": {
+    "Author:": "Alex Van't Hof", 
+    "Bug Tracker:": "http://github.com/alexvh/python-gitlab3/issues", 
+    "Home Page:": "http://github.com/alexvh/python-gitlab3", 
+    "Keywords:": "gitlab api client wrapper", 
+    "License:": "LGPLv3", 
+    "Package Index Owner:": "alexvh"
+  }, 
+  "license": "", 
+  "longdescription": "GitLab API v3 Python Wrapper.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e47b060ab5a7cdc60b4f222a181137ee", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gitlab3/gitlab3-0.4.1.tar.gz"
+}

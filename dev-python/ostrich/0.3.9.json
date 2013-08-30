@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python port of the Scala Ostrich library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/wadey/python-ostrich", 
+  "info": {
+    "Author:": "Wade Simmons", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/wadey/python-ostrich", 
+    "Keywords:": "ostrich", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "wadey"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python port of the Scala Ostrich library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aaa414b8a653b1f9febb772d31b87599", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ostrich/ostrich-0.3.9.tar.gz"
+}

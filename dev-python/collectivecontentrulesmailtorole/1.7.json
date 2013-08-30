@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send e-mail to users having a role on the object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.contentrules.mailtorole", 
+  "info": {
+    "Author:": "Zest Software (Fred van Dijk)", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.contentrules.mailtorole", 
+    "Keywords:": "plone contentrules action mail", 
+    "License:": "GPL", 
+    "Package Index Owner:": "khink, maurits, fredvd, reinout"
+  }, 
+  "license": "", 
+  "longdescription": "Send e-mail to users having a role on the object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0bde0dea1c6ba80e6d7dea3225ca0d9b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentrules.mailtorole/collective.contentrules.mailtorole-1.7.zip"
+}

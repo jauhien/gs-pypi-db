@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Authentication backend for django that uses email verification instead of passwords", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/relekang/django-nopassword", 
+  "info": {
+    "Author:": "Rolf Erik Lekang", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/relekang/django-nopassword", 
+    "Package Index Owner:": "relekang"
+  }, 
+  "license": "", 
+  "longdescription": "Authentication backend for django that uses email verification instead of passwords", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "813cb8267e0b5a0b8f235b73c0acd949", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-nopassword/django-nopassword-0.4.3.tar.gz"
+}

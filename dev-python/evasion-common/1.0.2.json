@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helper functions collected together from other evasion modules to aid reuse such as get_free_port() and wait_for_ready().", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/oisinmulvihill/evasion-common/tarball/master#egg=evasion_common", 
+  "info": {
+    "Author:": "Oisin Mulvihill", 
+    "Home Page:": "http://github.com/oisinmulvihill/evasion-common/tarball/master#egg=evasion_common", 
+    "License:": "Evasion Project CDDL License", 
+    "Package Index Owner:": "oisinmulvihill"
+  }, 
+  "license": "", 
+  "longdescription": "Helper functions collected together from other evasion modules to aid reuse such as get_free_port() and wait_for_ready().", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e43210d16d04e92f8867cabecea0382", 
+  "source_uri": "https://pypi.python.org/packages/source/e/evasion-common/evasion-common-1.0.2.tar.gz"
+}

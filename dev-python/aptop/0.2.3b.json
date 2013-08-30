@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ApTop is top like clone for apaache geting info from apache mod_status", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/btoic/aptop/get/master.tar.gz", 
+  "info": {
+    "Author:": "Branko Toic", 
+    "Bug Tracker:": "https://bitbucket.org/btoic/aptop/issues?status=new&status=open", 
+    "Documentation:": "http://pythonhosted.org//aptop", 
+    "Home Page:": "https://bitbucket.org/btoic/aptop/get/master.tar.gz", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "btoic", 
+    "Platform:": "unix"
+  }, 
+  "license": "", 
+  "longdescription": "ApTop is top like clone for apaache geting info from apache mod_status", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d31bcc2c1760a2a56b94581e10212968", 
+  "source_uri": "https://pypi.python.org/packages/source/a/aptop/aptop-0.2.3b.tar.gz"
+}

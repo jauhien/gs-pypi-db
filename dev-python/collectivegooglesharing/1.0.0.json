@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GS manages the sharing of documents stored in the Google servers and their synchroniation from the Plone application to Google Docs service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.googlesharing/", 
+  "info": {
+    "Author:": "D'Elia Federica", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.googlesharing/", 
+    "Keywords:": "plone google googledocs", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fdelia, massimo"
+  }, 
+  "license": "", 
+  "longdescription": "GS manages the sharing of documents stored in the Google servers and their synchroniation from the Plone application to Google Docs service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db1d4d601700036399293e0f5d449ad4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.googlesharing/collective.googlesharing-1.0.0.tar.gz"
+}

@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provide Twitter integration for a Plone Site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.twitter.accounts", 
+  "info": {
+    "Author:": "Franco Pellegrini", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.twitter.accounts", 
+    "License:": "GPL", 
+    "Package Index Owner:": "frapell, menttes, hvelarde"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Provide Twitter integration for a Plone Site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ad5ab06e8d410411fdfcafa0f243858", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.twitter.accounts/collective.twitter.accounts-1.0.3.tar.gz"
+}

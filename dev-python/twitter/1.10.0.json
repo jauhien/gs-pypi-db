@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An API and command-line toolset for Twitter (twitter.com)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mike.verdone.ca/twitter/", 
+  "info": {
+    "Author:": "Mike Verdone", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://mike.verdone.ca/twitter/", 
+    "Keywords:": "twitter,IRC,command-line tools,web 2.0", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "sixohsix"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An API and command-line toolset for Twitter (twitter.com)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "30d6de298affb11dcf56f96db3d9b36a", 
+  "source_uri": "https://pypi.python.org/packages/source/t/twitter/twitter-1.10.0.tar.gz"
+}

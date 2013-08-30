@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pydoop a Python MapReduce and HDFS API for Hadoop", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pydoop.sourceforge.net", 
+  "info": {
+    "Author:": "Simone Leo, Gianluigi Zanetti, Luca Pireddu, Francesco Cabras", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Download URL:": "https://sourceforge.net/projects/pydoop/files/", 
+    "Home Page:": "http://pydoop.sourceforge.net", 
+    "Keywords:": "hadoop,mapreduce", 
+    "License:": "Apache-2.0", 
+    "Package Index Owner:": "mdrio, simleo, ilveroluca", 
+    "Platform:": "Linux"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Pydoop a Python MapReduce and HDFS API for Hadoop", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a2992586118ac943b65be88e7c8f4cab", 
+  "source_uri": "https://sourceforge.net/projects/pydoop/files/"
+}

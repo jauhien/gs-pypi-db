@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Captures easy_install command output to download source files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/recordeggs", 
+  "info": {
+    "Author:": "Mike C. Fletcher", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://launchpad.net/recordeggs/+download", 
+    "Home Page:": "https://launchpad.net/recordeggs", 
+    "Keywords:": "easy_install,deployment,packages,reproduce,capture,hack", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mcfletch", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "Captures easy_install command output to download source files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1cdcc6691da5b61da11ae8829ca7509", 
+  "source_uri": "https://launchpad.net/recordeggs/+download"
+}

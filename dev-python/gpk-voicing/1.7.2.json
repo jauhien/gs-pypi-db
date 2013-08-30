@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Libraries and scripts for speech analysis.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://kochanski.org/gpk/code/speechresearch/voicing", 
+  "info": {
+    "Author:": "Greg Kochanski", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "http://kochanski.org/gpk/code/speechresearch/voicing", 
+    "Keywords:": "phonetics speech computation linguistics scripts library python science perception feature vector loudness spectral slope", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "gpk", 
+    "Platform:": "All"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python Libraries and scripts for speech analysis.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "865ca0bf33918f55dbf8f774ac16e03f", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gpk-voicing/gpk-voicing-1.7.2.tar.gz"
+}

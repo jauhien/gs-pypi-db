@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A secure way to hold Django session data in cookies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/washingtontimes/django-cookiesession", 
+  "info": {
+    "Author:": "Justin Quick, The Washington Times", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/washingtontimes/django-cookiesession", 
+    "Package Index Owner:": "justquick"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A secure way to hold Django session data in cookies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75c197a7938dd314d2f0d8f9bb8b4745", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cookiesession/django-cookiesession-0.1.1.tar.gz"
+}

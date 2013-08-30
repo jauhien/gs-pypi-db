@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bootstrap a TurboGears app in a VirtualEnv", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tg_bootstrap", 
+  "info": {
+    "Author:": "Arlo Belshee", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/tg_bootstrap", 
+    "Keywords:": "setuptools deployment installation virtualenv turbogears", 
+    "License:": "MIT", 
+    "Package Index Owner:": "AbelCodeMonk"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Bootstrap a TurboGears app in a VirtualEnv", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "81a473c2738e3e8256d6ff7dda9a21cd", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tg_bootstrap/tg_bootstrap-0.4.0.zip"
+}

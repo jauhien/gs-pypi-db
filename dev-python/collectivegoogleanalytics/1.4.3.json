@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for pulling statistics from Google Analytics.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.googleanalytics", 
+  "info": {
+    "Author:": "Matt Yoder", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.googleanalytics", 
+    "Keywords:": "Google Analytics Plone statistics portlet integration", 
+    "License:": "GPL", 
+    "Package Index Owner:": "kiorky, iT0m, yomatters, davisagli, jbaldivieso"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Tools for pulling statistics from Google Analytics.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da2c69c9a865006402af695c90246855", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.googleanalytics/collective.googleanalytics-1.4.3.zip"
+}

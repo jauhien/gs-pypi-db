@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Forward-only database migrations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pegueroles.com/", 
+  "info": {
+    "Author:": "Ferran Pegueroles Forcadell", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/ferranp/ffmigration/downloads", 
+    "Home Page:": "http://www.pegueroles.com/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ferran", 
+    "Platform:": "linux,windows"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Simple Forward-only database migrations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a8bb745b1caad681c4b9563c1a7d190b", 
+  "source_uri": "https://bitbucket.org/ferranp/ffmigration/downloads"
+}

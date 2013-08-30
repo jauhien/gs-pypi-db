@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "AJAX selection widget for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/plone.formwidget.autocomplete", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/plone.formwidget.autocomplete", 
+    "Keywords:": "Plone selection widget AJAX", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "esteele, optilude, davisagli, dukebody, laurencerowe, mj"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "AJAX selection widget for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b047e2ee8ed82f0abeee626f8280d08", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.formwidget.autocomplete/plone.formwidget.autocomplete-1.2.5.zip"
+}

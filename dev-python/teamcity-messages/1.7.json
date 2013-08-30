@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send test results to TeamCity continuous integration server from unittest, nose and py.test", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/JetBrains/teamcity-python", 
+  "info": {
+    "Author:": "Leonid Shalupov", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/JetBrains/teamcity-python", 
+    "Keywords:": "unittest teamcity test nose py.test pytest jetbrains", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "JetBrains", 
+    "Platform:": "any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Send test results to TeamCity continuous integration server from unittest, nose and py.test", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e720e3ead40c61bc5727bab8507e44ab", 
+  "source_uri": "https://pypi.python.org/packages/source/t/teamcity-messages/teamcity-messages-1.7.tar.gz"
+}

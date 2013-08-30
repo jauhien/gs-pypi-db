@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis backend for CherryPy sessions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/3kwa/cherrys", 
+  "info": {
+    "Author:": "Eugene Van den Bulke", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "CherryPy"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Freely Distributable"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Session"
+      ]
+    }, 
+    "Home Page:": "http://github.com/3kwa/cherrys", 
+    "License:": "MIT", 
+    "Package Index Owner:": "3kwa"
+  }, 
+  "license": "Freely Distributable", 
+  "longdescription": "Redis backend for CherryPy sessions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef8eee7684d646fec2933ac438465543", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cherrys/cherrys-0.4.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Modernir packaged in a handy django app to speed up new applications and reduce duplicaiton.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/graingert/django-static-libs/tree/master/modernizr", 
+  "info": {
+    "Author:": "Thomas Grainger", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/graingert/django-static-libs/tree/master/modernizr", 
+    "Keywords:": "django,modernizr,js,staticfiles", 
+    "Package Index Owner:": "Thomas.Grainger", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Modernir packaged in a handy django app to speed up new applications and reduce duplicaiton.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e61833b29fd1bd7e560c7016047484a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-modernizr-static/django-modernizr-static-2.6.3dev.tar.gz"
+}

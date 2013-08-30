@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module that allows decoding and resampling of audio files using the ffmpeg libraries", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/Svedrin/failplay/src/tip/myffmpeg", 
+  "info": {
+    "Author:": "Michael Ziegler", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/Svedrin/failplay/downloads/myffmpeg-1.0.tar.gz", 
+    "Home Page:": "http://bitbucket.org/Svedrin/failplay/src/tip/myffmpeg", 
+    "Keywords:": "ffmpeg,lavc,libavcodec,libavformat,decoding,decoder,resampling,resampler,audio", 
+    "Package Index Owner:": "Svedrin"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python module that allows decoding and resampling of audio files using the ffmpeg libraries", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://bitbucket.org/Svedrin/failplay/downloads/myffmpeg-1.0.tar.gz"
+}

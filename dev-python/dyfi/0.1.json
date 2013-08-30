@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds commands to checks dynamic IP address change and informs currenty IP address to dy.fi.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/taito/dy.fi", 
+  "info": {
+    "Author:": "Taito Horiuchi", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/taito/dy.fi", 
+    "License:": "BSD", 
+    "Package Index Owner:": "taito"
+  }, 
+  "license": "", 
+  "longdescription": "Adds commands to checks dynamic IP address change and informs currenty IP address to dy.fi.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf5214035cb2619438464c06ffcef178", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dy.fi/dy.fi-0.1.zip"
+}

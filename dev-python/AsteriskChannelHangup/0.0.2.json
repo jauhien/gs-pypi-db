@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Programa utiliado para prevenir canales colgados en una planta asterisk", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.sapian.com.co", 
+  "info": {
+    "Author:": "Sebastian rojo", 
+    "Home Page:": "http://www.sapian.com.co", 
+    "License:": "GPL", 
+    "Package Index Owner:": "arpagon"
+  }, 
+  "license": "", 
+  "longdescription": "Programa utiliado para prevenir canales colgados en una planta asterisk", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9cc55821cc5209396a1ec6e86d971a21", 
+  "source_uri": "https://pypi.python.org/packages/source/A/AsteriskChannelHangup/AsteriskChannelHangup-0.0.2.tar.gz"
+}

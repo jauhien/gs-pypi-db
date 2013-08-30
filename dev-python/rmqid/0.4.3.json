@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A minimalistic  pythonic AMQP library focused on supporting RabbitMQ", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gmr/rmqid", 
+  "info": {
+    "Author:": "Gavin M. Roy", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gmr/rmqid", 
+    "License:": "BSD", 
+    "Package Index Owner:": "crad"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A minimalistic  pythonic AMQP library focused on supporting RabbitMQ", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5869f991fd19be0d83a7e00025a14bd8", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rmqid/rmqid-0.4.3.tar.gz"
+}

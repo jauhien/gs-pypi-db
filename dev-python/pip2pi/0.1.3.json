@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pip2pi builds a PyPI-compatible package repository from pip        requirements", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/wolever/pip2pi", 
+  "info": {
+    "Author:": "David Wolever", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/wolever/pip2pi", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wolever"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "pip2pi builds a PyPI-compatible package repository from pip        requirements", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a890c10f3adf1f7fd56b37f391de818", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pip2pi/pip2pi-0.1.3.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Get inside your stronghold and make all your Django views default login_required", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mgrouchy/django-stronghold", 
+  "info": {
+    "Author:": "Mike Grouchy", 
+    "Home Page:": "https://github.com/mgrouchy/django-stronghold", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "mgrouchy"
+  }, 
+  "license": "", 
+  "longdescription": "Get inside your stronghold and make all your Django views default login_required", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b9267228934daf57b938def25b01a63", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-stronghold/django-stronghold-0.2.2.tar.gz"
+}

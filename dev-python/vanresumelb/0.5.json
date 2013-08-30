@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pool class for c.resumelb which divides workers by version", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/van.resumelb", 
+  "info": {
+    "Author:": "Vanguardistas LLC", 
+    "Home Page:": "http://pypi.python.org/pypi/van.resumelb", 
+    "License:": "BSD-derived", 
+    "Package Index Owner:": "jinty"
+  }, 
+  "license": "", 
+  "longdescription": "Pool class for c.resumelb which divides workers by version", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5d87511a6a1b8fff82b07f9308cd020", 
+  "source_uri": "https://pypi.python.org/packages/source/v/van.resumelb/van.resumelb-0.5.tar.gz"
+}

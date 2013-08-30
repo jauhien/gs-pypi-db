@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provide infrastructure for plugging views that run directly at the Serverthread", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.ZServerViews", 
+  "info": {
+    "Author:": "Leonardo Rochael Almeida", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.ZServerViews", 
+    "Keywords:": "zope2 plone", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "leorochael"
+  }, 
+  "license": "", 
+  "longdescription": "Provide infrastructure for plugging views that run directly at the Serverthread", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dcff2636e8bebc5ba6a49e4341249203", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ZServerViews/Products.ZServerViews-0.2.0.zip"
+}

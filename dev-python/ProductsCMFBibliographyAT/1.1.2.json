@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bibliographic references in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/cmfbibliographyat", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/cmfbibliographyat", 
+    "Keywords:": "web application server zope zope2 cmf plone bibliography", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ajung, raphael"
+  }, 
+  "license": "", 
+  "longdescription": "Bibliographic references in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8644331744cb143cfbf72c56f05c1aa", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.CMFBibliographyAT/Products.CMFBibliographyAT-1.1.2.zip"
+}

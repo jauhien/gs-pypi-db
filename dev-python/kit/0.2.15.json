@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Flask, Celery, SQLAlchemy integration framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mtth/kit/", 
+  "info": {
+    "Author:": "Matthieu Monsch", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mtth/kit/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mtth"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Flask, Celery, SQLAlchemy integration framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd54bdc9c6df69b9592c114f99e9f014", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kit/kit-0.2.15.tar.gz"
+}

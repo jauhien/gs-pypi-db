@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The sequencer is used to execute actions in a specified order (for example power onoff clusters)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pv-bull.github.com/sequencer", 
+  "info": {
+    "Author:": "Pierre Vign\u00c3\u00a9ras", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Download URL:": "http://github.com/downloads/pv-bull/sequencer/sequencer-1.7.4.tar.gz", 
+    "Home Page:": "http://pv-bull.github.com/sequencer", 
+    "Keywords:": "sequencer,executor,engine", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "pvbull", 
+    "Platform:": "GNU/Linux,BSD,MacOSX"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "The sequencer is used to execute actions in a specified order (for example power onoff clusters)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5106f273fb5b21d748c51e7380f14400", 
+  "source_uri": "http://github.com/downloads/pv-bull/sequencer/sequencer-1.7.4.tar.gz"
+}

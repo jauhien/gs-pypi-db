@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A FTP server application for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/tokibito/unboxftpd/", 
+  "info": {
+    "Author:": "Shinya Okano", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "File Transfer Protocol (FTP)"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/tokibito/unboxftpd/", 
+    "Keywords:": "ftp,server,ftpd,django,python", 
+    "Package Index Owner:": "tokibito"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A FTP server application for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3634d860abe6c07703d0dcdb64738208", 
+  "source_uri": "https://pypi.python.org/packages/source/u/unboxftpd/unboxftpd-0.2.2.tar.gz"
+}

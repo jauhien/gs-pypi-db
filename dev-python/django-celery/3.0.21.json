@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django Celery Integration.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://celeryproject.org", 
+  "info": {
+    "Author:": "Ask Solem", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-celery", 
+    "Home Page:": "http://celeryproject.org", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "mher, ask, smorin", 
+    "Package Index Owner:": "ask", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django Celery Integration.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15676860adba4a39d6a7676bcb5bd424", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-celery/django-celery-3.0.21.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple API for counting beans with Flask and Redis.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/joshourisman/flask-beans", 
+  "info": {
+    "Author:": "Joshua Ourisman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/joshourisman/flask-beans", 
+    "License:": "BSD", 
+    "Package Index Owner:": "josh.ourisman.myopenid.com", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple API for counting beans with Flask and Redis.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb44229b7098ea49d5bcf7297c115caa", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flask-beans/flask-beans-1.2.tar.gz"
+}

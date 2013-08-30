@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple python wrapper to access iTunes Store API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ocelma/python-itunes", 
+  "info": {
+    "Author:": "Oscar Celma", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//python-itunes", 
+    "Home Page:": "https://github.com/ocelma/python-itunes", 
+    "Keywords:": "itunes API wrapper Store Apple", 
+    "License:": "http://www.gnu.org/copyleft/gpl.html", 
+    "Maintainer:": "Oscar Celma", 
+    "Package Index Owner:": "ocelma", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A simple python wrapper to access iTunes Store API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6690e8a261d3486b90763e3281842c1b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-itunes/python-itunes.tar.gz"
+}

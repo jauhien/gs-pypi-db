@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adapter to get the portal root of a plone site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com//hoka/hoka.adapter.portal", 
+  "info": {
+    "Author:": "Kai Hoppert", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management", 
+        "Link Checking"
+      ]
+    }, 
+    "Home Page:": "http://github.com//hoka/hoka.adapter.portal", 
+    "Keywords:": "adapter portal plone hoka", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "hoka", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Adapter to get the portal root of a plone site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b782ed395c8cece7e76c36e98e3d7089", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hoka.adapter.portal/hoka.adapter.portal-2.13.19.1.zip"
+}

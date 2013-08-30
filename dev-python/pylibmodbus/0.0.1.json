@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for libmodbus", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://libmodbus.org", 
+  "info": {
+    "Author:": "St\u00e9phane Raimbault", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://libmodbus.org", 
+    "Keywords:": "python libmodbus", 
+    "Package Index Owner:": "stephane"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python wrapper for libmodbus", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "67721b640ea6da41e5a765f58f3dabf4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pylibmodbus/pylibmodbus-0.0.1.tar.gz"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manages tarsnap backups", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/miracle2k/tarsnapper", 
+  "info": {
+    "Author:": "Michael Elsdoerfer", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/miracle2k/tarsnapper", 
+    "License:": "BSD", 
+    "Package Index Owner:": "miracle2k"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Manages tarsnap backups", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ddadbc73bd76696db9286e0efb46d2f0", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tarsnapper/tarsnapper-0.2.1.tar.gz"
+}

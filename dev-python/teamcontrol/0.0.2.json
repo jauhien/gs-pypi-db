@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple script to be used as the --to-cmd--cc-cmd parameter on gits send-email command.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/caio/teamcontrol", 
+  "info": {
+    "Author:": "Caio Rom\u00c3\u00a3o", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://github.com/caio/teamcontrol", 
+    "Keywords:": "git tocmd cccmd", 
+    "License:": "BSD", 
+    "Package Index Owner:": "caio"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple script to be used as the --to-cmd--cc-cmd parameter on gits send-email command.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a1764e1d44aa36cba4224f6982e12f6", 
+  "source_uri": "https://pypi.python.org/packages/source/t/teamcontrol/teamcontrol-0.0.2.tar.gz"
+}

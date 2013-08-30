@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "script to clone virtualenvs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/edwardgeorge/virtualenv-clone", 
+  "info": {
+    "Author:": "Edward George", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "http://github.com/edwardgeorge/virtualenv-clone", 
+    "Package Index Owner:": "edwardgeorge"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "script to clone virtualenvs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71168b975eaaa91e65559bcc79290b3b", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtualenv-clone/virtualenv-clone-0.2.4.tar.gz"
+}

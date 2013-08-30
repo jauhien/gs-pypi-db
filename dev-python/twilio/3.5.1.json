@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twilio API client and TwiML generator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/twilio/twilio-python/", 
+  "info": {
+    "Author:": "Twilio", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/twilio/twilio-python/", 
+    "Keywords:": "twilio,twiml", 
+    "Package Index Owner:": "skimbrel, dougblack, kevinburke, twilio, Kyle.Conroy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Twilio API client and TwiML generator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a33890f8b1527af9cd0d2018949934ea", 
+  "source_uri": "https://pypi.python.org/packages/source/t/twilio/twilio-3.5.1.tar.gz"
+}

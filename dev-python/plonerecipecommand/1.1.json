@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Run arbitrary commands from buildout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/plone.recipe.command", 
+  "info": {
+    "Author:": "Daniel Nouri", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ]
+    }, 
+    "Home Page:": "http://www.python.org/pypi/plone.recipe.command", 
+    "Keywords:": "buildout", 
+    "License:": "GPL", 
+    "Package Index Owner:": "nouri, wichert, fschulze"
+  }, 
+  "license": "", 
+  "longdescription": "Run arbitrary commands from buildout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4316a4d05f527d987b9d6e43e4c2bc6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.recipe.command/plone.recipe.command-1.1.zip"
+}

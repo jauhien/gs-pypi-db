@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface for the picoLCD driver", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/pyusblcd", 
+  "info": {
+    "Author:": "Michael Whapples", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Artistic License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Hardware"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/pyusblcd", 
+    "Package Index Owner:": "mwhapples"
+  }, 
+  "license": "Artistic License", 
+  "longdescription": "Python interface for the picoLCD driver", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fa14ad57fd3b2f242b41b317698d336f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyusblcd/pyusblcd-1.1.tar.gz"
+}

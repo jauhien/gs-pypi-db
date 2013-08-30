@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pluggable system for django applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/DjangoPluggableApp/", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//DjangoPluggableApp", 
+    "Home Page:": "http://packages.python.org/DjangoPluggableApp/", 
+    "Keywords:": "django plugin apps", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gawel, bearstech"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A pluggable system for django applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "760319b2efe1a50bec73ce7cde08f5e5", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DjangoPluggableApp/DjangoPluggableApp-0.5.tar.gz"
+}

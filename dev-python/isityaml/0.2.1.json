@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app for checking the correctness of YAML", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/isityaml/", 
+  "info": {
+    "Author:": "Peter Murphy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Education"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/isityaml/", 
+    "Keywords:": "YAML parse text Django", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "peterkmurphy"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app for checking the correctness of YAML", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b4d4826327ba042d4179d0330f7a502", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isityaml/isityaml-0.2.1.tar.gz"
+}

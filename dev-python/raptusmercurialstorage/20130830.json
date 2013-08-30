@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "provides an archetypes storage which stores files on the filesystem into a mercurial repository", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Raptus/raptus.mercurialstorage", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Raptus/raptus.mercurialstorage", 
+    "Keywords:": "plone archetypes storage mercurial", 
+    "License:": "GPL", 
+    "Package Index Owner:": "simu, raptus"
+  }, 
+  "license": "", 
+  "longdescription": "provides an archetypes storage which stores files on the filesystem into a mercurial repository", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "72bdc8c1b7fa7ba9a23f17da03b8e980", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.mercurialstorage/raptus.mercurialstorage-1.0b4.zip"
+}

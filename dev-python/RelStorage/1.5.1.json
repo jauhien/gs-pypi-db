@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A backend for ODB that stores pickles in a relational database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/RelStorage", 
+  "info": {
+    "Author:": "Shane Hathaway", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/RelStorage", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "hathawsh", 
+    "Platform:": "any"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A backend for ODB that stores pickles in a relational database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2454211d086ac02a4af10f7292e260ec", 
+  "source_uri": "https://pypi.python.org/packages/source/R/RelStorage/RelStorage-1.5.1.tar.gz"
+}

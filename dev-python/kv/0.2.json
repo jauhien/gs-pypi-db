@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "KV provides a dictionary-like interface on top of SQLite.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mgax/kv", 
+  "info": {
+    "Author:": "Alex Morega", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mgax/kv", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "alexm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "KV provides a dictionary-like interface on top of SQLite.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ddcbf20f9502759a65874f1b3b303dd", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kv/kv-0.2.zip"
+}

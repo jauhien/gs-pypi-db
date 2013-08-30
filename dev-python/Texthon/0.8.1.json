@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple template engine - half text, half Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://texthon.chipsforbrain.org", 
+  "info": {
+    "Author:": "Kevin Lin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://texthon.chipsforbrain.org", 
+    "Package Index Owner:": "kevin.ic"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Simple template engine - half text, half Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "28c7c44c8ab2151e5494f9c12f7b274f", 
+  "source_uri": "https://pypi.python.org/packages/source/T/Texthon/Texthon-0.8.1.zip"
+}

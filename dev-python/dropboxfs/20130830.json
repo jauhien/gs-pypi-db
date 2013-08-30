@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pyFilesystem backend for the Dropbox API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/btimby/fs-dropbox/", 
+  "info": {
+    "Author:": "Ben Timby", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/btimby/fs-dropbox/", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "Ben.Timby"
+  }, 
+  "license": "", 
+  "longdescription": "A pyFilesystem backend for the Dropbox API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "587edb35d31e78fe9d47b5829e0e23ea", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dropboxfs/dropboxfs-0.1-11.tar.gz"
+}

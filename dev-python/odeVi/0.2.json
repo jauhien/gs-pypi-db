@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This toolbox generates automatically a vtk-visualiation for an ode (Open Dynamics Engine) simulation under Python. You only have to define the simulation space and world and forward these entities to the visualiation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pypi.python.org/pypi/ode-viz", 
+  "info": {
+    "Author:": "Andr\u00e9 Dietrich", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://pypi.python.org/pypi/ode-viz", 
+    "Keywords:": "ode,vtk", 
+    "License:": "BSD", 
+    "Package Index Owner:": "andre.dietrich"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "This toolbox generates automatically a vtk-visualiation for an ode (Open Dynamics Engine) simulation under Python. You only have to define the simulation space and world and forward these entities to the visualiation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b51e3490f5fe751c1adb563514c24c51", 
+  "source_uri": "https://pypi.python.org/packages/source/o/odeViz/odeViz-0.2.tar.gz"
+}

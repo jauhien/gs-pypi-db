@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple, colorful Game Of Life demo on the terminal", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/erikrose/conway", 
+  "info": {
+    "Author:": "Erik Rose", 
+    "Categories": {
+      "Environment": [
+        "Console", 
+        "Curses"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Terminals"
+      ]
+    }, 
+    "Home Page:": "https://github.com/erikrose/conway", 
+    "Keywords:": "terminal,tty,console,game,life", 
+    "License:": "MIT", 
+    "Package Index Owner:": "erikrose"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple, colorful Game Of Life demo on the terminal", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04766b5a92bad493fe30f184717e2943", 
+  "source_uri": "https://pypi.python.org/packages/source/c/conway/conway-1.1.tar.gz"
+}

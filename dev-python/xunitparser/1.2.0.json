@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read JUnitXUnit XML files and map them to Python objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://git.p.engu.in/laurentb/xunitparser/", 
+  "info": {
+    "Author:": "Laurent Bachelier", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://git.p.engu.in/laurentb/xunitparser/", 
+    "Package Index Owner:": "laurentb"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Read JUnitXUnit XML files and map them to Python objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9794a9236fb1bb0267f3a4d862ab168", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xunitparser/xunitparser-1.2.0.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Build the latest kernel", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://kcheck.sf.net", 
+  "info": {
+    "Author:": "Master Kernel", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Desktop Environment"
+      ]
+    }, 
+    "Home Page:": "http://kcheck.sf.net", 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "masterkernel"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Build the latest kernel", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41e33ec330e42090306a8487df6ae02e", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kernelcheck/kernelcheck-1.1.4.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Define content fragments in Django templates and store their contents in the database. This is yet another take on the idea previously implemented in django-flatblocks, django-chunks etc.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/2general/django-grains", 
+  "info": {
+    "Author:": "Antti Kaihola (2General Ltd.)", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/2general/django-grains", 
+    "Package Index Owner:": "akaihola"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Define content fragments in Django templates and store their contents in the database. This is yet another take on the idea previously implemented in django-flatblocks, django-chunks etc.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "884111818742040e83815239187e4150", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-grains/django-grains-0.2.2.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A light-weight access layer for distributed computing infrastructure", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://saga-project.github.com/saga-python/", 
+  "info": {
+    "Author:": "Ole Weidner", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "http://saga-project.github.com/saga-python/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "oweidner"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A light-weight access layer for distributed computing infrastructure", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1fcb29fe758375908f2c866d75857c1", 
+  "source_uri": "https://pypi.python.org/packages/source/s/saga-python/saga-python-0.9.10.tar.gz"
+}

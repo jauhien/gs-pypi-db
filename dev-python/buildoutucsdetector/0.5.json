@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A buildout extension that enables dependency links      to install eggs according to the UCS(Unicode Character Set)      version of the python distribution.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dmpinheiro/buildout.ucsdetector", 
+  "info": {
+    "Author:": "Diego Manhaes Pinheiro", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dmpinheiro/buildout.ucsdetector", 
+    "Keywords:": "buildout ucs extension", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dmpinheiro"
+  }, 
+  "license": "", 
+  "longdescription": "A buildout extension that enables dependency links      to install eggs according to the UCS(Unicode Character Set)      version of the python distribution.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "845e2d1b6403ada93c3902ddac21bf2e", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildout.ucsdetector/buildout.ucsdetector-0.5.tar.gz"
+}

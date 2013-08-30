@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library to interface with the Endicia Postage API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://streed.github.com/PyEndicia/", 
+  "info": {
+    "Author:": "Sean Reed", 
+    "Bug Tracker:": "https://github.com/streed/PyEndicia/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//PyEndicia", 
+    "Download URL:": "https://github.com/streed/PyEndicia/tarball/master", 
+    "Home Page:": "http://streed.github.com/PyEndicia/", 
+    "Keywords:": "endicia postage api", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "streed"
+  }, 
+  "license": "", 
+  "longdescription": "Python library to interface with the Endicia Postage API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c71ca467915c5d2cf36f57db4c0e4a0", 
+  "source_uri": "https://github.com/streed/PyEndicia/tarball/master"
+}

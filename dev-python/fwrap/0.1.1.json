@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool to wrap Fortran 7705 code in C, Cython  Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fwrap.sourceforge.net/", 
+  "info": {
+    "Author:": "Kurt W. Smith & contributors", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://fwrap.sourceforge.net/", 
+    "Package Index Owner:": "kwmsmith"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tool to wrap Fortran 7705 code in C, Cython  Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "28143f3b20b94c29e13f4329e80a9b57", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fwrap/fwrap-0.1.1.tar.gz"
+}

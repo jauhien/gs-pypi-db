@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Module and WebSerivce to control a Numato lab USB Relay card", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.zebpalmer.com", 
+  "info": {
+    "Author:": "Zeb Palmer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.zebpalmer.com", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "zebpalmer"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Module and WebSerivce to control a Numato lab USB Relay card", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "409ddd466a7b0b6cb99a035c82d089f3", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyIOboard/PyIOboard-0.0.15.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Quickly find out which directories  files are hogging your disk space.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pthrasher/sp", 
+  "info": {
+    "Author:": "Philip Thrasher", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pthrasher/sp", 
+    "License:": "Unlicense", 
+    "Package Index Owner:": "pthrasher"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Quickly find out which directories  files are hogging your disk space.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b3fe6cad1c650038a745aa337fcb4b64", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sp/sp-1.1.0.tar.gz"
+}

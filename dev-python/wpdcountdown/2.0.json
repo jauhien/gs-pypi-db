@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Countdown portlet for the World Plone Days", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/wpd.countdown", 
+  "info": {
+    "Author:": "Simples Consultoria", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/wpd.countdown", 
+    "Keywords:": "plone worldploneday wpd countdown portlet", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pbauer"
+  }, 
+  "license": "", 
+  "longdescription": "Countdown portlet for the World Plone Days", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2667709df1b4f6175751ee11c137bf48", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wpd.countdown/wpd.countdown-2.0.zip"
+}

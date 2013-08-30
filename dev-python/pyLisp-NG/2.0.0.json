@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A very simple implementation of Lisp in Python that is perfectly suitable for Python projects needing Lisp-like capabilities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/pylisp-ng", 
+  "info": {
+    "Author:": "William S. Annis, Duncan McGreggor", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Interpreters"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/pylisp-ng", 
+    "License:": "LGPL 2.1", 
+    "Package Index Owner:": "oubiwann"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A very simple implementation of Lisp in Python that is perfectly suitable for Python projects needing Lisp-like capabilities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84141318cde6bf4e4f10ac4a920531be", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyLisp-NG/pyLisp-NG-2.0.0.tar.gz"
+}

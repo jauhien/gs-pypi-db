@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Alternative model graph traverser for the repoe.bfg web framework which allows registering arbitrary adapters for the type or interface of model objects encountered during traversal.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/repoze.bfg.traversaladapter", 
+  "info": {
+    "Author:": "F. Oliver Gathmann", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/repoze.bfg.traversaladapter", 
+    "Keywords:": "bfg repoze.bfg traverser traversal adapter", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "fogathmann"
+  }, 
+  "license": "", 
+  "longdescription": "Alternative model graph traverser for the repoe.bfg web framework which allows registering arbitrary adapters for the type or interface of model objects encountered during traversal.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "093c2fef4097d9145341f6895d29c79e", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.bfg.traversaladapter/repoze.bfg.traversaladapter-0.1.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily download, build, install, upgrade, and uninstall Python packages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/distribute", 
+  "info": {
+    "Author:": "The fellowship of the packaging", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//distribute", 
+    "Home Page:": "http://packages.python.org/distribute", 
+    "Keywords:": "CPAN PyPI distutils eggs package management", 
+    "License:": "PSF or ZPL", 
+    "Package Index Maintainer:": "guyr, jaraco", 
+    "Package Index Owner:": "tarek, guyr, jaraco"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Easily download, build, install, upgrade, and uninstall Python packages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89e68df89faf1966bcbd99a0033fbf8e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/distribute/distribute-0.6.49.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manage a courses grade database with email-based communication.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blog.tremily.us/posts/pygrader/", 
+  "info": {
+    "Author:": "W. Trevor King", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Education"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Education"
+      ]
+    }, 
+    "Download URL:": "http://git.tremily.us/?p=pygrader.git;a=snapshot;h=v0.3;sf=tgz", 
+    "Home Page:": "http://blog.tremily.us/posts/pygrader/", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "wking", 
+    "Platform:": "all"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Manage a courses grade database with email-based communication.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a25cd5118f3773d101d701630f388b2", 
+  "source_uri": "http://git.tremily.us/?p=pygrader.git;a=snapshot;h=v0.3;sf=tgz"
+}

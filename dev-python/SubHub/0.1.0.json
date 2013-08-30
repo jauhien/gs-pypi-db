@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple personal PSHB hub for use in Django projects for your own blog. Doesnt serve as a public hub for publishers, hence just SubHub.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/subhub", 
+  "info": {
+    "Author:": "Ivan Sagalaev", 
+    "Home Page:": "https://launchpad.net/subhub", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "isagalaev"
+  }, 
+  "license": "", 
+  "longdescription": "A simple personal PSHB hub for use in Django projects for your own blog. Doesnt serve as a public hub for publishers, hence just SubHub.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a7fb1c97e192b27accdba654c638efa0", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SubHub/SubHub-0.1.0.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A twisted python interface into the Rackspace Cloud", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cloudkick/txrackspace", 
+  "info": {
+    "Author:": "Alex Polvi", 
+    "Home Page:": "http://github.com/cloudkick/txrackspace", 
+    "License:": "BSD", 
+    "Package Index Owner:": "cloudkick"
+  }, 
+  "license": "", 
+  "longdescription": "A twisted python interface into the Rackspace Cloud", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f6c25f3f7a663be02a3e960d706f9fe4", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txrackspace/txrackspace-0.1.2.tar.gz"
+}

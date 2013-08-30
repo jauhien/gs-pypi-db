@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python-bindings for the Collmex importexport API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/gocept.collmex", 
+  "info": {
+    "Author:": "gocept", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/gocept.collmex", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ckauhaus, DanielHavlikGocept, sweh, tlotze, wosc, ctheune, zagy, icemac"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Python-bindings for the Collmex importexport API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "438ec2d7b26dc7e19943c93091aeb574", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.collmex/gocept.collmex-1.3.zip"
+}

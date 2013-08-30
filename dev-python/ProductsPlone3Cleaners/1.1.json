@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cleanup after migration from Plone 2.5 to 3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zest Software", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "GPL", 
+    "Package Index Owner:": "jladage, maurits, fredvd, markvl"
+  }, 
+  "license": "", 
+  "longdescription": "Cleanup after migration from Plone 2.5 to 3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bbf5549eea5189f8f403aafe8ecad203", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.Plone3Cleaners/Products.Plone3Cleaners-1.1.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easier readable profile statistics -- especially for caller and callee analysis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/dm.profile", 
+  "info": {
+    "Author:": "Dieter Maurer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/dm.profile", 
+    "Keywords:": "profiling statistics caller callee analysis", 
+    "License:": "BSD (see \"dm/profile/LICENSE.txt\", for details)", 
+    "Package Index Owner:": "dmaurer"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Easier readable profile statistics -- especially for caller and callee analysis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c944bfef49d7e3bcc95e1f3a26e426e8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dm.profile/dm.profile-1.0.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application to detect cyclic imports", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/goinnn/django-detect-cyclic", 
+  "info": {
+    "Author:": "Pablo Martin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/goinnn/django-detect-cyclic", 
+    "Keywords:": "django,imports,cycle,cyclic imports,analyze code", 
+    "License:": "LGPL 3", 
+    "Package Index Owner:": "Goin"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Django application to detect cyclic imports", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c87b0aa5362044f083ba7906b471f546", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-detect-cyclic/django-detect-cyclic-0.0.9.tar.gz"
+}

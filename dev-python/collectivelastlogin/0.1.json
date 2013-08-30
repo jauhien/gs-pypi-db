@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Show the list of Plone users with the last login date.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.lastlogin", 
+  "info": {
+    "Author:": "Zest Software", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.lastlogin", 
+    "License:": "GPL", 
+    "Package Index Owner:": "markvl, maurits, fredvd, vincentpretre"
+  }, 
+  "license": "", 
+  "longdescription": "Show the list of Plone users with the last login date.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fbc12aee72092ab3a2a4c0aa9297eb3c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.lastlogin/collective.lastlogin-0.1.tar.gz"
+}

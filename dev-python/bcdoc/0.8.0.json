@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ReST document generation tools for botocore.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/botocore/bcdoc", 
+  "info": {
+    "Author:": "Mitch Garnaat", 
+    "Home Page:": "https://github.com/botocore/bcdoc", 
+    "Package Index Owner:": "aws, garnaat"
+  }, 
+  "license": "", 
+  "longdescription": "ReST document generation tools for botocore.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8f9a1adbf4199bcddd13a9a42b87c3f3", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bcdoc/bcdoc-0.8.0.tar.gz"
+}

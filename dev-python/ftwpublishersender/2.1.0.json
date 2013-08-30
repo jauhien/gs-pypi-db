@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Staging and publishing addon for Plone contents.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/ftw.publisher.sender", 
+  "info": {
+    "Author:": "Jonas Baumann", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/ftw.publisher.sender", 
+    "Keywords:": "publisher sender", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "maethu, jone, 4teamwork"
+  }, 
+  "license": "", 
+  "longdescription": "Staging and publishing addon for Plone contents.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "351e35a8cde1338f7c6a0acdedbba785", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftw.publisher.sender/ftw.publisher.sender-2.1.0.zip"
+}

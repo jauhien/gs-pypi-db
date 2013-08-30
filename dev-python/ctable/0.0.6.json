@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CouchDB view to SQL table", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dimagi/ctable", 
+  "info": {
+    "Author:": "Dimagi", 
+    "Home Page:": "http://github.com/dimagi/ctable", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dimagi"
+  }, 
+  "license": "", 
+  "longdescription": "CouchDB view to SQL table", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "578bc8e5d2000d655924cc3fb6fc054d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/ctable/ctable-0.0.6.tar.gz"
+}

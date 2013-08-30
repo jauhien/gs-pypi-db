@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A memory profiler for ope", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/Products.MemoryProfiler/", 
+  "info": {
+    "Author:": "Youenn Boussard [ingeniweb]", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/Products.MemoryProfiler/", 
+    "Keywords:": "Memory Profiler Zope", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "A memory profiler for ope", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dce722de60af8c1e93df2259a3c77f8f", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.MemoryProfiler/Products.MemoryProfiler-0.1.tar.gz"
+}

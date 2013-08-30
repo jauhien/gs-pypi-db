@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is a library for creating multi-page wiards using 3c.form. Values are stored in a session until the wiard is finished.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.z3cform.wizard/trunk", 
+  "info": {
+    "Author:": "David Glick", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.z3cform.wizard/trunk", 
+    "Keywords:": "z3c.form wizard session", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli, jbaldivieso, laurencerowe"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This is a library for creating multi-page wiards using 3c.form. Values are stored in a session until the wiard is finished.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a230f071aa398972f39b56cb8c27558", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.z3cform.wizard/collective.z3cform.wizard-1.4.8.zip"
+}

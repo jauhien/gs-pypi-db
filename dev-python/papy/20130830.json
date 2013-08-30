@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parallel pipelines for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://muralab.org/PaPy", 
+  "info": {
+    "Author:": "Marcin Cieslik", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://muralab.org/PaPy", 
+    "Keywords:": "multiprocessing parallel pipeline workflow rpyc", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "marcincieslik"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Parallel pipelines for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2cfa9ac9791eea16fdf8e3c34940e924", 
+  "source_uri": "https://pypi.python.org/packages/source/p/papy/papy-1.0b1.tar.gz"
+}

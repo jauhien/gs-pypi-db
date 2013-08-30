@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A mapping tool from model to dictionary.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bpmappers.readthedocs.org/", 
+  "info": {
+    "Author:": "BeProud Inc.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//bpmappers", 
+    "Home Page:": "http://bpmappers.readthedocs.org/", 
+    "Keywords:": "model,mapper,django", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "tokibito"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A mapping tool from model to dictionary.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b3889febcb474641a5106c3292c79cd", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bpmappers/bpmappers-0.7.tar.gz"
+}

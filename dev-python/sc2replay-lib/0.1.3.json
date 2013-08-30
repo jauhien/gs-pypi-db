@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Basic library for reading details about a Bliard (TM) StarCraft(TM) 2 replay file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dcbarans/sc2replay-lib", 
+  "info": {
+    "Author:": "Dominic Baranski", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 1.1 (MPL 1.1)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dcbarans/sc2replay-lib", 
+    "Keywords:": "starcraft,sc,starcraft 2,sc2,parser,replay", 
+    "License:": "MPL 1.1", 
+    "Package Index Owner:": "dbaranski"
+  }, 
+  "license": "Mozilla Public License 1.1 (MPL 1.1)", 
+  "longdescription": "Basic library for reading details about a Bliard (TM) StarCraft(TM) 2 replay file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36b4de1480db302475235fcf2188d6db", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sc2replay-lib/sc2replay-lib-0.1.3.tar.gz"
+}

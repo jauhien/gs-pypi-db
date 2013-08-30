@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Git management tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jorgeecardona/gitomatic", 
+  "info": {
+    "Author:": "Jorge Eduardo Cardona", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jorgeecardona/gitomatic", 
+    "Keywords:": "git", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jorgeecardona"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Git management tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "78e9ec1e38ecc72e53b00a7079cfdc93", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gitomatic/gitomatic-1.0a5.tar.gz"
+}

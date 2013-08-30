@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app for managing and processing PDF documents.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/paltman/django-pdf/", 
+  "info": {
+    "Author:": "Patrick Altman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-pdf", 
+    "Home Page:": "http://github.com/paltman/django-pdf/", 
+    "Package Index Owner:": "paltman"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django app for managing and processing PDF documents.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ffbc8f98573f5244bdffdf61f920b20e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pdf/django-pdf-1.0.2.tar.gz"
+}

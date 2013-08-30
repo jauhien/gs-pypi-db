@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A buildout recipe to install supervisor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.recipe.supervisor", 
+  "info": {
+    "Author:": "Mustapha Benali", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.recipe.supervisor", 
+    "Keywords:": "buildout recipe supervisor", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "multani, nkryptic, lucielejard, servilio, nueces", 
+    "Package Index Owner:": "mustap, gawel, nkryptic, multani, iElectric, lucielejard, servilio, nueces"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A buildout recipe to install supervisor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8a5303791693dd32b2b1cf98dc3f3a92", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.supervisor/collective.recipe.supervisor-0.19.tar.gz"
+}

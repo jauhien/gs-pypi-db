@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pluggable framework for cloning Trac tickets according to custom business logic", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/NewTicketLikeThisPlugin", 
+  "info": {
+    "Author:": "Ethan Jucovy", 
+    "Home Page:": "http://trac-hacks.org/wiki/NewTicketLikeThisPlugin", 
+    "Keywords:": "trac plugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "Pluggable framework for cloning Trac tickets according to custom business logic", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b20ab6d9d42d32e774982605d82bb291", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trac-NewTicketLikeThisPlugin/trac-NewTicketLikeThisPlugin-0.2.tar.gz"
+}

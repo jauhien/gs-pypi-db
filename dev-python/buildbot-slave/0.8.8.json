@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "BuildBot Slave Daemon", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://buildbot.net/", 
+  "info": {
+    "Author:": "Dustin J. Mitchell", 
+    "Bug Tracker:": "http://trac.buildbot.net/", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://buildbot.net/", 
+    "License:": "GNU GPL", 
+    "Package Index Owner:": "Tom.Prince, bhearsum, djmitche"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "BuildBot Slave Daemon", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9854d1df35cb09a5320b30b76eefd9ba", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildbot-slave/buildbot-slave-0.8.8.tar.gz"
+}

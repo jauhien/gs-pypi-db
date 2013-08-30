@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Distutils commands to upload files to several servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://ingeniweb.svn.sourceforge.net/svnroot/ingeniweb/iw.dist", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://ingeniweb.svn.sourceforge.net/svnroot/ingeniweb/iw.dist", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "Distutils commands to upload files to several servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "211c8302406c70550792617ebaaa747b", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iw.dist/iw.dist-0.1.8.tar.gz"
+}

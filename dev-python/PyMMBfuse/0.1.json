@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fuse driver for BBC Microcomputer DFS disk images and MMB disk bundles", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://projects.tlspu.com/PyMMB", 
+  "info": {
+    "Author:": "Adrian Hungate", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "SunOS/Solaris"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://projects.tlspu.com/PyMMB", 
+    "Package Index Owner:": "haqa", 
+    "Platform:": "noarch"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Fuse driver for BBC Microcomputer DFS disk images and MMB disk bundles", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7de43c5f3ad382a54e9dbe505496ee98", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyMMBfuse/PyMMBfuse-0.1.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HIPAA X12 validator, parser and converter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/azoner/pyx12", 
+  "info": {
+    "Author:": "John Holland", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Healthcare Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/azoner/pyx12", 
+    "Keywords:": "x12 hipaa healthcare edi", 
+    "License:": "BSD", 
+    "Package Index Owner:": "johnholland", 
+    "Platform:": "All"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "HIPAA X12 validator, parser and converter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a519e99880ad748bdc50ccd635eda3ed", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyx12/pyx12-2.0.1.tar.gz"
+}

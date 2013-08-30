@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python logging handler for Fluentd event collector", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fluent/fluent-logger-python", 
+  "info": {
+    "Author:": "Kazuki Ohta", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/fluent-logger/", 
+    "Home Page:": "https://github.com/fluent/fluent-logger-python", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "kzk"
+  }, 
+  "license": "", 
+  "longdescription": "A Python logging handler for Fluentd event collector", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb50d6151b39852b827e2961dc447130", 
+  "source_uri": "http://pypi.python.org/pypi/fluent-logger/"
+}

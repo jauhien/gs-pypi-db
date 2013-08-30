@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Run a process with a timeout attached to it.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/TimeoutProcess/", 
+  "info": {
+    "Author:": "Eugene Ching", 
+    "Home Page:": "http://pypi.python.org/pypi/TimeoutProcess/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "eching21"
+  }, 
+  "license": "", 
+  "longdescription": "Run a process with a timeout attached to it.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4be6f4b6024ff7b39d3d27df7765e3bd", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TimeoutProcess/TimeoutProcess-0.1.0.zip"
+}

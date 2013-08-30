@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-app-metrics is a reusable Django application for tracking and emailing application metrics.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/frankwiles/django-app-metrics", 
+  "info": {
+    "Author:": "Frank Wiles", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/frankwiles/django-app-metrics", 
+    "Package Index Owner:": "fwiles"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-app-metrics is a reusable Django application for tracking and emailing application metrics.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "673ce49810ec77c29f550bcc8d60deab", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-app-metrics/django-app-metrics-0.9.0.tar.gz"
+}

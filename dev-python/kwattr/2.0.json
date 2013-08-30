@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "decorator make keywords arguments of bool values from function attributes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ivan Bykov", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ]
+    }, 
+    "License:": "Python license", 
+    "Package Index Owner:": "ivb", 
+    "Platform:": "python 2.7"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "decorator make keywords arguments of bool values from function attributes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2228ec9b7de7a94519346a0ea0a6ae6", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kwattr/kwattr-2.0.zip"
+}

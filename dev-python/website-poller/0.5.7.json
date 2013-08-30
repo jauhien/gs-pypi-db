@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Polls specified websites and alerts using system notifications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://koodilehto.github.com/website-poller", 
+  "info": {
+    "Author:": "Koodilehto osk.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://koodilehto.github.com/website-poller", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Juho.Vepslinen"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Polls specified websites and alerts using system notifications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c0ceb015e0d3ecf1c1b82c468032b429", 
+  "source_uri": "https://pypi.python.org/packages/source/w/website-poller/website-poller-0.5.7.tar.gz"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fixture to bring up temporary pgbouncer instance.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/python-pgbouncer", 
+  "info": {
+    "Author:": "Launchpad Developers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/python-pgbouncer", 
+    "Package Index Owner:": "lifeless, stub, flacoste, gavinpanella, benji"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Fixture to bring up temporary pgbouncer instance.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eb7c19c573eba290a946188ba887f09c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pgbouncer/pgbouncer-0.0.8.tar.gz"
+}

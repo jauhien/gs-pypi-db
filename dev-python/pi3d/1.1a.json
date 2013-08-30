@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pi3d OpenGLES2 3D graphics library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pi3d.github.com/html/index.html", 
+  "info": {
+    "Author:": "Tim Skillman, Paddy Gaunt, Tom Ritchford", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pi3d.github.com/html/index.html", 
+    "License:": "MIT generally but see docstrings in specific files", 
+    "Package Index Owner:": "TomSwirly, paddywwoof", 
+    "Platform:": "Raspberry Pi,Linux (requires X and mesa-utils-extra)"
+  }, 
+  "license": "", 
+  "longdescription": "pi3d OpenGLES2 3D graphics library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "02a693e15957aa6d36c48be549b01e01", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pi3d/pi3d-1.1a.tar.gz"
+}

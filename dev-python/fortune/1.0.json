@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python version of old BSD Unix fortune program", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://software.clapper.org/fortune/", 
+  "info": {
+    "Author:": "Brian M. Clapper", 
+    "Categories": {
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Filters"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/f/fortune/fortune-1.0.tar.gz", 
+    "Home Page:": "http://software.clapper.org/fortune/", 
+    "License:": "BSD-style license", 
+    "Package Index Owner:": "bmc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python version of old BSD Unix fortune program", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ad248ffb2da4ad4aa0379a36d61e4b28", 
+  "source_uri": "http://pypi.python.org/packages/source/f/fortune/fortune-1.0.tar.gz"
+}

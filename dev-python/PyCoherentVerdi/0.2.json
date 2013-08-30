@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Interface to the Verdi laser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Pierre Clad\u00e9", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//PyCoherentVerdi", 
+    "Keywords:": "Coherent,Verdi", 
+    "License:": "This software can be used under one of the following two licenses: (1) The BSD license. (2) Any other license, as long as it is obtained from the original author.", 
+    "Package Index Owner:": "clade"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Interface to the Verdi laser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4013cecebc9edf1381f7291853f3fbbe", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyCoherentVerdi/PyCoherentVerdi-0.2.tar.gz"
+}

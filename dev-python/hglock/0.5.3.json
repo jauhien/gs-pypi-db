@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This extension implements a centralied file-based locking scheme for Mercurial.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/lantiq/hglock", 
+  "info": {
+    "Author:": "Lantiq", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/lantiq/hglock", 
+    "Keywords:": "mercurial locking", 
+    "License:": "GNU GPLv2+", 
+    "Package Index Owner:": "lantiq"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This extension implements a centralied file-based locking scheme for Mercurial.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ced866a28a7f71c66ff73b02a4329437", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hglock/hglock-0.5.3.tar.gz"
+}

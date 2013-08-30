@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a Python interface to the CHIANTI atomic database for astrophysical spectroscopy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://chiantipy.sourceforge.net", 
+  "info": {
+    "Author:": "Ken Dere", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/projects/chiantipy", 
+    "Home Page:": "http://chiantipy.sourceforge.net", 
+    "Package Index Owner:": "derekp"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "a Python interface to the CHIANTI atomic database for astrophysical spectroscopy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bae6810f860b0629b3c949b9f750c49f", 
+  "source_uri": "http://sourceforge.net/projects/chiantipy"
+}

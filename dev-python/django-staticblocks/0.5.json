@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "staticblocks provides you with tools for content managers to easily include flatpage content as a snippet in your templates while retaining structured control over the templates themselves", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ethan Jucovy, Rob Marianski", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ]
+    }, 
+    "Keywords:": "django template static", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rmarianski, ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "staticblocks provides you with tools for content managers to easily include flatpage content as a snippet in your templates while retaining structured control over the templates themselves", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f6de97a377e4f206f7f3ae54970d3108", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-staticblocks/django-staticblocks-0.5.tar.gz"
+}

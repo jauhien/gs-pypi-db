@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recursive descent parsing library based on functional combinators", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/funcparserlib/", 
+  "info": {
+    "Author:": "Andrey Vlasovskikh", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/funcparserlib/", 
+    "Keywords:": "parsing parser lexer library functional combinator fp functor monad", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vlasovskikh"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Recursive descent parsing library based on functional combinators", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3aba546bdad5d0826596910551ce37c0", 
+  "source_uri": "https://pypi.python.org/packages/source/f/funcparserlib/funcparserlib-0.3.6.tar.gz"
+}

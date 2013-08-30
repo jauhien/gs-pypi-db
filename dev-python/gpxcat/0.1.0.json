@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Script to concatenate GPX tracks.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/svetlyak40wt/gpxcat/", 
+  "info": {
+    "Author:": "Alexander Artemenko", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/svetlyak40wt/gpxcat/", 
+    "Keywords:": "gps gps navigation tracks", 
+    "Package Index Owner:": "svetlyak40wt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Script to concatenate GPX tracks.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ce21d163ec72553d42b41740d8acc05", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gpxcat/gpxcat-0.1.0.tar.gz"
+}

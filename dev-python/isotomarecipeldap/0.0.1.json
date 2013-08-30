@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipes to configure slapd", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/isotoma.recipe.slapd", 
+  "info": {
+    "Author:": "Doug Winter", 
+    "Categories": {
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/isotoma.recipe.slapd", 
+    "Keywords:": "ldap buildout slapd", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "johncarr"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Buildout recipes to configure slapd", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0633308e928597c96c099f8aa737483c", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.ldap/isotoma.recipe.ldap-0.0.1.zip"
+}

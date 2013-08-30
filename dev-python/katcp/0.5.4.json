@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Karoo Array Telescope Communication Protocol library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ska-sa/katcp-python", 
+  "info": {
+    "Author:": "SKA SA KAT-7 / MeerKAT CAM team", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//katcp", 
+    "Download URL:": "http://pypi.python.org/pypi/katcp", 
+    "Home Page:": "https://github.com/ska-sa/katcp-python", 
+    "Keywords:": "kat kat7 ska MeerKAT", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nmarais, Lize.van.den.Heever", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Karoo Array Telescope Communication Protocol library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "653eca09849a95087bfa8f94eeb9ac8d", 
+  "source_uri": "http://pypi.python.org/pypi/katcp"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Navigate HTTP resources using WADL files as guides.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/wadllib", 
+  "info": {
+    "Author:": "LAZR Developers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Download URL:": "https://launchpad.net/wadllib/+download", 
+    "Home Page:": "https://launchpad.net/wadllib", 
+    "License:": "LGPL v3", 
+    "Package Index Owner:": "barry, gary, leonard, flacoste, gavinpanella, benji, lifeless, mitechie"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Navigate HTTP resources using WADL files as guides.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b78902ee7fda49ae50e5acc1bb0298f9", 
+  "source_uri": "https://launchpad.net/wadllib/+download"
+}

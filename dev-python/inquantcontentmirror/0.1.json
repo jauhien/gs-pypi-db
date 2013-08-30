@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "mirror plone content transparently in a plone site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/inquant.contentmirror/trunk", 
+  "info": {
+    "Author:": "Stefan Eletzhofer", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/inquant.contentmirror/trunk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "seletz"
+  }, 
+  "license": "", 
+  "longdescription": "mirror plone content transparently in a plone site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bffc5c1601181f3d4e4917384fe64291", 
+  "source_uri": "https://pypi.python.org/packages/source/i/inquant.contentmirror/inquant.contentmirror-0.1.tar.gz"
+}

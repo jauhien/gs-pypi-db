@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An open source product for Plone to download or email a page seen by the user as a PDF file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vincent-psarga/collective.sendaspdf", 
+  "info": {
+    "Author:": "Zest Software", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vincent-psarga/collective.sendaspdf", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vincentpretre, maurits, fredvd, markvl"
+  }, 
+  "license": "", 
+  "longdescription": "An open source product for Plone to download or email a page seen by the user as a PDF file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04f895d3cb10b70d81347410d5ef8e02", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.sendaspdf/collective.sendaspdf-2.8.zip"
+}

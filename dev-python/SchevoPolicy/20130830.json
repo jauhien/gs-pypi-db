@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Context-sensitive security policy enforcement for Schevo databases", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://schevo.org/wiki/Schevo", 
+  "info": {
+    "Author:": "Orbtech, L.L.C. and contributors", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://schevo.org/wiki/Schevo", 
+    "Keywords:": "database dbms", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "gldnspud", 
+    "Platform:": "UNIX,Windows"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Context-sensitive security policy enforcement for Schevo databases", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be6072ad0ae62d06f49f37e1672d0e1d", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SchevoPolicy/SchevoPolicy-1.0a1.tar.gz"
+}

@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ScribeHandler is a simple proxy layer that works with the python standard logging module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jmj/ScribeHandler", 
+  "info": {
+    "Author:": "Jeremy Jones", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/ScribeHandler", 
+    "Home Page:": "http://github.com/jmj/ScribeHandler", 
+    "Keywords:": "scribe,logging,scribed", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "jmj"
+  }, 
+  "license": "", 
+  "longdescription": "ScribeHandler is a simple proxy layer that works with the python standard logging module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a717413f52e36e0c086bd20abfece10", 
+  "source_uri": "http://pypi.python.org/pypi/ScribeHandler"
+}

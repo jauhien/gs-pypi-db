@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Defines test infrastructure for building CoreJet tests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://corejet.org", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://corejet.org", 
+    "Keywords:": "corejet zope.testing", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "datakurre, optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Defines test infrastructure for building CoreJet tests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fac95fcbf9789d5d423a41341c5cfb00", 
+  "source_uri": "https://pypi.python.org/packages/source/c/corejet.core/corejet.core-1.0.2.zip"
+}

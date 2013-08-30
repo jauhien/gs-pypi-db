@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Thin wrapper around the CKAN Action API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/open-data/ckanapi", 
+  "info": {
+    "Author:": "Ian Ward", 
+    "Home Page:": "https://github.com/open-data/ckanapi", 
+    "Package Index Owner:": "iward"
+  }, 
+  "license": "", 
+  "longdescription": "Thin wrapper around the CKAN Action API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c984f2ec63edfc358074dfe9a3c590f4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/ckanapi/ckanapi-2.1.tar.gz"
+}

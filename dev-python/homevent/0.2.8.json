@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Event handler for home automation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://homevent.smurf.noris.de", 
+  "info": {
+    "Author:": "Matthias Urlichs", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Manufacturing"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Interpreters"
+      ]
+    }, 
+    "Download URL:": "http://netz.smurf.noris.de/cgi/gitweb?p=homevent.git;a=snapshot;h=master", 
+    "Home Page:": "http://homevent.smurf.noris.de", 
+    "Keywords:": "Home automation, event handling, FS20, embedded", 
+    "License:": "GPL", 
+    "Package Index Owner:": "smurfix", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Event handler for home automation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://netz.smurf.noris.de/cgi/gitweb?p=homevent.git;a=snapshot;h=master"
+}

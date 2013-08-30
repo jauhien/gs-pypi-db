@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Page caching WSGI middleware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/abiczo/pagecache", 
+  "info": {
+    "Author:": "Andras Biczo", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/abiczo/pagecache", 
+    "Keywords:": "cache wsgi", 
+    "License:": "MIT", 
+    "Package Index Owner:": "abiczo"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Page caching WSGI middleware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "045a472f02f33f822118c4d70156ae9a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pagecache/pagecache-0.1.1.tar.gz"
+}

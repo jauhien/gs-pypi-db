@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrap any Plone portlet with geolocation or language negotiation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.portlet.geo", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.portlet.geo", 
+    "Keywords:": "plone portlet geolocation", 
+    "License:": "GPL", 
+    "Package Index Owner:": "malthe"
+  }, 
+  "license": "", 
+  "longdescription": "Wrap any Plone portlet with geolocation or language negotiation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a8fa20e782af0ca8f0a6194124b6b7a1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.geo/collective.portlet.geo-1.0.2.tar.gz"
+}

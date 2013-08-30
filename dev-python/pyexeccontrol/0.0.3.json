@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An interface to gdb to control program execution", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/pyexeccontrol", 
+  "info": {
+    "Author:": "Francesco Bruschi", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/pyexeccontrol", 
+    "Keywords:": "gdb debug execution", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fbrusch"
+  }, 
+  "license": "", 
+  "longdescription": "An interface to gdb to control program execution", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "648edde70727a30812c0637495074101", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyexeccontrol/pyexeccontrol-0.0.3.tar.gz"
+}

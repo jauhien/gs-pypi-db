@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Line-granularity, thread-aware deterministic and statistic pure-python profiler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vpelletier/pprofile", 
+  "info": {
+    "Author:": "Vincent Pelletier", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vpelletier/pprofile", 
+    "License:": "GPL 2+", 
+    "Package Index Owner:": "vpelletier", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "Line-granularity, thread-aware deterministic and statistic pure-python profiler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "17ef1092013ec9e21918935179f135dd", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pprofile/pprofile-1.6.2.tar.gz"
+}

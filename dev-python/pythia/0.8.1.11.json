@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extensible, object-oriented framework for specifying and staging complex, multi-physics simulations.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.geodynamics.org/cig/software/packages/cs/pythia/", 
+  "info": {
+    "Author:": "Michael A.G. Aivazis", 
+    "Home Page:": "http://www.geodynamics.org/cig/software/packages/cs/pythia/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "leif"
+  }, 
+  "license": "", 
+  "longdescription": "An extensible, object-oriented framework for specifying and staging complex, multi-physics simulations.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e10d5424d49c0d5867becd3517aa1bbb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pythia/pythia-0.8.1.11.tar.gz"
+}

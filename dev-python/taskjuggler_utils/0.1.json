@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to help use taskjuggler without its GUI and produce nice reports.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://barbieri-playground.googlecode.com/svn/python/taskjuggler-utils/", 
+  "info": {
+    "Author:": "Gustavo Sverzut Barbieri", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "LaTeX"
+      ]
+    }, 
+    "Home Page:": "http://barbieri-playground.googlecode.com/svn/python/taskjuggler-utils/", 
+    "Keywords:": "taskjuggler helper scripts tools project management gantt", 
+    "License:": "PSF", 
+    "Package Index Owner:": "gsbarbieri"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Tools to help use taskjuggler without its GUI and produce nice reports.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cc34449aee614e01a1d8a2de212ad2c8", 
+  "source_uri": "https://pypi.python.org/packages/source/t/taskjuggler_utils/taskjuggler_utils-0.1.tar.gz"
+}

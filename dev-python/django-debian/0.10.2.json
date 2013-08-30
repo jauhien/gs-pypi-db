@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Debian integration for Django applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/django-debian", 
+  "info": {
+    "Author:": "Zygmunt Krynicki", 
+    "Home Page:": "http://launchpad.net/django-debian", 
+    "License:": "LGPL3", 
+    "Package Index Owner:": "terceiro, zyga, doanac, mwhudson, Paul.Larson"
+  }, 
+  "license": "", 
+  "longdescription": "Debian integration for Django applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c57e60fe9530d16f2185a019c0e0fd7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-debian/django-debian-0.10.2.zip"
+}

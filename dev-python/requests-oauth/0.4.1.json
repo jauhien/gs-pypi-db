@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hook for adding Open Authentication support to Python-requests HTTP library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/maraujop/requests-oauth", 
+  "info": {
+    "Author:": "Miguel Araujo", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/maraujop/requests-oauth", 
+    "Keywords:": "requests,python-requests,OAuth,open authentication", 
+    "License:": "BSD", 
+    "Package Index Owner:": "maraujop"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Hook for adding Open Authentication support to Python-requests HTTP library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49636788c3e2d94d9db1c765c90842c5", 
+  "source_uri": "https://pypi.python.org/packages/source/r/requests-oauth/requests-oauth-0.4.1.tar.gz"
+}

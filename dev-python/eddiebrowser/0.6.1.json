@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A CGI interface to browse RRD graphs of system statistics.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://eddie-tool.net/eddiebrowser/", 
+  "info": {
+    "Author:": "Chris Miles", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Download URL:": "http://eddie-tool.net/eddiebrowser/download/", 
+    "Home Page:": "http://eddie-tool.net/eddiebrowser/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "chrismiles"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A CGI interface to browse RRD graphs of system statistics.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://eddie-tool.net/eddiebrowser/download/"
+}

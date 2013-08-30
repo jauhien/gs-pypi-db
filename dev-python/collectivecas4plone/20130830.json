@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A PAS plugin that authenticates users against a CAS (Central Authentication Service) server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Timo Stollenwerk", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "zope PAS", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "timo, ramon.nb, sneridagh"
+  }, 
+  "license": "", 
+  "longdescription": "A PAS plugin that authenticates users against a CAS (Central Authentication Service) server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1360291603770c3bff08ef7c15f0c40", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.cas4plone/collective.cas4plone-1.0a3.tar.gz"
+}

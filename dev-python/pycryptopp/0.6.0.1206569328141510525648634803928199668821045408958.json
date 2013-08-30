@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrappers for a few algorithms from the Crypto++ library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://tahoe-lafs.org/trac/pycryptopp", 
+  "info": {
+    "Author:": "Zooko Wilcox-O'Hearn", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://tahoe-lafs.org/trac/pycryptopp", 
+    "License:": "GNU GPL", 
+    "Package Index Owner:": "zooko, warner"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "Python wrappers for a few algorithms from the Crypto++ library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce38fbe03705d27da408c78b56eb1947", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pycryptopp/pycryptopp-0.6.0.1206569328141510525648634803928199668821045408958.tar.gz"
+}

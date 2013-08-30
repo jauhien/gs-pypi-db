@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LLSD parser and generator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wiki.secondlife.com/wiki/LLSD", 
+  "info": {
+    "Author:": "Linden Lab", 
+    "Home Page:": "http://wiki.secondlife.com/wiki/LLSD", 
+    "Keywords:": "llsd lindenlab secondlife ogp serialization xml", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mrtopf"
+  }, 
+  "license": "", 
+  "longdescription": "LLSD parser and generator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9bfa93b3af3c28153c85b7d65e6fcdf8", 
+  "source_uri": "https://pypi.python.org/packages/source/l/llsd/llsd-unreleased.unofficialdev.tar.gz"
+}

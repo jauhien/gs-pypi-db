@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python implementation of Aaron Clausets power-law distribution fitter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/agpy/wiki/PowerLaw", 
+  "info": {
+    "Author:": "Adam Ginsburg", 
+    "Download URL:": "http://code.google.com/p/agpy/source/browse/#svn/trunk/plfit", 
+    "Home Page:": "http://code.google.com/p/agpy/wiki/PowerLaw", 
+    "License:": "MIT", 
+    "Package Index Owner:": "keflavich", 
+    "Platform:": "Linux,MacOS X"
+  }, 
+  "license": "", 
+  "longdescription": "Python implementation of Aaron Clausets power-law distribution fitter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f89861673fd86bd0fe740037d97dafe0", 
+  "source_uri": "http://code.google.com/p/agpy/source/browse/#svn/trunk/plfit"
+}

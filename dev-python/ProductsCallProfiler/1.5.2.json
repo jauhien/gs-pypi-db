@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Call Profiler monitors the chain of DTML, SQL, PT, Python method and Python Script", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/Products.CallProfiler", 
+  "info": {
+    "Author:": "Richard Jones", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/Products.CallProfiler", 
+    "License:": "gpl", 
+    "Package Index Owner:": "toutpt"
+  }, 
+  "license": "", 
+  "longdescription": "Call Profiler monitors the chain of DTML, SQL, PT, Python method and Python Script", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "232bb35c9aecd07db1320f75543951be", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.CallProfiler/Products.CallProfiler-1.5.2.tar.gz"
+}

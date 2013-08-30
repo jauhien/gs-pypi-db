@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for defining a file-storage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zc.recipe.filestorage/", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "ZODB"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zc.recipe.filestorage/", 
+    "Keywords:": "zodb,zc.buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m, fdrake, srichter, philikon, chrism, baijum, ctheune, benji, ignas, projekt01, mgedmin, ccomb, pcardune, nadako, faassen, hathawsh, chrisw, hannosch, tseaver, icemac, gary, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "C Buildout recipe for defining a file-storage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1712c26fd583de4175747108a5c92f2", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.recipe.filestorage/zc.recipe.filestorage-1.0.1.tar.gz"
+}

@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "NOTifications Over SSH", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://m0g.net/notossh/", 
+  "info": {
+    "Author:": "Bernard `Guyzmo` Pratz", 
+    "Categories": {
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Topic": [
+        "Text Editors", 
+        "Emacs"
+      ]
+    }, 
+    "Home Page:": "http://m0g.net/notossh/", 
+    "Keywords:": "ssh irc notifications growl libnotify irssi erc daemon", 
+    "License:": "WTFPL", 
+    "Package Index Owner:": "guyzmo"
+  }, 
+  "license": "", 
+  "longdescription": "NOTifications Over SSH", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a7cf6c8484a4a4f9c53e3adcf2370310", 
+  "source_uri": "https://pypi.python.org/packages/source/n/notossh/notossh-1.0.tar.gz"
+}

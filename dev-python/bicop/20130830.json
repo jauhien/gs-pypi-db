@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read bind-style configuration files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Wichert Akkerman - Simplon", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "configparser configuration parser ISC bind", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wichert"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Read bind-style configuration files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0bde05ca32cadb3739a103210b879e82", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bicop/bicop-1.0rc2.tar.gz"
+}

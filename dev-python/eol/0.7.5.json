@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a command-line script and Python module for working with text file end-of-line (EOL) characters", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/trentm/eol", 
+  "info": {
+    "Author:": "Trent Mick", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/trentm/eol", 
+    "Keywords:": "eol cli cr crlf lf", 
+    "License:": "MIT", 
+    "Package Index Owner:": "trentm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "a command-line script and Python module for working with text file end-of-line (EOL) characters", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6becb0e915b475552e1be477f2a49fae", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eol/eol-0.7.5.zip"
+}

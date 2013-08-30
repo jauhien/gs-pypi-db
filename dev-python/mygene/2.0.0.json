@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Client for MyGene.Info services.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/newgene/mygene", 
+  "info": {
+    "Author:": "Chunlei Wu", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/newgene/mygene", 
+    "Keywords:": "biology gene annotation web service client api", 
+    "License:": "BSD", 
+    "Package Index Owner:": "newgene"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python Client for MyGene.Info services.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f6d246b851999523f420cb509611ba3a", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mygene/mygene-2.0.0.tar.gz"
+}

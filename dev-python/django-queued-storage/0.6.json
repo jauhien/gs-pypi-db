@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-queued-storage.rtfd.org", 
+  "info": {
+    "Author:": "Jannis Leidel", 
+    "Bug Tracker:": "https://github.com/jezdez/django-queued-storage/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://django-queued-storage.rtfd.org", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jezdez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c7e469f45a2cae1fe186cf8e58c9b2b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-queued-storage/django-queued-storage-0.6.tar.gz"
+}

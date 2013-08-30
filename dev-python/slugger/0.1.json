@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Slugging done right. Tries to support close to 300 languages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mbr/slugger", 
+  "info": {
+    "Author:": "Marc Brinkmann", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Internationalization"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mbr/slugger", 
+    "Keywords:": "slug slugging web i18n", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "mbr"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Slugging done right. Tries to support close to 300 languages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9bb93674818caf2b185c6f7105d9c823", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slugger/slugger-0.1.tar.gz"
+}

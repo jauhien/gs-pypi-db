@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple Django app to aggregate RSS feeds.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ahernp/django-feedreader", 
+  "info": {
+    "Author:": "Paul Ahern", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ahernp/django-feedreader", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "ahernp"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple Django app to aggregate RSS feeds.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9590d1f0e171a19c771a4c4eb64903aa", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-feedreader/django-feedreader-0.7.4.tar.gz"
+}

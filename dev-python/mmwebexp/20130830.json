@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A screen scraper to extract subscribersmembers from a Mailman web control panel", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/mmwebexp/", 
+  "info": {
+    "Author:": "Randy Syring", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/mmwebexp/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rsyring"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A screen scraper to extract subscribersmembers from a Mailman web control panel", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "875f6abc49a50d523573512adb24ac89", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mmwebexp/mmwebexp-0.1dev.zip"
+}

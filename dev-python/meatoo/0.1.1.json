@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line client for Gentoos Meatoo using XML-RPC.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tools.assembla.com/meatoo/", 
+  "info": {
+    "Author:": "Rob Cakebread", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://tools.assembla.com/meatoo/", 
+    "Keywords:": "gentoo ebuilds PyPI freshmeat", 
+    "License:": "GPL-2", 
+    "Package Index Owner:": "pythonhead"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Command-line client for Gentoos Meatoo using XML-RPC.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f700e13016faf192ef07fa364ca7d05f", 
+  "source_uri": "https://pypi.python.org/packages/source/m/meatoo/meatoo-0.1.1.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Filesystem events monitoring", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gorakhargosh/watchdog", 
+  "info": {
+    "Author:": "Yesudeep Mangalapilly", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//watchdog", 
+    "Home Page:": "http://github.com/gorakhargosh/watchdog", 
+    "Keywords:": "python filesystem monitoring monitor FSEvents kqueue inotify ReadDirectoryChangesW polling DirectorySnapshot", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "gorakhargosh"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Filesystem events monitoring", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e8fb84aa6bdeb2054906bdf40048eba", 
+  "source_uri": "https://pypi.python.org/packages/source/w/watchdog/watchdog-0.6.0.tar.gz"
+}

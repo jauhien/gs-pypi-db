@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe for compiling pycairo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/lgs/yaco.recipe.pycairo", 
+  "info": {
+    "Author:": "Yaco Sistemas (Lorenzo Gil)", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Buildout"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/lgs/yaco.recipe.pycairo", 
+    "Keywords:": "pycairo buildout", 
+    "License:": "EUPL", 
+    "Package Index Owner:": "lgs"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout recipe for compiling pycairo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89e9ef8a14182e3ecc4c141d667935e7", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yaco.recipe.pycairo/yaco.recipe.pycairo-0.1.1.tar.gz"
+}

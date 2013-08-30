@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python wrapper for the Brightcove read-only API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jonathan Beluch", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Keywords:": "python brightcove api", 
+    "License:": "GPL3", 
+    "Package Index Owner:": "jbeluch"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "A python wrapper for the Brightcove read-only API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "20f664b7832ccc1ac807d8f50fa18471", 
+  "source_uri": "https://pypi.python.org/packages/source/b/brightcove/brightcove-0.2.tar.gz"
+}

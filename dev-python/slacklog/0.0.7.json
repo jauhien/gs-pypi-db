@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert Slackware ChangeLog to various formats", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/slacklog/", 
+  "info": {
+    "Author:": "Mikko V\u00c3\u00a4rri", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//slacklog", 
+    "Home Page:": "http://pypi.python.org/pypi/slacklog/", 
+    "License:": "GNU GPLv3", 
+    "Package Index Owner:": "vmj"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Convert Slackware ChangeLog to various formats", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59d87d5850ab7cf5c4b7af7c0934ba99", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slacklog/slacklog-0.0.7.tar.gz"
+}

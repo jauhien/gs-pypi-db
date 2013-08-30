@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Executes yadtshell commands triggered by a yadtbroadcaster.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/yadt/yadtreceiver", 
+  "info": {
+    "Author:": "Arne Hilmann, Maximilien Riehl, Michael Gruber", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/yadt/yadtreceiver", 
+    "License:": "GNU GPL v3", 
+    "Package Index Owner:": "is24yadt"
+  }, 
+  "license": "", 
+  "longdescription": "Executes yadtshell commands triggered by a yadtbroadcaster.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b14d341c9857ff73cb2586248f0379c", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yadtreceiver/yadtreceiver-0.1.10.tar.gz"
+}

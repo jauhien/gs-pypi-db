@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe to parse pip config files ang use parsed info in a buildout.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.recipe.pip", 
+  "info": {
+    "Author:": "Anatoly Bubenkov", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.recipe.pip", 
+    "Keywords:": "zc.buildout buildout recipe", 
+    "License:": "GPL", 
+    "Package Index Owner:": "anatoly"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "c.buildout recipe to parse pip config files ang use parsed info in a buildout.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef83ca8aa05a122b7a84247fdf88fe94", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.pip/collective.recipe.pip-0.1.7.tar.gz"
+}

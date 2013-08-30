@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper script for Hypermail to manage the archives of mlmmj lists.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/mlmmj_archiver", 
+  "info": {
+    "Author:": "Mate Gabri", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/mlmmj_archiver", 
+    "Keywords:": "mlmmj archive hypermail", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ScOut3R"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Wrapper script for Hypermail to manage the archives of mlmmj lists.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "81e5560b83932a3c08e14e67cd901025", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mlmmj_archiver/mlmmj_archiver-0.1bdev.tar.gz"
+}

@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CRUD admin interface for sqlalchemy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Stas Kaledin", 
+    "Package Index Owner:": "sallyruthstruik"
+  }, 
+  "license": "", 
+  "longdescription": "CRUD admin interface for sqlalchemy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7301e7cd92aab4adbae2e0cc174c2025", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlalchemy_admin/sqlalchemy_admin-0.1.2.tar.gz"
+}

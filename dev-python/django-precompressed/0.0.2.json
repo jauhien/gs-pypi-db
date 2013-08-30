@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "precompressed is a pluggable application for Django developers who want to serve precompressed (gipped) static files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jhmaddox/django-precompressed/", 
+  "info": {
+    "Author:": "James Maddox", 
+    "Home Page:": "https://github.com/jhmaddox/django-precompressed/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jhmaddox"
+  }, 
+  "license": "", 
+  "longdescription": "precompressed is a pluggable application for Django developers who want to serve precompressed (gipped) static files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be25f2d5fb6fc56d8ebd718948381804", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-precompressed/django-precompressed-0.0.2.tar.gz"
+}

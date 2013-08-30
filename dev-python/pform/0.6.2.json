@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Form generation library for Pyramid framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fafhrd91/pform/", 
+  "info": {
+    "Author:": "Nikolay Kim", 
+    "Categories": {
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ]
+    }, 
+    "Home Page:": "https://github.com/fafhrd91/pform/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fafhrd"
+  }, 
+  "license": "", 
+  "longdescription": "Form generation library for Pyramid framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb61831fd48e373698a36a654aa189cf", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pform/pform-0.6.2.tar.gz"
+}

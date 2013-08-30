@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tracker-like task management system for plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/izug.ticketbox", 
+  "info": {
+    "Author:": "Mathias Leimgruber", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/izug.ticketbox", 
+    "Keywords:": "ticketbox tracker ftw", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "tschanzt, maethu, 4teamwork, jone"
+  }, 
+  "license": "", 
+  "longdescription": "A tracker-like task management system for plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18db4b40c5293dcb6b9e99504bf4025c", 
+  "source_uri": "https://pypi.python.org/packages/source/i/izug.ticketbox/izug.ticketbox-4.5.5.zip"
+}

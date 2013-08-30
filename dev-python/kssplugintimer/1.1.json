@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Timer plugin for KSS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://plone.org/products/extreme-management-tool/", 
+  "info": {
+    "Author:": "Guido Wesdorp and Zest software", 
+    "Home Page:": "https://plone.org/products/extreme-management-tool/", 
+    "Package Index Owner:": "reinout, maurits, jladage, guidow, twilgiht"
+  }, 
+  "license": "", 
+  "longdescription": "Timer plugin for KSS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f8a024ca667932670bf467dcd022a4b", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kss.plugin.timer/kss.plugin.timer-1.1.zip"
+}

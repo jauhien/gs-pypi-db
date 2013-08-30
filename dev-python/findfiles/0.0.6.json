@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple iterator for finding files on disk", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rranshous/findfiles", 
+  "info": {
+    "Author:": "Robby Ranshous", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rranshous/findfiles", 
+    "Keywords:": "find", 
+    "Package Index Owner:": "rranshous"
+  }, 
+  "license": "", 
+  "longdescription": "simple iterator for finding files on disk", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "38b3f4fc2fc570d72ad3e59d844bf75e", 
+  "source_uri": "https://pypi.python.org/packages/source/f/findfiles/findfiles-0.0.6.tar.gz"
+}

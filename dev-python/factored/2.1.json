@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A WSGI app that allows you to add another factor of authentication to any application server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vangheem/factored", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vangheem/factored", 
+    "Keywords:": "mutli factor authentication 2factor mutl-factor auth auth_tkt google otp", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "vangheem"
+  }, 
+  "license": "", 
+  "longdescription": "A WSGI app that allows you to add another factor of authentication to any application server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a43f8f499f5f28bb22a998eff8706112", 
+  "source_uri": "https://pypi.python.org/packages/source/f/factored/factored-2.1.zip"
+}

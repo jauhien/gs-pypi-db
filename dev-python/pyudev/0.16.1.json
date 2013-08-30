@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A libudev binding", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyudev.readthedocs.org/", 
+  "info": {
+    "Author:": "Sebastian Wiesner", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "System", 
+        "Operating System Kernels", 
+        "Linux"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyudev", 
+    "Home Page:": "http://pyudev.readthedocs.org/", 
+    "License:": "LGPL 2.1+", 
+    "Package Index Owner:": "lunar", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A libudev binding", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4034de584b6d9efcbfc590a047c63285", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyudev/pyudev-0.16.1.tar.gz"
+}

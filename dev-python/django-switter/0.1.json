@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Switter is a drop-in Django app that gets tweets for you, keeps them cached for a short while and makes it easy to display them on your site. Switter provides a django-cms plugin.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/grucha/django-switter", 
+  "info": {
+    "Author:": "Sylwester Gruszka", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/grucha/django-switter", 
+    "License:": "MIT", 
+    "Package Index Owner:": "grucha"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Switter is a drop-in Django app that gets tweets for you, keeps them cached for a short while and makes it easy to display them on your site. Switter provides a django-cms plugin.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6471caa4a75fd66aa1c273f8a176ecd6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-switter/django-switter-0.1.tar.gz"
+}

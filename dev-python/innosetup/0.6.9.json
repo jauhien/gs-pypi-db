@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "distutils extension module - create an installer by InnoSetup.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Surgo/python-innosetup", 
+  "info": {
+    "Author:": "chrono-meter@gmx.net", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows", 
+        "Windows XP"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/Surgo/python-innosetup/zipball/0.6.9", 
+    "Home Page:": "https://github.com/Surgo/python-innosetup", 
+    "Keywords:": "distutils", 
+    "License:": "PSF", 
+    "Package Index Maintainer:": "Surgo", 
+    "Package Index Owner:": "chronometer, Surgo"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "distutils extension module - create an installer by InnoSetup.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c5ecf51d6a58bdf296ae07ce8ba2a15d", 
+  "source_uri": "https://github.com/Surgo/python-innosetup/zipball/0.6.9"
+}

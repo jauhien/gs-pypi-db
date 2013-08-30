@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Local utility to set portal properties for a sub site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Six Feet Up, Inc.", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sixfeetup, claytron"
+  }, 
+  "license": "", 
+  "longdescription": "Local utility to set portal properties for a sub site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "542b8e06b2ba71a94dd5c05b6c8619c4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.proxyproperties/collective.proxyproperties-0.3.zip"
+}

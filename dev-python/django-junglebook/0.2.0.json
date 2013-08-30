@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds the full power of the junglebook engine to django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Richard Plangger", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Owner:": "login.launchpad.net_97"
+  }, 
+  "license": "", 
+  "longdescription": "Adds the full power of the junglebook engine to django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1cd6919be900fc92717e1aca750170c5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-junglebook/django-junglebook-0.2.0.tar.gz"
+}

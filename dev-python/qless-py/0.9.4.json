@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis-based Queue Management", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/seomoz/qless-py", 
+  "info": {
+    "Author:": "Dan Lecocq", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/seomoz/qless-py", 
+    "Keywords:": "redis,qless,job", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "dan.lecocq"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Redis-based Queue Management", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "447db0cd582a0e03ba8b32fa278c7dc7", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qless-py/qless-py-0.9.4.tar.gz"
+}

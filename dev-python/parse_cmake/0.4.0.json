@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parser for CMakeLists.txt files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/wjwwood/parse_cmake", 
+  "info": {
+    "Author:": "Issac Trotts, William Woodall", 
+    "Home Page:": "http://github.com/wjwwood/parse_cmake", 
+    "Package Index Owner:": "wwoodall"
+  }, 
+  "license": "", 
+  "longdescription": "Parser for CMakeLists.txt files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f471334dd17ebb28bb9d392cdb7cc0f6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/parse_cmake/parse_cmake-0.4.0.tar.gz"
+}

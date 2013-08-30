@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Test WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ollycope.com/software/flea/", 
+  "info": {
+    "Author:": "Oliver Cope", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//flea", 
+    "Home Page:": "http://ollycope.com/software/flea/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "olly"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Test WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cbf9c0450adb2561bc3d33e868f421d6", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flea/flea-7.4.1.tar.gz"
+}

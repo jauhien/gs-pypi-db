@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TFY interfaces and utilities for locks handling", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ztfy.org", 
+  "info": {
+    "Author:": "Thierry Florac", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.ztfy.org", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tflorac"
+  }, 
+  "license": "", 
+  "longdescription": "TFY interfaces and utilities for locks handling", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9fadf49d3c8e05925eace699d1ca4c0b", 
+  "source_uri": "https://pypi.python.org/packages/source/z/ztfy.lock/ztfy.lock-0.1.1.tar.gz"
+}

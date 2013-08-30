@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easily manage your dotfiles", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jbernard/dotfiles", 
+  "info": {
+    "Author:": "Jon Bernard", 
+    "Home Page:": "https://github.com/jbernard/dotfiles", 
+    "License:": "ISC", 
+    "Package Index Owner:": "jbernard"
+  }, 
+  "license": "", 
+  "longdescription": "Easily manage your dotfiles", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "270d6043656efdac935d2a02225788f8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dotfiles/dotfiles-0.6.0.tar.gz"
+}

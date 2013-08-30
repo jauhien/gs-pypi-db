@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send by e-mail an XML file representing the form data together with the e-mail", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.app.example", 
+  "info": {
+    "Author:": "Lur Ibargutxi", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.app.example", 
+    "License:": "GPL", 
+    "Package Index Owner:": "erral"
+  }, 
+  "license": "", 
+  "longdescription": "Send by e-mail an XML file representing the form data together with the e-mail", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "13cc9209cc8588059fd8b117a1d5944d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cs.pfg.xmlmailer/cs.pfg.xmlmailer-0.2.zip"
+}

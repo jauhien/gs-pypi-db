@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python stream editor for command-line calls or integration  into Python programs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Frederic Rentsch", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ]
+    }, 
+    "Keywords:": "stream editor,command line,filter,deletion filter,extraction filter,search and replace,find and substitute,multiple replace,multiple pass,modular concept,text editing,word processing", 
+    "License:": "Freeware expecting authorship credit", 
+    "Maintainer:": "Frederic Rentsch", 
+    "Package Index Maintainer:": "fr", 
+    "Package Index Owner:": "fr", 
+    "Platform:": "Any with Python installed"
+  }, 
+  "license": "", 
+  "longdescription": "A Python stream editor for command-line calls or integration  into Python programs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b687b8417abad0e520341b4a00d0c353", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SE/SE-2.3.zip"
+}

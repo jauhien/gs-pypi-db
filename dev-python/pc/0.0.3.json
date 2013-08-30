@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "process control -- easy fork-exec and pipe with IO redirection", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/aht/pc.py", 
+  "info": {
+    "Author:": "Anh Hai Trinh", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/aht/pc.py", 
+    "Keywords:": "fork exec pipe IO redirection", 
+    "Package Index Owner:": "aht", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "process control -- easy fork-exec and pipe with IO redirection", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "af45afaf4fec7ecd0839d4b13642f34a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pc/pc-0.0.3.tar.gz"
+}

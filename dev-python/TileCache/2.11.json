@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a web map tile caching system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tilecache.org/", 
+  "info": {
+    "Author:": "TileCache Contributors", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Home Page:": "http://tilecache.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "crschmidt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "a web map tile caching system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff0153452a9e88a8d00405fb58d689df", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TileCache/tilecache-2.11.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module for communicating with the ActiveMQ message broker", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pyactivemq/", 
+  "info": {
+    "Author:": "Albert Strasheim", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/pyactivemq/downloads/list", 
+    "Home Page:": "http://code.google.com/p/pyactivemq/", 
+    "Maintainer:": "Albert Strasheim", 
+    "Package Index Owner:": "fullung"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python module for communicating with the ActiveMQ message broker", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://code.google.com/p/pyactivemq/downloads/list"
+}

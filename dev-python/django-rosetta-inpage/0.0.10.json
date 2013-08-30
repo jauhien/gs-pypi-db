@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Translate i18n messages with Django Rosetta", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/citylive/django-rosetta-inpage/", 
+  "info": {
+    "Author:": "Maarten Huijsmans, VikingCo NV", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Internationalization"
+      ]
+    }, 
+    "Home Page:": "http://github.com/citylive/django-rosetta-inpage/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lukin0110"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Translate i18n messages with Django Rosetta", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c226fd47019290c81c18f89fd3ef2d1d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-rosetta-inpage/django-rosetta-inpage-0.0.10.tar.gz"
+}

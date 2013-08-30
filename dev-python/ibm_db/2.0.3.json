@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python DBI driver for DB2 (LUW, OS, i5) and IDS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ibm_db/", 
+  "info": {
+    "Author:": "IBM Application Development Team", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/ibm-db/downloads/list", 
+    "Home Page:": "http://pypi.python.org/pypi/ibm_db/", 
+    "Keywords:": "database DB-API interface IBM Data Servers DB2 Informix IDS", 
+    "License:": "Apache License 2.0", 
+    "Maintainer:": "IBM Open Source Application Enablement Team", 
+    "Package Index Owner:": "opendev", 
+    "Platform:": "LinuxIA32,Win32"
+  }, 
+  "license": "", 
+  "longdescription": "Python DBI driver for DB2 (LUW, OS, i5) and IDS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a6a92055b629ecfecb739e822180dba3", 
+  "source_uri": "http://code.google.com/p/ibm-db/downloads/list"
+}

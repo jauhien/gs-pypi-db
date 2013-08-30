@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A drop-in replacement for django.conf.urls.defaults which supports HTTP verb dispatch and view wrapping.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dnerdy/django-reroute", 
+  "info": {
+    "Author:": "Mark Sandstrom", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dnerdy/django-reroute", 
+    "Keywords:": "reroute,django,http,rest,route,routing,dispatch,wrapper", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dnerdy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A drop-in replacement for django.conf.urls.defaults which supports HTTP verb dispatch and view wrapping.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d075fa9cf139dbc0067cee905ab5f6b8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-reroute/django-reroute-1.1.1.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add support for taxonomies to Plone contents as a news tag-like field", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.taxonomysupport", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.taxonomysupport", 
+    "Keywords:": "plone plonegov taxonomy", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "micecchi, lucabel", 
+    "Package Index Owner:": "micecchi, keul, massimo, lucabel"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Add support for taxonomies to Plone contents as a news tag-like field", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "abae79fa3dfebdbd8b556a3991abedf3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.taxonomysupport/collective.taxonomysupport-1.4.0.zip"
+}

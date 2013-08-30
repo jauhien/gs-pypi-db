@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Least-recently-used (LRU) cache module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bad.dynu.ca/~evan/lrucache/", 
+  "info": {
+    "Author:": "Evan Prodromou", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Academic Free License (AFL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://bad.dynu.ca/~evan/lrucache/lrucache-0.2.tar.gz", 
+    "Home Page:": "http://bad.dynu.ca/~evan/lrucache/", 
+    "License:": "http://opensource.org/licenses/afl-2.1.php", 
+    "Package Index Owner:": "Evan.Prodromou", 
+    "Platform:": "any"
+  }, 
+  "license": "Academic Free License (AFL)", 
+  "longdescription": "Least-recently-used (LRU) cache module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://bad.dynu.ca/~evan/lrucache/lrucache-0.2.tar.gz"
+}

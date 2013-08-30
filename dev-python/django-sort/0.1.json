@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sort arbitrary querysets in templates.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/agiliq/django-sorting", 
+  "info": {
+    "Author:": "Agiliq and friends", 
+    "Home Page:": "http://github.com/agiliq/django-sorting", 
+    "Package Index Owner:": "shabda, tuxcanfly"
+  }, 
+  "license": "", 
+  "longdescription": "Sort arbitrary querysets in templates.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a63b287b643bfd807b69a3f3c72034ec", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sort/django-sort-0.1.tar.gz"
+}

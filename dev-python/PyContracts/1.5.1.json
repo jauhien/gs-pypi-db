@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PyContracts is a Python package that allows to declare constraints on function parameters and return values. Contracts can be specified using Python3 annotations, in a decorator, or inside a docstring type and rtype tags. PyContracts supports a basic type system, variables binding, arithmetic constraints, and has several specialied contracts (notably for Numpy arrays), as well as an extension API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://andreacensi.github.com/contracts/", 
+  "info": {
+    "Author:": "Andrea Censi", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Download URL:": "http://github.com/AndreaCensi/contracts/tarball/1.5.1", 
+    "Home Page:": "http://andreacensi.github.com/contracts/", 
+    "Keywords:": "type checking,value checking,contracts", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "Andrea.Censi"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "PyContracts is a Python package that allows to declare constraints on function parameters and return values. Contracts can be specified using Python3 annotations, in a decorator, or inside a docstring type and rtype tags. PyContracts supports a basic type system, variables binding, arithmetic constraints, and has several specialied contracts (notably for Numpy arrays), as well as an extension API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36845c5b61b498a3c574c78a7e3b2c2c", 
+  "source_uri": "http://github.com/AndreaCensi/contracts/tarball/1.5.1"
+}

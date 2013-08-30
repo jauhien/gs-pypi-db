@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Patch for DirectoryResource to allow traversal", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.directoryresourcepatch/", 
+  "info": {
+    "Author:": "Michael Dunlap", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.directoryresourcepatch/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "dunlapm, danjacka, optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Patch for DirectoryResource to allow traversal", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "214022d12c8ed281e06963aa85058eca", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.directoryresourcepatch/collective.directoryresourcepatch-1.1.tar.gz"
+}

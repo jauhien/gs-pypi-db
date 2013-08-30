@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Debug toolbar for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "plone debug toolbar", 
+    "License:": "gpl", 
+    "Package Index Owner:": "vangheem, optilude"
+  }, 
+  "license": "", 
+  "longdescription": "Debug toolbar for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f156da4814eb2c151fc589aa1d09352", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.debugtoolbar/plone.app.debugtoolbar-1.0a3.zip"
+}

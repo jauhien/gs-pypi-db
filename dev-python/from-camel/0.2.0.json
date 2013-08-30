@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A script to convert python files from camel case variable naming to underscore variable naming.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Lars Yencken", 
+    "Package Index Owner:": "lars512"
+  }, 
+  "license": "", 
+  "longdescription": "A script to convert python files from camel case variable naming to underscore variable naming.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69b7a27095ea8a3a1dda236fc9f9742b", 
+  "source_uri": "https://pypi.python.org/packages/source/f/from-camel/from-camel-0.2.0.tar.gz"
+}

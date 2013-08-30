@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe to manage and SSH tunnel", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zope Corporation and contributors", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ]
+    }, 
+    "Package Index Owner:": "fdrake"
+  }, 
+  "license": "", 
+  "longdescription": "c.buildout recipe to manage and SSH tunnel", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "abdfb12e8cff0473db13bdebf314ed5f", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.sshtunnel/zc.sshtunnel-1.0.tar.gz"
+}

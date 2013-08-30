@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Standard Stackless Python supporting functionality", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/stacklesslib", 
+  "info": {
+    "Author:": "Richard Tew", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/stacklesslib", 
+    "Keywords:": "microthreads,coroutines,stackless,monkeypatching", 
+    "Package Index Owner:": "rmtew, krisvale"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Standard Stackless Python supporting functionality", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4dd890e94d4d58ece0cdbf6b0d118e30", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stacklesslib/stacklesslib-1.0.3.zip"
+}

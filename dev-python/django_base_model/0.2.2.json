@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A model from which all django models can extend. Gives some additional utility functions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rogeliorv/django_base_model", 
+  "info": {
+    "Author:": "@rogeliorv", 
+    "Home Page:": "http://github.com/rogeliorv/django_base_model", 
+    "Keywords:": "django model", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rogeliorv"
+  }, 
+  "license": "", 
+  "longdescription": "A model from which all django models can extend. Gives some additional utility functions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d19a95a4aaf0a9e645e52f366ea85c6f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_base_model/django_base_model-0.2.2.tar.gz"
+}

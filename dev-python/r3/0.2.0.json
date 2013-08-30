@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "r3 is a map-reduce engine written in python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://heynemann.github.com/r3/", 
+  "info": {
+    "Author:": "Bernardo Heynemann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://heynemann.github.com/r3/", 
+    "Keywords:": "map reduce", 
+    "License:": "MIT", 
+    "Package Index Owner:": "heynemann"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "r3 is a map-reduce engine written in python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b94a05761551a37b94ca8dc4a9c375f0", 
+  "source_uri": "https://pypi.python.org/packages/source/r/r3/r3-0.2.0.tar.gz"
+}

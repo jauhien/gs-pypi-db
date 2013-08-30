@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Remote Service Library http binding module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://rslib.sourceforge.net", 
+  "info": {
+    "Author:": "Gerhard Weis", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://rslib.sourceforge.net", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gweis"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Remote Service Library http binding module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0cac5c0c6ae8be0305ffe0d89daf4c74", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rsl.http/rsl.http-0.2.1.tar.gz"
+}

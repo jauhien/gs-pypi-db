@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple stacktrace analysis tool for the JVM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/HubSpot/astack/", 
+  "info": {
+    "Author:": "Michael Axiak", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "https://github.com/HubSpot/astack/", 
+    "Package Index Owner:": "axiak"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple stacktrace analysis tool for the JVM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23e53b0204f95ef3794f3f69eed426cd", 
+  "source_uri": "https://pypi.python.org/packages/source/a/astack/astack-0.0.2.tar.gz"
+}

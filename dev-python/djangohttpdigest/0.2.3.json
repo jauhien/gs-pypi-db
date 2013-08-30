@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Support for HTTP digest in Django web framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://devel.almad.net/trac/django-http-digest/", 
+  "info": {
+    "Author:": "Lukas Linhart", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://devel.almad.net/trac/django-http-digest/", 
+    "Package Index Owner:": "Almad"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Support for HTTP digest in Django web framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "29fb05b609dd37f76d92fa13efb69138", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djangohttpdigest/djangohttpdigest-0.2.3.tar.gz"
+}

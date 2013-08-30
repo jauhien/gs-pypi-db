@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python native binding for Hyper Estraier", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.sure-shot.jp/python-hyperestraier/", 
+  "info": {
+    "Author:": "Yusuke YOSHIDA", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Indexing/Search"
+      ]
+    }, 
+    "Home Page:": "http://www.sure-shot.jp/python-hyperestraier/", 
+    "Keywords:": "hyperestraier", 
+    "Package Index Owner:": "usk", 
+    "Platform:": "all"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Python native binding for Hyper Estraier", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ffc28ca5151831d3f383d1022980b1a8", 
+  "source_uri": "https://pypi.python.org/packages/source/e/estraiernative/estraiernative-0.2.tar.gz"
+}

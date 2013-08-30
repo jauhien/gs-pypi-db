@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Git index file parser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sbp/gin", 
+  "info": {
+    "Author:": "Sean B. Palmer", 
+    "Categories": {
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/sbp/gin", 
+    "Package Index Owner:": "sbp", 
+    "Platform:": "Linux and OS X"
+  }, 
+  "license": "", 
+  "longdescription": "Git index file parser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5eddc23410dd177b766de9792c0b8601", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gin/gin-0.1.006.tar.bz2"
+}

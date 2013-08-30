@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple library for creating tree like categories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cuker/django-dagcategory", 
+  "info": {
+    "Author:": "Jason Kraus", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cuker/django-dagcategory", 
+    "Keywords:": "django category", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "zbyte64"
+  }, 
+  "license": "", 
+  "longdescription": "A simple library for creating tree like categories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd7d651ac32a5cf2f13b3c50089ceb9d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dagcategory/django-dagcategory-0.0.2.tar.gz"
+}

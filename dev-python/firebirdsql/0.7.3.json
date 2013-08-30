@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Firebird RDBMS bindings for python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nakagami/pyfirebirdsql/", 
+  "info": {
+    "Author:": "Hajime Nakagami", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nakagami/pyfirebirdsql/", 
+    "Keywords:": "Firebird", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nakagami"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Firebird RDBMS bindings for python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77b419ee4a86f82fdf998eaf6dd46b13", 
+  "source_uri": "https://pypi.python.org/packages/source/f/firebirdsql/firebirdsql-0.7.3.tar.gz"
+}

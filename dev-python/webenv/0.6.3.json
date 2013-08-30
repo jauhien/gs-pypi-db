@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A thin abstraction layer on top of wsgi providing request, response and application abstractions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Mikeal Rogers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 1.1 (MPL 1.1)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "Package Index Owner:": "mikeal", 
+    "Platform:": "Any"
+  }, 
+  "license": "Mozilla Public License 1.1 (MPL 1.1)", 
+  "longdescription": "A thin abstraction layer on top of wsgi providing request, response and application abstractions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "81e235c33bc6e097505c6938f4247e15", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webenv/webenv-0.6.3.tar.gz"
+}

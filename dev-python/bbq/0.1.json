@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tasty deploy recipes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/5monkeys/bbq", 
+  "info": {
+    "Author:": "Jonas Lundberg", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/5monkeys/bbq", 
+    "Keywords:": "fabric,cuisine,chef,puppet,ssh,bbq", 
+    "License:": "LICENSE.md", 
+    "Package Index Owner:": "andreif"
+  }, 
+  "license": "", 
+  "longdescription": "Tasty deploy recipes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9c4308346ce4127e6654e21e94de2eb0", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bbq/bbq-0.1.tar.gz"
+}

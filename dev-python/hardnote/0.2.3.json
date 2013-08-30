@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A desktop notifier for hardware hotplug events.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tara.shadowpimps.net/~scott/hardnote/", 
+  "info": {
+    "Author:": "Scott Robinson", 
+    "Home Page:": "http://tara.shadowpimps.net/~scott/hardnote/", 
+    "Keywords:": "gnome hardware hotplug gtk notify notification", 
+    "License:": "GPL", 
+    "Package Index Owner:": "quad"
+  }, 
+  "license": "", 
+  "longdescription": "A desktop notifier for hardware hotplug events.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89128f4782ebfaf59c4b3d7c59f79635", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hardnote/hardnote-0.2.3.tar.gz"
+}

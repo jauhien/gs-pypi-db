@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application to generate and sign Models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bearstech/django-signature", 
+  "info": {
+    "Author:": "Johan Charpentier", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/bearstech/django-signature/downloads", 
+    "Home Page:": "http://github.com/bearstech/django-signature", 
+    "Keywords:": "django models crypto openssl pki", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "bearstech"
+  }, 
+  "license": "", 
+  "longdescription": "Django application to generate and sign Models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "371ddbeb9e9a21b4e80a1403216408fd", 
+  "source_uri": "http://bitbucket.org/bearstech/django-signature/downloads"
+}

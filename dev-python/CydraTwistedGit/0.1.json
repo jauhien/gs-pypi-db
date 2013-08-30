@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cydra plugin for ssh-based repository serving", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cydra.org", 
+  "info": {
+    "Author:": "Manuel Stocker", 
+    "Home Page:": "http://www.cydra.org", 
+    "Keywords:": "cydra ssh", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mensi"
+  }, 
+  "license": "", 
+  "longdescription": "Cydra plugin for ssh-based repository serving", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3566588d34f582e9346ce3e2bba320e8", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CydraTwistedGit/CydraTwistedGit-0.1.tar.gz"
+}

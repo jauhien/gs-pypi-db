@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "support for .fmf (fly movie format) files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.astraw.com/projects/motmot/fly-movie-format.html", 
+  "info": {
+    "Author:": "Andrew Straw", 
+    "Home Page:": "http://code.astraw.com/projects/motmot/fly-movie-format.html", 
+    "License:": "BSD", 
+    "Package Index Owner:": "astraw"
+  }, 
+  "license": "", 
+  "longdescription": "support for .fmf (fly movie format) files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79a6729aadad9eaf0ffbfd5a4414adca", 
+  "source_uri": "https://pypi.python.org/packages/source/m/motmot.FlyMovieFormat/motmot.FlyMovieFormat-0.5.9.1.tar.gz"
+}

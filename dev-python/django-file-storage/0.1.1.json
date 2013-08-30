@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Set file storage as an environment variable in your Django application.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/meshy/django-file-storage", 
+  "info": {
+    "Author:": "Charlie Denton", 
+    "Home Page:": "http://github.com/meshy/django-file-storage", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "incuna"
+  }, 
+  "license": "", 
+  "longdescription": "Set file storage as an environment variable in your Django application.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "27979c6570f2f9cd121b492c4e277eed", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-file-storage/django-file-storage-0.1.1.tar.gz"
+}

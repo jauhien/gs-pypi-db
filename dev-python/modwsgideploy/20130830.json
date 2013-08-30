@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Deploy Turbogears2 or Pylons via apache and modwsgi.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lucasmanual.com/mywiki/modwsgideploy", 
+  "info": {
+    "Author:": "Lukasz Szybalski", 
+    "Home Page:": "http://lucasmanual.com/mywiki/modwsgideploy", 
+    "Keywords:": "apache mod_wsgi turbogears pylons deploy script turbogears2", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lszyba1"
+  }, 
+  "license": "", 
+  "longdescription": "Deploy Turbogears2 or Pylons via apache and modwsgi.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62e1530ffac54317536057621b86264a", 
+  "source_uri": "https://pypi.python.org/packages/source/m/modwsgideploy/modwsgideploy-0.4.20dev.tar.gz"
+}

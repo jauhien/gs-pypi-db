@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert a FreeMind mind-map (mm) into a meeting notes (htmltxt).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/mm2notes", 
+  "info": {
+    "Author:": "Scott Kirkwood", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://mm2notes.googlecode.com/files/mm2notes-0.1.1.zip", 
+    "Home Page:": "http://code.google.com/p/mm2notes", 
+    "Keywords:": "mm,FreeMind,notes,XML,text,meeting,Python", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "scott_kirkwood", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Convert a FreeMind mind-map (mm) into a meeting notes (htmltxt).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "37f90c1c686e9fbf8168ba0a81dce4a1", 
+  "source_uri": "http://mm2notes.googlecode.com/files/mm2notes-0.1.1.zip"
+}

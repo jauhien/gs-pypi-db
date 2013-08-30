@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package which logs to a Python logger when an exception is raised by a Pyramid application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.pylonsproject.org", 
+  "info": {
+    "Author:": "Chris McDonough", 
+    "Categories": {
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "http://docs.pylonsproject.org", 
+    "Keywords:": "wsgi pylons pyramid mail tween exception handler", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "tseaver, chrism"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "A package which logs to a Python logger when an exception is raised by a Pyramid application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "05df86758b0d30ee6f8339ff36cef7a0", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_exclog/pyramid_exclog-0.7.tar.gz"
+}

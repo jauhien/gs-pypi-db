@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Routines and CLI to facilitate injectionextraction of OpenOffice.org macros.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/intuited/ooo-macro-exchange", 
+  "info": {
+    "Author:": "Ted Tibbetts", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/intuited/ooo-macro-exchange", 
+    "Keywords:": "ooo,openoffice,openoffice.org,macro,basic,starbasic,oobasic,uno", 
+    "Package Index Owner:": "intuited"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Routines and CLI to facilitate injectionextraction of OpenOffice.org macros.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1825ffa8b7fa959b67b4ea7bc1ed7e65", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ooo-macro-exchange/ooo-macro-exchange-0.2.2.tar.gz"
+}

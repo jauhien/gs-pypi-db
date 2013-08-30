@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use dateutils.relativedelta to represent PostgreSQL interval types", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Grzegorz Nosek", 
+    "Keywords:": "psycopg2 dateutils postgresql interval", 
+    "License:": "MIT", 
+    "Package Index Owner:": "blackfire"
+  }, 
+  "license": "", 
+  "longdescription": "Use dateutils.relativedelta to represent PostgreSQL interval types", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e042a97238b190a899e71a8352c43072", 
+  "source_uri": "https://pypi.python.org/packages/source/p/psycopg2-dateutils/psycopg2-dateutils-0.1.tar.gz"
+}

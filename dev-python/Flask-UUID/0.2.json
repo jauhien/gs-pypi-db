@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "UUID url converter for Flask routes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/wbolster/flask-uuid", 
+  "info": {
+    "Author:": "Wouter Bolsterlee", 
+    "Home Page:": "https://github.com/wbolster/flask-uuid", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wbolster"
+  }, 
+  "license": "", 
+  "longdescription": "UUID url converter for Flask routes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1d71c56a807a9317532d41f29b041b9c", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-UUID/Flask-UUID-0.2.tar.gz"
+}

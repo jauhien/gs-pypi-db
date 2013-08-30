@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A RAM-based storage for ODB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tempstorage", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Home Page:": "http://pypi.python.org/pypi/tempstorage", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "hannosch"
+  }, 
+  "license": "", 
+  "longdescription": "A RAM-based storage for ODB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a2b76b39839e229249b1bb175604480", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tempstorage/tempstorage-2.12.2.zip"
+}

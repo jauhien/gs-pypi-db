@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small library to use the SPIdev linux interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/SPIlib/", 
+  "info": {
+    "Author:": "Stefano Cavallari", 
+    "Home Page:": "http://pypi.python.org/pypi/SPIlib/", 
+    "License:": "Public Domain (WTFPL2)", 
+    "Package Index Owner:": "Stefano.Cavallari"
+  }, 
+  "license": "", 
+  "longdescription": "A small library to use the SPIdev linux interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b8ea5df1bc6543c48087126a79cbbca", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SPIlib/SPIlib-0.1.0.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple postgres manager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ondrejsika.com/docs/spm", 
+  "info": {
+    "Author:": "Ondrej Sika", 
+    "Download URL:": "https://github.com/sikaondrej/spm", 
+    "Home Page:": "http://ondrejsika.com/docs/spm", 
+    "License:": "GNU LGPL v.3", 
+    "Package Index Owner:": "sika"
+  }, 
+  "license": "", 
+  "longdescription": "Simple postgres manager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8031dbe01fd4948557b58e2b7d96206c", 
+  "source_uri": "https://github.com/sikaondrej/spm"
+}

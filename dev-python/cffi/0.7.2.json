@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Foreign Function Interface for Python calling C code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cffi.readthedocs.org", 
+  "info": {
+    "Author:": "Armin Rigo, Maciej Fijalkowski", 
+    "Home Page:": "http://cffi.readthedocs.org", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Armin.Rigo, fijal"
+  }, 
+  "license": "", 
+  "longdescription": "Foreign Function Interface for Python calling C code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d329f5cb2053fd31dafc02e2c9ef0299", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cffi/cffi-0.7.2.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parsing and validation of URIs (RFC 386) and IRIs (RFC 387)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/rfc3987", 
+  "info": {
+    "Author:": "Daniel Gerber", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Download URL:": "https://github.com/dgerber/rfc3987", 
+    "Home Page:": "http://pypi.python.org/pypi/rfc3987", 
+    "Keywords:": "URI IRI URL rfc3986 rfc3987 validation", 
+    "Package Index Owner:": "danielg"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Parsing and validation of URIs (RFC 386) and IRIs (RFC 387)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "397b1c1cd8b934269e53a621d56d9ed2", 
+  "source_uri": "https://github.com/dgerber/rfc3987"
+}

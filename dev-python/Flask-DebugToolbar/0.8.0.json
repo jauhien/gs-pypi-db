@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A port of the Django debug toolbar to Flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://flask-debugtoolbar.rtfd.org/", 
+  "info": {
+    "Author:": "Matt Good", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://flask-debugtoolbar.rtfd.org/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "mgood", 
+    "Package Index Owner:": "mvt, mgood", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A port of the Django debug toolbar to Flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a665852d6d8f3a30287dbd50e666be01", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-DebugToolbar/Flask-DebugToolbar-0.8.0.tar.gz"
+}

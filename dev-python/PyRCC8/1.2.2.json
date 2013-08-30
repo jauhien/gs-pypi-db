@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A RCC8 based qualitative spatial reasoner written in pure Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cgi.di.uoa.gr/~sioutis/", 
+  "info": {
+    "Author:": "Michael Sioutis", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://cgi.di.uoa.gr/~sioutis/", 
+    "Keywords:": "spatial, reasoning, reasoner, qualitative", 
+    "License:": "BSD", 
+    "Maintainer:": "Michael Sioutis", 
+    "Package Index Owner:": "pico"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A RCC8 based qualitative spatial reasoner written in pure Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47529e6b2efd34320ff9865779a0c6bf", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyRCC8/PyRCC8v.1.2.2.tar.gz"
+}

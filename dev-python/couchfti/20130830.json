@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Xapian base full text indexing for couchdb", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ish.io", 
+  "info": {
+    "Author:": "Tim Parkin & Matt Goodall", 
+    "Home Page:": "http://ish.io", 
+    "Package Index Owner:": "ish"
+  }, 
+  "license": "", 
+  "longdescription": "Xapian base full text indexing for couchdb", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bc8999aa535ceb8055926ed975f39c77", 
+  "source_uri": "https://pypi.python.org/packages/source/c/couchfti/couchfti-0.1.2dev.tar.gz"
+}

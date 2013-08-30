@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis pubsub logging handler for python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jedp/python-redis-log", 
+  "info": {
+    "Author:": "Jed Parsons", 
+    "Home Page:": "https://github.com/jedp/python-redis-log", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jedp"
+  }, 
+  "license": "", 
+  "longdescription": "Redis pubsub logging handler for python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36abbdf554ae03b7770300f322116656", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-redis-log/python-redis-log-0.1.2.tar.gz"
+}

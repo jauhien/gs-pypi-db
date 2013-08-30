@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RQ (Redis Queue) integration for Flask applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/Flask-RQ/", 
+  "info": {
+    "Author:": "Matthew Wright", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Flask-RQ", 
+    "Home Page:": "http://packages.python.org/Flask-RQ/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mattupstate", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "RQ (Redis Queue) integration for Flask applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f8262de59ecb7822a3cec6eb0241986e", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-RQ/Flask-RQ-0.2.tar.gz"
+}

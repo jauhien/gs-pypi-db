@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line tools and libraries for handling and manipulating WARC files (and HTTP contents)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Thomas Figg", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "tef"
+  }, 
+  "license": "", 
+  "longdescription": "Command line tools and libraries for handling and manipulating WARC files (and HTTP contents)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f04a0ea21f1121f872edf14b2c5911ca", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hanzo-warc-tools/hanzo-warc-tools-0.2.tar.gz"
+}

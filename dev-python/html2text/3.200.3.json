@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Turn HTML into equivalent Markdown-structured text.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.aaronsw.com/2002/html2text/", 
+  "info": {
+    "Author:": "Aaron Swartz", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "http://www.aaronsw.com/2002/html2text/", 
+    "License:": "GNU GPL 3", 
+    "Package Index Maintainer:": "rsyring", 
+    "Package Index Owner:": "aaronsw"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Turn HTML into equivalent Markdown-structured text.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98162c467ddafc1a63bff8db98f03d14", 
+  "source_uri": "https://pypi.python.org/packages/source/h/html2text/html2text-3.200.3.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small session-based flash notice system for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zacharyvoase/django-attention", 
+  "info": {
+    "Author:": "Zachary Voase", 
+    "Home Page:": "http://bitbucket.org/zacharyvoase/django-attention", 
+    "Package Index Owner:": "disturbyte"
+  }, 
+  "license": "", 
+  "longdescription": "A small session-based flash notice system for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9df8c8b4b662d59688905e449cdd6cc9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-attention/django-attention-0.2.tar.gz"
+}

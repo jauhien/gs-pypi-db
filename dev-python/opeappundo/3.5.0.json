@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Transaction Undo API and UI", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zope.app.undo", 
+  "info": {
+    "Author:": "Zope Corporation and Contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zope.app.undo", 
+    "Keywords:": "zope3 transaction undo zodb", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "baijum, J1m, ctheune, projekt01, srichter, chrism, philikon, benji, ignas, mgedmin, pcardune, ccomb, faassen, hathawsh, chrisw, nadako, icemac, hannosch, gary, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Transaction Undo API and UI", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a40060aa0451a635a31d6e12d17a82e", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zope.app.undo/zope.app.undo-3.5.0.tar.gz"
+}

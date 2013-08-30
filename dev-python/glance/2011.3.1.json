@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Glance project provides services for discovering, registering, and retrieving virtual machine images", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://glance.openstack.org/", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "http://glance.openstack.org/", 
+    "License:": "Apache License (2.0)", 
+    "Package Index Maintainer:": "openstackjenkins", 
+    "Package Index Owner:": "ttx, Jay.Pipes, sdirector, ewanmellor"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "The Glance project provides services for discovering, registering, and retrieving virtual machine images", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c51984868deb67d52ec47cab9be09166", 
+  "source_uri": "https://pypi.python.org/packages/source/g/glance/glance-2011.3.1.tar.gz"
+}

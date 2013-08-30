@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A SKOS provider for OE vocabularies.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/koenedaele/skosprovider_oe", 
+  "info": {
+    "Author:": "Koen Van Daele", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "http://github.com/koenedaele/skosprovider_oe", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Koen.Van.Daele"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A SKOS provider for OE vocabularies.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c14b48afadb3f8c0f9e54c8e4745c801", 
+  "source_uri": "https://pypi.python.org/packages/source/s/skosprovider_oe/skosprovider_oe-0.2.0.tar.gz"
+}

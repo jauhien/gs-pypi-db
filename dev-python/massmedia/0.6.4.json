@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows for site staff can upload and edit the media files through the site, and the filesystem is maintained in the background.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://opensource.washingtontimes.com/projects/django-massmedia/", 
+  "info": {
+    "Author:": "Justin Quick", 
+    "Home Page:": "http://opensource.washingtontimes.com/projects/django-massmedia/", 
+    "Package Index Owner:": "coordt"
+  }, 
+  "license": "", 
+  "longdescription": "Allows for site staff can upload and edit the media files through the site, and the filesystem is maintained in the background.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95ab476d0a4bd9aa8b39fb3e10da93fc", 
+  "source_uri": "https://pypi.python.org/packages/source/m/massmedia/massmedia-0.6.4.tar.gz"
+}

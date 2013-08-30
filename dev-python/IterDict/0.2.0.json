@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dict that laily populates itself with items from the iterator it was constructed with as keys are accessed", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kstrauser/iterdict", 
+  "info": {
+    "Author:": "Kirk Strauser", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kstrauser/iterdict", 
+    "Keywords:": "dict lazy bigdata", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kstrauser"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Dict that laily populates itself with items from the iterator it was constructed with as keys are accessed", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "58197ecf15d52c8df58d818b5ed1bb49", 
+  "source_uri": "https://pypi.python.org/packages/source/I/IterDict/IterDict-0.2.0.tar.gz"
+}

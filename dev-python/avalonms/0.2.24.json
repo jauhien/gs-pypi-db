@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Avalon Music Server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tshlabs.org/", 
+  "info": {
+    "Author:": "TSH Labs", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio"
+      ]
+    }, 
+    "Home Page:": "http://www.tshlabs.org/", 
+    "License:": "Apache", 
+    "Package Index Owner:": "tshlabs"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Avalon Music Server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5714ff0581568ab8449af460886e2cf9", 
+  "source_uri": "https://pypi.python.org/packages/source/a/avalonms/avalonms-0.2.24.tar.gz"
+}

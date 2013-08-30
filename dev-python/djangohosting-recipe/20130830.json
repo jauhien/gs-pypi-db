@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe for Djangohosting.ch", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/djangohosting-recipe/", 
+  "info": {
+    "Author:": "Damien Lebrun", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/djangohosting-recipe/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Dinoboff"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Buildout recipe for Djangohosting.ch", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3631f5c54929162988d0cd75d09a5a1a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djangohosting-recipe/djangohosting-recipe-0.1.0a4.tar.gz"
+}

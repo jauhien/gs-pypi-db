@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-composition provides the abstract way to denormalie data from your models in simple declarative way through special generic model field called CompositionField", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/daevaorn/django-composition/", 
+  "info": {
+    "Author:": "Alex Koshelev", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/daevaorn/django-composition/", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "daevaorn"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-composition provides the abstract way to denormalie data from your models in simple declarative way through special generic model field called CompositionField", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ece323cc472df4429f0c837d58c220c2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-composition/django-composition-0.2.tar.gz"
+}

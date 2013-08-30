@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send mails from Plone to users and groups", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.atreal.net/", 
+  "info": {
+    "Author:": "atReal", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.atreal.net/", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "rbeylerian", 
+    "Package Index Owner:": "rbeylerian, f10w, tiazma, tbenita, drjnut"
+  }, 
+  "license": "", 
+  "longdescription": "Send mails from Plone to users and groups", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "271741222af6fdb7f8003e581f40dad2", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atreal.mailservices/atreal.mailservices-1.1.1.zip"
+}

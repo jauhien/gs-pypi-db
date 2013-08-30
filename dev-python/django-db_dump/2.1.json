@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Database data dump and restore tool can be used in Django project", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/db-dump/", 
+  "info": {
+    "Author:": "limodou", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "http://db-dump.googlecode.com/files/db_dump2.1.zip", 
+    "Home Page:": "http://code.google.com/p/db-dump/", 
+    "Keywords:": "django dumptool", 
+    "License:": "MIT", 
+    "Maintainer:": "limodou", 
+    "Package Index Owner:": "limodou", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "Database data dump and restore tool can be used in Django project", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://db-dump.googlecode.com/files/db_dump2.1.zip"
+}

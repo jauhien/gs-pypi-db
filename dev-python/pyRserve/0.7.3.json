@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python client to remotely access the R statistic package via network", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/pyRserve/", 
+  "info": {
+    "Author:": "Ralph Heinkel", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyRserve", 
+    "Home Page:": "http://pypi.python.org/pypi/pyRserve/", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "ralph.heinkel", 
+    "Platform:": "unix,linux,cygwin,win32"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Python client to remotely access the R statistic package via network", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f99b3e302596d69711d196ceb830aa9", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyRserve/pyRserve-0.7.3.tar.gz"
+}

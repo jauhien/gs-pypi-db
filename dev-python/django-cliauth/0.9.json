@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Authenticate Apache2 (basic auth) using your Django DB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/seocam/django-cliauth", 
+  "info": {
+    "Author:": "Sergio Oliveira", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/seocam/django-cliauth", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "seocam"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Authenticate Apache2 (basic auth) using your Django DB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4717f15733a94ccfaa21cb3f79895c02", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cliauth/django-cliauth-0.9.tar.gz"
+}

@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Optimistic locking library for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/saxix/django-concurrency", 
+  "info": {
+    "Author:": "Stefano Apostolico", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/d/django-concurrency/django-concurrency-0.5.tar.gz", 
+    "Home Page:": "https://github.com/saxix/django-concurrency", 
+    "Keywords:": "django", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "sax", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Optimistic locking library for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e121174260670050cea17e2868237036", 
+  "source_uri": "http://pypi.python.org/packages/source/d/django-concurrency/django-concurrency-0.5.tar.gz"
+}

@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI sessions implentation (session id in a cookie).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Sirtea/WSGISession", 
+  "info": {
+    "Author:": "Gerard Monells", 
+    "Download URL:": "http://pypi.python.org/pypi/WSGISession/", 
+    "Home Page:": "https://github.com/Sirtea/WSGISession", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "Sirtea", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI sessions implentation (session id in a cookie).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1c36f2a6c7f16a57a0f9ddd4d7956d8", 
+  "source_uri": "http://pypi.python.org/pypi/WSGISession/"
+}

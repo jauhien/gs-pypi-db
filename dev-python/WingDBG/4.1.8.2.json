@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ope product that allows Wing to debug Python code running under ope2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.wingware.com/doc/howtos/zope", 
+  "info": {
+    "Author:": "Wingware", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Zope"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Debuggers"
+      ]
+    }, 
+    "Home Page:": "http://www.wingware.com/doc/howtos/zope", 
+    "Keywords:": "Zope2 WingIDE debug pdb", 
+    "License:": "MIT", 
+    "Package Index Owner:": "encolpe"
+  }, 
+  "license": "", 
+  "longdescription": "ope product that allows Wing to debug Python code running under ope2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "85e7e0dbf6ce5c217c10e1a2d205f00c", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WingDBG/WingDBG-4.1.8.2.zip"
+}

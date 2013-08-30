@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper of libgearman", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/gearman-interface", 
+  "info": {
+    "Author:": "Monty Taylor", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/gearman-interface", 
+    "License:": "GPL", 
+    "Package Index Owner:": "brianaker, sdirector", 
+    "Platform:": "linux"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python wrapper of libgearman", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c8d9a725a203ccd70f17a8062178948", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-libgearman/python-libgearman-0.13.2.tar.gz"
+}

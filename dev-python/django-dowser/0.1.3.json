@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django fork of amaing memory leaks tracking application for python wsgi - the Dowser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/munhitsu/django-dowser", 
+  "info": {
+    "Author:": "Mateusz Lapsa-Malawski", 
+    "Categories": {
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/d/django-dowser/django-dowser-0.1.3.tar.gz", 
+    "Home Page:": "http://github.com/munhitsu/django-dowser", 
+    "Keywords:": "django,dowser,debug,memory leak", 
+    "Package Index Owner:": "munhitsu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django fork of amaing memory leaks tracking application for python wsgi - the Dowser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "50c136d6bf62b229eb5c73b4850aab2f", 
+  "source_uri": "http://pypi.python.org/packages/source/d/django-dowser/django-dowser-0.1.3.tar.gz"
+}

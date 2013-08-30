@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TinyMCE ASCIIMATH Plugin for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fullmarks", 
+  "info": {
+    "Author:": "Roch\u00c3\u00a9 Compaan", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fullmarks", 
+    "Keywords:": "plone math asciimath mathml tinymce", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rochecompaan"
+  }, 
+  "license": "", 
+  "longdescription": "TinyMCE ASCIIMATH Plugin for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "93e6d72a7889ee7b5ea5853fbe452674", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fullmarks.tinymceplugins.asciimath/fullmarks.tinymceplugins.asciimath-1.2.zip"
+}

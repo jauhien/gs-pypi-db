@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A wrapper to JSON parsers allowing comments,multiline strings and trailing commas", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/Dando_Real_ITA/json-comment", 
+  "info": {
+    "Author:": "Gaspare Iengo", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Text Editors", 
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/Dando_Real_ITA/json-comment", 
+    "Keywords:": "json comments multiline", 
+    "Package Index Owner:": "Gaspare.Iengo"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A wrapper to JSON parsers allowing comments,multiline strings and trailing commas", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b58886b765c42c7a15f53d7631fa0f1f", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jsoncomment/jsoncomment-0.2.3.zip"
+}

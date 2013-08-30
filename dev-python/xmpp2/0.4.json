@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An XMPP client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://xmpp2.thirdbeat.com", 
+  "info": {
+    "Author:": "Alex Lee", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//xmpp2", 
+    "Home Page:": "http://xmpp2.thirdbeat.com", 
+    "License:": "MIT", 
+    "Package Index Owner:": "AlexLee"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An XMPP client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33189cbecea467a311754059dd08a066", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xmpp2/xmpp2-0.4.tar.gz"
+}

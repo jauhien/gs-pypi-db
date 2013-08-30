@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python API for the INCF Digital Atlasing infrastructure", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://software.incf.org/software/incfdai", 
+  "info": {
+    "Author:": "Raphael Ritz", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://software.incf.org/software/incfdai", 
+    "Keywords:": "WPS INCF \"Digital Atlasing\"", 
+    "License:": "GPL", 
+    "Package Index Owner:": "brainstorm, raphael, apdavison, Eilif.Muller"
+  }, 
+  "license": "", 
+  "longdescription": "Python API for the INCF Digital Atlasing infrastructure", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "767f78ecddd7a5e96e1d7c380f1881cd", 
+  "source_uri": "https://pypi.python.org/packages/source/i/incf.dai/incf.dai-0.7.tar.gz"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple urllib2 caching handler", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/urllibcache", 
+  "info": {
+    "Author:": "Florian Schulze", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/urllibcache", 
+    "Keywords:": "urllib cache", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fschulze"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Simple urllib2 caching handler", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d40cfa0ecc6347775c8864a8ea7a4d1", 
+  "source_uri": "https://pypi.python.org/packages/source/u/urllibcache/urllibcache-1.0.1.tar.gz"
+}

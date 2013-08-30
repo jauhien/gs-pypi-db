@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Spanish banks CSB norm 43 converter to OFX, Homebank, json, yaml, xls, xlsx, ods, csv, tsv", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/wmj/csb43", 
+  "info": {
+    "Author:": "wmj", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 (LGPLv3)"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//csb43", 
+    "Home Page:": "https://bitbucket.org/wmj/csb43", 
+    "Keywords:": "csb csb43 homebank ofx Spanish bank ods tsv xls xlsx excel yaml json html", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "wmj"
+  }, 
+  "license": "GNU Lesser General Public License v3 (LGPLv3)", 
+  "longdescription": "Spanish banks CSB norm 43 converter to OFX, Homebank, json, yaml, xls, xlsx, ods, csv, tsv", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0bd6d9089b5b8e89aa415c9f7d5b0616", 
+  "source_uri": "https://pypi.python.org/packages/source/c/csb43/csb43-0.2.2.tar.gz"
+}

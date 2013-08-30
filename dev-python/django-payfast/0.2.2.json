@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pluggable Django application for integrating payfast.co.a payment system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/kmike/django-payfast/", 
+  "info": {
+    "Author:": "Mikhail Korobov", 
+    "Download URL:": "http://bitbucket.org/kmike/django-payfast/get/tip.gz", 
+    "Home Page:": "http://bitbucket.org/kmike/django-payfast/", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "kmike"
+  }, 
+  "license": "", 
+  "longdescription": "A pluggable Django application for integrating payfast.co.a payment system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9807fe48a224a2f8ca444a5f64f05c8", 
+  "source_uri": "http://bitbucket.org/kmike/django-payfast/get/tip.gz"
+}

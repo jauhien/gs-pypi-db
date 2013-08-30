@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A framework for proteomics data analysis.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.theorchromo.ru/pyteomics", 
+  "info": {
+    "Author:": "Anton Goloborodko & Lev Levitsky", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyteomics", 
+    "Home Page:": "http://hg.theorchromo.ru/pyteomics", 
+    "License:": "License :: OSI Approved :: Apache Software License", 
+    "Package Index Owner:": "goloborodko.anton, levitsky"
+  }, 
+  "license": "", 
+  "longdescription": "A framework for proteomics data analysis.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9bb32d16b3dda7c4a0e2dc27587c40d6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyteomics/pyteomics-2.1.5.tar.gz"
+}

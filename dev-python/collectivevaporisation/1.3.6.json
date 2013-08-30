@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone portlet for vaporisation tagcloud", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.vaporisation", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/collective.vaporisation", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.vaporisation", 
+    "Keywords:": "plone plonegov vaporisation tag-cloud portlet", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "keul, mirof", 
+    "Package Index Owner:": "mirco.angelini, massimo, keul, fdelia"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone portlet for vaporisation tagcloud", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a2ede2da5e41a11a5046913ed770cfe8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.vaporisation/collective.vaporisation-1.3.6.zip"
+}

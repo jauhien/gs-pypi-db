@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PAS  PlonePAS plugin fetching user data from a relational database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.SQLAlchemyPAS", 
+  "info": {
+    "Author:": "Laurence Rowe", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.SQLAlchemyPAS", 
+    "License:": "GPL", 
+    "Package Index Owner:": "tdesvenain, laurencerowe"
+  }, 
+  "license": "", 
+  "longdescription": "PAS  PlonePAS plugin fetching user data from a relational database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "208e47ff34fe2dbe3f29f78d2edc3faa", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.SQLAlchemyPAS/Products.SQLAlchemyPAS-1.0.zip"
+}

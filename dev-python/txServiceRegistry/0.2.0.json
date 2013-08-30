@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Twisted Python client for Rackspace Service Registry.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/racker/python-twisted-service-registry-client", 
+  "info": {
+    "Author:": "Rackspace Hosting, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "https://github.com/racker/python-twisted-service-registry-client", 
+    "License:": "Apache License (2.0)", 
+    "Package Index Owner:": "dispalt, Kami"
+  }, 
+  "license": "", 
+  "longdescription": "A Twisted Python client for Rackspace Service Registry.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cbce2613305feb3ce363d40529e5a433", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txServiceRegistry/txServiceRegistry-0.2.0.tar.gz"
+}

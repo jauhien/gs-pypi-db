@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Conditional wiki-style links to Django models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://glamkit.org/", 
+  "info": {
+    "Author:": "Thomas Ashelford", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://glamkit.org/", 
+    "Package Index Owner:": "ixc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Conditional wiki-style links to Django models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "142279ea7e4f3a4caad810e558f9db37", 
+  "source_uri": "https://pypi.python.org/packages/source/g/glamkit-smartlinks/glamkit-smartlinks-0.6.2.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small package for reading and returning the configuration of a Silk-configured site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bits.btubbs.com/silk-config", 
+  "info": {
+    "Author:": "Brent Tubbs", 
+    "Home Page:": "http://bits.btubbs.com/silk-config", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "btubbs"
+  }, 
+  "license": "", 
+  "longdescription": "Small package for reading and returning the configuration of a Silk-configured site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04a6ca93a7109f4fb5cdc46d64717af7", 
+  "source_uri": "https://pypi.python.org/packages/source/s/silk-config/silk-config-0.3.5.tar.gz"
+}

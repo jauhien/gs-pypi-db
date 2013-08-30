@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "easily add scopes to django models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Viktor Kotseruba", 
+    "Keywords:": "django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "barbuza"
+  }, 
+  "license": "", 
+  "longdescription": "easily add scopes to django models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "947e1b914c20b43a7784ed3f2283b612", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scoped/scoped-0.1.1.tar.gz"
+}

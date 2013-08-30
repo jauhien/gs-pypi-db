@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Define an account chart template for Belgium. Usefull to create a Belgium account chart with the wiard in Financial ManagementConfigurationGeneral AccountCreate Chart of Account from Template.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tryton.org/", 
+  "info": {
+    "Author:": "B2CK", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Legal Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "French"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Office/Business", 
+        "Financial", 
+        "Accounting"
+      ]
+    }, 
+    "Download URL:": "http://downloads.tryton.org/2.0/", 
+    "Home Page:": "http://www.tryton.org/", 
+    "License:": "GPL-3", 
+    "Package Index Maintainer:": "yangoon", 
+    "Package Index Owner:": "bch, ced, nicoe"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Define an account chart template for Belgium. Usefull to create a Belgium account chart with the wiard in Financial ManagementConfigurationGeneral AccountCreate Chart of Account from Template.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e6cd87a494c61462411e67167b083e9", 
+  "source_uri": "http://downloads.tryton.org/2.0/"
+}

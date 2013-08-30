@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python implementation of pgen, the Python parser generator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mythonlang/pgen2/", 
+  "info": {
+    "Author:": "Jon Riehl", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mythonlang/pgen2/", 
+    "Keywords:": "parser,generator", 
+    "Package Index Owner:": "Jon.Riehl"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Pure Python implementation of pgen, the Python parser generator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4bb0dc78a88806fd5cb1d71889658b1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pgen2/pgen2-0.1.0.tar.gz"
+}

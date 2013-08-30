@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A service for locate and get the cheaper available VM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Cheaper Machine Locator.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "Unix"
+      ]
+    }, 
+    "Keywords:": "cloud cloud-computing cheap cheap vms hypervisor amazon", 
+    "License:": "BSD", 
+    "Package Index Owner:": "niedbalski"
+  }, 
+  "license": "", 
+  "longdescription": "A service for locate and get the cheaper available VM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a6e0d9bec64e1c1c226890be4e852ee", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cheap/cheap-0.1.tar.gz"
+}

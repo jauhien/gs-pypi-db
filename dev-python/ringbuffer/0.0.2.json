@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Random access associative ring buffer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martin Gergov", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/marto1/ringbuffer/", 
+    "Keywords:": "ring buffer,container", 
+    "License:": "MIT/X11", 
+    "Package Index Owner:": "marto1"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Random access associative ring buffer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "02d4a539ca4cc270d29c5cb322fdc5c4", 
+  "source_uri": "https://bitbucket.org/marto1/ringbuffer/"
+}

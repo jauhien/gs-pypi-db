@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "(Deploy you sites to remote server,)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "sallyruthstruik.bitbucket.org/python-web-deployer", 
+  "info": {
+    "Author:": "Kaledin Stas", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "sallyruthstruik.bitbucket.org/python-web-deployer", 
+    "Keywords:": "web deploy deployment", 
+    "License:": "BSD", 
+    "Package Index Owner:": "sallyruthstruik"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "(Deploy you sites to remote server,)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fff858ee2b78c49e0b4af4548862013", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python_web_deployer/python_web_deployer-0.1.tar.gz"
+}

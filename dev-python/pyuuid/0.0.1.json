@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generates RFC4122 universally unique identifiers (uuid)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/pyuuid", 
+  "info": {
+    "Author:": "LIU Yu", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/projects/pyuuid", 
+    "Home Page:": "http://sourceforge.net/projects/pyuuid", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "pineapple"
+  }, 
+  "license": "", 
+  "longdescription": "Generates RFC4122 universally unique identifiers (uuid)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://sourceforge.net/projects/pyuuid"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backup and restore Route53 ones, or transfer between AWS accounts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/RisingOak/route53-transfer", 
+  "info": {
+    "Author:": "Cosmin Stejerean", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/RisingOak/route53-transfer", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "cstejerean"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Backup and restore Route53 ones, or transfer between AWS accounts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a9821925073eb1408e9856e2d2412d7", 
+  "source_uri": "https://pypi.python.org/packages/source/r/route53-transfer/route53-transfer-0.1.1.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generates a static website from a Flask application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/SimonSapin/Frozen-Flask", 
+  "info": {
+    "Author:": "Simon Sapin", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Flask-Static", 
+    "Home Page:": "https://github.com/SimonSapin/Frozen-Flask", 
+    "License:": "BSD", 
+    "Package Index Owner:": "SimonSapin", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generates a static website from a Flask application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf52c3d4f2595e3c230ed1b99b7028ba", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Static/Flask-Static-0.1.tar.gz"
+}

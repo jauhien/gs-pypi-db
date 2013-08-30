@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows for proper decoding of datetime values contained in JSON streams", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nicolaiarocci/json-datetime", 
+  "info": {
+    "Author:": "Nicola Iarocci", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nicolaiarocci/json-datetime", 
+    "Package Index Owner:": "nicolaiarocci", 
+    "Platform:": "any"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Allows for proper decoding of datetime values contained in JSON streams", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8dab8058f8cf6fa1c4bfbf06411fa899", 
+  "source_uri": "https://pypi.python.org/packages/source/J/JSON-Datetime/JSON-Datetime-0.0.2.tar.gz"
+}

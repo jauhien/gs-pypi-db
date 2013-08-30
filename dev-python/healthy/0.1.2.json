@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "healthy checks the health of a Python package from its pypi listing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dustinmm80/healthy", 
+  "info": {
+    "Author:": "Dustin Collins", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dustinmm80/healthy", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dustinmm80"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "healthy checks the health of a Python package from its pypi listing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "251374205a2dbd132220e6e356fe0877", 
+  "source_uri": "https://pypi.python.org/packages/source/h/healthy/healthy-0.1.2.tar.gz"
+}

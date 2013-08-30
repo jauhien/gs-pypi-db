@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for setting up a Plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.setuphandlertools", 
+  "info": {
+    "Author:": "Johannes Raggam", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.setuphandlertools", 
+    "Keywords:": "plone zope setup", 
+    "License:": "GPL", 
+    "Package Index Owner:": "thet"
+  }, 
+  "license": "", 
+  "longdescription": "Tools for setting up a Plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e34ca8d8c6ee7b5a6f52a83e38d50ec7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.setuphandlertools/collective.setuphandlertools-1.0b4.zip"
+}

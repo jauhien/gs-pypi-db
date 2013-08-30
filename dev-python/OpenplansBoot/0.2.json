@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates new Openplans site deployment setup", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.coactivate.org/projects/opencore", 
+  "info": {
+    "Author:": "TOPP", 
+    "Categories": {
+      "Development Status": [
+        "7 - Inactive"
+      ]
+    }, 
+    "Home Page:": "http://www.coactivate.org/projects/opencore", 
+    "Keywords:": "TOPP openplans opencore open planning project openplans.org", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "rafrombrc, slinkp, ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "Creates new Openplans site deployment setup", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d3588b805fbfe7e768728026ac84f9a4", 
+  "source_uri": "https://pypi.python.org/packages/source/O/OpenplansBoot/OpenplansBoot-0.2.tar.gz"
+}

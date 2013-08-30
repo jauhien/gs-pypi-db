@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An outgoing balancer for PYPI", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/yopypi", 
+  "info": {
+    "Author:": "Alfredo Deza", 
+    "Home Page:": "http://code.google.com/p/yopypi", 
+    "Keywords:": "pypi mirror performance balancer", 
+    "License:": "MIT", 
+    "Package Index Owner:": "alfredodeza"
+  }, 
+  "license": "", 
+  "longdescription": "An outgoing balancer for PYPI", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1224e31672ddac5f10e8cad8f13e00d", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yopypi/yopypi-0.0.2.tar.gz"
+}

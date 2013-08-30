@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Resource Reservation plugin for Trac", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/ResourceReservationPlugin", 
+  "info": {
+    "Author:": "Roberto Longobardi", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://sourceforge.net/projects/resreserv4trac/files/", 
+    "Home Page:": "http://trac-hacks.org/wiki/ResourceReservationPlugin", 
+    "Keywords:": "trac plugin project resource management planning schedule", 
+    "License:": "BSD. See the file LICENSE.txt contained in the package.", 
+    "Package Index Owner:": "seccanj", 
+    "Platform:": "All"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Resource Reservation plugin for Trac", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a9f3089e20da2c946d5166f8f12cff63", 
+  "source_uri": "https://sourceforge.net/projects/resreserv4trac/files/"
+}

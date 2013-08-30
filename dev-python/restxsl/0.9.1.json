@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Transform reStructuredText into XML using XSL stylesheets.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.strangeGizmo.com/products/restxsl/", 
+  "info": {
+    "Author:": "Michael Alyn Miller", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Download URL:": "http://www.strangeGizmo.com/products/restxsl/restxsl-0.9.1.tar.gz", 
+    "Home Page:": "http://www.strangeGizmo.com/products/restxsl/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "malyn"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Transform reStructuredText into XML using XSL stylesheets.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.strangeGizmo.com/products/restxsl/restxsl-0.9.1.tar.gz"
+}

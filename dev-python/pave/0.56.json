@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple SSH-based configuration and deployment tool, leveraging fabric.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/mixmastamyk/pave", 
+  "info": {
+    "Author:": "Mike Miller", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/mixmastamyk/pave/get/default.tar.gz", 
+    "Home Page:": "https://bitbucket.org/mixmastamyk/pave", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "mixmastamyk"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Simple SSH-based configuration and deployment tool, leveraging fabric.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c2c9ec2c2aaa9b9f33abf52508da7522", 
+  "source_uri": "https://bitbucket.org/mixmastamyk/pave/get/default.tar.gz"
+}

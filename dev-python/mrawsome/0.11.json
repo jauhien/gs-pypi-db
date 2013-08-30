@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A script allowing to setup Amaon EC2 instances through configuration files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fschulze/mr.awsome", 
+  "info": {
+    "Author:": "Florian Schulze", 
+    "Home Page:": "http://github.com/fschulze/mr.awsome", 
+    "Package Index Owner:": "witsch, fschulze, tomster, martior"
+  }, 
+  "license": "", 
+  "longdescription": "A script allowing to setup Amaon EC2 instances through configuration files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b3c7a4eceb51760d41c0cd86e59d9890", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mr.awsome/mr.awsome-0.11.zip"
+}

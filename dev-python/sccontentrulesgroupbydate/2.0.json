@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone content rules action that creates a chronological archive.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.simplesconsultoria.com.br/", 
+  "info": {
+    "Author:": "Simples Consultoria", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.simplesconsultoria.com.br/", 
+    "Keywords:": "plone contentrules actions date grouping", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "ericoandrei, hvelarde"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "A Plone content rules action that creates a chronological archive.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a63bbd7658f8c9505c45daf70ece6b84", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sc.contentrules.groupbydate/sc.contentrules.groupbydate-2.0.zip"
+}

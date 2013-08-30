@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python based agent for collecting metrics for NewRelic", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/MeetMe/newrelic_plugin_agent", 
+  "info": {
+    "Author:": "Gavin M. Roy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "https://github.com/MeetMe/newrelic_plugin_agent", 
+    "License:": "BSD", 
+    "Package Index Owner:": "crad"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python based agent for collecting metrics for NewRelic", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c508fb52fe53f53f4690b7d9ba2ead97", 
+  "source_uri": "https://pypi.python.org/packages/source/n/newrelic_plugin_agent/newrelic_plugin_agent-1.1.0.tar.gz"
+}

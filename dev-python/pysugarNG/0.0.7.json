@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fork of Python binding of SugarCRM, that uses the SOAP API provided by SugarCRM sponsored by Makina Corpus", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Mathieu PASQUET <kiorky@cryptelium.net>, Florent Aide, Christophe de Vienne", 
+    "Keywords:": "Sugar CRM SOAP", 
+    "License:": "PSF", 
+    "Package Index Owner:": "kiorky"
+  }, 
+  "license": "", 
+  "longdescription": "Fork of Python binding of SugarCRM, that uses the SOAP API provided by SugarCRM sponsored by Makina Corpus", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b51e1b26658373844ccf50717bae197", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysugarNG/pysugarNG-0.0.7.zip"
+}

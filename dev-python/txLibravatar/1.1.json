@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twisted module for Libravatar", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/txlibravatar", 
+  "info": {
+    "Author:": "Francois Marier", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/txlibravatar", 
+    "Keywords:": "libravatar,avatars,autonomous,social,federated,twisted", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fmarier"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Twisted module for Libravatar", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b96471f0c83d02e84af47cb3dd5a848", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txLibravatar/txLibravatar-1.1.tar.gz"
+}

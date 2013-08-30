@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the Transmission BitTorrent Client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/py-transmission/", 
+  "info": {
+    "Author:": "Tom Lazar", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "File Sharing"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/py-transmission/", 
+    "Keywords:": "bittorrent transmission", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "tomster"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python bindings for the Transmission BitTorrent Client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ebdbc8c5a01a3b3395271f4e31caf47", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TransmissionClient/TransmissionClient-0.2rc1.tar.gz"
+}

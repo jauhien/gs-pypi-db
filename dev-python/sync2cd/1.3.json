@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Incremental archiving tool to CDDVD", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.calins.ch/software/sync2cd.html", 
+  "info": {
+    "Author:": "Remy Blank", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving"
+      ]
+    }, 
+    "Download URL:": "http://www.calins.ch/download/sync2cd/sync2cd-1.3.tar.gz", 
+    "Home Page:": "http://www.calins.ch/software/sync2cd.html", 
+    "Keywords:": "backup,incremental,archive,CD,DVD,synchronization", 
+    "License:": "GPL-2", 
+    "Package Index Owner:": "rblank", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Incremental archiving tool to CDDVD", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.calins.ch/download/sync2cd/sync2cd-1.3.tar.gz"
+}

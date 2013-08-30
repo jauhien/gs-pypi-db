@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "virtualenvwrapper plugin to alias common typos", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/dhellmann/virtualenvwrapper.alex", 
+  "info": {
+    "Author:": "Doug Hellmann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/dhellmann/virtualenvwrapper.alex", 
+    "Package Index Owner:": "doughellmann", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "virtualenvwrapper plugin to alias common typos", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "078c4b966fba38250c7f87ed7bd40f31", 
+  "source_uri": "https://pypi.python.org/packages/source/v/virtualenvwrapper.alex/virtualenvwrapper.alex-0.1.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sanity checks for buildout environment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Steve McMahon", 
+    "Categories": {
+      "Framework": [
+        "Buildout", 
+        "Extension"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "MatthewWilkes, esteele, davisagli, smcmahon"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "Sanity checks for buildout environment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "96cfbfb25139aa2470e7c71e751acf10", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildout.sanitycheck/buildout.sanitycheck-1.0b1.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A client for the Cabochon event server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.openplans.org/projects/cabochon", 
+  "info": {
+    "Author:": "David Turner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "https://svn.openplans.org/svn/CabochonClient/trunk#egg=cabochonclient", 
+    "Home Page:": "http://www.openplans.org/projects/cabochon", 
+    "License:": "GPLv2 or any later version", 
+    "Package Index Owner:": "novalis"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A client for the Cabochon event server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://svn.openplans.org/svn/CabochonClient/trunk#egg=cabochonclient"
+}

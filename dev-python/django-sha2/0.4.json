@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enable strong password hashes (bcrypt+hmac or SHA-2) in Django by default.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fwenzel/django-sha2", 
+  "info": {
+    "Author:": "Fred Wenzel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment", 
+        "Mozilla"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fwenzel/django-sha2", 
+    "License:": "BSD", 
+    "Package Index Owner:": "marketplacedevs, andymckay"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Enable strong password hashes (bcrypt+hmac or SHA-2) in Django by default.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "64dddf0da5f25280a5ce2cd30367f8ad", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sha2/django-sha2-0.4.tar.gz"
+}

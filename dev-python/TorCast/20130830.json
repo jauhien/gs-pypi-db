@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Broadcast messages to all tornado process subcribed on Redis asynchronously", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ipconfiger/TorCast", 
+  "info": {
+    "Author:": "Alexander.Li", 
+    "Home Page:": "https://github.com/ipconfiger/TorCast", 
+    "Keywords:": "tornado asynchronous redis message", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "alexanderli"
+  }, 
+  "license": "", 
+  "longdescription": "Broadcast messages to all tornado process subcribed on Redis asynchronously", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "757820598abbdfd14ee11659c742ce84", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TorCast/TorCast-0.0.0.3.pre.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PDB-like ClientServer Debugger for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/rad2py/wiki/QdbRemotePythonDebugger", 
+  "info": {
+    "Author:": "Mariano Reingart", 
+    "Home Page:": "http://code.google.com/p/rad2py/wiki/QdbRemotePythonDebugger", 
+    "Package Index Owner:": "reingart"
+  }, 
+  "license": "", 
+  "longdescription": "PDB-like ClientServer Debugger for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19fac272cb0c85aecbefeb4647224f4d", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qdb/qdb-1.01c.zip"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI components for Moksha.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://moksha.fedorahosted.org", 
+  "info": {
+    "Author:": "Luke Macken, John (J5) Palmieri, Mairin Duffy, and Ralph Bean", 
+    "Home Page:": "http://moksha.fedorahosted.org", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI components for Moksha.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eca9c4eec0a34a9e3ff35b7ff386277e", 
+  "source_uri": "https://pypi.python.org/packages/source/m/moksha.feeds/moksha.feeds-1.2.0.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Capistrano style deployments with Fabric", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dlapiduz/fabistrano", 
+  "info": {
+    "Author:": "Diego Lapiduz", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dlapiduz/fabistrano", 
+    "License:": "License :: OSI Approved :: BSD License", 
+    "Package Index Owner:": "dlapiduz"
+  }, 
+  "license": "", 
+  "longdescription": "Capistrano style deployments with Fabric", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a51814d00574b2cbd65f2e13b7835fe8", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fabistrano/fabistrano-0.3.tar.gz"
+}

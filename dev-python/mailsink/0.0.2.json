@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a mock SMTP server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bgilmore/mailsink", 
+  "info": {
+    "Author:": "Brandon Gilmore", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bgilmore/mailsink", 
+    "License:": "BSD", 
+    "Package Index Owner:": "brandon", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "a mock SMTP server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6fc1b1c42c93ef07f83cf43286afe2f9", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mailsink/mailsink-0.0.2.tar.gz"
+}

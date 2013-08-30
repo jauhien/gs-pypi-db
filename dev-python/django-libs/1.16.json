@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of things that we re-use in every Django project, such ascustom middlewares, testrunner, templates, templatetags, test mixins,test factories etc...", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bitmazk/django-libs", 
+  "info": {
+    "Author:": "Martin Brochhaus", 
+    "Home Page:": "https://github.com/bitmazk/django-libs", 
+    "Keywords:": "django,common,reusable,kickstart", 
+    "License:": "The MIT License", 
+    "Package Index Owner:": "dkaufhold, Tobias.Lorenz, mbrochh", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "A collection of things that we re-use in every Django project, such ascustom middlewares, testrunner, templates, templatetags, test mixins,test factories etc...", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4f21b0f08c60224a93d8e1e2b2b14b5", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-libs/django-libs-1.16.tar.gz"
+}

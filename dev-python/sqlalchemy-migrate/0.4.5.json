@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Database schema migration for SQLAlchemy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/sqlalchemy-migrate/", 
+  "info": {
+    "Author:": "Jan Dittberner", 
+    "Documentation:": "http://pythonhosted.org//sqlalchemy-migrate", 
+    "Home Page:": "http://code.google.com/p/sqlalchemy-migrate/", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "iElectric", 
+    "Package Index Owner:": "sdirector, openstackci, ches, evyaro, jandd"
+  }, 
+  "license": "", 
+  "longdescription": "Database schema migration for SQLAlchemy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4f17e2c7fcfbb7bd0df628d974c8e3e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlalchemy-migrate/sqlalchemy-migrate-0.4.5.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add ajax image upload functionality with a progress bar to file input fields within Django admin. Images are optionally resied.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bradleyg/django-ajaximage", 
+  "info": {
+    "Author:": "Bradley Griffiths", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bradleyg/django-ajaximage", 
+    "Package Index Owner:": "bradleyg"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Add ajax image upload functionality with a progress bar to file input fields within Django admin. Images are optionally resied.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2254c89c6a438a742730dfaa8c12d4ef", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ajaximage/django-ajaximage-0.1.15.tar.gz"
+}

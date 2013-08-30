@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Set the default editor in Plone for all existing members.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zestsoftware/collective.setdefaulteditor", 
+  "info": {
+    "Author:": "Maurits van Rees", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zestsoftware/collective.setdefaulteditor", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maurits, markvl, vincentpretre, fredvd"
+  }, 
+  "license": "", 
+  "longdescription": "Set the default editor in Plone for all existing members.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a6165af19b7bc724568c4703c9701e20", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.setdefaulteditor/collective.setdefaulteditor-1.4.zip"
+}

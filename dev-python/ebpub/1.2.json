@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Core models and views for OpenBlock (hyperlocal news for Django)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://openblockproject.org/docs", 
+  "info": {
+    "Author:": "Paul Winkler (for OpenPlans)", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Indexing/Search"
+      ]
+    }, 
+    "Home Page:": "http://openblockproject.org/docs", 
+    "Keywords:": "openblock", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "slinkp"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Core models and views for OpenBlock (hyperlocal news for Django)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "198927493b5db807fb4ac092f6b411eb", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ebpub/ebpub-1.2.tar.gz"
+}

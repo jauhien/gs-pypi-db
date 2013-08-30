@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pelican plugin for creating alias pages (useful for moving from a different URL scheme such as yearmonthtitle as used by Wordpress).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Nitron/pelican-alias", 
+  "info": {
+    "Author:": "Christopher Williams", 
+    "Categories": {
+      "Environment": [
+        "Plugins"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Download URL:": "http://github.com/Nitron/pelican-alias/tarball/1.0", 
+    "Home Page:": "http://github.com/Nitron/pelican-alias", 
+    "Keywords:": "pelican blog", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Nitron"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Pelican plugin for creating alias pages (useful for moving from a different URL scheme such as yearmonthtitle as used by Wordpress).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c0ecccab37ddaa655227b25f9f759b07", 
+  "source_uri": "http://github.com/Nitron/pelican-alias/tarball/1.0"
+}

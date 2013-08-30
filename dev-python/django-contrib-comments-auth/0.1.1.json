@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This adds authentication to django.contrib.comments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.julianmoritz.de", 
+  "info": {
+    "Author:": "Julian Moritz", 
+    "Home Page:": "http://www.julianmoritz.de", 
+    "Keywords:": "comments django web", 
+    "License:": "BSD", 
+    "Package Index Owner:": "feuervogel"
+  }, 
+  "license": "", 
+  "longdescription": "This adds authentication to django.contrib.comments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8bf1fc9d556b5b3b1ea72ccf1c09ab68", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-contrib-comments-auth/django-contrib-comments-auth-0.1.1.tar.gz"
+}

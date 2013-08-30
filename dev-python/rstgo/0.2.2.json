@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package to render go diagrams and embed them in reStructuredText documents", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/cliff/rstgo", 
+  "info": {
+    "Author:": "J. Cliff Dyer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Games/Entertainment", 
+        "Turn Based Strategy"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/cliff/rstgo", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "jcd"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A package to render go diagrams and embed them in reStructuredText documents", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "63e3a5b3a6563f334242d028ff4cea84", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rstgo/rstgo-0.2.2.tar.gz"
+}

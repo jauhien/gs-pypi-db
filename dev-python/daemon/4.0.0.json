@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Daemon process control library and tools for Unix-based systems", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/zdaemon", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.python.org/pypi/zdaemon", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "J1m, fdrake, srichter, ignas, baijum, chrism, benji, philikon, ctheune, projekt01, ajung, mgedmin, pcardune, ccomb, faassen, hathawsh, chrisw, nadako, zagy, tseaver, icemac, hannosch, gary, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Daemon process control library and tools for Unix-based systems", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4056e2ea35855695ed15389d9c168b92", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zdaemon/zdaemon-4.0.0.tar.gz"
+}

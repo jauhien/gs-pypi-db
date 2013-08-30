@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Experimental Joyent SmartDataCenter 6.5  7.0 CloudAPI connector using http-signature authentication via Requests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/atl/py-smartdc", 
+  "info": {
+    "Author:": "Adam T. Lindsay", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//smartdc", 
+    "Home Page:": "https://github.com/atl/py-smartdc", 
+    "Keywords:": "http,web,joyent,admin,operations", 
+    "License:": "MIT", 
+    "Package Index Owner:": "atl"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Experimental Joyent SmartDataCenter 6.5  7.0 CloudAPI connector using http-signature authentication via Requests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2d7697da44f77128b9036d76f4577f4", 
+  "source_uri": "https://pypi.python.org/packages/source/s/smartdc/smartdc-0.2.0.tar.gz"
+}

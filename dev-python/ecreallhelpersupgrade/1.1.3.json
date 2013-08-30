@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adapter tool with helpers for upgrade often used at ecreall", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "License:": "gpl", 
+    "Package Index Owner:": "tdesvenain"
+  }, 
+  "license": "", 
+  "longdescription": "Adapter tool with helpers for upgrade often used at ecreall", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5390273438c312ee4381bf6e3a40ebe9", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ecreall.helpers.upgrade/ecreall.helpers.upgrade-1.1.3.zip"
+}

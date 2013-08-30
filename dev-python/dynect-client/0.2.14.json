@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dynect REST API Client for addingremoving domains", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ZachGoldberg/Dynect-REST-Python-Client", 
+  "info": {
+    "Author:": "Zach Goldberg", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Name Service (DNS)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ZachGoldberg/Dynect-REST-Python-Client", 
+    "Package Index Owner:": "zachgoldberg"
+  }, 
+  "license": "", 
+  "longdescription": "Dynect REST API Client for addingremoving domains", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1374521f73d65b31550a8db805c4dcac", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dynect-client/dynect-client-0.2.14.tar.gz"
+}

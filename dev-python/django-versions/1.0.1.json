@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django application to enable versioning of data stored in Django models.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nowells/django-versions/", 
+  "info": {
+    "Author:": "Nowell Strite", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nowells/django-versions/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nowells"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A django application to enable versioning of data stored in Django models.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4be9b84a483e4e9d820dda53ae9ffdc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-versions/django-versions-1.0.1.tar.gz"
+}

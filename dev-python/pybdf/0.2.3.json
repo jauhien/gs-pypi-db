@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pybdf is a python library for reading BIOSEMI bdf files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sam81/pybdf", 
+  "info": {
+    "Author:": "Samuele Carcagno", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pybdf", 
+    "Home Page:": "https://github.com/sam81/pybdf", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "sam.carcagno"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "pybdf is a python library for reading BIOSEMI bdf files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fbdfb55abc858be9fc771890a3b65675", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pybdf/pybdf-0.2.3.tar.gz"
+}

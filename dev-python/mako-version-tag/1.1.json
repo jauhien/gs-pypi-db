@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Displays pkg_resources distribution versions in Mako templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://alchemy.grimoire.ca/python/sites/mako-version-tag/", 
+  "info": {
+    "Author:": "Owen Jacobson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://alchemy.grimoire.ca/python/releases/mako-version-tag/", 
+    "Home Page:": "http://alchemy.grimoire.ca/python/sites/mako-version-tag/", 
+    "Package Index Owner:": "ojacobson"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Displays pkg_resources distribution versions in Mako templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d721b121ee42963a75920a6f793a36aa", 
+  "source_uri": "http://alchemy.grimoire.ca/python/releases/mako-version-tag/"
+}

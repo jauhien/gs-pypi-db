@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "buildout recipe for installing torii", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/raptus.recipe.torii", 
+  "info": {
+    "Author:": "sriolo", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/raptus.recipe.torii", 
+    "License:": "GPL", 
+    "Package Index Owner:": "codeix, raptus"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "buildout recipe for installing torii", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bc991436a674db4f741c12bf44116c6b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.recipe.torii/raptus.recipe.torii-1.0b1.tar.gz"
+}

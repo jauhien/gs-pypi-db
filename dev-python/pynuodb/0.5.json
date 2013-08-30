@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "NuoDB Python driver", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/nuodb/nuodb-python", 
+  "info": {
+    "Author:": "NuoDB", 
+    "Home Page:": "https://github.com/nuodb/nuodb-python", 
+    "Keywords:": "nuodb scalable cloud database", 
+    "License:": "BSD licence, see LICENCE.txt", 
+    "Package Index Owner:": "cadmin"
+  }, 
+  "license": "", 
+  "longdescription": "NuoDB Python driver", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9a3cd2782c69fc1cf0b09ee96dcd478", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pynuodb/pynuodb-0.5.tar.gz"
+}

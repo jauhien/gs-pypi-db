@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Moilla WebQA plugin for py.test.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/davehunt/pytest-mozwebqa", 
+  "info": {
+    "Author:": "Dave Hunt", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 2.0 (MPL 2.0)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/davehunt/pytest-mozwebqa", 
+    "Keywords:": "py.test pytest selenium saucelabs mozwebqa webqa qa mozilla", 
+    "License:": "Mozilla Public License 2.0 (MPL 2.0)", 
+    "Package Index Owner:": "davehunt"
+  }, 
+  "license": "Mozilla Public License 2.0 (MPL 2.0)", 
+  "longdescription": "Moilla WebQA plugin for py.test.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd66a6b7a8a0b73734b58d0ac94afef7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-mozwebqa/pytest-mozwebqa-1.1.1.tar.gz"
+}

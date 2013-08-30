@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A logging replacement for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://logbook.pocoo.org/", 
+  "info": {
+    "Author:": "Armin Ronacher, Georg Brandl", 
+    "Documentation:": "http://pythonhosted.org//Logbook", 
+    "Home Page:": "http://logbook.pocoo.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "scilifelab, mitsuhiko, gbrandl", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A logging replacement for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "51e2af5d8b51d22d8b1149318c29f1ac", 
+  "source_uri": "https://pypi.python.org/packages/source/L/Logbook/Logbook-0.5.0.tar.gz"
+}

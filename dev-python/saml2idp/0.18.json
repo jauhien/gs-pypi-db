@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SAML 2.0 IdP for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-saml2-idp/", 
+  "info": {
+    "Author:": "John Samuel Anderson", 
+    "Home Page:": "http://code.google.com/p/django-saml2-idp/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "guitarmanvt"
+  }, 
+  "license": "", 
+  "longdescription": "SAML 2.0 IdP for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12e6b11df8f231b36c13a43402134484", 
+  "source_uri": "https://pypi.python.org/packages/source/s/saml2idp/saml2idp-0.18.tar.gz"
+}

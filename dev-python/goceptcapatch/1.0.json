@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Test helpers to temporarily alter ope.component registrations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.gocept.com/hg/public/gocept.zcapatch", 
+  "info": {
+    "Author:": "Wolfgang Schnerring <ws at gocept dot com>, Thomas Lotze <tl at gocept dot com>", 
+    "Home Page:": "http://code.gocept.com/hg/public/gocept.zcapatch", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ckauhaus, ctheune, DanielHavlikGocept, sweh, icemac, zagy, wosc, tlotze"
+  }, 
+  "license": "", 
+  "longdescription": "Test helpers to temporarily alter ope.component registrations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44e2b4759004d9cb933c86be2a762865", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.zcapatch/gocept.zcapatch-1.0.tar.gz"
+}

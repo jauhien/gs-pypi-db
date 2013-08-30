@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for use with WFPC2 (Wide Field and Planetary Camera 2)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+  "info": {
+    "Author:": "Warren Hack, Nadezhda Dencheva, David Grumm", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.stsci.edu/resources/software_hardware/stsci_python", 
+    "Package Index Owner:": "stsci_ssb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tools for use with WFPC2 (Wide Field and Planetary Camera 2)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f865bc0ef937ab6b47759777ac558d8", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wfpc2tools/wfpc2tools-1.0.1.tar.gz"
+}

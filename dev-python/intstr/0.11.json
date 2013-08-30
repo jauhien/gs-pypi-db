@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "int encode to string  string decode to int , can use in url shorten with a auto incr id", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "zuroc", 
+    "Package Index Owner:": "zuroc"
+  }, 
+  "license": "", 
+  "longdescription": "int encode to string  string decode to int , can use in url shorten with a auto incr id", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aae514574268a072867cac1effbb4532", 
+  "source_uri": "https://pypi.python.org/packages/source/i/intstr/intstr-0.11.tar.gz"
+}

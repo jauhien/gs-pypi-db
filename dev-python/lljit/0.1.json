@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cython interface to LLVM Jit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/samrushing/lljit/", 
+  "info": {
+    "Author:": "Sam Rushing", 
+    "Download URL:": "http://github.com/samrushing/lljit/tarball/master#egg=lljit-0.1", 
+    "Home Page:": "http://github.com/samrushing/lljit/", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "rushing"
+  }, 
+  "license": "", 
+  "longdescription": "cython interface to LLVM Jit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://github.com/samrushing/lljit/tarball/master#egg=lljit-0.1"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module which provides decorators to make dependency injection easy to use.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fedorapeople.org/cgit/msivak/public_git/python-di.git/", 
+  "info": {
+    "Author:": "Martin Sivak", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://fedorapeople.org/cgit/msivak/public_git/python-di.git/", 
+    "Keywords:": "testing dependency injection IoC", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "MarSik"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "Python module which provides decorators to make dependency injection easy to use.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dbbb6c9615eb0358b1e3cfd65a3881c8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/di/di-0.3.tar.gz"
+}

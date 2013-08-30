@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "deps discovers your Python dependencies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dejw/deps/", 
+  "info": {
+    "Author:": "Dawid Fatyga", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dejw/deps/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Dawid.Fatyga", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "deps discovers your Python dependencies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b80c9165d104dca3071ef8a2addc1f05", 
+  "source_uri": "https://pypi.python.org/packages/source/d/deps/deps-0.1.0.tar.gz"
+}

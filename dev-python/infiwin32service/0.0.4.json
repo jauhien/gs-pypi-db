@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings to Windows ServiceControlManager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://infinigit.infinidat.com/host/win32service", 
+  "info": {
+    "Author:": "Arnon Yaari", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://infinigit.infinidat.com/host/win32service", 
+    "License:": "PSF", 
+    "Package Index Owner:": "infinidat, guyr"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Python bindings to Windows ServiceControlManager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dce6dbad72ba3ed2feae58a6518134c4", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infi.win32service/infi.win32service-0.0.4.tar.gz"
+}

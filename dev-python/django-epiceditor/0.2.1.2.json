@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django app that allows the easy addition of EpicEditor markdown editor to a django form field, whether in a custom app or the Django Admin.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/barraq/django-epiceditor", 
+  "info": {
+    "Author:": "Remi Barraquand", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/barraq/django-epiceditor", 
+    "License:": "LICENSE", 
+    "Package Index Owner:": "barraq"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A django app that allows the easy addition of EpicEditor markdown editor to a django form field, whether in a custom app or the Django Admin.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7babf3ffc3e62816d88dc9a4804147d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-epiceditor/django-epiceditor-0.2.1.2.tar.gz"
+}

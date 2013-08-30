@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Handle multi-tenancy in Django with no additional global state using schemas.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/charettes/django-tenancy", 
+  "info": {
+    "Author:": "Simon Charette", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/charettes/django-tenancy", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "charettes"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Handle multi-tenancy in Django with no additional global state using schemas.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9fb9a143a3f47512fa992030f3f8e6b6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tenancy/django-tenancy-0.1.1.tar.gz"
+}

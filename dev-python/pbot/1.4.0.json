@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An simple site crawler with proxy support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zeus/pbot", 
+  "info": {
+    "Author:": "Pavel Zhukov", 
+    "Home Page:": "http://bitbucket.org/zeus/pbot", 
+    "Keywords:": "crawling,bot", 
+    "License:": "GPL", 
+    "Package Index Owner:": "zeus"
+  }, 
+  "license": "", 
+  "longdescription": "An simple site crawler with proxy support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "adfa46604311542b76750811748b1353", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pbot/pbot-1.4.0.tar.gz"
+}

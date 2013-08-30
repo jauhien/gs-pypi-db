@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ope processing incoming mail", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/zw.mail.incoming", 
+  "info": {
+    "Author:": "Gregor Giesen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/zw.mail.incoming", 
+    "Keywords:": "zope3", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ggiesen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "ope processing incoming mail", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ddb30e3bf4aa7de60c7ea26a06ef067a", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zw.mail.incoming/zw.mail.incoming-0.1.2.3.tar.gz"
+}

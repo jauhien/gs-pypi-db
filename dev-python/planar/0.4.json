@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "2D planar geometry library for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/caseman/planar/", 
+  "info": {
+    "Author:": "Casey Duncan", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//planar", 
+    "Home Page:": "http://bitbucket.org/caseman/planar/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "caseman", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "2D planar geometry library for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a0481b98eaed5dffc84446f4005d633", 
+  "source_uri": "https://pypi.python.org/packages/source/p/planar/planar-0.4.tar.gz"
+}

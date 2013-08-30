@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LL(1) parser generator with expression parsing support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/scottfrazer/hermes", 
+  "info": {
+    "Author:": "Scott Frazer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Compilers"
+      ]
+    }, 
+    "Home Page:": "http://github.com/scottfrazer/hermes", 
+    "Keywords:": "Parser,Recursive Descent,LL(1),Pratt,Expression,Parser Generator", 
+    "License:": "MIT", 
+    "Package Index Owner:": "scottfrazer"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "LL(1) parser generator with expression parsing support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "322d92c7dfad4c996d92cef2af35df5c", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hermes-parser/hermes-parser-1.1.tar.gz"
+}

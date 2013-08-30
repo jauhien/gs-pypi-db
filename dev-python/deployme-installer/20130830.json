@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple installer for deployme", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Rick Copeland", 
+    "License:": "APACHE 2.0", 
+    "Package Index Owner:": "rick446"
+  }, 
+  "license": "", 
+  "longdescription": "Simple installer for deployme", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9359731c764e5e42a61a2816539622ff", 
+  "source_uri": "https://pypi.python.org/packages/source/d/deployme-installer/deployme-installer-0.1dev.tar.gz"
+}

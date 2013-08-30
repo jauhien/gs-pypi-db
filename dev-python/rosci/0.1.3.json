@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "rosci continuous integration tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/rosci", 
+  "info": {
+    "Author:": "Ken Conley", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pr.willowgarage.com/downloads/rosci/", 
+    "Home Page:": "http://www.ros.org/wiki/rosci", 
+    "Keywords:": "ROS", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kwc, tfoote, gerkey, dthomas"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "rosci continuous integration tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a1cb32c761107c8cd3a85a704352e48", 
+  "source_uri": "http://pr.willowgarage.com/downloads/rosci/"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python wrapper around the Twitter API.  Updated often and drop in replacement for twitter-python (aka its a fork)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/jrossi/tweethon/", 
+  "info": {
+    "Author:": "Jeremy Rossi", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/jrossi/tweethon/", 
+    "Keywords:": "twitter api", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "jrossi"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A python wrapper around the Twitter API.  Updated often and drop in replacement for twitter-python (aka its a fork)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ebaaf8f34b274a4ac51dd1ee29c4c5f5", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tweethon/tweethon-0.8.1.tar.gz"
+}

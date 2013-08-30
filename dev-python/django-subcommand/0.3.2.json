@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add sub command to A Django manage command", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ikeikeikeike/django-subcommand", 
+  "info": {
+    "Author:": "Tatsuo Ikeda", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ikeikeikeike/django-subcommand", 
+    "Keywords:": "javascript,coffeescript,django,command", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "ikeikeikeike"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Add sub command to A Django manage command", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d8337e0a0f61cc16c9c10ab93f2c8385", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-subcommand/django-subcommand-0.3.2.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightweight python wrapper for Apache Solr.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/toastdriven/pysolr/", 
+  "info": {
+    "Author:": "Daniel Lindsley", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Indexing/Search"
+      ]
+    }, 
+    "Home Page:": "http://github.com/toastdriven/pysolr/", 
+    "Package Index Maintainer:": "acdha", 
+    "Package Index Owner:": "acdha, jacobian, jkocherhans, daniellindsley"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Lightweight python wrapper for Apache Solr.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "93977d15748c305d3c898d23c842b1e0", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysolr/pysolr-2.0.10.tar.gz"
+}

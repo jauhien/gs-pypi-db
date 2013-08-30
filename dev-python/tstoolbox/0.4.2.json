@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line script to manipulate time series files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tstoolbox", 
+  "info": {
+    "Author:": "Tim Cera, P.E.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/tstoolbox", 
+    "Keywords:": "time_series", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "timcera"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Command line script to manipulate time series files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "de47e36a5ea84f1f9c02048e11b10b82", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tstoolbox/tstoolbox-0.4.2.tar.gz"
+}

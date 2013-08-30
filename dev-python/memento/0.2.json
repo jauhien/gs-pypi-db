@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI middleware for per request code reloading.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lukearno.com/projects/memento/", 
+  "info": {
+    "Author:": "Luke Arno", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://lukearno.com/projects/memento/", 
+    "Keywords:": "wsgi web http reloading middleware webapps", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "luke"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "WSGI middleware for per request code reloading.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "207d04db8fa4f9d5198173a4c19b268c", 
+  "source_uri": "https://pypi.python.org/packages/source/m/memento/memento-0.2.tar.gz"
+}

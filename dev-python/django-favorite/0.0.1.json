@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple reusable app for django that makes it easy to have a favorite button for any model.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/s1n4/django-favorite", 
+  "info": {
+    "Author:": "Sina Samavati", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/s1n4/django-favorite", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "s1n4"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple reusable app for django that makes it easy to have a favorite button for any model.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3ab10d476f6edeadb0a1a19852e22aec", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-favorite/django-favorite-0.0.1.tar.gz"
+}

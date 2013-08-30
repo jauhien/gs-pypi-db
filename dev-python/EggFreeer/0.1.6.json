@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates single-file installers for eggified distributions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alberto Valverde Gonzalez", 
+    "Download URL:": "http://toscawidgets.org/download", 
+    "License:": "MIT", 
+    "Package Index Owner:": "albertovalverde"
+  }, 
+  "license": "", 
+  "longdescription": "Creates single-file installers for eggified distributions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "09649fb3a56444e612907ad0e629e6c9", 
+  "source_uri": "http://toscawidgets.org/download"
+}

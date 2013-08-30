@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An architecture for maintaining multiple settings files in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tarequeh/django-config/", 
+  "info": {
+    "Author:": "Tareque Hossain", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tarequeh/django-config/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nowells, tarequeh"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An architecture for maintaining multiple settings files in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3d3798deebe454342bfb73d62f5d347", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-config/django-config-0.1.4.tar.gz"
+}

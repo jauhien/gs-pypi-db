@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app for managing an organisations board members page.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dominicrodger/django-board", 
+  "info": {
+    "Author:": "Dominic Rodger", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dominicrodger/django-board", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dominicrodger"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app for managing an organisations board members page.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5e6408aef36a43289786fd70ba9a8ae", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-board/django-board-0.2.1.tar.gz"
+}

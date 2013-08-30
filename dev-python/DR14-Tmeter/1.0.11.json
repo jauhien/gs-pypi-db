@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compute the DR14 of a given audio file according to the procedure described by the Pleasurie Music Foundation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dr14tmeter.scienceontheweb.net/", 
+  "info": {
+    "Author:": "Simone Riva", 
+    "Bug Tracker:": "https://github.com/simon-r/dr14_t.meter/issues?direction=desc&sort=created&state=open", 
+    "Categories": {
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio", 
+        "Analysis"
+      ]
+    }, 
+    "Download URL:": "https://github.com/simon-r/dr14_t.meter", 
+    "Home Page:": "http://dr14tmeter.scienceontheweb.net/", 
+    "Keywords:": "Audio Analysis", 
+    "License:": "GPLv3", 
+    "Maintainer:": "Simone Riva", 
+    "Package Index Owner:": "bred", 
+    "Platform:": "Gnu Linux"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Compute the DR14 of a given audio file according to the procedure described by the Pleasurie Music Foundation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ee09b4416abc93da0681de0a421925e5", 
+  "source_uri": "https://github.com/simon-r/dr14_t.meter"
+}

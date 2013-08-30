@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Nose2 plugin to run django tests through nose2 instead of the django test runner.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bretth/nose2django", 
+  "info": {
+    "Author:": "Brett Haydon", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bretth/nose2django", 
+    "Keywords:": "nose2\ndjango\ntesting", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Brett.Haydon"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Nose2 plugin to run django tests through nose2 instead of the django test runner.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "928ac7e26082d4c4bdfd7b0d1342af60", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nose2django/nose2django-0.1.2.tar.gz"
+}

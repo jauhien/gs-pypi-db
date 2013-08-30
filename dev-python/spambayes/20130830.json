@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Spam classification system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://spambayes.sourceforge.net", 
+  "info": {
+    "Author:": "the spambayes project", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Win32 (MS Windows)"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Post-Office", 
+        "POP3"
+      ]
+    }, 
+    "Home Page:": "http://spambayes.sourceforge.net", 
+    "Package Index Owner:": "anthony, tameyer, mhammond, richiehindle, skip"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Spam classification system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8757f838b07ecac863bcc42b09682faa", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spambayes/spambayes-1.1b1.tar.gz"
+}

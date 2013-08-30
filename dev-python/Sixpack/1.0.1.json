@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "AB testing framework under active development at SeatGeek", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/seatgeek/sixpack", 
+  "info": {
+    "Author:": "SeatGeek", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/seatgeek/sixpack", 
+    "Package Index Maintainer:": "philipcristiano", 
+    "Package Index Owner:": "zackkitzmiller"
+  }, 
+  "license": "", 
+  "longdescription": "AB testing framework under active development at SeatGeek", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "35b8d6d3adb37b1c1eafee57a7500be1", 
+  "source_uri": "https://pypi.python.org/packages/source/S/Sixpack/Sixpack-1.0.1.tar.gz"
+}

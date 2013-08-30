@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A generic nexus (phylogenetics) file format (.nex, .trees) reader for python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://simon.net.nz/articles/python-nexus", 
+  "info": {
+    "Author:": "Simon Greenhill", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://simon.net.nz/articles/python-nexus", 
+    "Keywords:": "phylogenetics nexus newick paup splitstree", 
+    "License:": "BSD", 
+    "Package Index Owner:": "SimonGreenhill"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A generic nexus (phylogenetics) file format (.nex, .trees) reader for python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b06ab61fa18edf2fe41673ad8ed8971", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-nexus/python-nexus-0.87.tar.gz"
+}

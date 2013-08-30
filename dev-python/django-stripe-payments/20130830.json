@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a payments Django app for Stripe", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/eldarion/django-stripe-payments", 
+  "info": {
+    "Author:": "Patrick Altman", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/eldarion/django-stripe-payments", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "brosner", 
+    "Package Index Owner:": "brosner, paltman"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "a payments Django app for Stripe", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ebdfbf0ff709192d6932ff0c45358107", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-stripe-payments/django-stripe-payments-2.0b28.tar.gz"
+}

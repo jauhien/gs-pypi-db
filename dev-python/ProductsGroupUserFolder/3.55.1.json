@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Acl Users Folder with group and plugin support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.GroupUserFolder", 
+  "info": {
+    "Author:": "Ingeniweb", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.GroupUserFolder", 
+    "Keywords:": "user groups plugin", 
+    "License:": "GPL", 
+    "Package Index Owner:": "tarek"
+  }, 
+  "license": "", 
+  "longdescription": "Acl Users Folder with group and plugin support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ae9664c63c7e2496004638004ad8887", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.GroupUserFolder/Products.GroupUserFolder-3.55.1.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface for git config files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cancerhermit/PyGitConfig/", 
+  "info": {
+    "Author:": "cancerhermit", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cancerhermit/PyGitConfig/", 
+    "Keywords:": "git config", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cancerhermit", 
+    "Platform:": "ALL"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python interface for git config files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4397f2052a07e2a9744c7733e34d5428", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gitconfig/gitconfig-0.0.2.tar.gz"
+}

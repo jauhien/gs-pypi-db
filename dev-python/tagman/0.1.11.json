@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Curated tagging app for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Rethought/tagman.git", 
+  "info": {
+    "Author:": "ReThought Ltd", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Rethought/tagman.git", 
+    "Keywords:": "django,tagging,tagman", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Matthew.Pontefract"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Curated tagging app for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54704955cb0caf7cb6240485ef55b182", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tagman/tagman-0.1.11.tar.gz"
+}

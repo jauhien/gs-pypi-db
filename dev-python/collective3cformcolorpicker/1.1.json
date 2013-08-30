@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Colorpicker widget for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.giorgioborelli.it", 
+  "info": {
+    "Author:": "Giorgio Borelli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.giorgioborelli.it", 
+    "Keywords:": "plone z3cform colorpicker widget", 
+    "License:": "GPL", 
+    "Package Index Owner:": "giorgio"
+  }, 
+  "license": "", 
+  "longdescription": "Colorpicker widget for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "45422db96ae404ea72076e95427b00e8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.z3cform.colorpicker/collective.z3cform.colorpicker-1.1.zip"
+}

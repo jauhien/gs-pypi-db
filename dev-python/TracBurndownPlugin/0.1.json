@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Burndown chart plugin for milestones in Trac", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.lshift.net/", 
+  "info": {
+    "Author:": "Lee Wei", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Download URL:": "http://www.lshift.net/", 
+    "Home Page:": "http://www.lshift.net/", 
+    "Keywords:": "trac burndown chart plugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "evandrix"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Burndown chart plugin for milestones in Trac", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66354cf51420ca1cc13d96d779bbf8ac", 
+  "source_uri": "http://www.lshift.net/"
+}

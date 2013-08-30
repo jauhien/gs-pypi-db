@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pyramid plugin that allows asynchronous and deferred task scheduling and management.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cadithealth/pyramid_scheduler", 
+  "info": {
+    "Author:": "Philip J Grabner, Cadit Health Inc", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cadithealth/pyramid_scheduler", 
+    "Keywords:": "web wsgi pyramid asynchronous task scheduling management scheduler", 
+    "License:": "MIT (http://opensource.org/licenses/MIT)", 
+    "Package Index Owner:": "grabner"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A pyramid plugin that allows asynchronous and deferred task scheduling and management.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a84a455d0815a40b30a4cfaf716e0b4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_scheduler/pyramid_scheduler-0.2.3.tar.gz"
+}

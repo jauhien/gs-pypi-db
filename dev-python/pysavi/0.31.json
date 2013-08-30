@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Sophos AntiVirus Interface (SAVI)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pilcrow.madison.wi.us/pysavi/", 
+  "info": {
+    "Author:": "Michael J. Pomraning", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://pilcrow.madison.wi.us/pysavi/pysavi-0.31.tar.gz", 
+    "Home Page:": "http://pilcrow.madison.wi.us/pysavi/", 
+    "Keywords:": "savi sophos anti-virus virus", 
+    "License:": "GPL", 
+    "Maintainer:": "Michael J. Pomraning", 
+    "Package Index Owner:": "mjp-pypi"
+  }, 
+  "license": "", 
+  "longdescription": "Python Sophos AntiVirus Interface (SAVI)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://pilcrow.madison.wi.us/pysavi/pysavi-0.31.tar.gz"
+}

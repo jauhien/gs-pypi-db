@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An ip blocker by regexp and ip range for Django apps.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pitcons/django-restrictip", 
+  "info": {
+    "Author:": "Petr Timofeev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pitcons/django-restrictip", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "pitcons"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "An ip blocker by regexp and ip range for Django apps.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87300d60a73782cb31c59362a11b7c20", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-restrictip/django-restrictip-1.0.0.tar.gz"
+}

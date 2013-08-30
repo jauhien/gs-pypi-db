@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Soma-workflow is a unified and simple interface to parallel computingresources. It aims at making easier the use of parallel resources bynon expert users and software.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.brainvisa.info/soma-workflow", 
+  "info": {
+    "Author:": "Please check authors at http://www.brainvisa.info/soma-workflow", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.brainvisa.info/soma-workflow", 
+    "License:": "CeCILL v2", 
+    "Package Index Owner:": "jinpengli, Soizic", 
+    "Platform:": "Linux,MacOS X,Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Soma-workflow is a unified and simple interface to parallel computingresources. It aims at making easier the use of parallel resources bynon expert users and software.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "152a0184218c1561b17f77ed3fb3656c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/soma-workflow/soma-workflow-2.5.1.tar.gz"
+}

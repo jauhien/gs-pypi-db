@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helper for writing reusable Django apps that handle uploads and downloads", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.allbuttonspressed.com/projects/django-filetransfers", 
+  "info": {
+    "Author:": "Waldemar Kornewald", 
+    "Home Page:": "http://www.allbuttonspressed.com/projects/django-filetransfers", 
+    "Package Index Owner:": "gorillamania", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Helper for writing reusable Django apps that handle uploads and downloads", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f2a9741e73d4fb832652686bef0fca6a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-filetransfers/django-filetransfers-0.1.0.tar.gz"
+}

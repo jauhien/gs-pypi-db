@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fabric is a simple, Pythonic tool for remote execution and deployment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fabfile.org", 
+  "info": {
+    "Author:": "Jeff Forcier", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://fabfile.org", 
+    "Package Index Owner:": "karmazilla, bitprophet"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Fabric is a simple, Pythonic tool for remote execution and deployment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1161b35da0365b8cbd1cd483d6ae564d", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Fabric/Fabric-1.1.0.tar.gz"
+}

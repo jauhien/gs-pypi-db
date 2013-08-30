@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A flexible Django app for templated mailings with support for celery queuing, SendGrid and more.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/JeromeParadis/django-mailing", 
+  "info": {
+    "Author:": "Jerome Paradis", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/JeromeParadis/django-mailing", 
+    "License:": "LICENSE.txt", 
+    "Package Index Maintainer:": "acarpentier", 
+    "Package Index Owner:": "jeromeparadis"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A flexible Django app for templated mailings with support for celery queuing, SendGrid and more.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b6785aa56d18f5b486394a647f700fcd", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mailing/django-mailing-0.1beta10.tar.gz"
+}

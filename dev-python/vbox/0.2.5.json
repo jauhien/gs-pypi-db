@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "VirtualBox CLI bindings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/VRGhost/vbox", 
+  "info": {
+    "Author:": "Ilja Orlovs", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/VRGhost/vbox", 
+    "Package Index Owner:": "ilja_o"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "VirtualBox CLI bindings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4d75b203d933dcb451dc99484b7a1ea6", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vbox/vbox-0.2.5.zip"
+}

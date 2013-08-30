@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Native Python ASPRS LAS readwrite library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/grantbrown/laspy", 
+  "info": {
+    "Author:": "Grant Brown", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//laspy", 
+    "Home Page:": "https://github.com/grantbrown/laspy", 
+    "Keywords:": "gis lidar las", 
+    "License:": "BSD", 
+    "Package Index Owner:": "grantbrown, hobu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Native Python ASPRS LAS readwrite library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a39dd82d78f2cd4516e93f450ad725a9", 
+  "source_uri": "https://pypi.python.org/packages/source/l/laspy/laspy-1.2.5.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Database backends and management commands, for development under DjangoJython", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-jython/", 
+  "info": {
+    "Author:": "Josh Juneau", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-jython", 
+    "Home Page:": "http://code.google.com/p/django-jython/", 
+    "Keywords:": "django jython database java", 
+    "License:": "BSD", 
+    "Package Index Owner:": "leosoto, javajuneau"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Database backends and management commands, for development under DjangoJython", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "758061fdc4faa7706383e9d966c1bc90", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-jython/django-jython-1.2.0.tar.gz"
+}

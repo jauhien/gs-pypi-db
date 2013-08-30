@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple utility for making command tools.  Inspired by rake.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Matt O'Donnell", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Package Index Owner:": "modonnell"
+  }, 
+  "license": "", 
+  "longdescription": "Simple utility for making command tools.  Inspired by rake.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b703a726818a2397d659a9ef7b27ec4c", 
+  "source_uri": "https://pypi.python.org/packages/source/n/newman/newman-0.6.7.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "In-process task scheduler with Cron-like capabilities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/APScheduler/", 
+  "info": {
+    "Author:": "Alex Gr\u00f6nholm", 
+    "Bug Tracker:": "http://bitbucket.org/agronholm/apscheduler/issues/", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//APScheduler", 
+    "Home Page:": "http://pypi.python.org/pypi/APScheduler/", 
+    "Keywords:": "scheduling cron", 
+    "License:": "MIT", 
+    "Package Index Owner:": "agronholm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "In-process task scheduler with Cron-like capabilities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e04e2adfdc691ecfd0fafaec36bc2877", 
+  "source_uri": "https://pypi.python.org/packages/source/A/APScheduler/APScheduler-2.1.1.tar.gz"
+}

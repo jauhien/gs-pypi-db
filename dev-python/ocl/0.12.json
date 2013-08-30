@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Decorators to compile Python code to C, OpenCL, and JS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mdipierro/ocl", 
+  "info": {
+    "Author:": "Massimo Di Pierro", 
+    "Home Page:": "https://github.com/mdipierro/ocl", 
+    "License:": "bsd", 
+    "Package Index Owner:": "mdipierro"
+  }, 
+  "license": "", 
+  "longdescription": "Decorators to compile Python code to C, OpenCL, and JS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "136c950c2bc71fd6860aa03a9d0ea0bd", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ocl/ocl-0.12.tar.gz"
+}

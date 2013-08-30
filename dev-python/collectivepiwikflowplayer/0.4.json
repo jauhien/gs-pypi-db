@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Analytics support for flowplayer using piwik", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.piwik.flowplayer", 
+  "info": {
+    "Author:": "unweb.me", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.piwik.flowplayer", 
+    "Keywords:": "video analytics flowplayer piwik plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "dimo"
+  }, 
+  "license": "", 
+  "longdescription": "Analytics support for flowplayer using piwik", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "914e6642ddf709c6345b097de4bbba50", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.piwik.flowplayer/collective.piwik.flowplayer-0.4.zip"
+}

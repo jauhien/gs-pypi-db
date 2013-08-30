@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI (PEP 333) Reference Library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/wsgiref", 
+  "info": {
+    "Author:": "Phillip J. Eby", 
+    "Home Page:": "http://cheeseshop.python.org/pypi/wsgiref", 
+    "License:": "PSF or ZPL", 
+    "Package Index Owner:": "pje"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI (PEP 333) Reference Library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "29b146e6ebd0f9fb119fe321f7bcf6cb", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgiref/wsgiref-0.1.2.zip"
+}

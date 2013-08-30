@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Medical image processing in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/loli/medpy", 
+  "info": {
+    "Author:": "Oskar Maier", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Medical Science Apps."
+      ]
+    }, 
+    "Home Page:": "https://github.com/loli/medpy", 
+    "Keywords:": "medical image processing dicom itk insight tool kit MRI CT US graph cut max-flow min-cut", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "loli"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Medical image processing in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "591a3fab0a75989efa38b83c7239d228", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MedPy/MedPy-0.1.0.tar.gz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Stanford Core NLP wrapper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/torotoki/corenlp-python", 
+  "info": {
+    "Author:": "Hiroyoshi Komatsu", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/torotoki/corenlp-python", 
+    "Package Index Owner:": "torotoki"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "A Stanford Core NLP wrapper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49148098d44d50bfc91e1aadf87814a9", 
+  "source_uri": "https://pypi.python.org/packages/source/c/corenlp-python/corenlp-python-2.3.0-0.tar.gz"
+}

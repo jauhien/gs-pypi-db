@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper around Gammu-smsd Database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/yeleman/nosmsd", 
+  "info": {
+    "Author:": "y\u025bl\u025bman s.\u00e0.r.l", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "SQL"
+      ]
+    }, 
+    "Home Page:": "http://github.com/yeleman/nosmsd", 
+    "Keywords:": "sms gammu smsd", 
+    "License:": "GNU Lesser General Public License (LGPL), Version 3", 
+    "Package Index Owner:": "rgaudin"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python wrapper around Gammu-smsd Database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a7e990d1234309bceb5a8c9df35b518", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nosmsd/nosmsd-0.27.tar.gz"
+}

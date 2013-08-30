@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Support creation of invoices based on timesheets.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pjstevns/trytond_timesheet_invoice", 
+  "info": {
+    "Author:": "NFG", 
+    "Home Page:": "https://github.com/pjstevns/trytond_timesheet_invoice", 
+    "Package Index Owner:": "pjstevns"
+  }, 
+  "license": "", 
+  "longdescription": "Support creation of invoices based on timesheets.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "114a49c27f5a382e0f9e1b11eb7129ef", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trytond_timesheet_invoice/trytond_timesheet_invoice-2.2.1.tar.gz"
+}

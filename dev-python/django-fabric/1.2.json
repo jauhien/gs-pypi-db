@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a generic fabric utility class for django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mocco.no/django-fabric/", 
+  "info": {
+    "Author:": "Rolf Erik Lekang", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://mocco.no/django-fabric/", 
+    "Package Index Owner:": "oleronning, relekang"
+  }, 
+  "license": "", 
+  "longdescription": "a generic fabric utility class for django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7823bd36f1edb6267bfe71df38ae20ad", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fabric/django-fabric-1.2.tar.gz"
+}

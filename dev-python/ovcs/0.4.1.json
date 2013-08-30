@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cmd line tool to ipunip odt files  put them under version control", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.logilab.org/project/ovcs", 
+  "info": {
+    "Author:": "Logilab", 
+    "Home Page:": "http://www.logilab.org/project/ovcs", 
+    "License:": "GPL", 
+    "Package Index Owner:": "logilab"
+  }, 
+  "license": "", 
+  "longdescription": "cmd line tool to ipunip odt files  put them under version control", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32e1ca804841c466c5836b6bc93e0194", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ovcs/ovcs-0.4.1.tar.gz"
+}

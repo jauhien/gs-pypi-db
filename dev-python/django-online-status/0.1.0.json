@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Online status for authenticated users (online, idle, offline) and list of current users online, all to display with templatetags. No database models, everything cached. Read more httpbitbucket.orgalewdjango-online-statuswikiHome", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zalew/django-online-status", 
+  "info": {
+    "Author:": "Jakub Zalewski", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/zalew/django-online-status", 
+    "Package Index Owner:": "zalew"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Online status for authenticated users (online, idle, offline) and list of current users online, all to display with templatetags. No database models, everything cached. Read more httpbitbucket.orgalewdjango-online-statuswikiHome", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5cd7a13e995c96136bf0680ab1fabf5e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-online-status/django-online-status-0.1.0.tar.gz"
+}

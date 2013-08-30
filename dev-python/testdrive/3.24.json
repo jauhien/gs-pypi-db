@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Test Drive an Ubuntu ISO", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/testdrive", 
+  "info": {
+    "Author:": "Andres Rodriguez", 
+    "Home Page:": "https://launchpad.net/testdrive", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "kirkland, Noskcaj"
+  }, 
+  "license": "", 
+  "longdescription": "Test Drive an Ubuntu ISO", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08ce3f2a4b24036b80bd1da8a61d3d18", 
+  "source_uri": "https://pypi.python.org/packages/source/t/testdrive/testdrive-3.24.tar.gz"
+}

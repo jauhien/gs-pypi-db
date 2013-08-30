@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "High level Boto (AWS) wrapper. Gives boto a facelift", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bitprophet/botox", 
+  "info": {
+    "Author:": "Jeff Forcier", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bitprophet/botox", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bitprophet"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "High level Boto (AWS) wrapper. Gives boto a facelift", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "878cb64a4995b2c93f9d52d714c69b77", 
+  "source_uri": "https://pypi.python.org/packages/source/b/botox/botox-0.1.1.tar.gz"
+}

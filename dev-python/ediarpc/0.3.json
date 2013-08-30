@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A JSON-based RPC calling framework which supports inline signatures derived from passphrases", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/tortoiselabs/ediarpc", 
+  "info": {
+    "Author:": "William Pitcock", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/tortoiselabs/ediarpc", 
+    "Package Index Owner:": "William.Pitcock"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "A JSON-based RPC calling framework which supports inline signatures derived from passphrases", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea8f942b359262f9429cea1c0d444fb5", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ediarpc/ediarpc-0.3.tar.gz"
+}

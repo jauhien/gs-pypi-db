@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds an index and metadata that allows to search for content of a collective.lineage childsite", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/lineage.index", 
+  "info": {
+    "Author:": "Harald Friessnegger", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/lineage.index", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "lucielejard, jensens", 
+    "Package Index Owner:": "frisi, lucielejard, sixfeetup"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Adds an index and metadata that allows to search for content of a collective.lineage childsite", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "748cbb58bb5d820488d3cf15fce3daf9", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lineage.index/lineage.index-0.4.zip"
+}

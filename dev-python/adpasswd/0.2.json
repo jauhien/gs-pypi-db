@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "adpasswd.py Pure Python Command line interface to change Active Directory Passwords via LDAP.usage adpasswd.py username [password]", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/adpasswd", 
+  "info": {
+    "Author:": "Craig Sawyer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/adpasswd", 
+    "Keywords:": "ldap activedirectory AD", 
+    "License:": "GPL v2", 
+    "Package Index Owner:": "csawyer"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "adpasswd.py Pure Python Command line interface to change Active Directory Passwords via LDAP.usage adpasswd.py username [password]", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e97db53f58bedc2646f7bc6218d92188", 
+  "source_uri": "https://pypi.python.org/packages/source/a/adpasswd/adpasswd-0.2.tar.gz"
+}

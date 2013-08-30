@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Detect potential xss bugs in django templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/atlassian/django_xss_detection", 
+  "info": {
+    "Author:": "david black", 
+    "Bug Tracker:": "https://bitbucket.org/atlassian/django_xss_detection", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/atlassian/django_xss_detection/get/master.tar.bz2", 
+    "Home Page:": "https://bitbucket.org/atlassian/django_xss_detection", 
+    "Keywords:": "xss django", 
+    "License:": "BSD 2-Clause license.", 
+    "Package Index Owner:": "David.B"
+  }, 
+  "license": "", 
+  "longdescription": "Detect potential xss bugs in django templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://bitbucket.org/atlassian/django_xss_detection/get/master.tar.bz2"
+}

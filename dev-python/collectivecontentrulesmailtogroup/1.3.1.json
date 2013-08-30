@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send e-mail to groups and members defined in the action.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gw20e.com/", 
+  "info": {
+    "Author:": "Goldmund, Wyldebeast & Wunderliebe (K.C. Leong)", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.gw20e.com/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "puittenbroek, ida, kcleong, helmantel, huub, khink"
+  }, 
+  "license": "", 
+  "longdescription": "Send e-mail to groups and members defined in the action.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7716b4e72c990791026e51604f01e2f4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentrules.mailtogroup/collective.contentrules.mailtogroup-1.3.1.tar.gz"
+}

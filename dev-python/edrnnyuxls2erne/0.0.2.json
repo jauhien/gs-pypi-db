@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert New York University specimen tables to ERNE cache database format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cancer.jpl.nasa.gov/products/edrn-nyuxls2erne", 
+  "info": {
+    "Author:": "Sean Kelly", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Download URL:": "http://oodt.jpl.nasa.gov/dist/edrn-nyuxls2erne", 
+    "Home Page:": "http://cancer.jpl.nasa.gov/products/edrn-nyuxls2erne", 
+    "Keywords:": "cancer specimen early detection conversion", 
+    "License:": "Proprietary", 
+    "Package Index Owner:": "nutjob"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "Convert New York University specimen tables to ERNE cache database format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://oodt.jpl.nasa.gov/dist/edrn-nyuxls2erne"
+}

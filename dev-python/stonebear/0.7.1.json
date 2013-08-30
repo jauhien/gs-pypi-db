@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Build and deployment tool for developing websites and web applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://chrisbuchholz.github.com/stonebear", 
+  "info": {
+    "Author:": "chrisbuchholz", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://chrisbuchholz.github.com/stonebear", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "chrisbuchholz", 
+    "Platform:": "MacOS,POSIX"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Build and deployment tool for developing websites and web applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b0843421744e6572259d82f1f0fa7075", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stonebear/stonebear-0.7.1.tar.gz"
+}

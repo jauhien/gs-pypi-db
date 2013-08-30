@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enhance plone folder_contents to add ajax and drag and drop features using KSS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://elgring0.wordpress.com", 
+  "info": {
+    "Author:": "El Gringo", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://elgring0.wordpress.com", 
+    "Keywords:": "plone ajax kss folder_contents sharing navigation portlet", 
+    "License:": "GPL", 
+    "Package Index Owner:": "elgringo"
+  }, 
+  "license": "", 
+  "longdescription": "Enhance plone folder_contents to add ajax and drag and drop features using KSS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c70644219f8e20c385812fbb26b72ad1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.kss.flygui/collective.kss.flygui-0.1.0dev.tar.gz"
+}

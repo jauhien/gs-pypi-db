@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides routes-like dispatching for twisted.web.server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/steiza/txroutes", 
+  "info": {
+    "Author:": "Zach Steindler", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/steiza/txroutes", 
+    "Keywords:": "twisted,web,routes", 
+    "License:": "BSD", 
+    "Package Index Owner:": "steiza"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Provides routes-like dispatching for twisted.web.server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4bf2eeababcc6e9cd65c87f9e9b63a4c", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txroutes/txroutes-0.0.5.tar.gz"
+}

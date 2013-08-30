@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python script to have a singleton service running in a cluster", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/simple-heartbeat/", 
+  "info": {
+    "Author:": "Ralf Henschkowski", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://simple-heartbeat.googlecode.com/hg/ha_heartbeat.py", 
+    "Home Page:": "http://code.google.com/p/simple-heartbeat/", 
+    "Keywords:": "cluster heartbeat singleton", 
+    "Package Index Owner:": "henschkowski", 
+    "Platform:": "Windows,Linux, Solaris"
+  }, 
+  "license": "", 
+  "longdescription": "Python script to have a singleton service running in a cluster", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://simple-heartbeat.googlecode.com/hg/ha_heartbeat.py"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "YAML parser and emitter for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyyaml.org/wiki/PyYAML", 
+  "info": {
+    "Author:": "Reuven V. Gonzales", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "http://pyyaml.org/wiki/PyYAML", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ravenac95", 
+    "Platform:": "Any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "YAML parser and emitter for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "462858f32b46f998dd83784d3062a9e6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simpleyaml/simpleyaml-1.0.tar.gz"
+}

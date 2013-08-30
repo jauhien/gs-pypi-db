@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple mail worker and queue using HotQueue  Redis.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/bwghughes", 
+  "info": {
+    "Author:": "Ben Hughes", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/bwghughes", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Ben.Hughes"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple mail worker and queue using HotQueue  Redis.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eb5a9c255f8e03f90d257e69299fe767", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mailworker/mailworker-0.0.5.tar.gz"
+}

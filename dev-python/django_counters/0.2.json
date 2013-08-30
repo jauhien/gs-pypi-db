@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app adding PyCounters to Django and offering admin like interface for the monitored info.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "DjangoCounters Developers", 
+    "License:": "apache", 
+    "Package Index Owner:": "bleskes"
+  }, 
+  "license": "", 
+  "longdescription": "A Django app adding PyCounters to Django and offering admin like interface for the monitored info.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c409699b42ae821a67599d4ee8d4c948", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_counters/django_counters-0.2.tar.gz"
+}

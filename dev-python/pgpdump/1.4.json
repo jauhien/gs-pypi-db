@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PGP packet parser library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/toofishes/python-pgpdump", 
+  "info": {
+    "Author:": "Dan McGee", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/toofishes/python-pgpdump", 
+    "Keywords:": "pgp gpg rfc2440 rfc4880 crypto cryptography", 
+    "License:": "BSD", 
+    "Package Index Owner:": "toofishes"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "PGP packet parser library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b437c28ff9d6a6257a0062c0bbe2a9ec", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pgpdump/pgpdump-1.4.tar.gz"
+}

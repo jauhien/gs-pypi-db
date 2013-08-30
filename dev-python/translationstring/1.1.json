@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utility library for i18n relied on by various Repoe and Pyramid packages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pylonsproject.org", 
+  "info": {
+    "Author:": "Chris McDonough, Agendaless Consulting", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Localization"
+      ]
+    }, 
+    "Home Page:": "http://pylonsproject.org", 
+    "Keywords:": "i18n l10n internationalization localization gettext chameleon", 
+    "License:": "BSD-like (http://repoze.org/license.html)", 
+    "Package Index Owner:": "chrism, wichert"
+  }, 
+  "license": "", 
+  "longdescription": "Utility library for i18n relied on by various Repoe and Pyramid packages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0979b46d8f0f852810c8ec4be5c26cf2", 
+  "source_uri": "https://pypi.python.org/packages/source/t/translationstring/translationstring-1.1.tar.gz"
+}

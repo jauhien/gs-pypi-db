@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A sprinter formula instaling a virtualenv sandbox", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/toumorokoshi/yt.formulas.virtualenv", 
+  "info": {
+    "Author:": "Yusuke Tsutsumi", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://github.com/toumorokoshi/yt.formulas.virtualenv", 
+    "Package Index Owner:": "Yusuke.Tsutsumi"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A sprinter formula instaling a virtualenv sandbox", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95bdfcd6bcb24314cdcf2638f55926dc", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yt.formula.virtualenv/yt.formula.virtualenv-0.0.1.tar.gz"
+}

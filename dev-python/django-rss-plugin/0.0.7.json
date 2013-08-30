@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django CMS plugin to show a list of feeds.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zgwmike/django-rss-plugin", 
+  "info": {
+    "Author:": "Guangwen Zhou", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zgwmike/django-rss-plugin", 
+    "Keywords:": "django cms plugin django-rss-plugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zgwmike"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django CMS plugin to show a list of feeds.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "af2cdd3519a9663249ce0c25328e7909", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-rss-plugin/django-rss-plugin-0.0.7.zip"
+}

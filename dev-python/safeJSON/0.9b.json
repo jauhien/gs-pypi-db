@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "safeJSON simplifies the process of working with JSON object in python by suppressing both IndexError and KeyError exceptions on parsed objects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Evan Sandhaus", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "kansandhaus"
+  }, 
+  "license": "", 
+  "longdescription": "safeJSON simplifies the process of working with JSON object in python by suppressing both IndexError and KeyError exceptions on parsed objects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "826504cc06029b928dd9af94267389d4", 
+  "source_uri": "https://pypi.python.org/packages/source/s/safeJSON/safeJSON-0.9b.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An add-on for the Pyramid web framework which supplies a model graph traverser which proxies location-ignorant model objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.pylonshq.com", 
+  "info": {
+    "Author:": "Chris McDonough", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://docs.pylonshq.com", 
+    "Keywords:": "pylons pyramid traverser traversal proxy", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrism"
+  }, 
+  "license": "", 
+  "longdescription": "An add-on for the Pyramid web framework which supplies a model graph traverser which proxies location-ignorant model objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6b27bc6c1ba8447424700310d6284420", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_traversalwrapper/pyramid_traversalwrapper-0.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small dependency injection container based on Symfony2 Dependency Component", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rande/python-simple-ioc", 
+  "info": {
+    "Author:": "Thomas Rabaix", 
+    "Home Page:": "https://github.com/rande/python-simple-ioc", 
+    "Package Index Owner:": "rande", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A small dependency injection container based on Symfony2 Dependency Component", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "40e6a1f4923cf8f8b9376c1c361312e6", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ioc/ioc-0.0.14.tar.gz"
+}

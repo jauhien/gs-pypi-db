@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Formats text files with line breaks to fit inside 80 chars", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/PyLineBreak", 
+  "info": {
+    "Author:": "x.seeks", 
+    "Home Page:": "http://pypi.python.org/pypi/PyLineBreak", 
+    "Keywords:": "format, line break, linebreak", 
+    "License:": "GPL3, see LICENSE.txt", 
+    "Package Index Owner:": "x.seeks", 
+    "Platform:": "GNU/Linux, Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Formats text files with line breaks to fit inside 80 chars", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69379dfce60e9988fe0a8fe7250bbeff", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyLineBreak/PyLineBreak-0.1.0.tar.gz"
+}

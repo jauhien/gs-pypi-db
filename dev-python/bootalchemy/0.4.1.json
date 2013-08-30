@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package to create database entries from yaml using sqlalchemy.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Christopher Perkins", 
+    "License:": "MIT", 
+    "Package Index Owner:": "percious"
+  }, 
+  "license": "", 
+  "longdescription": "A package to create database entries from yaml using sqlalchemy.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fbb66cf4e3085093ed5dcec2d1850751", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bootalchemy/bootalchemy-0.4.1.tar.gz"
+}

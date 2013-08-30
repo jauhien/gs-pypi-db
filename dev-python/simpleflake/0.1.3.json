@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Twitter snowflake compatible super-simple distributed ID generator.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/SawdustSoftware/simpleflake", 
+  "info": {
+    "Author:": "Mali Akmanalp (Custommade Ventures)", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "https://github.com/SawdustSoftware/simpleflake", 
+    "License:": "MIT", 
+    "Package Index Owner:": "malicustommade"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Twitter snowflake compatible super-simple distributed ID generator.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4846e83ead18761e2b9bd1fdb4b5d450", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simpleflake/simpleflake-0.1.3.tar.gz"
+}

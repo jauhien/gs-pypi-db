@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tree UI for mptt-managed models, extracted from FeinCMS. This is a fork with support for alternative storage engines", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.github.com/KristianOellegaard/django-treeadmin", 
+  "info": {
+    "Author:": "Matthias Kestenholz  et al.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://www.github.com/KristianOellegaard/django-treeadmin", 
+    "Package Index Owner:": "KristianOellegaard"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Tree UI for mptt-managed models, extracted from FeinCMS. This is a fork with support for alternative storage engines", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49d717875f2017e0a6f668b32fa46e3e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-treeadmin-fork-alt-storage/django-treeadmin-fork-alt-storage-0.2.1.tar.gz"
+}

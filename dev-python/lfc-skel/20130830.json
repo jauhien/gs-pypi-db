@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Paster templates for django-lfc", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.iqpp.de", 
+  "info": {
+    "Author:": "Kai Diefenbach", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.iqpp.de", 
+    "Keywords:": "django django-lfc cms paster", 
+    "License:": "BSD", 
+    "Package Index Owner:": "diefenbach"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Paster templates for django-lfc", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "022e4f108125d875a0502245987199d8", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lfc-skel/lfc-skel-1.0a2.tar.gz"
+}

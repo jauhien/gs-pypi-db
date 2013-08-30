@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SMB Password Hash Generator - suitable for use with Samba", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://barryp.org/software/py-smbpasswd", 
+  "info": {
+    "Author:": "Barry Pederson", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://barryp.org/software/py-smbpasswd", 
+    "License:": "GPL", 
+    "Package Index Owner:": "barryp"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "SMB Password Hash Generator - suitable for use with Samba", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "57c1b99c16cad358f9573fc040289e9e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/smbpasswd/smbpasswd-1.0.2.tgz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Lightweight ElasticSearch bindings built on top the Python requests module.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mekarpeles/arkilles", 
+  "info": {
+    "Author:": "mek", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ]
+    }, 
+    "Download URL:": "http://github.com/mekarpeles/arkilles", 
+    "Home Page:": "http://github.com/mekarpeles/arkilles", 
+    "Keywords:": "elastic search", 
+    "License:": "LICENSE", 
+    "Package Index Owner:": "mek", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Lightweight ElasticSearch bindings built on top the Python requests module.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "306d13c05a67f93b697b2e5cf5aa6c46", 
+  "source_uri": "http://github.com/mekarpeles/arkilles"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mailing List Filter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://assorted.sourceforge.net/mailing-list-filter/", 
+  "info": {
+    "Author:": "Yang Zhang", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/mailing-list-filter/", 
+    "Home Page:": "http://assorted.sourceforge.net/mailing-list-filter/", 
+    "Keywords:": "mailing,list,email,filter,IMAP,Gmail", 
+    "License:": "Python Software Foundation License", 
+    "Package Index Owner:": "yang", 
+    "Platform:": "any"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Mailing List Filter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "730f80934b40fc86a591bbc0efa3239c", 
+  "source_uri": "http://pypi.python.org/pypi/mailing-list-filter/"
+}

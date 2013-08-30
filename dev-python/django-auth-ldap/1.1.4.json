@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django LDAP authentication backend", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/psagers/django-auth-ldap/", 
+  "info": {
+    "Author:": "Peter Sagerson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory", 
+        "LDAP"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-auth-ldap", 
+    "Home Page:": "http://bitbucket.org/psagers/django-auth-ldap/", 
+    "Keywords:": "django,ldap,authentication,auth", 
+    "License:": "BSD", 
+    "Package Index Owner:": "psagers"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django LDAP authentication backend", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "60ebc7ebbf70605702a2158574418aca", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-auth-ldap/django-auth-ldap-1.1.4.tar.gz"
+}

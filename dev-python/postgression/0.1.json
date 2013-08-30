@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python client for the postgression API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/postgression/python-postgression", 
+  "info": {
+    "Author:": "Randall Degges", 
+    "Home Page:": "https://github.com/postgression/python-postgression", 
+    "Keywords:": "heroku cloud testing postgresql databases unit awesome epic", 
+    "License:": "UNLICENSE", 
+    "Package Index Owner:": "rdegges"
+  }, 
+  "license": "", 
+  "longdescription": "A python client for the postgression API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4693a4933a694f22bc8ba54020f1a394", 
+  "source_uri": "https://pypi.python.org/packages/source/p/postgression/postgression-0.1.tar.gz"
+}

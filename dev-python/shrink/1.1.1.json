@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line tool for minification of css and javascript files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jeronimoalbi/shrink", 
+  "info": {
+    "Author:": "Jer\u00f3nimo Jos\u00e9 Albi", 
+    "Bug Tracker:": "http://bitbucket.org/jeronimoalbi/shrink/issues?status=new&status=open", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/jeronimoalbi/shrink", 
+    "Keywords:": "minify javascript css yuicompressor", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "Jeronimo.Albi", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Command line tool for minification of css and javascript files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69536db3b58334ab0365f25cab0b8461", 
+  "source_uri": "https://pypi.python.org/packages/source/s/shrink/shrink-1.1.1.tar.gz"
+}

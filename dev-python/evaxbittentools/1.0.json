@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bitten plugin adding check and lcov support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.evax.fr/open-source-software/evax.bitten.tools", 
+  "info": {
+    "Author:": "Evax Software", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://www.evax.fr/open-source-software/evax.bitten.tools", 
+    "Keywords:": "trac,bitten,check,lcov", 
+    "License:": "BSD", 
+    "Package Index Owner:": "EvaxSoftware"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Bitten plugin adding check and lcov support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b2b211dea59ae97c24e3ad166bad88d", 
+  "source_uri": "https://pypi.python.org/packages/source/e/evax.bitten.tools/evax.bitten.tools-1.0.tar.gz"
+}

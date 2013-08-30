@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send notifications when editing a plone content.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/ftw.notification.base", 
+  "info": {
+    "Author:": "Jonas Baumann", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/ftw.notification.base", 
+    "Keywords:": "ftw notification base plone", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "jone, maethu, 4teamwork"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Send notifications when editing a plone content.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31b4f779bbd56907abb3d929219bb270", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftw.notification.base/ftw.notification.base-1.2.2.zip"
+}

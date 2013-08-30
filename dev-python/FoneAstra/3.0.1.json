@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django package necessary for running a FoneAstra server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/pittsw/foneastra-base", 
+  "info": {
+    "Author:": "University of Washington CSE", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Healthcare Industry"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//FoneAstra", 
+    "Home Page:": "https://bitbucket.org/pittsw/foneastra-base", 
+    "License:": "BSD", 
+    "Package Index Owner:": "foneastra"
+  }, 
+  "license": "", 
+  "longdescription": "Django package necessary for running a FoneAstra server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98566551620ea191623ae6a32afee160", 
+  "source_uri": "https://pypi.python.org/packages/source/F/FoneAstra/FoneAstra-3.0.1.tar.gz"
+}

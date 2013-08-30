@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A few classes to make testing django applications easier", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/garethr/django-test-extensions/", 
+  "info": {
+    "Author:": "Gareth Rushgrove", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/garethr/django-test-extensions/", 
+    "Keywords:": "django testing", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "garethr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A few classes to make testing django applications easier", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f6c044d2e2cc53b5069565508e6e143a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-test-extensions/django-test-extensions-0.14.tar.gz"
+}

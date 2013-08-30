@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Djangos set of utilities. Includes admin ImageField with preview, override for username,Localied date filter, ConsoleException middleware and broken link highlight template.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alexander Ivanov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Keywords:": "django utilities", 
+    "License:": "GPLv3", 
+    "Package Index Maintainer:": "Ivan.Gromov, Propp, victor.smirnov, a.iv, evgeniy.gulitsyn", 
+    "Package Index Owner:": "Redsolution"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Djangos set of utilities. Includes admin ImageField with preview, override for username,Localied date filter, ConsoleException middleware and broken link highlight template.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c935cd38e44a167bee2186d993f01f4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-utilities/django-utilities-0.1.5.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Coroutine Data Access Patterns (mouthful I know) are some dataaccess patterns I found useful building web applications that use gevent orevenlet. They mimic common Python data types like lists and dictionaries.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lateefj/codap", 
+  "info": {
+    "Author:": "Lateef Jackson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lateefj/codap", 
+    "Keywords:": "gevent eventlet coroutine", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Lateef.Jackson"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Coroutine Data Access Patterns (mouthful I know) are some dataaccess patterns I found useful building web applications that use gevent orevenlet. They mimic common Python data types like lists and dictionaries.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2e066ac25dccecccdf5b12e939b483fa", 
+  "source_uri": "https://pypi.python.org/packages/source/c/codap/codap-0.0.4.tar.gz"
+}

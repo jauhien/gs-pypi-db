@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "memcache-based session storage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/lovely.session", 
+  "info": {
+    "Author:": "Lovely Systems GmbH", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/lovely.session", 
+    "Keywords:": "zope3 session memcache", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "srichter", 
+    "Package Index Owner:": "manfred, pcardune, ccomb, srichter, hathawsh, faassen, nadako, hannosch, chrisw, icemac, gary, roymath, dobe, jukart, quodt, tlotze, agroszer, baijum, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "memcache-based session storage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "90a1cad7bb294e134f5244788d9c78da", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lovely.session/lovely.session-0.3.0.tar.gz"
+}

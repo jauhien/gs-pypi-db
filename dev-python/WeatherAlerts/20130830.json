@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parse the National Weather Service Emergency Alerts Feed (NWS CAP format), do useful stuff with it", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zebpalmer/WeatherAlerts", 
+  "info": {
+    "Author:": "Zeb Palmer", 
+    "Bug Tracker:": "http://github.com/zebpalmer/WeatherAlerts/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zebpalmer/WeatherAlerts", 
+    "License:": "LGPLv3", 
+    "Package Index Owner:": "zebpalmer"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Parse the National Weather Service Emergency Alerts Feed (NWS CAP format), do useful stuff with it", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9929d8daeda892cbcc9bb3367437ba2", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WeatherAlerts/WeatherAlerts-0.5.0rc6.tar.gz"
+}

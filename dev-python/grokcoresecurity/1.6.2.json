@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Grok-like configuration for ope security components", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://grok.zope.org", 
+  "info": {
+    "Author:": "Grok Team", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/grokcore.security", 
+    "Home Page:": "http://grok.zope.org", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "jw, philikon, faassen, ctheune, kevingill, trollfot"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Grok-like configuration for ope security components", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6fb23b6784aa03fc90d1c35e61587ce8", 
+  "source_uri": "http://pypi.python.org/pypi/grokcore.security"
+}

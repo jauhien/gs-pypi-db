@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatic SEO-friendly HTTP 301 redirects if the URL of a Django model changes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/etianen/django-historylinks", 
+  "info": {
+    "Author:": "Dave Hall", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/etianen/django-historylinks", 
+    "Package Index Owner:": "etianen"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Automatic SEO-friendly HTTP 301 redirects if the URL of a Django model changes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a0a65f9f2482c31ee0eb9bd13ad2875", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-historylinks/django-historylinks-1.0.2.tar.gz"
+}

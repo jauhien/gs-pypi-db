@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Bindings to the NOAA National Digital Forecast Database (NDFD)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rconradharris/python-noaa", 
+  "info": {
+    "Author:": "Rick Harris", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rconradharris/python-noaa", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "rconradharris"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python Bindings to the NOAA National Digital Forecast Database (NDFD)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c4e32e46d04ec3099a039bdaef98153", 
+  "source_uri": "https://pypi.python.org/packages/source/n/noaa/noaa-0.2.1.tar.gz"
+}

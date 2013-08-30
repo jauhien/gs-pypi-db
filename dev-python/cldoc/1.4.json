@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "clang based documentation generator for CC++", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jessevdk.github.com/cldoc", 
+  "info": {
+    "Author:": "Jesse van den Kieboom", 
+    "Home Page:": "http://jessevdk.github.com/cldoc", 
+    "Keywords:": "clang,c++,documentation", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "jessevdk"
+  }, 
+  "license": "", 
+  "longdescription": "clang based documentation generator for CC++", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9c32d6c5f3a460bcd56a96d1b684d79e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cldoc/cldoc-1.4.tar.gz"
+}

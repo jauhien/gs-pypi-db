@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Decorator for profiling individual functions and converting profiling data to the kcachegrind format.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/profilestats", 
+  "info": {
+    "Author:": "Hanno Schlichting", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/profilestats", 
+    "Keywords:": "profile kcachegrind", 
+    "License:": "BSD", 
+    "Package Index Owner:": "hannosch"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Decorator for profiling individual functions and converting profiling data to the kcachegrind format.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f0edaf13aff944660dbe3402a3b8104", 
+  "source_uri": "https://pypi.python.org/packages/source/p/profilestats/profilestats-1.0.2.zip"
+}

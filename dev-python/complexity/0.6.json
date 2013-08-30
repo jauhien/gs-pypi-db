@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A refreshingly simple static site generator, for those who like to work in HTML.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/audreyr/complexity", 
+  "info": {
+    "Author:": "Audrey Roy", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management"
+      ]
+    }, 
+    "Home Page:": "https://github.com/audreyr/complexity", 
+    "Keywords:": "complexity,static site generator,HTML,Jinja2,templates,S3", 
+    "License:": "BSD", 
+    "Package Index Owner:": "audreyr"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A refreshingly simple static site generator, for those who like to work in HTML.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dfcaf4a7af002c17fdbc792b631971a2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/complexity/complexity-0.6.tar.gz"
+}

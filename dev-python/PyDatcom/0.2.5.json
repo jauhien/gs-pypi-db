@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python interface for DATCOM. Provides export parsing capabilities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/arktools/pydatcom", 
+  "info": {
+    "Author:": "James Goppert", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "General"
+      ]
+    }, 
+    "Home Page:": "https://github.com/arktools/pydatcom", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "jgoppert"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A python interface for DATCOM. Provides export parsing capabilities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54a98217ab067c1bc3988ab343d1011c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyDatcom/PyDatcom-0.2.5.tar.gz"
+}

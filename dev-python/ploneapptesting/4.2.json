@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Testing tools for Plone-the-application, based on plone.testing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.testing", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.testing", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "timo, optilude, davisagli, esteele, jfroche, gotcha"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Testing tools for Plone-the-application, based on plone.testing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec61b9a45c80d992baad407a48e86dea", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.testing/plone.app.testing-4.2.zip"
+}

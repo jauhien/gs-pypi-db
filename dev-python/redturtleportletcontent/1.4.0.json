@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A generic portlet that allows to show various parts of an object, like the title, description, text, image and comments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/redturtle.portlet.content", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.1"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/redturtle.portlet.content", 
+    "Keywords:": "portlet content generic", 
+    "License:": "GPL", 
+    "Package Index Owner:": "micecchi, massimo, keul"
+  }, 
+  "license": "", 
+  "longdescription": "A generic portlet that allows to show various parts of an object, like the title, description, text, image and comments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "67c1e117671f65666164b777a8f1af59", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redturtle.portlet.content/redturtle.portlet.content-1.4.0.zip"
+}

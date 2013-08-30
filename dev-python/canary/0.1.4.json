@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "canary is a small library for recording and shipping exceptions from Python to logstash via eroMQ.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ryanpetrello/canary", 
+  "info": {
+    "Author:": "Ryan Petrello", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ryanpetrello/canary", 
+    "Keywords:": "web framework wsgi logstash logging zeromq", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ryanpetrello"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "canary is a small library for recording and shipping exceptions from Python to logstash via eroMQ.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c97e8758971a7a43c72a556501f40535", 
+  "source_uri": "https://pypi.python.org/packages/source/c/canary/canary-0.1.4.tar.gz"
+}

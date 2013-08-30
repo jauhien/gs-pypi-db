@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Django application to parse content with ReStructuredText from docutils", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/rstview", 
+  "info": {
+    "Author:": "David Thenon", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/rstview", 
+    "License:": "MIT", 
+    "Package Index Owner:": "sveetch"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple Django application to parse content with ReStructuredText from docutils", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6a9a6a8bdd3cf46f50f9745cfe03425", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rstview/rstview-0.1.1.tar.gz"
+}

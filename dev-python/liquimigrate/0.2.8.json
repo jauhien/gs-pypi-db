@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Liquibase migrations with django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/i-dotcom/liquimigrate", 
+  "info": {
+    "Author:": "Marek Wywia\u0142", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/i-dotcom/liquimigrate", 
+    "Keywords:": "i-dotcom liquibase django", 
+    "License:": "BSD", 
+    "Package Index Owner:": "onjin, marcinn"
+  }, 
+  "license": "", 
+  "longdescription": "Liquibase migrations with django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "76ead0338ab908fd681e2aa97108157c", 
+  "source_uri": "https://pypi.python.org/packages/source/l/liquimigrate/liquimigrate-0.2.8.tar.gz"
+}

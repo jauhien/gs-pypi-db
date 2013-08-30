@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python plugin for the Sensu monitoring framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ehazlett/sensu-py", 
+  "info": {
+    "Author:": "Evan Hazlett", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Download URL:": "https://github.com/ehazlett/sensu-py/zipball/0.0.3", 
+    "Home Page:": "http://github.com/ehazlett/sensu-py", 
+    "Keywords:": "sensu,plugin,monitoring", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ehazlett"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python plugin for the Sensu monitoring framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7430c61b3d0729dc1fb9e97b6390861f", 
+  "source_uri": "https://github.com/ehazlett/sensu-py/zipball/0.0.3"
+}

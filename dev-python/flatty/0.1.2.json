@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "flatty - marshallerunmarshaller for light-schema python objects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/flatty", 
+  "info": {
+    "Author:": "Christian Haintz", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Pre-processors"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//flatty", 
+    "Home Page:": "http://packages.python.org/flatty", 
+    "Keywords:": "marshaller schema objectmapper couchdb mongodb orm", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ceelian", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "flatty - marshallerunmarshaller for light-schema python objects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6881439cbfbbce669c67e40a34742cd5", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flatty/flatty-0.1.2.tar.gz"
+}

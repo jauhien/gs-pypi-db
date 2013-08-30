@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "python memcached client wrapped on libmemcached", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "davies", 
+    "Package Index Owner:": "subdragon"
+  }, 
+  "license": "", 
+  "longdescription": "python memcached client wrapped on libmemcached", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e07c6927ca3312ab0e2e7ee21e90edc4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-libmemcached/python-libmemcached-0.40dev.tar.gz"
+}

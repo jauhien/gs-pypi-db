@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Release scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cosent.nl", 
+  "info": {
+    "Author:": "Guido Stevens", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://cosent.nl", 
+    "Keywords:": "python git buildout", 
+    "License:": "GPL", 
+    "Package Index Owner:": "guidostevens"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Release scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a49dff9550078fc82f1d2435f415a493", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cosent.buildtools/cosent.buildtools-1.1.3.zip"
+}

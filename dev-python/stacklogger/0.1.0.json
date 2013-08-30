@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A stack-aware logging extension", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/stacklogger", 
+  "info": {
+    "Author:": "Will Maier", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//stacklogger", 
+    "Home Page:": "http://packages.python.org/stacklogger", 
+    "Keywords:": "logging stack frame", 
+    "Package Index Owner:": "willmaier"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A stack-aware logging extension", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98a7b06050d7f4d5da75018feeca71bc", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stacklogger/stacklogger-0.1.0.tar.gz"
+}

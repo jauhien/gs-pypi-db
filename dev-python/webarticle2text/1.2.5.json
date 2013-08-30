@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extracts the main article text from a webpage.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/chrisspen/webarticle2text", 
+  "info": {
+    "Author:": "Chris Spencer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "General"
+      ]
+    }, 
+    "Home Page:": "https://github.com/chrisspen/webarticle2text", 
+    "License:": "LGPL License", 
+    "Package Index Owner:": "Chris.Spencer", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Extracts the main article text from a webpage.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec2746e583a867e49c38aeade0f10d41", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webarticle2text/webarticle2text-1.2.5.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extension module implimenting the fast marching method", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/scikit-fmm/", 
+  "info": {
+    "Author:": "Jason Furtney", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "C++"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//scikit-fmm", 
+    "Home Page:": "https://github.com/scikit-fmm/", 
+    "Keywords:": "fast marching method,Eikonal equation,interface,boundary", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jkfurtney"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An extension module implimenting the fast marching method", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "53ab3adaa63a22fb17801e7fce5149ed", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scikit-fmm/scikit-fmm-0.0.4.zip"
+}

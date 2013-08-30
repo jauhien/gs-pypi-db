@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for viral diversity estimation and identification using next-gen sequencing data.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://alan.cs.gsu.edu/vira", 
+  "info": {
+    "Author:": "Nicholas Mancuso et al.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Download URL:": "http://alan.cs.gsu.edu/vira/download", 
+    "Home Page:": "http://alan.cs.gsu.edu/vira", 
+    "Keywords:": "viral virus quasispecies bioinformatics next-generation sequencing", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nmancuso"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Library for viral diversity estimation and identification using next-gen sequencing data.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c57d7c8f37bf95f01423821d7a200a69", 
+  "source_uri": "http://alan.cs.gsu.edu/vira/download"
+}

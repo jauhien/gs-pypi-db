@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for daemon scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "fdrake, J1m, zagy"
+  }, 
+  "license": "", 
+  "longdescription": "C Buildout recipe for daemon scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b5c9b5e0d0ab36865ee4c1c2f274663c", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.zdaemonrecipe/zc.zdaemonrecipe-0.3.1.zip"
+}

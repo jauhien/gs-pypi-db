@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Nose plugin to only run TwilioTestCase tests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cgallemore/nose-twilio", 
+  "info": {
+    "Author:": "Chad Gallemore", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/cgallemore/nose-twilio", 
+    "Keywords:": "nose twilio", 
+    "License:": "BSD", 
+    "Package Index Owner:": "cgallemore"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Nose plugin to only run TwilioTestCase tests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "166f408d09de1bd18b1e002c8d08afae", 
+  "source_uri": "https://pypi.python.org/packages/source/N/NoseTwilio/NoseTwilio-0.1.zip"
+}

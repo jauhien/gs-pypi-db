@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple AB testing framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dcrosta/dabble", 
+  "info": {
+    "Author:": "Dan Crosta", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dcrosta/dabble", 
+    "Keywords:": "python web abtest split ab a/b test", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dcrosta"
+  }, 
+  "license": "", 
+  "longdescription": "Simple AB testing framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36e113a6f55d81f9f2a3a65c4a9fbdef", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dabble/dabble-0.2.3.tar.gz"
+}

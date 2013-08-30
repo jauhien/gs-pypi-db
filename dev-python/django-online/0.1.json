@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Standalone Django application to know if a django user is online or not.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/thoas/django-online", 
+  "info": {
+    "Author:": "Florent Messa", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/thoas/django-online", 
+    "Package Index Owner:": "thoas"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Standalone Django application to know if a django user is online or not.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e7db0ede28d6ef3dfda6643bfae090b7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-online/django-online-0.1.tar.gz"
+}

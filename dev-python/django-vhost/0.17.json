@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generates virtual host configuration files for apache and nginx", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/djangostars/django-vhost", 
+  "info": {
+    "Author:": "Vasyl Dizhak", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/djangostars/django-vhost", 
+    "Keywords:": "django nginx apache fastcgi wsgi", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vasyl_dizhak", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generates virtual host configuration files for apache and nginx", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9fd45f1e1d16e7294062c04c0638c843", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-vhost/django-vhost-0.17.tar.gz"
+}

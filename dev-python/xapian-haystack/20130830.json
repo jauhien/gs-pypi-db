@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Xapian backend for Haystack", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/notanumber/xapian-haystack", 
+  "info": {
+    "Author:": "David Sauve", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Indexing/Search"
+      ]
+    }, 
+    "Home Page:": "http://github.com/notanumber/xapian-haystack", 
+    "License:": "GPL3", 
+    "Package Index Owner:": "notanumber"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Xapian backend for Haystack", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "674a68da01587ca0e130bd49c3f4fab5", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xapian-haystack/xapian-haystack-1.1.5beta.tar.gz"
+}

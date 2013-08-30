@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Magically expose a local port to the Internet", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/progrium/localtunnel", 
+  "info": {
+    "Author:": "Jeff Lindsay", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/progrium/localtunnel", 
+    "License:": "MIT", 
+    "Package Index Owner:": "progrium"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Magically expose a local port to the Internet", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3d4ff5434e6e8dc30980ea845809403", 
+  "source_uri": "https://pypi.python.org/packages/source/l/localtunnel/localtunnel-0.6.1.tar.gz"
+}

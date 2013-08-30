@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Show web-pages inside an iframe. Plone content-type.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.plone.org/products/windowz", 
+  "info": {
+    "Author:": "Jean Rodrigo Ferri", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.plone.org/products/windowz", 
+    "Keywords:": "plone layout composition themeing", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "jensens", 
+    "Package Index Owner:": "aclark, malthe, ferri, iT0m, deo, jensens"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Show web-pages inside an iframe. Plone content-type.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "33c78186381efe1dad95c0ecb9bbeecc", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.windowZ/Products.windowZ-1.4.1.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SockJS server implementation for Pyramid.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fafhrd91/pyramid_sockjs/", 
+  "info": {
+    "Author:": "Nikolay Kim", 
+    "Categories": {
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Home Page:": "https://github.com/fafhrd91/pyramid_sockjs/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fafhrd"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "SockJS server implementation for Pyramid.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2111517b62ffb3e38315993e9db62b95", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_sockjs/pyramid_sockjs-0.3.9.tar.gz"
+}

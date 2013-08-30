@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "email payment method for PCommerce", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://raptus.com", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://raptus.com", 
+    "Keywords:": "plone ecommerce pcommerce shop payment", 
+    "License:": "GPL", 
+    "Package Index Owner:": "simu, raptus"
+  }, 
+  "license": "", 
+  "longdescription": "email payment method for PCommerce", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "305fd509e8cf3a398f9d57be5aff846a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pcommerce.email/pcommerce.email-0.5.tar.gz"
+}

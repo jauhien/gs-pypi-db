@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create (recursive trees of) executable (sub)commands using minimal code", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/babab/pycommand", 
+  "info": {
+    "Author:": "Benjamin Althues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pycommand", 
+    "Download URL:": "http://pypi.python.org/pypi/pycommand/", 
+    "Home Page:": "https://bitbucket.org/babab/pycommand", 
+    "License:": "ISC", 
+    "Package Index Owner:": "babab", 
+    "Platform:": "any"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Create (recursive trees of) executable (sub)commands using minimal code", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1c41cdf89c4b63f9cd04c6b478b439b4", 
+  "source_uri": "http://pypi.python.org/pypi/pycommand/"
+}

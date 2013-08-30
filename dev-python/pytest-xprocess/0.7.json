@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pytest plugin to manage external processes across test runs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/hpk42/pytest-xprocess/", 
+  "info": {
+    "Author:": "Holger Krekel", 
+    "Home Page:": "http://bitbucket.org/hpk42/pytest-xprocess/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "hpk"
+  }, 
+  "license": "", 
+  "longdescription": "pytest plugin to manage external processes across test runs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ecf011371c3b42792633592cdf3318af", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-xprocess/pytest-xprocess-0.7.tar.gz"
+}

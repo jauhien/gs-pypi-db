@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python ctypes wrapper around Bob Jenkins hash functions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lgastako/jenkins/", 
+  "info": {
+    "Author:": "John Evans", 
+    "Home Page:": "http://github.com/lgastako/jenkins/", 
+    "Package Index Owner:": "lgastako"
+  }, 
+  "license": "", 
+  "longdescription": "Python ctypes wrapper around Bob Jenkins hash functions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e333eb87e82589641979138cd4e67a42", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jenkins/jenkins-1.0.2.tar.gz"
+}

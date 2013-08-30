@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate static HTML galleries with photos and videos", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://gitorious.org/webstag", 
+  "info": {
+    "Author:": "Aurelien Bompard", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Video"
+      ]
+    }, 
+    "Home Page:": "https://gitorious.org/webstag", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "abompard"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Generate static HTML galleries with photos and videos", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e6652342a367ffae8f91648b3f1963d", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webstag/webstag-0.3.tar.gz"
+}

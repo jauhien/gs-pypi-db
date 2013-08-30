@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command-line client for the yUML service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/wandernauta/yuml/", 
+  "info": {
+    "Author:": "Wander Nauta", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/wandernauta/yuml/", 
+    "License:": "COPYING", 
+    "Package Index Owner:": "wandernauta"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "A command-line client for the yUML service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "02262b88bdac10af99b57f793dde843c", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yuml/yuml-0.1.tar.gz"
+}

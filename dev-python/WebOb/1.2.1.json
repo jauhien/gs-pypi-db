@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI request and response object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://webob.org/", 
+  "info": {
+    "Author:": "Sergey Schetinin", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://webob.org/", 
+    "Keywords:": "wsgi request web http", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chrism, ianb, maluke"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WSGI request and response object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d30d5b6d857c6ea0b55aba5c25d3779", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WebOb/WebOb-1.2.1.zip"
+}

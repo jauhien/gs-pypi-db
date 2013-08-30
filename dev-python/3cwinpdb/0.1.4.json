@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enable remote debugging with winpdb in ope  Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Thomas Schilz", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "License:": "gpl", 
+    "Package Index Owner:": "schilz"
+  }, 
+  "license": "", 
+  "longdescription": "Enable remote debugging with winpdb in ope  Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4de521b9ff8f60bafa6b1b0444399272", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.winpdb/z3c.winpdb-0.1.4.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Basic Python wrapper for Europeana Search API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martin Keegan", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "mk270"
+  }, 
+  "license": "", 
+  "longdescription": "Basic Python wrapper for Europeana Search API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "00ca6971ec203fffa258777a91c2607b", 
+  "source_uri": "https://pypi.python.org/packages/source/e/europeana-search/europeana-search-0.2.1.tar.gz"
+}

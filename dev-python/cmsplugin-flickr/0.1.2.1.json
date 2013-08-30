@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "flickr plugin for django-cms", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Bernhard Vallant", 
+    "Package Index Owner:": "KristianOellegaard, piquadrat"
+  }, 
+  "license": "", 
+  "longdescription": "flickr plugin for django-cms", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b4c4444788fa403ee64b8e03dbdad1a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin-flickr/cmsplugin-flickr-0.1.2.1.tar.gz"
+}

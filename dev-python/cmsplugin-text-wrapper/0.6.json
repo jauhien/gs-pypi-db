@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django-cms plugin which extends and replaces the shipped text plugin with simple wrapper functionalities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jrief/cmsplugin-text-wrapper", 
+  "info": {
+    "Author:": "Jacob Rief", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jrief/cmsplugin-text-wrapper", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jrief"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A django-cms plugin which extends and replaces the shipped text plugin with simple wrapper functionalities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "116fb74389c5b6dd4a2d4656a7e75c5e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin-text-wrapper/cmsplugin-text-wrapper-0.6.tar.gz"
+}

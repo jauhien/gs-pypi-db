@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pyephyr - Python bindings for the ephyr messaging library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Evan Broder", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ebroder"
+  }, 
+  "license": "", 
+  "longdescription": "Pyephyr - Python bindings for the ephyr messaging library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "918b798c9b7ad252c562a793c0e17fa8", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyZephyr/PyZephyr-0.2.0.tar.gz"
+}

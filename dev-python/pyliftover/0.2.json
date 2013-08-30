@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure-python implementation of UCSC liftOver genome coordinate conversion.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/konstantint/pyliftover", 
+  "info": {
+    "Author:": "Konstantin Tretyakov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "https://github.com/konstantint/pyliftover", 
+    "Keywords:": "bioinformatics liftover genome-analysis", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kt", 
+    "Platform:": "Platform Independent"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Pure-python implementation of UCSC liftOver genome coordinate conversion.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b4e92f14dc9418710005dca4e7a569d8", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyliftover/pyliftover-0.2.zip"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a QuerySet, Manager and other tools for easy integration with the Google Visualiation API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rhblind/django-gcharts", 
+  "info": {
+    "Author:": "Rolf H\u00e5vard Blindheim", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rhblind/django-gcharts", 
+    "Keywords:": "django google charts graph plot", 
+    "Package Index Owner:": "rhblind"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Provides a QuerySet, Manager and other tools for easy integration with the Google Visualiation API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4cc1245331db837fcd1b5b71b29b0984", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-gcharts/django-gcharts-1.2.tar.gz"
+}

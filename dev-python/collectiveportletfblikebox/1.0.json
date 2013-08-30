@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Facebook Like-Box Portlet", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.portlet.fblikebox", 
+  "info": {
+    "Author:": "Steve McMahon", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.portlet.fblikebox", 
+    "Keywords:": "Facebook Plone Portlet", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "smcmahon"
+  }, 
+  "license": "", 
+  "longdescription": "Facebook Like-Box Portlet", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c651671f61c2493aa776d77aeb24ee1a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.fblikebox/collective.portlet.fblikebox-1.0.zip"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple multihost handling for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jaddison/django-multihost", 
+  "info": {
+    "Author:": "James Addison", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jaddison/django-multihost", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jaddison"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple multihost handling for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6e077b6cfff000355c9b4ef5acea345a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-multihost/django-multihost-0.3.tar.gz"
+}

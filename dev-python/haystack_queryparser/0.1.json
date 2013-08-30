@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A search query parser that works in conjunction with haystack", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/recruiterbox/haystack-queryparser", 
+  "info": {
+    "Author:": "Vignesh Sarma K", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/recruiterbox/haystack-queryparser", 
+    "Keywords:": "parsing,query,search", 
+    "Package Index Owner:": "vigneshsarma"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A search query parser that works in conjunction with haystack", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ee98baa1088f6e45da08d1a7eb43a15", 
+  "source_uri": "https://pypi.python.org/packages/source/h/haystack_queryparser/haystack_queryparser-0.1.tar.gz"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Check local modifications in upstream branch", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ecarreras/cutools", 
+  "info": {
+    "Author:": "Eduard Carreras", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ecarreras/cutools", 
+    "Package Index Owner:": "ecarreras", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "Check local modifications in upstream branch", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b6ad3f84504248b3762407979db8ba6e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cutools/cutools-0.5.0.tar.gz"
+}

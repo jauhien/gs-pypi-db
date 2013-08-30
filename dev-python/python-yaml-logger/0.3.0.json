@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "YAML formatter for the standard Python logging module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/wewriteapps/python-yaml-logger", 
+  "info": {
+    "Author:": "Phillip B Oldham", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Logging"
+      ]
+    }, 
+    "Home Page:": "http://github.com/wewriteapps/python-yaml-logger", 
+    "License:": "MIT", 
+    "Package Index Owner:": "unpluggd"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "YAML formatter for the standard Python logging module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a9372df94bf2b81063970ff93a5ef279", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-yaml-logger/python-yaml-logger-0.3.0.tar.gz"
+}

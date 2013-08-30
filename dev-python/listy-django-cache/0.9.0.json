@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A deterministic caching mechanism for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/wavii/listy-django-cache", 
+  "info": {
+    "Author:": "Wavii, Inc.", 
+    "Home Page:": "https://github.com/wavii/listy-django-cache", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "guidoism"
+  }, 
+  "license": "", 
+  "longdescription": "A deterministic caching mechanism for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82c13e5c76458a78578b5877b13b96ba", 
+  "source_uri": "https://pypi.python.org/packages/source/l/listy-django-cache/listy-django-cache-0.9.0.tar.gz"
+}

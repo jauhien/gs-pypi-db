@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates qt package templates for RoS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/roscreate-qt-pkg/", 
+  "info": {
+    "Author:": "Daniel Stonier", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "https://github.com/stonier/qt_ros.git", 
+    "Home Page:": "http://pypi.python.org/pypi/roscreate-qt-pkg/", 
+    "Keywords:": "ROS", 
+    "License:": "BSD", 
+    "Package Index Owner:": "stonier"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Creates qt package templates for RoS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d642bc5fa7a482f1156011e953ae58ba", 
+  "source_uri": "https://github.com/stonier/qt_ros.git"
+}

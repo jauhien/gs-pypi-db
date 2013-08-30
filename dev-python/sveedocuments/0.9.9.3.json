@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application to manage documents in ReStructuredText", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/sveedocuments", 
+  "info": {
+    "Author:": "David Thenon", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/sveedocuments", 
+    "License:": "MIT", 
+    "Package Index Owner:": "sveetch"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django application to manage documents in ReStructuredText", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b06f4f2bbf724f8d5380edf1fc76f7c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sveedocuments/sveedocuments-0.9.9.3.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A minimal ctypes-based port of some vlfeat functions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dougalsutherland/vlfeat-ctypes", 
+  "info": {
+    "Author:": "Dougal J. Sutherland", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Image Recognition"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dougalsutherland/vlfeat-ctypes", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dougalsutherland"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A minimal ctypes-based port of some vlfeat functions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7d496ad53853cba50edf79cd525131b0", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vlfeat-ctypes/vlfeat-ctypes-0.1.4.tar.gz"
+}

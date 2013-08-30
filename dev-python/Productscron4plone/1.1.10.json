@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cron4plone can do scheduled tasks in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gw20e.com/", 
+  "info": {
+    "Author:": "Goldmund, Wyldebeast & Wunderliebe", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.gw20e.com/", 
+    "Keywords:": "crontab plone cron scheduling", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "davidjb", 
+    "Package Index Owner:": "kcleong, helmantel, huub, khink, davidjb"
+  }, 
+  "license": "", 
+  "longdescription": "cron4plone can do scheduled tasks in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e9ad788ac9b41f828a8879c502b71406", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.cron4plone/Products.cron4plone-1.1.10.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of scripts for configuring AMQP brokers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://alchemy.grimoire.ca/hg/queuetools/", 
+  "info": {
+    "Author:": "Owen Jacobson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://alchemy.grimoire.ca/python/releases/queuetools/", 
+    "Home Page:": "http://alchemy.grimoire.ca/hg/queuetools/", 
+    "Package Index Owner:": "ojacobson, dvincelli"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A set of scripts for configuring AMQP brokers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "603fc2e6ccc7a23321941e84f55a19b0", 
+  "source_uri": "http://alchemy.grimoire.ca/python/releases/queuetools/"
+}

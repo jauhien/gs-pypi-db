@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple, Django-ready (but can be used without Django as well) loggerusing excellent logging module.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/djalog", 
+  "info": {
+    "Author:": "Lukasz Balcerzak", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/djalog", 
+    "Package Index Owner:": "LukaszBalcerzak"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple, Django-ready (but can be used without Django as well) loggerusing excellent logging module.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e778d8cf1cd05abc2822024f4e371b5c", 
+  "source_uri": "https://pypi.python.org/packages/source/D/Djalog/Djalog-0.9.4.tar.gz"
+}

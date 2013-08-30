@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout extension to extend only sections in parts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Apkawa/erp5.extension.sectionextender", 
+  "info": {
+    "Author:": "Arnaud Fontaine", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Apkawa/erp5.extension.sectionextender", 
+    "Keywords:": "buildout extension sections", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "Nya.Loli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Buildout extension to extend only sections in parts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "342e29225ec2d01d8017963c218e3c94", 
+  "source_uri": "https://pypi.python.org/packages/source/e/erp5.extension.sectionextender/erp5.extension.sectionextender-0.3.1.tar.gz"
+}

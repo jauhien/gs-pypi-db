@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A parser for COADS-compliant dates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.dealmeida.net/coards", 
+  "info": {
+    "Author:": "Roberto De Almeida", 
+    "Home Page:": "http://code.dealmeida.net/coards", 
+    "Keywords:": "coards date parse udunits", 
+    "License:": "MIT", 
+    "Package Index Owner:": "roberto"
+  }, 
+  "license": "", 
+  "longdescription": "A parser for COADS-compliant dates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea68bb48de34c6e1dd3fa4ff1a408ce8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/coards/coards-1.0.5.tar.gz"
+}

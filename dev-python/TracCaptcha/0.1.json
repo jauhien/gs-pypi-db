@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pluggable captcha infrastructure for trac with reCAPTCHA included", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.schwarz.eu/opensource/projects/trac_captcha", 
+  "info": {
+    "Author:": "Felix Schwarz", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://www.schwarz.eu/opensource/projects/TracCaptcha/download/0.1/TracCaptcha-0.1.tar.gz", 
+    "Home Page:": "http://www.schwarz.eu/opensource/projects/trac_captcha", 
+    "Keywords:": "trac,  recaptcha, captcha, plugin", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fs"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "pluggable captcha infrastructure for trac with reCAPTCHA included", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7156ac44bc518b6e7efbf8355d585d2e", 
+  "source_uri": "http://www.schwarz.eu/opensource/projects/TracCaptcha/download/0.1/TracCaptcha-0.1.tar.gz"
+}

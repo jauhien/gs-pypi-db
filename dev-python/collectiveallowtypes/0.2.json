@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Set allowed content type for Plone in a n x n Matrix", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.allowtypes", 
+  "info": {
+    "Author:": "Ramon Bartl", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.allowtypes", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ramonski"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Set allowed content type for Plone in a n x n Matrix", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c18cbb0ee354109b803f715f0b2d990", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.allowtypes/collective.allowtypes-0.2.tar.gz"
+}

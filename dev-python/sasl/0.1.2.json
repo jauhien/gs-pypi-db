@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cyrus-SASL bindings for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/toddlipcon/python-sasl/tree/master", 
+  "info": {
+    "Author:": "Todd Lipcon", 
+    "Home Page:": "http://github.com/toddlipcon/python-sasl/tree/master", 
+    "Package Index Owner:": "tlipcon"
+  }, 
+  "license": "", 
+  "longdescription": "Cyrus-SASL bindings for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a1149759ec685260b31eae7c57ec13f", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sasl/sasl-0.1.2.tar.gz"
+}

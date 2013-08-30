@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display source code in TextMate while debugging with pdb.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.zitc.de/trac/pdbtextmatesupport", 
+  "info": {
+    "Author:": "Andreas Zeidler", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "MacOS X"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "MacOS", 
+        "MacOS X"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Editors"
+      ]
+    }, 
+    "Download URL:": "http://cheeseshop.python.org/pypi/PdbTextMateSupport/", 
+    "Home Page:": "https://svn.zitc.de/trac/pdbtextmatesupport", 
+    "Keywords:": "textmate pdb", 
+    "License:": "GPL", 
+    "Package Index Owner:": "witsch", 
+    "Platform:": "Mac OS X"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Display source code in TextMate while debugging with pdb.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2718f181f62251359c253574a3207cef", 
+  "source_uri": "http://cheeseshop.python.org/pypi/PdbTextMateSupport/"
+}

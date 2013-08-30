@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows simple, extensible, distributed release management for complex environments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Package Index Owner:": "baldtrol"
+  }, 
+  "license": "", 
+  "longdescription": "Allows simple, extensible, distributed release management for complex environments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41eafe4f3433e508993b731c01bb9456", 
+  "source_uri": "https://pypi.python.org/packages/source/r/releasemanager/releasemanager-1.10.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python XML Based Configuration Management", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martin Owens", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "doctormo", 
+    "Platform:": "linux"
+  }, 
+  "license": "", 
+  "longdescription": "Python XML Based Configuration Management", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b9371c3ced0b861d95926fd5bb4b85b4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-moxml-config/python-moxml-config-0.9.tar.gz"
+}

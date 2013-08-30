@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "message queuing for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.snakemq.net", 
+  "info": {
+    "Author:": "David Siroky", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://www.snakemq.net", 
+    "Keywords:": "message,messaging,queue,persistent,network,communication,reconnect,RPC", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "dsiroky"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "message queuing for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69547d6813e1fb3bbc5a2bad04545d53", 
+  "source_uri": "https://pypi.python.org/packages/source/s/snakeMQ/snakeMQ-1.1.tar.gz"
+}

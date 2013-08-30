@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple django middleware that ensures POSTs arent cached by clients.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/thurloat/django-postleware", 
+  "info": {
+    "Author:": "Adam Thurlow", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/thurloat/django-postleware", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thurloat"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple django middleware that ensures POSTs arent cached by clients.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8f1b61c8c93caf4bad6386268c0f848", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-postleware/django-postleware-1.0.1.tar.gz"
+}

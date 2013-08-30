@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extensions to django-rest-framework, which is a lightweight REST framework for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com.org/bolster/djangorestframework_extensions", 
+  "info": {
+    "Author:": "Bolster Labs, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://github.com.org/bolster/djangorestframework_extensions", 
+    "License:": "BSD", 
+    "Package Index Owner:": "benslavin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Extensions to django-rest-framework, which is a lightweight REST framework for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "004c28e46813508ba6b88c4ea3eeffb6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djangorestframework-extensions/djangorestframework-extensions-0.0.3.tar.gz"
+}

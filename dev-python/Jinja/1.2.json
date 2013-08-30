@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small but fast and easy to use stand-alone template engine written in pure python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jinja.pocoo.org/", 
+  "info": {
+    "Author:": "Armin Ronacher", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Home Page:": "http://jinja.pocoo.org/", 
+    "Keywords:": "python.templating.engines", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mitsuhiko, gbrandl"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A small but fast and easy to use stand-alone template engine written in pure python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1235a005ade00b213800ff1e798c0241", 
+  "source_uri": "https://pypi.python.org/packages/source/J/Jinja/Jinja-1.2.tar.gz"
+}

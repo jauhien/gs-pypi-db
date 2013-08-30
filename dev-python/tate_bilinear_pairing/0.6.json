@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a library for calculating Tate bilinear pairing especially on super-singularelliptic curve Ey2x3-x+1 in affine coordinates defined over a Galois Field GF(3m)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tate_bilinear_pairing/", 
+  "info": {
+    "Author:": "Homer Hsing", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//tate_bilinear_pairing", 
+    "Home Page:": "http://pypi.python.org/pypi/tate_bilinear_pairing/", 
+    "Keywords:": "Tate bilinear pairing elliptic curve", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "Homer.Hsing"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "a library for calculating Tate bilinear pairing especially on super-singularelliptic curve Ey2x3-x+1 in affine coordinates defined over a Galois Field GF(3m)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "614276909ee8282d473cdfe78596b759", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tate_bilinear_pairing/tate_bilinear_pairing-0.6.tar.gz"
+}

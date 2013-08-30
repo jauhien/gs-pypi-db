@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An application that finds and lets you delete duplicate files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Rudd-O/duphunter", 
+  "info": {
+    "Author:": "Manuel Amador (Rudd-O)", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/Rudd-O/duphunter", 
+    "Keywords:": "duplicate file management", 
+    "License:": "GPL", 
+    "Package Index Owner:": "RuddO"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "An application that finds and lets you delete duplicate files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7777fc2e7172b1e3c8d78c7f64d3e647", 
+  "source_uri": "https://pypi.python.org/packages/source/d/duphunter/duphunter-0.1.4.tar.gz"
+}

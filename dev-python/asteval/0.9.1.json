@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Safe, minimalistic evaluator of python expression using ast module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/newville/asteval", 
+  "info": {
+    "Author:": "Matthew Newville", 
+    "Home Page:": "http://github.com/newville/asteval", 
+    "License:": "BSD", 
+    "Package Index Owner:": "newville"
+  }, 
+  "license": "", 
+  "longdescription": "Safe, minimalistic evaluator of python expression using ast module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "40d8423952abc2001670c792fd87fc39", 
+  "source_uri": "https://pypi.python.org/packages/source/a/asteval/asteval-0.9.1.tar.gz"
+}

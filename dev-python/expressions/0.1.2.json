@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple abstract parser for arithmetic expressions with slightly customiable syntax. Provides mechanisms for custom execution or compilation into custom structures.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://databrewery.org", 
+  "info": {
+    "Author:": "Stefan Urbanek", 
+    "Bug Tracker:": "https://github.com/Stiivi/expressions/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://databrewery.org", 
+    "Keywords:": "arithmetic expression", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "Stiivi"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple abstract parser for arithmetic expressions with slightly customiable syntax. Provides mechanisms for custom execution or compilation into custom structures.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3e5d7e5b8c4cac85636933fa588ba7f0", 
+  "source_uri": "https://pypi.python.org/packages/source/e/expressions/expressions-0.1.2.tar.gz"
+}

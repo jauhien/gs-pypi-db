@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Database schema migration tool that works in SQL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/max/sqlturk/", 
+  "info": {
+    "Author:": "Max Ischenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/max/sqlturk/", 
+    "Keywords:": "sql database schema migration evolution migrate sqlalchemy", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "imax"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Database schema migration tool that works in SQL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df704b801fbb9086ae7e0a25aed630de", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlturk/sqlturk-0.9.1.tar.gz"
+}

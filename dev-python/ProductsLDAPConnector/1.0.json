@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Persistent ope 2 LDAP connection manager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.LDAPConnector", 
+  "info": {
+    "Author:": "Jens Vagelpohl and contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory", 
+        "LDAP"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Products.LDAPConnector", 
+    "Home Page:": "http://pypi.python.org/pypi/Products.LDAPConnector", 
+    "Keywords:": "web application server zope zope2 ldap", 
+    "License:": "ZPL 2.1 (http://www.zope.org/Resources/License/ZPL-2.1)", 
+    "Package Index Owner:": "dataflake"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Persistent ope 2 LDAP connection manager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0420955be48634e70b60b119dae9686a", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.LDAPConnector/Products.LDAPConnector-1.0.tar.gz"
+}

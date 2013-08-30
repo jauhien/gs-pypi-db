@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Robust enumerated type support in Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/enum/", 
+  "info": {
+    "Author:": "Ben Finney", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/enum/", 
+    "Keywords:": "enum enumerated enumeration", 
+    "License:": "Choice of GPL or Python license", 
+    "Package Index Owner:": "bignose"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Robust enumerated type support in Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce75c7c3c86741175a84456cc5bd531e", 
+  "source_uri": "https://pypi.python.org/packages/source/e/enum/enum-0.4.4.tar.gz"
+}

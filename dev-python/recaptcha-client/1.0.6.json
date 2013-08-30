@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A plugin for reCAPTCHA and reCAPTCHA Mailhide", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://recaptcha.net", 
+  "info": {
+    "Author:": "Mike Crawford", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Topic": [
+        "Security"
+      ]
+    }, 
+    "Home Page:": "http://recaptcha.net", 
+    "License:": "MIT/X11", 
+    "Package Index Maintainer:": "magicbronson, mcmillen", 
+    "Package Index Owner:": "magicbronson, mcmillen"
+  }, 
+  "license": "", 
+  "longdescription": "A plugin for reCAPTCHA and reCAPTCHA Mailhide", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "74228180f7e1fb76c4d7089160b0d919", 
+  "source_uri": "https://pypi.python.org/packages/source/r/recaptcha-client/recaptcha-client-1.0.6.tar.gz"
+}

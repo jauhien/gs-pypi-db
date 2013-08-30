@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Atomic inclusion blocks extension for Jinja2 template engine", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/semirook/jinja-atoms", 
+  "info": {
+    "Author:": "Roman Semirook", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Home Page:": "https://github.com/semirook/jinja-atoms", 
+    "License:": "BSD", 
+    "Package Index Owner:": "semirook"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Atomic inclusion blocks extension for Jinja2 template engine", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c5461c39f4de323bd9edfb4dd461293e", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jinja-atoms/jinja-atoms-0.1.tar.gz"
+}

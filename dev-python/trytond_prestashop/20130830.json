@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Prestashop Integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://openlabs.co.in/", 
+  "info": {
+    "Author:": "Openlabs Technologies and Consulting P Ltd.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Tryton"
+      ], 
+      "Intended Audience": [
+        "Manufacturing"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Office/Business"
+      ]
+    }, 
+    "Download URL:": "https://github.com/openlabs/trytond-prestashop", 
+    "Home Page:": "http://openlabs.co.in/", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "sharoonthomas"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Prestashop Integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a08df19d25194a641e383bf56333cc63", 
+  "source_uri": "https://github.com/openlabs/trytond-prestashop"
+}

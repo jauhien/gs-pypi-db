@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Build and serve an appcache manifest from Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mozilla/django_appcache", 
+  "info": {
+    "Author:": "Kumar McMillan", 
+    "Home Page:": "https://github.com/mozilla/django_appcache", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "marketplacedevs", 
+    "Package Index Owner:": "kumar303"
+  }, 
+  "license": "", 
+  "longdescription": "Build and serve an appcache manifest from Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88b354c01fc106834d5860e8bda54b3e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_appcache/django_appcache-1.4.tar.gz"
+}

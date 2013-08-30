@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extensible dynamic IP updater.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bkonkle/update-ip", 
+  "info": {
+    "Author:": "Brandon Konkle", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bkonkle/update-ip", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "goncalopp", 
+    "Package Index Owner:": "goncalopp, bkonkle"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An extensible dynamic IP updater.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d80109b4273f6b292c9e50e2622ec999", 
+  "source_uri": "https://pypi.python.org/packages/source/u/update-ip/update-ip-0.2.1.tar.gz"
+}

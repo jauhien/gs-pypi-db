@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A recipe to build pybsddb", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://koansys.com", 
+  "info": {
+    "Author:": "Koansys, LLC", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://koansys.com", 
+    "Keywords:": "recipe buildout bdb", 
+    "License:": "BSD", 
+    "Package Index Owner:": "reedobrien"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A recipe to build pybsddb", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "30df1aad0c40b051184c189e7598668f", 
+  "source_uri": "https://pypi.python.org/packages/source/k/koansys.recipe.pybsddb/koansys.recipe.pybsddb-1.0.1.tar.gz"
+}

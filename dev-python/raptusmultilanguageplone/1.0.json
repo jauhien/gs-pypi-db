@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "adding multilanguage support to default plone content types", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/raptus.multilanguageplone", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/raptus.multilanguageplone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "simu, raptus"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "adding multilanguage support to default plone content types", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6344b42bed79e8c38d693e4695de88fb", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.multilanguageplone/raptus.multilanguageplone-1.0.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SWORD v2 python client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://swordapp.org/", 
+  "info": {
+    "Author:": "Ben O'Steen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sword2", 
+    "Home Page:": "http://swordapp.org/", 
+    "Keywords:": "sword-app atom sword2 http", 
+    "License:": "MIT", 
+    "Package Index Owner:": "BenO, richardjones"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "SWORD v2 python client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "28080d82ea09df94497373f76759351f", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sword2/sword2-0.1.15.cc7c6a42843d.tar.gz"
+}

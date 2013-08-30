@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "gccdistutils wrapper for auto-compiling Cython code (including inline)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Cpyx/", 
+  "info": {
+    "Author:": "David N. Mashburn", 
+    "Home Page:": "http://pypi.python.org/pypi/Cpyx/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "mashbudn"
+  }, 
+  "license": "", 
+  "longdescription": "gccdistutils wrapper for auto-compiling Cython code (including inline)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "30520111915fa9c02148eb6f2d40a84f", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Cpyx/Cpyx-0.1.2.1.tar.gz"
+}

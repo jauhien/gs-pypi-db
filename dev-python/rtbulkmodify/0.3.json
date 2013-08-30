@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An administration tool for performing mass text substitution on Plone contents", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/rt.bulkmodify", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/rt.bulkmodify/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/rt.bulkmodify", 
+    "Keywords:": "plone batch bulk regex", 
+    "License:": "GPL", 
+    "Package Index Owner:": "massimo, keul"
+  }, 
+  "license": "", 
+  "longdescription": "An administration tool for performing mass text substitution on Plone contents", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f985251791afaefc2c92f57b7049005", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rt.bulkmodify/rt.bulkmodify-0.3.zip"
+}

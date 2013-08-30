@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple utilties for Plone product initilisation and installation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.agapow.net/software/ezplone", 
+  "info": {
+    "Author:": "Paul-Michael Agapow", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.agapow.net/software/ezplone", 
+    "Keywords:": "plone install product utilities debug", 
+    "License:": "BSD", 
+    "Package Index Owner:": "agapow"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple utilties for Plone product initilisation and installation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2141ad749b5a96018df8e40f454011d1", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ezplone/ezplone-0.3.tar.gz"
+}

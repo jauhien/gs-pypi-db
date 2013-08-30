@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sync FLAC music files to Ogg Vorbis (or keep lossy as-is)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://git.p.engu.in/laurentb/brutha/", 
+  "info": {
+    "Author:": "Laurent Bachelier", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio", 
+        "Conversion"
+      ]
+    }, 
+    "Home Page:": "http://git.p.engu.in/laurentb/brutha/", 
+    "Package Index Owner:": "laurentb"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "Sync FLAC music files to Ogg Vorbis (or keep lossy as-is)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "528bd1eef6a8152c496497ed2afa69a0", 
+  "source_uri": "https://pypi.python.org/packages/source/b/brutha/brutha-1.0.1.tar.gz"
+}

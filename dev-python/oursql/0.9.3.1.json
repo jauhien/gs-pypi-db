@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MySQL bindings for python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/oursql", 
+  "info": {
+    "Author:": "Aaron Gallagher", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Database", 
+        "Database Engines/Servers"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//oursql", 
+    "Home Page:": "http://launchpad.net/oursql", 
+    "Package Index Owner:": "habnabit, jerub"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "MySQL bindings for python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ffab98306dbc5328ed1c436b85bfbe9", 
+  "source_uri": "https://pypi.python.org/packages/source/o/oursql/oursql-0.9.3.1.tar.bz2"
+}

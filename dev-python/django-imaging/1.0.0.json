@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "AJAX driven gallery field for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pielgrzym/django-imaging", 
+  "info": {
+    "Author:": "Jakub Nawalaniec", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ]
+    }, 
+    "Home Page:": "https://github.com/pielgrzym/django-imaging", 
+    "Keywords:": "django", 
+    "License:": "GNU GPL v2", 
+    "Package Index Owner:": "pielgrzym"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "AJAX driven gallery field for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b64ef7f88f37685c962d9725dae47dd1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-imaging/django-imaging-1.0.0.tar.gz"
+}

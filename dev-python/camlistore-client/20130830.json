@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client library for Camlistore.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://camlistore.org", 
+  "info": {
+    "Author:": "Jack Laxson", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://camlistore.org", 
+    "License:": "Apache v2", 
+    "Package Index Owner:": "Jrabbit"
+  }, 
+  "license": "", 
+  "longdescription": "Client library for Camlistore.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71ee367736e1f79710f768b48760094c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/camlistore-client/camlistore-client-1.0.3dev.tar.gz"
+}

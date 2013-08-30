@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Converts a series of latitudelongitude points to an encoded string for use with Google Maps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rcmachado/gpolyline", 
+  "info": {
+    "Author:": "Rodrigo Machado", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rcmachado/gpolyline", 
+    "Keywords:": "googlemaps", 
+    "License:": "OSI", 
+    "Package Index Owner:": "rcmachado"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Converts a series of latitudelongitude points to an encoded string for use with Google Maps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f359881d4cbaad94b8457e14b0449b9f", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gpolyline/gpolyline-0.0.3.tar.gz"
+}

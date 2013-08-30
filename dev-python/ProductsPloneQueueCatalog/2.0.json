@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Products.PloneQueueCatalog makes it easier to use QueueCatalog in your Plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/PloneQueueCatalog/trunk", 
+  "info": {
+    "Author:": "Helge Tesdal", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/PloneQueueCatalog/trunk", 
+    "Keywords:": "Plone QueueCatalog", 
+    "License:": "GPL", 
+    "Package Index Owner:": "hannosch, wichert"
+  }, 
+  "license": "", 
+  "longdescription": "Products.PloneQueueCatalog makes it easier to use QueueCatalog in your Plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36673a8a14917377c4a4fae3909757de", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneQueueCatalog/Products.PloneQueueCatalog-2.0.tar.gz"
+}

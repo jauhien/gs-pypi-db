@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Access nested dicts and lists using JSON-like path notation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stxnext.pl/open-source/jpath", 
+  "info": {
+    "Author:": "Radomir Dopieralski", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/thesheep/jpath/get/tip.tar.gz", 
+    "Home Page:": "http://www.stxnext.pl/open-source/jpath", 
+    "Package Index Owner:": "sheep"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Access nested dicts and lists using JSON-like path notation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f46ed213725f0e72bf0d67a8e5512834", 
+  "source_uri": "https://bitbucket.org/thesheep/jpath/get/tip.tar.gz"
+}

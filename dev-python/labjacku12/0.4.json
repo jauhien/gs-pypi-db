@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "LabJack U12 driver", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/labjacku12", 
+  "info": {
+    "Author:": "Robert Jordens", 
+    "Home Page:": "https://launchpad.net/labjacku12", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jordens"
+  }, 
+  "license": "", 
+  "longdescription": "LabJack U12 driver", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "495a44829c4a4d5d315cd79d193430a9", 
+  "source_uri": "https://pypi.python.org/packages/source/l/labjacku12/labjacku12-0.4.tar.gz"
+}

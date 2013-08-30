@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python console script to synchronie media folders, using playlists as filter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wplsync.googlecode.com/", 
+  "info": {
+    "Author:": "Martin Wendt", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://wplsync.googlecode.com/", 
+    "Keywords:": "playlist wpl folder sync", 
+    "License:": "The MIT License", 
+    "Package Index Owner:": "mar10"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python console script to synchronie media folders, using playlists as filter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f0e586fcaa929444d9b79b0e60fdc377", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wplsync/wplsync-1.0.0a1.zip"
+}

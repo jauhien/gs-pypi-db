@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Customiable notification system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.trac-hacks.org/wiki/AnnouncerPlugin", 
+  "info": {
+    "Author:": "Stephen Hansen", 
+    "Home Page:": "http://www.trac-hacks.org/wiki/AnnouncerPlugin", 
+    "License:": "Copyright (c) 2008, Stephen Hansen. All rights reserved. Released under the 3-clause BSD license.", 
+    "Package Index Owner:": "Robert.Corsaro"
+  }, 
+  "license": "", 
+  "longdescription": "Customiable notification system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ddb6e069e15f53c7b193b03f63e9e306", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracAnnouncer/tracannouncer-0.11.0.tar.gz"
+}

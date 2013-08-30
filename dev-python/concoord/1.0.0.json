@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Coordination service for distributed systems.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://openreplica.org/", 
+  "info": {
+    "Author:": "Deniz Altinbuken, Emin Gun Sirer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://openreplica.org/", 
+    "License:": "3-Clause BSD", 
+    "Package Index Owner:": "kotnik"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Coordination service for distributed systems.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a989c6794756dd4b594406900b105f7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/concoord/concoord-1.0.0.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A monkey patch to send MailHost messages to standard out", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.PrintingMailHost", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.PrintingMailHost", 
+    "Keywords:": "zope debug mailhost", 
+    "License:": "GPL", 
+    "Package Index Owner:": "claytron, optilude, maurits"
+  }, 
+  "license": "", 
+  "longdescription": "A monkey patch to send MailHost messages to standard out", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a61e7d0f67930693b56854abe20899c", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PrintingMailHost/Products.PrintingMailHost-0.7.tar.gz"
+}

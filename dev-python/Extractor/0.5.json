@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "bindings for GNU libextractor, the metadata extractor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gnunet.org/libextractor/", 
+  "info": {
+    "Author:": "Bader Ladjemi, Christian Grothoff", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Filters"
+      ]
+    }, 
+    "Home Page:": "http://gnunet.org/libextractor/", 
+    "Keywords:": "libextractor binding tag metadata", 
+    "License:": "GNU GPL", 
+    "Package Index Owner:": "bader", 
+    "Platform:": "windows,Linux,MacOS X,Solaris,FreeBSD"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "bindings for GNU libextractor, the metadata extractor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01fbe140dae8989af033ffb10f43d366", 
+  "source_uri": "https://pypi.python.org/packages/source/E/Extractor/Extractor-0.5.tar.gz"
+}

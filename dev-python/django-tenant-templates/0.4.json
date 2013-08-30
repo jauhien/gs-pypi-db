@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tenant-aware templating for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/grampajoe/django-tenant-templates", 
+  "info": {
+    "Author:": "Joe Friedl", 
+    "Home Page:": "https://github.com/grampajoe/django-tenant-templates", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joefriedl"
+  }, 
+  "license": "", 
+  "longdescription": "Tenant-aware templating for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f97207d0b0f7c816e7c50ced14059a38", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tenant-templates/django-tenant-templates-0.4.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple blog publisher. Read structured text files and generate static HTML  Feed files. Weblog aims to be simple and robust.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://henry.precheur.org/weblog/", 
+  "info": {
+    "Author:": "Henry Precheur", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content", 
+        "News/Diary"
+      ]
+    }, 
+    "Home Page:": "http://henry.precheur.org/weblog/", 
+    "Keywords:": "weblog blog journal diary atom", 
+    "License:": "ISCL", 
+    "Package Index Owner:": "henry"
+  }, 
+  "license": "", 
+  "longdescription": "Simple blog publisher. Read structured text files and generate static HTML  Feed files. Weblog aims to be simple and robust.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "75065ab253c70ec1820a3ef3b91bfea5", 
+  "source_uri": "https://pypi.python.org/packages/source/w/weblog/weblog-2.5.tar.gz"
+}

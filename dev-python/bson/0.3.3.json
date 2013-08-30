@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "BSON codec for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/martinkou/bson", 
+  "info": {
+    "Author:": "Kou Man Tong", 
+    "Home Page:": "http://github.com/martinkou/bson", 
+    "Keywords:": "BSON codec", 
+    "License:": "BSD", 
+    "Package Index Owner:": "martinkou", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "BSON codec for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46bce086741b651afaba0ea118fc5f8d", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bson/bson-0.3.3.tar.gz"
+}

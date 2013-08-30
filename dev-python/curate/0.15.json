@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Curation Utilities for CKAN", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/curate/", 
+  "info": {
+    "Author:": "Open Knowledge Foundation", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//curate", 
+    "Home Page:": "http://packages.python.org/curate/", 
+    "Keywords:": "ckan rdf rdflib", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "wwaites"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Curation Utilities for CKAN", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f826869c298a2c356441ea8c060ddfcb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/curate/curate-0.15.tar.gz"
+}

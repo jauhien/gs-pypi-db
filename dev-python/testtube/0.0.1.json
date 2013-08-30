@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Testtube watches a specified directory for file changes and runs a set of defined tests against those files whenever a change occurs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/thomasw/testtube", 
+  "info": {
+    "Author:": "Thomas Welfley", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Download URL:": "https://github.com/thomasw/testtube/downloads", 
+    "Home Page:": "https://github.com/thomasw/testtube", 
+    "Package Index Owner:": "twelfley"
+  }, 
+  "license": "", 
+  "longdescription": "Testtube watches a specified directory for file changes and runs a set of defined tests against those files whenever a change occurs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4faa62e496663d67a486a631005c81fe", 
+  "source_uri": "https://github.com/thomasw/testtube/downloads"
+}

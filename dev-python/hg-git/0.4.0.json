@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "push and pull from a Git server using Mercurial", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg-git.github.com/", 
+  "info": {
+    "Author:": "Augie Fackler", 
+    "Home Page:": "http://hg-git.github.com/", 
+    "Keywords:": "hg git mercurial", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "durin42"
+  }, 
+  "license": "", 
+  "longdescription": "push and pull from a Git server using Mercurial", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3981ef60d08c01fdd93f645f43fd90ee", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hg-git/hg-git-0.4.0.tar.gz"
+}

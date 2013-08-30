@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extract data from a geonode and put it in a folder", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/GFDRR/geonode-extract", 
+  "info": {
+    "Author:": "Ariel N\u00fa\u00f1ez", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Home Page:": "http://github.com/GFDRR/geonode-extract", 
+    "Keywords:": "gis vector feature raster data", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ariel.Nunez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Extract data from a geonode and put it in a folder", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b89eb9d2efbe5fcda3055284590b1c3", 
+  "source_uri": "https://pypi.python.org/packages/source/g/geonode-extract/geonode-extract-0.4.2.tar.gz"
+}

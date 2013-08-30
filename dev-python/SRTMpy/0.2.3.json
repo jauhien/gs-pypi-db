@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python parser for the Shuttle Radar Topography Mission elevation data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tkrajina/srtm.py", 
+  "info": {
+    "Author:": "Tomo Krajina", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tkrajina/srtm.py", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "Tomo.Krajina"
+  }, 
+  "license": "", 
+  "longdescription": "Python parser for the Shuttle Radar Topography Mission elevation data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fae287a2c1b569868e1adfadc0ef34c1", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SRTM.py/SRTM.py-0.2.3.tar.gz"
+}

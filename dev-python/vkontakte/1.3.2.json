@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "vk.com (aka vkontakte.ru) API wrapper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/kmike/vkontakte/", 
+  "info": {
+    "Author:": "Mikhail Korobov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/kmike/vkontakte/", 
+    "License:": "MIT license", 
+    "Package Index Maintainer:": "ramusus", 
+    "Package Index Owner:": "kmike, ramusus"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "vk.com (aka vkontakte.ru) API wrapper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f938fdc19412666040db91f8915677d", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vkontakte/vkontakte-1.3.2.tar.gz"
+}

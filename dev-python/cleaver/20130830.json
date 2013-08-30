@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bloody simple AB testing for Python WSGI applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ryanpetrello/cleaver", 
+  "info": {
+    "Author:": "Ryan Petrello", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ryanpetrello/cleaver", 
+    "Keywords:": "ab a/b split testing wsgi multivariate conversion", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ryanpetrello"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Bloody simple AB testing for Python WSGI applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19e72d4bbf129980aaf53aaac486ad01", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cleaver/cleaver-0.1.0b4.tar.gz"
+}

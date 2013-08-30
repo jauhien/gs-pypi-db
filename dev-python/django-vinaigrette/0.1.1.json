@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Translate Django model data using gettext", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ecometrica/django-vinaigrette/", 
+  "info": {
+    "Author:": "Michael Mulley", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Internationalization"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ecometrica/django-vinaigrette/", 
+    "Keywords:": "django,translation,gettext,internationalization,i18n,database,model", 
+    "Package Index Maintainer:": "rgeoghegan", 
+    "Package Index Owner:": "sfllaw, wiswaud, rhymeswithcycle"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Translate Django model data using gettext", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "50466f2175daf2fab933e827aa80d804", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-vinaigrette/django-vinaigrette-0.1.1.tar.gz"
+}

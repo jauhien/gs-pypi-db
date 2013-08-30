@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add-ons to sphinx to document ope event and interfaces (and buildout configuration).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://infrae.com", 
+  "info": {
+    "Author:": "Infrae", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://infrae.com", 
+    "Keywords:": "sphinx color buildout zope interface", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thefunny42"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Add-ons to sphinx to document ope event and interfaces (and buildout configuration).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9cf2a9fde8470c75b5f3bca2f4f51d02", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sphinxcontrib.infrae/sphinxcontrib.infrae-1.0.tar.gz"
+}

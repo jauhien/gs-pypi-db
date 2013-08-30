@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Multilingual Plone UI package, enables maintenance of translations for both Dexterity types and Archetypes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/plone/plone.app.multilingual", 
+  "info": {
+    "Author:": "Ramon Navarro, Victor Fernandez de Alba, awello et al", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/plone/plone.app.multilingual", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "thomasw, saily, sneridagh", 
+    "Package Index Owner:": "ramon.nb"
+  }, 
+  "license": "", 
+  "longdescription": "Multilingual Plone UI package, enables maintenance of translations for both Dexterity types and Archetypes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "06438025fdb9cefe6029faf45bef66a7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.multilingual/plone.app.multilingual-1.1.tar.gz"
+}

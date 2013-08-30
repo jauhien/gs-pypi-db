@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Return city, country, location, business details of givenoutgoing ip", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mrahma01/iplocation", 
+  "info": {
+    "Author:": "Muhammad M Rahman", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mrahma01/iplocation", 
+    "Keywords:": "iptolocaiton geoip", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mmrs151"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Return city, country, location, business details of givenoutgoing ip", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a91cc70fcc7d2497ea6bedd70c3d1797", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iplocation/iplocation-0.1.tar.gz"
+}

@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python module for uploading data to s3 using the s3 multipart API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Lee Treveil", 
+    "Package Index Owner:": "leetreveil"
+  }, 
+  "license": "", 
+  "longdescription": "A python module for uploading data to s3 using the s3 multipart API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "553464efffdd9c076dd16bf29c2d8173", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s3upload/s3upload-0.2.3.tar.gz"
+}

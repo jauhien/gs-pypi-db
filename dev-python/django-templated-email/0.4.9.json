@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django oriented templated  transaction email abstraction", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bradwhittington/django-templated-email/", 
+  "info": {
+    "Author:": "Bradley Whittington", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bradwhittington/django-templated-email/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bradwhittington", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django oriented templated  transaction email abstraction", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b2de76e719fad24b54351c27752b280", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-templated-email/django-templated-email-0.4.9.tar.gz"
+}

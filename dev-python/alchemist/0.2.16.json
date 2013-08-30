@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A server architecture built on top of a solid foundation provided by flask, sqlalchemy, and various extensions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/concordusapps/alchemist", 
+  "info": {
+    "Author:": "Concordus Applications", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/concordusapps/alchemist", 
+    "Package Index Owner:": "mehcode"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A server architecture built on top of a solid foundation provided by flask, sqlalchemy, and various extensions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "653735a0389ba1b084e0e5c3b6255458", 
+  "source_uri": "https://pypi.python.org/packages/source/a/alchemist/alchemist-0.2.16.tar.gz"
+}

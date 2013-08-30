@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper of MEIGOR, a R optimisation package (httpwww.iim.csic.esgingprocmeigo.html).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ebi.ac.uk/~cokelaer/pymeigo", 
+  "info": {
+    "Author:": "Thomas Cokelaer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/pymeigo", 
+    "Home Page:": "http://www.ebi.ac.uk/~cokelaer/pymeigo", 
+    "Keywords:": "optimisation,meigo,scatter search optimiser", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cokelaer", 
+    "Platform:": "Linux,Unix,MacOsX,Windows"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Python wrapper of MEIGOR, a R optimisation package (httpwww.iim.csic.esgingprocmeigo.html).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a2d7f42b7cdbecbac27581d0a4a1cb1", 
+  "source_uri": "http://pypi.python.org/pypi/pymeigo"
+}

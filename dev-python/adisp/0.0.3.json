@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Callback-less python async calls dispatcher", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.launchpad.net/~isagalaev/adisp/trunk", 
+  "info": {
+    "Author:": "Ivan Sagalaev", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://code.launchpad.net/~isagalaev/adisp/trunk", 
+    "Package Index Owner:": "Lispython", 
+    "Platform:": "Linux,Mac"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Callback-less python async calls dispatcher", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8a26d447ad203fd9010c1e821550fa2c", 
+  "source_uri": "https://pypi.python.org/packages/source/a/adisp/adisp-0.0.3.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c2.sample.csvworkflow is sample application using by collective.wtf.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "Hironobu Manaka", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "plone,workflow", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gardeniacolor"
+  }, 
+  "license": "", 
+  "longdescription": "c2.sample.csvworkflow is sample application using by collective.wtf.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41c225c97dd6b8ba305020843b532f08", 
+  "source_uri": "https://pypi.python.org/packages/source/c/c2.sample.csvworkflow/c2.sample.csvworkflow-1.1.tar.gz"
+}

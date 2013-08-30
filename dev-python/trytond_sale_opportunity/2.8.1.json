@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tryton module with leads and opportunities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tryton.org/", 
+  "info": {
+    "Author:": "Tryton", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Tryton"
+      ], 
+      "Intended Audience": [
+        "Legal Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "Spanish"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Office/Business"
+      ]
+    }, 
+    "Download URL:": "http://downloads.tryton.org/2.8/", 
+    "Home Page:": "http://www.tryton.org/", 
+    "License:": "GPL-3", 
+    "Package Index Maintainer:": "yangoon", 
+    "Package Index Owner:": "ced, yangoon, bch, nicoe"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Tryton module with leads and opportunities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4cb54e7fac42293c5e297e6388fedc52", 
+  "source_uri": "http://downloads.tryton.org/2.8/"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line Twitter utility", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://forge.projet-libre.org/projects/cltwit/wiki", 
+  "info": {
+    "Author:": "J\u00e9r\u00f4me Launay", 
+    "Categories": {
+      "Natural Language": [
+        "French"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://forge.projet-libre.org/projects/cltwit/wiki", 
+    "Keywords:": "'twitter command-line follow unfollo export tweet'", 
+    "License:": "WTFPL", 
+    "Package Index Owner:": "jlaunay"
+  }, 
+  "license": "", 
+  "longdescription": "Command line Twitter utility", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0bd292d3c45ec97d970deb39950b73fb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cltwit/cltwit-0.6.tar.gz"
+}

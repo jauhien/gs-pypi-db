@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Celery wrapper for web.py framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/faruken/webpy-celery", 
+  "info": {
+    "Author:": "Faruk Akgul", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/faruken/webpy-celery", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fm", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Celery wrapper for web.py framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ff1e52ddf5cd233097e00ba0b15a322", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webpy-celery/webpy-celery-0.1.tar.gz"
+}

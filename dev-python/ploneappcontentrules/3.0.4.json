@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone integration for plone.contentrules", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.contentrules", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.contentrules", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "optilude, wichert, hannosch, esteele, smcmahon, evilbungle, davisagli"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone integration for plone.contentrules", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15e86e2739096bff5bf0745590d5ebb0", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.contentrules/plone.app.contentrules-3.0.4.zip"
+}

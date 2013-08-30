@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides grok specific autodoc directives for sphinx", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Simon Kaeser", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "License:": "GPL", 
+    "Package Index Owner:": "raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Provides grok specific autodoc directives for sphinx", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03bd953bc1efac9ea1468d8cb8162806", 
+  "source_uri": "https://pypi.python.org/packages/source/h/horae.sphinx.grok/horae.sphinx.grok-1.0a1.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pure-python implementation of the SyncML adapter framework and protocol.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pysyncml.org/", 
+  "info": {
+    "Author:": "griffin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pysyncml", 
+    "Home Page:": "http://www.pysyncml.org/", 
+    "Keywords:": "syncml python synchronize mobile desktop framework adapter open mobile alliance contacts agenda calendar files notes", 
+    "License:": "copyloose", 
+    "Package Index Owner:": "griffin, rgriffin", 
+    "Platform:": "any"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A pure-python implementation of the SyncML adapter framework and protocol.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aeb1c93ccbbfc3d7a99121216cda72e2", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysyncml/pysyncml-0.1.dev-r62.tar.gz"
+}

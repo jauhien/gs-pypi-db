@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Round-robin multidb router for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jbalogh/django-multidb-router", 
+  "info": {
+    "Author:": "Jeff Balogh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment", 
+        "Mozilla"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jbalogh/django-multidb-router", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jsocol, jbalogh"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Round-robin multidb router for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4d6b341d0c18c1fa3136248a3a5a9d3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-multidb-router/django-multidb-router-0.5.tar.gz"
+}

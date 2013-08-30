@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Minimal database Model management for MongoDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/yablokoff/minimongo", 
+  "info": {
+    "Author:": "Steve Lacy, Dmitrii Vlasov", 
+    "Home Page:": "http://github.com/yablokoff/minimongo", 
+    "Keywords:": "mongo,mongodb,pymongo,orm", 
+    "Package Index Owner:": "yablokoff", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Minimal database Model management for MongoDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1348c5ba7a041c314bf639993693770", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mimimongo/mimimongo-0.1.2.tar.gz"
+}

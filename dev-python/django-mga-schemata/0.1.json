@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This project adds the PostgreSQL schema support to Django. The schema, which can be seen as a namespace in which any database object exists, allows to isolate the database objects even when they have the same names. You can have same set of tables, indices, sequences etc. many times under the single database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/slafs/django-schemata", 
+  "info": {
+    "Author:": "Slawek Ehlert", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "https://github.com/slafs/django-schemata", 
+    "Package Index Owner:": "slafs"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "This project adds the PostgreSQL schema support to Django. The schema, which can be seen as a namespace in which any database object exists, allows to isolate the database objects even when they have the same names. You can have same set of tables, indices, sequences etc. many times under the single database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8cf3bb8e44414bc252a28412b3cd0e4a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mga-schemata/django-mga-schemata-0.1.tar.gz"
+}

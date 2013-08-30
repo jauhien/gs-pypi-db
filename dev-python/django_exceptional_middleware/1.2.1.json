@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django middleware to allow generating arbitrary HTTP status codes via exceptions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://tartarus.org/james/computers/django/", 
+  "info": {
+    "Author:": "James Aylett", 
+    "Home Page:": "http://tartarus.org/james/computers/django/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jaylett"
+  }, 
+  "license": "", 
+  "longdescription": "Django middleware to allow generating arbitrary HTTP status codes via exceptions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5fed4791a5f9a6dbb59d62a7df12f072", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_exceptional_middleware/django_exceptional_middleware-1.2.1.tar.gz"
+}

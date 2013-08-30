@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library that provides time-based task scheduling using green threads via gevent.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pcdinh/greenclock", 
+  "info": {
+    "Author:": "Pham Cong Dinh", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/pcdinh/greenclock/tarball/0.2.1", 
+    "Home Page:": "https://github.com/pcdinh/greenclock", 
+    "Keywords:": "cron,scheduling,schedule,periodic,jobs,clockwork,gevent", 
+    "License:": "MIT", 
+    "Package Index Owner:": "pcdinh"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A library that provides time-based task scheduling using green threads via gevent.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fc5e9c90a54542171c2acf768114867", 
+  "source_uri": "https://github.com/pcdinh/greenclock/tarball/0.2.1"
+}

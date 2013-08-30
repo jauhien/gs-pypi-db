@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python interface to splice and tee system calls.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "www.enix.org", 
+  "info": {
+    "Author:": "Omar Ait Mous", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "www.enix.org", 
+    "License:": "http://www.gnu.org/licenses/gpl.txt", 
+    "Package Index Owner:": "oaitmous", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Python interface to splice and tee system calls.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ae488c89209c633696cddf340700435", 
+  "source_uri": "https://pypi.python.org/packages/source/s/splicetee/splicetee-1.0.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Configurable notifications for trac tickets tied to workflow actions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/WorkflowNotificationPlugin", 
+  "info": {
+    "Author:": "Ethan Jucovy", 
+    "Home Page:": "http://trac-hacks.org/wiki/WorkflowNotificationPlugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "Configurable notifications for trac tickets tied to workflow actions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32709dec471f0fd01e5b3f1bf811da2a", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trac-WorkflowNotificationPlugin/trac-WorkflowNotificationPlugin-0.4.tar.gz"
+}

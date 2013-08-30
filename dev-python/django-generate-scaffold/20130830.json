@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate a Django model, views, URLconf, and templates on the command line in seconds.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/modocache/django-generate-scaffold", 
+  "info": {
+    "Author:": "modocache", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Home Page:": "http://github.com/modocache/django-generate-scaffold", 
+    "Keywords:": "django generate scaffold", 
+    "Package Index Owner:": "B.G"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Generate a Django model, views, URLconf, and templates on the command line in seconds.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a4369af8cdfc4ef3dff18a3ee8b3e48a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-generate-scaffold/django-generate-scaffold-0.0.5a0.tar.gz"
+}

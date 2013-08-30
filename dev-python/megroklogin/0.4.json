@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Providing login screens for your Grok apps made easy.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/megrok.login", 
+  "info": {
+    "Author:": "Uli Fouquet and the Zope Community", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/megrok.login", 
+    "Keywords:": "zope3 zope login grok security PAU", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ulif, jw"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Providing login screens for your Grok apps made easy.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "836c38b042f97c0a27c3e5ef046b5208", 
+  "source_uri": "https://pypi.python.org/packages/source/m/megrok.login/megrok.login-0.4.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A statsd service and client in Python + gevent", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/phensley/gstatsd", 
+  "info": {
+    "Author:": "Patrick Hensley", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/phensley/gstatsd", 
+    "Keywords:": "stats,graphite,statsd,gevent", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "phensley"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A statsd service and client in Python + gevent", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4fa0d23a4e3106b3106239cdfefe4c44", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gstatsd/gstatsd-0.5.tar.gz"
+}

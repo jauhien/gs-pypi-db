@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line tools useful to manipulate GPX files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lichota.pl/blog/topics/gpxtools", 
+  "info": {
+    "Author:": "Wojciech Lichota", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Home Page:": "http://lichota.pl/blog/topics/gpxtools", 
+    "Keywords:": "GPS GPX SRTM", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sargo"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Command line tools useful to manipulate GPX files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "56c0badbd2d4332c1511fdf6c1f4ea62", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gpxtools/gpxtools-0.2.1.tar.gz"
+}

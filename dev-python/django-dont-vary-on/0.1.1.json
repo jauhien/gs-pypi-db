@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for Django to give you more control over Djangos caching, and improving you cache hits and performance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Rory McCann", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ebel"
+  }, 
+  "license": "", 
+  "longdescription": "Library for Django to give you more control over Djangos caching, and improving you cache hits and performance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49f0d2726919302fd93982cad7c10438", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dont-vary-on/django-dont-vary-on-0.1.1.tar.gz"
+}

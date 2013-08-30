@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "command line tool for spoj.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nyamba/spoj", 
+  "info": {
+    "Author:": "Nyambayar Turbat", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Customer Service"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nyamba/spoj", 
+    "Keywords:": "spoj spoj.com algorithm", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nyamba"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "command line tool for spoj.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e2a8ceef14a3d5fc9f5774398f57663f", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spoj/spoj-0.0.20.tar.gz"
+}

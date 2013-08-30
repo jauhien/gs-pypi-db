@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for the JSON API of Suomen Verkkomaksut.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fastmonkeys/python-verkkomaksut", 
+  "info": {
+    "Author:": "Janne Vanhala", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fastmonkeys/python-verkkomaksut", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jpvanhal", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python wrapper for the JSON API of Suomen Verkkomaksut.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "22d81fa14a8ca5661c929485c101d256", 
+  "source_uri": "https://pypi.python.org/packages/source/v/verkkomaksut/verkkomaksut-0.2.0.tar.gz"
+}

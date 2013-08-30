@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Arbitrary precision correctly-rounded floating point arithmetic, via MPFR.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dickinsm/bigfloat", 
+  "info": {
+    "Author:": "Mark Dickinson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//bigfloat", 
+    "Home Page:": "http://bitbucket.org/dickinsm/bigfloat", 
+    "License:": "GNU Library or Lesser General Public License (LGPL)", 
+    "Package Index Maintainer:": "dickinsm", 
+    "Package Index Owner:": "dickinsm", 
+    "Platform:": "Linux,OS X"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Arbitrary precision correctly-rounded floating point arithmetic, via MPFR.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4384ec7aea0f8228185c9ea86c83f9a", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bigfloat/bigfloat-0.3.0a2.tar.gz"
+}

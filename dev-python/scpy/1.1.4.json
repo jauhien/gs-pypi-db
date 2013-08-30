@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FileDirectory syncing over scp", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://weaknweary.blogspot.com/2010/10/python-enhancement-to-scp.html", 
+  "info": {
+    "Author:": "Falmarri", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://weaknweary.blogspot.com/2010/10/python-enhancement-to-scp.html", 
+    "Keywords:": "scp sync autosync", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Falmarri"
+  }, 
+  "license": "", 
+  "longdescription": "FileDirectory syncing over scp", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a1e17937b7fde832694837ffafe23ae", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scpy/scpy-1.1.4.tar.gz"
+}

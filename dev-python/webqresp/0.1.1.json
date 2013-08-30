@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Web load test measuring how many concurrent users will get response to their actions quickly - within a second.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/denis-ryzhkov/webqresp", 
+  "info": {
+    "Author:": "Denis Ryzhkov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing", 
+        "Traffic Generation"
+      ]
+    }, 
+    "Home Page:": "https://github.com/denis-ryzhkov/webqresp", 
+    "License:": "MIT", 
+    "Package Index Owner:": "denisr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Web load test measuring how many concurrent users will get response to their actions quickly - within a second.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f96da3413162a0e19fdd85c13472d0bb", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webqresp/webqresp-0.1.1.tar.gz"
+}

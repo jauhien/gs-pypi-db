@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A drop-in replacement for PHPs http_build_query() and parse_ini_file() functions... but for Python -)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://danielquinn.org/projects/software.html", 
+  "info": {
+    "Author:": "Daniel Quinn", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://danielquinn.org/projects/php-1.0.py.gz", 
+    "Home Page:": "http://danielquinn.org/projects/software.html", 
+    "Keywords:": "PHP, http_build_query, parse_ini_file, ini", 
+    "License:": "GPL-3", 
+    "Maintainer:": "Daniel Quinn", 
+    "Package Index Owner:": "searchingfortao"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "A drop-in replacement for PHPs http_build_query() and parse_ini_file() functions... but for Python -)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cee5e8dd6505c3520aa2a2198f42efa8", 
+  "source_uri": "http://danielquinn.org/projects/php-1.0.py.gz"
+}

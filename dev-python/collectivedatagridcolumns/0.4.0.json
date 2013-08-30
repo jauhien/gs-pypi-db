@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Additional columns for Plone and DataGridField", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.datagridcolumns", 
+  "info": {
+    "Author:": "RedTurtle Technology", 
+    "Bug Tracker:": "https://github.com/RedTurtle/collective.datagridcolumns/issues/", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.datagridcolumns", 
+    "Keywords:": "plonegov plone datagridfield archetypes jqueryui widget", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "micecchi", 
+    "Package Index Owner:": "keul, massimo, micecchi"
+  }, 
+  "license": "", 
+  "longdescription": "Additional columns for Plone and DataGridField", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "729d536f869a5fb161f53e0a8b66c85d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.datagridcolumns/collective.datagridcolumns-0.4.0.zip"
+}

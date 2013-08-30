@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A decorator to generate and cache html snippets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-awesome-snippets.rtfd.org", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Home Page:": "http://django-awesome-snippets.rtfd.org", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gawel"
+  }, 
+  "license": "", 
+  "longdescription": "A decorator to generate and cache html snippets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1f4bef5fe792486987c09cbd74890bc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-awesome-snippets/django-awesome-snippets-0.4.tar.gz"
+}

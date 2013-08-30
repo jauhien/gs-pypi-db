@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The microsite creation product for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective-lineage", 
+  "info": {
+    "Author:": "Six Feet Up, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective-lineage", 
+    "Keywords:": "plone lineage", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "lucielejard", 
+    "Package Index Owner:": "sixfeetup, claytron, lucielejard"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "The microsite creation product for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae9881b5fbe218c0d47b1ba4a1b79360", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.lineage/collective.lineage-1.1.zip"
+}

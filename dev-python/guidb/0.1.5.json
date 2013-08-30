@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Very simple parallel database based on leveldb and eromq.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://guillemborrell.es", 
+  "info": {
+    "Author:": "Guillem Borrell", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://guillemborrell.es", 
+    "Keywords:": "parallel database", 
+    "License:": "BSD", 
+    "Package Index Owner:": "guillemborrell"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Very simple parallel database based on leveldb and eromq.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ad1c27408eeb54ae711b8428cc07293", 
+  "source_uri": "https://pypi.python.org/packages/source/g/guidb/guidb-0.1.5.tar.gz"
+}

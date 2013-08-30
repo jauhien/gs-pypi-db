@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django-build provides a management command build2s3 which tar and gips the source code and stores it in s3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://oppian.com/labs/django-build/", 
+  "info": {
+    "Author:": "Oppian", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://oppian.com/labs/django-build/", 
+    "Keywords:": "django s3 build", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dalore"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "django-build provides a management command build2s3 which tar and gips the source code and stores it in s3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c4f731b42ab0d898f5bf84a2f586dd75", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-build/django-build-0.2.zip"
+}

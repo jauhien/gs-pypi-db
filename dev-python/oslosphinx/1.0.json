@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenStack Sphinx Extensions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.openstack.org/", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Documentation"
+      ]
+    }, 
+    "Home Page:": "http://www.openstack.org/", 
+    "Package Index Owner:": "openstackci, sdirector"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "OpenStack Sphinx Extensions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1db31018f62aa17ea8d4aa1ebe1952be", 
+  "source_uri": "https://pypi.python.org/packages/source/o/oslo.sphinx/oslo.sphinx-1.0.tar.gz"
+}

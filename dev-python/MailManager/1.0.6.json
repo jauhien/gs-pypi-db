@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python library for sending emails easily through SMTP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rfc83/mailmanager-python", 
+  "info": {
+    "Author:": "Rodrigo Fuentealba", 
+    "Home Page:": "http://github.com/rfc83/mailmanager-python", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rfc83"
+  }, 
+  "license": "", 
+  "longdescription": "A Python library for sending emails easily through SMTP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f6431f6b7c89dbbfb452d65b8903e778", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MailManager/MailManager-1.0.6.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Get Paid payment processor for pagseguro", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.plonegetpaid.com/", 
+  "info": {
+    "Author:": "Get Paid Development Team and Cooperativa Inverta", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.plonegetpaid.com/", 
+    "Keywords:": "getpaid processor pagseguro", 
+    "License:": "ZPL2.1", 
+    "Package Index Maintainer:": "lucielejard", 
+    "Package Index Owner:": "rafaelrocha, lucmult"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Get Paid payment processor for pagseguro", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "83b7a35c1772fa01ab961745bc5f0fdf", 
+  "source_uri": "https://pypi.python.org/packages/source/g/getpaid.pagseguro/getpaid.pagseguro-0.2.tar.gz"
+}

@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django json field behaves as a model instance and supports seamless inline editing in Django admin.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/liokm/django-submodel", 
+  "info": {
+    "Author:": "Li Meng", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/liokm/django-submodel", 
+    "License:": "MIT", 
+    "Package Index Owner:": "liokm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django json field behaves as a model instance and supports seamless inline editing in Django admin.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b52f3eb2ecc23055b40e443ddcd308cf", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-submodel/django-submodel-0.1.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "find and replace command line utility", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Mark Gemmill", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Keywords:": "fur find replace", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "mgemmill"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "find and replace command line utility", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d3bc08f3d630022a84825da3a5d4b858", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fur/fur-0.1a3.tar.gz"
+}

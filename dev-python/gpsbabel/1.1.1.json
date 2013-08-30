@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for GPSBabel project", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/python-gpsbabel/", 
+  "info": {
+    "Author:": "Michael Pedersen", 
+    "Home Page:": "http://code.google.com/p/python-gpsbabel/", 
+    "Package Index Owner:": "pedersen"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper for GPSBabel project", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47cca632d38555b1e0a5b92cea6c6c37", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gpsbabel/gpsbabel-1.1.1.tar.gz"
+}

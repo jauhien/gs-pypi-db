@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds an SPF authoriation extension to python-slimta.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://slimta.org/", 
+  "info": {
+    "Author:": "Ian Good", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Mail Transport Agents"
+      ]
+    }, 
+    "Home Page:": "http://slimta.org/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "icgood"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Adds an SPF authoriation extension to python-slimta.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cdc4c688e09261a5511692b504184c4c", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-slimta-spf/python-slimta-spf-0.1.1.tar.gz"
+}

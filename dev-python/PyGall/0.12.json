@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Image gallery built with Pyramid web framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gitorious.org/PyGall", 
+  "info": {
+    "Author:": "Bruno Binet", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pylons"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://gitorious.org/PyGall", 
+    "Keywords:": "web wsgi pylons pyramid image photo web gallery", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bbinet"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Image gallery built with Pyramid web framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a954286fe1495b2a4042380b8c9c06aa", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyGall/PyGall-0.12.tar.gz"
+}

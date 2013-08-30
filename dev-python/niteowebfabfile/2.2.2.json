@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A bunch of Fabric commands we use all the time.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.niteoweb.com", 
+  "info": {
+    "Author:": "NiteoWeb Ltd.", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.niteoweb.com", 
+    "Keywords:": "Fabric Python", 
+    "License:": "BSD", 
+    "Package Index Owner:": "zupo"
+  }, 
+  "license": "", 
+  "longdescription": "A bunch of Fabric commands we use all the time.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "51f90e1cbafb885ec1494048623dc4b3", 
+  "source_uri": "https://pypi.python.org/packages/source/n/niteoweb.fabfile/niteoweb.fabfile-2.2.2.zip"
+}

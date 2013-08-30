@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python port of rsync. Should help to synchronie folders.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/vds2212/rsync.py", 
+  "info": {
+    "Author:": "Vivian De Smedt", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/vds2212/rsync.py/downloads/rsync-2.1.zip", 
+    "Home Page:": "https://bitbucket.org/vds2212/rsync.py", 
+    "Keywords:": "rsync,windows,win32,backup,synchronize,copy,xcopy", 
+    "License:": "Python", 
+    "Package Index Owner:": "vds2212", 
+    "Platform:": "windows,linux"
+  }, 
+  "license": "", 
+  "longdescription": "Python port of rsync. Should help to synchronie folders.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://bitbucket.org/vds2212/rsync.py/downloads/rsync-2.1.zip"
+}

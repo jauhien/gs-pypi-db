@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A LMTP server class", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/moggers87/lmtpd", 
+  "info": {
+    "Author:": "Matt Molyneaux", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/lmtpd", 
+    "Home Page:": "https://github.com/moggers87/lmtpd", 
+    "License:": "MIT", 
+    "Package Index Owner:": "moggers87"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A LMTP server class", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3fbe8e8fed427b561594a363d7986dcd", 
+  "source_uri": "http://pypi.python.org/pypi/lmtpd"
+}

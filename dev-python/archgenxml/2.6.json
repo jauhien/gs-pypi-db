@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "UML to code generator for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/archgenxml", 
+  "info": {
+    "Author:": "Phil Auersperg, Jens Klein, et al", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/archgenxml", 
+    "Keywords:": "zope plone UML generator", 
+    "License:": "GPL", 
+    "Package Index Owner:": "reinout, jensens, rnix, vincentfretin, tdesvenain"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "UML to code generator for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a7aabf8a2e62bd7598c42e16e999f51", 
+  "source_uri": "https://pypi.python.org/packages/source/a/archgenxml/archgenxml-2.6.tar.gz"
+}

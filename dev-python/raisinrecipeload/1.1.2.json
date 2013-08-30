@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Buildout recipe for loading data into the Raisin data warehouse", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://big.crg.cat/services/grape", 
+  "info": {
+    "Author:": "Maik Roder", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Installation/Setup"
+      ]
+    }, 
+    "Home Page:": "http://big.crg.cat/services/grape", 
+    "Keywords:": "RNA-Seq pipeline ngs transcriptome bioinformatics ETL", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maikroeder"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Buildout recipe for loading data into the Raisin data warehouse", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fd5530a12a995f2582f09e0e66306e44", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raisin.recipe.load/raisin.recipe.load-1.1.2.zip"
+}

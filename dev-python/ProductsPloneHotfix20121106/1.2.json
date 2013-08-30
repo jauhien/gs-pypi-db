@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Various Plone hotfixes, 2012-11-06", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/plone", 
+  "info": {
+    "Author:": "Plone Security Team", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/plone", 
+    "Keywords:": "plone security hotfix patch", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vangheem, davisagli, evilbungle, MatthewWilkes"
+  }, 
+  "license": "", 
+  "longdescription": "Various Plone hotfixes, 2012-11-06", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8dcfdbd0388dcf0a1e87f67daa006185", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneHotfix20121106/Products.PloneHotfix20121106-1.2.tar.gz"
+}

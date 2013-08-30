@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI application for the ope.publisher", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zope.app.wsgi", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zope.app.wsgi", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "kedder, baijum, J1m, ctheune, philikon, projekt01, srichter, fdrake, chrism, ignas, benji, mgedmin, ccomb, pcardune, chrisw, nadako, faassen, hathawsh, hannosch, icemac, achapman, gary, ulif, roymath, tlotze, jw, trollfot, agroszer, janjaapdriessen, menesis, jinty, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "WSGI application for the ope.publisher", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5cf346ac51886a88b476d47115a4a384", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zope.app.wsgi/zope.app.wsgi-4.0.0a4.zip"
+}

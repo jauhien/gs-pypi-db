@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django-debug-toolbar panel that shows you template rendering times for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/orf/django-debug-toolbar-template-timings", 
+  "info": {
+    "Author:": "Tom Forbes", 
+    "Home Page:": "https://github.com/orf/django-debug-toolbar-template-timings", 
+    "Package Index Owner:": "orf"
+  }, 
+  "license": "", 
+  "longdescription": "A django-debug-toolbar panel that shows you template rendering times for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cab4b6da88c6b3dc74e0aa70be2d40d0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-debug-toolbar-template-timings/django-debug-toolbar-template-timings-0.4.6.zip"
+}

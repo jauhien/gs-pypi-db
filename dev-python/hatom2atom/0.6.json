@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI proxy for transforming hAtom to Atom via hAtom2Atom.xsl.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lukearno.com/projects/hatom2atom", 
+  "info": {
+    "Author:": "Luke Arno", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Home Page:": "http://lukearno.com/projects/hatom2atom", 
+    "Keywords:": "xml html micorformats atom hatom wsgi proxy", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "luke"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "WSGI proxy for transforming hAtom to Atom via hAtom2Atom.xsl.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9cc5ec116a69d32fad0377e5f4b273aa", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hatom2atom/hatom2atom-0.6.tar.gz"
+}

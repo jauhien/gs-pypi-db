@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A json serialiation library for python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/jsonprop", 
+  "info": {
+    "Author:": "Dan Newcome", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/jsonprop", 
+    "Keywords:": "json serialization", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dnewcome"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A json serialiation library for python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b86ff1a2be312b39370c81c6b9875d9", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jsonprop/jsonprop-0.0.5.tar.gz"
+}

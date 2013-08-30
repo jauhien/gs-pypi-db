@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "BrowserMob proxy plugin for py.test.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/davehunt/pytest-browsermob-proxy", 
+  "info": {
+    "Author:": "Dave Hunt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 2.0 (MPL 2.0)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/davehunt/pytest-browsermob-proxy", 
+    "Keywords:": "py.test pytest browsermob proxy test mozilla", 
+    "License:": "Mozilla Public License 2.0 (MPL 2.0)", 
+    "Package Index Owner:": "davehunt"
+  }, 
+  "license": "Mozilla Public License 2.0 (MPL 2.0)", 
+  "longdescription": "BrowserMob proxy plugin for py.test.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fff8823913060a2610895371113b0b85", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-browsermob-proxy/pytest-browsermob-proxy-0.1.tar.gz"
+}

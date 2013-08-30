@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a command to easily create a standard Python package layout (i.e. package directory, README file, setup.py, etc.).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/python-package-template/", 
+  "info": {
+    "Author:": "Gary Wilson Jr.", 
+    "Home Page:": "http://pypi.python.org/pypi/python-package-template/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "garywilson"
+  }, 
+  "license": "", 
+  "longdescription": "Provides a command to easily create a standard Python package layout (i.e. package directory, README file, setup.py, etc.).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c79b3242909b0bc5a34a6d591aee0e17", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-package-template/python-package-template-0.8.1.tar.gz"
+}

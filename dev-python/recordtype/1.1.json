@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Similar to namedtuple, but instances are mutable.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ericvsmith/recordtype", 
+  "info": {
+    "Author:": "Eric V. Smith", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ericvsmith/recordtype", 
+    "License:": "Apache License Version 2.0", 
+    "Package Index Owner:": "ericvsmith"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Similar to namedtuple, but instances are mutable.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8133256b9c62baa2019ec16db3b14115", 
+  "source_uri": "https://pypi.python.org/packages/source/r/recordtype/recordtype-1.1.tar.gz"
+}

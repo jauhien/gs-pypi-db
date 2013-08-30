@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cassandra CQL 3 Object Mapper for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cqlengine/cqlengine", 
+  "info": {
+    "Author:": "Blake Eggleston, Jon Haddad", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/cqlengine/cqlengine", 
+    "Keywords:": "cassandra,cql,orm", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thobbs, rustyrazorblade, bdeggleston"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Cassandra CQL 3 Object Mapper for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1138e88b7b71f05586176c82050f3269", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cqlengine/cqlengine-0.7.1.tar.gz"
+}

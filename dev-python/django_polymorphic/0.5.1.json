@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Seamless Polymorphic Inheritance for Django Models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/chrisglass/django_polymorphic", 
+  "info": {
+    "Author:": "Christopher Glass", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/chrisglass/django_polymorphic", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "vdboor", 
+    "Package Index Owner:": "vdboor, chrisglass"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Seamless Polymorphic Inheritance for Django Models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "243c35ab4c8e22768936b7acedd84c4d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_polymorphic/django_polymorphic-0.5.1.tar.gz"
+}

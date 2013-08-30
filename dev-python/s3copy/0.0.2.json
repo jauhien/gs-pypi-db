@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Multi-threaded, fault-tolerant, bucket-to-bucket copy for s3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/S3Copy/", 
+  "info": {
+    "Author:": "Donald \"Max\" Ziff", 
+    "Home Page:": "http://pypi.python.org/pypi/S3Copy/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "vertipub"
+  }, 
+  "license": "", 
+  "longdescription": "Multi-threaded, fault-tolerant, bucket-to-bucket copy for s3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23cafbbb1a4d7e51cb1a90c7b75865f1", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s3copy/s3copy-0.0.2.tar.gz"
+}

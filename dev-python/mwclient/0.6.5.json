@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MediaWiki API client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/mwclient/", 
+  "info": {
+    "Author:": "Baishampayan Ghose", 
+    "Home Page:": "http://sourceforge.net/projects/mwclient/", 
+    "Keywords:": "wikipedia,mediawiki", 
+    "License:": "MIT License", 
+    "Package Index Maintainer:": "yuvipanda", 
+    "Package Index Owner:": "danmichaelo, baishampayan, yuvipanda"
+  }, 
+  "license": "", 
+  "longdescription": "MediaWiki API client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e09b17f63ad40ddc7fc71013690824d0", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mwclient/mwclient-0.6.5.tar.gz"
+}

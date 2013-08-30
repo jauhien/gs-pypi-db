@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Send serialied bitcoin transaction from commandline to bitcoin network", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/slush0/sendtx", 
+  "info": {
+    "Author:": "slush", 
+    "Home Page:": "https://github.com/slush0/sendtx", 
+    "License:": "public domain", 
+    "Package Index Owner:": "slush"
+  }, 
+  "license": "", 
+  "longdescription": "Send serialied bitcoin transaction from commandline to bitcoin network", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b902d10544bddb3c1068a40653bbe77", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sendtx/sendtx-0.5.1.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple script to manage multiple language catalogs in a django project.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/oscarcp/django-modular-languages", 
+  "info": {
+    "Author:": "Oscar Carballal Prego", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/oscarcp/django-modular-languages", 
+    "Keywords:": "script manage language i18n catalog django project", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "oscarcp"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Simple script to manage multiple language catalogs in a django project.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "42c8dd16d82121ad696c68de7b5d649f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-modular-languages/django-modular-languages-0.5.tar.gz"
+}

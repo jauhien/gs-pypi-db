@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTTP proxying tools for WSGI apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonpaste.org/wsgiproxy/", 
+  "info": {
+    "Author:": "Ian Bicking", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "http://pythonpaste.org/wsgiproxy/", 
+    "Keywords:": "wsgi paste http proxy", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "whitmo", 
+    "Package Index Owner:": "ianb, whitmo"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "HTTP proxying tools for WSGI apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b553c2f9b66a1816fcb1681e3f70ba15", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WSGIProxy/WSGIProxy-0.2.2.tar.gz"
+}

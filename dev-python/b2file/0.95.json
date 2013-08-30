@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read and write bip2-compressed files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/nvawda/bz2file", 
+  "info": {
+    "Author:": "Nadeem Vawda", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Compression"
+      ]
+    }, 
+    "Home Page:": "https://github.com/nvawda/bz2file", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "nvawda"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Read and write bip2-compressed files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8f3ddce80ea09da051fa19fb09ee376e", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bz2file/bz2file-0.95.tar.gz"
+}

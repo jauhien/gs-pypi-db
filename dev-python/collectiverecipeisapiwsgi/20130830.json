@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ISAPI-WSGI wrapper based on buildout configuration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "License:": "ZPL", 
+    "Package Index Owner:": "optilude"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "ISAPI-WSGI wrapper based on buildout configuration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "637d932d1ecd77dfe37a0409d4cdcf50", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.isapiwsgi/collective.recipe.isapiwsgi-1.0b1.tar.gz"
+}

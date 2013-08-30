@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django Utils is a module with some convenient utilities not included with the standard Django install", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/WoLpH/django-utils", 
+  "info": {
+    "Author:": "Rick van Hattem", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-utils2", 
+    "Home Page:": "https://github.com/WoLpH/django-utils", 
+    "License:": "BSD", 
+    "Package Index Owner:": "WoLpH"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django Utils is a module with some convenient utilities not included with the standard Django install", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fc6b6d1e7ff7107eca050475c01aaac", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-utils2/django-utils2-1.1.tar.gz"
+}

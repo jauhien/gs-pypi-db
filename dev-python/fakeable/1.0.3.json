@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "enables seamless replacement of real objects with fake objects during unit testing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sleepydragonsw/fakeable", 
+  "info": {
+    "Author:": "Denver Coneybeare", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/sleepydragonsw/fakeable", 
+    "Keywords:": "fake,faking,mock,mocking", 
+    "License:": "Apache License version 2.0", 
+    "Package Index Owner:": "Denver.Coneybeare"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "enables seamless replacement of real objects with fake objects during unit testing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb1111b6ce5669da757d559d3fec3e00", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fakeable/fakeable-1.0.3.tar.gz"
+}

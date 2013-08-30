@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple, hierarchical configuration able to read configuration    values from file, command line options, and environment variables.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jeremy Fincher", 
+    "Keywords:": "hierarchical configuration options", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jemfinch"
+  }, 
+  "license": "", 
+  "longdescription": "Simple, hierarchical configuration able to read configuration    values from file, command line options, and environment variables.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db891d63c83163834952fa9b10589674", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hieropt/hieropt-0.3.tar.gz"
+}

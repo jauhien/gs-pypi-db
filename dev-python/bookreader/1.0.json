@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django book reading application that utilies Djatoka and a DSpace repository to present browseable views of scanned books.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://library.tamu.edu", 
+  "info": {
+    "Author:": "Texas A&M University Library", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Education"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://library.tamu.edu", 
+    "Keywords:": "djatoka dspace", 
+    "Package Index Owner:": "benliles, library.tamu.edu"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A Django book reading application that utilies Djatoka and a DSpace repository to present browseable views of scanned books.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23a7b28fef9f0c86821cb9ac38d75ce7", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bookreader/bookreader-1.0.tar.gz"
+}

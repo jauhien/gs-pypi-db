@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mailchimp wrapper for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/piquadrat/django-mailchimp", 
+  "info": {
+    "Author:": "Jonas Obrist et al.", 
+    "Home Page:": "http://github.com/piquadrat/django-mailchimp", 
+    "Package Index Maintainer:": "piquadrat", 
+    "Package Index Owner:": "ojii, piquadrat"
+  }, 
+  "license": "", 
+  "longdescription": "Mailchimp wrapper for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f99453b66bfda991691d2b1a91858c53", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mailchimp/django-mailchimp-0.1.30.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for add text watermarks to images using PIL, support sorl-thumbnail integration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zeus/watermarker", 
+  "info": {
+    "Author:": "Pavel Zhukov", 
+    "Home Page:": "http://bitbucket.org/zeus/watermarker", 
+    "Keywords:": "watermark,library", 
+    "License:": "GPL", 
+    "Package Index Owner:": "zeus"
+  }, 
+  "license": "", 
+  "longdescription": "Library for add text watermarks to images using PIL, support sorl-thumbnail integration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d1717462c9bd29464983babd2f0c43bb", 
+  "source_uri": "https://pypi.python.org/packages/source/w/watermarker/watermarker-1.1.tar.gz"
+}

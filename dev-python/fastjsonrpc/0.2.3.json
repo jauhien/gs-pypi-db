@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for writing asynchronous JSON-RPC servers and clients in Python, using Twisted.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tadeas/fastjsonrpc", 
+  "info": {
+    "Author:": "Tadeas Moravec", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tadeas/fastjsonrpc", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Owner:": "tmoravec"
+  }, 
+  "license": "", 
+  "longdescription": "A library for writing asynchronous JSON-RPC servers and clients in Python, using Twisted.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5d1a1cff6ac65806e0f556853cb02af3", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fastjsonrpc/fastjsonrpc-0.2.3.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add an image gallery to your Kotti site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/disko/kotti_gallery", 
+  "info": {
+    "Author:": "Andreas Kaiser", 
+    "Categories": {
+      "Framework": [
+        "Pylons"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "https://github.com/disko/kotti_gallery", 
+    "Keywords:": "image gallery bootstrap kotti cms pylons pyramid", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "disko"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "Add an image gallery to your Kotti site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "20e2e51698ac07041e82dfb20d7b7eb7", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kotti_gallery/kotti_gallery-0.2.2.tar.gz"
+}

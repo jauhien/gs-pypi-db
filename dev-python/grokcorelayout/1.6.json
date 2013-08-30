@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A layout component package for ope3 and Grok.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://grok.zope.org", 
+  "info": {
+    "Author:": "Grok Team", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://grok.zope.org", 
+    "Keywords:": "grok layout zope3 pagelet theming", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "janjaapdriessen, thefunny42, jw"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A layout component package for ope3 and Grok.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf57d8f61670d31eb1d6134eb907eb7b", 
+  "source_uri": "https://pypi.python.org/packages/source/g/grokcore.layout/grokcore.layout-1.6.tar.gz"
+}

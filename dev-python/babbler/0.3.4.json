@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Twitter bot that polls an RSS feed and posts its entries as tweets, with auto-generated hashtags. For extra mischief, replies to the bot are responded to using a basic Elia implementation.  After installing, the babbler command will be available which you can use to run the bot. Data will be stored in the current directory.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/stephenmcd/babbler/", 
+  "info": {
+    "Author:": "Stephen McDonald", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/stephenmcd/babbler/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "stephenmcd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Twitter bot that polls an RSS feed and posts its entries as tweets, with auto-generated hashtags. For extra mischief, replies to the bot are responded to using a basic Elia implementation.  After installing, the babbler command will be available which you can use to run the bot. Data will be stored in the current directory.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da6b0bbbfd25579bf6e9f44586ca0efb", 
+  "source_uri": "https://pypi.python.org/packages/source/b/babbler/babbler-0.3.4.tar.gz"
+}

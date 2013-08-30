@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display a nested Collage inside Collage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.Collage/addons/collective.collage.nested/", 
+  "info": {
+    "Author:": "Marcos F. Romero", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.Collage/addons/collective.collage.nested/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "marcosfromero"
+  }, 
+  "license": "", 
+  "longdescription": "Display a nested Collage inside Collage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "223b0482d8dd495fa715ae8c11ce87df", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.collage.nested/collective.collage.nested-1.0.zip"
+}

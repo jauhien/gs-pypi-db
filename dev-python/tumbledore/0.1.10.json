@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple, barebones tumblelog implementation for your django site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sunlightlabs/django-tumbledore", 
+  "info": {
+    "Author:": "Dan Drinkard", 
+    "Home Page:": "https://github.com/sunlightlabs/django-tumbledore", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dandrinkard", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A simple, barebones tumblelog implementation for your django site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7b2357f8d3ad98e42bfff609e9f28f8c", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tumbledore/tumbledore-0.1.10.tar.gz"
+}

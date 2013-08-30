@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rich client bindings for Reddwarf REST API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/stackforge/python-reddwarfclient", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/stackforge/python-reddwarfclient", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "Tim.Simpson, sdirector"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Rich client bindings for Reddwarf REST API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "409515f76835909107eaf4e15c2890a4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-reddwarfclient/python-reddwarfclient-0.1.2.tar.gz"
+}

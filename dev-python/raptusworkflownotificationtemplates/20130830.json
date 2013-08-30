@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides a configlet to write notification templates ttw", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://raptus.com", 
+  "info": {
+    "Author:": "Raptus AG", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://raptus.com", 
+    "Keywords:": "plone notification", 
+    "License:": "GPL", 
+    "Package Index Owner:": "simu, raptus"
+  }, 
+  "license": "", 
+  "longdescription": "Provides a configlet to write notification templates ttw", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ef558c6b77d4a75e53af4d2b4c139958", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.workflownotificationtemplates/raptus.workflownotificationtemplates-1.0b1.tar.gz"
+}

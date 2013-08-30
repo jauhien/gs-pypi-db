@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Request flagging engine inspired by django-waffle", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ConsumerAffairs/django-affect", 
+  "info": {
+    "Author:": "Jeremy Sattefield", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ConsumerAffairs/django-affect", 
+    "Package Index Owner:": "buddylindsey, jsatt"
+  }, 
+  "license": "", 
+  "longdescription": "Request flagging engine inspired by django-waffle", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4decf1d9b035910d0406d4a72f826620", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-affect/django-affect-1.0.0.tar.gz"
+}

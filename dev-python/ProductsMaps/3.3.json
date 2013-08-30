@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple, easy to use Plone integration with Google Maps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/maps", 
+  "info": {
+    "Author:": "Florian Schulze", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/maps", 
+    "Keywords:": "Google Maps Zope Plone", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "pbauer, rpatterson", 
+    "Package Index Owner:": "collective, pbauer, hannosch, fschulze, rpatterson, maurizio.lupo, ggozad"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A simple, easy to use Plone integration with Google Maps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c818583efc85b0bff6e0f6de57c805cf", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.Maps/Products.Maps-3.3.zip"
+}

@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Paste compatible SSL WSGI server built on M2Crypto and twisted.web2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://ideelabor.ee/opensource", 
+  "info": {
+    "Author:": "Martin Paljak", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Server"
+      ]
+    }, 
+    "Home Page:": "http://ideelabor.ee/opensource", 
+    "Keywords:": "wsgi https paste twisted ssl", 
+    "License:": "GPL", 
+    "Package Index Owner:": "martinpaljak"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Paste compatible SSL WSGI server built on M2Crypto and twisted.web2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d5edf0af94eee3d2c051e0e85797215", 
+  "source_uri": "https://pypi.python.org/packages/source/m/m2twisted/m2twisted-0.2dev-r61.tar.gz"
+}

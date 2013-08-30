@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Change plone objects ownership", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/plone.app.changeownership", 
+  "info": {
+    "Author:": "Mustapha Benali", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/plone.app.changeownership", 
+    "Keywords:": "plone change ownership", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "fourdigits, keul", 
+    "Package Index Owner:": "mustap, fourdigits, keul, jaroel"
+  }, 
+  "license": "", 
+  "longdescription": "Change plone objects ownership", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d019fc8878dd59d6784ee52297aa8779", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.changeownership/plone.app.changeownership-0.4.zip"
+}

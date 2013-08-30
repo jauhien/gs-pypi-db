@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python utilities to EFL development", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.enlightenment.org/", 
+  "info": {
+    "Author:": "Gustavo Sverzut Barbieri", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "User Interfaces"
+      ]
+    }, 
+    "Home Page:": "http://www.enlightenment.org/", 
+    "Keywords:": "enlightenment graphics raster evas canvas utilities efl", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gsbarbieri"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python utilities to EFL development", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b81c82fa95bb85775786a36bcec4714", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-efl-utils/python-efl-utils-0.1.0.tar.gz"
+}

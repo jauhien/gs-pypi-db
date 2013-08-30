@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "half-baked support for adding --xml support to POSIX commands", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/codedstructure/xmlcmd", 
+  "info": {
+    "Author:": "Ben Bass", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Unix Shell"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/codedstructure/xmlcmd", 
+    "Package Index Owner:": "bpb"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "half-baked support for adding --xml support to POSIX commands", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14d5608f8879e707d22d5f7e9293d626", 
+  "source_uri": "https://pypi.python.org/packages/source/x/xmlcmd/xmlcmd-0.1.2.tar.gz"
+}

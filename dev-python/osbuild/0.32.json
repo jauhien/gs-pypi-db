@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pull, build and test multiple source modules", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dnarvaez/osbuild", 
+  "info": {
+    "Author:": "Daniel Narvaez", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dnarvaez/osbuild", 
+    "Package Index Owner:": "dnarvaez"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Pull, build and test multiple source modules", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84265e8fe45f96933040c9117e8bba81", 
+  "source_uri": "https://pypi.python.org/packages/source/o/osbuild/osbuild-0.32.tar.gz"
+}

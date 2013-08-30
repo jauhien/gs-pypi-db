@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FLuiddb IMPorter - automates importing data into FluidDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fluidinfo/flimp", 
+  "info": {
+    "Author:": "Nicholas H.Tollervey", 
+    "Documentation:": "http://pythonhosted.org//flimp", 
+    "Home Page:": "http://github.com/fluidinfo/flimp", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ntoll"
+  }, 
+  "license": "", 
+  "longdescription": "FLuiddb IMPorter - automates importing data into FluidDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49cbd049f268f7f1321013e9813c6f4e", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flimp/flimp-0.7.alpha.0.tar.gz"
+}

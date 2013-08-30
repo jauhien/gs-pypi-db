@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sugar around Python generators and context managers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://infrae.com/products/silva", 
+  "info": {
+    "Author:": "Infrae", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://infrae.com/products/silva", 
+    "Keywords:": "comethod generator context manager", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thefunny42"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Sugar around Python generators and context managers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ce202c65398f075bf34af7f0dc49c52", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infrae.comethods/infrae.comethods-1.0.tar.gz"
+}

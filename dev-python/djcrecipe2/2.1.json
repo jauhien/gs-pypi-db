@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django buildout recipe", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/abstract-open-solutions/djc.recipe2", 
+  "info": {
+    "Author:": "Simone Deponti", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/abstract-open-solutions/djc.recipe2", 
+    "License:": "BSD", 
+    "Package Index Owner:": "simone.deponti"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django buildout recipe", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1aa7bb9fcaa5b1a436784d1e79485a9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djc.recipe2/djc.recipe2-2.1.zip"
+}

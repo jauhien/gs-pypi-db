@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Store implementation for RDFlib using Django models as its backend", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/publysher/rdflib-django", 
+  "info": {
+    "Author:": "Yigal Duppen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/publysher/rdflib-django", 
+    "Keywords:": "django rdf rdflib store", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Publysher"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Store implementation for RDFlib using Django models as its backend", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aaca7730507620a6d27241296f59cac1", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rdflib-django/rdflib-django-0.3.tar.gz"
+}

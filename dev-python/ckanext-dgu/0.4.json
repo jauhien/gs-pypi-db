@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CKAN DGU extensions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://knowledgeforge.net/ckan/", 
+  "info": {
+    "Author:": "Open Knowledge Foundation", 
+    "Home Page:": "http://knowledgeforge.net/ckan/", 
+    "Keywords:": "data packaging component tool server", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "wwaites"
+  }, 
+  "license": "", 
+  "longdescription": "CKAN DGU extensions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3b64241b4f84be84bc16139cfd4fb02", 
+  "source_uri": "https://pypi.python.org/packages/source/c/ckanext-dgu/ckanext-dgu-0.4.tar.gz"
+}

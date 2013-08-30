@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A patch to get PloneLanguageTools contentnegotiator work in virtual hosting environment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.app.example", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.app.example", 
+    "License:": "GPL", 
+    "Package Index Owner:": "erral"
+  }, 
+  "license": "", 
+  "longdescription": "A patch to get PloneLanguageTools contentnegotiator work in virtual hosting environment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2645fbfb2f918bb849bcc1e25ce8b982", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cs.plt.contentnegotiator/cs.plt.contentnegotiator-1.3.zip"
+}

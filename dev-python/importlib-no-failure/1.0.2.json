@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backport of importlib.import_module() from Python 2.7", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.python.org/view/sandbox/trunk/importlib/", 
+  "info": {
+    "Author:": "Andy McKay, Brett Cannon", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.0"
+      ]
+    }, 
+    "Home Page:": "http://svn.python.org/view/sandbox/trunk/importlib/", 
+    "Package Index Owner:": "marketplacedevs, andymckay"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Backport of importlib.import_module() from Python 2.7", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8d8885e0eabb63826b766db9153ebbe5", 
+  "source_uri": "https://pypi.python.org/packages/source/i/importlib-no-failure/importlib-no-failure-1.0.2.tar.gz"
+}

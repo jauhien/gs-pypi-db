@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Bindings for SILC Toolkit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.liquidx.net/pysilc/", 
+  "info": {
+    "Author:": "Alastair Tse", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://prdownload.berlios.de/python-silc/pysilc-0.4.tar.bz2", 
+    "Home Page:": "http://www.liquidx.net/pysilc/", 
+    "Keywords:": "python silc", 
+    "License:": "BSD", 
+    "Package Index Owner:": "liquidx", 
+    "Platform:": "Linux, BSD."
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python Bindings for SILC Toolkit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://prdownload.berlios.de/python-silc/pysilc-0.4.tar.bz2"
+}

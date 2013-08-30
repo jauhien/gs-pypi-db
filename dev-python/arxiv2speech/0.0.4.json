@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert the current abstracts listed on the arxiv to a set of audio files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dfm/arxiv2speech", 
+  "info": {
+    "Author:": "Dan Foreman-Mackey", 
+    "Home Page:": "https://github.com/dfm/arxiv2speech", 
+    "Package Index Owner:": "danfm"
+  }, 
+  "license": "", 
+  "longdescription": "Convert the current abstracts listed on the arxiv to a set of audio files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "de4264d6f30af9e21a1b994081b4f7d3", 
+  "source_uri": "https://pypi.python.org/packages/source/a/arxiv2speech/arxiv2speech-0.0.4.tar.gz"
+}

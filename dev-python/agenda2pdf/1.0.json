@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple script which generates a book agenda file in PDF format, ready to be printed or to be loaded on a ebook reader", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://inigo.katxi.org/devel/agenda2pdf/", 
+  "info": {
+    "Author:": "I\u00c3\u00b1igo Serna", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "http://agenda2pdf.googlecode.com/files/agenda2pdf-1.0.tar.gz", 
+    "Home Page:": "https://inigo.katxi.org/devel/agenda2pdf/", 
+    "Keywords:": "agenda, calendar, pdf, ebook, ereader", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "inigoserna"
+  }, 
+  "license": "", 
+  "longdescription": "Simple script which generates a book agenda file in PDF format, ready to be printed or to be loaded on a ebook reader", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0373564b9e8f6c276e282bb229e9a3be", 
+  "source_uri": "http://agenda2pdf.googlecode.com/files/agenda2pdf-1.0.tar.gz"
+}

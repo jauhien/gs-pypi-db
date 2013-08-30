@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python binding for the Tango control system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.tango-controls.org", 
+  "info": {
+    "Author:": "Tiago Coutinho & Ram\u00c3\u00b3n Su\u00c3\u00b1\u00c3\u00a9", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//PyTango", 
+    "Download URL:": "http://pypi.python.org/packages/source/P/PyTango", 
+    "Home Page:": "http://www.tango-controls.org", 
+    "Keywords:": "Tango,CORBA,binding", 
+    "Maintainer:": "Tiago Coutinho", 
+    "Package Index Owner:": "coutinhotiago, cpascual", 
+    "Platform:": "Linux\n, Windows"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A python binding for the Tango control system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "72ed02e7bd724987e0cd4195f8a1d991", 
+  "source_uri": "http://pypi.python.org/packages/source/P/PyTango"
+}

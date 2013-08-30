@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Splits stdin to several command lines. Compare with xargs which converts stdin to arguments of command lines.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/ypipe/", 
+  "info": {
+    "Author:": "Christian Kl\u00f6fver", 
+    "Download URL:": "https://ypipe.googlecode.com/files/ypipe-0.8.tar.gz", 
+    "Home Page:": "http://code.google.com/p/ypipe/", 
+    "License:": "GPL v2", 
+    "Package Index Owner:": "christian.k"
+  }, 
+  "license": "", 
+  "longdescription": "Splits stdin to several command lines. Compare with xargs which converts stdin to arguments of command lines.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://ypipe.googlecode.com/files/ypipe-0.8.tar.gz"
+}

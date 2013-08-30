@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GnuPG python wrapper.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.abnorm.org/projects/pygpg/", 
+  "info": {
+    "Author:": "Faust", 
+    "Bug Tracker:": "https://github.com/faust/pygpg/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://www.abnorm.org/projects/pygpg/#downloads", 
+    "Home Page:": "https://www.abnorm.org/projects/pygpg/", 
+    "Keywords:": "gpg GnuPG encrypt sign verify", 
+    "License:": "GNU General Public License v3 or later (GPLv3+)", 
+    "Package Index Owner:": "faust"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "GnuPG python wrapper.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c38c84d97ca5ce6780824409cc7aaae", 
+  "source_uri": "https://www.abnorm.org/projects/pygpg/#downloads"
+}

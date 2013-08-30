@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Managing lectures, seminars and other courses.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/eclecture/", 
+  "info": {
+    "Author:": "Mario Amelung and Michael Piotrowski", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/eclecture/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "amelung"
+  }, 
+  "license": "", 
+  "longdescription": "Managing lectures, seminars and other courses.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "430d1db0f046556ab6dab7fc85d80757", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ECLecture/Products.ECLecture-1.4.tar.gz"
+}

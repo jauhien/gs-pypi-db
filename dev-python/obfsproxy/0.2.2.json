@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pluggable transport proxy written in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "asn", 
+    "Keywords:": "tor,obfuscation,twisted", 
+    "License:": "BSD", 
+    "Package Index Owner:": "asn"
+  }, 
+  "license": "", 
+  "longdescription": "A pluggable transport proxy written in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "add14fff331b488eb39f6c29ec54cb68", 
+  "source_uri": "https://pypi.python.org/packages/source/o/obfsproxy/obfsproxy-0.2.2.tar.gz"
+}

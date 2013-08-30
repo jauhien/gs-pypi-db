@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simplified background worker for django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/weholt/django-hardworker", 
+  "info": {
+    "Author:": "Thomas Weholt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/weholt/django-hardworker", 
+    "Keywords:": "django background worker", 
+    "License:": "Modified BSD", 
+    "Package Index Owner:": "weholt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simplified background worker for django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "86f2a521661baf239381968f37f8d46a", 
+  "source_uri": "https://pypi.python.org/packages/source/D/Django-HardWorker/Django-HardWorker-0.1.0.zip"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parser for MT40 files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nfg.nl", 
+  "info": {
+    "Author:": "NFG Net Facilities Group BV", 
+    "Home Page:": "http://www.nfg.nl", 
+    "Keywords:": "swift mt940 banking", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "pjstevns"
+  }, 
+  "license": "", 
+  "longdescription": "Parser for MT40 files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84b23033eba1811dc599d6366ddff32f", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nfg.mt940/nfg.mt940-0.2dev.tar.gz"
+}

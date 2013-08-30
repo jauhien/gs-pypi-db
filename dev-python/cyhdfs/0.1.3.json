@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cython wrapper around libhdfs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/turnaev/cyhdfs", 
+  "info": {
+    "Author:": "Evgeny Turnaev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Cython"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/turnaev/cyhdfs", 
+    "Keywords:": "hdfs,cython,hadoop,libhdfs", 
+    "License:": "bsd", 
+    "Package Index Owner:": "Evgeny.Turnaev"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Cython wrapper around libhdfs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6d43a9588d3a88959d5f593b40c52a2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cyhdfs/cyhdfs-0.1.3.tar.gz"
+}

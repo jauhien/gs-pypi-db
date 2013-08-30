@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python-to-Redis mapper, see github.comhuang10ooredis for more information.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/huangz1990/ooredis", 
+  "info": {
+    "Author:": "huangz", 
+    "Categories": {
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/huangz1990/ooredis", 
+    "Package Index Owner:": "huangz"
+  }, 
+  "license": "", 
+  "longdescription": "A Python-to-Redis mapper, see github.comhuang10ooredis for more information.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4213f7a33b11252e0e383d8c56696390", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ooredis/ooredis-1.9.7.tar.gz"
+}

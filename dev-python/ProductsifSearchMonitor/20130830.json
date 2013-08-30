@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compatible with Plone 3+", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "sHINY", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "zope plone ifSearchMonitor", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jkidd"
+  }, 
+  "license": "", 
+  "longdescription": "Compatible with Plone 3+", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd1187f668c22db6693a76bfda86d4a2", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ifSearchMonitor/Products.ifSearchMonitor-0.4dev.tar.gz"
+}

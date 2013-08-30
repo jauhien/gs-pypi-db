@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe to create apache modwsgi file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/garbas/pyramid_recipe_modwsgi", 
+  "info": {
+    "Author:": "Rok Garbas", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/garbas/pyramid_recipe_modwsgi", 
+    "Keywords:": "apache pyramid wsgi buildout", 
+    "License:": "MIT", 
+    "Package Index Owner:": "garbas"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "c.buildout recipe to create apache modwsgi file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19e2a5dc6db6f1502a5316606469d5b7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid-recipe-modwsgi/pyramid-recipe-modwsgi-0.1.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to detect misspellings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lyda/misspell-check", 
+  "info": {
+    "Author:": "Kevin Lyda", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lyda/misspell-check", 
+    "Keywords:": "check code spelling spellcheck", 
+    "License:": "GNU General Public License v3", 
+    "Package Index Owner:": "lyda", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A tool to detect misspellings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d194d51a086fc97cc819a9f1b3d4c57f", 
+  "source_uri": "https://pypi.python.org/packages/source/m/misspellings/misspellings-2.0c.tar.gz"
+}

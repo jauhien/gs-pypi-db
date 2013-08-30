@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides utilities for making your own python package index.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/basket-weaver/", 
+  "info": {
+    "Author:": "Christopher Perkins, Chris McDonough", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/basket-weaver/", 
+    "Keywords:": "python eggs pypi index package gz tar zip", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "mrtopf", 
+    "Package Index Owner:": "percious, mrtopf"
+  }, 
+  "license": "", 
+  "longdescription": "Provides utilities for making your own python package index.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b3f26972da6cfbd99598b90d4311dfe", 
+  "source_uri": "https://pypi.python.org/packages/source/b/basketweaver/basketweaver-0.1.3-r0.tar.gz"
+}

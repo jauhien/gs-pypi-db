@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backport of the new select module with epoll and kqueue interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Christian Heimes", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/", 
+    "Keywords:": "select poll epoll kqueue", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "therve", 
+    "Package Index Owner:": "tiran", 
+    "Platform:": "Linux 2.6,BSD,Mac OS X"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Backport of the new select module with epoll and kqueue interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01b8929e7cfc4a8deb777b92e3115c15", 
+  "source_uri": "http://pypi.python.org/"
+}

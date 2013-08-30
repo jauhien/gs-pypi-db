@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Logmongo Log messages to a capped MongoDB collections", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/russellballestrini/logmongo", 
+  "info": {
+    "Author:": "Russell Ballestrini", 
+    "Home Page:": "https://bitbucket.org/russellballestrini/logmongo", 
+    "Keywords:": "Logmongo log dict messages mongo MongoDB", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "russellballestrini", 
+    "Platform:": "All"
+  }, 
+  "license": "", 
+  "longdescription": "Logmongo Log messages to a capped MongoDB collections", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b218bce9d2fe5533afc7fd101f4cf67", 
+  "source_uri": "https://pypi.python.org/packages/source/l/logmongo/logmongo-0.1.4.tar.gz"
+}

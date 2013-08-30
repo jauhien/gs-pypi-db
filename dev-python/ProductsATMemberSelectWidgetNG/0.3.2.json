@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An archetypes widget similar to ATReferenceBrowserWidget which allows you to select a members id or email from a popup search window. It can even be used without archetypes being installed in the site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/atmsw/", 
+  "info": {
+    "Author:": "Junyong Pan", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/atmsw/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "", 
+  "longdescription": "An archetypes widget similar to ATReferenceBrowserWidget which allows you to select a members id or email from a popup search window. It can even be used without archetypes being installed in the site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b4ccb1b822110267c6fe7c9d2ff99c80", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ATMemberSelectWidgetNG/Products.ATMemberSelectWidgetNG-0.3.2.tar.gz"
+}

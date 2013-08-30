@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "High performance asynchronous Python WSGI Web Server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://meinheld.org", 
+  "info": {
+    "Author:": "yutaka matsubara", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Server"
+      ]
+    }, 
+    "Home Page:": "http://meinheld.org", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mopemope", 
+    "Platform:": "Linux,BSD,Darwin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "High performance asynchronous Python WSGI Web Server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fce5cc8b62acce08a6cadec363109aa0", 
+  "source_uri": "https://pypi.python.org/packages/source/m/meinheld/meinheld-0.5.5.tar.gz"
+}

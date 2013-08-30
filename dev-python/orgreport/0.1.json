@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Format output in the Emacs org-mode format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.lix.polytechnique.fr/~schwander/orgreport", 
+  "info": {
+    "Author:": "Olivier Schwander", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Editors", 
+        "Emacs"
+      ]
+    }, 
+    "Home Page:": "http://www.lix.polytechnique.fr/~schwander/orgreport", 
+    "Keywords:": "emacs org-mode", 
+    "License:": "BSD", 
+    "Package Index Owner:": "iderrick"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Format output in the Emacs org-mode format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6733a38ac64602ace2c2b974f0b51418", 
+  "source_uri": "https://pypi.python.org/packages/source/o/orgreport/orgreport-0.1.tar.gz"
+}

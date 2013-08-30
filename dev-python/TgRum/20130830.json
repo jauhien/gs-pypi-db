@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Some helpers to integrate Rum nicely into TurboGears", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python-rum.org/", 
+  "info": {
+    "Author:": "Alberto Valverde Gonzalez, Michael Brickenstein", 
+    "Home Page:": "http://python-rum.org/", 
+    "Keywords:": "Turbogears Rum wsgi", 
+    "License:": "MIT", 
+    "Package Index Owner:": "albertovalverde, brickenstein"
+  }, 
+  "license": "", 
+  "longdescription": "Some helpers to integrate Rum nicely into TurboGears", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a2dcb6673634dbace87d01831b424d7", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TgRum/TgRum-0.3.2dev-20100628.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create a mutex file for use in simple scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gekitsuu/mutex", 
+  "info": {
+    "Author:": "Adam Glenn", 
+    "Home Page:": "https://github.com/gekitsuu/mutex", 
+    "Keywords:": "mutex filelock file lock", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Gekitsuu"
+  }, 
+  "license": "", 
+  "longdescription": "Create a mutex file for use in simple scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "80a0b7c941c3be55beabcc820f41cb8e", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scriptmutex/scriptmutex-0.2dev.tar.gz"
+}

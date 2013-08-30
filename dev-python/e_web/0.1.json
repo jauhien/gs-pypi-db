@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A light-weight WEB framework for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://opensvn.csie.org/traccgi/PumperWeb/wiki/ez_web", 
+  "info": {
+    "Author:": "Thinker K.F. Li", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://opensvn.csie.org/traccgi/PumperWeb/wiki/ez_web", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Thinker"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A light-weight WEB framework for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1920de2385d6b927544bd4372bbcd721", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ez_web/ez_web-0.1.tar.gz"
+}

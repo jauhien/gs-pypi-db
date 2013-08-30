@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Run custom python script directly with a Django command.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://gitcafe.com/yuexue/django_rundirect", 
+  "info": {
+    "Author:": "Lichun", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Django"
+      ]
+    }, 
+    "Home Page:": "https://gitcafe.com/yuexue/django_rundirect", 
+    "Keywords:": "django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Socrates.Lee"
+  }, 
+  "license": "", 
+  "longdescription": "Run custom python script directly with a Django command.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "13d8d7be04db6a26618e3f59682d0aa4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_rundirect/django_rundirect-0.1.tar.gz"
+}

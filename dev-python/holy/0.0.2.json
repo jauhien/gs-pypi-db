@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "POC Python AST to Ruby script transformer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Nima Johari", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Keywords:": "py2rb ast ruby POC", 
+    "License:": "MIT", 
+    "Package Index Owner:": "njoh"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "POC Python AST to Ruby script transformer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "843ccd662c14f676b1137099ec5f8b37", 
+  "source_uri": "https://pypi.python.org/packages/source/h/holy/holy-0.0.2.tar.gz"
+}

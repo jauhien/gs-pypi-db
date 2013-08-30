@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Repoe Sendmail", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Chris Rossi", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "chrism, chrisrossi, tseaver"
+  }, 
+  "license": "", 
+  "longdescription": "Repoe Sendmail", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "81d15f1f03cc67d6f56f2091c594ef57", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.sendmail/repoze.sendmail-4.1.tar.gz"
+}

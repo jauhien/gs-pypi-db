@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis Tools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://readthedocs.org/docs/retools/", 
+  "info": {
+    "Author:": "Ben Bangert", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://readthedocs.org/docs/retools/", 
+    "Keywords:": "cache redis queue lock", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bbangert"
+  }, 
+  "license": "", 
+  "longdescription": "Redis Tools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b95c13931664244c0f65273b5a5727b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/retools/retools-0.3.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trac xmlrpc library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fedorahosted.org/offtrac", 
+  "info": {
+    "Author:": "Jesse Keating", 
+    "Home Page:": "http://fedorahosted.org/offtrac", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "Trac xmlrpc library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7ac89e4b5024e949cbb87a3ac14f860c", 
+  "source_uri": "https://pypi.python.org/packages/source/o/offtrac/offtrac-0.0.4.tar.gz"
+}

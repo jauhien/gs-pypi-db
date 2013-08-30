@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "reduces startup and import times by maintaining a pool of python processes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gvalkov/python-module-launcher", 
+  "info": {
+    "Author:": "Georgi Valkov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/gvalkov/python-module-launcher", 
+    "Keywords:": "module launcher speedup prefork", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "gvalkov"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "reduces startup and import times by maintaining a pool of python processes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b57ce61e51fecb172d6bd41f4ede2ad3", 
+  "source_uri": "https://pypi.python.org/packages/source/m/module-launcher/module-launcher-0.1.0.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python logging handler that sends messages in GELF (Graylog Extended Log Format).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/severb/graypy", 
+  "info": {
+    "Author:": "Sever Banesiu", 
+    "Home Page:": "https://github.com/severb/graypy", 
+    "Keywords:": "logging gelf graylog2 graylog udp amqp", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "severb"
+  }, 
+  "license": "", 
+  "longdescription": "Python logging handler that sends messages in GELF (Graylog Extended Log Format).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "47431a8fab6800b3de766d8c715303fd", 
+  "source_uri": "https://pypi.python.org/packages/source/g/graypy/graypy-0.2.9.tar.gz"
+}

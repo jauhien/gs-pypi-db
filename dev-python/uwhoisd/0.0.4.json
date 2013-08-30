@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Universal domain WHOIS proxy server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kgaughan/uwhoisd/", 
+  "info": {
+    "Author:": "Keith Gaughan", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kgaughan/uwhoisd/", 
+    "Package Index Owner:": "kgaughan"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Universal domain WHOIS proxy server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "98ca92d973b0620140c146ea2c28cd46", 
+  "source_uri": "https://pypi.python.org/packages/source/u/uwhoisd/uwhoisd-0.0.4.tar.gz"
+}

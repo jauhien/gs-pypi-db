@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implements the Resource Owner Password Credentials Grant from Oauth v2.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/samalba/basic_oauth", 
+  "info": {
+    "Author:": "Sam Alba", 
+    "Home Page:": "http://github.com/samalba/basic_oauth", 
+    "Package Index Owner:": "shad"
+  }, 
+  "license": "", 
+  "longdescription": "Implements the Resource Owner Password Credentials Grant from Oauth v2.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f5534204902df1670a3dfa810bdd6cc6", 
+  "source_uri": "https://pypi.python.org/packages/source/b/basic_oauth/basic_oauth-0.1.5.tar.gz"
+}

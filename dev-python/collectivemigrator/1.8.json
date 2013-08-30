@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool and buildout recipes for opeplone content migration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.migrator", 
+  "info": {
+    "Author:": "Suresh V", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.migrator", 
+    "Keywords:": "buildout recipe zope plone content migration", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sureshvv"
+  }, 
+  "license": "", 
+  "longdescription": "Tool and buildout recipes for opeplone content migration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9ecbb3cc7f784488581073d491d80df", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.migrator/collective.migrator-1.8.tar.gz"
+}

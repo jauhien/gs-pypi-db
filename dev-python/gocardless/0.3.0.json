@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Python client library for the GoCardless API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://gocardless.com/docs/python/merchant_client_guide", 
+  "info": {
+    "Author:": "GoCardless", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://gocardless.com/docs/python/merchant_client_guide", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gocardless", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "The Python client library for the GoCardless API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "210e837cf5b79543ec79ee2f4220b14d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocardless/gocardless-0.3.0.tar.gz"
+}

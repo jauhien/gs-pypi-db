@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of base recipes for metadata extranction", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/alexamici/smithery", 
+  "info": {
+    "Author:": "Alessandro Amici", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/alexamici/smithery", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "alexamici"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A collection of base recipes for metadata extranction", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e51efeb7d2e67eb3028752d3421ba35c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/smithery.recipe.miners/smithery.recipe.miners-0.3.tar.gz"
+}

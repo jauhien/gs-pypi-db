@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Periscope is an analysis tool for production SQL databases. This module provides the API for Periscope to communicate with your Django app.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Harry Glaser, Tom O'Neill", 
+    "Package Index Owner:": "hglaser"
+  }, 
+  "license": "", 
+  "longdescription": "Periscope is an analysis tool for production SQL databases. This module provides the API for Periscope to communicate with your Django app.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "329eb8b481716990433127c5e2a31594", 
+  "source_uri": "https://pypi.python.org/packages/source/p/periscope_django/periscope_django-0.11.tar.gz"
+}

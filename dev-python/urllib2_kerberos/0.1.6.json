@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kerberos over HTTP NegotiateSPNEGO support for urllib2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/tolsen/urllib2_kerberos", 
+  "info": {
+    "Author:": "Tim Olsen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/tolsen/urllib2_kerberos", 
+    "Keywords:": "urllib2 kerberos http negotiate spnego", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "tolsen"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Kerberos over HTTP NegotiateSPNEGO support for urllib2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a22d5d243103e17ca0ccf64b51f54ec", 
+  "source_uri": "https://pypi.python.org/packages/source/u/urllib2_kerberos/urllib2_kerberos-0.1.6.tar.gz"
+}

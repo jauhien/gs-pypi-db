@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python ctypes wrapper around the SOFA astronomical library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pysofa/", 
+  "info": {
+    "Author:": "Fr\u00c3\u00a9d\u00c3\u00a9ric Grollier", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pysofa", 
+    "Home Page:": "http://code.google.com/p/pysofa/", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "stanlekub"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python ctypes wrapper around the SOFA astronomical library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "962be6439044b4ff666f735b2207aaa8", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysofa/pysofa-0.1.1.tar.gz"
+}

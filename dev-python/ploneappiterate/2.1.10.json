@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "check-outcheck-in staging for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.iterate", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.iterate", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "optilude, wichert, nouri, hannosch, esteele, evilbungle, davisagli"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "check-outcheck-in staging for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8bd270d8a3c9509e524a06e092a9b4c4", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.iterate/plone.app.iterate-2.1.10.zip"
+}

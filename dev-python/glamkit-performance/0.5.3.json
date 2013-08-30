@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A template tag to help with concurrent media serving from Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://glamkit.org/", 
+  "info": {
+    "Author:": "Thomas Ashelford", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://glamkit.org/", 
+    "Package Index Owner:": "ixc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A template tag to help with concurrent media serving from Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b039803ef22ed63e5f651d7c8b81d287", 
+  "source_uri": "https://pypi.python.org/packages/source/g/glamkit-performance/glamkit-performance-0.5.3.tar.gz"
+}

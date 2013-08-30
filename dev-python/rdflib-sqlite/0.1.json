@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "rdflib extension adding SQLite as back-end store", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/RDFLib/rdflib-sqlite", 
+  "info": {
+    "Author:": "Graham Higgins", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/RDFLib/rdflib-sqlite/zipball/master", 
+    "Home Page:": "http://github.com/RDFLib/rdflib-sqlite", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gromgull, gjhiggins", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "rdflib extension adding SQLite as back-end store", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "605f30845d23e78d92a83caf6618d77f", 
+  "source_uri": "https://github.com/RDFLib/rdflib-sqlite/zipball/master"
+}

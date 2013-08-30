@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Device Proxy. A reverse HTTP Proxy that can inspect and manipulate HTTP Headers before sending upstream.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/praekelt/device-proxy", 
+  "info": {
+    "Author:": "Praekelt Foundation", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "http://github.com/praekelt/device-proxy", 
+    "License:": "BSD", 
+    "Package Index Owner:": "smn"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Device Proxy. A reverse HTTP Proxy that can inspect and manipulate HTTP Headers before sending upstream.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c61c08859c5db5d8506ab551f7979f1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/device-proxy/device-proxy-0.1j.tar.gz"
+}

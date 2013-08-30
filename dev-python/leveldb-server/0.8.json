@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "KeyValue storage based on LevelDB with REST interface.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Anatolie Rotaru", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "ardevelop", 
+    "Platform:": "UNIX"
+  }, 
+  "license": "", 
+  "longdescription": "KeyValue storage based on LevelDB with REST interface.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5862e3dba235f77b6283b45340c706c", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leveldb-server/leveldb-server-0.8.tar.gz"
+}

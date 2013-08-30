@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django-sparkle is a Django application to make it easy to publish updates for your mac application using sparkle (intended for Django  1.5)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/shezi/django-sparkle-1.5", 
+  "info": {
+    "Author:": "Jason Emerick, Johannes Spielmann", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/shezi/django-sparkle-1.5", 
+    "License:": "BSD", 
+    "Package Index Owner:": "shezi"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django-sparkle is a Django application to make it easy to publish updates for your mac application using sparkle (intended for Django  1.5)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f59cfaded0f31f4005217a273312ad27", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sparkle-1.5/django-sparkle-1.5-0.2.tar.gz"
+}

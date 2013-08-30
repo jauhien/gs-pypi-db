@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for verifying YubiKey OTP tokens, both locally and through a Yubico web service.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/psagers/yubiotp", 
+  "info": {
+    "Author:": "Peter Sagerson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//YubiOTP", 
+    "Home Page:": "https://bitbucket.org/psagers/yubiotp", 
+    "License:": "BSD", 
+    "Package Index Owner:": "psagers"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A library for verifying YubiKey OTP tokens, both locally and through a Yubico web service.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "325a9bf999a0d00aa4cd04c25a7e397c", 
+  "source_uri": "https://pypi.python.org/packages/source/Y/YubiOTP/YubiOTP-0.2.0.tar.gz"
+}

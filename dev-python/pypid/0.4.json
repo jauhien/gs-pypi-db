@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A modular PID control library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blog.tremily.us/posts/pypid/", 
+  "info": {
+    "Author:": "W. Trevor King", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://git.tremily.us/?p=pypid.git;a=snapshot;h=v0.4;sf=tgz", 
+    "Home Page:": "http://blog.tremily.us/posts/pypid/", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "wking", 
+    "Platform:": "all"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A modular PID control library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "895748f8d13390950b4755a12b14fa2b", 
+  "source_uri": "http://git.tremily.us/?p=pypid.git;a=snapshot;h=v0.4;sf=tgz"
+}

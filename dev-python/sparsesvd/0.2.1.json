@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module that wraps SVDLIBC, a library for sparse Singular Value Decomposition.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/sparsesvd", 
+  "info": {
+    "Author:": "Radim Rehurek", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/sparsesvd", 
+    "Home Page:": "http://pypi.python.org/pypi/sparsesvd", 
+    "Keywords:": "Singular Value Decomposition,SVD,sparse SVD", 
+    "License:": "BSD", 
+    "Package Index Owner:": "piskvorky", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python module that wraps SVDLIBC, a library for sparse Singular Value Decomposition.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "96eb3b38895e916274e9d05d08cea8ef", 
+  "source_uri": "http://pypi.python.org/pypi/sparsesvd"
+}

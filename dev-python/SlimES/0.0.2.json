@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Thin Python connector for Elasticsearch.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/SlimES/", 
+  "info": {
+    "Author:": "Radu Gheorghe", 
+    "Home Page:": "http://pypi.python.org/pypi/SlimES/", 
+    "Keywords:": "Elasticsearch", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "radu.gheorghe"
+  }, 
+  "license": "", 
+  "longdescription": "Thin Python connector for Elasticsearch.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "72ccbe2764ded84d2f5b48d48e45580e", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SlimES/SlimES-0.0.2.tar.gz"
+}

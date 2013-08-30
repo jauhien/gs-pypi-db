@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for compiling and installing source distributions.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://git.erp5.org/gitweb/slapos.recipe.cmmi", 
+  "info": {
+    "Author:": "Nexedi", 
+    "Categories": {
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://git.erp5.org/gitweb/slapos.recipe.cmmi", 
+    "Keywords:": "development buildout recipe", 
+    "License:": "BSD", 
+    "Package Index Owner:": "cedric.dsm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "c.buildout recipe for compiling and installing source distributions.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7ef1bff9202b06bd8eefbc73f374528", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slapos.recipe.cmmi/slapos.recipe.cmmi-0.1.1.tar.gz"
+}

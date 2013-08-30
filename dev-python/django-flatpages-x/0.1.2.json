@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Some Basic extensions for django-contrib-flatpages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/chrisdev/django-flatpages-x", 
+  "info": {
+    "Author:": "Chris Clarke", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/chrisdev/django-flatpages-x", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chrisdev"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Some Basic extensions for django-contrib-flatpages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61246ed12158163285a9d3f3480d30fa", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-flatpages-x/django-flatpages-x-0.1.2.tar.gz"
+}

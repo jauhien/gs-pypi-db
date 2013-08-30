@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A decorator to memoie App Engine functions using the memcache", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/simple_gae_memoize", 
+  "info": {
+    "Author:": "Cesar Canassa", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/simple_gae_memoize", 
+    "Keywords:": "gae memcache memoize", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Cesar.Canassa"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A decorator to memoie App Engine functions using the memcache", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "29d4c3fc465c42b7e298bbd370955a47", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simple-gae-memoize/simple-gae-memoize-0.0.2.tar.gz"
+}

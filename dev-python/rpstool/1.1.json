@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple requests per second (rps) counter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ovkn/rpstool", 
+  "info": {
+    "Author:": "OVK", 
+    "Home Page:": "https://github.com/ovkn/rpstool", 
+    "Package Index Owner:": "ovkn"
+  }, 
+  "license": "", 
+  "longdescription": "A simple requests per second (rps) counter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7217eebaa0681ecae4477a0c5fa21644", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rpstool/rpstool-1.1.tar.gz"
+}

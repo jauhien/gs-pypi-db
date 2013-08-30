@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Execute shell commands and reuse the output in another part of the buildout.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.recipe.shelloutput", 
+  "info": {
+    "Author:": "j23d", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Download URL:": "https://svn.plone.org/svn/collective/buildout/collective.recipe.shelloutput", 
+    "Home Page:": "http://pypi.python.org/pypi/collective.recipe.shelloutput", 
+    "Keywords:": "shell recipe", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "j23d"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Execute shell commands and reuse the output in another part of the buildout.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2af0bb173c845f3710bacc1562d71dbf", 
+  "source_uri": "https://svn.plone.org/svn/collective/buildout/collective.recipe.shelloutput"
+}

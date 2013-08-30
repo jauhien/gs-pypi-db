@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python IPS patcher.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Devon Meunier", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "meunierd"
+  }, 
+  "license": "", 
+  "longdescription": "Python IPS patcher.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e259bf34056e64d2ebe345b2bbe597a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-ips/python-ips-2.0.tar.gz"
+}

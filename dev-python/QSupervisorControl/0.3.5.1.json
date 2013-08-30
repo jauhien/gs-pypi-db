@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The simples tray system that observe status of services managed with supervisor.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/rodrigopmatias/qsupervisorcontrol/downloads", 
+  "info": {
+    "Author:": "Rodrigo Pinheiro Matias", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "Qt"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "Portuguese (Brazilian)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/rodrigopmatias/qsupervisorcontrol/downloads", 
+    "Package Index Owner:": "rodrigopmatias"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "The simples tray system that observe status of services managed with supervisor.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "94b8fefac134ee887f05cc462458a197", 
+  "source_uri": "https://pypi.python.org/packages/source/Q/QSupervisorControl/QSupervisorControl-0.3.5.1.tar.gz"
+}

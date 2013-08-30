@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Moa - command-line workflows (in bioinformatics)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mfiers.github.com/Moa/", 
+  "info": {
+    "Author:": "Mark Fiers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Unix Shell"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://mfiers.github.com/Moa/", 
+    "Package Index Owner:": "MFiers"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Moa - command-line workflows (in bioinformatics)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1cdc7cb815ea5a501526eb477111c76c", 
+  "source_uri": "https://pypi.python.org/packages/source/m/moa/moa-0.11.19.tar.gz"
+}

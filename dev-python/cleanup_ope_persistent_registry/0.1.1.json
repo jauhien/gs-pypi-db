@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cleanup of keys leftover in ope component registries", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Godefroid Chapelle", 
+    "Package Index Owner:": "gotcha"
+  }, 
+  "license": "", 
+  "longdescription": "Cleanup of keys leftover in ope component registries", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8dacdeef5514576c397be4043fcd6757", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cleanup_zope_persistent_registry/cleanup_zope_persistent_registry-0.1.1.zip"
+}

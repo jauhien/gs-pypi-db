@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple python library that enables dynamic SLD creation and manipulation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/azavea/python-sld/", 
+  "info": {
+    "Author:": "David Zwarg", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//python-sld", 
+    "Home Page:": "http://github.com/azavea/python-sld/", 
+    "Keywords:": "ogc sld geo geoserver mapserver osgeo", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "dzwarg"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A simple python library that enables dynamic SLD creation and manipulation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6e37dcc07ef68ca485dad2bef626085", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-sld/python-sld-1.0.9.tar.gz"
+}

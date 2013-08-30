@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "urllib2 extension which permit multipart file upload", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://fabien.seisen.org/python/", 
+  "info": {
+    "Author:": "Fabien SEISEN", 
+    "Home Page:": "http://fabien.seisen.org/python/", 
+    "Package Index Owner:": "dakol"
+  }, 
+  "license": "", 
+  "longdescription": "urllib2 extension which permit multipart file upload", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea49686be64271cda360f9d40ec3d10a", 
+  "source_uri": "https://pypi.python.org/packages/source/u/urllib2_file/urllib2_file-0.2.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enhancements for the Django test command and testing utility code", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/brightinteractive/django-test-extras/", 
+  "info": {
+    "Author:": "Bright Interactive", 
+    "Home Page:": "http://github.com/brightinteractive/django-test-extras/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bright"
+  }, 
+  "license": "", 
+  "longdescription": "Enhancements for the Django test command and testing utility code", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "09f9ac33d183b3d9092453dfb1b41cf8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-test-extras/django-test-extras-1.0.11.tar.gz"
+}

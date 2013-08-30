@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ope 2Plone extension for SAML2 based Single Sign On identity, attribute and service providers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/dm.zope.saml2", 
+  "info": {
+    "Author:": "Dieter Maurer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/dm.zope.saml2", 
+    "Keywords:": "application development zope saml2 sso plone", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "dmaurer"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "ope 2Plone extension for SAML2 based Single Sign On identity, attribute and service providers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7033a8cacff0359900be7172f13dd0c7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dm.zope.saml2/dm.zope.saml2-2.0b5.tar.gz"
+}

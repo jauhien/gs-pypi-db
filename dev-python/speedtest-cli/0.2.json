@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line interface for testing internet bandwidth using speedtest.net", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sivel/speedtest-cli", 
+  "info": {
+    "Author:": "Matt Martz", 
+    "Home Page:": "https://github.com/sivel/speedtest-cli", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "sivel"
+  }, 
+  "license": "", 
+  "longdescription": "Command line interface for testing internet bandwidth using speedtest.net", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9fedff5ba3964184ce2fda4b836bb179", 
+  "source_uri": "https://pypi.python.org/packages/source/s/speedtest-cli/speedtest-cli-0.2.tar.gz"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TFY package for EXIFIPTCXMP tags management", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.ztfy.org/ztfy.imgtags", 
+  "info": {
+    "Author:": "Thierry Florac", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://hg.ztfy.org/ztfy.imgtags", 
+    "Keywords:": "ZTFY EXIF IPTC XMP", 
+    "License:": "zpl", 
+    "Package Index Owner:": "tflorac"
+  }, 
+  "license": "", 
+  "longdescription": "TFY package for EXIFIPTCXMP tags management", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4c7d524c9465b02d2d9c60efca8570ac", 
+  "source_uri": "https://pypi.python.org/packages/source/z/ztfy.imgtags/ztfy.imgtags-0.1.0.tar.gz"
+}

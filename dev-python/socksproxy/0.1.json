@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SOCKS45 proxy with SSH support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dcs/socksproxy/", 
+  "info": {
+    "Author:": "Dave St.Germain", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Proxy Servers"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dcs/socksproxy/", 
+    "Package Index Owner:": "dcs"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "SOCKS45 proxy with SSH support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "654251a8d5168fa425f88e30656e7e0c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/socksproxy/socksproxy-0.1.tar.gz"
+}

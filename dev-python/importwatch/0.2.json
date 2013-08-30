@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Track packages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/storborg/importwatch", 
+  "info": {
+    "Author:": "Scott Torborg", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/storborg/importwatch", 
+    "Keywords:": "track imports profiler package modules", 
+    "License:": "GPL", 
+    "Package Index Owner:": "storborg"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Track packages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d924b443bd43d13c28a72206d456c25", 
+  "source_uri": "https://pypi.python.org/packages/source/i/importwatch/importwatch-0.2.tar.gz"
+}

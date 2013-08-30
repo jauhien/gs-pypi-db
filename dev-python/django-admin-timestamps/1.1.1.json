@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Custom list display of model timestamps for Django Admin.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jaap3/django-admin-timestamps/", 
+  "info": {
+    "Author:": "Jaap Roes", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/jaap3/django-admin-timestamps/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jaap.roes"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Custom list display of model timestamps for Django Admin.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "659b33d4c84c9894b68cf88399627fc6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-admin-timestamps/django-admin-timestamps-1.1.1.zip"
+}

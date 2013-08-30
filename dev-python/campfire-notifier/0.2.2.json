@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Campfire notification app, using pynotify, based on pyfire", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rimek/campfire-notifier", 
+  "info": {
+    "Author:": "Marcin Rim", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rimek/campfire-notifier", 
+    "Keywords:": "networking internet campfire", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rimek"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Campfire notification app, using pynotify, based on pyfire", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb75ccdbe7da5c89579313c819f05355", 
+  "source_uri": "https://pypi.python.org/packages/source/c/campfire-notifier/campfire-notifier-0.2.2.tar.gz"
+}

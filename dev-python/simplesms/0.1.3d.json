@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Build SMS apps on top of a simple SMSUSSD gateway", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/eokyere/simplesms", 
+  "info": {
+    "Author:": "Emmanuel Okyere", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/eokyere/simplesms", 
+    "Keywords:": "gsm,sms,communication", 
+    "License:": "MIT", 
+    "Package Index Owner:": "eokyere"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Build SMS apps on top of a simple SMSUSSD gateway", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32925ca99803d77a38bd81ece64f9033", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simplesms/simplesms-0.1.3d.tar.gz"
+}

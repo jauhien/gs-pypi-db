@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for checking out cvs modules.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.gocept.com/repos/gocept/gocept.cvs", 
+  "info": {
+    "Author:": "Daniel Havlik", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ]
+    }, 
+    "Download URL:": "https://svn.gocept.com/repos/gocept/gocept.cvs/trunk#egg=gocept.cvs-dev", 
+    "Home Page:": "http://svn.gocept.com/repos/gocept/gocept.cvs", 
+    "Keywords:": "buildout cvs recipe", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "DanielHavlikGocept, romanofski, icemac"
+  }, 
+  "license": "", 
+  "longdescription": "c.buildout recipe for checking out cvs modules.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f121966bfa88a0634cebdb9676cbe08", 
+  "source_uri": "https://svn.gocept.com/repos/gocept/gocept.cvs/trunk#egg=gocept.cvs-dev"
+}

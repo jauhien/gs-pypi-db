@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple wrapper around python-keyring to store and retrieve sensitive information like passwords and API keys from Shell scripts and Python programs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/sramana/vault", 
+  "info": {
+    "Author:": "Sramana", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//vault", 
+    "Home Page:": "http://bitbucket.org/sramana/vault", 
+    "Keywords:": "keyring passwords vault", 
+    "License:": "BSD", 
+    "Package Index Owner:": "sramana", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple wrapper around python-keyring to store and retrieve sensitive information like passwords and API keys from Shell scripts and Python programs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8f3276c65823a136a67d5f40d05402bb", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vault/vault-0.2.tar.gz"
+}

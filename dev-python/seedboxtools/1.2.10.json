@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to automate downloading finished torrents from a seedbox", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/Rudd-O/seedboxtools", 
+  "info": {
+    "Author:": "Manuel Amador (Rudd-O)", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/Rudd-O/seedboxtools", 
+    "Keywords:": "seedbox TorrentFlux Transmission torrents", 
+    "License:": "GPL", 
+    "Package Index Owner:": "RuddO"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A tool to automate downloading finished torrents from a seedbox", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5c2e64488404d6ef4a269ea5466680ab", 
+  "source_uri": "https://pypi.python.org/packages/source/s/seedboxtools/seedboxtools-1.2.10.tar.gz"
+}

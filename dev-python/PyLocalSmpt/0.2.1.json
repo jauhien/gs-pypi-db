@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ouvre un mini serveur SMTP en local avec inbox dans une interface web", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/m_clement/pylocalsmtp", 
+  "info": {
+    "Author:": "Martyn CLEMENT", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Natural Language": [
+        "French"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/m_clement/pylocalsmtp", 
+    "Keywords:": "smtp local python dev mail web", 
+    "Package Index Owner:": "martync"
+  }, 
+  "license": "", 
+  "longdescription": "Ouvre un mini serveur SMTP en local avec inbox dans une interface web", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3747fc02b74a245e8a8d91f1fdcfb4b8", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyLocalSmpt/PyLocalSmpt-0.2.1.tar.gz"
+}

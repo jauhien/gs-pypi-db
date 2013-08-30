@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Making celery monitoring easier.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cyberdelia/instax", 
+  "info": {
+    "Author:": "Timothee Peignier", 
+    "Home Page:": "https://github.com/cyberdelia/instax", 
+    "Package Index Owner:": "tim"
+  }, 
+  "license": "", 
+  "longdescription": "Making celery monitoring easier.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f70d56d68d5652cb100aec62a32e6cfd", 
+  "source_uri": "https://pypi.python.org/packages/source/i/instax/instax-0.1.6.tar.gz"
+}

@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create, edit and use hierarchical taxonomies in Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Bo Simonsen and Malthe Borch", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "plone taxonomy dexterity", 
+    "License:": "GPLv2+", 
+    "Package Index Owner:": "bosim, malthe"
+  }, 
+  "license": "", 
+  "longdescription": "Create, edit and use hierarchical taxonomies in Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff2fe34455cf3de61b210cd83e524fad", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.taxonomy/collective.taxonomy-1.1.tar.gz"
+}

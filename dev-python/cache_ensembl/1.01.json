@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast Ensembl data cache", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/cache-ensembl/", 
+  "info": {
+    "Author:": "Leo Goodstadt", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/cache-ensembl/", 
+    "Keywords:": "GTF Ensembl gene transcript parser GFF bioinformatics science", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bunbun"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Fast Ensembl data cache", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "400eab646701623ee64f302f7707a512", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cache_ensembl/cache_ensembl-1.01.tar.gz"
+}

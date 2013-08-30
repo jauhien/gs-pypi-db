@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for LLVM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.llvmpy.org/", 
+  "info": {
+    "Author:": "Continuum Analytics, Inc.", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://www.llvmpy.org/", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "teoliphant", 
+    "Package Index Owner:": "teoliphant, ilanschnell"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for LLVM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ca38f9dec003235dbcfbfbc5266c0005", 
+  "source_uri": "https://pypi.python.org/packages/source/l/llvmpy/llvmpy-0.11.2.tar.gz"
+}

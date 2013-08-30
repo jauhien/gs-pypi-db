@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds tagging support to django-cms", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/redhog/appomatic", 
+  "info": {
+    "Author:": "RedHog (Egil Moeller)", 
+    "Home Page:": "http://github.com/redhog/appomatic", 
+    "Keywords:": "appomatic django-tagging django-cms", 
+    "License:": "GPL", 
+    "Package Index Owner:": "redhog"
+  }, 
+  "license": "", 
+  "longdescription": "Adds tagging support to django-cms", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bde5038967e7be121f48c7ccec0ce7dc", 
+  "source_uri": "https://pypi.python.org/packages/source/a/appomatic_cms_tagging/appomatic_cms_tagging-0.0.25.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Blogger filesystem using FUSE", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/gm/bloggerfs", 
+  "info": {
+    "Author:": "Marco Giusti", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/gm/bloggerfs", 
+    "Keywords:": "fuse blogger filesystem", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "gm", 
+    "Platform:": "posix"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Blogger filesystem using FUSE", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "132a91c07b7d5e32bf5181600fe4e4a4", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bloggerfs/bloggerfs-0.5.1.tar.gz"
+}

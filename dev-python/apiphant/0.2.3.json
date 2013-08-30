@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Python Web API framework, based on Gevent, JSON, CRUD.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/denis-ryzhkov/apiphant", 
+  "info": {
+    "Author:": "Denis Ryzhkov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/denis-ryzhkov/apiphant", 
+    "License:": "MIT", 
+    "Package Index Owner:": "denisr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple Python Web API framework, based on Gevent, JSON, CRUD.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49ee20406e177c02482925ed31c9c8ce", 
+  "source_uri": "https://pypi.python.org/packages/source/a/apiphant/apiphant-0.2.3.tar.gz"
+}

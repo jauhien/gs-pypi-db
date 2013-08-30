@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django framework for writing reporting tools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/django-reports", 
+  "info": {
+    "Author:": "Zygmunt Krynicki", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/django-reports", 
+    "Keywords:": "django,reports", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "zyga"
+  }, 
+  "license": "", 
+  "longdescription": "Django framework for writing reporting tools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ac6dd3ac0bf0d306e44c5c24a05ada8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-reports/django-reports-0.2.3.tar.gz"
+}

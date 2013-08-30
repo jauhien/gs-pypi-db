@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Google App Engine web framework built on webapp2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rsimp/v12", 
+  "info": {
+    "Author:": "Robert Simpson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rsimp/v12", 
+    "Keywords:": "gae web framework webapp2 command line cli google app engine appengine paas build system package manager routing routes scaffolding asset pipeline fingerprint cache buster cachebuster cachebusting", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rsimp"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Google App Engine web framework built on webapp2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fde8c2e5ce302a82697dc834261df153", 
+  "source_uri": "https://pypi.python.org/packages/source/v/v12/v12-0.1.2dev.tar.gz"
+}

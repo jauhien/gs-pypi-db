@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scientific reports with embedded python computations with reST, LaTeX or markdown", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mpastell.com/pweave", 
+  "info": {
+    "Author:": "Matti Pastell", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "http://mpastell.com/pweave", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mpastell"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Scientific reports with embedded python computations with reST, LaTeX or markdown", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a723d17ea3d4247700000f59f7852306", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Pweave/Pweave-0.21.2.tar.gz"
+}

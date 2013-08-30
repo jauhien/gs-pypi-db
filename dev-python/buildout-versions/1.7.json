@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout extension to display and record versions of packages used.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.simplistix.co.uk/software/python/buildout-versions", 
+  "info": {
+    "Author:": "Chris Withers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//buildout-versions", 
+    "Home Page:": "http://www.simplistix.co.uk/software/python/buildout-versions", 
+    "License:": "MIT", 
+    "Package Index Owner:": "chrisw"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "c.buildout extension to display and record versions of packages used.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "731ecc0c9029f45826fa9f31d44e311d", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildout-versions/buildout-versions-1.7.tar.gz"
+}

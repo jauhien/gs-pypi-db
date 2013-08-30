@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A script to semi-automatically map pages in a LocalWiki instance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/philipn/localwiki_geocode_pagenames", 
+  "info": {
+    "Author:": "Philip Neustrom", 
+    "Home Page:": "https://github.com/philipn/localwiki_geocode_pagenames", 
+    "Package Index Owner:": "philipn"
+  }, 
+  "license": "", 
+  "longdescription": "A script to semi-automatically map pages in a LocalWiki instance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "820fa83d5efc7b43e337c8f75246fb1b", 
+  "source_uri": "https://pypi.python.org/packages/source/l/localwiki-geocode-pagenames/localwiki-geocode-pagenames-0.1.1.tar.gz"
+}

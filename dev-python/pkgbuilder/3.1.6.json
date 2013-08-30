@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An AUR helper (and library) in Python 3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Kwpolska/pkgbuilder", 
+  "info": {
+    "Author:": "Kwpolska", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pkgbuilder", 
+    "Home Page:": "https://github.com/Kwpolska/pkgbuilder", 
+    "Keywords:": "arch pkgbuild", 
+    "License:": "3-clause BSD", 
+    "Package Index Owner:": "Kwpolska", 
+    "Platform:": "Arch Linux"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "An AUR helper (and library) in Python 3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a2dbf9f26672d3730f3103fbbb6cd956", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pkgbuilder/pkgbuilder-3.1.6.tar.gz"
+}

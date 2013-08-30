@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Encryption tool for application configs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mafrosis/sesame", 
+  "info": {
+    "Author:": "Matt Black", 
+    "Home Page:": "http://github.com/mafrosis/sesame", 
+    "Package Index Owner:": "mafro"
+  }, 
+  "license": "", 
+  "longdescription": "Encryption tool for application configs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "00c73f44c87a001426e1778cb4a5e238", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sesame/sesame-0.2.1.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple pastebin on top of bottle.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/thekad/pasttle/", 
+  "info": {
+    "Author:": "Jorge Gallegos", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/thekad/pasttle/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kad.id.fedoraproject.org", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple pastebin on top of bottle.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e18dad37d1fbfbc6da75756229396c42", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pasttle/pasttle-0.6.4.tar.gz"
+}

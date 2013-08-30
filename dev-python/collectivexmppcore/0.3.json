@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Enables core functionality for XMPP-enabled Plone add-ons.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.xmpp.core", 
+  "info": {
+    "Author:": "Plone Community", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.xmpp.core", 
+    "Keywords:": "plone xmpp twisted", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "alecghica, ichimdav", 
+    "Package Index Owner:": "ichimdav, jcbrand"
+  }, 
+  "license": "", 
+  "longdescription": "Enables core functionality for XMPP-enabled Plone add-ons.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9242dd6eec2d8a1cbae9bb63b341817d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.xmpp.core/collective.xmpp.core-0.3.zip"
+}

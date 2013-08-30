@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Irssi Real Time Remote Visual Notification.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://irssinotifier.ufsoft.org", 
+  "info": {
+    "Author:": "Pedro Algarvio", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://irssinotifier.ufsoft.org", 
+    "Keywords:": "irssi,visual notification,notification", 
+    "License:": "BSD", 
+    "Package Index Owner:": "s0undt3ch", 
+    "Platform:": "Anywere libnotify and python is known to run"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Irssi Real Time Remote Visual Notification.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "00dde8bdb81f0859bad555dbda67e785", 
+  "source_uri": "https://pypi.python.org/packages/source/I/IrssiNotifier/IrssiNotifier-0.2.0RC5.tar.bz2"
+}

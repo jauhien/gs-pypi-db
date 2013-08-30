@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python package for creating and manipulating graphs and networks", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://networkx.lanl.gov/", 
+  "info": {
+    "Author:": "NetworkX Developers", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://networkx.lanl.gov/download/networkx", 
+    "Home Page:": "http://networkx.lanl.gov/", 
+    "Keywords:": "Networks,Graph Theory,Mathematics,network,graph,discrete mathematics,math", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dschult, hagberg", 
+    "Platform:": "Linux,Mac OSX,Windows,Unix"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python package for creating and manipulating graphs and networks", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b4a9e68ecd1b0164446ee432d2e20bd0", 
+  "source_uri": "http://networkx.lanl.gov/download/networkx"
+}

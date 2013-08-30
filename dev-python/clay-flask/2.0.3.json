@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Clay is a framework for building RESTful backend services using best practices.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Jeremy Grosser", 
+    "Package Index Maintainer:": "James.Brown", 
+    "Package Index Owner:": "James.Brown, synack"
+  }, 
+  "license": "", 
+  "longdescription": "Clay is a framework for building RESTful backend services using best practices.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b1026161cee75579433de902dbd09b6b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/clay-flask/clay-flask-2.0.3.tar.gz"
+}

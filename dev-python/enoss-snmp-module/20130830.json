@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Net-SNMP pass_persist script for monitoring enoss.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cluther/zenoss-snmp-module", 
+  "info": {
+    "Author:": "Chet Luther", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cluther/zenoss-snmp-module", 
+    "Keywords:": "zenoss snmp net-snmp", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "chet.luther"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "Net-SNMP pass_persist script for monitoring enoss.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b720667d7d0e0c601682390aa5eb22a", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zenoss-snmp-module/zenoss-snmp-module-1.0.0rc4.tar.gz"
+}

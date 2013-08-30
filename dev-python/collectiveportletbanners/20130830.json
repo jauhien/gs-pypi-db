@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A portlet to rotate clickable banners.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.portlet.banners/trunk", 
+  "info": {
+    "Author:": "Matt Yoder", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.portlet.banners/trunk", 
+    "Keywords:": "Plone portlet banner rotating image sponsor logo", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vangheem, yomatters"
+  }, 
+  "license": "", 
+  "longdescription": "A portlet to rotate clickable banners.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f6f04c2029068766c6b48df1deb3c311", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.portlet.banners/collective.portlet.banners-1.0a4.zip"
+}

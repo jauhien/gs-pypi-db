@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Monitor system resource usage.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+  "info": {
+    "Author:": "Mozilla Automation and Tools Team", 
+    "Home Page:": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase", 
+    "Keywords:": "mozilla", 
+    "License:": "MPL 2.0", 
+    "Package Index Owner:": "ctalbert, ahal, indygreg"
+  }, 
+  "license": "", 
+  "longdescription": "Monitor system resource usage.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d8b6b88ca3f1b169ee7b0166f96879b4", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozsystemmonitor/mozsystemmonitor-0.0.tar.gz"
+}

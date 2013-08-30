@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Minimal dependency nicely abstracted sqlite backend of hamster time tracker - lets you connect to your hamster db and do stuff in python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/projecthamster/hamster", 
+  "info": {
+    "Author:": "Toms Baugis", 
+    "Home Page:": "https://github.com/projecthamster/hamster", 
+    "Package Index Owner:": "Toms.Baugis"
+  }, 
+  "license": "", 
+  "longdescription": "Minimal dependency nicely abstracted sqlite backend of hamster time tracker - lets you connect to your hamster db and do stuff in python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18b3c593308f33129c779e649c188b8d", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hamster-sqlite/hamster-sqlite-0.3.tar.gz"
+}

@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Rebase plugin for Baaar", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bazaar-vcs.org/Rebase", 
+  "info": {
+    "Author:": "Jelmer Vernooij", 
+    "Download URL:": "http://bazaar-vcs.org/Rebase", 
+    "Home Page:": "http://bazaar-vcs.org/Rebase", 
+    "Keywords:": "plugin bzr rebase", 
+    "License:": "GPLv3 or later", 
+    "Package Index Owner:": "jelmer"
+  }, 
+  "license": "", 
+  "longdescription": "Rebase plugin for Baaar", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://bazaar-vcs.org/Rebase"
+}

@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for comparing 2 experiment results stored in the MDM file format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/petar/mdm_compare", 
+  "info": {
+    "Author:": "Petar Maric", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/petar/mdm_compare", 
+    "Home Page:": "https://bitbucket.org/petar/mdm_compare", 
+    "License:": "BSD", 
+    "Package Index Owner:": "petar", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A tool for comparing 2 experiment results stored in the MDM file format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6cd81f2c291a6ee44483f2a46878bc0", 
+  "source_uri": "https://bitbucket.org/petar/mdm_compare"
+}

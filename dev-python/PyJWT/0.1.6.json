@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JSON Web Token implementation in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/progrium/pyjwt", 
+  "info": {
+    "Author:": "Jeff Lindsay", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/progrium/pyjwt", 
+    "Keywords:": "jwt json web token security signing", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "jkarneges", 
+    "Package Index Owner:": "progrium"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "JSON Web Token implementation in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ba939c846135a51289f4a4854df935ad", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyJWT/PyJWT-0.1.6.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Jinja2 adapter for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/coffin/coffin", 
+  "info": {
+    "Author:": "David Cramer", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/coffin/coffin", 
+    "Package Index Maintainer:": "miracle2k", 
+    "Package Index Owner:": "dcramer, cdleary, miracle2k"
+  }, 
+  "license": "", 
+  "longdescription": "Jinja2 adapter for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "107b9a62adbe15ce6330033a100b4f0b", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Coffin/Coffin-0.3.8.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command for pysetup to convert yaml files to json", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/LEW21/pysetup-yaml2json", 
+  "info": {
+    "Author:": "Janusz Lewandowski", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/LEW21/pysetup-yaml2json", 
+    "Package Index Owner:": "lew21"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A command for pysetup to convert yaml files to json", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0dcde0d67bcb13001b5a5a13ad1320c1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysetup-yaml2json/pysetup-yaml2json-1.0.tar.gz"
+}

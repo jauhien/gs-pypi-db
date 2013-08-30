@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cleese is a shell command executer for python applications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cleese.org", 
+  "info": {
+    "Author:": "Bernardo Heynemann", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Natural Language": [
+        "Portuguese (Brazilian)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://www.cleese.org", 
+    "Keywords:": "Popen process execution", 
+    "License:": "OSI", 
+    "Package Index Owner:": "heynemann"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "cleese is a shell command executer for python applications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "123b8fb49c668e59191ed2d30fdeb934", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cleese/cleese-0.2.1.tar.gz"
+}

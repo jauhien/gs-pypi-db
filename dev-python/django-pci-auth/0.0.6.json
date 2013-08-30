@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PCI-compliant authentication application for Django 1.4+. Uses best of existing libraries then fills in the gaps.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aclark4life/django-pci-auth", 
+  "info": {
+    "Author:": "Alex Clark", 
+    "Home Page:": "https://github.com/aclark4life/django-pci-auth", 
+    "Package Index Owner:": "aclark"
+  }, 
+  "license": "", 
+  "longdescription": "PCI-compliant authentication application for Django 1.4+. Uses best of existing libraries then fills in the gaps.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7b9ead93a0d806c62919749956fe7453", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pci-auth/django-pci-auth-0.0.6.zip"
+}

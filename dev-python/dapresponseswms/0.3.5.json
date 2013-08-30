@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WMS response for pydap server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pydap.org/responses/wms", 
+  "info": {
+    "Author:": "Roberto De Almeida", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pydap.org/responses/wms", 
+    "Keywords:": "wms dap opendap dods data", 
+    "License:": "MIT", 
+    "Package Index Owner:": "roberto"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WMS response for pydap server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6eb7e6e401422a60e804e7412f793354", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dap.responses.wms/dap.responses.wms-0.3.5.tar.gz"
+}

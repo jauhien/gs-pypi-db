@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A complete Newsletter product for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/plonegazette", 
+  "info": {
+    "Author:": "Morten W. Petersen", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/plonegazette", 
+    "Keywords:": "Zope plone newsletter communication", 
+    "Package Index Owner:": "gauthierbastien, naro, morphex, lzdych"
+  }, 
+  "license": "", 
+  "longdescription": "A complete Newsletter product for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b6c86a8674cc01aa01b89726e5dd87f1", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneGazette/Products.PloneGazette-3.2.0.1.zip"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Put website in read-only mode for maintenance.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/zalew/django-readonly", 
+  "info": {
+    "Author:": "Jakub Zalewski", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/zalew/django-readonly", 
+    "Keywords:": "django readonly", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "zalew"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Put website in read-only mode for maintenance.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c027518cbe14ee71698f5ebe9cb71667", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-readonly/django-readonly-0.1.2.tar.gz"
+}

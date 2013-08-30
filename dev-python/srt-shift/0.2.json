@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "For fixing out-of-sync .srt subtitle files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Adeel Ahmad Khan", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Package Index Owner:": "adeel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "For fixing out-of-sync .srt subtitle files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a9b7fbdbb84f487be962f3a71e20de77", 
+  "source_uri": "https://pypi.python.org/packages/source/s/srt-shift/srt-shift-0.2.tar.gz"
+}

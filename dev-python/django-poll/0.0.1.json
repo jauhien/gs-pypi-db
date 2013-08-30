@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A concrete poll app allowing CRUD functionality in the admin and front-end.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jaco_thiart/django-polls", 
+  "info": {
+    "Author:": "Jaco Thiart", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/jaco_thiart/django-polls", 
+    "Maintainer:": "Jaco Thiart", 
+    "Package Index Owner:": "jaco_thiart"
+  }, 
+  "license": "", 
+  "longdescription": "A concrete poll app allowing CRUD functionality in the admin and front-end.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "745458727dca93d17bb772109af1fc98", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-poll/django-poll.tar.bz2"
+}

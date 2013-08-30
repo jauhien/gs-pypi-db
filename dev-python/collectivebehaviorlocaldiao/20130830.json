@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dexterity behavior to enable a local Diao theme.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.behavior.localdiazo", 
+  "info": {
+    "Author:": "Simples Consultoria", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.behavior.localdiazo", 
+    "Keywords:": "plone registry local behavior dexterity diazo", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "hvelarde"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "Dexterity behavior to enable a local Diao theme.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f5f71935e47cdcddc5431f56e7bf6d7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.behavior.localdiazo/collective.behavior.localdiazo-1.0b2.zip"
+}

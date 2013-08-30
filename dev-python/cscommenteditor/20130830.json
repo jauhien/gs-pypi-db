@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A view to edit comments created with plone.app.discussion", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/codesyntax/cs.commenteditor", 
+  "info": {
+    "Author:": "Mikel Larreategi", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/codesyntax/cs.commenteditor", 
+    "Keywords:": "discussion edit comments", 
+    "License:": "GPL", 
+    "Package Index Owner:": "erral"
+  }, 
+  "license": "", 
+  "longdescription": "A view to edit comments created with plone.app.discussion", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2e4c39a2b5658ce7cfafc1da72461322", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cs.commenteditor/cs.commenteditor-1.0b3.zip"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "automatically load multi-dimensional Tiff and Gif files and file sequences as numpy arrays using PIL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/GifTiffLoader/", 
+  "info": {
+    "Author:": "David N. Mashburn", 
+    "Home Page:": "http://pypi.python.org/pypi/GifTiffLoader/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "mashbudn"
+  }, 
+  "license": "", 
+  "longdescription": "automatically load multi-dimensional Tiff and Gif files and file sequences as numpy arrays using PIL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cdfdcc9412df435a6e2984daa9cf8bdb", 
+  "source_uri": "https://pypi.python.org/packages/source/G/GifTiffLoader/GifTiffLoader-0.1.5.tar.gz"
+}

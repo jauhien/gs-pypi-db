@@ -1,0 +1,67 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipes for PasteDeploy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/deployrecipes/", 
+  "info": {
+    "Author:": "2degrees Limited", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//deployrecipes", 
+    "Home Page:": "http://packages.python.org/deployrecipes/", 
+    "Keywords:": "buildout recipe wsgi paste deploy web PasteDeploy", 
+    "License:": "BSD (http://dev.2degreesnetwork.com/p/2degrees-license.html)", 
+    "Package Index Owner:": "FranRuiz, Gustavo, euangoddard"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Buildout recipes for PasteDeploy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a289e1f253d0c9f969aca9a2dab7c902", 
+  "source_uri": "https://pypi.python.org/packages/source/d/deployrecipes/deployrecipes-1.0rc2.tar.gz"
+}

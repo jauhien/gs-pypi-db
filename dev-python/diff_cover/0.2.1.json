@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatically find diff lines that need test coverage.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/edx/diff-cover", 
+  "info": {
+    "Author:": "edX", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/edx/diff-cover", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "sarina, William.Daly"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Automatically find diff lines that need test coverage.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e871b3603b2df36df37589d407dd5574", 
+  "source_uri": "https://pypi.python.org/packages/source/d/diff_cover/diff_cover-0.2.1.tar.gz"
+}

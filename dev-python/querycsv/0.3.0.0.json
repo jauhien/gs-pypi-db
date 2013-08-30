@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Execute SQL code against data contained in one or more comma-separated-value (CSV) files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "none", 
+  "info": {
+    "Author:": "Dreas Nielsen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "General"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//querycsv", 
+    "Home Page:": "none", 
+    "Package Index Owner:": "rdnielsen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Execute SQL code against data contained in one or more comma-separated-value (CSV) files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "383c3818a67f148a582b00371f57000e", 
+  "source_uri": "https://pypi.python.org/packages/source/q/querycsv/querycsv-0.3.0.0.zip"
+}

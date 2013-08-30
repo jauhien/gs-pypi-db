@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Runs arbitrary commands if files specified to be watched change.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://heisel.org/blog/code/pywatch/", 
+  "info": {
+    "Author:": "Chris Heisel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://heisel.org/blog/code/pywatch/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "cmheisel"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Runs arbitrary commands if files specified to be watched change.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2d398ec66eb889eabc44086c9313b4d7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pywatch/pywatch-0.4.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for libapt.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/python-apt/", 
+  "info": {
+    "Author:": "Michael Vogt", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ]
+    }, 
+    "Download URL:": "https://launchpad.net/python-apt/+download", 
+    "Home Page:": "https://launchpad.net/python-apt/", 
+    "Keywords:": "apt dpkg", 
+    "Maintainer:": "Michael Vogt", 
+    "Package Index Owner:": "jamesw"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "Python bindings for libapt.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://launchpad.net/python-apt/+download"
+}

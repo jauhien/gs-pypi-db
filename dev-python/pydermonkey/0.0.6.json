@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Access the SpiderMonkey JavaScript engine from Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pydermonkey/", 
+  "info": {
+    "Author:": "Atul Varma", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 1.1 (MPL 1.1)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Interpreters"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pydermonkey/", 
+    "Package Index Owner:": "Atul"
+  }, 
+  "license": "Mozilla Public License 1.1 (MPL 1.1)", 
+  "longdescription": "Access the SpiderMonkey JavaScript engine from Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "50fdad742e1c44c61d5021185528bc4b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pydermonkey/pydermonkey-0.0.6.tar.gz"
+}

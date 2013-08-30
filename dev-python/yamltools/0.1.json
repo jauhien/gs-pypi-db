@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "tools for dealing with YAML from command line", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andrey Popp", 
+    "Package Index Owner:": "Andrey.Popp"
+  }, 
+  "license": "", 
+  "longdescription": "tools for dealing with YAML from command line", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "60a9779807da1593bc901cb538f237e3", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yamltools/yamltools-0.1.tar.gz"
+}

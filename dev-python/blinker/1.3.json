@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast, simple object-to-object and broadcast signaling", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonhosted.org/blinker/", 
+  "info": {
+    "Author:": "Jason Kirtland", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//blinker", 
+    "Home Page:": "http://pythonhosted.org/blinker/", 
+    "Keywords:": "signal emit events broadcast", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jek"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Fast, simple object-to-object and broadcast signaling", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66e9688f2d287593a0e698cd8a5fbc57", 
+  "source_uri": "https://pypi.python.org/packages/source/b/blinker/blinker-1.3.tar.gz"
+}

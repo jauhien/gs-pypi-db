@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Serve up static content over HTTP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mwilliamson/staticserver.py", 
+  "info": {
+    "Author:": "Michael Williamson", 
+    "Home Page:": "http://github.com/mwilliamson/staticserver.py", 
+    "Package Index Owner:": "michaelwilliamson"
+  }, 
+  "license": "", 
+  "longdescription": "Serve up static content over HTTP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "553b06e5c11e18fae700db590e08fb9c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/staticserver/staticserver-0.1.0.tar.gz"
+}

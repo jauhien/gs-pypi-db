@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python interface to the OpenCongress.org API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cpharmston/python-opencongress", 
+  "info": {
+    "Author:": "Chuck Harmston", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cpharmston/python-opencongress", 
+    "License:": "Dual-licensed under MIT and GPL", 
+    "Package Index Owner:": "cpharmston"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Python interface to the OpenCongress.org API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4546b12c03ed29f569b652b5baeea6d6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-opencongress/python-opencongress-0.1.1.tar.gz"
+}

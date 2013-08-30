@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Asynchronous elasticsearch backend - part of Wallaby. The couchDB application framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/FreshXOpenSource/wallaby-backend-elasticsearch", 
+  "info": {
+    "Author:": "FreshX GbR", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/FreshXOpenSource/wallaby-backend-elasticsearch", 
+    "License:": "BSD", 
+    "Package Index Owner:": "freshx"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Asynchronous elasticsearch backend - part of Wallaby. The couchDB application framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "72de208ac46087b7b338f432aa3c057a", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wallaby-backend-elasticsearch/wallaby-backend-elasticsearch-0.1.31.tar.gz"
+}

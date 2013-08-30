@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python readwrite support for ESRI Shapefile format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pyshp", 
+  "info": {
+    "Author:": "Joel Lawhead", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pyshp", 
+    "Keywords:": "gis geospatial geographic shapefile shapefiles", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jlawhead"
+  }, 
+  "license": "", 
+  "longdescription": "Pure Python readwrite support for ESRI Shapefile format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "415d7bc6668ebf3ed8d28541c37aad93", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyshp/pyshp-1.1.9.tar.gz"
+}

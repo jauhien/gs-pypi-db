@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe to create files and directories", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tranchitella.recipe.fs", 
+  "info": {
+    "Author:": "Tranchitella Kft.", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/tranchitella.recipe.fs", 
+    "License:": "GPL 2", 
+    "Package Index Owner:": "kobold"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout recipe to create files and directories", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "849871907d854f5b1008513b7e7fe1f3", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tranchitella.recipe.fs/tranchitella.recipe.fs-0.3.tar.gz"
+}

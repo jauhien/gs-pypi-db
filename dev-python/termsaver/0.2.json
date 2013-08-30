@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple text-based terminal screensaver.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://termsaver.info", 
+  "info": {
+    "Author:": "Bruno Braga", 
+    "Bug Tracker:": "https://github.com/brunobraga/TermSaver/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://termsaver.info", 
+    "Keywords:": "command-line,terminal,screensaver", 
+    "License:": "Apache License v2", 
+    "Package Index Owner:": "bruno.braga"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Simple text-based terminal screensaver.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fec910355dac9ea6ce926a640664f720", 
+  "source_uri": "https://pypi.python.org/packages/source/t/termsaver/termsaver-0.2.tar.gz"
+}

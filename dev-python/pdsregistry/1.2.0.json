@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Registry Client is a Python-based API for accessing the Registry Service.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pds-cm.jpl.nasa.gov/2010/registry/registry-client/", 
+  "info": {
+    "Author:": "Sean Hardman", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "Other/Proprietary License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Download URL:": "http://oodt.jpl.nasa.gov/dist/pds", 
+    "Home Page:": "http://pds-cm.jpl.nasa.gov/2010/registry/registry-client/", 
+    "Keywords:": "ebxml registry information model client nasa pds", 
+    "License:": "Proprietary", 
+    "Package Index Owner:": "nutjob"
+  }, 
+  "license": "Other/Proprietary License", 
+  "longdescription": "The Registry Client is a Python-based API for accessing the Registry Service.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://oodt.jpl.nasa.gov/dist/pds"
+}

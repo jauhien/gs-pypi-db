@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XML Output plugin for Nose  Nosetests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/NoseXML/", 
+  "info": {
+    "Author:": "Richard Clark", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/NoseXML/", 
+    "Package Index Owner:": "rclark"
+  }, 
+  "license": "", 
+  "longdescription": "XML Output plugin for Nose  Nosetests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cdb35f6517f0f87bc0d398d6e0d39507", 
+  "source_uri": "https://pypi.python.org/packages/source/N/NoseXML/NoseXML-0.19.tar.gz"
+}

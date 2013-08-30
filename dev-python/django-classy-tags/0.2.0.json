@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Class based template tags for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ojii/django-classy-tags", 
+  "info": {
+    "Author:": "Jonas Obrist", 
+    "Home Page:": "http://github.com/ojii/django-classy-tags", 
+    "Package Index Owner:": "ojii"
+  }, 
+  "license": "", 
+  "longdescription": "Class based template tags for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd2dc49f29305b7208fbff6696708b5a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-classy-tags/django-classy-tags-0.2.0.tar.gz"
+}

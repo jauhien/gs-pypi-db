@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Assembler and interpreter for the Little Man Computer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bwesterb/pylmc/", 
+  "info": {
+    "Author:": "Bas Westerbaan", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Education"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bwesterb/pylmc/", 
+    "Package Index Owner:": "bas"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Assembler and interpreter for the Little Man Computer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2c69cd0bced5dfbf1fd1c94e82bf437d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pylmc/pylmc-0.1.0a1.tar.gz"
+}

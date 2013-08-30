@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Stream data from large XML documents with minimal memory.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/larsyencken/iterxml/", 
+  "info": {
+    "Author:": "Lars Yencken", 
+    "Home Page:": "http://bitbucket.org/larsyencken/iterxml/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lars512"
+  }, 
+  "license": "", 
+  "longdescription": "Stream data from large XML documents with minimal memory.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "342d3ef0c12e13b2f3343b5afac62f5d", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iterxml/iterxml-0.1.1.tar.gz"
+}

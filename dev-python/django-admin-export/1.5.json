@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic export to xls action for Django admin interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-admin-export/", 
+  "info": {
+    "Author:": "David Burke", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/django-admin-export/", 
+    "Keywords:": "django admin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "David.Burke"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generic export to xls action for Django admin interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e6f05f0df60c3c8fbc87da671b0449b3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-admin-export/django-admin-export-1.5.tar.gz"
+}

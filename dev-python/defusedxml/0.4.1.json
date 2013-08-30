@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XML bomb protection for Python stdlib modules", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/tiran/defusedxml", 
+  "info": {
+    "Author:": "Christian Heimes", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/defusedxml", 
+    "Home Page:": "https://bitbucket.org/tiran/defusedxml", 
+    "Keywords:": "xml bomb DoS", 
+    "License:": "PSFL", 
+    "Package Index Owner:": "tiran", 
+    "Platform:": "all"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "XML bomb protection for Python stdlib modules", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "230a5eff64f878b392478e30376d673a", 
+  "source_uri": "http://pypi.python.org/pypi/defusedxml"
+}

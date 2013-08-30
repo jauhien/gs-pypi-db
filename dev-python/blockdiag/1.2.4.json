@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "blockdiag generate block-diagram image file from spec-text file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blockdiag.com/", 
+  "info": {
+    "Author:": "Takeshi Komiya", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/blockdiag", 
+    "Home Page:": "http://blockdiag.com/", 
+    "Keywords:": "diagram,generator", 
+    "License:": "Apache License 2.0", 
+    "Package Index Maintainer:": "shimizukawa", 
+    "Package Index Owner:": "tk0miya"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "blockdiag generate block-diagram image file from spec-text file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "244334f60cc10b0cb73b5df5279bcdd1", 
+  "source_uri": "http://pypi.python.org/pypi/blockdiag"
+}

@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A content-based implementation of Plones default member infrastructure", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/remember", 
+  "info": {
+    "Author:": "Ken Manheimer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/remember", 
+    "Keywords:": "plone membrane membership content remember", 
+    "License:": "GPL", 
+    "Package Index Owner:": "collective, rafrombrc, rpatterson, Ken.Manheimer, maurits"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A content-based implementation of Plones default member infrastructure", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fbb6d3357e9171baeca12b47e92d1934", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.remember/Products.remember-1.9.2.zip"
+}

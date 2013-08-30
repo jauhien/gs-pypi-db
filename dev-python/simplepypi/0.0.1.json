@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A really, really, simple HTTP PyPI-like server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/steiza/simplepypi", 
+  "info": {
+    "Author:": "Zach Steindler", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/steiza/simplepypi", 
+    "Keywords:": "pypi,replacement,cheeseshop", 
+    "License:": "BSD", 
+    "Package Index Owner:": "steiza"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A really, really, simple HTTP PyPI-like server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f45eae92ba6bb18fa2b52fb8f9fc989", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simplepypi/simplepypi-0.0.1.tar.gz"
+}

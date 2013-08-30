@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django application for synchroniing LDAP users and groups", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jbittel/django-ldap-sync", 
+  "info": {
+    "Author:": "Jason Bittel", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Download URL:": "https://github.com/jbittel/django-ldap-sync/downloads", 
+    "Home Page:": "https://github.com/jbittel/django-ldap-sync", 
+    "Keywords:": "django,ldap,active directory,synchronize,sync", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jbittel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django application for synchroniing LDAP users and groups", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44aab8a5f178a60cbe1b7b7836bb9f03", 
+  "source_uri": "https://github.com/jbittel/django-ldap-sync/downloads"
+}

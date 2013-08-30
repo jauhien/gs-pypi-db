@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django template library for checking whether the current page matches a given URL. Useful for highlighting active links in menus.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/j4mie/django-activelink/", 
+  "info": {
+    "Author:": "Jamie Matthews", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/j4mie/django-activelink/", 
+    "Package Index Owner:": "j4mie"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A Django template library for checking whether the current page matches a given URL. Useful for highlighting active links in menus.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "287b53d2e69bf7ddb2001edc22c21d67", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-activelink/django-activelink-0.4.tar.gz"
+}

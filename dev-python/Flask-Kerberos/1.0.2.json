@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kerberos authentication support for Flask", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mkomitee/flask-kerberos", 
+  "info": {
+    "Author:": "Michael Komitee", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mkomitee/flask-kerberos", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mkomitee", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Kerberos authentication support for Flask", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c439884c2bdae5d86ea5e7f2905ad857", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Kerberos/Flask-Kerberos-1.0.2.tar.gz"
+}

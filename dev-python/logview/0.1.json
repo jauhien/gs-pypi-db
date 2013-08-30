@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Qt-based log viewer for Pythons standard logging package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/logview/", 
+  "info": {
+    "Author:": "Vinay Sajip", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "Qt"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//logview", 
+    "Download URL:": "http://logview.googlecode.com/files/logview-src-0.1.tar.gz", 
+    "Home Page:": "http://code.google.com/p/logview/", 
+    "Maintainer:": "Vinay Sajip", 
+    "Package Index Owner:": "vsajip"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Qt-based log viewer for Pythons standard logging package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f573818206bb6cf0f69f5b14171d3945", 
+  "source_uri": "http://logview.googlecode.com/files/logview-src-0.1.tar.gz"
+}

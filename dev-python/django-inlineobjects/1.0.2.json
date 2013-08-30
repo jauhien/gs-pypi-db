@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A reusable Django application used to insert content objects into other pieces of content.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pigmonkey/django-inlineobjects", 
+  "info": {
+    "Author:": "Peter Hogg", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/pigmonkey/django-inlineobjects", 
+    "Package Index Owner:": "pigmonkey"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A reusable Django application used to insert content objects into other pieces of content.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "681653d8f230b98a8617965c503518d3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-inlineobjects/django-inlineobjects-1.0.2.tar.gz"
+}

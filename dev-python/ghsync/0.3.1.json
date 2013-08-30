@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GitHub Syncer. Clones or Pulls all GitHub repos.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kennethreitz/ghsync", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kennethreitz/ghsync", 
+    "License:": "ISC", 
+    "Package Index Owner:": "kennethreitz"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "GitHub Syncer. Clones or Pulls all GitHub repos.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd968b8208b98a5630f55a873e91d9bb", 
+  "source_uri": "https://pypi.python.org/packages/source/g/ghsync/ghsync-0.3.1.tar.gz"
+}

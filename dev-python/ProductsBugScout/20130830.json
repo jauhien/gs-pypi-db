@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FogBug Plone integration using BugScout.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://weblion.psu.edu/", 
+  "info": {
+    "Author:": "WebLion Group, Penn State University", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://weblion.psu.edu/", 
+    "Keywords:": "weblion fogbugz", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pumazi, cah190, esteele"
+  }, 
+  "license": "", 
+  "longdescription": "FogBug Plone integration using BugScout.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea48a689dccfbc8487827430b86eda68", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.BugzScout/Products.BugzScout-1.0a2.tar.gz"
+}

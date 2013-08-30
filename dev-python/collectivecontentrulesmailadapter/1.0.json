@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A mail content rule action using an adapter for emails resolving", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.contentrules.mailadapter", 
+  "info": {
+    "Author:": "Matous Hora (DMS4u)", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.contentrules.mailadapter", 
+    "Keywords:": "plone content rule mail adapter", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mhora"
+  }, 
+  "license": "", 
+  "longdescription": "A mail content rule action using an adapter for emails resolving", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fc8394553269b1783d66fc4599e0e72", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.contentrules.mailadapter/collective.contentrules.mailadapter-1.0.tar.gz"
+}

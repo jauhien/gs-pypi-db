@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTTP basic access authentication for Flask.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jpvanhal/flask-basicauth", 
+  "info": {
+    "Author:": "Janne Vanhala", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jpvanhal/flask-basicauth", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jpvanhal", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "HTTP basic access authentication for Flask.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6c7d204e06c5133f42e4171cfb2f42e6", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-BasicAuth/Flask-BasicAuth-0.2.0.tar.gz"
+}

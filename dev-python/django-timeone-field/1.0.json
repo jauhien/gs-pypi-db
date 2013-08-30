@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app providing database and form fields for pyt timeone objects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mfogel/django-timezone-field/", 
+  "info": {
+    "Author:": "Mike Fogel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mfogel/django-timezone-field/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mfogel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app providing database and form fields for pyt timeone objects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1d0614d700f7c15061220b1193f59e7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-timezone-field/django-timezone-field-1.0.tar.gz"
+}

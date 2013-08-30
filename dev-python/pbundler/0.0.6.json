@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bundler for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zeha/pbundler/", 
+  "info": {
+    "Author:": "Christian Hofstaedtler", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Download URL:": "https://github.com/zeha/pbundler/downloads", 
+    "Home Page:": "http://github.com/zeha/pbundler/", 
+    "Keywords:": "bundler bundle pbundler pbundle dependency dependencies management virtualenv pip packages", 
+    "License:": "MIT", 
+    "Package Index Owner:": "zeha"
+  }, 
+  "license": "", 
+  "longdescription": "Bundler for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7b60d0ad17f14b2593c4be4bcae337bc", 
+  "source_uri": "https://github.com/zeha/pbundler/downloads"
+}

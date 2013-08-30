@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The reference implementation of the SPEAR ranking algorithm in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.quuxlabs.com/", 
+  "info": {
+    "Author:": "Michael G. Noll", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.quuxlabs.com/", 
+    "Keywords:": "research SPEAR ranking folksonomies expertise HITS spam information retrieval", 
+    "License:": "GNU General Public License version 2", 
+    "Package Index Owner:": "noll"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "The reference implementation of the SPEAR ranking algorithm in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d44982102d8e87d7a84dfba37cb566e", 
+  "source_uri": "https://pypi.python.org/packages/source/S/Spear/Spear-1.0.tar.gz"
+}

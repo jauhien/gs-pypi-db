@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to perform lookups in Maxmind GeoIP, designed specifically for use with Google App Engine.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/python-geoip/", 
+  "info": {
+    "Author:": "David Wilson", 
+    "Download URL:": "http://python-geoip.googlecode.com/hg/pygeoip.py", 
+    "Home Page:": "http://code.google.com/p/python-geoip/", 
+    "Package Index Owner:": "dw"
+  }, 
+  "license": "", 
+  "longdescription": "Library to perform lookups in Maxmind GeoIP, designed specifically for use with Google App Engine.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://python-geoip.googlecode.com/hg/pygeoip.py"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Software releasing made easy and repeatable", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zestreleaser.readthedocs.org", 
+  "info": {
+    "Author:": "Reinout van Rees", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://zestreleaser.readthedocs.org", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maurits, reinout, jladage, markvl"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Software releasing made easy and repeatable", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03c58d2855ddeb80adb2c5720b4409b7", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zest.releaser/zest.releaser-3.46.zip"
+}

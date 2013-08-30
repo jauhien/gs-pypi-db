@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reusable public holidays for django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/schinckel/django-public-holidays/", 
+  "info": {
+    "Author:": "Matthew Schinckel", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/schinckel/django-public-holidays/", 
+    "Package Index Owner:": "schinckel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Reusable public holidays for django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87c52f0324ed56871b1b6350455f0f6a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-public-holidays/django-public-holidays-0.1.5.tar.gz"
+}

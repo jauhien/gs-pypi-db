@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fast HTMLXML Template Compiler.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.pagetemplates.org/", 
+  "info": {
+    "Author:": "Malthe Borch", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "http://www.pagetemplates.org/", 
+    "License:": "BSD-like (http://repoze.org/license.html)", 
+    "Package Index Owner:": "malthe, chrism, hannosch, wichert"
+  }, 
+  "license": "", 
+  "longdescription": "Fast HTMLXML Template Compiler.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c2947c7b615bf758fa4a710e759c658b", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Chameleon/Chameleon-2.12.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Site-wide perimeter access control for Django projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/hugorodgerbrown/django-perimeter", 
+  "info": {
+    "Author:": "Hugo Rodger-Brown", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/hugorodgerbrown/django-perimeter", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "hugorodgerbrown"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Site-wide perimeter access control for Django projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5864d241d3aae12a31d43b8e2a2c01b8", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-perimeter/django-perimeter-0.1.1.tar.gz"
+}

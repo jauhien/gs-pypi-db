@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis based queue that supports fetching job position.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/marconi/camote-queue", 
+  "info": {
+    "Author:": "Marconi Moreto", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/marconi/camote-queue", 
+    "Package Index Owner:": "marconijr"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Redis based queue that supports fetching job position.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d64fca54ae0fcc4e637f5edabe9f9934", 
+  "source_uri": "https://pypi.python.org/packages/source/c/camote-queue/camote-queue-0.1.16.tar.gz"
+}

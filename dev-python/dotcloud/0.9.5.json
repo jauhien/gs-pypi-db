@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "dotCloud command-line interface client", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.dotcloud.com/", 
+  "info": {
+    "Author:": "dotCloud Inc.", 
+    "Home Page:": "http://www.dotcloud.com/", 
+    "Package Index Owner:": "shad"
+  }, 
+  "license": "", 
+  "longdescription": "dotCloud command-line interface client", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2e7dd3f548cb89e3575421453707c579", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dotcloud/dotcloud-0.9.5.tar.gz"
+}

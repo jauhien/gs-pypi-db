@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line utility for the LAVA scheduler (deprecated)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/lava-scheduler-tool", 
+  "info": {
+    "Author:": "Linaro Validation Team", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/lava-scheduler-tool", 
+    "License:": "LGPLv3", 
+    "Package Index Owner:": "terceiro, zyga, mwhudson, Paul.Larson, doanac"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Command line utility for the LAVA scheduler (deprecated)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f7d9ac7ba1406c6cf2f4dff5c57fcfc3", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lava-scheduler-tool/lava-scheduler-tool-0.6.tar.gz"
+}

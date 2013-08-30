@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple c.buildout recipe for sources in a git repository", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zerok/zerokspot.gitrecipe/", 
+  "info": {
+    "Author:": "Horst Gutmann", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Installation/Setup"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zerok/zerokspot.gitrecipe/", 
+    "Package Index Owner:": "zerok"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple c.buildout recipe for sources in a git repository", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf5c81bb6eaf7603ae7eab1765039582", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zerokspot.recipe.git/zerokspot.recipe.git-0.6.1.tar.gz"
+}

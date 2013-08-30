@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Separate content and navigation titles for Plone CMS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://opensourcehacker.com", 
+  "info": {
+    "Author:": "Mikko Ohtamaa", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://opensourcehacker.com", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "miohtama"
+  }, 
+  "license": "", 
+  "longdescription": "Separate content and navigation titles for Plone CMS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7f1d56977fe9f0ce2ebaa005d65a20b", 
+  "source_uri": "https://pypi.python.org/packages/source/v/visualtitle/visualtitle-0.2.2.zip"
+}

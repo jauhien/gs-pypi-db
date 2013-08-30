@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for creating pluggable web-processes for deployment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/philipcristiano/plug", 
+  "info": {
+    "Author:": "Philip Cristiano", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/philipcristiano/plug", 
+    "Keywords:": "deployment packaging", 
+    "License:": "BSD", 
+    "Package Index Owner:": "philipcristiano"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A tool for creating pluggable web-processes for deployment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "822e09897c4aa67e845e14e529f410cb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plug/plug-0.1.3.tar.gz"
+}

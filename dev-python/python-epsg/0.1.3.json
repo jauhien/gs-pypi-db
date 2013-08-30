@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An interface to the EPSG Geodetic Parameter Dataset at httpwww.epsg-registry.org", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/geo-data/python-epsg", 
+  "info": {
+    "Author:": "Homme Zwaagstra", 
+    "Home Page:": "http://github.com/geo-data/python-epsg", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Homme.Zwaagstra"
+  }, 
+  "license": "", 
+  "longdescription": "An interface to the EPSG Geodetic Parameter Dataset at httpwww.epsg-registry.org", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "880ee281be28a7c307eb59353384708b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-epsg/python-epsg-0.1.3.tar.gz"
+}

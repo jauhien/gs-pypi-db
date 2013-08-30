@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tag fileds for CMS pages. Works with django-tagging or django-tagging-ng.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pbs/django-cms-pagetags", 
+  "info": {
+    "Author:": "Calin Furau", 
+    "Home Page:": "https://github.com/pbs/django-cms-pagetags", 
+    "Keywords:": "django-cms django cms tags", 
+    "License:": "BSD License", 
+    "Package Index Maintainer:": "agherasim", 
+    "Package Index Owner:": "agherasim, Furau.Calin"
+  }, 
+  "license": "", 
+  "longdescription": "Tag fileds for CMS pages. Works with django-tagging or django-tagging-ng.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d99edfe79f32e012a09203719faf272e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cms-pagetags/django-cms-pagetags-0.1.6.tar.gz"
+}

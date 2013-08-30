@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Split a PDF file or rearrange its pages into a new PDF file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.dinu-gherman.net/", 
+  "info": {
+    "Author:": "Dinu Gherman", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://www.dinu-gherman.net/tmp/pdfsplit-0.4.2.tar.gz", 
+    "Home Page:": "http://www.dinu-gherman.net/", 
+    "Keywords:": "PDF,slicing pages,rearraging pages", 
+    "License:": "GPL 3", 
+    "Package Index Owner:": "gherman", 
+    "Platform:": "Posix,Windows"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Split a PDF file or rearrange its pages into a new PDF file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d81f80360c04d18eb1a562fc263b34e7", 
+  "source_uri": "http://www.dinu-gherman.net/tmp/pdfsplit-0.4.2.tar.gz"
+}

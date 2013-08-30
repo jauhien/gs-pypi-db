@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Yet, another buildout recipe for patching", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ant30/yaco-recipe-patch", 
+  "info": {
+    "Author:": "Antonio P\u00c3\u00a9rez-Aranda Alcaide", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ant30/yaco-recipe-patch", 
+    "Keywords:": "buildout patch", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "ant30"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Yet, another buildout recipe for patching", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a722c2070ee9599f124328ac44fd057c", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yaco.recipe.patch/yaco.recipe.patch-0.3.2.1.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python binding for Asterisk AJAM interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://devedge.bour.cc/wiki/PyAjam", 
+  "info": {
+    "Author:": "Guillaume Bour", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "French"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://devedge.bour.cc/resources/pyajam/src/pyajam.latest.tar.gz", 
+    "Home Page:": "http://devedge.bour.cc/wiki/PyAjam", 
+    "Keywords:": "Asterisk AJAM API VoIP", 
+    "License:": "GNU General Public License v3", 
+    "Package Index Owner:": "gbour"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python binding for Asterisk AJAM interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6381f9c4e126a1a8b1f088059ada81de", 
+  "source_uri": "http://devedge.bour.cc/resources/pyajam/src/pyajam.latest.tar.gz"
+}

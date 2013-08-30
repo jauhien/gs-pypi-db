@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple script to run in order to collect data for comparing SPDY and HTTP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bis12/spdyathome", 
+  "info": {
+    "Author:": "Brian Stack", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bis12/spdyathome", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bstack"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple script to run in order to collect data for comparing SPDY and HTTP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b54cf016d1312c07899ac277fd03b46", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spdyathome/spdyathome-1.2.2.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bono is a minimalistic SMTP Proxy built on top of Tornado.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/puentesarrin/bonzo", 
+  "info": {
+    "Author:": "Jorge Puente Sarr\u00edn", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "Proxy Servers"
+      ]
+    }, 
+    "Home Page:": "https://github.com/puentesarrin/bonzo", 
+    "Keywords:": "bonzo,tornado,smtp,proxy", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "puentesarrin"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Bono is a minimalistic SMTP Proxy built on top of Tornado.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b8fefe96a94bdbf31f9860077bcfc31", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bonzo/bonzo-0.1.0.tar.gz"
+}

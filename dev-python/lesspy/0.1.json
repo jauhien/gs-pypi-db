@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helps compile collections of LESS files into CSS files     Given a source directory, recursively finds LESS (.lesslss.css) files     Saves compiled CSS files to a destination path, using the same directory      structure as the source.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ryanpetrello/lesspy", 
+  "info": {
+    "Author:": "Ryan Petrello", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Pre-processors"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ryanpetrello/lesspy", 
+    "Keywords:": "less lesscss css compile", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ryanpetrello"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Helps compile collections of LESS files into CSS files     Given a source directory, recursively finds LESS (.lesslss.css) files     Saves compiled CSS files to a destination path, using the same directory      structure as the source.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b5b085fbe64c340b8b7cda74e943574e", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lesspy/lesspy-0.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pluggable object copying (deprecated in favor of ope.copy)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zope Project", 
+    "Keywords:": "zope zope3 copy clone", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "gary, zvezdan, nadako"
+  }, 
+  "license": "", 
+  "longdescription": "Pluggable object copying (deprecated in favor of ope.copy)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d28b9ad03d699a4540db9b1e3949ee8b", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.copy/zc.copy-1.2.tar.gz"
+}

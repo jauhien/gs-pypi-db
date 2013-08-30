@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "tools for distributed computing at UTCS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bsilverthorn/utcondor", 
+  "info": {
+    "Author:": "Bryan Silverthorn", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bsilverthorn/utcondor", 
+    "Keywords:": "distributed condor UT UTexas cluster", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Bryan.Silverthorn"
+  }, 
+  "license": "", 
+  "longdescription": "tools for distributed computing at UTCS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c221ea47786496facbeb309aa9becb30", 
+  "source_uri": "https://pypi.python.org/packages/source/u/utcondor/utcondor-0.4.1.tar.gz"
+}

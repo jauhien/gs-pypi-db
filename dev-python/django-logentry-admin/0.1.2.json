@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add Django LogEntries the the Django admin site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/yprez/django-logentry-admin", 
+  "info": {
+    "Author:": "Yuri Prezument", 
+    "Bug Tracker:": "https://github.com/yprez/django-logentry-admin/issues", 
+    "Home Page:": "http://github.com/yprez/django-logentry-admin", 
+    "License:": "ISC", 
+    "Package Index Owner:": "yprez"
+  }, 
+  "license": "", 
+  "longdescription": "Add Django LogEntries the the Django admin site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f348067d68add85d6cb862164007f21d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-logentry-admin/django-logentry-admin-0.1.2.tar.gz"
+}

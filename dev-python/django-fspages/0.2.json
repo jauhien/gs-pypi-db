@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application for serving page templates from the file system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Vladimir Dmitriev", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vldmit"
+  }, 
+  "license": "", 
+  "longdescription": "Django application for serving page templates from the file system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f6ee5cc98a3a9d2e112729168d8eeba", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-fspages/django-fspages-0.2.tar.gz"
+}

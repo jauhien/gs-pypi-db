@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app that provides helpers for multiple pluggable payment backends.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/agiliq/merchant", 
+  "info": {
+    "Author:": "Agiliq Solutions", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/agiliq/merchant", 
+    "License:": "BSD", 
+    "Package Index Owner:": "shabda"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app that provides helpers for multiple pluggable payment backends.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "06b895b365cf1be4001ab63c28a0d687", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-merchant/django-merchant-0.0.8a0.tar.gz"
+}

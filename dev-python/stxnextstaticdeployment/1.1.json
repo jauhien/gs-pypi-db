@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Deploy Plone site to static files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.stxnext.pl/open-source", 
+  "info": {
+    "Author:": "STX Next Sp. z o.o, Igor Kupczy\u0144ski, Rados\u0142aw Jankiewicz, Wojciech Lichota, Sebastian Kalinowski", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.stxnext.pl/open-source", 
+    "Keywords:": "plone static deploy", 
+    "License:": "Zope Public License, Version 2.1 (ZPL)", 
+    "Package Index Owner:": "radekj", 
+    "Platform:": "any"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Deploy Plone site to static files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae22be9a2ccafd7d2ae1494b149da8a5", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stxnext.staticdeployment/stxnext.staticdeployment-1.1.tar.gz"
+}

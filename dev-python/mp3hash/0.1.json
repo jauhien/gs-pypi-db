@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Music file hasher", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jvrsantacruz/mp3hash", 
+  "info": {
+    "Author:": "Javier Santacruz", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jvrsantacruz/mp3hash", 
+    "Package Index Owner:": "jvrsantacruz", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Music file hasher", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e85c1590a36e9de092754cc4ce855047", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mp3hash/mp3hash-0.1.tar.gz"
+}

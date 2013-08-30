@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hotfix to fix CVE 2010-318 for ope  2.10", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.zope.org/Zope/hotfixes/Products.Zope_Hotfix_CVE_2010_3198", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.zope.org/Zope/hotfixes/Products.Zope_Hotfix_CVE_2010_3198", 
+    "Keywords:": "security hotfix patch", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Hotfix to fix CVE 2010-318 for ope  2.10", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2e84a354a293ab8cce840a99fcbfe014", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.Zope_Hotfix_CVE_2010_3198/Products.Zope_Hotfix_CVE_2010_3198-1.0.zip"
+}

@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple way of configuring port numbers as offsets from a base, for use in buildout scripts.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/isotoma.recipe.portmap", 
+  "info": {
+    "Author:": "Doug Winter", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/isotoma.recipe.portmap", 
+    "Keywords:": "buildout", 
+    "License:": "Apache Software License", 
+    "Package Index Maintainer:": "johncarr, alex2", 
+    "Package Index Owner:": "winjer, johncarr"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Simple way of configuring port numbers as offsets from a base, for use in buildout scripts.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c017e94e2b35aea5492962e596ceef1b", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.portmap/isotoma.recipe.portmap-0.0.2.tar.gz"
+}

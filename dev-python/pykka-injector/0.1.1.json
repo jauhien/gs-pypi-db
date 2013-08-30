@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pykka (actor model implementation) and Injector (dependency injection framework) integration module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jstasiak/pykka-injector", 
+  "info": {
+    "Author:": "Jakub Stasiak", 
+    "Download URL:": "http://pypi.python.org/pypi/pykka-injector", 
+    "Home Page:": "http://github.com/jstasiak/pykka-injector", 
+    "Keywords:": "Dependency Injection,Injector,Pykka", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jstasiak", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Pykka (actor model implementation) and Injector (dependency injection framework) integration module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "699faf2321d5422166227150ef8a5023", 
+  "source_uri": "http://pypi.python.org/pypi/pykka-injector"
+}

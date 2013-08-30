@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Solves automatic numerical differentiation problems in one or more variables.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/numdifftools/", 
+  "info": {
+    "Author:": "Per A. Brodtkorb", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "Implementation"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/numdifftools/", 
+    "License:": "New BSD", 
+    "Package Index Owner:": "pab"
+  }, 
+  "license": "", 
+  "longdescription": "Solves automatic numerical differentiation problems in one or more variables.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "944981e22d56ff299f73124ea1e62edc", 
+  "source_uri": "https://pypi.python.org/packages/source/N/Numdifftools/Numdifftools-0.4.0.zip"
+}

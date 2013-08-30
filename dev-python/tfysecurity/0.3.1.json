@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TFY package used to add wrapper around ope security", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ztfy.org", 
+  "info": {
+    "Author:": "Thierry Florac", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.ztfy.org", 
+    "Keywords:": "ZTFY security wrapper for Zope3", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tflorac"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "TFY package used to add wrapper around ope security", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b99740adfd4e852d6cfcb077dc222ecf", 
+  "source_uri": "https://pypi.python.org/packages/source/z/ztfy.security/ztfy.security-0.3.1.tar.gz"
+}

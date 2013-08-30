@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Templating recipe with remote resource support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Categories": {
+      "Framework": [
+        "Buildout", 
+        "Recipe"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "slapos recipe", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "jm, cedric.dsm, romain"
+  }, 
+  "license": "", 
+  "longdescription": "Templating recipe with remote resource support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "219b5794493d924c6bffcf0fa77bf907", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slapos.recipe.template/slapos.recipe.template-2.5.tar.gz"
+}

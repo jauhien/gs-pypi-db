@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A libarchive wrapper for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/python-libarchive/", 
+  "info": {
+    "Author:": "Ben Timby", 
+    "Bug Tracker:": "http://code.google.com/p/python-libarchive/issues/list", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Compression"
+      ]
+    }, 
+    "Download URL:": "http://python-libarchive.googlecode.com/files/python-libarchive-3.1.2-1.tar.gz", 
+    "Home Page:": "http://code.google.com/p/python-libarchive/", 
+    "License:": "BSD-style license", 
+    "Package Index Owner:": "Ben.Timby", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A libarchive wrapper for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "edf2893eecd1a137f361bb1e1a13a2e7", 
+  "source_uri": "http://python-libarchive.googlecode.com/files/python-libarchive-3.1.2-1.tar.gz"
+}

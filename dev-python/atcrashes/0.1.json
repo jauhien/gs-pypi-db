@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Like atexit, but for crashes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/m-r-r/atcrashes", 
+  "info": {
+    "Author:": "Micka\u00ebl Raybaud-Roig", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/m-r-r/atcrashes", 
+    "Package Index Owner:": "mrr"
+  }, 
+  "license": "", 
+  "longdescription": "Like atexit, but for crashes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23ef9037e813897ed6ff74311ec862f2", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atcrashes/atcrashes-0.1.tar.gz"
+}

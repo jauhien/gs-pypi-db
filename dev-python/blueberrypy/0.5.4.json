@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CherryPy plugins and tools for integration with various libraries, including logging, Redis, SQLAlchemy and Jinja2 and webassets.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/wyuenho/blueberrypy", 
+  "info": {
+    "Author:": "Jimmy Yuen Ho Wong", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "CherryPy"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/wyuenho/blueberrypy", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wyuenho"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "CherryPy plugins and tools for integration with various libraries, including logging, Redis, SQLAlchemy and Jinja2 and webassets.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "012d998fe4a69c0e14f189b920bbe57e", 
+  "source_uri": "https://pypi.python.org/packages/source/b/blueberrypy/blueberrypy-0.5.4.tar.gz"
+}

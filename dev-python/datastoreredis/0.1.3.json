@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "redis datastore implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/datastore/datastore.redis", 
+  "info": {
+    "Author:": "Juan Batiz-Benet", 
+    "Categories": {
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://github.com/datastore/datastore.redis", 
+    "Keywords:": "datastore,redis", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jbenet"
+  }, 
+  "license": "", 
+  "longdescription": "redis datastore implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3c544c27019bf9cba210766d2a074468", 
+  "source_uri": "https://pypi.python.org/packages/source/d/datastore.redis/datastore.redis-0.1.3.tar.gz"
+}

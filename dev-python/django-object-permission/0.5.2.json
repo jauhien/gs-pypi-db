@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add object specific permission for particualr UserGroup, All authenticated user or Anonymous user", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lambdalisue/django-object-permission", 
+  "info": {
+    "Author:": "Alisue", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Download URL:": "https://github.com/lambdalisue/django-object-permission/tarball/master", 
+    "Home Page:": "https://github.com/lambdalisue/django-object-permission", 
+    "Keywords:": "django permission object", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Alisue, lambdalisue"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Add object specific permission for particualr UserGroup, All authenticated user or Anonymous user", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "256745b5a513d455043287dc8ab0f16a", 
+  "source_uri": "https://github.com/lambdalisue/django-object-permission/tarball/master"
+}

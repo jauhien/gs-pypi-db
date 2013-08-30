@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add an upload to s3 command to setuptools.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pbs/s3sourceuploader", 
+  "info": {
+    "Author:": "Sever Banesiu", 
+    "Home Page:": "http://github.com/pbs/s3sourceuploader", 
+    "Keywords:": "setuptools s3 upload", 
+    "License:": "BSD", 
+    "Package Index Owner:": "severb"
+  }, 
+  "license": "", 
+  "longdescription": "Add an upload to s3 command to setuptools.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "35c59262a9388e5ff2d6e99a7a813e7c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s3sourceuploader/s3sourceuploader-0.1.2.tar.gz"
+}

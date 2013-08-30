@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django middleware for blocking IPs listed in stopforumspam.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://overtag.dk/", 
+  "info": {
+    "Author:": "Benjamin Bach", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "https://overtag.dk/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "benjaoming"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django middleware for blocking IPs listed in stopforumspam.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f62b3626141e78d17ee1ce32db356d17", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stopforumspam/stopforumspam-1.4.1.tar.gz"
+}

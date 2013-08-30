@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A method of automatically constructing a Librarian library database from a directory of yaml files or the reverse.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Nekroze/librator", 
+  "info": {
+    "Author:": "Taylor \"Nekroze\" Lawson", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Nekroze/librator", 
+    "Keywords:": "librator", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Nekroze"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A method of automatically constructing a Librarian library database from a directory of yaml files or the reverse.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a501f99c323c1b039f2105668a933903", 
+  "source_uri": "https://pypi.python.org/packages/source/l/librator/librator-0.1.6.tar.gz"
+}

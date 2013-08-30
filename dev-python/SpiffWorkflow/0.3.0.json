@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A workflow framework based on www.workflowpatterns.com", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/spiff-workflow/", 
+  "info": {
+    "Author:": "Samuel Abels", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/spiff-workflow/", 
+    "Keywords:": "spiff guard acl acls security authentication object storage", 
+    "License:": "lGPLv2", 
+    "Package Index Owner:": "knipknap"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A workflow framework based on www.workflowpatterns.com", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ee09b45239ef3709da9bdeaa39c0dc3d", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SpiffWorkflow/SpiffWorkflow-0.3.0.tar.gz"
+}

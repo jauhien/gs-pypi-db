@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app that provides helpers for uploading static files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/streeter/django-uploadstatic", 
+  "info": {
+    "Author:": "Chris Streeter", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/streeter/django-uploadstatic", 
+    "License:": "BSD", 
+    "Package Index Owner:": "streeter"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django app that provides helpers for uploading static files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7820a01c08973492b0deaec4888ba36a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-uploadstatic/django-uploadstatic-0.3.0.tar.gz"
+}

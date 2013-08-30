@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "wrapper to access TNEF-encoded email attachments", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pytnef", 
+  "info": {
+    "Author:": "Petri Savolainen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pytnef", 
+    "License:": "http://www.fsf.org/licensing/licenses/lgpl.txt", 
+    "Package Index Owner:": "petri", 
+    "Platform:": "unix"
+  }, 
+  "license": "", 
+  "longdescription": "wrapper to access TNEF-encoded email attachments", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "129b8bde8abf4658b5f45c8f66f6212f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytnef/pytnef-0.2.tar.gz"
+}

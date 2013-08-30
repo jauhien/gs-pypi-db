@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trac plugin designed to display ads on your Trac environment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Pedro Algarvio", 
+    "Package Index Owner:": "s0undt3ch"
+  }, 
+  "license": "", 
+  "longdescription": "Trac plugin designed to display ads on your Trac environment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a31f09ea3003123ea9a77bf777fd8cc", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracAdsPanel/TracAdsPanel-0.1.1.tar.bz2"
+}

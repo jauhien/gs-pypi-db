@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "It allows you to interact with devices managed by Mopool.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/mozpoolclient/", 
+  "info": {
+    "Author:": "Zambrano, Armen", 
+    "Home Page:": "http://pypi.python.org/pypi/mozpoolclient/", 
+    "License:": "MPL", 
+    "Package Index Maintainer:": "djmitche", 
+    "Package Index Owner:": "armenzg"
+  }, 
+  "license": "", 
+  "longdescription": "It allows you to interact with devices managed by Mopool.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "92b0c084cfb12404f3d691e3c359916c", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozpoolclient/mozpoolclient-0.1.2.tar.gz"
+}

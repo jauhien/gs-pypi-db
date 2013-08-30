@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ISC-DHCP LDAP Schema manipulation helper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/canni/pydhcp-ldap-schema", 
+  "info": {
+    "Author:": "Dariusz G\u00f3recki", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v3 or later (LGPLv3+)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory", 
+        "LDAP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/canni/pydhcp-ldap-schema", 
+    "Keywords:": "dhcp,ldap,schema", 
+    "Package Index Owner:": "canni"
+  }, 
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)", 
+  "longdescription": "ISC-DHCP LDAP Schema manipulation helper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8cef12a64cdeaccdc56aadba87276ab", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pydhcp-ldap-schema/pydhcp-ldap-schema-0.1beta.tar.gz"
+}

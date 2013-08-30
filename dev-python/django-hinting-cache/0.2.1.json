@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cache wrapper that turns many gets into fewer get_manys", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dmclain/django-hinting-cache", 
+  "info": {
+    "Author:": "Dave McLain", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/dmclain/django-hinting-cache", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dmclain"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Cache wrapper that turns many gets into fewer get_manys", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2fba5bc39e757e7755de3a5f95315c3a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-hinting-cache/django-hinting-cache-0.2.1.tar.gz"
+}

@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trac plugin to enable your trac environment to be logged by Piwik", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/piquadrat/tracpiwik/", 
+  "info": {
+    "Author:": "Benjamin Wohlwend", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Download URL:": "http://python.org/pypi/TracPiwik", 
+    "Home Page:": "http://bitbucket.org/piquadrat/tracpiwik/", 
+    "Keywords:": "trac plugin piwik", 
+    "License:": "BSD", 
+    "Package Index Owner:": "piquadrat"
+  }, 
+  "license": "", 
+  "longdescription": "Trac plugin to enable your trac environment to be logged by Piwik", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2536de8b9d108172a1f67c2add651894", 
+  "source_uri": "http://python.org/pypi/TracPiwik"
+}

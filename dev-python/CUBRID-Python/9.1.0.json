@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is a Python Connector for CUBRID Database .1.0.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cubrid.org/wiki_apis/entry/cubrid-python-driver", 
+  "info": {
+    "Author:": "Li Jinhu", 
+    "Bug Tracker:": "http://jira.cubrid.org/browse/APIS/component/10102", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database", 
+        "Database Engines/Servers"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//CUBRID-Python", 
+    "Download URL:": "http://www.cubrid.org/?mid=downloads&item=python_driver", 
+    "Home Page:": "http://www.cubrid.org/wiki_apis/entry/cubrid-python-driver", 
+    "Keywords:": "cubrid open source relational database sql", 
+    "License:": "BSD", 
+    "Maintainer:": "Esen Sagynov", 
+    "Package Index Owner:": "CUBRID"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "This is a Python Connector for CUBRID Database .1.0.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66282509d01a8daa5f2dfca79fd88229", 
+  "source_uri": "http://www.cubrid.org/?mid=downloads&item=python_driver"
+}

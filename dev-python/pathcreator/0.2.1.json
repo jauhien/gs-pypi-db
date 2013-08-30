@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool to create 3d sound rendering path given a listener, speakers, audio path and audio track.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://vis.uky.edu/", 
+  "info": {
+    "Author:": "Charles Maynard, Vis Center", 
+    "Home Page:": "http://vis.uky.edu/", 
+    "Package Index Owner:": "kramthegram"
+  }, 
+  "license": "", 
+  "longdescription": "Tool to create 3d sound rendering path given a listener, speakers, audio path and audio track.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54b2d3ea67715bcacd4a56b54f3d5c53", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pathcreator/pathcreator-0.2.1.tar.gz"
+}

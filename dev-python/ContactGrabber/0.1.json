@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Grabs contacts from GMail, Yahoo, Rediff etc.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pycontactgrabber/", 
+  "info": {
+    "Author:": "Sanjay", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pycontactgrabber/", 
+    "Keywords:": "python contact grabber rediff yahoo gmail", 
+    "License:": "MIT License", 
+    "Maintainer:": "Ranjan, Jitesh", 
+    "Package Index Owner:": "skpatel20", 
+    "Platform:": "Python 2.5"
+  }, 
+  "license": "", 
+  "longdescription": "Grabs contacts from GMail, Yahoo, Rediff etc.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "94564c94712987efc150cc371d5667ac", 
+  "source_uri": "https://pypi.python.org/packages/source/C/ContactGrabber/ContactGrabber-0.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Control nagios using an API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/xb95/nagios-api", 
+  "info": {
+    "Author:": "Mark Smith", 
+    "Home Page:": "https://github.com/xb95/nagios-api", 
+    "License:": "BSD New (3-clause) License", 
+    "Package Index Owner:": "zorkian"
+  }, 
+  "license": "", 
+  "longdescription": "Control nagios using an API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "90159e2cc2550f860d7c4ab7e9bc2c94", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nagios-api/nagios-api-1.2.2.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Secure storing of passwords and other secrets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/python-secretstorage", 
+  "info": {
+    "Author:": "Dmitry Shachnev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//SecretStorage", 
+    "Home Page:": "http://launchpad.net/python-secretstorage", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mitya57", 
+    "Platform:": "Linux"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Secure storing of passwords and other secrets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b144ab778a9db216c87e42e9a6d4f53a", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SecretStorage/SecretStorage-1.0.0.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python interface to the Akismet anti comment-spam API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.voidspace.org.uk/python/modules.shtml#akismet", 
+  "info": {
+    "Author:": "Fuzzyman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "http://www.voidspace.org.uk/downloads/akismet-0.2.0.zip", 
+    "Home Page:": "http://www.voidspace.org.uk/python/modules.shtml#akismet", 
+    "Keywords:": "akismet, spam, comment, cgi", 
+    "Package Index Owner:": "Fuzzyman"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Python interface to the Akismet anti comment-spam API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd4b471d88aadad00a6fd70dea97e718", 
+  "source_uri": "http://www.voidspace.org.uk/downloads/akismet-0.2.0.zip"
+}

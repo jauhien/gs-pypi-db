@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django application that lets you associate Twitter accounts with your User accounts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/akoha/django-oauth-twitter/", 
+  "info": {
+    "Author:": "Akoha Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/akoha/django-oauth-twitter/", 
+    "Package Index Owner:": "erikwright, sfllaw, jdilelle"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django application that lets you associate Twitter accounts with your User accounts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "22be596c56b21df673b17b66bb132de0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-oauth-twitter/django-oauth-twitter-1.11.tar.gz"
+}

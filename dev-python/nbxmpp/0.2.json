@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Non blocking JabberXMPP module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python-nbxmpp.gajim.org", 
+  "info": {
+    "Author:": "Yann Leboulanger", 
+    "Bug Tracker:": "http://python-nbxmpp.gajim.org", 
+    "Home Page:": "http://python-nbxmpp.gajim.org", 
+    "Package Index Owner:": "asterix"
+  }, 
+  "license": "", 
+  "longdescription": "Non blocking JabberXMPP module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aa49f10dbf9ccc364bdb2e89a85eb857", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nbxmpp/nbxmpp-0.2.tar.gz"
+}

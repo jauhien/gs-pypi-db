@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Builder pattern for creating Plone objects in tests", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/ftw.builder", 
+  "info": {
+    "Author:": "4teamwork GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/ftw.builder", 
+    "Keywords:": "ftw builder plone", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "phgross, tschanzt, buchi, maethu, 4teamwork, jone"
+  }, 
+  "license": "", 
+  "longdescription": "Builder pattern for creating Plone objects in tests", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d01433c6f34d788efea055dd2b91c8b1", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftw.builder/ftw.builder-1.0.0.zip"
+}

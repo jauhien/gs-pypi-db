@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line tool and module to crop an image to a specific resolution removing less important parts first", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mapado/cropy", 
+  "info": {
+    "Author:": "Jerry Nieuviarts", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Artificial Intelligence"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mapado/cropy", 
+    "Keywords:": "image,crop,entropy,autocrop,resize", 
+    "License:": "FreeBSD", 
+    "Package Index Owner:": "brouberol"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Command line tool and module to crop an image to a specific resolution removing less important parts first", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e8a42162c6893a486621568318d01581", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cropy/cropy-0.1.tar.gz"
+}

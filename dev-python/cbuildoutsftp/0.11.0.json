@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Specialied c.buildout plugin to add sftp support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.python.org/pypi/zc.buildoutsftp", 
+  "info": {
+    "Author:": "Jim Fulton", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.python.org/pypi/zc.buildoutsftp", 
+    "Keywords:": "buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "fdrake", 
+    "Package Index Owner:": "jamur2, fdrake, J1m"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Specialied c.buildout plugin to add sftp support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "248a3a32901d571c3ef8551293824554", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.buildoutsftp/zc.buildoutsftp-0.11.0.tar.gz"
+}

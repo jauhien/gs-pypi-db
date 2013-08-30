@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ploneope time based event mechanism", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective-timedevents", 
+  "info": {
+    "Author:": "Mikko Ohtamaa", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective-timedevents", 
+    "Keywords:": "plone zope event clock time subscriber date day", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "naomin", 
+    "Package Index Owner:": "miohtama, quintagroup, naomin"
+  }, 
+  "license": "", 
+  "longdescription": "Ploneope time based event mechanism", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df5d2e58f9d29569b44abe92cd64d741", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.timedevents/collective.timedevents-0.2.1.zip"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A GTK frontend for SftpMan, which helps you mount SFTP file systems.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/spantaleev/sftpman-gtk", 
+  "info": {
+    "Author:": "Slavi Pantaleev", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "X11 Applications", 
+        "GTK"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/spantaleev/sftpman-gtk", 
+    "Keywords:": "sftp,ssh,sshfs,gtk", 
+    "License:": "BSD", 
+    "Package Index Owner:": "s.pantaleev"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A GTK frontend for SftpMan, which helps you mount SFTP file systems.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "74f61a93e3b5981ae3ea208263b34bff", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sftpman-gtk/sftpman-gtk-0.3.0.tar.gz"
+}

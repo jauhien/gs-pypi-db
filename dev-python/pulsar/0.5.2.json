@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Event driven concurrent framework for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/quantmind/pulsar", 
+  "info": {
+    "Author:": "Luca Sbardella", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pulsar", 
+    "Home Page:": "https://github.com/quantmind/pulsar", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lsbardel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Event driven concurrent framework for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f1a115da0341e5f021dd3db7401420b7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pulsar/pulsar-0.5.2.tar.gz"
+}

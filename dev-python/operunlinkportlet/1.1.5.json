@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display Links selected from a Link collection inside a Portlet", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.operun.de/svn/operun.linkportlet", 
+  "info": {
+    "Author:": "Stefan Antonelli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.operun.de/svn/operun.linkportlet", 
+    "Keywords:": "Plone Portlet Links", 
+    "License:": "GPL", 
+    "Package Index Owner:": "san"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Display Links selected from a Link collection inside a Portlet", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08192193358e9fadcee34e1f71218066", 
+  "source_uri": "https://pypi.python.org/packages/source/o/operun.linkportlet/operun.linkportlet-1.1.5.tar.gz"
+}

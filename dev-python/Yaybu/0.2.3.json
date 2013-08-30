@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Server deployment and configuration management in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://yaybu.com/", 
+  "info": {
+    "Author:": "Isotoma Limited", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://yaybu.com/", 
+    "License:": "Apache Software License", 
+    "Package Index Maintainer:": "winjer, alex2", 
+    "Package Index Owner:": "winjer, johncarr, alex2"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Server deployment and configuration management in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7d22f93b1d583db70021ea9793c86740", 
+  "source_uri": "https://pypi.python.org/packages/source/Y/Yaybu/Yaybu-0.2.3.zip"
+}

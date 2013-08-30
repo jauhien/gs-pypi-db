@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple python daemon base class", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Lispython/fenix-daemon", 
+  "info": {
+    "Author:": "Alex", 
+    "Home Page:": "https://github.com/Lispython/fenix-daemon", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "Lispython"
+  }, 
+  "license": "", 
+  "longdescription": "Simple python daemon base class", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "630fd9510e6e1112ea48d9676a251c38", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fenix_daemon/fenix_daemon-0.1.0.tar.gz"
+}

@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TFY utilities for LDAP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ztfy.org", 
+  "info": {
+    "Author:": "Thierry Florac", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.ztfy.org", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tflorac"
+  }, 
+  "license": "", 
+  "longdescription": "TFY utilities for LDAP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0a9db285de637934ae19452331ee8c85", 
+  "source_uri": "https://pypi.python.org/packages/source/z/ztfy.ldap/ztfy.ldap-0.1.2.tar.gz"
+}

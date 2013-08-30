@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "form + digest auth middleware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://k0s.org/hg/bitsyauth", 
+  "info": {
+    "Author:": "Jeff Hammel", 
+    "Home Page:": "http://k0s.org/hg/bitsyauth", 
+    "Keywords:": "auth", 
+    "License:": "GPL", 
+    "Package Index Owner:": "k0s, ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "form + digest auth middleware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a307404448de88dc314c00638c4cd033", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bitsyauth/bitsyauth-0.1.2.tar.gz"
+}

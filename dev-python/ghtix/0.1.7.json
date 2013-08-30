@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple tool to summarie github issues across projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/perrygeo/ghtix", 
+  "info": {
+    "Author:": "Matthew Perry", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/perrygeo/ghtix", 
+    "Keywords:": "tickets issues tracker github project management", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "perrygeo"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple tool to summarie github issues across projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08d30afb1e43ecd2b924a7df58f434c0", 
+  "source_uri": "https://pypi.python.org/packages/source/g/ghtix/ghtix-0.1.7.tar.gz"
+}

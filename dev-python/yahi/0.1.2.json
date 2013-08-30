@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Versatile parallel log parser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://yahi.readthedocs.org/", 
+  "info": {
+    "Author:": "Julien Tayon", 
+    "Bug Tracker:": "https://github.com/jul/yahi/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//yahi", 
+    "Home Page:": "http://yahi.readthedocs.org/", 
+    "Keywords:": "log,parsing", 
+    "Maintainer:": "Julien Tayon", 
+    "Package Index Owner:": "julien.tayon"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Versatile parallel log parser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b7dd5014484e0dd0adca8a9cef67d69", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yahi/yahi-0.1.2.tar.gz"
+}

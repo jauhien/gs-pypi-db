@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A scheduling plugin for Twisted", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/benliles/TxScheduling", 
+  "info": {
+    "Author:": "Benjamin Liles", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/benliles/TxScheduling", 
+    "Keywords:": "twisted python scheduling cron", 
+    "Package Index Owner:": "benliles"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A scheduling plugin for Twisted", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d0be45357da115e22bd5af350977fb8", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TxScheduling/TxScheduling-1.1.tar.gz"
+}

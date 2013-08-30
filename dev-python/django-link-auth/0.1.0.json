@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Djangos authentication backend to login by temporary URLs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/svetlyak40wt/django-link-auth/", 
+  "info": {
+    "Author:": "Alexander Artemenko", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/svetlyak40wt/django-link-auth/", 
+    "Keywords:": "django apps authentication", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "svetlyak40wt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Djangos authentication backend to login by temporary URLs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c44fba2bd3882a59b1be14a11551d517", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-link-auth/django-link-auth-0.1.0.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple WSGI blog.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dealmeida.net/projects/webskine", 
+  "info": {
+    "Author:": "Roberto De Almeida", 
+    "Home Page:": "http://dealmeida.net/projects/webskine", 
+    "Keywords:": "wsgi blog", 
+    "License:": "MIT", 
+    "Package Index Owner:": "roberto"
+  }, 
+  "license": "", 
+  "longdescription": "A simple WSGI blog.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "014ce631b5b308325063bc86bc657766", 
+  "source_uri": "https://pypi.python.org/packages/source/w/webskine/webskine-0.2.tar.gz"
+}

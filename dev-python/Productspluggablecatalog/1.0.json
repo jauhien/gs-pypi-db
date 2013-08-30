@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pluggablecatalog is a replacement (or rather a wrapper) for Plones portal catalog", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.pluggablecatalog", 
+  "info": {
+    "Author:": "Daniel Nouri", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://plone.org/products/pluggablecatalog", 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.pluggablecatalog", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "claytron", 
+    "Package Index Owner:": "calvinhp, nouri"
+  }, 
+  "license": "", 
+  "longdescription": "pluggablecatalog is a replacement (or rather a wrapper) for Plones portal catalog", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "53cef522c444a7a52522bb783d6a9ef5", 
+  "source_uri": "http://plone.org/products/pluggablecatalog"
+}

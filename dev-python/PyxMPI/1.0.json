@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pyrex wrapper for MPI (Message Passing Interface) 1.1", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Peter Maxwell", 
+    "Categories": {
+      "Development Status": [
+        "7 - Inactive"
+      ]
+    }, 
+    "Download URL:": "http://bioinformatics.anu.edu.au/dist/PyxMPI.tar.gz", 
+    "Keywords:": "MPI,parallel", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pm67nz, GavinHuttley", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Pyrex wrapper for MPI (Message Passing Interface) 1.1", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b34f27dad3b100c1cd37a325483338ad", 
+  "source_uri": "http://bioinformatics.anu.edu.au/dist/PyxMPI.tar.gz"
+}

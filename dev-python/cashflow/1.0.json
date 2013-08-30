@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reads a Gnucash file and computes your cash flow", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Brandon Craig Rhodes", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Financial and Insurance Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Office/Business", 
+        "Financial", 
+        "Accounting"
+      ]
+    }, 
+    "License:": "GPL", 
+    "Package Index Owner:": "brandonrhodes"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Reads a Gnucash file and computes your cash flow", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7aac556a61dad77ac350acb2ea3f95a6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cashflow/cashflow-1.0.tar.gz"
+}

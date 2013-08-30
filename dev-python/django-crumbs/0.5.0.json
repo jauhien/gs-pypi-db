@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pluggable Django app for adding breadcrumbs to your project.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/caktus/django-crumbs/", 
+  "info": {
+    "Author:": "Caktus Consulting Group", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/caktus/django-crumbs/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "copelco"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A pluggable Django app for adding breadcrumbs to your project.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a23dca98deb189eb21ad1c66c5ca2e0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-crumbs/django-crumbs-0.5.0.tar.gz"
+}

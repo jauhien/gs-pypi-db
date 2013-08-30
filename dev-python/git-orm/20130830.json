@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "object-relational mapper for the git object store", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/natano/git-orm/", 
+  "info": {
+    "Author:": "Martin Natano", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://github.com/natano/git-orm/", 
+    "Keywords:": "Git,Distributed,ORM,Relational", 
+    "License:": "ISC", 
+    "Package Index Owner:": "natano"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "object-relational mapper for the git object store", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0688af9c89d2d4472e372529fc58d4b7", 
+  "source_uri": "https://pypi.python.org/packages/source/g/git-orm/git-orm-0.1a0.tar.gz"
+}

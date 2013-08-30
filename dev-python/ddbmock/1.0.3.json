@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Amaon DynamoDB mock implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/Ludia/dynamodb-mock", 
+  "info": {
+    "Author:": "Jean-Tiare Le Bigot", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/Ludia/dynamodb-mock", 
+    "Keywords:": "pyramid dynamodb mock planification", 
+    "Package Index Maintainer:": "hadrien, maxnoel", 
+    "Package Index Owner:": "hadrien, maxnoel, jtlebigot"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Amaon DynamoDB mock implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d47515701ca5801fad2da98e473e882", 
+  "source_uri": "https://pypi.python.org/packages/source/d/ddbmock/ddbmock-1.0.3.tar.gz"
+}

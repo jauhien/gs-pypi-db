@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django template filter application for sanitiing user submitted HTML", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/caktus/django-sanitizer", 
+  "info": {
+    "Author:": "Calvin Spealman", 
+    "Home Page:": "http://github.com/caktus/django-sanitizer", 
+    "Package Index Owner:": "ironfroggy, copelco"
+  }, 
+  "license": "", 
+  "longdescription": "Django template filter application for sanitiing user submitted HTML", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b487f7dc3f6db1ece9d8d33a352624da", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sanitizer/django-sanitizer-0.4.1.tar.gz"
+}

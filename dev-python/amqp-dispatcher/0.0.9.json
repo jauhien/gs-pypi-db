@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A daemon gevent to run AMQP consumers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/philipcristiano/amqp-dispatcher", 
+  "info": {
+    "Author:": "Philip Cristiano", 
+    "Home Page:": "http://github.com/philipcristiano/amqp-dispatcher", 
+    "Keywords:": "amqp", 
+    "License:": "BSD", 
+    "Package Index Owner:": "philipcristiano"
+  }, 
+  "license": "", 
+  "longdescription": "A daemon gevent to run AMQP consumers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b960091fd5506494508b5120c5f846a8", 
+  "source_uri": "https://pypi.python.org/packages/source/a/amqp-dispatcher/amqp-dispatcher-0.0.9.tar.gz"
+}

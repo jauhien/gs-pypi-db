@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A middleware that secures URLS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nextscreenlabs/django-ssl-redirect", 
+  "info": {
+    "Author:": "Jason Christa", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/nextscreenlabs/django-ssl-redirect", 
+    "Package Index Owner:": "megaman821"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A middleware that secures URLS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b91f6e9fce6f43b4da82b7a43c345ef7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ssl-redirect/django-ssl-redirect-1.0.zip"
+}

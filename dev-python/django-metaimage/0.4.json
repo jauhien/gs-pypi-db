@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper around django-photologue dealing w remote images, and server-side-generated images.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/limist/django-metaimage", 
+  "info": {
+    "Author:": "Kai Wu", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/limist/django-metaimage", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "limist"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Wrapper around django-photologue dealing w remote images, and server-side-generated images.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "704d1347cafb2b8d98e8d9d3ea6d08a1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-metaimage/django-metaimage-0.4.tar.gz"
+}

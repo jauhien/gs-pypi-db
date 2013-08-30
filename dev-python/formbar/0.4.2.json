@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library to layout, render and validate HTML forms in web applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ti/formbar", 
+  "info": {
+    "Author:": "Torsten Irl\u00e4nder", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 or later (GPLv2+)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//formbar", 
+    "Home Page:": "https://bitbucket.org/ti/formbar", 
+    "Keywords:": "python form validate web html", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ti"
+  }, 
+  "license": "GNU General Public License v2 or later (GPLv2+)", 
+  "longdescription": "Python library to layout, render and validate HTML forms in web applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "14dc4eaadb2b9d429cf6410768f8ae02", 
+  "source_uri": "https://pypi.python.org/packages/source/f/formbar/formbar-0.4.2.tar.gz"
+}

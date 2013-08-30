@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backup and restore tools for B2G", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/davehunt/b2gbackup", 
+  "info": {
+    "Author:": "Dave Hunt", 
+    "Home Page:": "https://github.com/davehunt/b2gbackup", 
+    "Keywords:": "mozilla b2g boot2gecko firefoxos backup restore", 
+    "License:": "MPL", 
+    "Package Index Owner:": "ctalbert, jgriffin, davehunt"
+  }, 
+  "license": "", 
+  "longdescription": "Backup and restore tools for B2G", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1e5d0c60310e714b8e961dcb32f90efd", 
+  "source_uri": "https://pypi.python.org/packages/source/b/b2gbackup/b2gbackup-0.1.tar.gz"
+}

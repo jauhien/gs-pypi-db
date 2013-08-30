@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library and web service interface (as service egg) for Mathomatics prime number generator.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gitorious.org/python-service-eggs", 
+  "info": {
+    "Author:": "Josef Spillner", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://gitorious.org/python-service-eggs", 
+    "Keywords:": "primes web service egg", 
+    "License:": "AGPLv3", 
+    "Package Index Owner:": "josef"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Python library and web service interface (as service egg) for Mathomatics prime number generator.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ede7a4ad60033b640795bc11463b7d36", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mathomaticprimes/mathomaticprimes-0.0.1.tar.gz"
+}

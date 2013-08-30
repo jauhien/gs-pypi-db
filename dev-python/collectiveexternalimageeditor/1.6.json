@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Addon product for plone to edit images on online webservices", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.makina-corpus.com/", 
+  "info": {
+    "Author:": "kiorky", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://www.makina-corpus.com/", 
+    "Keywords:": "plone image editor", 
+    "License:": "GPL", 
+    "Package Index Owner:": "kiorky"
+  }, 
+  "license": "", 
+  "longdescription": "Addon product for plone to edit images on online webservices", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6440f7bd155334ae0b39317d8ad32803", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.externalimageeditor/collective.externalimageeditor-1.6.zip"
+}

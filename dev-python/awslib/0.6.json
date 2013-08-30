@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small library providing Amaon Web Services utility functions on top of boto", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "James Aylett", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "License:": "MIT", 
+    "Package Index Owner:": "jaylett"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Small library providing Amaon Web Services utility functions on top of boto", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6cd16313978b93e02e81e50200a06f31", 
+  "source_uri": "https://pypi.python.org/packages/source/a/awslib/awslib-0.6.tar.gz"
+}

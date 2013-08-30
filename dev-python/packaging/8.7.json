@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of scripts for packaging python source", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://oss.netboxblue.com/pug/", 
+  "info": {
+    "Author:": "Stephen Thorne", 
+    "Home Page:": "http://oss.netboxblue.com/pug/", 
+    "Package Index Owner:": "jerub"
+  }, 
+  "license": "", 
+  "longdescription": "A set of scripts for packaging python source", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0b53c53b275c46b142678ae8ca14da7b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/packaging/packaging-8.7.tar.gz"
+}

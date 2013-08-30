@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "reverse engineer server configuration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://devstructure.com/", 
+  "info": {
+    "Author:": "Richard Crowley", 
+    "Home Page:": "http://devstructure.com/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rcrowley"
+  }, 
+  "license": "", 
+  "longdescription": "reverse engineer server configuration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "220e61da52cd6ffd7a9ccb26ded57ee4", 
+  "source_uri": "https://pypi.python.org/packages/source/b/blueprint/blueprint-3.4.2.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An HTML archive generator for chat rooms on an Openfire instant messaging server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/egnyte/ofarchiver", 
+  "info": {
+    "Author:": "John A. Barbuto", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving"
+      ]
+    }, 
+    "Home Page:": "http://github.com/egnyte/ofarchiver", 
+    "Keywords:": "archiving,chat,html,openfire", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jbarbuto", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An HTML archive generator for chat rooms on an Openfire instant messaging server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df8fe0fa62a87e628b3f20d1b44a968f", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ofarchiver/ofarchiver-0.43.tar.gz"
+}

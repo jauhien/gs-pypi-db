@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "e_setup.py and distribute_setup.py", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ActiveState/ez_setup", 
+  "info": {
+    "Author:": "Sridhar Ratnakumar", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ActiveState/ez_setup", 
+    "Keywords:": "ez_setup setuptools distribute workaround", 
+    "License:": "MIT", 
+    "Package Index Owner:": "srid"
+  }, 
+  "license": "", 
+  "longdescription": "e_setup.py and distribute_setup.py", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1ac53445a67bf68eb2676a72cc3f87f8", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ez_setup/ez_setup-0.9.tar.gz"
+}

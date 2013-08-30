@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Twitter portlet for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sharkbyte.co.uk", 
+  "info": {
+    "Author:": "Sharkbyte Studios", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://sharkbyte.co.uk", 
+    "License:": "GPL", 
+    "Package Index Owner:": "sharkbyte, hannosch, emanuel"
+  }, 
+  "license": "", 
+  "longdescription": "A Twitter portlet for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fe75c97c68558b3db16e87ea591423dd", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.twitterportlet/collective.twitterportlet-0.10.tar.gz"
+}

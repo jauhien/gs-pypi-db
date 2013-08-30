@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small utility for searching your source files for specific imports", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lnielsen-cern/py-import-search", 
+  "info": {
+    "Author:": "Lars Holm Nielsen", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lnielsen-cern/py-import-search", 
+    "License:": "GPL", 
+    "Package Index Owner:": "lars.holm.nielsen"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "A small utility for searching your source files for specific imports", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "93b216f2692f64e40243698816c0cb36", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py-import-search/py-import-search-0.3.tar.gz"
+}

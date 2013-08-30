@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper around BL data from Deutsche Bundesbank", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://projects.gocept.com/projects/pyblz/", 
+  "info": {
+    "Author:": "Wolfgang Schnerring <ws@gocept.com>", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ]
+    }, 
+    "Home Page:": "https://projects.gocept.com/projects/pyblz/", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ckauhaus, DanielHavlikGocept, sweh, ctheune, icemac, tlotze, zagy, wosc"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Wrapper around BL data from Deutsche Bundesbank", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66b55d7ad34528543a87dbb453a01b73", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyblz/pyblz-20120903.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple handling of system environment variables for application deployment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://gitthub.com/bennylope/sysenv", 
+  "info": {
+    "Author:": "Ben Lopatin", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://gitthub.com/bennylope/sysenv", 
+    "Keywords:": "sysenv", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bennylope"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple handling of system environment variables for application deployment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f463e41e811e4c383eeeedc336c99190", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sysenv/sysenv-0.1.0.tar.gz"
+}

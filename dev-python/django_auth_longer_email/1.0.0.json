@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple django app that patches auth. Users email field to 254 char.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mikexstudios/django-auth-longer-email", 
+  "info": {
+    "Author:": "Michael Huynh", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mikexstudios/django-auth-longer-email", 
+    "Package Index Owner:": "mikexstudios"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple django app that patches auth. Users email field to 254 char.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b252f80d9e12793b67fe736deca192c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_auth_longer_email/django_auth_longer_email-1.0.0.tar.gz"
+}

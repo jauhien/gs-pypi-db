@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Memcache Inspection Module and Command-Line Utility", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jayclassless/memcacheinspector", 
+  "info": {
+    "Author:": "Jason Simeone", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/jayclassless/memcacheinspector", 
+    "Keywords:": "memcache memcached inspector list dump search grep", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jayclassless"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Memcache Inspection Module and Command-Line Utility", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5858f78e6529aa6bdd97d9f9a202bf9", 
+  "source_uri": "https://pypi.python.org/packages/source/m/memcacheinspector/memcacheinspector-0.2.0.tar.gz"
+}

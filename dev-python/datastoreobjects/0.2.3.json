@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "object mapper for datastore", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/datastore/datastore.objects", 
+  "info": {
+    "Author:": "Juan Batiz-Benet", 
+    "Categories": {
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "http://github.com/datastore/datastore.objects", 
+    "Keywords:": "datastore,object mapper,ORM,serializing", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "jbenet"
+  }, 
+  "license": "", 
+  "longdescription": "object mapper for datastore", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bac25932a1e6ce3069a7add2e29b6c35", 
+  "source_uri": "https://pypi.python.org/packages/source/d/datastore.objects/datastore.objects-0.2.3.tar.gz"
+}

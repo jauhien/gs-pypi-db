@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CMF portal upgrade helpers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.upgrade", 
+  "info": {
+    "Author:": "Ross Patterson", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.upgrade", 
+    "Keywords:": "Zope CMF Plone GenericSetup upgrade", 
+    "License:": "GPL", 
+    "Package Index Owner:": "collective, rpatterson"
+  }, 
+  "license": "", 
+  "longdescription": "CMF portal upgrade helpers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f52e54bab2a6656926ddad64dfdf4e91", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.upgrade/collective.upgrade-0.2.tar.gz"
+}

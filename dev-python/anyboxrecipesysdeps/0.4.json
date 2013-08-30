@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A buildout recipe to check system dependencies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/anybox/anybox.recipe.sysdeps/overview", 
+  "info": {
+    "Author:": "Christophe Combelles", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/anybox/anybox.recipe.sysdeps/overview", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ccomb, gracinet"
+  }, 
+  "license": "", 
+  "longdescription": "A buildout recipe to check system dependencies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4561fe8b2de024f58ed85bcb96a1fdf7", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anybox.recipe.sysdeps/anybox.recipe.sysdeps-0.4.tar.gz"
+}

@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wiki page uploading command plugin for setuptools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/WikiUp", 
+  "info": {
+    "Author:": "Phillip J. Eby", 
+    "Categories": {
+      "Framework": [
+        "Setuptools Plugin"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/WikiUp", 
+    "License:": "PSF or ZPL", 
+    "Package Index Owner:": "pje"
+  }, 
+  "license": "", 
+  "longdescription": "Wiki page uploading command plugin for setuptools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c08bda275bb5423fabde10b55bc5bae0", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WikiUp/WikiUp-1.1.zip"
+}

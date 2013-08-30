@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Python DNS load balancer for geodns", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blogs.mnt.se", 
+  "info": {
+    "Author:": "Leif Johansson", 
+    "Home Page:": "http://blogs.mnt.se", 
+    "Keywords:": "cdn dlb", 
+    "License:": "BSD", 
+    "Package Index Owner:": "leifj"
+  }, 
+  "license": "", 
+  "longdescription": "Simple Python DNS load balancer for geodns", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ed4d9586228ededfe2e34437c0cd3ed", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-dnslb/python-dnslb-0.2.3.tar.gz"
+}

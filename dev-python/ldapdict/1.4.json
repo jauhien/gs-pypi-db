@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python package for connecting to LDAP, returning results as dictionary like classes. Results are cached.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://sourceforge.net/projects/python-ldapdict/", 
+  "info": {
+    "Author:": "Pieter van Tongeren", 
+    "Home Page:": "https://sourceforge.net/projects/python-ldapdict/", 
+    "Package Index Owner:": "pieter", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Python package for connecting to LDAP, returning results as dictionary like classes. Results are cached.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f878a3ed6287306535b1cf1703eb76a", 
+  "source_uri": "https://pypi.python.org/packages/source/l/ldapdict/ldapdict-1.4.zip"
+}

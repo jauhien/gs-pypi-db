@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQL aggregation tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dimagi/sql-agg", 
+  "info": {
+    "Author:": "Dimagi", 
+    "Home Page:": "http://github.com/dimagi/sql-agg", 
+    "License:": "MIT", 
+    "Package Index Owner:": "dimagi"
+  }, 
+  "license": "", 
+  "longdescription": "SQL aggregation tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5d1bd2b734652c3b1d813c9097a85cb1", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlagg/sqlagg-0.2.0.tar.gz"
+}

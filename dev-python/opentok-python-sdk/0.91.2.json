@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python wrapper for the OpenTok video chat APIs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/opentok/Opentok-Python-SDK", 
+  "info": {
+    "Author:": "TokBox, Inc.", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/opentok/Opentok-Python-SDK", 
+    "Keywords:": "video chat tokbox tok opentok python media", 
+    "Package Index Owner:": "opentok"
+  }, 
+  "license": "", 
+  "longdescription": "A python wrapper for the OpenTok video chat APIs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ace1a47007f866bcd25d34ff8c65f058", 
+  "source_uri": "https://pypi.python.org/packages/source/o/opentok-python-sdk/opentok-python-sdk-0.91.2.tar.gz"
+}

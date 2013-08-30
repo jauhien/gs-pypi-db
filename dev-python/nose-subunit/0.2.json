@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Subunit output adapter for nose", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/liucougar/nose-subunit", 
+  "info": {
+    "Author:": "liucougar", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/nose-subunit/", 
+    "Home Page:": "https://github.com/liucougar/nose-subunit", 
+    "Keywords:": "test unittest nosetests nose plugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "liucougar", 
+    "Platform:": "Independent"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Subunit output adapter for nose", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9d108be0569edc01854158aa767919e", 
+  "source_uri": "http://pypi.python.org/pypi/nose-subunit/"
+}

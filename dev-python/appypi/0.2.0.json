@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "appypi sandboxing apps from Pypi packages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://stephanepechard.github.com/appypi", 
+  "info": {
+    "Author:": "St\u00e9phane P\u00e9chard", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://stephanepechard.github.com/appypi", 
+    "Package Index Owner:": "stephanepechard"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "appypi sandboxing apps from Pypi packages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0dcfc894b8ac78e67e19d0b995f65cac", 
+  "source_uri": "https://pypi.python.org/packages/source/a/appypi/appypi-0.2.0.tar.gz"
+}

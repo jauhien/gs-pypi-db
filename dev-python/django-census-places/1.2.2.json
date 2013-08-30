@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use city (and census designated place) boundaries provided by the United States Census", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/latestrevision/django-census-places/", 
+  "info": {
+    "Author:": "Adam Coddington", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/latestrevision/django-census-places/", 
+    "Package Index Owner:": "latestrevision"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Use city (and census designated place) boundaries provided by the United States Census", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19b2f3eb44c31f914a2708d6de8702cb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-census-places/django-census-places-1.2.2.tar.gz"
+}

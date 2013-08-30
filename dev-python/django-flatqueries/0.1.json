@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Flatpage-like SQL queries for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-flatqueries/", 
+  "info": {
+    "Author:": "John Samuel Anderson", 
+    "Home Page:": "http://code.google.com/p/django-flatqueries/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "guitarmanvt"
+  }, 
+  "license": "", 
+  "longdescription": "Flatpage-like SQL queries for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "36369857763246861d3d815c01249602", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-flatqueries/django-flatqueries-0.1.tar.gz"
+}

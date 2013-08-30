@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Avro is a serialiation and RPC framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hadoop.apache.org/avro", 
+  "info": {
+    "Author:": "Apache Avro", 
+    "Home Page:": "http://hadoop.apache.org/avro", 
+    "Keywords:": "avro serialization rpc", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "hammer, Doug.Cutting"
+  }, 
+  "license": "", 
+  "longdescription": "Avro is a serialiation and RPC framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15f1b4475a93ddf6ab9de68ed91cb983", 
+  "source_uri": "https://pypi.python.org/packages/source/a/avro/avro-1.7.5.tar.gz"
+}

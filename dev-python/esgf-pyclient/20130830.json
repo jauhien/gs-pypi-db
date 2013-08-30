@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library interacting with ESGF services within Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://esgf-pyclient.readthedocs.org", 
+  "info": {
+    "Author:": "Stephen Pascoe", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Download URL:": "http://github.org/stephenpascoe/esgf-pyclient", 
+    "Home Page:": "http://esgf-pyclient.readthedocs.org", 
+    "License:": "BSD", 
+    "Package Index Owner:": "spascoe"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A library interacting with ESGF services within Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "80f65a7620c975825d45187a628df08d", 
+  "source_uri": "http://github.org/stephenpascoe/esgf-pyclient"
+}

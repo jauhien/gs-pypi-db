@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small Python library to make calls to mixpanels API. Requires beanstalkd server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tdavis/mixpanel/tree/master", 
+  "info": {
+    "Author:": "Tom Davis", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://cloud.github.com/downloads/tdavis/mixpanel/mixpanel-0.5.tar.gz", 
+    "Home Page:": "http://github.com/tdavis/mixpanel/tree/master", 
+    "Keywords:": "mixpanel", 
+    "Package Index Owner:": "binjured", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Small Python library to make calls to mixpanels API. Requires beanstalkd server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1098c3e59187559c6c72623f1a4617e1", 
+  "source_uri": "http://cloud.github.com/downloads/tdavis/mixpanel/mixpanel-0.5.tar.gz"
+}

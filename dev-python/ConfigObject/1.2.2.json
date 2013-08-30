@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ConfigObject is a wrapper to the python ConfigParser to      allow to access sectionsoptions with attribute names.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/ConfigObject/", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ConfigObject", 
+    "Home Page:": "http://packages.python.org/ConfigObject/", 
+    "Keywords:": "configuration config", 
+    "License:": "GPL", 
+    "Package Index Owner:": "gawel"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "ConfigObject is a wrapper to the python ConfigParser to      allow to access sectionsoptions with attribute names.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59dac325740be3e3d494c263f3347f50", 
+  "source_uri": "https://pypi.python.org/packages/source/C/ConfigObject/ConfigObject-1.2.2.tar.gz"
+}

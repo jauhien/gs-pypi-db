@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A distributed task runner", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cenkalti/kuyruk", 
+  "info": {
+    "Author:": "Cenk Alt\u0131", 
+    "Bug Tracker:": "https://github.com/cenkalti/kuyruk/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Distributed Computing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cenkalti/kuyruk", 
+    "Keywords:": "rabbitmq distributed task queue", 
+    "Package Index Owner:": "cenkalti"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A distributed task runner", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "60939eb7cd322d46ca63295b7cb820c8", 
+  "source_uri": "https://pypi.python.org/packages/source/K/Kuyruk/Kuyruk-0.23.0.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A generic system for interacting with remote APIs that need to create Django users.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mattsnider/Django-Social-User", 
+  "info": {
+    "Author:": "Matt Snider", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mattsnider/Django-Social-User", 
+    "Keywords:": "social,user", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mattesnider"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A generic system for interacting with remote APIs that need to create Django users.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c05d3b7e7c24a903ffbb94d10a5d412", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-social-user/django-social-user-0.1.8.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Task scheduler plugin for Trac", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/TracCronPlugin", 
+  "info": {
+    "Author:": "Tetsuya Morimoto", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/TracCronPlugin", 
+    "Keywords:": "trac cron scheduler plugin", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "t2y", 
+    "Package Index Owner:": "t2y, tbressure", 
+    "Platform:": "unix,linux,osx,windows"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Task scheduler plugin for Trac", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bab8c40f1b5ceb633c806d67783e7b90", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracCronPlugin/TracCronPlugin-0.3.1.tar.gz"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redis-based components for Scrapy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/darkrho/scrapy-redis", 
+  "info": {
+    "Author:": "Rolando Espinoza La fuente", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/darkrho/scrapy-redis", 
+    "License:": "BSD", 
+    "Package Index Owner:": "darkrho"
+  }, 
+  "license": "", 
+  "longdescription": "Redis-based components for Scrapy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ccb0a32709f2c97d252c8964f6164f0", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scrapy-redis/scrapy-redis-0.4.tar.gz"
+}

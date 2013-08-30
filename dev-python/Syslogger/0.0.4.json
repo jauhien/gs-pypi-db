@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Log messages by facility and level.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/syslogger/", 
+  "info": {
+    "Author:": "Rob Martin @version2beta", 
+    "Home Page:": "http://pypi.python.org/pypi/syslogger/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "version2beta"
+  }, 
+  "license": "", 
+  "longdescription": "Log messages by facility and level.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da865319c6a48078d351213bb08dca92", 
+  "source_uri": "https://pypi.python.org/packages/source/S/Syslogger/Syslogger-0.0.4.tar.gz"
+}

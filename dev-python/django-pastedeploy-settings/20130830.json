@@ -1,0 +1,67 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Conversion of Paste Deployment configuration to Django settings", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pythonhosted.org/django-pastedeploy-settings/", 
+  "info": {
+    "Author:": "2degrees Limited", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Paste"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-pastedeploy-settings", 
+    "Home Page:": "http://pythonhosted.org/django-pastedeploy-settings/", 
+    "Keywords:": "django wsgi paste pastedeploy web webtest nose nosetests", 
+    "License:": "BSD (http://dev.2degreesnetwork.com/p/2degrees-license.html)", 
+    "Package Index Owner:": "FranRuiz, euangoddard, Gustavo"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Conversion of Paste Deployment configuration to Django settings", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2300e6ac75e21a27eb44f82a772c6356", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pastedeploy-settings/django-pastedeploy-settings-1.0rc1.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Common deploysysadmin operations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://patchwork.fabfile.org", 
+  "info": {
+    "Author:": "Jeff Forcier", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://patchwork.fabfile.org", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bitprophet"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Common deploysysadmin operations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf8970f96a4b2b7703d838954b2d6b6a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/patchwork/patchwork-0.1.2.tar.gz"
+}

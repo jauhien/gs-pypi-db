@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Keep track of when a user has been last seen", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/ferranp/django-last-seen", 
+  "info": {
+    "Author:": "Ferran Pegueroles", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/ferranp/django-last-seen", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ferran"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Keep track of when a user has been last seen", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ab7bbc483520d81331810162f18adcf4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-last-seen/django-last-seen-0.3.tar.gz"
+}

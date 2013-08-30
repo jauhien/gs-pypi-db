@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple poll plugin for django-cms 2.2", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/tonioo/cmsplugin-poll", 
+  "info": {
+    "Author:": "Antoine Nguyen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/tonioo/cmsplugin-poll", 
+    "Keywords:": "django,django-cms,poll", 
+    "License:": "BSD", 
+    "Package Index Owner:": "tonio"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple poll plugin for django-cms 2.2", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b919afb8a8c60184307b09d3b842fea", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin-poll/cmsplugin-poll-0.4.tar.gz"
+}

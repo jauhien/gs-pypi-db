@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python extension for smhasher hash functions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/phensley/python-smhasher", 
+  "info": {
+    "Author:": "Patrick Hensley", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/phensley/python-smhasher", 
+    "Keywords:": "hash,hashing,smhasher", 
+    "Package Index Owner:": "phensley"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python extension for smhasher hash functions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8a4c8930546904d35298d3372b4e0136", 
+  "source_uri": "https://pypi.python.org/packages/source/s/smhasher/smhasher-0.136.2.tar.gz"
+}

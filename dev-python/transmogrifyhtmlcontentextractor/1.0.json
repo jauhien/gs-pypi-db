@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This blueprint extracts out title, description and body from html either via xpath or by automatic cluster analysis", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/djay/transmogrify.htmlcontentextractor", 
+  "info": {
+    "Author:": "Dylan Jay", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/djay/transmogrify.htmlcontentextractor", 
+    "Keywords:": "transmogrifier blueprint funnelweb source plone import conversion microsoft office", 
+    "License:": "GPL", 
+    "Package Index Owner:": "djay"
+  }, 
+  "license": "", 
+  "longdescription": "This blueprint extracts out title, description and body from html either via xpath or by automatic cluster analysis", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79ba21c3d976f1b022cc4c3f6b0fc4c1", 
+  "source_uri": "https://pypi.python.org/packages/source/t/transmogrify.htmlcontentextractor/transmogrify.htmlcontentextractor-1.0.zip"
+}

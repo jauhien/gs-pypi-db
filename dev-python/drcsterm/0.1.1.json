@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "UCS Private Area (Plain 16) - DRCS conversion filter for terminal", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/saitoha/drcsterm", 
+  "info": {
+    "Author:": "Hayaki Saito (user@zuse.jp)", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Terminals"
+      ]
+    }, 
+    "Home Page:": "https://github.com/saitoha/drcsterm", 
+    "Keywords:": "DRCS terminal", 
+    "License:": "GPL v3", 
+    "Package Index Owner:": "saitoha"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "UCS Private Area (Plain 16) - DRCS conversion filter for terminal", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a675b55c08b380e8b4af02bfd11e4e9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/drcsterm/drcsterm-0.1.1.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A handy extension of the dingus record and assert library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/allancaffe/deterministic-dingus", 
+  "info": {
+    "Author:": "Allan Caffee", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/allancaffe/deterministic-dingus", 
+    "Keywords:": "testing test mocking mock double stub fake record assert", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Allan.Caffee"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A handy extension of the dingus record and assert library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f76745d96c713c7f0c79e53622c9ebcf", 
+  "source_uri": "https://pypi.python.org/packages/source/d/deterministic-dingus/deterministic-dingus-0.0.4.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MySQL ope2 adapter.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/mysql-python", 
+  "info": {
+    "Author:": "John Eikenberry", 
+    "Home Page:": "http://sourceforge.net/projects/mysql-python", 
+    "License:": "Zope Public License (ZPL) Version 1.0", 
+    "Package Index Owner:": "eikenberry"
+  }, 
+  "license": "", 
+  "longdescription": "MySQL ope2 adapter.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c817e7f51e45218529e992acba866673", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ZMySQLDA/Products.ZMySQLDA-3.1.1.tar.gz"
+}

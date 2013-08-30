@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A client library for Sleepy Mongoose that provides the same interface as Pymongo. With support for batch operations.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bcoe/mongate", 
+  "info": {
+    "Author:": "Benjamin Coe", 
+    "Home Page:": "https://github.com/bcoe/mongate", 
+    "Package Index Owner:": "bcoe"
+  }, 
+  "license": "", 
+  "longdescription": "A client library for Sleepy Mongoose that provides the same interface as Pymongo. With support for batch operations.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "518e438105e7c58e62ea31a65a7af4cc", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mongate/mongate-2.1.6.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple standalone WSGI server with code reloading", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wsgiarea.pocoo.org/james/", 
+  "info": {
+    "Author:": "Armin Ronacher", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Download URL:": "http://wsgiarea.pocoo.org/james/dist/James-0.7.1.tar.gz", 
+    "Home Page:": "http://wsgiarea.pocoo.org/james/", 
+    "Keywords:": "wsgi html web server", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "mitsuhiko", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "simple standalone WSGI server with code reloading", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://wsgiarea.pocoo.org/james/dist/James-0.7.1.tar.gz"
+}

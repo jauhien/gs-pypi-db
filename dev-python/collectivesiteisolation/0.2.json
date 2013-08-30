@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Isolate objects in a ope root from each other", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.siteisolation", 
+  "info": {
+    "Author:": "ICTS KULeuven", 
+    "Categories": {
+      "Framework": [
+        "Plone", 
+        "4.3"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.siteisolation", 
+    "License:": "GPL", 
+    "Package Index Owner:": "mpeeters, gotcha, jfroche"
+  }, 
+  "license": "", 
+  "longdescription": "Isolate objects in a ope root from each other", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b072d456f4090413249f4dfe3cceb8e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.siteisolation/collective.siteisolation-0.2.zip"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DjangoCMS image gallery plugin with dragdrop reordering in admin,support for thumbnails and jQueryTOOLS overlay.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/centralniak", 
+  "info": {
+    "Author:": "Piotr Kilczuk", 
+    "Home Page:": "http://github.com/centralniak", 
+    "Package Index Owner:": "centralniak"
+  }, 
+  "license": "", 
+  "longdescription": "DjangoCMS image gallery plugin with dragdrop reordering in admin,support for thumbnails and jQueryTOOLS overlay.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c8a4e0081e036878dae8823bb2c4c6e9", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin_gallery/cmsplugin_gallery-0.1.6.tar.gz"
+}

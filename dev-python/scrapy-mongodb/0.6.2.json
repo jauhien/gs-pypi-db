@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pipeline to MongoDB for Scrapy. Supports MongoDB replica sets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sebdah.github.com/scrapy-mongodb/", 
+  "info": {
+    "Author:": "Sebastian Dahlgren", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://sebdah.github.com/scrapy-mongodb/", 
+    "Keywords:": "scrapy mongodb", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "Sebastian.Dahlgren", 
+    "Platform:": "Any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Pipeline to MongoDB for Scrapy. Supports MongoDB replica sets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c960710d4c748d566d504dd71b25f683", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scrapy-mongodb/scrapy-mongodb-0.6.2.tar.gz"
+}

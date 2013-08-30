@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Various service modules required by wayround.org projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://wiki.wayround.org/soft/org_wayround_utils", 
+  "info": {
+    "Author:": "Alexey Gorshkov", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://wiki.wayround.org/soft/org_wayround_utils", 
+    "Package Index Owner:": "Animus"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Various service modules required by wayround.org projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03dee42e10aaa4c057765e4e41ed2179", 
+  "source_uri": "https://pypi.python.org/packages/source/o/org_wayround_utils/org_wayround_utils-0.3.tar.gz"
+}

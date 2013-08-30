@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Store and restore old locations in Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/zacharyvoase/django-retracer", 
+  "info": {
+    "Author:": "Zachary Voase", 
+    "Home Page:": "http://bitbucket.org/zacharyvoase/django-retracer", 
+    "Package Index Owner:": "disturbyte"
+  }, 
+  "license": "", 
+  "longdescription": "Store and restore old locations in Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c98f3585d016226d411dbca85a8cf074", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-retracer/django-retracer-0.3.tar.gz"
+}

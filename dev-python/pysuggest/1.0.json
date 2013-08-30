@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for the SUGGEST, which is a Top-N recommendation engine that implements a variety of recommendation algorithms for collaborative filtering.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pysuggest/", 
+  "info": {
+    "Author:": "Python wrapper by Ricardo Niederberger Cabral. Recommendation engine by George Karypis (http://glaros.dtc.umn.edu/gkhome/suggest/overview)", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/pysuggest/downloads/list", 
+    "Home Page:": "http://code.google.com/p/pysuggest/", 
+    "Package Index Owner:": "Niederberger"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python wrapper for the SUGGEST, which is a Top-N recommendation engine that implements a variety of recommendation algorithms for collaborative filtering.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://code.google.com/p/pysuggest/downloads/list"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An easy way to integrate with Braintree Payment Solutions from Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tivix/django-braintree", 
+  "info": {
+    "Author:": "Sumit Chachra", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/tivix/django-braintree", 
+    "Keywords:": "django braintree payment", 
+    "Package Index Owner:": "Tivix"
+  }, 
+  "license": "", 
+  "longdescription": "An easy way to integrate with Braintree Payment Solutions from Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26952817ee682e43d205c3290e33c16c", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tivix-django-braintree/tivix-django-braintree-0.1.1.tar.gz"
+}

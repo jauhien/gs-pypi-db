@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Windows system tray app for controlling MicroApache", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/mapachemonitor/", 
+  "info": {
+    "Author:": "James R. Cook", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Microsoft", 
+        "Windows"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "HTTP Servers"
+      ]
+    }, 
+    "Home Page:": "http://sourceforge.net/projects/mapachemonitor/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "JamesCook"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Windows system tray app for controlling MicroApache", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4fff45821bb2497adcaf99eb8058180b", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MicroApacheMonitor/MicroApacheMonitor-0.1c1.zip"
+}

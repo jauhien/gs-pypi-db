@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python GOSSiP distributed domain reputation service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bmsi.com/python/pygossip.html", 
+  "info": {
+    "Author:": "Stuart Gathman", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bmsi.com/python/pygossip.html", 
+    "Keywords:": "GOSSiP,reputation,email", 
+    "License:": "Python license", 
+    "Package Index Owner:": "sdgathman"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python GOSSiP distributed domain reputation service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "83af8a0534b46675f03639227427bcbb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pygossip/pygossip-0.5.tar.gz"
+}

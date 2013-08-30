@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a python module to parse a Microsoft Word form in docx format, and extract all field values with their tags into a dictionary.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.decalage.info/python/pywordform", 
+  "info": {
+    "Author:": "Philippe Lagadec", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/decalage/pywordform/downloads", 
+    "Home Page:": "http://www.decalage.info/python/pywordform", 
+    "License:": "BSD (see source code or LICENCE.txt)", 
+    "Package Index Owner:": "decalage"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "a python module to parse a Microsoft Word form in docx format, and extract all field values with their tags into a dictionary.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "79a596b550759d3f7f524e75878b64ea", 
+  "source_uri": "https://bitbucket.org/decalage/pywordform/downloads"
+}

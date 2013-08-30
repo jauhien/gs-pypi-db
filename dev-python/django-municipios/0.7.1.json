@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Aplicao plugvel Django com modelos e widgets para os Municpios Brasileiros", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/znc-sistemas/django-municipios", 
+  "info": {
+    "Author:": "ZNC Sistemas", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "Portuguese (Brazilian)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/znc-sistemas/django-municipios", 
+    "Package Index Owner:": "cadu"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Aplicao plugvel Django com modelos e widgets para os Municpios Brasileiros", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21c70b09a0a6afc1cad9617a3b2e21e1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-municipios/django-municipios-0.7.1.tar.gz"
+}

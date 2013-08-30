@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "hurry.workflow is a simple workflow system. It can be used toimplement stateful multi-version workflows for ope Toolkit applications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Martijn Faassen (at Infrae)", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ]
+    }, 
+    "Keywords:": "zope zope3", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "nouri", 
+    "Package Index Owner:": "faassen"
+  }, 
+  "license": "", 
+  "longdescription": "hurry.workflow is a simple workflow system. It can be used toimplement stateful multi-version workflows for ope Toolkit applications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6320059d03b50d7df8597ee3c41c9c63", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hurry.workflow/hurry.workflow-0.13.1.tar.gz"
+}

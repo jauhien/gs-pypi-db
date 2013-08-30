@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A process and system utilities module for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/psutil/", 
+  "info": {
+    "Author:": "Giampaolo Rodola", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "SunOS/Solaris"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://psutil.googlecode.com/files/psutil-1.0.1.tar.gz", 
+    "Home Page:": "http://code.google.com/p/psutil/", 
+    "Keywords:": "ps,top,kill,free,lsof,netstat,nice,tty,ionice,uptime,taskmgr,process,df,iotop,iostat,ifconfig,taskset,who,pidof,pmap,smem,monitoring", 
+    "License:": "License :: OSI Approved :: BSD License", 
+    "Package Index Owner:": "billiejoex, giampaolo.rodola", 
+    "Platform:": "Platform Independent"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A process and system utilities module for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://psutil.googlecode.com/files/psutil-1.0.1.tar.gz"
+}

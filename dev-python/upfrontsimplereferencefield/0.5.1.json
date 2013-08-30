@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Store references on an object and not in the reference catalog", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/upfront.simplereferencefield", 
+  "info": {
+    "Author:": "Roch\u00c3\u00a9 Compaan", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/upfront.simplereferencefield", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rochecompaan"
+  }, 
+  "license": "", 
+  "longdescription": "Store references on an object and not in the reference catalog", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce73951ab262d8cf3abaff648c79ebb9", 
+  "source_uri": "https://pypi.python.org/packages/source/u/upfront.simplereferencefield/upfront.simplereferencefield-0.5.1.tar.gz"
+}

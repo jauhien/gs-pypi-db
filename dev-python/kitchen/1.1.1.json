@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kitchen contains a cornucopia of useful code", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://fedorahosted.org/kitchen", 
+  "info": {
+    "Author:": "Toshio Kuratomi", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "General"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//kitchen", 
+    "Download URL:": "https://fedorahosted.org/releases/k/i/kitchen", 
+    "Home Page:": "https://fedorahosted.org/kitchen", 
+    "Keywords:": "Useful Small Code Snippets", 
+    "License:": "LGPLv2+", 
+    "Package Index Maintainer:": "lmacken", 
+    "Package Index Owner:": "badger"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Kitchen contains a cornucopia of useful code", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "059d7ce048ca1d0fb53e6755145137b0", 
+  "source_uri": "https://fedorahosted.org/releases/k/i/kitchen"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A ipFile subclass that accepts Django Templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fcurella/django-zipfile", 
+  "info": {
+    "Author:": "Flavio Curella", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/fcurella/django-zipfile", 
+    "License:": "MIT", 
+    "Package Index Owner:": "curella.org"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A ipFile subclass that accepts Django Templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a36c3d8494332faf5fa1e88cea00a15a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-zipfile/django-zipfile-0.2.0.tar.gz"
+}

@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipes for setting up a plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/isotoma.recipe.plonetools", 
+  "info": {
+    "Author:": "John Carr", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/isotoma.recipe.plonetools", 
+    "Keywords:": "buildout plone", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "johncarr, winjer, alex2"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Buildout recipes for setting up a plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bef9e65ac3896631098ff0e5c817c41e", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.plonetools/isotoma.recipe.plonetools-0.0.16.zip"
+}

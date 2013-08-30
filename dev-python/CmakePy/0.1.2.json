@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates a new cmake project", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jlesquembre/cmakepy", 
+  "info": {
+    "Author:": "Jose Luis Lafuente", 
+    "Home Page:": "https://github.com/jlesquembre/cmakepy", 
+    "Keywords:": "cmake c++", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "jlesquembre"
+  }, 
+  "license": "", 
+  "longdescription": "Creates a new cmake project", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "623459388447aa4a38f46d1ef2f4b23f", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CmakePy/CmakePy-0.1.2.tar.gz"
+}

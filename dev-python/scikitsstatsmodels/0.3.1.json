@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Statistical computations and models for use with SciPy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://statsmodels.sourceforge.net/", 
+  "info": {
+    "Author:": "Skipper Seabold, Josef Perktold", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "http://statsmodels.sourceforge.net/", 
+    "Keywords:": "numpy, scipy, statistics, econometrics, data analysis", 
+    "License:": "BSD License", 
+    "Package Index Maintainer:": "Skipper.Seabold", 
+    "Package Index Owner:": "josefpktd, Skipper.Seabold"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Statistical computations and models for use with SciPy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f55b53d161544b95ca2709c9731c00c", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scikits.statsmodels/scikits.statsmodels-0.3.1.tar.gz"
+}

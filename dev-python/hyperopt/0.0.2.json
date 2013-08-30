@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Distributed Asynchronous Hyperparameter Optimiation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jaberg.github.com/hyperopt/", 
+  "info": {
+    "Author:": "James Bergstra", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://jaberg.github.com/hyperopt/", 
+    "Keywords:": "Bayesian optimization hyperparameter model selection", 
+    "License:": "BSD", 
+    "Package Index Owner:": "JamesBergstra", 
+    "Platform:": "Linux,OS-X,Windows"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Distributed Asynchronous Hyperparameter Optimiation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd63b2e815db65b230b322131d8b26cf", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hyperopt/hyperopt-0.0.2.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Flask extension for XSRFCSRF protection.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gregorynicholas/flask-xsrf", 
+  "info": {
+    "Author:": "gregorynicholas", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gregorynicholas/flask-xsrf", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gregorynicholas", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Flask extension for XSRFCSRF protection.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "89c42c467d29bb083f20d4dcb72b3c6f", 
+  "source_uri": "https://pypi.python.org/packages/source/f/flask-xsrf/flask-xsrf-1.0.1.tar.gz"
+}

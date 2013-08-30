@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Basic Template system for project skeleton.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dinoboff.github.com/skeleton", 
+  "info": {
+    "Author:": "Damien Lebrun", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ]
+    }, 
+    "Home Page:": "http://dinoboff.github.com/skeleton", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Dinoboff"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Basic Template system for project skeleton.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8fed3ba159c8725fe964321e987c0c8a", 
+  "source_uri": "https://pypi.python.org/packages/source/s/skeleton/skeleton-0.6.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python port of Consume, a software program developed by the USFS that calculates consumption and emissions from wildland fires", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/python-consume", 
+  "info": {
+    "Author:": "Michael Billmire", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/python-consume", 
+    "Keywords:": "kml", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Tyler.Erickson, billmirem"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python port of Consume, a software program developed by the USFS that calculates consumption and emissions from wildland fires", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c16a522c911d6ebef728bf991263477b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-consume/python-consume-0.1.1.tar.gz"
+}

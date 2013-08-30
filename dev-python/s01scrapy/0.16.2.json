@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Package for buildout based scrapy spider development", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/s01.scrapy", 
+  "info": {
+    "Author:": "Roger Ineichen, Projekt01 GmbH", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/s01.scrapy", 
+    "Keywords:": "scrapy s01 p01 mongodb buildout json-rpc zope zope3", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "agroszer, projekt01"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Package for buildout based scrapy spider development", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "91f88ff2faf529a0248ffa324d1ad5a8", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s01.scrapy/s01.scrapy-0.16.2.zip"
+}

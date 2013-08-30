@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MARC record manipulation library based on pymarc", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/miku/marcx", 
+  "info": {
+    "Author:": "Martin Czygan", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "General"
+      ]
+    }, 
+    "Home Page:": "https://github.com/miku/marcx", 
+    "Package Index Owner:": "miku"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "MARC record manipulation library based on pymarc", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6230ac0a12429b8831d2bf8cc0142695", 
+  "source_uri": "https://pypi.python.org/packages/source/m/marcx/marcx-0.1.7.tar.gz"
+}

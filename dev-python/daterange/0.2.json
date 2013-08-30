@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Like xrange(), but for datetime objects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zacharyvoase/daterange/", 
+  "info": {
+    "Author:": "Zachary Voase", 
+    "Categories": {
+      "License": [
+        "Public Domain"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zacharyvoase/daterange/", 
+    "Package Index Owner:": "disturbyte"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Like xrange(), but for datetime objects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a58d80972de8f230fdd19d40d949c0b1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/daterange/daterange-0.2.tar.gz"
+}

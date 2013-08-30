@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A c.buildout recipe to copy files from one location        to another via rsync", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://collective.github.com/collective.recipe.rsync", 
+  "info": {
+    "Author:": "Alex Clark", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://collective.github.com/collective.recipe.rsync", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "aclark"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A c.buildout recipe to copy files from one location        to another via rsync", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "24ed4be381de91e36966ad2ebb25c84a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.rsync/collective.recipe.rsync-2.1.0.zip"
+}

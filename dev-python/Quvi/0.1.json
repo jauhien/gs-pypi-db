@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "libquvi wrapper module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/metal3d/python-libquvi", 
+  "info": {
+    "Author:": "Patrice FERLET", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Cython"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Video"
+      ]
+    }, 
+    "Home Page:": "https://github.com/metal3d/python-libquvi", 
+    "License:": "LGPLv2.1+", 
+    "Package Index Owner:": "Metal3d"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "libquvi wrapper module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "287bc19794f6b6c1b4c8ce2130665348", 
+  "source_uri": "https://pypi.python.org/packages/source/Q/Quvi/Quvi-0.1.tar.gz"
+}

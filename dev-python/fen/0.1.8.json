@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate chessboard images from fen descriptions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/fen", 
+  "info": {
+    "Author:": "Patrick Sabin", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/fen", 
+    "Package Index Owner:": "pyfex"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Generate chessboard images from fen descriptions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6d448f16cb581500ba7ab73935cd37ec", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fen/fen-0.1.8.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provide methods to get meta data like email, fullname aso. fast as possible even for many members.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://inqbus-hosting.de", 
+  "info": {
+    "Author:": "Maik Derstappen", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://inqbus-hosting.de", 
+    "Keywords:": "plone,zope,member", 
+    "License:": "GPL", 
+    "Package Index Owner:": "derstappenit"
+  }, 
+  "license": "", 
+  "longdescription": "Provide methods to get meta data like email, fullname aso. fast as possible even for many members.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bcd5a7acbae8257641846621cd2e7fbf", 
+  "source_uri": "https://pypi.python.org/packages/source/i/inqbus.plone.fastmemberproperties/inqbus.plone.fastmemberproperties-1.4.zip"
+}

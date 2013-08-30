@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "XenAPI SDK, for communication with Citrix XenServer and Xen Cloud Platform.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://community.citrix.com/display/xs/Download+SDKs", 
+  "info": {
+    "Author:": "Citrix Systems, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://community.citrix.com/display/xs/Download+SDKs", 
+    "Package Index Owner:": "ewanmellor"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "XenAPI SDK, for communication with Citrix XenServer and Xen Cloud Platform.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "655c59cf0f2d322f58e49bcba2baf129", 
+  "source_uri": "https://pypi.python.org/packages/source/X/XenAPI/XenAPI-1.2.tar.gz"
+}

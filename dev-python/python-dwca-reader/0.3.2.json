@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple Python class to read Darwin Core Archive (DwC-A) files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/BelgianBiodiversityPlatform/python-dwca-reader", 
+  "info": {
+    "Author:": "Nicolas No\u00e9 - Belgian Biodiversity Platform", 
+    "Home Page:": "https://github.com/BelgianBiodiversityPlatform/python-dwca-reader", 
+    "License:": "BSD licence, see LICENCE.txt", 
+    "Package Index Owner:": "niconoe"
+  }, 
+  "license": "", 
+  "longdescription": "A simple Python class to read Darwin Core Archive (DwC-A) files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65ff63135696171c0887fa485452995b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-dwca-reader/python-dwca-reader-0.3.2.tar.gz"
+}

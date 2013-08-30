@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Common components for Moksha", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://moksha.fedorahosted.org", 
+  "info": {
+    "Author:": "Luke Macken, John (J5) Palmieri, Mairin Duffy, and Ralph Bean", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://moksha.fedorahosted.org", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Common components for Moksha", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b38957bbf1ea0b94f5154811430ae46", 
+  "source_uri": "https://pypi.python.org/packages/source/m/moksha.common/moksha.common-1.2.0.tar.gz"
+}

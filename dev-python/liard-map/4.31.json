@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Basic map setup for liard web sites", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nelen-schuurmans.nl/lizard/", 
+  "info": {
+    "Author:": "Reinout van Rees", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://www.nelen-schuurmans.nl/lizard/", 
+    "License:": "LGPL", 
+    "Package Index Maintainer:": "alexandr.seleznev, remcogerlich", 
+    "Package Index Owner:": "rvanlaar, nens, reinout, jackha, alexandr.seleznev"
+  }, 
+  "license": "", 
+  "longdescription": "Basic map setup for liard web sites", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b462762df715dc59d804575ed0505de8", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lizard-map/lizard-map-4.31.zip"
+}

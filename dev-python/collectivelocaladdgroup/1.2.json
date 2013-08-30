@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows to create a group from the sharing tab. By Ecreall", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.local.addgroup", 
+  "info": {
+    "Author:": "Vincent Fretin", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.local.addgroup", 
+    "License:": "GPL", 
+    "Package Index Owner:": "tdesvenain"
+  }, 
+  "license": "", 
+  "longdescription": "Allows to create a group from the sharing tab. By Ecreall", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9028e4e80c0e9dcd09cdd8cf08b08171", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.local.addgroup/collective.local.addgroup-1.2.zip"
+}

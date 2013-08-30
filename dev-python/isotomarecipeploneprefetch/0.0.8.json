@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe for installing Plone quickly", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/isotoma/isotoma.recipe.ploneprefetch", 
+  "info": {
+    "Author:": "John Carr", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/isotoma/isotoma.recipe.ploneprefetch", 
+    "Keywords:": "zope2 buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "johncarr"
+  }, 
+  "license": "", 
+  "longdescription": "C Buildout recipe for installing Plone quickly", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "96753eeb1ae17bb88a0833362c047a00", 
+  "source_uri": "https://pypi.python.org/packages/source/i/isotoma.recipe.ploneprefetch/isotoma.recipe.ploneprefetch-0.0.8.zip"
+}

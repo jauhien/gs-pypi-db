@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Create setup.py files for a number of modules and scripts quickly", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://opensvn.csie.org/vvprj/trunk/easier_install/", 
+  "info": {
+    "Author:": "Ville M. Vainio", 
+    "Home Page:": "http://opensvn.csie.org/vvprj/trunk/easier_install/", 
+    "License:": "MIT Open Source License", 
+    "Package Index Owner:": "vivainio"
+  }, 
+  "license": "", 
+  "longdescription": "Create setup.py files for a number of modules and scripts quickly", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e075781a152fbd83cfd5325b9a01a3e6", 
+  "source_uri": "https://pypi.python.org/packages/source/e/easier_install/easier_install-0.1.zip"
+}

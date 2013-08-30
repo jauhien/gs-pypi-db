@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manager for sheepdog tester", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Guillaume Bottex, for Nexedi", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "sheepdog test manager scheduler", 
+    "License:": "GPL", 
+    "Package Index Owner:": "danmcgoo, romain"
+  }, 
+  "license": "", 
+  "longdescription": "Manager for sheepdog tester", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e386d4f75d0f2fbc9aae130ea23c1589", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slapos.tool.nosqltester_manager.sheepdog/slapos.tool.nosqltester_manager.sheepdog-0.0.1.dev.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Light-weight read-only CouchDB client for loading documents and views", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gmr/couchclient", 
+  "info": {
+    "Author:": "Gavin M. Roy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gmr/couchclient", 
+    "Package Index Owner:": "crad"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Light-weight read-only CouchDB client for loading documents and views", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5add3fca26e103c018d7ab5d53042b28", 
+  "source_uri": "https://pypi.python.org/packages/source/c/couchclient/couchclient-1.1.1.tar.gz"
+}

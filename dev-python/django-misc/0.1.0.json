@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django miscellaneous - module with different useful stuff for django. Here youll find - couple decorators, like render_to and receive - json_encode module for simplify work with json - some usefull templatetags, like set, filter, get etc some additional utilities - bbcode template tags - template tags that provide like and share for social sevices.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ilblackdragon/django-misc.git", 
+  "info": {
+    "Author:": "Illia Polosukhin, Vlad Frolov", 
+    "Home Page:": "http://github.com/ilblackdragon/django-misc.git", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ilblackdragon"
+  }, 
+  "license": "", 
+  "longdescription": "Django miscellaneous - module with different useful stuff for django. Here youll find - couple decorators, like render_to and receive - json_encode module for simplify work with json - some usefull templatetags, like set, filter, get etc some additional utilities - bbcode template tags - template tags that provide like and share for social sevices.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd12fd9c13801e6242682f772f1f3dea", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-misc/django-misc-0.1.0.zip"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Facilitates the indexing of content from a CSV into ElasticSearch", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/playnetwork/esimport", 
+  "info": {
+    "Author:": "PlayNetwork, Inc.", 
+    "Home Page:": "https://github.com/playnetwork/esimport", 
+    "License:": "MIT license, see LICENSE.txt", 
+    "Package Index Owner:": "brozeph"
+  }, 
+  "license": "", 
+  "longdescription": "Facilitates the indexing of content from a CSV into ElasticSearch", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0e6d232b937e2459291b280635ffffcf", 
+  "source_uri": "https://pypi.python.org/packages/source/e/esimport/esimport-0.1.8.tar.gz"
+}

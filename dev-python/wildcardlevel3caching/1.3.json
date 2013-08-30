@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "provide integration for invalidations with level3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/wildcard.level3caching", 
+  "info": {
+    "Author:": "Nathan Van Gheem", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/wildcard.level3caching", 
+    "Keywords:": "plone level3 caching cdn", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vangheem"
+  }, 
+  "license": "", 
+  "longdescription": "provide integration for invalidations with level3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9a2917957409c54ba2d0b8a34c4555af", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wildcard.level3caching/wildcard.level3caching-1.3.zip"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Control GPIOs on iMX233-OLinuXino.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.olimex.com/", 
+  "info": {
+    "Author:": "Stefan Mavrodiev", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Education"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Embedded Systems"
+      ]
+    }, 
+    "Home Page:": "https://www.olimex.com/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "selfbg"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Control GPIOs on iMX233-OLinuXino.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49fefadd21b73fd632369bde633ee949", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iMX233_GPIO/iMX233_GPIO-0.1.0.tar.gz"
+}

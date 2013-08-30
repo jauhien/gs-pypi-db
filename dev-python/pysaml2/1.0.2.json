@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python implementation of SAML Version 2 to be used in a WSGI environment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rohe/pysaml2", 
+  "info": {
+    "Author:": "Roland Hedberg", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pysaml2", 
+    "Home Page:": "https://github.com/rohe/pysaml2", 
+    "License:": "Apache 2.0", 
+    "Package Index Maintainer:": "baijum, lgs", 
+    "Package Index Owner:": "agatonsax, lgs"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python implementation of SAML Version 2 to be used in a WSGI environment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4345f712c075b31b68193e8af3b549d2", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysaml2/pysaml2-1.0.2.tar.gz"
+}

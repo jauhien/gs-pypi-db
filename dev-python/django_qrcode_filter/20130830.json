@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simplet django application that provides a block and fitler templatetag to create inline DataURI based qrcode images.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "projects.airtonix.net/project/django-qrcode-filter", 
+  "info": {
+    "Author:": "Zenobius Jiricek", 
+    "Home Page:": "projects.airtonix.net/project/django-qrcode-filter", 
+    "License:": "LICENSE.md", 
+    "Package Index Owner:": "airtonix"
+  }, 
+  "license": "", 
+  "longdescription": "A simplet django application that provides a block and fitler templatetag to create inline DataURI based qrcode images.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd7d02b6bc7454b4b3aefb5b95348dff", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_qrcode_filter/django_qrcode_filter-0.0.14dev.tar.gz"
+}

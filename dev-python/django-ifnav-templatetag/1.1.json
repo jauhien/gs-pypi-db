@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ifnav template tag for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/mp/django-ifnav-templatetag", 
+  "info": {
+    "Author:": "Michael P. Jung", 
+    "Home Page:": "http://bitbucket.org/mp/django-ifnav-templatetag", 
+    "Keywords:": "django if navigation template tag regular expression regex", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mp, bikeshedder"
+  }, 
+  "license": "", 
+  "longdescription": "ifnav template tag for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c72699a525d9796d5523041738ebcdb6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ifnav-templatetag/django-ifnav-templatetag-1.1.tar.gz"
+}

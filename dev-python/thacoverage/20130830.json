@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provides single script to create coverage reports", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/createzopecoverage", 
+  "info": {
+    "Author:": "Reinout van Rees", 
+    "Home Page:": "http://pypi.python.org/pypi/createzopecoverage", 
+    "License:": "BSD", 
+    "Package Index Owner:": "reinout, janjaapdriessen, jw"
+  }, 
+  "license": "", 
+  "longdescription": "Provides single script to create coverage reports", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aa1b35cd9cab4371cd8cd3959ea40fbc", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tha.coverage/tha.coverage-1.0.1-renamed-to-createcoverage.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This reusable Django app can help you to send sms via Google Calendar.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gotlium/django-calendar-sms", 
+  "info": {
+    "Author:": "GoTLiuM InSPiRiT", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gotlium/django-calendar-sms", 
+    "Keywords:": "django sms", 
+    "Package Index Owner:": "gotlium"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This reusable Django app can help you to send sms via Google Calendar.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e47f961e9ed6ae490b5cfc07e849cbb7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-calendar-sms/django-calendar-sms-2.1.tar.gz"
+}

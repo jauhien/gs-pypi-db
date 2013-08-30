@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Identifier (auth_tkt) plugin with beaker.session cache implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.fubar.si", 
+  "info": {
+    "Author:": "Domen Kozar", 
+    "Home Page:": "http://www.fubar.si", 
+    "Keywords:": "beaker session auth tkt repoze.who", 
+    "License:": "/", 
+    "Package Index Owner:": "iElectric"
+  }, 
+  "license": "", 
+  "longdescription": "Identifier (auth_tkt) plugin with beaker.session cache implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "06fa8de57176d1e80afda913abff02be", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.who.plugins.beaker_tkt/repoze.who.plugins.beaker_tkt-0.1.tar.gz"
+}

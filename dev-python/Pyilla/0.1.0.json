@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for the Bugilla XML-RPC API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nibrahim/PyZilla", 
+  "info": {
+    "Author:": "Noufal Ibrahim", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nibrahim/PyZilla", 
+    "Keywords:": "py.test, buzgilla", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "noufal"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper for the Bugilla XML-RPC API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "31b8582e10455344473391cfd6f7d725", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyZilla/PyZilla-0.1.0.tar.gz"
+}

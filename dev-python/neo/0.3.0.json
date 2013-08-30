@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Neo is a package for representing electrophysiology data in Python, together with support for reading a wide range of neurophysiology file formats", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://neuralensemble.org/neo", 
+  "info": {
+    "Author:": "Neo authors and contributors", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//neo", 
+    "Home Page:": "http://neuralensemble.org/neo", 
+    "License:": "BSD", 
+    "Package Index Owner:": "sgarcia, apdavison"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Neo is a package for representing electrophysiology data in Python, together with support for reading a wide range of neurophysiology file formats", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b119e8f7b022721e25be4448625dad9e", 
+  "source_uri": "https://pypi.python.org/packages/source/n/neo/neo-0.3.0.tar.gz"
+}

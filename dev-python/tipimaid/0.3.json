@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "tipimaid supports piped logging (local and over the net) for apache web servers with automatic log rotation and splitting according to domains", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://flloss.livinglogic.de/wiki/tipimaid", 
+  "info": {
+    "Author:": "Nikolas Tautenhahn", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management"
+      ]
+    }, 
+    "Download URL:": "http://cheeseshop.python.org/pypi/tipimaid", 
+    "Home Page:": "http://flloss.livinglogic.de/wiki/tipimaid", 
+    "Keywords:": "Apache,logging,piped logging,chronolog,split logs,netcat,rotate logs", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ntautenhahn"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "tipimaid supports piped logging (local and over the net) for apache web servers with automatic log rotation and splitting according to domains", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8f4b12a1f9ebd07836a0282406a4654f", 
+  "source_uri": "http://cheeseshop.python.org/pypi/tipimaid"
+}

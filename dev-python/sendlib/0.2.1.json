@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "sendlib  is a lightweight message serialiation library which aims to be memory efficient", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dcrosta/sendlib", 
+  "info": {
+    "Author:": "Daniel Crosta", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dcrosta/sendlib", 
+    "Keywords:": "message serialization", 
+    "Package Index Owner:": "dcrosta"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "sendlib  is a lightweight message serialiation library which aims to be memory efficient", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54f639ec02730492519227a9def44b83", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sendlib/sendlib-0.2.1.tar.gz"
+}

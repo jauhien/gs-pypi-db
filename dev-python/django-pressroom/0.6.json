@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pressroom application for django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-pressroom/", 
+  "info": {
+    "Author:": "Justin Driscoll, Michael Thornhill", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/django-pressroom/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "michael.thornhill"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A pressroom application for django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2571b153fe892d82b5f39cd72164d705", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pressroom/django-pressroom-0.6.tar.gz"
+}

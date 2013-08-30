@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "User account management plugin for Trac", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/AccountManagerPlugin", 
+  "info": {
+    "Author:": "Steffen Hoffmann", 
+    "Home Page:": "http://trac-hacks.org/wiki/AccountManagerPlugin", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ejucovy"
+  }, 
+  "license": "", 
+  "longdescription": "User account management plugin for Trac", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "13920de387b5761e66ab746be601bc79", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TEST-TracAccountManager/test-tracaccountmanager.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Truncate datetime objects to a set level of precision", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mediapop/datetime_truncate", 
+  "info": {
+    "Author:": "Bj\u00f6rn Andersson / Media Pop", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mediapop/datetime_truncate", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mediapop"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Truncate datetime objects to a set level of precision", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5f09c9243d0a2fbbd71944bff18d2995", 
+  "source_uri": "https://pypi.python.org/packages/source/d/datetime_truncate/datetime_truncate-1.0.1.tar.gz"
+}

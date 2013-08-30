@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CLI and Client Library for OpenStack Networking", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.openstack.org/", 
+  "info": {
+    "Author:": "OpenStack Networking Project", 
+    "Categories": {
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://www.openstack.org/", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "sdirector, openstackci"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "CLI and Client Library for OpenStack Networking", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb2859946ca4a67a51f145325d2b6d60", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-quantumclient/python-quantumclient-2.2.3.tar.gz"
+}

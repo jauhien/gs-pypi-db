@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reciprocal Smallest Distance (RSD) finds pairwise orthologous genes using global sequence alignment and maximum likelihood evolutionary distance estimates.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/todddeluca/reciprocal_smallest_distance", 
+  "info": {
+    "Author:": "Todd F. DeLuca, Dennis P. Wall", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Download URL:": "https://github.com/todddeluca/reciprocal_smallest_distance/downloads", 
+    "Home Page:": "https://github.com/todddeluca/reciprocal_smallest_distance", 
+    "Keywords:": "genome ortholog algorithm", 
+    "License:": "MIT", 
+    "Package Index Owner:": "todddeluca", 
+    "Platform:": "Posix; MacOS X"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Reciprocal Smallest Distance (RSD) finds pairwise orthologous genes using global sequence alignment and maximum likelihood evolutionary distance estimates.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "20205a31a1aa0a1633553f72b6436328", 
+  "source_uri": "https://github.com/todddeluca/reciprocal_smallest_distance/downloads"
+}

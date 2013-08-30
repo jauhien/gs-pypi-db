@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Pool of processes and threads Mix-in for socketserver.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/muayyad-alsadi/python-PooledProcessMixIn", 
+  "info": {
+    "Author:": "Muayyad Saleh Alsadi", 
+    "Bug Tracker:": "https://github.com/muayyad-alsadi/python-PooledProcessMixIn/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/muayyad-alsadi/python-PooledProcessMixIn", 
+    "License:": "PSFL", 
+    "Package Index Owner:": "alsadi", 
+    "Platform:": "any"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "A Pool of processes and threads Mix-in for socketserver.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "453d7fedcc86ba31c8622be181ede68f", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PooledProcessMixIn/PooledProcessMixIn-0.0.2.tar.gz"
+}

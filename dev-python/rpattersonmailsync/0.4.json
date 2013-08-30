@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration between mswatch, OfflineIMAP, and Gnus for realtime mail", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/rpatterson.mailsync", 
+  "info": {
+    "Author:": "Ross Patterson", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/rpatterson.mailsync", 
+    "License:": "GPL", 
+    "Package Index Owner:": "rpatterson"
+  }, 
+  "license": "", 
+  "longdescription": "Integration between mswatch, OfflineIMAP, and Gnus for realtime mail", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bf03316e9531077d2c68045ff6329436", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rpatterson.mailsync/rpatterson.mailsync-0.4.tar.gz"
+}

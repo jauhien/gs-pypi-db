@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "App for Django featuring class based email sending", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://django-emailtools.readthedocs.org/en/latest/", 
+  "info": {
+    "Author:": "Fusionbox", 
+    "Home Page:": "https://django-emailtools.readthedocs.org/en/latest/", 
+    "Package Index Owner:": "fusionbox"
+  }, 
+  "license": "", 
+  "longdescription": "App for Django featuring class based email sending", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "51ba5b919c59be4ec3e3c423d366eb90", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-emailtools/django-emailtools-0.1.1.tar.gz"
+}

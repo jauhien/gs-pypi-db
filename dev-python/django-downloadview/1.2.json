@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic download views for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/benoitbryon/django-downloadview", 
+  "info": {
+    "Author:": "Beno\u00eet Bryon", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/benoitbryon/django-downloadview", 
+    "Keywords:": "class-based view,generic view,download,file,FileField,ImageField,nginx,x-accel,x-sendfile", 
+    "License:": "BSD", 
+    "Package Index Owner:": "benoit.bryon"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generic download views for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f7c9dace523fa445f06f4cba9f7fdc4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-downloadview/django-downloadview-1.2.zip"
+}

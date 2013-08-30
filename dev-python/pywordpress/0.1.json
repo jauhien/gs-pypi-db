@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pythonic interface to Wordpress using the Wordpress XML-RPC API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/rgrp/pywordpress/", 
+  "info": {
+    "Author:": "Rufus Pollock", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/rgrp/pywordpress/", 
+    "Keywords:": "wordpress python", 
+    "License:": "mit", 
+    "Package Index Owner:": "rgrp"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A pythonic interface to Wordpress using the Wordpress XML-RPC API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b63a9d5f4967dbe748acb8af0d1d4e0d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pywordpress/pywordpress-0.1.tar.gz"
+}

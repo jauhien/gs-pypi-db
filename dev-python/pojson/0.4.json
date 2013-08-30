@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Convert PO files to JSON", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/obviel/pojson", 
+  "info": {
+    "Author:": "Martijn Faassen", 
+    "Home Page:": "https://bitbucket.org/obviel/pojson", 
+    "Keywords:": "PO i18n internationalisation JSON gettext obviel", 
+    "License:": "BSD", 
+    "Package Index Owner:": "faassen"
+  }, 
+  "license": "", 
+  "longdescription": "Convert PO files to JSON", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "746e63452f211dc4c9aa222b0f121ff6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pojson/pojson-0.4.tar.gz"
+}

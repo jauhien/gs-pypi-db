@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DjangoCMS syntax highlighting plugin allowing for easy integration with SyntaxHighlighter.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nmurrin", 
+  "info": {
+    "Author:": "Norm Murrin", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nmurrin", 
+    "License:": "Simplified BSD License", 
+    "Package Index Owner:": "nmurrin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "DjangoCMS syntax highlighting plugin allowing for easy integration with SyntaxHighlighter.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4e9e429b93e09de6c26d2dcf87124107", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmsplugin_syntax_highlight/cmsplugin_syntax_highlight-0.1.5.tar.gz"
+}

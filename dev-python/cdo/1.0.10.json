@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "python bindings to CDO", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.zmaw.de/projects/cdo/wiki/Cdo%7Brbpy%7D", 
+  "info": {
+    "Author:": "Ralf Mueller", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://code.zmaw.de/projects/cdo/wiki/Cdo%7Brbpy%7D", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "lem"
+  }, 
+  "license": "", 
+  "longdescription": "python bindings to CDO", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b7ad566698a780a0dbd79f3a5942d19", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cdo/cdo-1.0.10.tar.gz"
+}

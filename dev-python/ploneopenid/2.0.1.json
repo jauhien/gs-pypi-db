@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "OpenID authentication support for PAS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.openid", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.openid", 
+    "Keywords:": "PAS openid authentication", 
+    "License:": "BSD", 
+    "Package Index Owner:": "optilude, wichert, davisagli, esteele, hannosch, evilbungle"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "OpenID authentication support for PAS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d4c36926a6dbefed035ed92c29329ce1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.openid/plone.openid-2.0.1.zip"
+}

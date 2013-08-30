@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple MySQL dumper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rdolgushin/mydumper", 
+  "info": {
+    "Author:": "Roman Dolgushin", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rdolgushin/mydumper", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rdolgushin"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple MySQL dumper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "306ebf0c26da3912fb3defc6277da528", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mydumper/mydumper-0.1.tar.gz"
+}

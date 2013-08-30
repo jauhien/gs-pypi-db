@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Download and install from private source distributions hosted on Amaon S3.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/delinhabit/s3sourcedependencies", 
+  "info": {
+    "Author:": "Ion Scerbatiuc", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/delinhabit/s3sourcedependencies", 
+    "Keywords:": "setuptools s3 dependencies s3sourceuploader", 
+    "License:": "BSD", 
+    "Package Index Owner:": "delinhabit"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Download and install from private source distributions hosted on Amaon S3.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ee817798dfdd48e9a441080ffd824c4", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s3sourcedependencies/s3sourcedependencies-0.1.tar.gz"
+}

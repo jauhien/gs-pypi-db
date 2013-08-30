@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Test your servers environments by using fabric.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/r_rudi/envassert", 
+  "info": {
+    "Author:": "WAKAYAMA Shirou", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/envassert", 
+    "Home Page:": "http://bitbucket.org/r_rudi/envassert", 
+    "Keywords:": "test,server", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "shirou"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Test your servers environments by using fabric.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "81bed9f9b380323a3b3b86f14d6454ba", 
+  "source_uri": "http://pypi.python.org/pypi/envassert"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python replacement for logrotate", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bmaeser/dreidel", 
+  "info": {
+    "Author:": "Bernhard Maeser", 
+    "Home Page:": "https://github.com/bmaeser/dreidel", 
+    "License:": "MIT", 
+    "Package Index Owner:": "bmaeser"
+  }, 
+  "license": "", 
+  "longdescription": "A python replacement for logrotate", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a101da6b168d7a32805f82d2cf50cd1d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dreidel/dreidel-1.0.3.tar.gz"
+}

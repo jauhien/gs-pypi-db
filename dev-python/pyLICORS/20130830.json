@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python interface for predictive state estimation from spatio-temporal data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "www.stat.cmu.edu/~gmg", 
+  "info": {
+    "Author:": "Georg M. Goerg", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "www.stat.cmu.edu/~gmg", 
+    "Keywords:": "forecasting spatio-temporal nonparametric statistics estimation", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "gmg"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "A Python interface for predictive state estimation from spatio-temporal data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f3551e21684882c98780307ebd9550ed", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyLICORS/pyLICORS-0.0.1dev.tar.gz"
+}

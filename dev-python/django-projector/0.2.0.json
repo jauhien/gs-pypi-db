@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Project management Django application with tasktracker and repository backend integration.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.django-projector.org", 
+  "info": {
+    "Author:": "Lukasz Balcerzak", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-projector", 
+    "Home Page:": "http://www.django-projector.org", 
+    "Package Index Owner:": "LukaszBalcerzak"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Project management Django application with tasktracker and repository backend integration.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "601f4aef7b82f0b1ba15c1ef5c710585", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-projector/django-projector-0.2.0.tar.gz"
+}

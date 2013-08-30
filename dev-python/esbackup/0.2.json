@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple backup tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alexander Samarin", 
+    "Categories": {
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Maintainer:": "Alexander Samarin", 
+    "Package Index Owner:": "yaka"
+  }, 
+  "license": "", 
+  "longdescription": "Simple backup tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1e74f1221822fef8e6d88b2c15afa077", 
+  "source_uri": "https://pypi.python.org/packages/source/e/esbackup/esbackup-0.2.tar.gz"
+}

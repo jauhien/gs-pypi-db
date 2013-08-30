@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Libraries and command line tools for deploying with Velociraptor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Brent Tubbs", 
+    "Package Index Owner:": "btubbs"
+  }, 
+  "license": "", 
+  "longdescription": "Libraries and command line tools for deploying with Velociraptor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c1670882e18fb35d8188207f37e954e4", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptor/raptor-2.15.2.tar.gz"
+}

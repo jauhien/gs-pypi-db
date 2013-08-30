@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utilities for handling IEEE 754 floating point special values", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://research.warnes.net/projects/RStatServer/fpconst/index_html", 
+  "info": {
+    "Author:": "Gregory Warnes", 
+    "Home Page:": "http://research.warnes.net/projects/RStatServer/fpconst/index_html", 
+    "Package Index Owner:": "roberto"
+  }, 
+  "license": "", 
+  "longdescription": "Utilities for handling IEEE 754 floating point special values", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "10ba9e04129af23108d24c22c3a698b1", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fpconst/fpconst-0.7.2.tar.gz"
+}

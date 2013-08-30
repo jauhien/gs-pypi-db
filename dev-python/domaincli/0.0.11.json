@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Register domains from the command line", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://domaincli.com", 
+  "info": {
+    "Author:": "Greg Brockman", 
+    "Home Page:": "http://domaincli.com", 
+    "Package Index Owner:": "domaincli"
+  }, 
+  "license": "", 
+  "longdescription": "Register domains from the command line", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a5388a0cb94193d9e2737f587be1d52d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/domaincli/domaincli-0.0.11.tar.gz"
+}

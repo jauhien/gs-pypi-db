@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python package for retrieving and parsing Brailian government open data.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/perone/odbrasil/", 
+  "info": {
+    "Author:": "Christian S. Perone", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/perone/odbrasil/", 
+    "Keywords:": "open data,parser,odbrasil,brasil", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "perone", 
+    "Platform:": "Any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A Python package for retrieving and parsing Brailian government open data.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59026631658a8397d3af8358cfb71a66", 
+  "source_uri": "https://pypi.python.org/packages/source/o/odbrasil/odbrasil-0.1.tar.gz"
+}

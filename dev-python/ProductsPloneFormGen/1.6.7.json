@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A through-the-web form generator for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/ploneformgen", 
+  "info": {
+    "Author:": "Steve McMahon", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/ploneformgen", 
+    "Keywords:": "Plone PloneFormGen", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vangheem, maurits, smcmahon, davisagli"
+  }, 
+  "license": "", 
+  "longdescription": "A through-the-web form generator for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21107d0cf66d90b255110e5fe072c6ad", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneFormGen/Products.PloneFormGen-1.6.7.zip"
+}

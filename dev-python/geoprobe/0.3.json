@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reads and (partially) writes seismic data in Landmarks Geoprobe format", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/python-geoprobe/", 
+  "info": {
+    "Author:": "Joe Kington", 
+    "Home Page:": "http://code.google.com/p/python-geoprobe/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "joferkington"
+  }, 
+  "license": "", 
+  "longdescription": "Reads and (partially) writes seismic data in Landmarks Geoprobe format", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ece62f69b632c11455e41deb0956b0c8", 
+  "source_uri": "https://pypi.python.org/packages/source/g/geoprobe/geoprobe-0.3.tar.gz"
+}

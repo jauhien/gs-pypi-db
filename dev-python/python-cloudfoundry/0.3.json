@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to CloudFoundry", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/KristianOellegaard/python-cloudfoundry/", 
+  "info": {
+    "Author:": "Kristian \u00d8llegaard", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.github.com/KristianOellegaard/python-cloudfoundry/", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "KristianOellegaard"
+  }, 
+  "license": "", 
+  "longdescription": "Python interface to CloudFoundry", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d067cb790f443a984762d12b472f39df", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-cloudfoundry/python-cloudfoundry-0.3.tar.gz"
+}

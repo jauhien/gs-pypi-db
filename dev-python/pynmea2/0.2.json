@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library for the NMEA 0183 protcol", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Knio/pynmea2", 
+  "info": {
+    "Author:": "Tom Flanagan", 
+    "Home Page:": "https://github.com/Knio/pynmea2", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Knio"
+  }, 
+  "license": "", 
+  "longdescription": "Python library for the NMEA 0183 protcol", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84ddcd739ff1f35be93423ec0d05b6d9", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pynmea2/pynmea2-0.2.zip"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IP number based authentication for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Felspar/django-ip-authn", 
+  "info": {
+    "Author:": "Kirit Saelensminde", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Felspar/django-ip-authn", 
+    "Keywords:": "django authn authentication ip", 
+    "License:": "Boost Software License - Version 1.0 - August 17th, 2003", 
+    "Package Index Owner:": "KayEss"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "IP number based authentication for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2be797519886a4bbb4ac8f848f7d015e", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_ip_authn/django_ip_authn-0.3.0.1.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DB API Module for ODBC", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pyodbc", 
+  "info": {
+    "Author:": "Michael Kleehammer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/pyodbc/downloads/list", 
+    "Home Page:": "http://code.google.com/p/pyodbc", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mkleehammer"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "DB API Module for ODBC", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://code.google.com/p/pyodbc/downloads/list"
+}

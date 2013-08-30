@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "File type identification using libmagic", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ahupp/python-magic", 
+  "info": {
+    "Author:": "Adam Hupp", 
+    "Home Page:": "http://github.com/ahupp/python-magic", 
+    "Keywords:": "mime magic file", 
+    "License:": "PSF", 
+    "Package Index Owner:": "ahupp"
+  }, 
+  "license": "", 
+  "longdescription": "File type identification using libmagic", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eec9e2b1bcaf43308b7dacb3f2ecd8c1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-magic/python-magic-0.4.3.tar.gz"
+}

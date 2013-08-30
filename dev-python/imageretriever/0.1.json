@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django package to download missing images on your local instance from the productionpreview server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zestsoftware.nl", 
+  "info": {
+    "Author:": "Zest Software", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://zestsoftware.nl", 
+    "License:": "GPL", 
+    "Package Index Owner:": "vincentpretre"
+  }, 
+  "license": "", 
+  "longdescription": "A Django package to download missing images on your local instance from the productionpreview server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "547e23bcfebf8ed544509ccbb330fd52", 
+  "source_uri": "https://pypi.python.org/packages/source/i/imageretriever/imageretriever-0.1.zip"
+}

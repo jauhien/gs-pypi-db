@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fast sparse matrix library for Python (Commonsense Computing version)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rspeer/csc-pysparse", 
+  "info": {
+    "Author:": "Rob Speer", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rspeer/csc-pysparse", 
+    "License:": "BSD-style", 
+    "Package Index Owner:": "commonsense, rspeer", 
+    "Platform:": "Windows,Linux,Solaris,Mac OS-X,Unix"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A fast sparse matrix library for Python (Commonsense Computing version)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d24610b5fb23e9e54bc2823bfcdca661", 
+  "source_uri": "https://pypi.python.org/packages/source/c/csc-pysparse/csc-pysparse-1.1.1.4.tar.gz"
+}

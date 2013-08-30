@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A convenient Python API to manage AWS route53 (requires boto)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aglyzov/zone53", 
+  "info": {
+    "Author:": "Alexander Glyzov", 
+    "Documentation:": "http://pythonhosted.org//zone53", 
+    "Home Page:": "https://github.com/aglyzov/zone53", 
+    "Package Index Maintainer:": "bonoba", 
+    "Package Index Owner:": "bonoba"
+  }, 
+  "license": "", 
+  "longdescription": "A convenient Python API to manage AWS route53 (requires boto)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6c1ba91c17d6c1feab4c175a556836b4", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zone53/zone53-0.3.3.tar.gz"
+}

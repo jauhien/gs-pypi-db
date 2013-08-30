@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Postgres Connection Pooling for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kennethreitz/django-postgrespool", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kennethreitz/django-postgrespool", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kennethreitz"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Postgres Connection Pooling for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cb1f4c0c27c731269d926dafafb28871", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-postgrespool/django-postgrespool-0.2.4.tar.gz"
+}

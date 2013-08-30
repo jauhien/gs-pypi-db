@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Retrieve Silva membership information in PAS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.silva.com/silva.pas.membership/trunk", 
+  "info": {
+    "Author:": "Sylvain Viollon", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.silva.com/silva.pas.membership/trunk", 
+    "Keywords:": "silva pas membership", 
+    "License:": "BSD", 
+    "Package Index Owner:": "thefunny42, todd"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Retrieve Silva membership information in PAS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "94a0f8460f58e6d33f294c8c5e79ce00", 
+  "source_uri": "https://pypi.python.org/packages/source/s/silva.pas.membership/silva.pas.membership-1.1.tar.gz"
+}

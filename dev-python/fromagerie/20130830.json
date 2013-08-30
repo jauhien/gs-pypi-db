@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pluggable PyPI for Django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jeffkistler/fromagerie", 
+  "info": {
+    "Author:": "Jeff Kistler", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/jeffkistler/fromagerie", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jeffkistler"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A pluggable PyPI for Django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44aecde3c50a33e624ee54d6a36e278f", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fromagerie/fromagerie-0.1a1.tar.gz"
+}

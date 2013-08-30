@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "generate pdfs from mediawiki markup", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.pediapress.com/", 
+  "info": {
+    "Author:": "pediapress.com", 
+    "Home Page:": "http://code.pediapress.com/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "schmir, pediapress"
+  }, 
+  "license": "", 
+  "longdescription": "generate pdfs from mediawiki markup", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26954d7d58ed2f1c00bc9c4c9ee2630b", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mwlib.rl/mwlib.rl-0.14.3.zip"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IronMQ transport and IronCache backend for Celery", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/iron-io/iron_celery", 
+  "info": {
+    "Author:": "Iron.io", 
+    "Home Page:": "https://github.com/iron-io/iron_celery", 
+    "Package Index Owner:": "ironio"
+  }, 
+  "license": "", 
+  "longdescription": "IronMQ transport and IronCache backend for Celery", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7416510ca65f285042b362ae7a34fbe0", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iron_celery/iron_celery-0.4.0.tar.gz"
+}

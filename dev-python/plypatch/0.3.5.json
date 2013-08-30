@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ply Git-based Patch Management", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rconradharris/ply", 
+  "info": {
+    "Author:": "Rick Harris", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rconradharris/ply", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rconradharris"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Ply Git-based Patch Management", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db243bd91a624f54fe1cfecc3a814c64", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plypatch/plypatch-0.3.5.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Popular Quotes database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/yougov/popquotes", 
+  "info": {
+    "Author:": "YouGov, plc.", 
+    "Home Page:": "https://bitbucket.org/yougov/popquotes", 
+    "Package Index Owner:": "jaraco"
+  }, 
+  "license": "", 
+  "longdescription": "Popular Quotes database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ee8ce26b5508590facc764b04d26a54", 
+  "source_uri": "https://pypi.python.org/packages/source/p/popquotes/popquotes-1.4.zip"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python Wrapper for the Proxmox 2.x API (HTTP and SSH)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/swayf/proxmoxer", 
+  "info": {
+    "Author:": "Oleg Butovich", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/proxmoxer", 
+    "Home Page:": "https://github.com/swayf/proxmoxer", 
+    "Keywords:": "proxmox,api", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Oleg.Butovich"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python Wrapper for the Proxmox 2.x API (HTTP and SSH)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ccc37e8299e18621141ee42165400526", 
+  "source_uri": "http://pypi.python.org/pypi/proxmoxer"
+}

@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pure-Python 2+3 RSA verification library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/dholth/rsalette/", 
+  "info": {
+    "Author:": "Daniel Holth", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/dholth/rsalette/", 
+    "Keywords:": "rsa", 
+    "License:": "ASL 2", 
+    "Package Index Owner:": "joeforker"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A pure-Python 2+3 RSA verification library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46cba5433647badf859d3884049b41bf", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rsalette/rsalette-0.2.0.tar.gz"
+}

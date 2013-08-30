@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small WSGI wrapper for creating small python web apps", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pyroutes/pyroutes", 
+  "info": {
+    "Author:": "Kristian Klette", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pyroutes/pyroutes", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "klette"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A small WSGI wrapper for creating small python web apps", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "250b0ea5d9a6c8b71f8109cf1fe9982b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyroutes/pyroutes-0.5.0.tar.gz"
+}

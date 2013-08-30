@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a python module to read and write phylip alignment files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/pyphylip", 
+  "info": {
+    "Author:": "Alex Griffing", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/pyphylip", 
+    "License:": "MIT", 
+    "Package Index Owner:": "hmmus"
+  }, 
+  "license": "", 
+  "longdescription": "a python module to read and write phylip alignment files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ee1abeed9fabd9724b804114e72a7edf", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyphylip/pyphylip-0.0.2.tar.gz"
+}

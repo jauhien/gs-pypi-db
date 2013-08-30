@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Secure hash and message digest algorithm library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.krypto.org/python/hashlib/", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Security", 
+        "Cryptography"
+      ]
+    }, 
+    "Home Page:": "http://code.krypto.org/python/hashlib/", 
+    "Keywords:": "hashlib md5 sha1 sha sha256 sha512 hash digest openssl", 
+    "Maintainer:": "Gregory P. Smith", 
+    "Package Index Owner:": "GregoryPSmith"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Secure hash and message digest algorithm library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46e59db6d5cac34b3344ef0c30d0897f", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hashlib/hashlib-20081119.zip"
+}

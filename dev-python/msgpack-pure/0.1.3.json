@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MessagePack (de)serialier written in pure Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://msgpack.org/", 
+  "info": {
+    "Author:": "Keisuke Fukuda", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/msgpack-pure/", 
+    "Home Page:": "http://msgpack.org/", 
+    "License:": "Apache License 2", 
+    "Package Index Owner:": "keisukefukuda"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "MessagePack (de)serialier written in pure Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4fc0fbb334db82b2079141034ccd91ae", 
+  "source_uri": "http://pypi.python.org/pypi/msgpack-pure/"
+}

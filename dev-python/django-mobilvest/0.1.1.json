@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This Django is a sms-sender backend for httpmobilvest.ru service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ir4y/django-mobilvest", 
+  "info": {
+    "Author:": "Ilya Beda", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ir4y/django-mobilvest", 
+    "Package Index Owner:": "ir4y"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "This Django is a sms-sender backend for httpmobilvest.ru service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2515e5fe08a802568624f1b4032afa0b", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mobilvest/django-mobilvest-0.1.1.tar.gz"
+}

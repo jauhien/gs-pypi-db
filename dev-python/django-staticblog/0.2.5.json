@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Markdown-based blog engine that compiles to static html pages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cgrice/django-staticblog/", 
+  "info": {
+    "Author:": "Chris Grice", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cgrice/django-staticblog/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "cgrice"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Markdown-based blog engine that compiles to static html pages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac6b72ec9aa58ae6e244a4c7e955fa02", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-staticblog/django-staticblog-0.2.5.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "tools to supplement packaging Python releases", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jaraco/jaraco.packaging", 
+  "info": {
+    "Author:": "Jason R. Coombs", 
+    "Home Page:": "https://bitbucket.org/jaraco/jaraco.packaging", 
+    "Package Index Owner:": "jaraco"
+  }, 
+  "license": "", 
+  "longdescription": "tools to supplement packaging Python releases", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5060329966c7c9475e72d90ffb1abc57", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jaraco.packaging/jaraco.packaging-2.1.zip"
+}

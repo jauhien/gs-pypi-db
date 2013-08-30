@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone TestSwarm integration package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cillian.wordpress.com", 
+  "info": {
+    "Author:": "Cillian de Roiste", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://cillian.wordpress.com", 
+    "Keywords:": "Plone TestSwarm JavaScript Continuous-Integration", 
+    "License:": "AGPLv3+", 
+    "Package Index Owner:": "goibhniu"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "Plone TestSwarm integration package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b2369a016ab9c3cc83c97eafa133e580", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.testswarm/collective.testswarm-0.3.tar.gz"
+}

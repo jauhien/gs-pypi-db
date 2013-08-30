@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tx DBus", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cocagne/txdbus", 
+  "info": {
+    "Author:": "Tom Cocagne", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//txdbus", 
+    "Home Page:": "https://github.com/cocagne/txdbus", 
+    "Keywords:": "dbus,twisted", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Tom.Cocagne"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Tx DBus", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "794053be9b8042418eebf8960fdffd99", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txdbus/txdbus-1.0.4.tar.gz"
+}

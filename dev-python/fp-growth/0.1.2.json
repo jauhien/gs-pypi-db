@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pure-python implementation of the FP-growth algorithm.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/enaeseth/python-fp-growth/", 
+  "info": {
+    "Author:": "Eric Naeseth", 
+    "Home Page:": "http://github.com/enaeseth/python-fp-growth/", 
+    "Package Index Owner:": "enaeseth"
+  }, 
+  "license": "", 
+  "longdescription": "A pure-python implementation of the FP-growth algorithm.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5153aa0675c37b0f9c460d26982d3eb4", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fp-growth/fp-growth-0.1.2.tar.gz"
+}

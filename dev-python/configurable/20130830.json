@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "configurable - Class integration with config files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Krister Hedfors", 
+    "Keywords:": "ConfigParser configurable configuration Configfile config conffile", 
+    "Package Index Owner:": "fleskfleskarn"
+  }, 
+  "license": "", 
+  "longdescription": "configurable - Class integration with config files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8bb287f2288c0fdead7cdc4c8dc731b", 
+  "source_uri": "https://pypi.python.org/packages/source/c/configurable/configurable-0.1dev.tar.gz"
+}

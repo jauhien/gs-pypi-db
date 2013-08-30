@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client for CloudMailin incoming email service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sunlightlabs/django-cloudmailin/", 
+  "info": {
+    "Author:": "Jeremy Carbaugh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/sunlightlabs/django-cloudmailin/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "jcarbaugh", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Client for CloudMailin incoming email service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4268392834bf1825a86f41523a9b7f0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cloudmailin/django-cloudmailin-0.1.1.tar.gz"
+}

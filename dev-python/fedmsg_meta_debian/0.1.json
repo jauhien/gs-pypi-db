@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "fedmsg metadata providers for Debian deployment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://anonscm.debian.org/gitweb/?p=users/laarmen-guest/fedmsg_meta_debian.git", 
+  "info": {
+    "Author:": "Simon Chopin", 
+    "Home Page:": "http://anonscm.debian.org/gitweb/?p=users/laarmen-guest/fedmsg_meta_debian.git", 
+    "License:": "Expat", 
+    "Package Index Owner:": "laarmen"
+  }, 
+  "license": "", 
+  "longdescription": "fedmsg metadata providers for Debian deployment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "39bd5042627aff42b4f17cb8fa8c10ec", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fedmsg_meta_debian/fedmsg_meta_debian-0.1.tar.gz"
+}

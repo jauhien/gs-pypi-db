@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple static HTML portlet for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.portlet.static", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.portlet.static", 
+    "Keywords:": "plone portlet static", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "davisagli, optilude, wichert, hannosch, evilbungle, esteele"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A simple static HTML portlet for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec0dc691b4191a41ff97779b117f9985", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.portlet.static/plone.portlet.static-2.0.2.zip"
+}

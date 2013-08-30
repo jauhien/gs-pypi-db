@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python libary for managing Google Alerts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/galerts", 
+  "info": {
+    "Author:": "Joshua Bronson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Indexing/Search"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//galerts", 
+    "Home Page:": "http://packages.python.org/galerts", 
+    "Keywords:": "google,alerts,google alerts,news", 
+    "License:": "MIT", 
+    "Maintainer:": "Peter Sanchez", 
+    "Package Index Maintainer:": "petersanchez", 
+    "Package Index Owner:": "magicbronson, petersanchez"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python libary for managing Google Alerts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88e2a4b32abe5b0a592931f0d1c40ebe", 
+  "source_uri": "https://pypi.python.org/packages/source/g/galerts/galerts-0.2.4dev.tar.gz"
+}

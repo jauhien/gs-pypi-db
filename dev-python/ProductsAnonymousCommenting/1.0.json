@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implements anonymous commenting within a Plone site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://weblion.psu.edu", 
+  "info": {
+    "Author:": "WebLion Group, Penn State University", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.4"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://weblion.psu.edu", 
+    "License:": "GPL", 
+    "Package Index Owner:": "esteele"
+  }, 
+  "license": "", 
+  "longdescription": "Implements anonymous commenting within a Plone site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ac9ac54b25bbaf92fbb009a0326cf082", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.AnonymousCommenting/Products.AnonymousCommenting-1.0.tar.gz"
+}

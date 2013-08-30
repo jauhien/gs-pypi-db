@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Torii allows access to a running ope instance over a python prompt", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/raptus.torii", 
+  "info": {
+    "Author:": "sriolo", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/raptus.torii", 
+    "Keywords:": "zope remote prompt zodb", 
+    "License:": "GPL", 
+    "Package Index Owner:": "raptus, codeix"
+  }, 
+  "license": "", 
+  "longdescription": "Torii allows access to a running ope instance over a python prompt", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd2dd246b0498e8b7f67a1e7956423bc", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raptus.torii/raptus.torii-1.0b2.tar.gz"
+}

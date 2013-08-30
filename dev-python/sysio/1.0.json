@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This Pyrex wraps usrincludesysio.h, allowing you to readwrite bytesints directly fromto hardware ports. Also includes an example keyloggerkeycounter.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://home.comcast.net/~faulkner612/programming/", 
+  "info": {
+    "Author:": "Ben Hayden", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://home.comcast.net/~faulkner612/programming/python/sysio.zip", 
+    "Home Page:": "http://home.comcast.net/~faulkner612/programming/", 
+    "Keywords:": "Pyrex sys io", 
+    "Maintainer:": "Ben Hayden", 
+    "Package Index Owner:": "faulkner"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "This Pyrex wraps usrincludesysio.h, allowing you to readwrite bytesints directly fromto hardware ports. Also includes an example keyloggerkeycounter.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://home.comcast.net/~faulkner612/programming/python/sysio.zip"
+}

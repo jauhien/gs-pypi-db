@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use any Smart Folder as default RSS feed of Plone instance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.siterss", 
+  "info": {
+    "Author:": "Radim Novotny", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.siterss", 
+    "Keywords:": "plone rss", 
+    "License:": "GPL", 
+    "Package Index Owner:": "naro"
+  }, 
+  "license": "", 
+  "longdescription": "Use any Smart Folder as default RSS feed of Plone instance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0acc00369130196333e567dd8bdd518e", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.siterss/collective.siterss-0.4.zip"
+}

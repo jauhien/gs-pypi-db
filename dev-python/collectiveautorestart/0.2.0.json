@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatically reloads changed code into Plone when you edit Python files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.autorestart", 
+  "info": {
+    "Author:": "Mikko Ohtamaa", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.autorestart", 
+    "Keywords:": "plone reload development server hotstart", 
+    "License:": "GPL", 
+    "Package Index Owner:": "miohtama"
+  }, 
+  "license": "", 
+  "longdescription": "Automatically reloads changed code into Plone when you edit Python files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "940a9100b04d852c45be038d63a06634", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.autorestart/collective.autorestart-0.2.0.tar.gz"
+}

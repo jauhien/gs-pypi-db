@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Google Analytics integration for Django projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/monwara/django-ga-tracking", 
+  "info": {
+    "Author:": "Monwara LLC", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/monwara/django-ga-tracking/downloads", 
+    "Home Page:": "https://bitbucket.org/monwara/django-ga-tracking", 
+    "License:": "BSD", 
+    "Package Index Owner:": "monwara"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple Google Analytics integration for Django projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6424b27b62813520ba586883af2a8e05", 
+  "source_uri": "https://bitbucket.org/monwara/django-ga-tracking/downloads"
+}

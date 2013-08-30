@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utilities for using ooKeeper from a Django project.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nkvoll/djkeeper", 
+  "info": {
+    "Author:": "Njal Karevoll", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nkvoll/djkeeper", 
+    "Keywords:": "zookeeper,pykeeper", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nkvoll"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Utilities for using ooKeeper from a Django project.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b467e73410e271409591ed0134f7b06", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djkeeper/djkeeper-0.2.4.tar.gz"
+}

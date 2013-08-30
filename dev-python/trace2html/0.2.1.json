@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "HTML coverage report generator for trace.py", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/trace2html", 
+  "info": {
+    "Author:": "Olivier Grisel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/trace2html", 
+    "License:": "GNU GPL v2 or later", 
+    "Package Index Owner:": "ogrisel"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "HTML coverage report generator for trace.py", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5a8a3be2dc787de8c491c271b10908a7", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trace2html/trace2html-0.2.1.tar.gz"
+}

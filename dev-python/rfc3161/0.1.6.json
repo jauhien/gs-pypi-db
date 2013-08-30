@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python implementation of the RFC3161 specification, using pyasn1", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Benjamin Dauvergne", 
+    "License:": "MIT", 
+    "Package Index Owner:": "entrouvert"
+  }, 
+  "license": "", 
+  "longdescription": "Python implementation of the RFC3161 specification, using pyasn1", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "42be21e24b13ff01fc9cd525d0650cb4", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rfc3161/rfc3161-0.1.6.tar.gz"
+}

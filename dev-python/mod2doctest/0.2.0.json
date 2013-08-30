@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A way to convert any Python module to a doctest ready doc string.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/mod2doctest/", 
+  "info": {
+    "Author:": "Andrew Carter", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//mod2doctest", 
+    "Home Page:": "http://packages.python.org/mod2doctest/", 
+    "Keywords:": "doctest unit test", 
+    "License:": "MIT", 
+    "Package Index Owner:": "cart0113"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A way to convert any Python module to a doctest ready doc string.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "598b79966b9899f5fc6e4400ef270b33", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mod2doctest/mod2doctest-0.2.0.zip"
+}

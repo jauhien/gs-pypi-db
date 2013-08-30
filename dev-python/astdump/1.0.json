@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extract information from Python module without importing it.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/techtonik/astdump", 
+  "info": {
+    "Author:": "anatoly techtonik", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/techtonik/astdump", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "techtonik"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Extract information from Python module without importing it.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e1c98e3f2b104e5294c13da61a7fabd8", 
+  "source_uri": "https://pypi.python.org/packages/source/a/astdump/astdump-1.0.tar.gz"
+}

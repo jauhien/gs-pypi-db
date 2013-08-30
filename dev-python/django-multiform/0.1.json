@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrap several django forms into one form-like object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bmispelon/django-multiform/", 
+  "info": {
+    "Author:": "Baptiste Mispelon <bmispelon@gmail.com>", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/bmispelon/django-multiform/", 
+    "Keywords:": "django,forms,multiform", 
+    "License:": "BSD", 
+    "Package Index Owner:": "bmispelon"
+  }, 
+  "license": "", 
+  "longdescription": "Wrap several django forms into one form-like object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66e2acc92cbeb88a760184e647527d9a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-multiform/django-multiform-0.1.tar.gz"
+}

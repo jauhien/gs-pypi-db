@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Computer algebra system (CAS) in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/sympy", 
+  "info": {
+    "Author:": "SymPy development team", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Physics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sympy", 
+    "Home Page:": "http://code.google.com/p/sympy", 
+    "Keywords:": "Math CAS", 
+    "License:": "BSD", 
+    "Package Index Owner:": "certik, Aaron.Meurer"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Computer algebra system (CAS) in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "92f34f812a6a9dc7fd559014201d7219", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sympy/sympy-0.7.3-py2.5.tar.gz"
+}

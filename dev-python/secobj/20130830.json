@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ACL security for functions and classes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cramren/secobj", 
+  "info": {
+    "Author:": "Marc G\u00f6ldner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/cramren/secobj", 
+    "Keywords:": "acl authorization security access", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cramren"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "ACL security for functions and classes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77433cbc7f53b799cd1e01d73b87cfef", 
+  "source_uri": "https://pypi.python.org/packages/source/s/secobj/secobj-0.2a-1.tar.gz"
+}

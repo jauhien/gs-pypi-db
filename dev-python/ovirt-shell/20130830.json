@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command-line interface to oVirt Virtualiation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ovirt.org/wiki/CLI", 
+  "info": {
+    "Author:": "Michael Pasternak", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.4"
+      ]
+    }, 
+    "Home Page:": "http://www.ovirt.org/wiki/CLI", 
+    "License:": "ASL2", 
+    "Package Index Owner:": "mpastern"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A command-line interface to oVirt Virtualiation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9cb34923a46183171030d31c3bd0b5c7", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ovirt-shell/ovirt-shell-3.3.0.3-1.tar.gz"
+}

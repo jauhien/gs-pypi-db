@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple incremental backups with rsync and xdelta3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bwesterb/pachy/", 
+  "info": {
+    "Author:": "Bas Westerbaan", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "System", 
+        "Archiving", 
+        "Backup"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bwesterb/pachy/", 
+    "Package Index Owner:": "bas"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Simple incremental backups with rsync and xdelta3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "603709c27522bc43a10f1299bb46a284", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pachy/pachy-0.1.2.tar.gz"
+}

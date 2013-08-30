@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small WSGI development server based on werkeug.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://projects.wagner-flo.net/wsgi-serve/", 
+  "info": {
+    "Author:": "Florian Wagner", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://projects.wagner-flo.net/wsgi-serve/", 
+    "Package Index Owner:": "wagnerflo"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Small WSGI development server based on werkeug.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a0d557d1f55564677f9f7278b0cc1cb", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgi-serve/wsgi-serve-0.4.tar.gz"
+}

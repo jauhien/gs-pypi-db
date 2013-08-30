@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "User email authentication application for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/redvasily/django-emailauth/tree/master/", 
+  "info": {
+    "Author:": "Vasily Sulatskov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://cloud.github.com/downloads/redvasily/django-emailauth/django-emailauth-0.1.tar.gz", 
+    "Home Page:": "http://github.com/redvasily/django-emailauth/tree/master/", 
+    "Package Index Owner:": "redvasily"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "User email authentication application for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3141e80f00a5d45095b034ad1f6fec5d", 
+  "source_uri": "http://cloud.github.com/downloads/redvasily/django-emailauth/django-emailauth-0.1.tar.gz"
+}

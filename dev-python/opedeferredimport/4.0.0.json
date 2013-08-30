@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ope.deferredimport allows you to perform imports names that will only be resolved when used in the code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/zope.deferredimport", 
+  "info": {
+    "Author:": "Zope Foundation and Contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/zope.deferredimport", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "baijum, J1m, ctheune, fdrake, projekt01, srichter, ignas, benji, chrism, philikon, mgedmin, ccomb, pcardune, faassen, chrisw, nadako, hathawsh, tseaver, hannosch, icemac, gary, roymath, tlotze, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "ope.deferredimport allows you to perform imports names that will only be resolved when used in the code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "252e8c8ed6b0cfacf544847784868bc9", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zope.deferredimport/zope.deferredimport-4.0.0.zip"
+}

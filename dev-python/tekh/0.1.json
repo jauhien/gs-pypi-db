@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tekh is a template which utilies ODB + EO for the database and other pyramid modules.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Nathan McBride", 
+    "Keywords:": "ZODB ZEO coverage nose pyramid pyramid_beaker pyramid_mailer pyramid_jinja2 beaker mailer jinja2", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nmcbride"
+  }, 
+  "license": "", 
+  "longdescription": "Tekh is a template which utilies ODB + EO for the database and other pyramid modules.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e78e98464f77e11752344b1445f175c3", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tekh/tekh-0.1.tar.gz"
+}

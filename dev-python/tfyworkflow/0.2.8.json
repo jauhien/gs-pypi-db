@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TFY package used to handle simple workflow", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ztfy.org", 
+  "info": {
+    "Author:": "Thierry Florac", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.ztfy.org", 
+    "Keywords:": "Zope3 workflow", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "tflorac"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "TFY package used to handle simple workflow", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84d4e382bfdcb50b75c201bf01c561ca", 
+  "source_uri": "https://pypi.python.org/packages/source/z/ztfy.workflow/ztfy.workflow-0.2.8.tar.gz"
+}

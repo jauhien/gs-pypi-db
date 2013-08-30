@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds in new features to supplement django-tagging", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pydanny/django-tagging-ext/tree/master", 
+  "info": {
+    "Author:": "Daniel Greenfeld", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/pydanny/django-tagging-ext/tree/master", 
+    "Keywords:": "django,pinax", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "brosner, Skylar.Saveland", 
+    "Package Index Owner:": "pydanny"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Adds in new features to supplement django-tagging", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3dc4d3a95e7542754d3e8c9d48b21bf4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tagging-ext/django-tagging-ext-0.3.1.tar.gz"
+}

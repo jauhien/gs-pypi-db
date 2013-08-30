@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python package for implementing SCGI servers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://python.ca/scgi/", 
+  "info": {
+    "Author:": "Neil Schemenauer", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "DFSG approved"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Download URL:": "http://python.ca/scgi/releases/scgi-1.14.tar.gz", 
+    "Home Page:": "http://python.ca/scgi/", 
+    "License:": "DFSG approved (see LICENSE.txt)", 
+    "Package Index Owner:": "nas, dbinger"
+  }, 
+  "license": "DFSG approved", 
+  "longdescription": "A Python package for implementing SCGI servers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://python.ca/scgi/releases/scgi-1.14.tar.gz"
+}

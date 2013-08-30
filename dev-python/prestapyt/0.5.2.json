@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library to access Prestashop Web Service from Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/guewen/prestapyt", 
+  "info": {
+    "Author:": "Guewen Baconnier", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/guewen/prestapyt", 
+    "Keywords:": "prestashop api client rest", 
+    "License:": "GNU AGPL-3", 
+    "Package Index Owner:": "Guewen.Baconnier"
+  }, 
+  "license": "GNU Affero General Public License v3", 
+  "longdescription": "A library to access Prestashop Web Service from Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a955f3ab578651f8a10cb8d81262b616", 
+  "source_uri": "https://pypi.python.org/packages/source/p/prestapyt/prestapyt-0.5.2.tar.gz"
+}

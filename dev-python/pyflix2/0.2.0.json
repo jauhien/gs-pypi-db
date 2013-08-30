@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A python module for accessing Netflix REST webservice, both V1 and V2 supports oauth and oob.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyflix2.readthedocs.org/", 
+  "info": {
+    "Author:": "Arup Malakar", 
+    "Documentation:": "http://pythonhosted.org//pyflix2", 
+    "Home Page:": "http://pyflix2.readthedocs.org/", 
+    "Package Index Owner:": "amalakar"
+  }, 
+  "license": "", 
+  "longdescription": "A python module for accessing Netflix REST webservice, both V1 and V2 supports oauth and oob.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "49a68b10a15e1adf0adcfa0421abf662", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyflix2/pyflix2-0.2.0.tar.gz"
+}

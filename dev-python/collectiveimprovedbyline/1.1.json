@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extends byline viewlet with Publication Date.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.improvedbyline", 
+  "info": {
+    "Author:": "Vitaliy Podoba", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.improvedbyline", 
+    "Keywords:": "plone viewlet byline publication date", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Vitaliy.Podoba"
+  }, 
+  "license": "", 
+  "longdescription": "Extends byline viewlet with Publication Date.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c73cd4788ad2cd637e920ef171c599b1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.improvedbyline/collective.improvedbyline-1.1.tar.gz"
+}

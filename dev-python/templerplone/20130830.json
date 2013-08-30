@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Templer system extensions for plone add-on development", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/templer.plone", 
+  "info": {
+    "Author:": "Cris Ewing", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Code Generators"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/templer.plone", 
+    "Keywords:": "zope buildout plone", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "timo", 
+    "Package Index Owner:": "timo, cewing"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Templer system extensions for plone add-on development", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71b2b7ba511a290f80d4cc38059ef52e", 
+  "source_uri": "https://pypi.python.org/packages/source/t/templer.plone/templer.plone-1.0b4.zip"
+}

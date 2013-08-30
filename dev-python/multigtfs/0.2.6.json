@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "General Transit Feed Specification (GTFS) as Django app", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tulsawebdevs/django-multi-gtfs", 
+  "info": {
+    "Author:": "John Whitlock", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tulsawebdevs/django-multi-gtfs", 
+    "Keywords:": "django gtfs", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "John.Whitlock"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "General Transit Feed Specification (GTFS) as Django app", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f29b87b4bfbdbb11c3c4343cf4795dc", 
+  "source_uri": "https://pypi.python.org/packages/source/m/multigtfs/multigtfs-0.2.6.tar.gz"
+}

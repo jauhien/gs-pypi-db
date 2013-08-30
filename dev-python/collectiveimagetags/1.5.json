@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds Facebook-like tags (or Flickr-like notes) to images", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/collective.imagetags", 
+  "info": {
+    "Author:": "Marcos F. Romero", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/collective.imagetags", 
+    "License:": "GPL", 
+    "Package Index Owner:": "marcosfromero"
+  }, 
+  "license": "", 
+  "longdescription": "Adds Facebook-like tags (or Flickr-like notes) to images", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5214bff82cdbb603d387ae73bfc790d3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.imagetags/collective.imagetags-1.5.zip"
+}

@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SPF (Sender Policy Framework) implemented in Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pymilter.sourceforge.net/", 
+  "info": {
+    "Author:": "Stuart D. Gathman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pymilter.sourceforge.net/", 
+    "Keywords:": "spf,email,forgery", 
+    "License:": "Python Software Foundation License", 
+    "Package Index Maintainer:": "sdgathman", 
+    "Package Index Owner:": "Terence.Way, sdgathman"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "SPF (Sender Policy Framework) implemented in Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ef1a5714939d6df5ab40006ac8930ac", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyspf/pyspf-2.0.8.tar.gz"
+}

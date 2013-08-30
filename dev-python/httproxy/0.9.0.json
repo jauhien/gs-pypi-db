@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tiny HTTP proxy implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ambv/httproxy/", 
+  "info": {
+    "Author:": "Suzuki Hisao, Mitko Haralanov, \u0141ukasz Langa", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ambv/httproxy/", 
+    "Keywords:": "http proxy mitm man-in-the-middle daemon transparent headers", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ambv", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A tiny HTTP proxy implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5733dc93562b372aa999a7a3e12c8a42", 
+  "source_uri": "https://pypi.python.org/packages/source/h/httproxy/httproxy-0.9.0.tar.gz"
+}

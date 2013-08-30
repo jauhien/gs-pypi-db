@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Config file reading, writing and validation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.voidspace.org.uk/python/configobj.html", 
+  "info": {
+    "Author:": "Michael Foord & Nicola Larosa", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://www.voidspace.org.uk/downloads/configobj-4.7.2.zip", 
+    "Home Page:": "http://www.voidspace.org.uk/python/configobj.html", 
+    "Keywords:": "config,ini,dictionary,application,admin,sysadmin,configuration,validation", 
+    "Package Index Owner:": "Fuzzyman"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Config file reading, writing and validation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "201dbaa732a9049c839f9bb6c27fc7b5", 
+  "source_uri": "http://www.voidspace.org.uk/downloads/configobj-4.7.2.zip"
+}

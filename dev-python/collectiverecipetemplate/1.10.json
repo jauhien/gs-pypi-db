@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe to generate a text file from a template", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.recipe.template", 
+  "info": {
+    "Author:": "Wichert Akkerman", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.recipe.template", 
+    "Keywords:": "template recipe", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mitchellrj, ulif, tlotze, fschulze, witsch, aclark"
+  }, 
+  "license": "", 
+  "longdescription": "Buildout recipe to generate a text file from a template", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7e2144112d647e55ad60345be0df58e1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.template/collective.recipe.template-1.10.zip"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A site migration tool for Plone that uses the sites theme egg version releases", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.ilrt.bris.ac.uk/repos/pypi/ilrt.migrationtool", 
+  "info": {
+    "Author:": "Internet Development, ILRT, University of Bristol", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Other Audience"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.ilrt.bris.ac.uk/repos/pypi/ilrt.migrationtool", 
+    "Keywords:": "web zope plone migration setup release management workflow", 
+    "License:": "GPL", 
+    "Package Index Owner:": "cmetc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A site migration tool for Plone that uses the sites theme egg version releases", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "779d890b2d300427796b15c26cca9f0e", 
+  "source_uri": "https://pypi.python.org/packages/source/i/ilrt.migrationtool/ilrt.migrationtool-0.4.tar.gz"
+}

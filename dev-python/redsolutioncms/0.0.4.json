@@ -1,0 +1,68 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Redsolution CMS allows to create websites quickly, with wiard interface.The system works with PYPI site, and downloads nessesary packages automatically.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.redsoluthioncms.org", 
+  "info": {
+    "Author:": "Ivan Gromov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content", 
+        "News/Diary"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//redsolutioncms", 
+    "Home Page:": "http://www.redsoluthioncms.org", 
+    "Keywords:": "django news", 
+    "License:": "LGPL", 
+    "Package Index Maintainer:": "evgeniy.gulitsyn, a.iv, Ivan.Gromov", 
+    "Package Index Owner:": "Redsolution"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Redsolution CMS allows to create websites quickly, with wiard interface.The system works with PYPI site, and downloads nessesary packages automatically.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "af30f7c866199927e05107b863874bc5", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redsolutioncms/redsolutioncms-0.0.4.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A script to backport the full importlib to 2.x", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ericsnowcurrently/backport_importlib/", 
+  "info": {
+    "Author:": "Eric Snow", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ericsnowcurrently/backport_importlib/", 
+    "Package Index Owner:": "Eric.Snow"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "A script to backport the full importlib to 2.x", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32be7f327e81d49b8a2dc54103ab169a", 
+  "source_uri": "https://pypi.python.org/packages/source/b/backport_importlib/backport_importlib-0...1.tar.gz"
+}

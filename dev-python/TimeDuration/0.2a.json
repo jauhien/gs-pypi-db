@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python module that handles stopwatch time rather than wallclock time", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://statz.com/libs-TimeDuration", 
+  "info": {
+    "Author:": "Andrew Lee", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://statz.com/libs-TimeDuration/", 
+    "Home Page:": "http://statz.com/libs-TimeDuration", 
+    "Keywords:": "time stopwatch pure-python parse", 
+    "License:": "GPL License", 
+    "Package Index Owner:": "fiacre", 
+    "Platform:": "All"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Pure Python module that handles stopwatch time rather than wallclock time", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ddf73d42edc6a7efae97e1e5b81dada4", 
+  "source_uri": "http://statz.com/libs-TimeDuration/"
+}

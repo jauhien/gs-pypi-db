@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to NAG math library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cdc.noaa.gov/people/jeffrey.s.whitaker/python/nagpy", 
+  "info": {
+    "Author:": "Jeff Whitaker", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Download URL:": "ftp://ftp.cdc.noaa.gov/Public/jsw/nagpy.tar.gz", 
+    "Home Page:": "http://www.cdc.noaa.gov/people/jeffrey.s.whitaker/python/nagpy", 
+    "Keywords:": "math, numeric, scientific", 
+    "License:": "OSI Approved", 
+    "Maintainer:": "Jeff Whitaker", 
+    "Package Index Owner:": "jwhit"
+  }, 
+  "license": "", 
+  "longdescription": "Python interface to NAG math library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "ftp://ftp.cdc.noaa.gov/Public/jsw/nagpy.tar.gz"
+}

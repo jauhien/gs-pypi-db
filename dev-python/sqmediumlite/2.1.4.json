@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLite network connection", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "E. Pasma", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "SQL"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sqmediumlite", 
+    "Package Index Owner:": "edzard", 
+    "Platform:": "ALL"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "SQLite network connection", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "701ced0ed2455534ea207ab22525e758", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqmediumlite/sqmediumlite-2.1.4.tar.gz"
+}

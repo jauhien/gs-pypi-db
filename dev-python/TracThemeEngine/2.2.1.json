@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Provide a modular interface to styling Trac.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/ThemeEnginePlugin", 
+  "info": {
+    "Author:": "Olemis Lang", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Trac"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://trac-hacks.org/svn/themeengineplugin/0.11#egg=TracThemeEngine-dev", 
+    "Home Page:": "http://trac-hacks.org/wiki/ThemeEnginePlugin", 
+    "Keywords:": "trac plugin theme style", 
+    "License:": "3-Clause BSD", 
+    "Package Index Owner:": "olemis, coderanger"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Provide a modular interface to styling Trac.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://trac-hacks.org/svn/themeengineplugin/0.11#egg=TracThemeEngine-dev"
+}

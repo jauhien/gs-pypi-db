@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RSS scraper with immediate RESTful access to feed items", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gump/rss2rest", 
+  "info": {
+    "Author:": "Michal Gump Szczesny", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-rss2rest", 
+    "Home Page:": "https://github.com/gump/rss2rest", 
+    "Keywords:": "Django,RSS,RESTful API", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gump", 
+    "Platform:": "linux"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "RSS scraper with immediate RESTful access to feed items", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "771c4591d8a31a5dfa16f09213588d53", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-rss2rest/django-rss2rest-0.1.tar.gz"
+}

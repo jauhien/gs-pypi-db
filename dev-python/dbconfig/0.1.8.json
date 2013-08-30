@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "store config in database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Viktor Kotseruba", 
+    "Keywords:": "config web django", 
+    "License:": "MIT", 
+    "Package Index Owner:": "barbuza"
+  }, 
+  "license": "", 
+  "longdescription": "store config in database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a104bfe7c1d27c2bb14dc1faea931ccc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dbconfig/dbconfig-0.1.8.tar.gz"
+}

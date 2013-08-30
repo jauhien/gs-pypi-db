@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trac plugin and Greasemonkey scripts to help monitor external projects", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.insidetrac.org/", 
+  "info": {
+    "Author:": "Michael J. Pedersen", 
+    "Home Page:": "http://www.insidetrac.org/", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "pedersen"
+  }, 
+  "license": "", 
+  "longdescription": "Trac plugin and Greasemonkey scripts to help monitor external projects", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a3624d76c6ae368513277fde50504ece", 
+  "source_uri": "https://pypi.python.org/packages/source/I/InsideTrac/InsideTrac-0.2.7.tar.gz"
+}

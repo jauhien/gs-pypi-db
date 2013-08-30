@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A test framework for SMTP based applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/lazr.smtptest", 
+  "info": {
+    "Author:": "LAZR Developers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//lazr.smtptest", 
+    "Download URL:": "https://launchpad.net/lazr.smtptest/+download", 
+    "Home Page:": "https://launchpad.net/lazr.smtptest", 
+    "License:": "LGPL v3", 
+    "Package Index Owner:": "barry, gary"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "A test framework for SMTP based applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3c1851fceaad0ee2be413644a417eac5", 
+  "source_uri": "https://launchpad.net/lazr.smtptest/+download"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app that allows administrators to log in to user accounts without having to provide a password", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bryanchow/django-assume", 
+  "info": {
+    "Author:": "Bryan Chow", 
+    "Download URL:": "https://github.com/bryanchow/django-assume/tarball/master", 
+    "Home Page:": "https://github.com/bryanchow/django-assume", 
+    "License:": "WTFPL", 
+    "Package Index Owner:": "bryanchow"
+  }, 
+  "license": "", 
+  "longdescription": "Django app that allows administrators to log in to user accounts without having to provide a password", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03e0ce8ec38ca3c0474ecfcf4681da49", 
+  "source_uri": "https://github.com/bryanchow/django-assume/tarball/master"
+}

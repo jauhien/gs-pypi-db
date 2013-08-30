@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone add on to simplify form confirmation by e-mail.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zestsoftware/collective.confirmableforms", 
+  "info": {
+    "Author:": "Vincent Pretre", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zestsoftware/collective.confirmableforms", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fredvd, maurits, vincentpretre"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone add on to simplify form confirmation by e-mail.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "faea1eead8b301929643bc89c02725ae", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.confirmableforms/collective.confirmableforms-1.4.2.zip"
+}

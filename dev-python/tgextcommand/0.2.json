@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Cron-friendly TurboGears extension module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.vrplumber.com", 
+  "info": {
+    "Author:": "Mike C. Fletcher", 
+    "Home Page:": "http://www.vrplumber.com", 
+    "Keywords:": "TurboGears,command line,pid,paster", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mcfletch"
+  }, 
+  "license": "", 
+  "longdescription": "Cron-friendly TurboGears extension module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "007db87df8e6942ac6b2d72d61d2b905", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tgext.command/tgext.command-0.2.tar.gz"
+}

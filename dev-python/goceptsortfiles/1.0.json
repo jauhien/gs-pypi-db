@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small utility that sorts all files in a directory into subdirectories(YYYMMDD) according to their creation time (ctime).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/gocept.sortfiles", 
+  "info": {
+    "Author:": "gocept", 
+    "Home Page:": "http://pypi.python.org/pypi/gocept.sortfiles", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "ckauhaus, ctheune, DanielHavlikGocept, sweh, tlotze, icemac, zagy, wosc"
+  }, 
+  "license": "", 
+  "longdescription": "A small utility that sorts all files in a directory into subdirectories(YYYMMDD) according to their creation time (ctime).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b6ac6ca6d673421dc430c681281813a7", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.sortfiles/gocept.sortfiles-1.0.tar.gz"
+}

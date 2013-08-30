@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Static site generator in a single Python file similar to Jekyll", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://obraz.pirx.ru/", 
+  "info": {
+    "Author:": "Andrey Vlasovskikh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Site Management"
+      ]
+    }, 
+    "Home Page:": "http://obraz.pirx.ru/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vlasovskikh"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Static site generator in a single Python file similar to Jekyll", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5312bd4ca070d2166a21188dde832515", 
+  "source_uri": "https://pypi.python.org/packages/source/o/obraz/obraz-0.3.tar.gz"
+}

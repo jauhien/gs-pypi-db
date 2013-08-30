@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compmake is a non-obtrusive module that provides make-like facilities to your Python computations,including caching of results, robustness to exceptions, and multiprocessingmultihost parallel processing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://compmake.org", 
+  "info": {
+    "Author:": "Andrea Censi", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Topic": [
+        "System", 
+        "Hardware", 
+        "Symmetric Multi-processing"
+      ]
+    }, 
+    "Home Page:": "http://compmake.org", 
+    "Keywords:": "parallel processing,make,cmake,manager,recovery", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "Andrea.Censi"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Compmake is a non-obtrusive module that provides make-like facilities to your Python computations,including caching of results, robustness to exceptions, and multiprocessingmultihost parallel processing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "81628c4327d09681a4aa49cfd6056309", 
+  "source_uri": "https://pypi.python.org/packages/source/c/compmake/compmake-2.3.tar.gz"
+}

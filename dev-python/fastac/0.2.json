@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compiler for FASTA files and a FASTA-based DNA scripting language.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://gitorious.org/fastac/fastac", 
+  "info": {
+    "Author:": "Cathal Garvey", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3 or later (AGPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://gitorious.org/fastac/fastac", 
+    "License:": "GNU Affero General Public License v3", 
+    "Package Index Owner:": "cathalgarvey", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)", 
+  "longdescription": "Compiler for FASTA files and a FASTA-based DNA scripting language.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d5bb1f1c670ea71c8384249d9e02e47d", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fastac/fastac-0.2.tar.gz"
+}

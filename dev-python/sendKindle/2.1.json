@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CLI tool for sending files via email to your Kindle device", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kparal/sendKindle", 
+  "info": {
+    "Author:": "Kamil Paral", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Affero General Public License v3 or later (AGPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://github.com/kparal/sendKindle/downloads", 
+    "Home Page:": "https://github.com/kparal/sendKindle", 
+    "Keywords:": "commandline Kindle email", 
+    "License:": "GNU Affero GPL v3+", 
+    "Package Index Owner:": "kamil.paral"
+  }, 
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)", 
+  "longdescription": "CLI tool for sending files via email to your Kindle device", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eee21ebc07a8e927954313e6cbf4d2bf", 
+  "source_uri": "https://github.com/kparal/sendKindle/downloads"
+}

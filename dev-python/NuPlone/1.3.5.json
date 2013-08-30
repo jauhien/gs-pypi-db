@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A new user interface for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/NuPlone", 
+  "info": {
+    "Author:": "Cornelis Kolbach and Wichert Akkerman", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ]
+    }, 
+    "Home Page:": "http://packages.python.org/NuPlone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pilz, jcbrand, thomasw, wichert"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A new user interface for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54a81167460c4ab9e00a4eb141c37e4d", 
+  "source_uri": "https://pypi.python.org/packages/source/N/NuPlone/NuPlone-1.3.5.zip"
+}

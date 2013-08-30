@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An inobstrusive way to login with Twitter into your Django application.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ahmontero/django-twitter", 
+  "info": {
+    "Author:": "Antonio Hinojo", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ahmontero/django-twitter", 
+    "Keywords:": "twitter django login", 
+    "Package Index Owner:": "ahmontero"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An inobstrusive way to login with Twitter into your Django application.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "16166a916d97bee61027f1c4413a3440", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-twitter/django-twitter-0.1.0.tar.gz"
+}

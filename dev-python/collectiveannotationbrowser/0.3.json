@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Browsereditor for ope annotations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org", 
+  "info": {
+    "Author:": "Radim Novotny", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org", 
+    "Keywords:": "plone zope annotations", 
+    "License:": "GPL", 
+    "Package Index Owner:": "naro, lzdych, mhora"
+  }, 
+  "license": "", 
+  "longdescription": "Browsereditor for ope annotations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95e6866f5801284ec80b1289f0eff9f3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.annotationbrowser/collective.annotationbrowser-0.3.zip"
+}

@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the Git source control system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Rotem Yaari", 
+    "Package Index Owner:": "vmalloc"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for the Git source control system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "78a4c3a6dab23c7ddb4da464dc46ad46", 
+  "source_uri": "https://pypi.python.org/packages/source/g/git-py/git-py-1.0.0.tar.gz"
+}

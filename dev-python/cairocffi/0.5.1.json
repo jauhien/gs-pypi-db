@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cffi-based cairo bindings for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/SimonSapin/cairocffi", 
+  "info": {
+    "Author:": "Simon Sapin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Graphics"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//cairocffi", 
+    "Home Page:": "https://github.com/SimonSapin/cairocffi", 
+    "License:": "BSD", 
+    "Package Index Owner:": "SimonSapin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "cffi-based cairo bindings for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a0c55240b07030f27d9fb07cf99bf705", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cairocffi/cairocffi-0.5.1.tar.gz"
+}

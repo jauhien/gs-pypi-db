@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "distributed object middleware for Python (IPCRPC), version 3.x", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Irmen de Jong", 
+    "Categories": {
+      "Development Status": [
+        "7 - Inactive"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Pyro", 
+    "Keywords:": "distributed objects,middleware,network communication,DOT,RMI,IPC", 
+    "License:": "MIT", 
+    "Package Index Owner:": "irmen", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "distributed object middleware for Python (IPCRPC), version 3.x", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59d4d3f4a8786776c9d7f9051b8f1a69", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Pyro/Pyro-3.16.tar.gz"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A PAS plugin that authenticates users against a CAS (Central Authentication Service) server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.CAS4PAS", 
+  "info": {
+    "Author:": "Lennart Regebro/Zope community", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.CAS4PAS", 
+    "Keywords:": "zope PAS", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "WouterVH, quadrainformatique", 
+    "Package Index Owner:": "derek, encolpe"
+  }, 
+  "license": "", 
+  "longdescription": "A PAS plugin that authenticates users against a CAS (Central Authentication Service) server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb2e755d7237fe2d56dc6c7f97766aae", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.CAS4PAS/Products.CAS4PAS-2.1.2.tar.gz"
+}

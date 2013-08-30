@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool for detecting spikes in Graphite timeseries", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mihaibivol/Graphite-Anomaly-Detector/", 
+  "info": {
+    "Author:": "Mihai Bivol", 
+    "Download URL:": "https://github.com/mihaibivol/Graphite-Anomaly-Detector/", 
+    "Home Page:": "https://github.com/mihaibivol/Graphite-Anomaly-Detector/", 
+    "Package Index Owner:": "mm.bivol", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Tool for detecting spikes in Graphite timeseries", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3443d5e9469fd7adbeaa05f100f9609d", 
+  "source_uri": "https://github.com/mihaibivol/Graphite-Anomaly-Detector/"
+}

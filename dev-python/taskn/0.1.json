@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A note taking addition to taskwarrior", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cyborginstitute.org/projects/taskn", 
+  "info": {
+    "Author:": "tychoish", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://cyborginstitute.org/projects/taskn", 
+    "License:": "Apache", 
+    "Package Index Owner:": "tychoish"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A note taking addition to taskwarrior", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9dbc1e8ca7469764cce69edc48e1b138", 
+  "source_uri": "https://pypi.python.org/packages/source/t/taskn/taskn-0.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Common API to use all French online payment credit card processing services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.entrouvert.org/projects/eopayment/", 
+  "info": {
+    "Author:": "Benjamin Dauvergne", 
+    "Home Page:": "http://dev.entrouvert.org/projects/eopayment/", 
+    "License:": "GPLv3 or later", 
+    "Package Index Owner:": "entrouvert"
+  }, 
+  "license": "", 
+  "longdescription": "Common API to use all French online payment credit card processing services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "666dd3757fc40be034900c2ab4dfc493", 
+  "source_uri": "https://pypi.python.org/packages/source/e/eopayment/eopayment-0.0.19.tar.gz"
+}

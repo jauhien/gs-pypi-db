@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A repository of test results.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/testrepository", 
+  "info": {
+    "Author:": "Robert Collins", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/testrepository", 
+    "Keywords:": "subunit unittest testrunner", 
+    "Package Index Owner:": "lifeless"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A repository of test results.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1c0cc25ff11723847572d8e9a843d47", 
+  "source_uri": "https://pypi.python.org/packages/source/t/testrepository/testrepository-0.0.17.tar.gz"
+}

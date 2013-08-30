@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "S-expression parser for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tkf/sexpdata", 
+  "info": {
+    "Author:": "Takafumi Arakaki", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tkf/sexpdata", 
+    "Keywords:": "s-expression,lisp,parser", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "tkf"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "S-expression parser for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "de9c2c3ee28551e766cb535c0b2cebf0", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sexpdata/sexpdata-0.0.3.tar.gz"
+}

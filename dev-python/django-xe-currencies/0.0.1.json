@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django-based currency exchange app synced with XE datafeed API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aisayko/django-xe-currencies", 
+  "info": {
+    "Author:": "Alex Isayko", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/aisayko/django-xe-currencies/zipball/master", 
+    "Home Page:": "https://github.com/aisayko/django-xe-currencies", 
+    "Keywords:": "django currency XE sync", 
+    "Package Index Owner:": "Alex.Isayko", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django-based currency exchange app synced with XE datafeed API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "41ce5d33020712cea29f52235a9623b3", 
+  "source_uri": "https://github.com/aisayko/django-xe-currencies/zipball/master"
+}

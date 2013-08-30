@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JIRA data source for corejet.testrunner", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://corejet.org", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://corejet.org", 
+    "Keywords:": "corejet JIRA", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "optilude"
+  }, 
+  "license": "", 
+  "longdescription": "JIRA data source for corejet.testrunner", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "74c66e1f3cc4caddb6deb33466e0cb82", 
+  "source_uri": "https://pypi.python.org/packages/source/c/corejet.jira/corejet.jira-1.0a3.zip"
+}

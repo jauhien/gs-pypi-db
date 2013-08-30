@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An installable theme for Plone 3.0", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.themebin.com", 
+  "info": {
+    "Author:": "Themebin, ported to plone by Izhar Firdaus", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.themebin.com", 
+    "Keywords:": "web zope plone theme", 
+    "License:": "Creative Commons 2.5", 
+    "Package Index Owner:": "kagesenshi"
+  }, 
+  "license": "", 
+  "longdescription": "An installable theme for Plone 3.0", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7d2fd16df59157c12d67baf7fec2d40", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plonetheme.broadcaster/plonetheme.broadcaster-1.0dev-r415.tar.gz"
+}

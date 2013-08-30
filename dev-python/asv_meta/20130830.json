@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This is a metapackage for quick installing other asv_ packages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/xenolog/asv_meta/wiki/Home", 
+  "info": {
+    "Author:": "Sergey Vasilenko", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/xenolog/asv_meta/wiki/Home", 
+    "Keywords:": "django asv", 
+    "License:": "GPL", 
+    "Package Index Owner:": "stalker", 
+    "Platform:": "All"
+  }, 
+  "license": "", 
+  "longdescription": "This is a metapackage for quick installing other asv_ packages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d8a4b81d632bbfd03eb49e326307b777", 
+  "source_uri": "https://pypi.python.org/packages/source/a/asv_meta/asv_meta-dev-20120127-01.tar.gz"
+}

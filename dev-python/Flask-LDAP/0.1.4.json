@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Flask extension for LDAP auth and profile user", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/ellersseer/flask-ldap/", 
+  "info": {
+    "Author:": "Dmitry Zhiltsov", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/ellersseer/flask-ldap/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dzhiltsov", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Flask extension for LDAP auth and profile user", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bea01b58c63b5600e3487870bf193445", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-LDAP/Flask-LDAP-0.1.4.tar.gz"
+}

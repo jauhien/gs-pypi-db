@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "rethinkdb backed sessions for django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/maxpresman/django-rethinkdb-sessions", 
+  "info": {
+    "Author:": "Max Presman", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "http://github.com/maxpresman/django-rethinkdb-sessions", 
+    "License:": "MIT", 
+    "Package Index Owner:": "maxpresman"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "rethinkdb backed sessions for django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "97b6ce43246d44e6adfe958c711452e3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-rethinkdb-sessions/django-rethinkdb-sessions-0.0.3.tar.gz"
+}

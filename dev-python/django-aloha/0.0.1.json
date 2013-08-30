@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "django app to easily integrate editing with Aloha WYSIWIG editor in django apps.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/descent/django-aloha", 
+  "info": {
+    "Author:": "Igor Katson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/descent/django-aloha", 
+    "Package Index Owner:": "Igor.Katson"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "django app to easily integrate editing with Aloha WYSIWIG editor in django apps.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "82794148856c935a115c538771a123c6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-aloha/django-aloha-0.0.1.tar.gz"
+}

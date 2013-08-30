@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python tools for Platron.ru", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/05bit/py-platrontools", 
+  "info": {
+    "Author:": "Alexey Kinyov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/05bit/py-platrontools", 
+    "Keywords:": "platron,api,merchant,e-commerce,payment system", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Alexey.Kinyov"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python tools for Platron.ru", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cefe6ffb353d9bfe4cde757aa8687d57", 
+  "source_uri": "https://pypi.python.org/packages/source/p/platrontools/platrontools-0.9.tar.gz"
+}

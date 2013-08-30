@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python code for talking to Yubicos YubiKeys", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Yubico/python-yubico", 
+  "info": {
+    "Author:": "Yubico Open Source Maintainers", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Yubico/python-yubico", 
+    "License:": "BSD 2 clause", 
+    "Package Index Owner:": "dain"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python code for talking to Yubicos YubiKeys", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f029164edad81a109e5ce6e3a847add", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-yubico/python-yubico-1.2.0.tar.gz"
+}

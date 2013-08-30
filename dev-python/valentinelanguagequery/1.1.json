@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows you to query for all languages if you are logged into Plone CMS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/valentine.languagequery", 
+  "info": {
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/valentine.languagequery", 
+    "License:": "[GPL", 
+    "Package Index Owner:": "sashav"
+  }, 
+  "license": "", 
+  "longdescription": "Allows you to query for all languages if you are logged into Plone CMS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1fdc2ef27fa0b503bfcc3ad4f386f57b", 
+  "source_uri": "https://pypi.python.org/packages/source/v/valentine.languagequery/valentine.languagequery-1.1.zip"
+}

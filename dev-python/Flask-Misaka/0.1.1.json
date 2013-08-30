@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pleasant interface between the Flask web framework and the Misaka Markdown parser.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/singingwolfboy/flask-misaka/", 
+  "info": {
+    "Author:": "David Baumgold", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Flask-Misaka", 
+    "Home Page:": "https://github.com/singingwolfboy/flask-misaka/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "singingwolfboy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A pleasant interface between the Flask web framework and the Misaka Markdown parser.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5acc6f1d702943accbca18efcb02e46a", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-Misaka/Flask-Misaka-0.1.1.tar.gz"
+}

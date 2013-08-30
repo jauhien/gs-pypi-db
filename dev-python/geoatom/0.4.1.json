@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Atom syndication and AtomPub with GeoRSS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.gispython.org/projects/PrimaGIS/wiki/zgeo.atom", 
+  "info": {
+    "Author:": "Sean Gillies", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://trac.gispython.org/projects/PrimaGIS/wiki/zgeo.atom", 
+    "Keywords:": "gis geography geospatial georss atom atompub", 
+    "License:": "BSD", 
+    "Package Index Owner:": "seang"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Atom syndication and AtomPub with GeoRSS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6f19054b347287bc7e99e886fd0a7231", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zgeo.atom/zgeo.atom-0.4.1.tar.gz"
+}

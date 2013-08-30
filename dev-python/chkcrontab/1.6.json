@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to detect crontab errors", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/chkcrontab", 
+  "info": {
+    "Author:": "Kevin Lyda", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/chkcrontab", 
+    "Keywords:": "check lint crontab", 
+    "License:": "Apache Software License", 
+    "Package Index Owner:": "lyda", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A tool to detect crontab errors", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c42dc7a95239a3c9f7292b3a3a4bc5e6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chkcrontab/chkcrontab-1.6.tar.gz"
+}

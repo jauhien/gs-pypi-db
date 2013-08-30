@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tiny library for WebOb to manage URL and Request routing correctly without many dependencies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/samalba/wsgirouter", 
+  "info": {
+    "Author:": "Samuel Alba", 
+    "Home Page:": "https://github.com/samalba/wsgirouter", 
+    "Keywords:": "wsgi request web http", 
+    "License:": "MIT", 
+    "Package Index Owner:": "shad"
+  }, 
+  "license": "", 
+  "longdescription": "Tiny library for WebOb to manage URL and Request routing correctly without many dependencies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "19b690ca4540d4de89921f39c1f950d0", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WSGIRouter/WSGIRouter-0.4.tar.gz"
+}

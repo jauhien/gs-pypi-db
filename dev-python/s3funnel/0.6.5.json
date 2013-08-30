@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Multithreaded tool for performing operations on Amaons S3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sstoiana/s3funnel", 
+  "info": {
+    "Author:": "Sorin Stoiana", 
+    "Home Page:": "https://github.com/sstoiana/s3funnel", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "sstoiana", 
+    "Package Index Owner:": "shazow, sstoiana"
+  }, 
+  "license": "", 
+  "longdescription": "Multithreaded tool for performing operations on Amaons S3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "28af0188e0167b588b94a76e0dcaa716", 
+  "source_uri": "https://pypi.python.org/packages/source/s/s3funnel/s3funnel-0.6.5.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A native Python client for the Vertica database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/uber/vertica-python/", 
+  "info": {
+    "Author:": "Justin Berka", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database", 
+        "Database Engines/Servers"
+      ]
+    }, 
+    "Home Page:": "https://github.com/uber/vertica-python/", 
+    "Keywords:": "database vertica", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jberka"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A native Python client for the Vertica database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46c28eb3ae62835d1cca54343d40f6a4", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vertica-python/vertica-python-0.1.2.tar.gz"
+}

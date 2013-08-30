@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sphinx extension auto-generates API docs from ope interfaces", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.repoze.org", 
+  "info": {
+    "Author:": "Agendaless Consulting", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "http://www.repoze.org", 
+    "Keywords:": "web wsgi zope", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Maintainer:": "wichert", 
+    "Package Index Owner:": "chrism, tseaver, wichert, dataflake"
+  }, 
+  "license": "", 
+  "longdescription": "Sphinx extension auto-generates API docs from ope interfaces", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f2fee996ae28dc16eb48f1a3e8f64801", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repoze.sphinx.autointerface/repoze.sphinx.autointerface-0.7.1.tar.gz"
+}

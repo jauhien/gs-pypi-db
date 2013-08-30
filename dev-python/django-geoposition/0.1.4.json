@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django model field that can hold a geoposition, and corresponding admin widget.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/philippbosch/django-geoposition", 
+  "info": {
+    "Author:": "Philipp Bosch", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/philippbosch/django-geoposition", 
+    "Package Index Owner:": "philippbosch"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django model field that can hold a geoposition, and corresponding admin widget.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2ca39ce2752944d0a3a0ab43cb03c941", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-geoposition/django-geoposition-0.1.4.tar.gz"
+}

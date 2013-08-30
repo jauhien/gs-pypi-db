@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Binstream is used for serialiing and deserialiing basic types. It is compatible with the .NET System.IO.BinaryReader and BinaryWriter classes, and is useful as a bridge when exchanging data with the .NET framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/binstream/", 
+  "info": {
+    "Author:": "Simon Wittber", 
+    "Home Page:": "http://pypi.python.org/pypi/binstream/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "simonwittber"
+  }, 
+  "license": "", 
+  "longdescription": "Binstream is used for serialiing and deserialiing basic types. It is compatible with the .NET System.IO.BinaryReader and BinaryWriter classes, and is useful as a bridge when exchanging data with the .NET framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4743ae85d5b7d7e6a481ae8d62063b5f", 
+  "source_uri": "https://pypi.python.org/packages/source/b/binstream/binstream-1.0.3.tar.gz"
+}

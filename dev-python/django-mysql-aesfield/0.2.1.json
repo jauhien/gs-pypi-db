@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django Model Field that supports AES encryption in MySQL", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/andymckay/django-mysql-aesfield", 
+  "info": {
+    "Author:": "Andy McKay", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "https://github.com/andymckay/django-mysql-aesfield", 
+    "License:": "BSD", 
+    "Package Index Owner:": "marketplacedevs, andymckay"
+  }, 
+  "license": "", 
+  "longdescription": "Django Model Field that supports AES encryption in MySQL", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "222b5aae496d347ccb2375359f1ad237", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mysql-aesfield/django-mysql-aesfield-0.2.1.tar.gz"
+}

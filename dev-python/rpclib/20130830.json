@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A transport and architecture agnostic rpc (de)serialiation library that focuses on making small, rpc-oriented messaging work.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/arskom/rpclib", 
+  "info": {
+    "Author:": "Burak Arslan", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://github.com/arskom/rpclib", 
+    "Keywords:": "soap,wsdl,wsgi,zeromq,rest,rpc,json,http", 
+    "License:": "LGPL-2.1", 
+    "Package Index Owner:": "burak.arslan"
+  }, 
+  "license": "", 
+  "longdescription": "A transport and architecture agnostic rpc (de)serialiation library that focuses on making small, rpc-oriented messaging work.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d83de834041fcba66e0c1ad76f52cd98", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rpclib/rpclib-2.8.0-rc.tar.gz"
+}

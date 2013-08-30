@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helper for working with SQL-based traversal in Pyramid", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://khufuproject.github.com/khufu_traveral/", 
+  "info": {
+    "Author:": "Rocky Burt", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://khufuproject.github.com/khufu_traveral/", 
+    "Keywords:": "web wsgi pylons pyramid sql traversal", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rockyburt"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Helper for working with SQL-based traversal in Pyramid", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "530b5b3a0d7b85dbc419348c18d48684", 
+  "source_uri": "https://pypi.python.org/packages/source/k/khufu_traversal/khufu_traversal-1.0a1.tar.gz"
+}

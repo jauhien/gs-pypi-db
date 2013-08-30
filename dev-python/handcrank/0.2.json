@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A very simple static site generator using reStructuredText", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/robmadole/handcrank", 
+  "info": {
+    "Author:": "Rob Madole", 
+    "Documentation:": "http://pythonhosted.org//handcrank", 
+    "Home Page:": "http://github.com/robmadole/handcrank", 
+    "Keywords:": "rst restructuredtext site generator", 
+    "License:": "BSD", 
+    "Package Index Owner:": "robmadole"
+  }, 
+  "license": "", 
+  "longdescription": "A very simple static site generator using reStructuredText", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5b10b02863d654123268449ce68f2b81", 
+  "source_uri": "https://pypi.python.org/packages/source/h/handcrank/handcrank-0.2.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "fixture is a python module for loading and referencing test data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/efreeze/sqlalchemy-fixture", 
+  "info": {
+    "Author:": "Kumar McMillan & Kirill Ivanov", 
+    "Categories": {
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/efreeze/sqlalchemy-fixture", 
+    "Keywords:": "test testing tools unittest fixtures setup teardown database stubs IO tempfile", 
+    "License:": "GNU Lesser General Public License (LGPL)", 
+    "Package Index Owner:": "efreeze", 
+    "Platform:": "any"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "fixture is a python module for loading and referencing test data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8a8779e0e6ab43dcad860d8b3f3b2892", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlalchemy-fixture/sqlalchemy-fixture-1.0.tar.gz"
+}

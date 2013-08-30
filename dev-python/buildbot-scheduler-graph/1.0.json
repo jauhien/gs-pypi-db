@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for generating digraphs of Buildbot Builders and Schedulers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ben Hearsum", 
+    "Package Index Owner:": "bhearsum"
+  }, 
+  "license": "", 
+  "longdescription": "A tool for generating digraphs of Buildbot Builders and Schedulers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a7f8204f83a3591ea0db430e6be89e3", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildbot-scheduler-graph/buildbot-scheduler-graph-1.0.tar.gz"
+}

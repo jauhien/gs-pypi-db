@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Do static analysis with GCC.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/myint/gccanalyze", 
+  "info": {
+    "Author:": "myint", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/myint/gccanalyze", 
+    "License:": "Expat License", 
+    "Package Index Owner:": "myint"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Do static analysis with GCC.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7b6cd18dee06e0510b0b945beca110a3", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gccanalyze/gccanalyze-0.1.2.tar.gz"
+}

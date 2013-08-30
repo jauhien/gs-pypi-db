@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Publish your PDF document in Plone with Calameo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.calameo", 
+  "info": {
+    "Author:": "Giorgio Borelli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.calameo", 
+    "License:": "GPL", 
+    "Package Index Owner:": "giorgio"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Publish your PDF document in Plone with Calameo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4caae6cb764ea039769c2dd53f30a45c", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.calameo/collective.calameo-0.1.tar.gz"
+}

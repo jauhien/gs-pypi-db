@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Encodedecode NOAA co-ops marine data and marine AIS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/schwehr/noaadata", 
+  "info": {
+    "Author:": "Kurt Schwehr", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://github.com/schwehr/noaadata", 
+    "Keywords:": "axis,soap,marine,NOAA,AIS,N-AIS,binary messages,NMEA", 
+    "License:": "BSD", 
+    "Package Index Owner:": "goatbar", 
+    "Platform:": "All platforms"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Encodedecode NOAA co-ops marine data and marine AIS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a736ef0d153027e3ecfefe3794462e2", 
+  "source_uri": "https://pypi.python.org/packages/source/n/noaadata-py/noaadata-py-0.45.tar.bz2"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package providing text segmentation evaluation metrics and utilities", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://segeval.readthedocs.org/", 
+  "info": {
+    "Author:": "Chris Fournier", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//segeval", 
+    "Home Page:": "http://segeval.readthedocs.org/", 
+    "Keywords:": "segmentation,similarity,discourse", 
+    "Package Index Owner:": "cfournie", 
+    "Platform:": "Any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A package providing text segmentation evaluation metrics and utilities", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "220ab42751c437b99cd5b71cce39f529", 
+  "source_uri": "https://pypi.python.org/packages/source/s/segeval/segeval-2.0.8.tar.gz"
+}

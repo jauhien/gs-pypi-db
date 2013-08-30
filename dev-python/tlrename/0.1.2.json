@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A rename implementation that does more than substring replacement.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/tl.rename/", 
+  "info": {
+    "Author:": "Thomas Lotze", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//tl.rename", 
+    "Home Page:": "http://packages.python.org/tl.rename/", 
+    "Keywords:": "rename files", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "tlotze"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A rename implementation that does more than substring replacement.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "679fee6a08e4970552180fbd7e84da67", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tl.rename/tl.rename-0.1.2.tar.gz"
+}

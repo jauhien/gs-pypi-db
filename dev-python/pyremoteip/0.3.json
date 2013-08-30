@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extract files from remote IP archives", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fcvarela/pyremotezip/", 
+  "info": {
+    "Author:": "Filipe Varela", 
+    "Home Page:": "https://github.com/fcvarela/pyremotezip/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fcvarela"
+  }, 
+  "license": "", 
+  "longdescription": "Extract files from remote IP archives", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bff055124af954e8786e4dfdff70cb21", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyremotezip/pyremotezip-0.3.tar.gz"
+}

@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django hasher for pgcrypto encoded passwords.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/tomatohater/django-pgcryptoauth", 
+  "info": {
+    "Author:": "Drew Engelson", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/tomatohater/django-pgcryptoauth", 
+    "License:": "BSD", 
+    "Package Index Owner:": "tomatohater"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django hasher for pgcrypto encoded passwords.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f4739cc748782d63a4c0e72cc39732f2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pgcryptoauth/django-pgcryptoauth-0.2.2.tar.gz"
+}

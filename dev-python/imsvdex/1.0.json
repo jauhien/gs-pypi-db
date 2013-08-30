@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Readwrite vocabularies in IMS Vocabulary Definition Exchange format.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/imsvdex/", 
+  "info": {
+    "Author:": "Martin Raspe", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/imsvdex/", 
+    "Keywords:": "vocabulary xml vdex ims", 
+    "License:": "D-FSL - German Free Software License", 
+    "Package Index Owner:": "jensens, rnix, do3cc"
+  }, 
+  "license": "", 
+  "longdescription": "Readwrite vocabularies in IMS Vocabulary Definition Exchange format.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9b73693d6ddf59f0c5af371db2ca5bde", 
+  "source_uri": "https://pypi.python.org/packages/source/i/imsvdex/imsvdex-1.0.tar.gz"
+}

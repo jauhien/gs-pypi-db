@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django app for collecting and displaying surveys.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/django-crowdsourcing/", 
+  "info": {
+    "Author:": "Jacob Smullyan, Dave Smith", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-crowdsourcing", 
+    "Home Page:": "http://code.google.com/p/django-crowdsourcing/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "smulloni, David.Smith, dbenamy"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django app for collecting and displaying surveys.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c7ae37c985f4ba7a17606fa665ac865a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-crowdsourcing/django-crowdsourcing-1.1.46.tar.gz"
+}

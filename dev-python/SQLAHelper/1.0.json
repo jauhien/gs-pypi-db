@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A convenience library for SQLAlchemy web applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Pylons/SQLAHelper", 
+  "info": {
+    "Author:": "Mike Orr", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/Pylons/SQLAHelper", 
+    "License:": "MIT", 
+    "Package Index Owner:": "rex"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A convenience library for SQLAlchemy web applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3f8c099df648b6ba6ed653c9bed10102", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SQLAHelper/SQLAHelper-1.0.tar.gz"
+}

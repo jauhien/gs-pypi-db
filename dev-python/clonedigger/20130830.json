@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Clone Digger aimed to detect similar code in Python and Java programs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://clonedigger.sourceforge.net", 
+  "info": {
+    "Author:": "Peter Bulychev", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://clonedigger.sourceforge.net", 
+    "Keywords:": "buildout buildbot", 
+    "License:": "GPL", 
+    "Package Index Owner:": "peterbulychev"
+  }, 
+  "license": "", 
+  "longdescription": "Clone Digger aimed to detect similar code in Python and Java programs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "681a3e4693e941b89fbffb876b3e2790", 
+  "source_uri": "https://pypi.python.org/packages/source/c/clonedigger/clonedigger-1.0.11-beta.tar.gz"
+}

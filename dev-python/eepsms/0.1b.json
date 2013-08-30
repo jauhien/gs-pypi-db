@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module for sending and receiving free SMS messages through eep Mobile.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zeepmobile.com/", 
+  "info": {
+    "Author:": "Zeep Mobile, Inc.", 
+    "Categories": {
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://zeep-messaging.googlecode.com/svn/python/trunk#egg=zeep.sms", 
+    "Home Page:": "http://zeepmobile.com/", 
+    "Package Index Owner:": "srobertson"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python module for sending and receiving free SMS messages through eep Mobile.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://zeep-messaging.googlecode.com/svn/python/trunk#egg=zeep.sms"
+}

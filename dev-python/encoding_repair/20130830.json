@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helpers to repair encodings (especially umlauts)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/niels_mfo/encoding_repair", 
+  "info": {
+    "Author:": "Niels Ranosch", 
+    "Home Page:": "https://bitbucket.org/niels_mfo/encoding_repair", 
+    "Keywords:": "encoding utf-8 latin1 character magic umlaut special unicode", 
+    "License:": "MIT", 
+    "Package Index Owner:": "ranosch, brickenstein"
+  }, 
+  "license": "", 
+  "longdescription": "Helpers to repair encodings (especially umlauts)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "274dd750d0e4111620b17508cbeb322c", 
+  "source_uri": "https://pypi.python.org/packages/source/e/encoding_repair/encoding_repair-0.7dev.tar.gz"
+}

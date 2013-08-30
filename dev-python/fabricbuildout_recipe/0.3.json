@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Recipe base for writing fabric-buildout recipe.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/imagawa_yakata/fabric.buildout-recipe", 
+  "info": {
+    "Author:": "Imagawa Yakata", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/imagawa_yakata/fabric.buildout-recipe", 
+    "Keywords:": "Fabric Buildout Deployment", 
+    "License:": "gpl", 
+    "Package Index Owner:": "oyakata"
+  }, 
+  "license": "", 
+  "longdescription": "Recipe base for writing fabric-buildout recipe.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8d8d521cf6722b9153282f598bb3af7", 
+  "source_uri": "https://pypi.python.org/packages/source/f/fabric.buildout_recipe/fabric.buildout_recipe-0.3.tar.gz"
+}

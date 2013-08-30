@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Regression finder using Moilla central repo", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mozilla/mozcommitbuilder", 
+  "info": {
+    "Author:": "Sam Liu", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mozilla/mozcommitbuilder", 
+    "License:": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "Package Index Owner:": "samliu, k0s, ctalbert"
+  }, 
+  "license": "", 
+  "longdescription": "Regression finder using Moilla central repo", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff2d33d81e9b078d3f503e0f690440f7", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mozcommitbuilder/mozcommitbuilder-0.4.11.tar.gz"
+}

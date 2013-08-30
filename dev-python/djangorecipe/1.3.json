@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Buildout recipe for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rvanlaar/djangorecipe", 
+  "info": {
+    "Author:": "Roland van Laar", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rvanlaar/djangorecipe", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rvanlaar, reinout"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Buildout recipe for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7b22d6c06613353b16b668762c32bff3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djangorecipe/djangorecipe-1.3.zip"
+}

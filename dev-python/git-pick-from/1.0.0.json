@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Text user interface for git cherry-pick", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/matze/git-pick-from", 
+  "info": {
+    "Author:": "Matthias Vogelgesang", 
+    "Home Page:": "https://github.com/matze/git-pick-from", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Matthias.Vogelgesang"
+  }, 
+  "license": "", 
+  "longdescription": "Text user interface for git cherry-pick", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a4f1c0a3c14c7a1f8ed362480aac7b5", 
+  "source_uri": "https://pypi.python.org/packages/source/g/git-pick-from/git-pick-from-1.0.0.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-Line utility to store and retrieve passwords", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/tarek/clvault", 
+  "info": {
+    "Author:": "Tarek Ziade", 
+    "Home Page:": "http://bitbucket.org/tarek/clvault", 
+    "Keywords:": "keyring,password,crypt", 
+    "License:": "PSF", 
+    "Package Index Owner:": "tarek"
+  }, 
+  "license": "", 
+  "longdescription": "Command-Line utility to store and retrieve passwords", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8115f1b4ceae90daf5cfab19d7f5fd6", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CLVault/CLVault-0.5.tar.gz"
+}

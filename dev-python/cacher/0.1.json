@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple key-value cache frontend that can be used with different backends", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/legoktm/cacher", 
+  "info": {
+    "Author:": "Kunal Mehta", 
+    "Home Page:": "https://github.com/legoktm/cacher", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "legoktm"
+  }, 
+  "license": "", 
+  "longdescription": "A simple key-value cache frontend that can be used with different backends", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2814868a575bf8b53d32e3553ef710be", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cacher/cacher-0.1.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A particular Git workflow implementation with a developmentstagingproduction code-flow model and support for multiple repositories as part of a larger project.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dokai/gitctl", 
+  "info": {
+    "Author:": "Kai Lautaportti", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dokai/gitctl", 
+    "Keywords:": "git workflow", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dokai"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A particular Git workflow implementation with a developmentstagingproduction code-flow model and support for multiple repositories as part of a larger project.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8943e80f2ea512729bbe66b674227648", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gitctl/gitctl-2.0a8.tar.gz"
+}

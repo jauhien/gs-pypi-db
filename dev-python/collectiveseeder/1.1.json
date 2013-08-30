@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A torrent creation and seeding product for plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/plumi/collective.seeder", 
+  "info": {
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/plumi/collective.seeder", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Clopy"
+  }, 
+  "license": "", 
+  "longdescription": "A torrent creation and seeding product for plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c8b6cee7ed1c52d219e01fb987ed82b8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.seeder/collective.seeder-1.1.zip"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python API to Belkin WeMo devices", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/iancmcc/ouimeaux", 
+  "info": {
+    "Author:": "Ian McCracken", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Home Automation"
+      ]
+    }, 
+    "Home Page:": "http://github.com/iancmcc/ouimeaux", 
+    "Keywords:": "belkin wemo soap api homeautomation control", 
+    "License:": "BSD", 
+    "Package Index Owner:": "iancmcc"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python API to Belkin WeMo devices", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3382a9191121893448cb02e476fa7b8a", 
+  "source_uri": "https://pypi.python.org/packages/source/o/ouimeaux/ouimeaux-0.4.2.tar.gz"
+}

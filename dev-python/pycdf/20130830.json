@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to the Unidata netCDF library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pysclint.sourceforge.net/pycdf", 
+  "info": {
+    "Author:": "Andre Gosselin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://pysclint.sourceforge.net/pycdf", 
+    "Home Page:": "http://pysclint.sourceforge.net/pycdf", 
+    "Keywords:": "netcdf, hdf4, python, pycdf, pyhdf,", 
+    "License:": "public", 
+    "Maintainer:": "Andre Gosselin", 
+    "Package Index Owner:": "Gosselin_A", 
+    "Platform:": "Unix/Linux"
+  }, 
+  "license": "", 
+  "longdescription": "Python interface to the Unidata netCDF library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://pysclint.sourceforge.net/pycdf"
+}

@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Node Implementation with ODB persistence", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Keywords:": "node odict zodb persistent tree", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rnix, jensens"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Node Implementation with ODB persistence", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6e1731d6ffbd65d075ea80d299e48e0", 
+  "source_uri": "https://pypi.python.org/packages/source/n/node.ext.zodb/node.ext.zodb-1.0.tar.gz"
+}

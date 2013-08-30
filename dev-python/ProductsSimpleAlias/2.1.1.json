@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SimpleAlias is a product that lets you create aliases or shortcuts to content somewhere in your Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/simplealias", 
+  "info": {
+    "Author:": "Danny Bloemendaal", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/simplealias", 
+    "Keywords:": "web zope plone alias", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "SimpleAlias is a product that lets you create aliases or shortcuts to content somewhere in your Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a440d0c36e04c2f644295df32f523dc0", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.SimpleAlias/Products.SimpleAlias-2.1.1.tar.gz"
+}

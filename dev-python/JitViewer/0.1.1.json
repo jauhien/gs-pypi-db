@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Viewer for pypys jit traces", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypy.org", 
+  "info": {
+    "Author:": "Maciej Fijalkowski, Antonio Cuni and the PyPy team", 
+    "Home Page:": "http://pypy.org", 
+    "Package Index Owner:": "fijal"
+  }, 
+  "license": "", 
+  "longdescription": "Viewer for pypys jit traces", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c446923dacf28c487261ff36f3158512", 
+  "source_uri": "https://pypi.python.org/packages/source/J/JitViewer/JitViewer-0.1.1.tar.gz"
+}

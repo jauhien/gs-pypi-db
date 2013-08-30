@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI middleware that shows you log messages produced during request handling.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/CipherHealth/cipher.logview", 
+  "info": {
+    "Author:": "CipherHealth LLC", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://github.com/CipherHealth/cipher.logview", 
+    "License:": "MIT", 
+    "Package Index Owner:": "srichter, mgedmin"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI middleware that shows you log messages produced during request handling.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "288c76f480408c92b311af746b570da3", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cipher.logview/cipher.logview-1.1.0.zip"
+}

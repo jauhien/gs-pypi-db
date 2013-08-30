@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reusable Django App for Generational Caching of Views", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://syfou.bitbucket.org/django-groupcache/", 
+  "info": {
+    "Author:": "Sylvain Fourmanoit", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://syfou.bitbucket.org/django-groupcache/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "syfou"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Reusable Django App for Generational Caching of Views", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "80b817a584e2f64f2cc6a008f71fcd32", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-groupcache/django-groupcache-0.5.0.tar.gz"
+}

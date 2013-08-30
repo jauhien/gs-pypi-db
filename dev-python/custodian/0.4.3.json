@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple JIT job management framework in Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/materialsproject/custodian", 
+  "info": {
+    "Author:": "Shyue Ping Ong", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//custodian", 
+    "Home Page:": "https://github.com/materialsproject/custodian", 
+    "Keywords:": "jit,just-in-time,job,management,vasp", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Shyue.Ping.Ong"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A simple JIT job management framework in Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e9602195cb7f64f99b361dab75415f96", 
+  "source_uri": "https://pypi.python.org/packages/source/c/custodian/custodian-0.4.3.tar.gz"
+}

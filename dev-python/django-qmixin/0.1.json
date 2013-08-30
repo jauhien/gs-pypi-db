@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app for extending managers and the querysets they produce.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zacharyvoase/django-qmixin", 
+  "info": {
+    "Author:": "Zachary Voase", 
+    "Home Page:": "http://github.com/zacharyvoase/django-qmixin", 
+    "Package Index Owner:": "disturbyte"
+  }, 
+  "license": "", 
+  "longdescription": "A Django app for extending managers and the querysets they produce.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc739b9554151695b804368e20945911", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-qmixin/django-qmixin-0.1.tar.gz"
+}

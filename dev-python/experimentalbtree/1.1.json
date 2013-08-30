@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ODB BTree optimiations", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.jarn.com/", 
+  "info": {
+    "Author:": "Jarn AS", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://www.jarn.com/", 
+    "Keywords:": "plone zodb btree", 
+    "License:": "GPL", 
+    "Package Index Owner:": "hannosch"
+  }, 
+  "license": "", 
+  "longdescription": "ODB BTree optimiations", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b6db9d6b73cd811214b135c407737ea", 
+  "source_uri": "https://pypi.python.org/packages/source/e/experimental.btree/experimental.btree-1.1.zip"
+}

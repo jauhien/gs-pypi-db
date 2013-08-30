@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "TeaserBanner content type for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/collective.teaser", 
+  "info": {
+    "Author:": "Johannes Raggam", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/collective.teaser", 
+    "Keywords:": "Plone,Teaser,Banner", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jensens, rnix, thet"
+  }, 
+  "license": "", 
+  "longdescription": "TeaserBanner content type for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a605cfc4387d3f023d4a9265b79a56a7", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.teaser/collective.teaser-2.2.tar.gz"
+}

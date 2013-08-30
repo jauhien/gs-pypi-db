@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pure Python implementation of a PATRICIA trie.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.github.com/fnl/patricia-trie", 
+  "info": {
+    "Author:": "Florian Leitner", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Indexing"
+      ]
+    }, 
+    "Home Page:": "http://www.github.com/fnl/patricia-trie", 
+    "License:": "Apache License v2", 
+    "Package Index Owner:": "fnl"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A pure Python implementation of a PATRICIA trie.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0fbfa824977af80e2b9c8d477c61b415", 
+  "source_uri": "https://pypi.python.org/packages/source/p/patricia-trie/patricia-trie-8.tar.gz"
+}

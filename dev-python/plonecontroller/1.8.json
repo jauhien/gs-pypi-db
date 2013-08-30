@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Controller for startingstopping Plone services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/plone/", 
+  "info": {
+    "Author:": "The Plone Collective", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/plone/", 
+    "Keywords:": "controller plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "smcmahon, sidnei, esteele"
+  }, 
+  "license": "", 
+  "longdescription": "Controller for startingstopping Plone services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "980c26247e0ed1759c6eebe3ef575ce6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.controller/plone.controller-1.8.tar.gz"
+}

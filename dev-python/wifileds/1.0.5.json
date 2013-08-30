@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library for multiple WiFi LED vendors.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/joaquincasares/python-wifi-leds", 
+  "info": {
+    "Author:": "Joaquin Casares", 
+    "Home Page:": "http://github.com/joaquincasares/python-wifi-leds", 
+    "Keywords:": "wifi led leds l.e.d. light emitting diodes lights lamps bulbs lighting home automation network mesh future LimitlessLED EasyBulb AppLight AppLamp MiLight LEDme dekolight iLight Philips hue LIFX", 
+    "Package Index Owner:": "joaquincasares"
+  }, 
+  "license": "", 
+  "longdescription": "Library for multiple WiFi LED vendors.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c080224a45294f3343e35d38ab21cf73", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wifileds/wifileds-1.0.5.tar.gz"
+}

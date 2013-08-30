@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Module for communicating with TDTs System 3 hardware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bradburan.com/programs/tdtpy", 
+  "info": {
+    "Author:": "Brad Buran", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "System", 
+        "Hardware"
+      ]
+    }, 
+    "Home Page:": "http://bradburan.com/programs/tdtpy", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "bburan"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Module for communicating with TDTs System 3 hardware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c01dd90abb7da1229289660b9be81665", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TDTPy/TDTPy-0.7.zip"
+}

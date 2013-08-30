@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "transmogrifier blueprints for importing users and groups into plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "plone transmogrifier blueprint user group", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "tdesvenain", 
+    "Package Index Owner:": "garbas, tdesvenain"
+  }, 
+  "license": "", 
+  "longdescription": "transmogrifier blueprints for importing users and groups into plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "478aa66ba343460a38dab640afa05dfa", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.blueprint.usersandgroups/collective.blueprint.usersandgroups-0.1.3.zip"
+}

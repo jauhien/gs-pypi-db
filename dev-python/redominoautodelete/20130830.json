@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone autodelete objects expired tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.redomino.com/it/labs/progetti/redomino-autodelete", 
+  "info": {
+    "Author:": "Davide Moro", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.redomino.com/it/labs/progetti/redomino-autodelete", 
+    "Keywords:": "plone zope", 
+    "License:": "GPL", 
+    "Package Index Owner:": "redomino"
+  }, 
+  "license": "", 
+  "longdescription": "Plone autodelete objects expired tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a553e5888e4e5a9cda09f95d49716462", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redomino.autodelete/redomino.autodelete-0.1r5.tar.gz"
+}

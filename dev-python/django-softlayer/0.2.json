@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django storage for SoftLayer Cloud Storage", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Arpaso/django-softlayer", 
+  "info": {
+    "Author:": "Arpaso", 
+    "Bug Tracker:": "https://github.com/Arpaso/django-softlayer/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Download URL:": "https://github.com/Arpaso/django-softlayer/tarball/0.2", 
+    "Home Page:": "https://github.com/Arpaso/django-softlayer", 
+    "Keywords:": "django,softlayer,storage,cloudfiles", 
+    "Package Index Owner:": "arpaso"
+  }, 
+  "license": "", 
+  "longdescription": "Django storage for SoftLayer Cloud Storage", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c477f1c362a6a5c8542e55f4f33e15f7", 
+  "source_uri": "https://github.com/Arpaso/django-softlayer/tarball/0.2"
+}

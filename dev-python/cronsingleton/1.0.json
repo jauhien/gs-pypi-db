@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A user level cron cheduler.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/cronsingleton", 
+  "info": {
+    "Author:": "Adam Terrey", 
+    "Home Page:": "http://packages.python.org/cronsingleton", 
+    "Keywords:": "cron", 
+    "License:": "BSD", 
+    "Package Index Owner:": "arterrey"
+  }, 
+  "license": "", 
+  "longdescription": "A user level cron cheduler.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "574baf2b6fe4f1045e79d49e7174c72a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cronsingleton/cronsingleton-1.0.zip"
+}

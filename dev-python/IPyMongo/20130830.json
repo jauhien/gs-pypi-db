@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IPython extension and wrapper for using with MongoDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Rick Copeland", 
+    "License:": "Apache", 
+    "Package Index Owner:": "rick446"
+  }, 
+  "license": "", 
+  "longdescription": "IPython extension and wrapper for using with MongoDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66fa726363c6a190ef36a0423ac6449f", 
+  "source_uri": "https://pypi.python.org/packages/source/I/IPyMongo/IPyMongo-0.0dev-20120914.tar.gz"
+}

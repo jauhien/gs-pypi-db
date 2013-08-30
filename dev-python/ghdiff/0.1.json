@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generate pretty Github-style diffs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github/kilink/ghdiff", 
+  "info": {
+    "Author:": "Patrick Strawderman", 
+    "Home Page:": "http://github/kilink/ghdiff", 
+    "License:": "MIT", 
+    "Package Index Owner:": "patricks"
+  }, 
+  "license": "", 
+  "longdescription": "Generate pretty Github-style diffs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44fc452cafa64f6d1ea3d9d5635388f4", 
+  "source_uri": "https://pypi.python.org/packages/source/g/ghdiff/ghdiff-0.1.tar.gz"
+}

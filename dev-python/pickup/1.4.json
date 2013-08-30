@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Modular backup script", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://exhuma.github.com/pickup", 
+  "info": {
+    "Author:": "Michel Albert", 
+    "Home Page:": "http://exhuma.github.com/pickup", 
+    "Keywords:": "backup", 
+    "License:": "BSD", 
+    "Package Index Owner:": "exhuma"
+  }, 
+  "license": "", 
+  "longdescription": "Modular backup script", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f542da20d045f441385735201185e74", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pickup/pickup-1.4.tar.gz"
+}

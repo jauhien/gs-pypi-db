@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Model Based Analysis for ChIP-Seq data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://liulab.dfci.harvard.edu/MACS/", 
+  "info": {
+    "Author:": "Yong Zhang; Tao (Foo) Liu", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Artistic License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://liulab.dfci.harvard.edu/MACS/", 
+    "Package Index Owner:": "taoliu"
+  }, 
+  "license": "Artistic License", 
+  "longdescription": "Model Based Analysis for ChIP-Seq data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "383a659e741f0cc6679d48f4e278e973", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MACS/MACS-1.4.2.tar.gz"
+}

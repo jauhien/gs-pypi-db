@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python module for generating string representations of integers and bytestrings with arbitrary base and alphabet.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/benhodgson/basin", 
+  "info": {
+    "Author:": "Ben Hodgson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/benhodgson/basin", 
+    "Keywords:": "base,base32,base62,base64", 
+    "Package Index Owner:": "benhodgson"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A Python module for generating string representations of integers and bytestrings with arbitrary base and alphabet.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "547d1798c1a50a976bf90faa5836666c", 
+  "source_uri": "https://pypi.python.org/packages/source/b/basin/basin-0.1.tar.gz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Drag and drop sorting for models and inline models in Django admin", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://iambrandontaylor.com/", 
+  "info": {
+    "Author:": "Brandon Taylor", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://iambrandontaylor.com/", 
+    "License:": "APL", 
+    "Package Index Owner:": "btaylorweb"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Drag and drop sorting for models and inline models in Django admin", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a4605e03f285fe0f70f12c9088c6b58", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-admin-sortable/django-admin-sortable-1.5.1.tar.gz"
+}

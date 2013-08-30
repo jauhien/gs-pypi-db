@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLAlchemy support for IBM Data Servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/ibm_db/", 
+  "info": {
+    "Author:": "IBM Application Development Team", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "http://code.google.com/p/ibm-db/downloads/list", 
+    "Home Page:": "http://pypi.python.org/pypi/ibm_db/", 
+    "Keywords:": "sqlalchemy database interface IBM Data Servers DB2", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "opendev", 
+    "Platform:": "All"
+  }, 
+  "license": "", 
+  "longdescription": "SQLAlchemy support for IBM Data Servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61ecb3cc98d20ef62d0097e95db80031", 
+  "source_uri": "http://code.google.com/p/ibm-db/downloads/list"
+}

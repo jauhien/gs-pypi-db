@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django test runner based on unittest2s test discovery.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jezdez/django-discover-runner", 
+  "info": {
+    "Author:": "Carl Meyer, Jannis Leidel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jezdez/django-discover-runner", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jezdez, carljm"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A Django test runner based on unittest2s test discovery.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23d377cdcc5f1c2e1bcc5b508e6da4a7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-discover-runner/django-discover-runner-1.0.tar.gz"
+}

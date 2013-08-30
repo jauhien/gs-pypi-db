@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Script for preparing the html output of the Sphinx documentation system forgithub pages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/michaeljones/sphinx-to-github", 
+  "info": {
+    "Author:": "Michael Jones", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Documentation"
+      ]
+    }, 
+    "Home Page:": "http://github.com/michaeljones/sphinx-to-github", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "kennethreitz", 
+    "Package Index Owner:": "Michael.Jones", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Script for preparing the html output of the Sphinx documentation system forgithub pages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "675891b2505e7ea79d331d35ffce3a5f", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sphinxtogithub/sphinxtogithub-1.0.0.tar.gz"
+}

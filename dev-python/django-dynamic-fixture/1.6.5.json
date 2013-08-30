@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A full library to create dynamic model instances for testing purposes.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/paulocheque/django-dynamic-fixture", 
+  "info": {
+    "Author:": "paulocheque", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "https://github.com/paulocheque/django-dynamic-fixture", 
+    "Keywords:": "python django testing fixture", 
+    "License:": "MIT", 
+    "Package Index Owner:": "paulocheque"
+  }, 
+  "license": "", 
+  "longdescription": "A full library to create dynamic model instances for testing purposes.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0bc2626a2f2f6d10832e2854ef8bae97", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dynamic-fixture/django-dynamic-fixture-1.6.5.tar.gz"
+}

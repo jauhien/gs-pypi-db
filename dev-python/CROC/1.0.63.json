@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package for calculating ROC curves and Concentrated ROC (CROC) curves.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://swami.wustl.edu/CROC", 
+  "info": {
+    "Author:": "S. Joshua Swamidass", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Visualization"
+      ]
+    }, 
+    "Home Page:": "http://swami.wustl.edu/CROC", 
+    "Package Index Owner:": "sswamida"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A package for calculating ROC curves and Concentrated ROC (CROC) curves.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ccf66582036756f5b9f364f225b147cd", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CROC/CROC-1.0.63.tar.gz"
+}

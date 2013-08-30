@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dingus call matcher for should-dsl", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/CharString/should-dingus", 
+  "info": {
+    "Author:": "Chris Wesseling", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://github.com/CharString/should-dingus", 
+    "Keywords:": "dingus should dsl testing test mocking mock double stub fake record assert bdd python expectation", 
+    "License:": "BSD", 
+    "Package Index Owner:": "charstring"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Dingus call matcher for should-dsl", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec802d998fcc726b532c40644ea5f044", 
+  "source_uri": "https://pypi.python.org/packages/source/s/should-dingus/should-dingus-0.3.tar.gz"
+}

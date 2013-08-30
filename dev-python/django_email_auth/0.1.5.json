@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Yet another email auth system for the Django web framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jcbagneris/django_email_auth", 
+  "info": {
+    "Author:": "Jean-Charles Bagneris", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://github.com/jcbagneris/django_email_auth", 
+    "License:": "BSD", 
+    "Package Index Owner:": "JeanCharles.Bagneris"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Yet another email auth system for the Django web framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ee5b7b0237cab18de354d651d1492c7d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_email_auth/django_email_auth-0.1.5.tar.gz"
+}

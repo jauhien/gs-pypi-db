@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to manage Astronomical Cloudy photoioniation code", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://sites.google.com/site/cloudy3d/", 
+  "info": {
+    "Author:": "Christophe Morisset", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "Free for non-commercial use"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyCloudy", 
+    "Home Page:": "https://sites.google.com/site/cloudy3d/", 
+    "Keywords:": "astronomy photoionization cloudy", 
+    "License:": "GPL", 
+    "Package Index Owner:": "CMorisset"
+  }, 
+  "license": "Free for non-commercial use", 
+  "longdescription": "Tools to manage Astronomical Cloudy photoioniation code", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1cbd388fd0185e3fff278d3b8c13d0ea", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyCloudy/pyCloudy-0.8.33.tar.gz"
+}

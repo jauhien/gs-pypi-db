@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe to create apache instances which serversope content", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.erp5.org/repos/public/erp5/trunk/utils/erp5.recipe.apache/", 
+  "info": {
+    "Author:": "\u00c5\u0081ukasz Nowak", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ]
+    }, 
+    "Home Page:": "https://svn.erp5.org/repos/public/erp5/trunk/utils/erp5.recipe.apache/", 
+    "Keywords:": "apache server buildout", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "LukaszNowak, romain"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "c.buildout recipe to create apache instances which serversope content", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4d5372afcb1cff3d14c1a088f7faac23", 
+  "source_uri": "https://pypi.python.org/packages/source/e/erp5.recipe.apache/erp5.recipe.apache-1.0.dev-r41446.tar.gz"
+}

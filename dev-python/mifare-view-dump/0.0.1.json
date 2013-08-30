@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mifare Classic Dump Viewer", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/asdil12/mifare-view-dump", 
+  "info": {
+    "Author:": "Dominik Heidler", 
+    "Home Page:": "http://github.com/asdil12/mifare-view-dump", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Dominik.Heidler"
+  }, 
+  "license": "", 
+  "longdescription": "Mifare Classic Dump Viewer", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7dc25a5f776883547b6703179aaf8104", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mifare-view-dump/mifare-view-dump-0.0.1.tar.gz"
+}

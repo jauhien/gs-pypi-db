@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "buildout recipe to create scripts to run testrepository.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/testr-recipe", 
+  "info": {
+    "Author:": "James Westby", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/testr-recipe", 
+    "Keywords:": "testing testrepository testr buildout recipe", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "jamesw"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "buildout recipe to create scripts to run testrepository.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ad73fc58dc9288f8a06f5f86d58dd87", 
+  "source_uri": "https://pypi.python.org/packages/source/t/testr_recipe/testr_recipe-0.3.tar.gz"
+}

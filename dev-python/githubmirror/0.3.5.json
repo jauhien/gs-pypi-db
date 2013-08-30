@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A small script to keep a copy of every repo in a Github org.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/martinmelin/githubmirror", 
+  "info": {
+    "Author:": "Martin Melin", 
+    "Home Page:": "http://github.com/martinmelin/githubmirror", 
+    "License:": "Creative Commons Attribution-Noncommercial-Share Alike license", 
+    "Package Index Owner:": "mmelin"
+  }, 
+  "license": "", 
+  "longdescription": "A small script to keep a copy of every repo in a Github org.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "16aa1ff26e1a3c1360650029ddb40192", 
+  "source_uri": "https://pypi.python.org/packages/source/g/githubmirror/githubmirror-0.3.5.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone UI for CAS login.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Derek Richardson", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "zope plone CAS PAS", 
+    "Package Index Maintainer:": "kiorky", 
+    "Package Index Owner:": "derek, WouterVH, encolpe"
+  }, 
+  "license": "", 
+  "longdescription": "Plone UI for CAS login.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "500c0a0bcc006c4476a0740f63e003eb", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.castle/collective.castle-1.0.tar.gz"
+}

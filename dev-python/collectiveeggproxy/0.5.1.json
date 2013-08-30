@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An egg index proxy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.eggproxy", 
+  "info": {
+    "Author:": "Ingeniweb; current maintainer Reinout van Rees (The Health Agency)", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.eggproxy", 
+    "Keywords:": "setuptools easy_install index proxy", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "reinout, ingeniweb, rvanlaar", 
+    "Package Index Owner:": "reinout, tarek, gotcha"
+  }, 
+  "license": "", 
+  "longdescription": "An egg index proxy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f63623eec7ba95d544968bbcf1e95805", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.eggproxy/collective.eggproxy-0.5.1.tar.gz"
+}

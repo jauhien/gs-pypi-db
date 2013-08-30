@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Access MongoDB from your Flask application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/Fibio/flask-mongoset", 
+  "info": {
+    "Author:": "Yehor Nazarkin, Tatyana Kuznetsova", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//Flask-MongoSet", 
+    "Home Page:": "https://github.com/Fibio/flask-mongoset", 
+    "License:": "MIT", 
+    "Package Index Owner:": "fibio", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Access MongoDB from your Flask application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8a7292c1d5f71adfc94c5257f65c07f8", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-MongoSet/Flask-MongoSet-0.1.8.tar.gz"
+}

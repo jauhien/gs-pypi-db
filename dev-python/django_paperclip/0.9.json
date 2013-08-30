@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple approach to being able to insert images and files into a TinyMCE editor using the django-tinymce plugin. Essentially stores the images in a ImageUpload model, the files in a FileUpload model, and uses some Javascript to insert into TinyMCE.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.winfieldco.com", 
+  "info": {
+    "Author:": "Christopher Auyeung", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/winfieldco/django_paperclip", 
+    "Home Page:": "http://www.winfieldco.com", 
+    "Keywords:": "tinymce, images, files, attachments, wysiwyg, html editor, image, file, attachment", 
+    "Maintainer:": "Christopher Auyeung", 
+    "Package Index Owner:": "winfieldco", 
+    "Platform:": "Tested on Django 1.4.2"
+  }, 
+  "license": "", 
+  "longdescription": "Simple approach to being able to insert images and files into a TinyMCE editor using the django-tinymce plugin. Essentially stores the images in a ImageUpload model, the files in a FileUpload model, and uses some Javascript to insert into TinyMCE.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://bitbucket.org/winfieldco/django_paperclip"
+}

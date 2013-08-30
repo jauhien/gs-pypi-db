@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SQLAlchemy integration into ope 3", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/z3c.sqlalchemy", 
+  "info": {
+    "Author:": "Juergen Kartnaller and the Zope Community", 
+    "Home Page:": "http://pypi.python.org/pypi/z3c.sqlalchemy", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "webmaven, ctheune, zagy, wosc"
+  }, 
+  "license": "", 
+  "longdescription": "SQLAlchemy integration into ope 3", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4377616ae8864b7e03145e93f76606f7", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.zalchemy/z3c.zalchemy-0.2.2.tar.gz"
+}

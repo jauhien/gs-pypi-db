@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A basic page content type for Plone using Deco layout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/plone/plone.app.layoutpage", 
+  "info": {
+    "Author:": "David Glick", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/plone/plone.app.layoutpage", 
+    "License:": "GPL", 
+    "Package Index Owner:": "garbas"
+  }, 
+  "license": "", 
+  "longdescription": "A basic page content type for Plone using Deco layout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a8eb36ddfdf320761c4e6f7f79d8c8a3", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.layoutpage/plone.app.layoutpage-1.1.tar.gz"
+}

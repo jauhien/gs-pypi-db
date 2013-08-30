@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Small package which helps mount portal_catalog to separate ODB.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.redturtle.net", 
+  "info": {
+    "Author:": "Andrew Mleczko", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.redturtle.net", 
+    "Keywords:": "plone ZODB mount Catalog portal_catalog", 
+    "License:": "GPL", 
+    "Package Index Owner:": "amleczko"
+  }, 
+  "license": "", 
+  "longdescription": "Small package which helps mount portal_catalog to separate ODB.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b265a124ebaafb4d9cc95dc98b883bdd", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redturtle.catalogmount/redturtle.catalogmount-0.0.3.tar.gz"
+}

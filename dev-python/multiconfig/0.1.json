@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hierarchical configuration library for Python, supporting cascading configuration files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/basementcat/multiconfig", 
+  "info": {
+    "Author:": "Alec Elton", 
+    "Home Page:": "http://github.com/basementcat/multiconfig", 
+    "Package Index Owner:": "BasementCat"
+  }, 
+  "license": "", 
+  "longdescription": "Hierarchical configuration library for Python, supporting cascading configuration files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f72969153bf5af756c75abaecfc09ee4", 
+  "source_uri": "https://pypi.python.org/packages/source/m/multiconfig/multiconfig-0.1.tar.gz"
+}

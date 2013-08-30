@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Template tags for better serving static files from templates in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/peterbe/django-static", 
+  "info": {
+    "Author:": "Peter Bengtsson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/django-static/", 
+    "Home Page:": "http://github.com/peterbe/django-static", 
+    "License:": "BSD", 
+    "Package Index Owner:": "peterbe", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Template tags for better serving static files from templates in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2db80302ace2ea3bbec30c111a68d3ca", 
+  "source_uri": "http://pypi.python.org/pypi/django-static/"
+}

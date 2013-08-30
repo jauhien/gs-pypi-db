@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple-db-migrate is a database versioning and migration tool inspired on Rails Migrations.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://guilhermechapiewski.github.com/simple-db-migrate/", 
+  "info": {
+    "Author:": "Guilherme Chapiewski", 
+    "Home Page:": "http://guilhermechapiewski.github.com/simple-db-migrate/", 
+    "Keywords:": "database migration tool mysql", 
+    "License:": "Apache License 2.0", 
+    "Package Index Maintainer:": "wandenberg", 
+    "Package Index Owner:": "guilhermechapiewski, heynemann, wandenberg"
+  }, 
+  "license": "", 
+  "longdescription": "simple-db-migrate is a database versioning and migration tool inspired on Rails Migrations.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3543d079b9a6398a098baeac4df59f12", 
+  "source_uri": "https://pypi.python.org/packages/source/s/simple-db-migrate/simple-db-migrate-1.6.0.tar.gz"
+}

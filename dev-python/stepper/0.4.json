@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python control of stepper motors.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blog.tremily.us/posts/stepper/", 
+  "info": {
+    "Author:": "W. Trevor King", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://git.tremily.us/?p=stepper.git;a=snapshot;h=v0.4;sf=tgz", 
+    "Home Page:": "http://blog.tremily.us/posts/stepper/", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "wking", 
+    "Platform:": "all"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python control of stepper motors.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a8d4a956dc16155478ed5518cb75648b", 
+  "source_uri": "http://git.tremily.us/?p=stepper.git;a=snapshot;h=v0.4;sf=tgz"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A lean WSGI framework for easy creation of REST services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/pneff/wsgiservice/tree/master", 
+  "info": {
+    "Author:": "Patrice Neff <software@patrice.ch>", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//WsgiService", 
+    "Download URL:": "http://pypi.python.org/pypi/WsgiService", 
+    "Home Page:": "http://github.com/pneff/wsgiservice/tree/master", 
+    "License:": "BSD", 
+    "Package Index Owner:": "pneff"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A lean WSGI framework for easy creation of REST services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5db2ddc35b67076e13c90597e5c09736", 
+  "source_uri": "http://pypi.python.org/pypi/WsgiService"
+}

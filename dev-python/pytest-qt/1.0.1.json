@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "pytest plugin that adds fixtures for testing Qt (PyQt and PySide) applications.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nicoddemus/pytest-qt", 
+  "info": {
+    "Author:": "Bruno Oliveira", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nicoddemus/pytest-qt", 
+    "Keywords:": "pytest qt test unittest", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "nicoddemus"
+  }, 
+  "license": "", 
+  "longdescription": "pytest plugin that adds fixtures for testing Qt (PyQt and PySide) applications.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c4a24c2307306e0b3210f900667c832f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytest-qt/pytest-qt-1.0.1.zip"
+}

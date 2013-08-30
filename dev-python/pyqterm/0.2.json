@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple terminalconsole widget for PyQt4 with vt100 support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/henning/pyqtermwidget", 
+  "info": {
+    "Author:": "Henning Schroeder", 
+    "Documentation:": "http://pythonhosted.org//pyqterm", 
+    "Home Page:": "https://bitbucket.org/henning/pyqtermwidget", 
+    "Keywords:": "pyqt pyqt4 console terminal shell vt100 widget", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "hajs"
+  }, 
+  "license": "", 
+  "longdescription": "Simple terminalconsole widget for PyQt4 with vt100 support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6957e945ace14e7cd94ea9bdb2b7ba9d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyqterm/pyqterm-0.2.tar.gz"
+}

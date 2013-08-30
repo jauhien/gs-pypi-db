@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use TurboGears template plug-ins anywhere WSGI runs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/lcrees/wsgiview/", 
+  "info": {
+    "Author:": "L. C. Rees", 
+    "Bug Tracker:": "https://bitbucket.org/lcrees/wsgiview/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment", 
+        "Buffet"
+      ], 
+      "Framework": [
+        "TurboGears"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/lcrees/wsgiview/", 
+    "Keywords:": "template TurboGears Buffet plug-in WSGI", 
+    "Package Index Owner:": "lcrees"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Use TurboGears template plug-ins anywhere WSGI runs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "963d3a602fb5125287c7550f85ff114a", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgiview/wsgiview-0.2.1.tar.bz2"
+}

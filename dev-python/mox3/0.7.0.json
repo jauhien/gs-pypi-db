@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mock object framework for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.openstack.org/", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Home Page:": "http://www.openstack.org/", 
+    "Package Index Owner:": "openstackci, sdirector"
+  }, 
+  "license": "", 
+  "longdescription": "Mock object framework for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3235d9fc504aee015576ca784c16f3ff", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mox3/mox3-0.7.0.tar.gz"
+}

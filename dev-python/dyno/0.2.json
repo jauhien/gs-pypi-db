@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dependency injection framework based of Netflixs Hystrix", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.pocketnix.org/dyno", 
+  "info": {
+    "Author:": "Da_Blitz", 
+    "Download URL:": "http://code.pocketnix.org/dyno/archive/tip.tar.bz2", 
+    "Home Page:": "http://code.pocketnix.org/dyno", 
+    "Keywords:": "DI dependency injection framework hystrix guice", 
+    "License:": "MIT BSD", 
+    "Package Index Owner:": "Da_Blitz"
+  }, 
+  "license": "", 
+  "longdescription": "Dependency injection framework based of Netflixs Hystrix", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "05432bd646a045034a5a57a46840b055", 
+  "source_uri": "http://code.pocketnix.org/dyno/archive/tip.tar.bz2"
+}

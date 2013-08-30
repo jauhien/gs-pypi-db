@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatically inherit the parent folders categories when you create an object.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/plone/plone.example", 
+  "info": {
+    "Author:": "JC Brand, Syslab.com GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/plone/plone.example", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jcbrand"
+  }, 
+  "license": "", 
+  "longdescription": "Automatically inherit the parent folders categories when you create an object.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "324ee3dec32e036e3e7b91d5144f7924", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slc.autocategorize/slc.autocategorize-0.2.zip"
+}

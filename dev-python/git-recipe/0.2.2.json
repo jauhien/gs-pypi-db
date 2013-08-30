@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple buildout recipe for downloading git repositories. It uses system git command and its syntax", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/youngking/git-recipe", 
+  "info": {
+    "Author:": "Young King", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Freely Distributable"
+      ], 
+      "Natural Language": [
+        "Russian"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.5"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "http://github.com/youngking/git-recipe", 
+    "Package Index Owner:": "YoungKing"
+  }, 
+  "license": "Freely Distributable", 
+  "longdescription": "Simple buildout recipe for downloading git repositories. It uses system git command and its syntax", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9f7c923ecc3a811e10fb089c8fa5e09d", 
+  "source_uri": "https://pypi.python.org/packages/source/g/git-recipe/git-recipe-0.2.2.tar.gz"
+}

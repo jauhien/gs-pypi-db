@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django file storage backend for files in the database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/akoha/django-dbstorage/", 
+  "info": {
+    "Author:": "Akoha Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/akoha/django-dbstorage/", 
+    "Package Index Owner:": "sfllaw, jdilelle, scjody"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django file storage backend for files in the database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ff76d0fea0dfaa075e7d08125b640c75", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dbstorage/django-dbstorage-1.3.tar.gz"
+}

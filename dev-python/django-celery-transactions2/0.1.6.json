@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django transaction support for Celery tasks.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/chrisdoble/django-celery-transactions", 
+  "info": {
+    "Author:": "Chris Doble", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Database"
+      ]
+    }, 
+    "Home Page:": "https://github.com/chrisdoble/django-celery-transactions", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "nicolas_delaby, Nicolas.Delaby"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django transaction support for Celery tasks.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bb83866ef0a0aceb5ca9aa010b5aeda1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-celery-transactions2/django-celery-transactions2-0.1.6.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Package for updating DNSimple domain with a WAN IP address.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/bwghughes/dyndnsimple", 
+  "info": {
+    "Author:": "Ben Hughes", 
+    "Home Page:": "https://github.com/bwghughes/dyndnsimple", 
+    "Package Index Owner:": "Ben.Hughes"
+  }, 
+  "license": "", 
+  "longdescription": "Package for updating DNSimple domain with a WAN IP address.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d97333da83bd143b4bc47109b7e2cbd2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dyndnsimple/dyndnsimple-0.0.11.tar.gz"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Easy Facebook integration for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://git.elmcitylabs.com/ecl-facebook", 
+  "info": {
+    "Author:": "Dan Loewenherz", 
+    "Bug Tracker:": "https://github.com/elmcitylabs/ECL-Facebook/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//ecl_facebook", 
+    "Home Page:": "http://git.elmcitylabs.com/ecl-facebook", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "elmcitylabs"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Easy Facebook integration for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "76f446e5dab6f311e337c505f197af87", 
+  "source_uri": "https://pypi.python.org/packages/source/e/ecl_facebook/ecl_facebook-1.4.1.tar.gz"
+}

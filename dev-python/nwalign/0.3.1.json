@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Needleman-Wunsch global sequence alignment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/brentp/biostuff/", 
+  "info": {
+    "Author:": "brentp", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/brentp/biostuff/", 
+    "Keywords:": "sequence bioinformatics alignment needleman-wunsch", 
+    "License:": "BSD", 
+    "Package Index Owner:": "brentp"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Needleman-Wunsch global sequence alignment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "80b9f4ca5646a0103d87156a12b072bc", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nwalign/nwalign-0.3.1.tar.gz"
+}

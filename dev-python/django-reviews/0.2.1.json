@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Generic reviews for Django.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.iqpp.com", 
+  "info": {
+    "Author:": "Kai Diefenbach", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-reviews", 
+    "Home Page:": "http://www.iqpp.com", 
+    "Keywords:": "django reviews", 
+    "License:": "BSD", 
+    "Package Index Owner:": "diefenbach"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Generic reviews for Django.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd3c141d5075c7cb6ed6edc00cc85c44", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-reviews/django-reviews-0.2.1.tar.gz"
+}

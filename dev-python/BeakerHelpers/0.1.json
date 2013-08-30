@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extendable Beaker helpers package to manage Beaker sessions", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Linas Ju\u00c5\u00a1kevi\u00c4\u008dius", 
+    "Keywords:": "paste beaker session database active", 
+    "License:": "MIT", 
+    "Package Index Owner:": "linas"
+  }, 
+  "license": "", 
+  "longdescription": "An extendable Beaker helpers package to manage Beaker sessions", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d2a36d02153d934e9cb948ba5cc36508", 
+  "source_uri": "https://pypi.python.org/packages/source/B/BeakerHelpers/BeakerHelpers-0.1.tar.gz"
+}

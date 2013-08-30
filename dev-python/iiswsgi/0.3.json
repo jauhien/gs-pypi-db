@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Serve WSGI apps using IISs modified FastCGI support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/rpatterson/iiswsgi", 
+  "info": {
+    "Author:": "Ross Patterson", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/rpatterson/iiswsgi", 
+    "Keywords:": "fcgi iis windows", 
+    "License:": "GPL", 
+    "Package Index Owner:": "collective, rpatterson"
+  }, 
+  "license": "", 
+  "longdescription": "Serve WSGI apps using IISs modified FastCGI support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7821930cd2fcdd2a444e9d7109999e1f", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iiswsgi/iiswsgi-0.3.zip"
+}

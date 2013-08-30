@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to make caching easier in Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/cfpb/django-cache-tools", 
+  "info": {
+    "Author:": "Diego Lapiduz", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/cfpb/django-cache-tools", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "dlapiduz"
+  }, 
+  "license": "", 
+  "longdescription": "Tools to make caching easier in Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cbaab3c0295249f077fc2e37d9467353", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-cache-tools/django-cache-tools-0.1.1.tar.gz"
+}

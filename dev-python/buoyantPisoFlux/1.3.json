@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python front-end of the buoyantPisoFoam", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/projects/pythonFlu", 
+  "info": {
+    "Author:": "Alexey Petrov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "http://sourceforge.net/projects/pythonFlu", 
+    "License:": "GPL", 
+    "Package Index Owner:": "alexey.petrov", 
+    "Platform:": "linux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python front-end of the buoyantPisoFoam", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f0796c3ec5f5eb6f5001bee10ed7e07d", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buoyantPisoFlux/buoyantPisoFlux-1.3.tar.gz"
+}

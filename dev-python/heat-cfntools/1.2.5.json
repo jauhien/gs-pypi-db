@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools required to be installed on Heat provisioned cloud instances", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.openstack.org/", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Environment": [
+        "OpenStack"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://www.openstack.org/", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "openstackci, stevebake"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Tools required to be installed on Heat provisioned cloud instances", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b8587770249090cfd3d673108580c677", 
+  "source_uri": "https://pypi.python.org/packages/source/h/heat-cfntools/heat-cfntools-1.2.5.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple interface into the Kontagent REST API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ericflo/pykontagent", 
+  "info": {
+    "Author:": "Eric Florenzano", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ericflo/pykontagent", 
+    "Keywords:": "kontagent,rest,api,client", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ericflo"
+  }, 
+  "license": "", 
+  "longdescription": "A simple interface into the Kontagent REST API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6009a3512203a87f11b33bd68451bbd5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pykontagent/pykontagent-0.3.tar.gz"
+}

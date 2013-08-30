@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Arduino software configurator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ponty/confduino", 
+  "info": {
+    "Author:": "ponty", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ponty/confduino", 
+    "Keywords:": "arduino", 
+    "License:": "BSD", 
+    "Package Index Owner:": "ponty"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Arduino software configurator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ca1f6ff02c20d9ad639db5a6ebed3972", 
+  "source_uri": "https://pypi.python.org/packages/source/c/confduino/confduino-0.2.1.tar.gz"
+}

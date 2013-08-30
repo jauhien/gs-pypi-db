@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/idan/oauthlib", 
+  "info": {
+    "Author:": "Idan Gazit", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/idan/oauthlib", 
+    "License:": "BSD", 
+    "Package Index Owner:": "idangazit, kennethreitz, dgouldin, ib.lundgren", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "45ebbd43c9430bb404c9aa0979d949f2", 
+  "source_uri": "https://pypi.python.org/packages/source/o/oauthlib/oauthlib-0.5.1.tar.gz"
+}

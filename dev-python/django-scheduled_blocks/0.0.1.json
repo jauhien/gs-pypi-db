@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A quick and dirty app to schedule content in django templates", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pgcd/scheduled_blocks", 
+  "info": {
+    "Author:": "Paolo Dente", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "https://github.com/pgcd/scheduled_blocks", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "pgcd"
+  }, 
+  "license": "", 
+  "longdescription": "A quick and dirty app to schedule content in django templates", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eb3ccd4827db5ce2206e933b313de6c9", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-scheduled_blocks/django-scheduled_blocks-0.0.1.tar.gz"
+}

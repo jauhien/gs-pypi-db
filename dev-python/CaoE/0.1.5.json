@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Kill all children processes when the parent dies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/douban/caoe", 
+  "info": {
+    "Author:": "Qiangning Hong", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/douban/caoe", 
+    "Keywords:": "process management", 
+    "Package Index Owner:": "hongqn", 
+    "Platform:": "POSIX"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Kill all children processes when the parent dies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7d3b32ddbe357b786812bd097344dd2", 
+  "source_uri": "https://pypi.python.org/packages/source/C/CaoE/CaoE-0.1.5.tar.gz"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Opt-in caching for Djangos per-site cache", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Rory McCann", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ebel"
+  }, 
+  "license": "", 
+  "longdescription": "Opt-in caching for Djangos per-site cache", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2a166cc12d3e58c4d57de859f98429cc", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-default-dont-cache/django-default-dont-cache-0.1.0.tar.gz"
+}

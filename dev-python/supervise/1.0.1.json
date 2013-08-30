@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for communicating with runit  daemontools supervisors.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fmoo/python-supervise", 
+  "info": {
+    "Author:": "Peter Ruibal", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Download URL:": "https://github.com/fmoo/python-supervise/archive/1.0.1.tar.gz", 
+    "Home Page:": "http://github.com/fmoo/python-supervise", 
+    "Keywords:": "supervise runit daemontools", 
+    "License:": "ISC", 
+    "Package Index Owner:": "fmoo"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Tools for communicating with runit  daemontools supervisors.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dbc3f51476a17ba9754f461c062c6cb4", 
+  "source_uri": "https://github.com/fmoo/python-supervise/archive/1.0.1.tar.gz"
+}

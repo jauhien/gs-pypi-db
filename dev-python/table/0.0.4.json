@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Two-dimensional tables backed by Numpy with named rows and columns.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/eseraygun/python-table", 
+  "info": {
+    "Author:": "Eser Ayg\u00fcn", 
+    "Home Page:": "http://github.com/eseraygun/python-table", 
+    "License:": "BSD (2-clause)", 
+    "Package Index Owner:": "eser.aygun"
+  }, 
+  "license": "", 
+  "longdescription": "Two-dimensional tables backed by Numpy with named rows and columns.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "56734de520b1bb8730b255c1e8eaea65", 
+  "source_uri": "https://pypi.python.org/packages/source/t/table/table-0.0.4.tar.gz"
+}

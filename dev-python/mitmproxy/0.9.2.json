@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An interactive, SSL-capable, man-in-the-middle HTTP proxy for penetration testers and software developers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mitmproxy.org", 
+  "info": {
+    "Author:": "Aldo Cortesi", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console", 
+        "Curses"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://mitmproxy.org", 
+    "Package Index Owner:": "cortesi"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "An interactive, SSL-capable, man-in-the-middle HTTP proxy for penetration testers and software developers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "39debd22f91add3699e473cb77744577", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mitmproxy/mitmproxy-0.9.2.tar.gz"
+}

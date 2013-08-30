@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Paster templates for Plone Diao theme package", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/collective/zopeskel.diazotheme", 
+  "info": {
+    "Author:": "ZopeSkel Team: Steve McMahon", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/collective/zopeskel.diazotheme", 
+    "Keywords:": "plone zope diazo", 
+    "License:": "GPL 2", 
+    "Package Index Owner:": "davisagli, esteele, cewing, smcmahon"
+  }, 
+  "license": "", 
+  "longdescription": "Paster templates for Plone Diao theme package", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a1245c342bff5d791bbe09fc75b453b4", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zopeskel.diazotheme/zopeskel.diazotheme-1.1.zip"
+}

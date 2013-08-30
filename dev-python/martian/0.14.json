@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Martian is a library that allows the embedding of configurationinformation in Python code. Martian can then grok the system anddo the appropriate configuration registrations. One example of a systemthat uses Martian is the system where it originated Grok(httpgrok.ope.org)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Grok project", 
+    "License:": "ZPL", 
+    "Package Index Maintainer:": "jw", 
+    "Package Index Owner:": "faassen, jw, philikon"
+  }, 
+  "license": "", 
+  "longdescription": "Martian is a library that allows the embedding of configurationinformation in Python code. Martian can then grok the system anddo the appropriate configuration registrations. One example of a systemthat uses Martian is the system where it originated Grok(httpgrok.ope.org)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bca590e83b829a42ec027ab459739665", 
+  "source_uri": "https://pypi.python.org/packages/source/m/martian/martian-0.14.tar.gz"
+}

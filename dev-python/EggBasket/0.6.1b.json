@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple, lightweight Python Package Index (aka Cheeseshop) clone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://chrisarndt.de/projects/eggbasket/", 
+  "info": {
+    "Author:": "Christopher Arndt", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "TurboGears", 
+        "Applications"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://cheeseshop.python.org/pypi/EggBasket", 
+    "Home Page:": "http://chrisarndt.de/projects/eggbasket/", 
+    "Keywords:": "turbogears.app", 
+    "License:": "MIT License, Zope Public License (rest.py), BSD License (odict.py)", 
+    "Package Index Owner:": "strogon14"
+  }, 
+  "license": "", 
+  "longdescription": "A simple, lightweight Python Package Index (aka Cheeseshop) clone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "491ebbd5ab188d4671fe22c01cb77606", 
+  "source_uri": "http://cheeseshop.python.org/pypi/EggBasket"
+}

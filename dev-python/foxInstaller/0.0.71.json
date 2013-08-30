@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple installation script for my own django projects.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://th3f0x.com", 
+  "info": {
+    "Author:": "Jyrno Ader", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://th3f0x.com", 
+    "Keywords:": "foxInstaller django jyrno42", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jyrno42"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple installation script for my own django projects.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "80d06b8fc7f372d4a458eabb058f55f7", 
+  "source_uri": "https://pypi.python.org/packages/source/f/foxInstaller/foxInstaller-0.0.71.zip"
+}

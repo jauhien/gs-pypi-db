@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Coroutines for Twisted with tail call optimiation support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/eallik/txcoroutine/", 
+  "info": {
+    "Author:": "Erik Allik", 
+    "Home Page:": "http://github.com/eallik/txcoroutine/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "eallik"
+  }, 
+  "license": "", 
+  "longdescription": "Coroutines for Twisted with tail call optimiation support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8caa92910b5dc19001956c838ebc52e9", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txcoroutine/txcoroutine-1.0.9.tar.gz"
+}

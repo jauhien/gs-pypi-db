@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tool for creating self-extracting Python scripts with autorun.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cryto.net/projects/pysfx/", 
+  "info": {
+    "Author:": "Sven Slootweg", 
+    "Home Page:": "http://www.cryto.net/projects/pysfx/", 
+    "Package Index Owner:": "Sven.Slootweg_2"
+  }, 
+  "license": "", 
+  "longdescription": "Tool for creating self-extracting Python scripts with autorun.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "04d8d386e5868c6410cef556c1dd0998", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysfx/pysfx-0.1.tar.gz"
+}

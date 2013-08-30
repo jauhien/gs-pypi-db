@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A user-friendly RPMDEP repository", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.infinidat.com", 
+  "info": {
+    "Author:": "Arnon Yaari", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.infinidat.com", 
+    "License:": "PSF", 
+    "Package Index Owner:": "infinidat, guyr"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "A user-friendly RPMDEP repository", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "701900365a8d51a5ff87c614da67e0c0", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infi.app_repo/infi.app_repo-0.2.14.tar.gz"
+}

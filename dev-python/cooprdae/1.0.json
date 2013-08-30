@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Differential-Algebraic Equation (DAE) extensions to the Pyomo environment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://software.sandia.gov/svn/public/coopr/coopr.dae", 
+  "info": {
+    "Author:": "John Siirola", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Unix Shell"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://software.sandia.gov/svn/public/coopr/coopr.dae", 
+    "Keywords:": "optimization", 
+    "License:": "BSD", 
+    "Package Index Owner:": "whart111", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Differential-Algebraic Equation (DAE) extensions to the Pyomo environment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f7a30eef76e192d554f201501ca8af1", 
+  "source_uri": "https://pypi.python.org/packages/source/c/coopr.dae/coopr.dae-1.0.tar.gz"
+}

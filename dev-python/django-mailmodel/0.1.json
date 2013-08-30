@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Reusable app for sharing objects by email", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/surfeurX/django-mailmodel", 
+  "info": {
+    "Author:": "Amine Chouki", 
+    "Documentation:": "http://pythonhosted.org//django-mailmodel", 
+    "Home Page:": "http://bitbucket.org/surfeurX/django-mailmodel", 
+    "License:": "GPL", 
+    "Maintainer:": "Amine Chouki", 
+    "Package Index Owner:": "surfeurX"
+  }, 
+  "license": "", 
+  "longdescription": "Reusable app for sharing objects by email", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3e6c27ec240f6f764b2b0537e1bb3621", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mailmodel/django-mailmodel-0.1.tar.gz"
+}

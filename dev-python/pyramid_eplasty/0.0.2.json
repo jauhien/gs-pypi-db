@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Include this in a pyramid project to get elephantoplasty support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/zefciu/Elephantoplasty", 
+  "info": {
+    "Author:": "Szymon Py\u017calski", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Database", 
+        "Front-Ends"
+      ]
+    }, 
+    "Home Page:": "http://github.com/zefciu/Elephantoplasty", 
+    "Keywords:": "orm postgresql psql pg persistence sql relational database", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Szymon.Pyzalski"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Include this in a pyramid project to get elephantoplasty support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4b907b6110859c9cae584dec1fdc9ed5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_eplasty/pyramid_eplasty-0.0.2.tar.bz2"
+}

@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mercurial (Hg) SCM support for Allura open forge", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://sourceforge.net/p/forgehg", 
+  "info": {
+    "Author:": "UNKNOWN", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "TurboGears"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Bug Tracking"
+      ]
+    }, 
+    "Home Page:": "http://sourceforge.net/p/forgehg", 
+    "Keywords:": "Allura forge Mercurial Hg scm", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "masterbunnyfu, brondsema.net, tvansteenburgh"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "Mercurial (Hg) SCM support for Allura open forge", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "23b9e2d5feafb3d365323b5c81fff329", 
+  "source_uri": "https://pypi.python.org/packages/source/F/ForgeHg/ForgeHg-0.1.16.tar.gz"
+}

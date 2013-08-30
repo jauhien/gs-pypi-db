@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple tool for packaging Python modules.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/mohd-akram/packager", 
+  "info": {
+    "Author:": "Mohammad Akram", 
+    "Categories": {
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/mohd-akram/packager", 
+    "Package Index Owner:": "mohd.akram"
+  }, 
+  "license": "", 
+  "longdescription": "A simple tool for packaging Python modules.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ec63276ed40b117786afc1c30ed29096", 
+  "source_uri": "https://pypi.python.org/packages/source/p/packager/packager-0.1.1.zip"
+}

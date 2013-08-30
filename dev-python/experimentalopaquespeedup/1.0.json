@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plone-specific optimiation of looking up CMFs opaque items", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.jarn.com/", 
+  "info": {
+    "Author:": "Jarn AS", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/experimental.opaquespeedup/", 
+    "Home Page:": "http://www.jarn.com/", 
+    "Keywords:": "plone events opaque optimization", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "hannosch", 
+    "Package Index Owner:": "witsch, hannosch", 
+    "Platform:": "Any"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Plone-specific optimiation of looking up CMFs opaque items", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61fafbd2beb3003ab1a35d0ce8af6142", 
+  "source_uri": "http://pypi.python.org/pypi/experimental.opaquespeedup/"
+}

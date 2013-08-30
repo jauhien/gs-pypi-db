@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A queryable object persistence and relationship framework based on the Neo4j graph database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/onefinestay/kaiso", 
+  "info": {
+    "Author:": "onefinestay", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/onefinestay/kaiso", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Maintainer:": "junkafarian, davidszotten", 
+    "Package Index Owner:": "onefinestay"
+  }, 
+  "license": "", 
+  "longdescription": "A queryable object persistence and relationship framework based on the Neo4j graph database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "667b701224c1b8c1c7039752f08c3a34", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kaiso/kaiso-0.8.4.tar.gz"
+}

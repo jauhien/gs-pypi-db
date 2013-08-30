@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Flexible sorting for Django applications", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/drewyeaton/django-sortable", 
+  "info": {
+    "Author:": "Drew Yeaton", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/drewyeaton/django-sortable", 
+    "Keywords:": "sorting sortable queryset sql pagination django", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "xeeton", 
+    "Platform:": "Platform Independent"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Flexible sorting for Django applications", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d84ef94b229b95365470f25a280abeb4", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sortable/django-sortable-0.3.1.tar.gz"
+}

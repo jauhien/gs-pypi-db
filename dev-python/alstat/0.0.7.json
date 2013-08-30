@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Collection of advanced utils to parse logfiles in different formats and build statistic reports", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/lispython/alstat", 
+  "info": {
+    "Author:": "Alexandr Lispython", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "https://github.com/lispython/alstat", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Lispython", 
+    "Platform:": "Linux,Mac"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Collection of advanced utils to parse logfiles in different formats and build statistic reports", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "24e6542764e33470a68dd80a41c7162c", 
+  "source_uri": "https://pypi.python.org/packages/source/a/alstat/alstat-0.0.7.tar.gz"
+}

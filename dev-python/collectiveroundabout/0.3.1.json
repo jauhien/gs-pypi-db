@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Add support for 360 degree panoramic photos to your Plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.fourdigits.nl", 
+  "info": {
+    "Author:": "Four Digits", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.fourdigits.nl", 
+    "Keywords:": "roundabout 360 degrees viewer", 
+    "License:": "GPL", 
+    "Package Index Owner:": "fourdigits"
+  }, 
+  "license": "", 
+  "longdescription": "Add support for 360 degree panoramic photos to your Plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ce2eb256ed9027b734ea41685aa4fa6a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.roundabout/collective.roundabout-0.3.1.tar.gz"
+}

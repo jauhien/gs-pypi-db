@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ability to create project workspaces with local workflow", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/borg/borg.project", 
+  "info": {
+    "Author:": "Martin Aspeli", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/borg/borg.project", 
+    "Keywords:": "Plone project workspace teamspace", 
+    "License:": "GPL", 
+    "Package Index Owner:": "optilude, do3cc, chaoflow, nutjob"
+  }, 
+  "license": "", 
+  "longdescription": "Ability to create project workspaces with local workflow", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6ee87bd6279d425b3e95a84ac021058e", 
+  "source_uri": "https://pypi.python.org/packages/source/b/borg.project/borg.project-1.1rc9.tar.gz"
+}

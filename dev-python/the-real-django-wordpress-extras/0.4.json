@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of non-WordPress extensions for django-wordpress (the real one)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sunlightlabs/django-wordpress-extras/", 
+  "info": {
+    "Author:": "Jeremy Carbaugh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/sunlightlabs/django-wordpress-extras/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "jcarbaugh", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A collection of non-WordPress extensions for django-wordpress (the real one)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "69e3886c64e99420a6957aaa6c9d4dea", 
+  "source_uri": "https://pypi.python.org/packages/source/t/the-real-django-wordpress-extras/the-real-django-wordpress-extras-0.4.tar.gz"
+}

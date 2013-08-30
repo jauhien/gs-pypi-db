@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django application allowing developers to synchronise instances of their models with Google Calendar.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://incuna.com/", 
+  "info": {
+    "Author:": "Incuna Ltd", 
+    "Home Page:": "http://incuna.com/", 
+    "Package Index Owner:": "incuna"
+  }, 
+  "license": "", 
+  "longdescription": "A Django application allowing developers to synchronise instances of their models with Google Calendar.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3e2b1f29fa8899930769138c2e702fcf", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djangogcal/djangogcal-0.2.1.tar.gz"
+}

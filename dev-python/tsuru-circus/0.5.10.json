@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Circus extensions for tsuru.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "timeredbull", 
+    "Package Index Maintainer:": "fss", 
+    "Package Index Owner:": "fss, flaviamissi, andrewsmedina"
+  }, 
+  "license": "", 
+  "longdescription": "Circus extensions for tsuru.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e75725e02b91a683e7905fc954ec4ef8", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tsuru-circus/tsuru-circus-0.5.10.tar.gz"
+}

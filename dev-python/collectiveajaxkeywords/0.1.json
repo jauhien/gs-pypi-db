@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A replacement for the Plone keywords viewlet based on a jquery tag handler.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/domruf/collective.ajaxkeywords", 
+  "info": {
+    "Author:": "Dominik Ruf", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/domruf/collective.ajaxkeywords", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Dominik.Ruf"
+  }, 
+  "license": "", 
+  "longdescription": "A replacement for the Plone keywords viewlet based on a jquery tag handler.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5313dcec0c9d64eb61a8f0570754958f", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.ajaxkeywords/collective.ajaxkeywords-0.1.tar.gz"
+}

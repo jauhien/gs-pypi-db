@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extract files from captured TCP sessions. Support live streams and pcap files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.abnorm.org/projects/tcpextract/", 
+  "info": {
+    "Author:": "Faust", 
+    "Bug Tracker:": "https://github.com/faust/tcpextract/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking", 
+        "Monitoring"
+      ]
+    }, 
+    "Download URL:": "https://github.com/faust/tcpextract/downloads", 
+    "Home Page:": "https://www.abnorm.org/projects/tcpextract/", 
+    "Keywords:": "pcap sniff capture analyzer", 
+    "License:": "GNU General Public License v3 or later (GPLv3+)", 
+    "Package Index Owner:": "faust"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "Extract files from captured TCP sessions. Support live streams and pcap files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c88b106423d467f7be7337a7e267a09", 
+  "source_uri": "https://github.com/faust/tcpextract/downloads"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sphinx domain for HTTP APIs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/birkenfeld/sphinx-contrib", 
+  "info": {
+    "Author:": "Hong Minhee", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sphinxcontrib-httpdomain", 
+    "Download URL:": "http://pypi.python.org/pypi/sphinxcontrib-httpdomain", 
+    "Home Page:": "http://bitbucket.org/birkenfeld/sphinx-contrib", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dahlia", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Sphinx domain for HTTP APIs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0f63aea612cc9e0b55a6c39e5b0f87b7", 
+  "source_uri": "http://pypi.python.org/pypi/sphinxcontrib-httpdomain"
+}

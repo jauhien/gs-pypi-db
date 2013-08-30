@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple tool to strip whitespace from files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucker.org/trbs/stripeol/", 
+  "info": {
+    "Author:": "Bas van Oostveen", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucker.org/trbs/stripeol/", 
+    "Keywords:": "strip eol cleanup white space files", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "trbs"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple tool to strip whitespace from files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46077cdedd32a71b876ae29410a4c09a", 
+  "source_uri": "https://pypi.python.org/packages/source/s/stripeol/stripeol-1.0.tar.gz"
+}

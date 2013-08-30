@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to Stan, a package for Bayesian inference", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ariddell/pystan", 
+  "info": {
+    "Author:": "Allen B. Riddell", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Information Analysis"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ariddell/pystan", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ariddell"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Python interface to Stan, a package for Bayesian inference", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c7f9888d1eab1db48189d2cbdfee753d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pystan/pystan-0.2.0.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "mjsrpc2 is a extension of jsonrpc2 providing introspection and argument type validation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://developers.mosaic-cloud.eu", 
+  "info": {
+    "Author:": "Marian Neagul", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://developers.mosaic-cloud.eu", 
+    "Keywords:": "jsonrpc2 rpc", 
+    "License:": "APL", 
+    "Package Index Maintainer:": "mneagul", 
+    "Package Index Owner:": "mneagul, mosaic"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "mjsrpc2 is a extension of jsonrpc2 providing introspection and argument type validation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "569b9ae9b0fdd03898392a55c2f9b9dc", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mjsrpc2/mjsrpc2-0.0.6.tar.gz"
+}

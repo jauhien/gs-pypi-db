@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "GUI for AdvancedQuery with some extensions - searching the easy way for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.banality.de/", 
+  "info": {
+    "Author:": "Simon Pamies", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.banality.de/", 
+    "Keywords:": "anthill plone query advancedquery search", 
+    "License:": "GPL", 
+    "Package Index Owner:": "spamsch"
+  }, 
+  "license": "", 
+  "longdescription": "GUI for AdvancedQuery with some extensions - searching the easy way for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "189e899d1123f4ba9c7fb512acbe0f61", 
+  "source_uri": "https://pypi.python.org/packages/source/a/anthill.querytool/anthill.querytool-0.2.tar.gz"
+}

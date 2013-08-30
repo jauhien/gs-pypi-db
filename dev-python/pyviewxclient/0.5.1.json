@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package for communicating with eye trackers via the iViewX server software from SensoMotoric Instruments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/RyanHope/PyViewX", 
+  "info": {
+    "Author:": "Ryan Hope", 
+    "Categories": {
+      "Framework": [
+        "Twisted"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/RyanHope/PyViewX", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "ryan.hope"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A package for communicating with eye trackers via the iViewX server software from SensoMotoric Instruments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c8f8b7f22f997f8d4fad7ddb704a0fe1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyviewx.client/pyviewx.client-0.5.1.tar.gz"
+}

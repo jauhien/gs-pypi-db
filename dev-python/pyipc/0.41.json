@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings to System V IPC", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://const.tltsu.ru/", 
+  "info": {
+    "Author:": "Constantin Baranov", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "C"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://const.tltsu.ru/svn/const/pub/pyipc/", 
+    "Home Page:": "http://const.tltsu.ru/", 
+    "License:": "PSF", 
+    "Package Index Owner:": "const", 
+    "Platform:": "posix"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Python bindings to System V IPC", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "13b6caf6ca49c010184db9e554c48d13", 
+  "source_uri": "http://const.tltsu.ru/svn/const/pub/pyipc/"
+}

@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Restricted ticket entry form for Trac", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/SimpleTicketPlugin", 
+  "info": {
+    "Author:": "Noah Kantrowitz", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/SimpleTicketPlugin", 
+    "Keywords:": "trac plugin restricted ticket", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Ryan.Ollos, coderanger"
+  }, 
+  "license": "", 
+  "longdescription": "Restricted ticket entry form for Trac", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8754a31dd5ac0c8c4c0dd672b0f3b8f1", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracSimpleTicket/TracSimpleTicket-1.1.3.tar.gz"
+}

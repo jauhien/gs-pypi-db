@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Auto-generate CRUD forms for a given domain class.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/megrok.scaffold", 
+  "info": {
+    "Author:": "Danilo G. Botelho", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/megrok.scaffold", 
+    "Keywords:": "CRUD form auto model scaffold", 
+    "License:": "GPL", 
+    "Package Index Owner:": "danilobotelho"
+  }, 
+  "license": "", 
+  "longdescription": "Auto-generate CRUD forms for a given domain class.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7d0017d8eea9fcd8ca3540f472a070b5", 
+  "source_uri": "https://pypi.python.org/packages/source/m/megrok.scaffold/megrok.scaffold-0.3.tar.gz"
+}

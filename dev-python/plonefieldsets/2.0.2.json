@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An extension to ope.formlib, which allows to group fields into different fieldsets.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.fieldsets", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.fieldsets", 
+    "Keywords:": "zope formlib fieldsets", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "davisagli, hannosch, optilude, wichert, esteele"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "An extension to ope.formlib, which allows to group fields into different fieldsets.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4158c8a1f784fcb5cecbd63deda7222f", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.fieldsets/plone.fieldsets-2.0.2.zip"
+}

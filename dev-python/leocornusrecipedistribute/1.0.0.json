@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for package and distribute files, modules, libs, archives, etc.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/leocornus/leocornus.recipe.distribute", 
+  "info": {
+    "Author:": "Sean Chen", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/leocornus/leocornus.recipe.distribute", 
+    "Keywords:": "development buildout recipe package distribute", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "xchen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "c.buildout recipe for package and distribute files, modules, libs, archives, etc.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aaa81feef65d69243b53f9d005dd4a77", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leocornus.recipe.distribute/leocornus.recipe.distribute-1.0.0.tar.gz"
+}

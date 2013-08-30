@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Find dead code", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/jendrikseipp/vulture", 
+  "info": {
+    "Author:": "Jendrik Seipp", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/jendrikseipp/vulture", 
+    "Keywords:": "vulture", 
+    "License:": "GPL3+", 
+    "Package Index Owner:": "jendrik"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Find dead code", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "65a521fc7ffd82c67e911c7ba1b229ea", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vulture/vulture-0.4.tar.gz"
+}

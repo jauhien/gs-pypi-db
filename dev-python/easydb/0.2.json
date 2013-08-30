@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple SQLite wrapper to make it easier to manage your database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/coderholic/easydb", 
+  "info": {
+    "Author:": "Ben Dowling", 
+    "Home Page:": "https://github.com/coderholic/easydb", 
+    "Keywords:": "db database sqlite", 
+    "License:": "MIT", 
+    "Package Index Owner:": "coderholic"
+  }, 
+  "license": "", 
+  "longdescription": "Simple SQLite wrapper to make it easier to manage your database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e4bb20b3ebcd48ae2a0e838916ba7c1", 
+  "source_uri": "https://pypi.python.org/packages/source/e/easydb/easydb-0.2.tar.gz"
+}

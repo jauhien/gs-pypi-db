@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Split commit messages in title and body", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gcollazo/NiceCommits", 
+  "info": {
+    "Author:": "Giovanni Collazo", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Home Page:": "http://github.com/gcollazo/NiceCommits", 
+    "Keywords:": "github commit message split", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gcollazo", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Split commit messages in title and body", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bfd6da0a1c122d2069ff6bd135074ef3", 
+  "source_uri": "https://pypi.python.org/packages/source/N/NiceCommits/NiceCommits-0.0.1.tar.gz"
+}

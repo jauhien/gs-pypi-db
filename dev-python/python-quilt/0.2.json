@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A quilt patchsystem implementation in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bjoernricks/python-quilt", 
+  "info": {
+    "Author:": "Bj\u00f6rn Ricks", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v2 or later (LGPLv2+)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bjoernricks/python-quilt", 
+    "License:": "LGPLv2.1+", 
+    "Package Index Owner:": "Bjoern.Ricks"
+  }, 
+  "license": "GNU Lesser General Public License v2 or later (LGPLv2+)", 
+  "longdescription": "A quilt patchsystem implementation in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e7b11818c839c99a769d26b755ed6aed", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-quilt/python-quilt-0.2.tar.bz2"
+}

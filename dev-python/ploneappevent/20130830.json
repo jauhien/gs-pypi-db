@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The Plone calendar framework", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/plone/plone.app.event", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/plone/plone.app.event", 
+    "Keywords:": "plone event", 
+    "License:": "GPL", 
+    "Package Index Owner:": "esteele, garbas, regebro, thet"
+  }, 
+  "license": "", 
+  "longdescription": "The Plone calendar framework", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fee9c0dea690e50e0c18bc00a077ba26", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.event/plone.app.event-1.0rc3.tar.gz"
+}

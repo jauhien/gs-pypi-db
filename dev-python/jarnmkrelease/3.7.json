@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python egg releaser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/jarn.mkrelease", 
+  "info": {
+    "Author:": "Stefan H. Holek", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/jarn.mkrelease", 
+    "Keywords:": "create release python egg eggs", 
+    "License:": "BSD", 
+    "Package Index Owner:": "stefanholek"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python egg releaser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d02a227ee977e99787243d09e511a32b", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jarn.mkrelease/jarn.mkrelease-3.7.zip"
+}

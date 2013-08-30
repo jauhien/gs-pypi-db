@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django application that allows add funcionality to the django-debug-toolbar", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://tracpub.yaco.es/djangoapps/wiki/DjangoDebugToolbarExtra", 
+  "info": {
+    "Author:": "Yaco Sistemas S.L.", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ]
+    }, 
+    "Home Page:": "https://tracpub.yaco.es/djangoapps/wiki/DjangoDebugToolbarExtra", 
+    "Keywords:": "django,debug toolbar,debug,toolbar,panels", 
+    "License:": "LGPL 3", 
+    "Package Index Owner:": "Goin"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Django application that allows add funcionality to the django-debug-toolbar", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "84048103d689be33460d5189d0d6b614", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-debug-toolbar-extra/django-debug-toolbar-extra-0.0.2.tar.gz"
+}

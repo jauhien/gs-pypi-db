@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A minimal PyPI implementation meant for use behind a firewall.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bkjones/MinistryOfPackages", 
+  "info": {
+    "Author:": "Brian K. Jones", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bkjones/MinistryOfPackages", 
+    "Package Index Owner:": "jonesy"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A minimal PyPI implementation meant for use behind a firewall.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "77a89a02bb68cce00d100c03737f0687", 
+  "source_uri": "https://pypi.python.org/packages/source/M/MinistryOfPackages/MinistryOfPackages-0.9.5.tar.gz"
+}

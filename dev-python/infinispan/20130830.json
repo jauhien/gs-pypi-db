@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Native python client for Infinispan, over the Hot Rod wire protocol", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://infinispan.org", 
+  "info": {
+    "Author:": "Galder Zamarreno", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://infinispan.org", 
+    "Keywords:": "infinispan hotrod nosql datagrid", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "galderz"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Native python client for Infinispan, over the Hot Rod wire protocol", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1494ae13d226b5a2c27d0f85dfe254de", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infinispan/infinispan-1.0.0b1.tar.gz"
+}

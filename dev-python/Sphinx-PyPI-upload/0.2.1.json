@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "setuptools command for uploading Sphinx documentation to PyPI", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/jezdez/sphinx-pypi-upload/", 
+  "info": {
+    "Author:": "Jannis Leidel", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Setuptools Plugin"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/jezdez/sphinx-pypi-upload/downloads/", 
+    "Home Page:": "http://bitbucket.org/jezdez/sphinx-pypi-upload/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jezdez", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "setuptools command for uploading Sphinx documentation to PyPI", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b9f1df5c8443197e4d49abbba1cfddc4", 
+  "source_uri": "http://bitbucket.org/jezdez/sphinx-pypi-upload/downloads/"
+}

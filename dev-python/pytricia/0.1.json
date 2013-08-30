@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An efficient IP address storage and lookup module for Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jsommers/pytricia", 
+  "info": {
+    "Author:": "Joel Sommers", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://cs.colgate.edu/~jsommers/downloads/pytricia-0.1.tar.gz", 
+    "Home Page:": "https://github.com/jsommers/pytricia", 
+    "Keywords:": "patricia tree,IP addresses", 
+    "Package Index Owner:": "jsommers"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "An efficient IP address storage and lookup module for Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://cs.colgate.edu/~jsommers/downloads/pytricia-0.1.tar.gz"
+}

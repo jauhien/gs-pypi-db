@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python caching library with tag-based invalidation and dogpile effect prevention", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/hermes-py/", 
+  "info": {
+    "Author:": "saaj", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/hermes-py/", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "saaj", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "Python caching library with tag-based invalidation and dogpile effect prevention", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d97d4dfd44b4fad142e9172640472148", 
+  "source_uri": "https://pypi.python.org/packages/source/H/HermesCache/HermesCache-0.1.5.zip"
+}

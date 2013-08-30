@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "cmemcache-style CRC32 hashing for python-memcached.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lericson.blogg.se/code/category/cmemcache_hash.html", 
+  "info": {
+    "Author:": "Ludvig Ericson", 
+    "Home Page:": "http://lericson.blogg.se/code/category/cmemcache_hash.html", 
+    "Package Index Owner:": "toxik"
+  }, 
+  "license": "", 
+  "longdescription": "cmemcache-style CRC32 hashing for python-memcached.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "135cdbc3a23426ccb65fd91f7772708a", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cmemcache_hash/cmemcache_hash-0.1.1.tar.gz"
+}

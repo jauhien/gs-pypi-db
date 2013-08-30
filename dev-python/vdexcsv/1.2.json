@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Converts CSV files to IMS VDEX XML (Vocabulary Definition Exchange Format)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bluedynamics/vdexcsv", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bluedynamics/vdexcsv", 
+    "Keywords:": "vdex csv converter xml ims vocabulary", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "jensens, hpeteragitator"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Converts CSV files to IMS VDEX XML (Vocabulary Definition Exchange Format)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "07cf92a394d631cc3a4284ea09133adc", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vdexcsv/vdexcsv-1.2.tar.gz"
+}

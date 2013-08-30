@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Beets extension for Mopidy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/dz0ny/mopidy-beets/", 
+  "info": {
+    "Author:": "dz0ny", 
+    "Categories": {
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Multimedia", 
+        "Sound/Audio", 
+        "Players"
+      ]
+    }, 
+    "Home Page:": "http://github.com/dz0ny/mopidy-beets/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "Janez.Troha"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Beets extension for Mopidy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a428058e9bc2ef1f962e642a0dff7bbc", 
+  "source_uri": "https://pypi.python.org/packages/source/M/Mopidy-Beets/Mopidy-Beets-1.0.2.tar.gz"
+}

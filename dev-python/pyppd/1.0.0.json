@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A CUPS PostScript Printer Drivers compressor and generator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vitorbaptista/pyppd/", 
+  "info": {
+    "Author:": "Vitor Baptista", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "Printing"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vitorbaptista/pyppd/", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vitorbaptista"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A CUPS PostScript Printer Drivers compressor and generator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c006ea654f64df96a6b1dd44414a74dc", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyppd/pyppd-1.0.0.tar.gz"
+}

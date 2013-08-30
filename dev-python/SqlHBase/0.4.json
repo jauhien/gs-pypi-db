@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MySQLDump to HBase, ETL scripts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.rocket-internet.de", 
+  "info": {
+    "Author:": "Guido Serra aka Zeph", 
+    "Home Page:": "http://www.rocket-internet.de", 
+    "License:": "GPL 3", 
+    "Package Index Owner:": "zeph"
+  }, 
+  "license": "", 
+  "longdescription": "MySQLDump to HBase, ETL scripts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0bbd8b2ab80513b94ac160f92547396c", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SqlHBase/SqlHBase-0.4.tar.gz"
+}

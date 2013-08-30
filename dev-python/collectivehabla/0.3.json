@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Hab.la web chat for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/collective.habla", 
+  "info": {
+    "Author:": "Giorgio Borelli", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/collective.habla", 
+    "Keywords:": "Plone chat hab.la", 
+    "License:": "GPL", 
+    "Package Index Owner:": "giorgio, silviot"
+  }, 
+  "license": "", 
+  "longdescription": "Hab.la web chat for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0221bfcb03b1ce6280daf21278f26854", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.habla/collective.habla-0.3.tar.gz"
+}

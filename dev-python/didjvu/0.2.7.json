@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "DjVu encoder with foregroundbackground separation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://jwilk.net/software/didjvu", 
+  "info": {
+    "Author:": "Jakub Wilk", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://jwilk.net/software/didjvu", 
+    "License:": "GNU GPL 2", 
+    "Package Index Owner:": "jwilk"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "DjVu encoder with foregroundbackground separation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0821db24673d2c6ced4ebfd057799092", 
+  "source_uri": "https://pypi.python.org/packages/source/d/didjvu/didjvu-0.2.7.tar.gz"
+}

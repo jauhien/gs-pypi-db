@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Sentry extension which replay events to other Sentry", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.gisce.net/sentry-replay", 
+  "info": {
+    "Author:": "Eduard Carreras", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://code.gisce.net/sentry-replay", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gisce, ecarreras"
+  }, 
+  "license": "", 
+  "longdescription": "A Sentry extension which replay events to other Sentry", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "910932515f5c92a890e53caadcf9c7a3", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-replay/sentry-replay-0.1.0.tar.gz"
+}

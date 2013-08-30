@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MQTT version 3.1 client class", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://mosquitto.org/", 
+  "info": {
+    "Author:": "Roger Light", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Download URL:": "http://mosquitto.org/files/", 
+    "Home Page:": "http://mosquitto.org/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "Roger.Light"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "MQTT version 3.1 client class", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5694517c288bf48bf735cf9ef8bc0cb2", 
+  "source_uri": "http://mosquitto.org/files/"
+}

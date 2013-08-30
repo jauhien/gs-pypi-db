@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The swmmtoolbox extracts data from the Storm Water Management Model 5 binary output file.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Tim Cera, P.E.", 
+    "Keywords:": "stormwater model water hydrology hydraulics", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "timcera"
+  }, 
+  "license": "", 
+  "longdescription": "The swmmtoolbox extracts data from the Storm Water Management Model 5 binary output file.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4ed12813bc1567b47ba6084d28405be6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/swmmtoolbox/swmmtoolbox-0.2.2.tar.gz"
+}

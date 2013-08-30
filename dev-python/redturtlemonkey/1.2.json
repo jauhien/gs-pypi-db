@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "mailchimp integration for Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/redturtle/redturtle.monkey", 
+  "info": {
+    "Author:": "Andrew Mleczko", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/redturtle/redturtle.monkey", 
+    "License:": "GPL", 
+    "Package Index Owner:": "amleczko"
+  }, 
+  "license": "", 
+  "longdescription": "mailchimp integration for Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b9e149df1d7e8160b3be6d7f9c5e0907", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redturtle.monkey/redturtle.monkey-1.2.zip"
+}

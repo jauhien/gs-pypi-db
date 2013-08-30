@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Package to provide translation methods for pyramid, and means to reload translations without stopping the application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fizyk/pyramid_routing", 
+  "info": {
+    "Author:": "Grzegorz Sliwinski", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/fizyk/pyramid_routing", 
+    "Keywords:": "python template", 
+    "Package Index Owner:": "fizyk"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Package to provide translation methods for pyramid, and means to reload translations without stopping the application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2099f929761881aa56d941a7ea143295", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_localize/pyramid_localize-0.0.3.tar.gz"
+}

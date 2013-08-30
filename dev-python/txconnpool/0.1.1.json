@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A generalied connection pooling library for Twisted", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ericflo/txconnpool/", 
+  "info": {
+    "Author:": "Eric Florenzano", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ericflo/txconnpool/", 
+    "Keywords:": "twisted,connection,pool,connpool,txconnpool", 
+    "License:": "Apache", 
+    "Package Index Owner:": "ericflo"
+  }, 
+  "license": "", 
+  "longdescription": "A generalied connection pooling library for Twisted", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9fc3689820b10138a6c317f1dcc9083", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txconnpool/txconnpool-0.1.1.tar.gz"
+}

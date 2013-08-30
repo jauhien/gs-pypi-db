@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple desktop interface for interacting with the eMusic.com web music service, including a feature to create a NetFlix-like download queue", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Asheesh Laroia", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ]
+    }, 
+    "Package Index Owner:": "paulproteus"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A simple desktop interface for interacting with the eMusic.com web music service, including a feature to create a NetFlix-like download queue", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea9218b5266fdbdf04fc7fd976eec57a", 
+  "source_uri": "https://pypi.python.org/packages/source/e/emusic/emusic-0.6a.tar.gz"
+}

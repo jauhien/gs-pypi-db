@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package used in the Raisin web application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://big.crg.cat/services/grape", 
+  "info": {
+    "Author:": "Maik Roder", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://big.crg.cat/services/grape", 
+    "Keywords:": "RNA-Seq pipeline ngs transcriptome bioinformatics ETL", 
+    "License:": "gpl", 
+    "Package Index Owner:": "maikroeder"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A package used in the Raisin web application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5d55678ac8599af3d2ab83998eeaf571", 
+  "source_uri": "https://pypi.python.org/packages/source/r/raisin.box/raisin.box-1.4.zip"
+}

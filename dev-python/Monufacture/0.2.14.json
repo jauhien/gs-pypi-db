@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A lightweight factory framework for easily generating test data in MongoDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gamechanger/monufacture", 
+  "info": {
+    "Author:": "Tom Leach", 
+    "Home Page:": "http://github.com/gamechanger/monufacture", 
+    "Keywords:": "mongo mongodb database testing factory pymongo", 
+    "License:": "BSD", 
+    "Package Index Owner:": "Tom.Leach"
+  }, 
+  "license": "", 
+  "longdescription": "A lightweight factory framework for easily generating test data in MongoDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "18a436aff0deb3dd2fb39fcf19b8c24e", 
+  "source_uri": "https://pypi.python.org/packages/source/M/Monufacture/Monufacture-0.2.14.tar.gz"
+}

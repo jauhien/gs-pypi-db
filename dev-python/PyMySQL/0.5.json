@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python MySQL Driver", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pymysql", 
+  "info": {
+    "Author:": "Pete Hunt", 
+    "Home Page:": "http://code.google.com/p/pymysql", 
+    "License:": "MIT", 
+    "Package Index Owner:": "iDavidStory, peterhunt"
+  }, 
+  "license": "", 
+  "longdescription": "Pure Python MySQL Driver", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "125e8a3449e05afcb04874a19673426b", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyMySQL/PyMySQL-0.5.tar.gz"
+}

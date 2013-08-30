@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Detect mobile browsers and serve different template flavours to them.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/gregmuellegger/django-mobile", 
+  "info": {
+    "Author:": "Gregor M\u00fcllegger", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/gregmuellegger/django-mobile", 
+    "Keywords:": "django,mobile", 
+    "License:": "BSD", 
+    "Package Index Owner:": "gremu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Detect mobile browsers and serve different template flavours to them.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fea418bcd2f366c7d34e967c2d4a6ba1", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mobile/django-mobile-0.3.0.tar.gz"
+}

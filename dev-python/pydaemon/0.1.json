@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple class that allows to create daemon in UNIX and Linux", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/pydaemon", 
+  "info": {
+    "Author:": "marazmiki", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "https://github.com/marazmiki/pydaemon/zipball/master", 
+    "Home Page:": "http://pypi.python.org/pypi/pydaemon", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "marazmiki"
+  }, 
+  "license": "", 
+  "longdescription": "A simple class that allows to create daemon in UNIX and Linux", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2bd519b921b0ba2b064a39f16789efd4", 
+  "source_uri": "https://github.com/marazmiki/pydaemon/zipball/master"
+}

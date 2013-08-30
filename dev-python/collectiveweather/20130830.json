@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone viewlet to display the weather at selected locations.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/collective.weather", 
+  "info": {
+    "Author:": "Franco Pellegrini", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone", 
+        "4.2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v2 (GPLv2)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/collective.weather", 
+    "Keywords:": "api google noaa plone weather yahoo", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "hvelarde, frapell"
+  }, 
+  "license": "GNU General Public License v2 (GPLv2)", 
+  "longdescription": "A Plone viewlet to display the weather at selected locations.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c26a0c3da02ec94f08e48998bb4cd4f8", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.weather/collective.weather-1.0a2.zip"
+}

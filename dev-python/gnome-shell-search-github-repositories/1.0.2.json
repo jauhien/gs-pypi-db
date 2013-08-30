@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A gnome shell search provider for your github repos", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ralphbean/gnome-shell-search-github-repositories", 
+  "info": {
+    "Author:": "Ralph Bean", 
+    "Home Page:": "http://github.com/ralphbean/gnome-shell-search-github-repositories", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "ralphbean"
+  }, 
+  "license": "", 
+  "longdescription": "A gnome shell search provider for your github repos", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "15ee7e9d6cf1a601aa1e08f458828471", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gnome-shell-search-github-repositories/gnome-shell-search-github-repositories-1.0.2.tar.gz"
+}

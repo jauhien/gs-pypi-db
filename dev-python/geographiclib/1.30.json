@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A translation of the GeographicLibGeodesic class to Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://geographiclib.sourceforge.net/", 
+  "info": {
+    "Author:": "Charles Karney", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://geographiclib.sourceforge.net/", 
+    "Keywords:": "gis geographical earth distance geodesic", 
+    "License:": "MIT", 
+    "Package Index Owner:": "karney"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A translation of the GeographicLibGeodesic class to Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf0f2cbba321e18f3fc2890ab9b0d3d3", 
+  "source_uri": "https://pypi.python.org/packages/source/g/geographiclib/geographiclib-1.30.tar.gz"
+}

@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "BitBucket command line interface", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Zhehao Mao", 
+    "Package Index Owner:": "zhmao.myopenid.com"
+  }, 
+  "license": "", 
+  "longdescription": "BitBucket command line interface", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cac48e952dc9560069b9971057c0b6b4", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bitbucket-cli/bitbucket-cli-0.3.0.tar.gz"
+}

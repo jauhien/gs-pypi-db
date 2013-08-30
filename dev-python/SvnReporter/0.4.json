@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Subversion commit reporter", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.calins.ch/software/SvnReporter.html", 
+  "info": {
+    "Author:": "Remy Blank", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Download URL:": "http://www.calins.ch/download/SvnReporter/SvnReporter-0.4.tar.gz", 
+    "Home Page:": "http://www.calins.ch/software/SvnReporter.html", 
+    "Keywords:": "Subversion,SVN,commit,post-commit,hook,e-mail,feed,atom,rss", 
+    "License:": "GPL-2", 
+    "Package Index Owner:": "rblank", 
+    "Platform:": "POSIX,Windows"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Subversion commit reporter", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://www.calins.ch/download/SvnReporter/SvnReporter-0.4.tar.gz"
+}

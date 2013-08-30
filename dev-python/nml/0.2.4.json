@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool to compile nml files to grf or nfo files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.openttdcoop.org/projects/nml", 
+  "info": {
+    "Author:": "NML Development Team", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Compilers"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//nml", 
+    "Home Page:": "http://dev.openttdcoop.org/projects/nml", 
+    "License:": "GPLv2", 
+    "Package Index Owner:": "Ammler, DevZone"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A tool to compile nml files to grf or nfo files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ca9b5d2f9769ff8eb5d0c183db21f63", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nml/nml-0.2.4.tar.gz"
+}

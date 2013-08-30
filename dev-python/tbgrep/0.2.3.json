@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Extract Python Tracebacks from text", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/lmacken/tbgrep", 
+  "info": {
+    "Author:": "Luke Macken", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/lmacken/tbgrep", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "ralphbean, lmacken"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Extract Python Tracebacks from text", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7997e00b8d649d2144243b21ee539cc3", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tbgrep/tbgrep-0.2.3.tar.gz"
+}

@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Database schema migration tool for Postgres", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pgmigrate/", 
+  "info": {
+    "Author:": "Sergey Kirillov", 
+    "Categories": {
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/pgmigrate/", 
+    "Keywords:": "database migration tool postgres", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "rushman, serg", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Database schema migration tool for Postgres", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2b0ce60eb1830ebb6eb5e8427f5bc6e5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pgmigrate/pgmigrate-1.2.1.tar.gz"
+}

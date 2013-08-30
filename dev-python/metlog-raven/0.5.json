@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Metlog plugin to send exceptions to Sentry", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mozilla-services/metlog-raven", 
+  "info": {
+    "Author:": "Victor Ng", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 2.0 (MPL 2.0)"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mozilla-services/metlog-raven", 
+    "License:": "MPLv2.0", 
+    "Package Index Owner:": "victorng, rafrombrc, tarek, rfk"
+  }, 
+  "license": "Mozilla Public License 2.0 (MPL 2.0)", 
+  "longdescription": "A Metlog plugin to send exceptions to Sentry", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2baa7e38e895594a8f8aaf7e9b737e8f", 
+  "source_uri": "https://pypi.python.org/packages/source/m/metlog-raven/metlog-raven-0.5.tar.gz"
+}

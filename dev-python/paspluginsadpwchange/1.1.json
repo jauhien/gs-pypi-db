@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "(Plone)PAS plugin to enable password changes in AD", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Wichert Akkerman", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Keywords:": "AD PAS PlonePAS Plone", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wichert"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "(Plone)PAS plugin to enable password changes in AD", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4f1f203f19b5bf5c411e9798c1b6d647", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pas.plugins.adpwchange/pas.plugins.adpwchange-1.1.tar.gz"
+}

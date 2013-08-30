@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A raw SQL migration toolfor managing your database without an ORM.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/nickgartmann/doppler/", 
+  "info": {
+    "Author:": "Nick Gartmann", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/nickgartmann/doppler/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nickgartmann", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A raw SQL migration toolfor managing your database without an ORM.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b6806fe8b8bb014c35786dc08c2fbcd0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/doppler/doppler-0.3.tar.gz"
+}

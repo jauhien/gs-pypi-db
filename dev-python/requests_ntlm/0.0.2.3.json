@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This package allows for HTTP NTLM authentication using the requests library.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ben Toews", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "License:": "ISC", 
+    "Package Index Owner:": "mastahyeti"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "This package allows for HTTP NTLM authentication using the requests library.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fb00cf9461bd648c54f723c45983bd10", 
+  "source_uri": "https://pypi.python.org/packages/source/r/requests_ntlm/requests_ntlm-0.0.2.3.tar.gz"
+}

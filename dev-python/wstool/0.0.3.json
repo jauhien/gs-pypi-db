@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "workspace multi-SCM commands", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/wstool", 
+  "info": {
+    "Author:": "Tully Foote", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Download URL:": "http://pr.willowgarage.com/downloads/wstool/", 
+    "Home Page:": "http://www.ros.org/wiki/wstool", 
+    "Keywords:": "ROS", 
+    "License:": "BSD", 
+    "Package Index Owner:": "dthomas, tfoote"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "workspace multi-SCM commands", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3262207bf7802a5821d6f210049210ff", 
+  "source_uri": "http://pr.willowgarage.com/downloads/wstool/"
+}

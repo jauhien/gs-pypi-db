@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Non-blocking web server. A facebooks Tornado on top of Twisted.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cyclone.io/", 
+  "info": {
+    "Author:": "fiorix", 
+    "Home Page:": "http://cyclone.io/", 
+    "Keywords:": "python non-blocking web server twisted facebook tornado", 
+    "License:": "http://www.apache.org/licenses/LICENSE-2.0", 
+    "Package Index Maintainer:": "gmonnerat", 
+    "Package Index Owner:": "vandersonmota, fiorix"
+  }, 
+  "license": "", 
+  "longdescription": "Non-blocking web server. A facebooks Tornado on top of Twisted.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "477c5ef9cf8902e37105fe450c4d8c5d", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cyclone/cyclone-1.1.tar.gz"
+}

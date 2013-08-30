@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django interface with statsd", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/andymckay/django-statsd", 
+  "info": {
+    "Author:": "Andy McKay", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ]
+    }, 
+    "Home Page:": "https://github.com/andymckay/django-statsd", 
+    "License:": "BSD", 
+    "Package Index Owner:": "marketplacedevs, andymckay"
+  }, 
+  "license": "", 
+  "longdescription": "Django interface with statsd", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6afea90699c97532166bb6dd4ca4fb30", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-statsd-mozilla/django-statsd-mozilla-0.3.9.tar.gz"
+}

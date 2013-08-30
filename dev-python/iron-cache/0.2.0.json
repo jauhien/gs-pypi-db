@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client library for IronCache, the cache-in-the-cloud provided by Iron.io.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://www.github.com/iron-io/iron_cache_python", 
+  "info": {
+    "Author:": "Iron.io", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://www.github.com/iron-io/iron_cache_python", 
+    "Keywords:": "Iron.io,cache,iron_cache", 
+    "Package Index Owner:": "ironio"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Client library for IronCache, the cache-in-the-cloud provided by Iron.io.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "09245a1a5ba4b1d948ffb49ab2ef3a8c", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iron-cache/iron-cache-0.2.0.tar.gz"
+}

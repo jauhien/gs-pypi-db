@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PostgreSQL  psycopg2 caching wrapper class", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/MeetMe/pgsql_wrapper", 
+  "info": {
+    "Author:": "Gavin M. Roy", 
+    "Home Page:": "http://github.com/MeetMe/pgsql_wrapper", 
+    "Package Index Owner:": "crad"
+  }, 
+  "license": "", 
+  "longdescription": "PostgreSQL  psycopg2 caching wrapper class", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "583aff9001ed1fcdca98bfad0f11773a", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pgsql_wrapper/pgsql_wrapper-1.1.2.tar.gz"
+}

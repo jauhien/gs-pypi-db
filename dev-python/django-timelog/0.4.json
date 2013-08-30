@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Performance logging middlware and analysis tools for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/garethr/django-timelog/", 
+  "info": {
+    "Author:": "Gareth Rushgrove", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/garethr/django-timelog/", 
+    "Keywords:": "django", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "garethr"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Performance logging middlware and analysis tools for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7febcd65f1c3691351b525390dc260cb", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-timelog/django-timelog-0.4.tar.gz"
+}

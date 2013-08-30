@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integrate MaxMind GeoIP data with a Pyramid web application.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/thruflo/pyramid_geoip", 
+  "info": {
+    "Author:": "James Arthur", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pylons"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/thruflo/pyramid_geoip", 
+    "License:": "This is free and unencumbered software released into the public domain.", 
+    "Package Index Owner:": "thruflo, thruflo2"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Integrate MaxMind GeoIP data with a Pyramid web application.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "21c3cd2583ab0a8cccba38d16afac170", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_geoip/pyramid_geoip-0.1.1.tar.gz"
+}

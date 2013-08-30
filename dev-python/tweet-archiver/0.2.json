@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Get full Tweet metadata given a list of status IDs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Alex Muller", 
+    "Package Index Owner:": "mitchellrj"
+  }, 
+  "license": "", 
+  "longdescription": "Get full Tweet metadata given a list of status IDs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c330bad2b65b965ca8c3d175552cb9e9", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tweet-archiver/tweet-archiver-0.2.zip"
+}

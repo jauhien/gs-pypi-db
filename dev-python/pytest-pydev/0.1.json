@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "py.test plugin to connect to a remote debug server with PyDev or PyCharm.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/basti/pytest-pydev/", 
+  "info": {
+    "Author:": "Sebastian Rahlf", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/basti/pytest-pydev/downloads/", 
+    "Home Page:": "http://bitbucket.org/basti/pytest-pydev/", 
+    "Keywords:": "py.test,pytest,pydev,pycharm,python remote debugger", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "basti"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "py.test plugin to connect to a remote debug server with PyDev or PyCharm.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2c614553fe660c2006ac5dc7baf66437", 
+  "source_uri": "http://bitbucket.org/basti/pytest-pydev/downloads/"
+}

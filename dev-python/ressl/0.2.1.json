@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A SSL redirector for shared hosting environments, e.g. Webfaction", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/jezdez/ressl/", 
+  "info": {
+    "Author:": "Jannis Leidel", 
+    "Home Page:": "http://github.com/jezdez/ressl/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jezdez"
+  }, 
+  "license": "", 
+  "longdescription": "A SSL redirector for shared hosting environments, e.g. Webfaction", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "085a404e2e1f781ab55d1ab900b618fc", 
+  "source_uri": "https://pypi.python.org/packages/source/r/ressl/ressl-0.2.1.tar.gz"
+}

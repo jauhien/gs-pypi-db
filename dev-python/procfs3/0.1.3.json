@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python API for the Linux proc virtual filesystem", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/galini/procfs3", 
+  "info": {
+    "Author:": "Duncan Davis", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Operating System Kernels", 
+        "Linux"
+      ]
+    }, 
+    "Home Page:": "https://github.com/galini/procfs3", 
+    "Keywords:": "linux proc procfs system kernel", 
+    "License:": "BSD", 
+    "Package Index Owner:": "launchpad.net_10", 
+    "Platform:": "Linux"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Python API for the Linux proc virtual filesystem", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d291d49820abc71b124f056c33bed010", 
+  "source_uri": "https://pypi.python.org/packages/source/p/procfs3/procfs3-0.1.3.tar.gz"
+}

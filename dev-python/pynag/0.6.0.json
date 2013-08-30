@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python modules for Nagios plugins and configuration", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pynag.org/", 
+  "info": {
+    "Author:": "Drew Stinnett", 
+    "Home Page:": "http://pynag.org/", 
+    "License:": "GPLv2", 
+    "Package Index Maintainer:": "palli", 
+    "Package Index Owner:": "palli, tommi"
+  }, 
+  "license": "", 
+  "longdescription": "Python modules for Nagios plugins and configuration", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6db0d4eebefe71e27ec60bd2fdfc9c04", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pynag/pynag-0.6.0.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the Linux timerfd_ syscalls", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://abelbeck.wordpress.com", 
+  "info": {
+    "Author:": "Frank Abelbeck", 
+    "Home Page:": "https://abelbeck.wordpress.com", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "Frank.Abelbeck", 
+    "Platform:": "Linux"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for the Linux timerfd_ syscalls", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e10d1e1fabb322d034476c473d16d05b", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pytimerfd/pytimerfd-1.0.tar.gz"
+}

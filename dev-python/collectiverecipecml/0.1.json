@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CML slug generation to be used separately e.g for repoe based setups", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/buildout/collective.recipe.zcml/trunk", 
+  "info": {
+    "Author:": "Stefan Eletzhofer", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://svn.plone.org/svn/collective/buildout/collective.recipe.zcml/trunk", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "seletz"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "CML slug generation to be used separately e.g for repoe based setups", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ca9679ccfeed2f0ef1520d54000ab2c0", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.zcml/collective.recipe.zcml-0.1.tar.gz"
+}

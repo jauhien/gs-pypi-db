@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fix to httplib in python2.4 to back port a patch from trunk to fix issues with rss reads.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/httplibfix", 
+  "info": {
+    "Author:": "Matt Hamilton", 
+    "Home Page:": "http://pypi.python.org/pypi/httplibfix", 
+    "Keywords:": "python http httplib rss patch", 
+    "License:": "GPL", 
+    "Package Index Owner:": "matth"
+  }, 
+  "license": "", 
+  "longdescription": "A fix to httplib in python2.4 to back port a patch from trunk to fix issues with rss reads.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae342398e65f3f2312008f59b6e2f5f6", 
+  "source_uri": "https://pypi.python.org/packages/source/h/httplibfix/httplibfix-1.0.tar.gz"
+}

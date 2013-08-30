@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "An installable theme for Plone 4 based on redomino.css3theme", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ploomcake/ploomcake.theme", 
+  "info": {
+    "Author:": "Andrea D'Este", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ploomcake/ploomcake.theme", 
+    "License:": "GPL", 
+    "Package Index Owner:": "redomino"
+  }, 
+  "license": "", 
+  "longdescription": "An installable theme for Plone 4 based on redomino.css3theme", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f34b38932d73267cfd68454e781c211d", 
+  "source_uri": "https://pypi.python.org/packages/source/p/ploomcake.theme/ploomcake.theme-1.8.zip"
+}

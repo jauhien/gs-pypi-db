@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "redis-simple-cache is a pythonic interface for creating a cache over redis. It provides simple decorators that can be added to any function to cache its return values.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/fjsj/redis-simple-cache", 
+  "info": {
+    "Author:": "Vivek Narayanan, Fl\u00e1vio Juvenal, Sam Zaydel", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/fjsj/redis-simple-cache", 
+    "Keywords:": "decorator decorators redis cache", 
+    "License:": "3-clause BSD", 
+    "Package Index Owner:": "fjsj"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "redis-simple-cache is a pythonic interface for creating a cache over redis. It provides simple decorators that can be added to any function to cache its return values.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a0df32d2fc0cfe7e4a53ab3e27d2285", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redis-simple-cache/redis-simple-cache-0.0.4.tar.gz"
+}

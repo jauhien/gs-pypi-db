@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command line journal application that stores your journal in a plain text file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://maebert.github.io/jrnl", 
+  "info": {
+    "Author:": "Manuel Ebert", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://maebert.github.io/jrnl", 
+    "Keywords:": "journal,todo,todo.txt,jrnl", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "maebert"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A command line journal application that stores your journal in a plain text file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c0094108c3f2359a7238cfab8ef6e0f1", 
+  "source_uri": "https://pypi.python.org/packages/source/j/jrnl/jrnl-1.5.5.tar.gz"
+}

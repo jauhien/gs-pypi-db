@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read metdata (tags) of mp3, mp4, wma, ogg, flac and aiff files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.hardcoded.net/hsaudiotag/", 
+  "info": {
+    "Author:": "Hardcoded Software", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://hg.hardcoded.net/hsaudiotag/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "hsoft"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Read metdata (tags) of mp3, mp4, wma, ogg, flac and aiff files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "751a554bd22c8c588bf25dd7ef00b9ac", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hsaudiotag/hsaudiotag-1.1.1.tar.gz"
+}

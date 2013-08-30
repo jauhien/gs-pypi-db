@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Google PAM Module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/cipher.googlepam", 
+  "info": {
+    "Author:": "Stephan Richter", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/cipher.googlepam", 
+    "Keywords:": "pam google", 
+    "Package Index Owner:": "mgedmin, srichter"
+  }, 
+  "license": "", 
+  "longdescription": "Google PAM Module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a24aba7dbdc3dfdba5ae990f2f8693a2", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cipher.googlepam/cipher.googlepam-1.6.0.zip"
+}

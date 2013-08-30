@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Sample remember based custom member implementation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/remember", 
+  "info": {
+    "Author:": "Rob Miller", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/remember", 
+    "License:": "GPL", 
+    "Package Index Owner:": "collective, rpatterson"
+  }, 
+  "license": "", 
+  "longdescription": "Sample remember based custom member implementation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f619a9327addf55d1f02eb82fd7ee4b7", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.sampleremember/Products.sampleremember-1.1b2.tar.gz"
+}

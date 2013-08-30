@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "App to catch HTML errors (or other errors) in outgoing Django pages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lukeplant.me.uk/resources/djangovalidator/", 
+  "info": {
+    "Author:": "Luke Plant", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://lukeplant.me.uk/resources/djangovalidator/", 
+    "Keywords:": "django HTML XHTML validation validator", 
+    "License:": "MIT", 
+    "Package Index Owner:": "spookylukey"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "App to catch HTML errors (or other errors) in outgoing Django pages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b7d19e2bcb50b8dc076c6e8259150f57", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-output-validator/django-output-validator-1.5.tar.gz"
+}

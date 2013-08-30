@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django Application as a Proxy to Plone Sites", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plonexp.leocorn.com/xp/leocornus.django.ploneproxy", 
+  "info": {
+    "Author:": "Sean Chen", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Zope"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://plonexp.leocorn.com/xp/leocornus.django.ploneproxy", 
+    "Keywords:": "Python Plone Zope Django Proxy", 
+    "License:": "GPL", 
+    "Package Index Owner:": "xchen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Django Application as a Proxy to Plone Sites", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e3a25da9030f0ad9259c972181f8eff", 
+  "source_uri": "https://pypi.python.org/packages/source/l/leocornus.django.ploneproxy/leocornus.django.ploneproxy-0.1beta2.tar.gz"
+}

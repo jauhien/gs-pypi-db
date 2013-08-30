@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Solr integration for LFS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.iqpp.de", 
+  "info": {
+    "Author:": "Kai Diefenbach", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//lfs-solr", 
+    "Home Page:": "http://www.iqpp.de", 
+    "Keywords:": "django lfs search solr", 
+    "License:": "BSD", 
+    "Package Index Owner:": "diefenbach"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Solr integration for LFS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "61c1dc87f49adad7874d26015b0a8fbb", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lfs-solr/lfs-solr-1.0b1.tar.gz"
+}

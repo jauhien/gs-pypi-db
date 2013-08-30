@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Word frequencies in 2012 English Wikipedia", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/iitis/wikiwords", 
+  "info": {
+    "Author:": "Pawel Foremski", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Home Page:": "http://github.com/iitis/wikiwords", 
+    "Keywords:": "nlp, corpus, wikipedia, english, frequency, word", 
+    "License:": "the Wikipedia license + GNU GPL", 
+    "Package Index Owner:": "pjf"
+  }, 
+  "license": "OSI Approved", 
+  "longdescription": "Word frequencies in 2012 English Wikipedia", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "586ac1bb19045f3681f6986998294059", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wikiwords/wikiwords-0.5.tar.gz"
+}

@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python package for reading and writing genomic data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://xapple.github.com/track/", 
+  "info": {
+    "Author:": "Lucas Sinclair", 
+    "Bug Tracker:": "https://github.com/xapple/track/issues", 
+    "Categories": {
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Home Page:": "http://xapple.github.com/track/", 
+    "License:": "GNU General Public License 3.0", 
+    "Package Index Owner:": "xapple"
+  }, 
+  "license": "", 
+  "longdescription": "Python package for reading and writing genomic data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "20f7c6409c46f524a573e3320ac66c7a", 
+  "source_uri": "https://pypi.python.org/packages/source/t/track/track-1.2.0.tar.gz"
+}

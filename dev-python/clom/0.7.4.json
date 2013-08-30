@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The easiest way to use the command line with Python. Command Line Object Mapper. A library for building POSIX command line arguments, commands, and parameters. Very useful for Fabric tasks.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://clom.rtfd.org", 
+  "info": {
+    "Author:": "Mike Thornton", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "System Shells"
+      ]
+    }, 
+    "Download URL:": "http://github.com/six8/python-clom", 
+    "Home Page:": "http://clom.rtfd.org", 
+    "Keywords:": "command line,fabric,bash,shell", 
+    "License:": "MIT", 
+    "Package Index Owner:": "mthorn"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "The easiest way to use the command line with Python. Command Line Object Mapper. A library for building POSIX command line arguments, commands, and parameters. Very useful for Fabric tasks.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "de3fda604a4311974b86e0d57c84428d", 
+  "source_uri": "http://github.com/six8/python-clom"
+}

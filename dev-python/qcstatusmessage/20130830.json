@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI Middleware for displaying status messages", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://quantumcore.net", 
+  "info": {
+    "Author:": "Christian Scholz", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://quantumcore.net", 
+    "Keywords:": "statusmessage quantumcore wsgi middleware web framework", 
+    "License:": "BSD License, http://quantumcore.org/license.html", 
+    "Package Index Owner:": "mrtopf"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI Middleware for displaying status messages", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2c796021b8f1130894caa38e76c37d5d", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qc.statusmessage/qc.statusmessage-1.0b3.tar.gz"
+}

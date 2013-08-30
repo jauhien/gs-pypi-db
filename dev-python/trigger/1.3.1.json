@@ -1,0 +1,66 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trigger is a framework and suite of tools for configuring network devices", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/aol/trigger", 
+  "info": {
+    "Author:": "Jathan McCollum", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Environment": [
+        "Console", 
+        "Curses"
+      ], 
+      "Framework": [
+        "Twisted"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//trigger", 
+    "Home Page:": "https://github.com/aol/trigger", 
+    "Keywords:": "Configuration Management,IANA,IEEE,IP,IP Address,IPv4,IPv6,Firewall,Network Automation,Networking,Network Engineering,Network Configuration,Network Security,Router,Systems Administration,Security,Switch", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jathanism"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Trigger is a framework and suite of tools for configuring network devices", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c2c4f1c4a0b2b51881eaa4c26e93dc4", 
+  "source_uri": "https://pypi.python.org/packages/source/t/trigger/trigger-1.3.1.tar.gz"
+}

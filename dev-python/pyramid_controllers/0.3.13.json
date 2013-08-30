@@ -1,0 +1,64 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pyramid plugin that provides de-centralied hierarchical object dispatch.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cadithealth/pyramid_controllers", 
+  "info": {
+    "Author:": "Philip J Grabner, Cadit Health Inc", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Application Frameworks"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cadithealth/pyramid_controllers", 
+    "Keywords:": "web wsgi pyramid bfg pylons turbogears controller handler object-dispatch request-dispatch", 
+    "License:": "MIT (http://opensource.org/licenses/MIT)", 
+    "Package Index Owner:": "grabner"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "A pyramid plugin that provides de-centralied hierarchical object dispatch.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fdc201e375bf778a99e15aba6f1378a8", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_controllers/pyramid_controllers-0.3.13.tar.gz"
+}

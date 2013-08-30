@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simulate light propagation in multilayer thin andor thick films using the fresnel equations and transfer matrix method.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/tmm", 
+  "info": {
+    "Author:": "Steven Byrnes", 
+    "Categories": {
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/tmm", 
+    "Keywords:": "optics,fresnel,reflection,absorption,photovoltaics,ellipsometry,transfer matrix method", 
+    "License:": "MIT", 
+    "Package Index Owner:": "sbyrnes321"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simulate light propagation in multilayer thin andor thick films using the fresnel equations and transfer matrix method.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ecff168b1c66f1c6b8e40f7e305a89b2", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tmm/tmm-0.1.1.tar.gz"
+}

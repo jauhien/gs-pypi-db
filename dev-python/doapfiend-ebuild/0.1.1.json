@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Doapfiend plugin. Create Gentoo Linux ebuild from DOAP.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.doapspace.org/doapfiend/wiki/DfEbuild", 
+  "info": {
+    "Author:": "Rob Cakebread", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://trac.doapspace.org/doapfiend/wiki/DfEbuild", 
+    "Keywords:": "doapfiend.plugin doap rdf ebuild gentoo doapfiend", 
+    "License:": "BSD-2", 
+    "Package Index Owner:": "pythonhead"
+  }, 
+  "license": "", 
+  "longdescription": "Doapfiend plugin. Create Gentoo Linux ebuild from DOAP.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "390db5128009639da8a9319bd747e208", 
+  "source_uri": "https://pypi.python.org/packages/source/d/doapfiend-ebuild/doapfiend-ebuild-0.1.1.tar.gz"
+}

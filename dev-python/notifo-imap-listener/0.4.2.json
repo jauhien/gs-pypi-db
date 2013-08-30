@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Listens for incoming mail and forwards it to notifo.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/vrillusions/notifo-imap-listener", 
+  "info": {
+    "Author:": "Todd Eddy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet"
+      ]
+    }, 
+    "Home Page:": "https://github.com/vrillusions/notifo-imap-listener", 
+    "Package Index Owner:": "vrillusions"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Listens for incoming mail and forwards it to notifo.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "97ff8b5bdf62b0a215e1cee9ce7f0b56", 
+  "source_uri": "https://pypi.python.org/packages/source/n/notifo-imap-listener/notifo-imap-listener-0.4.2.tar.gz"
+}

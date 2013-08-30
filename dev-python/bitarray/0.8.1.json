@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "efficient arrays of booleans -- C extension", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/ilanschnell/bitarray", 
+  "info": {
+    "Author:": "Ilan Schnell", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/ilanschnell/bitarray", 
+    "License:": "PSF", 
+    "Package Index Owner:": "ilanschnell"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "efficient arrays of booleans -- C extension", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3825184f54f4d93508a28031b4c65d3b", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bitarray/bitarray-0.8.1.tar.gz"
+}

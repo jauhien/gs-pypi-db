@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The official Python client for Yammers API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/yammer/yam-python", 
+  "info": {
+    "Author:": "Yammer", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//yampy", 
+    "Home Page:": "http://github.com/yammer/yam-python", 
+    "License:": "Apache", 
+    "Package Index Owner:": "yammer"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "The official Python client for Yammers API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "37be5336acdce8081388898c2fef7419", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yampy/yampy-1.0.tar.gz"
+}

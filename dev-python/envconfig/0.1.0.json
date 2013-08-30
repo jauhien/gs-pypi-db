@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Parse config options from the OS environment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dbader/envconfig", 
+  "info": {
+    "Author:": "Daniel Bader", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Download URL:": "https://github.com/dbader/envconfig/tarball/0.1.0", 
+    "Home Page:": "https://github.com/dbader/envconfig", 
+    "Keywords:": "config,environment,12factor", 
+    "Package Index Owner:": "dbader"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Parse config options from the OS environment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd72a7366ba93840ee0e9262d90b95c8", 
+  "source_uri": "https://github.com/dbader/envconfig/tarball/0.1.0"
+}

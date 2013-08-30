@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A utility for automating multi-host, multi-environment software builds and deployments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://projects.gocept.com/projects/batou/", 
+  "info": {
+    "Author:": "Christian Theune <ct@gocept.com>", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//batou", 
+    "Home Page:": "https://projects.gocept.com/projects/batou/", 
+    "Keywords:": "deployment", 
+    "License:": "BSD (2-clause)", 
+    "Package Index Maintainer:": "zagy", 
+    "Package Index Owner:": "zagy, ckauhaus, ctheune"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A utility for automating multi-host, multi-environment software builds and deployments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e59fd8e58b7afd9ffd351c95fbd1a24f", 
+  "source_uri": "https://pypi.python.org/packages/source/b/batou/batou-1.0b9.zip"
+}

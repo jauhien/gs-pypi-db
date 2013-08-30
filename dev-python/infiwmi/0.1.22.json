@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "monkeypatched fork of comptypes to support faster WMI access", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.infinidat.com", 
+  "info": {
+    "Author:": "Arnon Yaari", 
+    "Categories": {
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.infinidat.com", 
+    "License:": "PSF", 
+    "Package Index Owner:": "infinidat, guyr"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "monkeypatched fork of comptypes to support faster WMI access", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5965c4e59f0402ef846d3d5dbec9b62a", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infi.wmi/infi.wmi-0.1.22.tar.gz"
+}

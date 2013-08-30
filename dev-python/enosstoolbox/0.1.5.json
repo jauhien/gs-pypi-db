@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Utilities for analying and debugging enoss environments.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "git@github.com:zenoss/zenoss.toolbox.git", 
+  "info": {
+    "Author:": "Zenoss, Inc.", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "git@github.com:zenoss/zenoss.toolbox.git", 
+    "License:": "Proprietary", 
+    "Package Index Owner:": "iancmcc"
+  }, 
+  "license": "", 
+  "longdescription": "Utilities for analying and debugging enoss environments.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dce29f172380173f0b88d38092365bae", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zenoss.toolbox/zenoss.toolbox-0.1.5.tar.gz"
+}

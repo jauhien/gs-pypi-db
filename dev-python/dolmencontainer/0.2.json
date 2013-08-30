@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dolmen containers components", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "The Dolmen team", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Keywords:": "Dolmen container implementation,using ZODB BTrees.", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "trollfot", 
+    "Platform:": "Any"
+  }, 
+  "license": "", 
+  "longdescription": "Dolmen containers components", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b10935c33038dd014c22eb08e8ea5be", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dolmen.container/dolmen.container-0.2.tar.gz"
+}

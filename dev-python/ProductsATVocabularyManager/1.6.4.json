@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Vocabulary library Plone. Central, Pluggable, TTW, with IMS VDEX Support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/Products.ATVocabularyManager", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/Products.ATVocabularyManager", 
+    "Keywords:": "Plone Vocabulary Manager Zope IMS VDEX Tree Taxonomy Onthology", 
+    "Package Index Maintainer:": "kiorky", 
+    "Package Index Owner:": "kiorky, toutpt, ajung, jensens, frisi, rnix, jfroche, hpeteragitator, jcbrand"
+  }, 
+  "license": "", 
+  "longdescription": "Vocabulary library Plone. Central, Pluggable, TTW, with IMS VDEX Support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6156e0cbcb88affefa522384e535c12f", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.ATVocabularyManager/Products.ATVocabularyManager-1.6.4.zip"
+}

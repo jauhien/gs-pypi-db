@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Build standalone executables for Windows", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.py2exe.org/", 
+  "info": {
+    "Author:": "Jimmy Retzlaff", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/project/showfiles.php?group_id=15583", 
+    "Home Page:": "http://www.py2exe.org/", 
+    "License:": "MIT/X11, MPL 1.1", 
+    "Package Index Owner:": "theller, jretz", 
+    "Platform:": "Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Build standalone executables for Windows", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "http://sourceforge.net/project/showfiles.php?group_id=15583"
+}

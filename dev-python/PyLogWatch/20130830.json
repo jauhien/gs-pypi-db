@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python utility to parse log files and send them to a Sentry server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/PyLogWatch/", 
+  "info": {
+    "Author:": "E. Filipov, MTR Design", 
+    "Home Page:": "http://pypi.python.org/pypi/PyLogWatch/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "mtrdesign"
+  }, 
+  "license": "", 
+  "longdescription": "Python utility to parse log files and send them to a Sentry server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b5d582971f66b50ae05d69625dc71d8d", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyLogWatch/PyLogWatch-0.1.9-alpha2.tar.gz"
+}

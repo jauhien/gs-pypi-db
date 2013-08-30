@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Unproxy WSGI middleware", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/kwi/wsgiunproxy/", 
+  "info": {
+    "Author:": "S\u00f8ren L\u00f8vborg", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/kwi/wsgiunproxy/", 
+    "License:": "Public Domain", 
+    "Package Index Owner:": "kwi.dk"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Unproxy WSGI middleware", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a887bd14825c3ae74f04a8cca319c437", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WsgiUnproxy/WsgiUnproxy-1.0.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Library to implement a well-behaved Unix daemon process.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/python-daemon/", 
+  "info": {
+    "Author:": "Ben Finney", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/python-daemon/", 
+    "Keywords:": "daemon,fork,unix", 
+    "License:": "PSF-2+", 
+    "Package Index Owner:": "bignose"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Library to implement a well-behaved Unix daemon process.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f6cd41473c2e201021a0aeef395b2b1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-daemon/python-daemon-1.5.5.tar.gz"
+}

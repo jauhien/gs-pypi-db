@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "simple password manager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/natano/passta/", 
+  "info": {
+    "Author:": "Martin Natano", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/natano/passta/", 
+    "Keywords:": "Password,Safe,Simple,GPG", 
+    "License:": "ISC", 
+    "Package Index Owner:": "natano"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "simple password manager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "133225ed3627b686fce5bc27c9c31c07", 
+  "source_uri": "https://pypi.python.org/packages/source/p/passta/passta-1.1.tar.gz"
+}

@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates a demo Babble instant messaging setup for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/", 
+  "info": {
+    "Author:": "JC Brand", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/", 
+    "Keywords:": "babble messaging demo plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jcbrand, thomasw, pilz, goibhniu, do3cc"
+  }, 
+  "license": "", 
+  "longdescription": "Creates a demo Babble instant messaging setup for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cbf40b56ade187c33be327fc149d44be", 
+  "source_uri": "https://pypi.python.org/packages/source/b/babble.demo/babble.demo-0.2.tar.gz"
+}

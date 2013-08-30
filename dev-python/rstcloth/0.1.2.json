@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple Python API for generating RestructuredText.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cyborginstitute.org/projects/rstcloth", 
+  "info": {
+    "Author:": "Sam Kleinman", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://cyborginstitute.org/projects/rstcloth", 
+    "License:": "Apache", 
+    "Package Index Owner:": "tychoish"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A simple Python API for generating RestructuredText.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ed5877e702ff1015d494791dd61ef0ac", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rstcloth/rstcloth-0.1.2.tar.gz"
+}

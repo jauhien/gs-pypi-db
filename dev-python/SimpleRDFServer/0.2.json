@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Serves RDF (RSS 1.0) indexes of directories over HTTP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://winningham.googlepages.com/simplerdfserver", 
+  "info": {
+    "Author:": "Thomas", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "Home Page:": "http://winningham.googlepages.com/simplerdfserver", 
+    "Keywords:": "rdf http index file directory server rss triples namespace semantic web", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "antipasto"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Serves RDF (RSS 1.0) indexes of directories over HTTP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "29402baa0bc7d934264ea020b2eee6fc", 
+  "source_uri": "https://pypi.python.org/packages/source/S/SimpleRDFServer/SimpleRDFServer-0.2.tar.gz"
+}

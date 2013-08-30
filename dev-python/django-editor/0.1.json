@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows pluggable WYSIWYG editors in django admin without hard dependencies", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/littlepea/django-editor", 
+  "info": {
+    "Author:": "Evgeny Demchenko", 
+    "Home Page:": "https://github.com/littlepea/django-editor", 
+    "License:": "BSD", 
+    "Package Index Owner:": "littlepea"
+  }, 
+  "license": "", 
+  "longdescription": "Allows pluggable WYSIWYG editors in django admin without hard dependencies", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "420f2d17168bc3f799e827d120b62f2a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-editor/django-editor-0.1.tar.gz"
+}

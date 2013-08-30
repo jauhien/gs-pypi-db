@@ -1,0 +1,67 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Buildout recipe installing Grape RNA-Seq pipelines", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://big.crg.cat/services/grape", 
+  "info": {
+    "Author:": "Maik R\u00f6der", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Installation/Setup"
+      ]
+    }, 
+    "Download URL:": "http://genome.crg.es/~mroder/grape/grape.recipe.pipeline-1.1.7.tar.gz", 
+    "Home Page:": "http://big.crg.cat/services/grape", 
+    "Keywords:": "RNA-Seq pipeline ngs transcriptome bioinformatics", 
+    "License:": "GPL", 
+    "Package Index Owner:": "maikroeder", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A Buildout recipe installing Grape RNA-Seq pipelines", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0c0295e79cd933bff7122f0980cfff1c", 
+  "source_uri": "http://genome.crg.es/~mroder/grape/grape.recipe.pipeline-1.1.7.tar.gz"
+}

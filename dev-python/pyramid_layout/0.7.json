@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pyramid add-on for facilitating UI layout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://docs.pylonsproject.org", 
+  "info": {
+    "Author:": "Paul Everitt, Chris Rossi", 
+    "Categories": {
+      "Framework": [
+        "Pyramid"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "http://docs.pylonsproject.org", 
+    "Keywords:": "wsgi pylons web pyramid", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "chrisrossi"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "Pyramid add-on for facilitating UI layout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b14259a32c64d8be137eea02f80b1513", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyramid_layout/pyramid_layout-0.7.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Skype API bridge for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/tokibito/django-skypehub/", 
+  "info": {
+    "Author:": "Shinya Okano", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/tokibito/django-skypehub/", 
+    "Keywords:": "django skype", 
+    "License:": "BSD", 
+    "Package Index Owner:": "tokibito"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Skype API bridge for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a954ca28033ff43721bfca5c559bb79d", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-skypehub/django-skypehub-0.3.0.tar.gz"
+}

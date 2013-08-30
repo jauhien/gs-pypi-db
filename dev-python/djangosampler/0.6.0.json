@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Samples a percentage of SQL queries and groups them together for easy viewing", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/colinhowe/djangosampler", 
+  "info": {
+    "Author:": "Colin Howe", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/colinhowe/djangosampler", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "colinhowe"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Samples a percentage of SQL queries and groups them together for easy viewing", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "808d04919ef6bd283204bf66065c9247", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djangosampler/djangosampler-0.6.0.tar.gz"
+}

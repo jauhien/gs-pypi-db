@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python utilities to work with SemVer-compliant version numbers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/antonmoiseev/pysemver", 
+  "info": {
+    "Author:": "Anton Moiseev", 
+    "Home Page:": "https://github.com/antonmoiseev/pysemver", 
+    "License:": "MIT", 
+    "Package Index Owner:": "amoiseev"
+  }, 
+  "license": "", 
+  "longdescription": "Python utilities to work with SemVer-compliant version numbers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5f9f8bed9a809d1d41768ed6a9746880", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysemver/pysemver-0.5.0.tar.gz"
+}

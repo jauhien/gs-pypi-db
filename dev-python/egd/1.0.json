@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client to get random numbers from an EGD (entropy gathering daemon) source.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://deron.meranda.us/python/egd/", 
+  "info": {
+    "Author:": "Deron Meranda", 
+    "Categories": {
+      "Development Status": [
+        "6 - Mature"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://deron.meranda.us/python/egd/dist/egd-1.0.tar.gz", 
+    "Home Page:": "http://deron.meranda.us/python/egd/", 
+    "Keywords:": "egd prngd random", 
+    "Maintainer:": "Deron Meranda", 
+    "Package Index Owner:": "dmeranda"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Client to get random numbers from an EGD (entropy gathering daemon) source.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d5a62cceaf916a944b1a0b7f28c16e0a", 
+  "source_uri": "http://deron.meranda.us/python/egd/dist/egd-1.0.tar.gz"
+}

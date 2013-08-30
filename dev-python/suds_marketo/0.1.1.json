@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper of the Marketo SOAP Api using SUDS.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/PunchTab/suds-marketo", 
+  "info": {
+    "Author:": "Arthur Rio", 
+    "Home Page:": "https://github.com/PunchTab/suds-marketo", 
+    "License:": "BSD licence, see LICENCE", 
+    "Package Index Owner:": "arthurio"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper of the Marketo SOAP Api using SUDS.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "488d55690339d37864d4a8211220d930", 
+  "source_uri": "https://pypi.python.org/packages/source/s/suds_marketo/suds_marketo-0.1.1.tar.gz"
+}

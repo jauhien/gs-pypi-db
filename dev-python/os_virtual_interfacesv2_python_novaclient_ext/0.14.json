@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adds Virtual Interfaces support to python-novaclient", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rackspace/os_virtual_interfacesv2_python_novaclient_ext", 
+  "info": {
+    "Author:": "Rackspace", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/rackspace/os_virtual_interfacesv2_python_novaclient_ext", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "cerberus98"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Adds Virtual Interfaces support to python-novaclient", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "341e6ee87175724dcf355fa7d1f5d998", 
+  "source_uri": "https://pypi.python.org/packages/source/o/os_virtual_interfacesv2_python_novaclient_ext/os_virtual_interfacesv2_python_novaclient_ext-0.14.tar.gz"
+}

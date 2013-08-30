@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A fabric library to bootstrap servers and configuration management software.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bootmachine.readthedocs.org/", 
+  "info": {
+    "Author:": "Thomas Schreiber", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bootmachine.readthedocs.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rizumu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A fabric library to bootstrap servers and configuration management software.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5e95ee036c1abc1be30ef2cb9bcdd230", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bootmachine/bootmachine-0.6.0.tar.gz"
+}

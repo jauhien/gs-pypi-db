@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a command-line script for gettingupdating source dirs from a config file giving SCC URLs", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/trentm/sources", 
+  "info": {
+    "Author:": "Trent Mick", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/trentm/sources", 
+    "Keywords:": "sources scc git hg subversion svn", 
+    "License:": "MIT", 
+    "Package Index Owner:": "trentm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "a command-line script for gettingupdating source dirs from a config file giving SCC URLs", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d80a1c742a7a6509f53316093441e3bf", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sources/sources-1.1.0.zip"
+}

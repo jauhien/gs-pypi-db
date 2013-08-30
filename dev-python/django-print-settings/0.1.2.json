@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "print_settings management command for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/msabramo/django-print-settings", 
+  "info": {
+    "Author:": "Marc Abramowitz", 
+    "Bug Tracker:": "https://github.com/msabramo/django-print-settings/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://github.com/msabramo/django-print-settings", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "msabramo", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "print_settings management command for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7c5f41f30eb73f019a4c13758ee69b84", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-print-settings/django-print-settings-0.1.2.tar.gz"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple Directed Acyclic Graph whith Cicle Detector and TopoloGical sorter utilities.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/moisespsena/py_sdag2", 
+  "info": {
+    "Author:": "Moises P. Sena", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "https://github.com/moisespsena/py_sdag2", 
+    "Keywords:": "utils utilities directed graph digraph topological simple dag", 
+    "License:": "BSD", 
+    "Package Index Owner:": "moisespsena"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple Directed Acyclic Graph whith Cicle Detector and TopoloGical sorter utilities.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d1a3884311e139cd9c3eb1bc634cf92", 
+  "source_uri": "https://pypi.python.org/packages/source/p/py_sdag2/py_sdag2-1.0.tar.gz"
+}

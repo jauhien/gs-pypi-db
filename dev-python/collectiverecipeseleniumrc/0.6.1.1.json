@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for installing the Selenium RC distribution.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/buildout/collective.recipe.seleniumrc", 
+  "info": {
+    "Author:": "Jordan Baker", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Build Tools"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/buildout/collective.recipe.seleniumrc", 
+    "Keywords:": "buildout recipe", 
+    "License:": "ZPL 2.1", 
+    "Package Index Maintainer:": "tlotze, tseaver", 
+    "Package Index Owner:": "hexsprite, tlotze, tseaver, gotcha"
+  }, 
+  "license": "", 
+  "longdescription": "c.buildout recipe for installing the Selenium RC distribution.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4a2dbde27c94f5efe93efdaa37597a96", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.seleniumrc/collective.recipe.seleniumrc-0.6.1.1.tar.gz"
+}

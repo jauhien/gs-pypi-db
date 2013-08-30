@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django template filter to protect email addresses from     crawlers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/morninj/django-email-obfuscator", 
+  "info": {
+    "Author:": "Joseph Mornin", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/morninj/django-email-obfuscator", 
+    "License:": "MIT", 
+    "Package Index Owner:": "morninj"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A Django template filter to protect email addresses from     crawlers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9c94c5d3f46c1a8977d337f39b67722a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-email-obfuscator/django-email-obfuscator-0.1.1.tar.gz"
+}

@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "AutoCode is a flexible tool to autogenerate a model from an existing database.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/sqlautocode/", 
+  "info": {
+    "Author:": "Simon Pamies", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/sqlautocode/", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "percious", 
+    "Package Index Owner:": "spamsch, percious"
+  }, 
+  "license": "", 
+  "longdescription": "AutoCode is a flexible tool to autogenerate a model from an existing database.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "eb991930cd502d826cf0f4109fedcd5d", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sqlautocode/sqlautocode-0.7.tar.gz"
+}

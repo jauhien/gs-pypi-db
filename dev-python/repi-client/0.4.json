@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RePi client, a Redis PubSub interface for PyPi.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/vortec/repi-client", 
+  "info": {
+    "Author:": "Fabian Kochem", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Software Distribution"
+      ]
+    }, 
+    "Home Page:": "http://github.com/vortec/repi-client", 
+    "License:": "MIT", 
+    "Package Index Owner:": "vortec"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "RePi client, a Redis PubSub interface for PyPi.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cf57c28023ff8d6809ffc3c14fdd0093", 
+  "source_uri": "https://pypi.python.org/packages/source/r/repi-client/repi-client-0.4.tar.gz"
+}

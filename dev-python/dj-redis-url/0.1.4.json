@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Use Redis URLs in your Django Application.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/dstufft/dj-redis-url", 
+  "info": {
+    "Author:": "Donald Stufft", 
+    "Home Page:": "https://github.com/dstufft/dj-redis-url", 
+    "Package Index Owner:": "dstufft"
+  }, 
+  "license": "", 
+  "longdescription": "Use Redis URLs in your Django Application.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c1343f6080ffa209d06ee89ab831dd57", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dj-redis-url/dj-redis-url-0.1.4.tar.gz"
+}

@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin for collective.hostout that starts and stops supervisor    during deployment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://svn.plone.org/svn/collective/hostout.supervisor", 
+  "info": {
+    "Author:": "Dylan Jay", 
+    "Home Page:": "https://svn.plone.org/svn/collective/hostout.supervisor", 
+    "Keywords:": "buildout,fabric,deploy,deployment,server,plone,django,host,hosting", 
+    "License:": "GPL", 
+    "Package Index Owner:": "djay"
+  }, 
+  "license": "", 
+  "longdescription": "Plugin for collective.hostout that starts and stops supervisor    during deployment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7f72da9cd1df3b271ccf8a59ae783e00", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hostout.supervisor/hostout.supervisor-1.0a4.zip"
+}

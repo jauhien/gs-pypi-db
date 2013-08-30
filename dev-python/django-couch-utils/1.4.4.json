@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Handy tools and helpers for django projects, powered by CouchDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/angry_elf/django-couch-utils/", 
+  "info": {
+    "Author:": "Alexey Loshkarev", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-couch-utils", 
+    "Home Page:": "https://bitbucket.org/angry_elf/django-couch-utils/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "alexey_loshkarev"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Handy tools and helpers for django projects, powered by CouchDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3c6d96d9df27c5f412da244f1da093d0", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-couch-utils/django-couch-utils-1.4.4.tar.bz2"
+}

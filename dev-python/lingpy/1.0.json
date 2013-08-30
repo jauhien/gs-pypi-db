@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python library for automatic tasks in historical linguistics", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://lingulist.de/lingpy/", 
+  "info": {
+    "Author:": "Johann-Mattis List", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 (GPLv3)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//lingpy", 
+    "Home Page:": "http://lingulist.de/lingpy/", 
+    "Keywords:": "historical linguistics,sequence alignment,computational linguistics", 
+    "License:": "GpLv3", 
+    "Package Index Owner:": "LinguList", 
+    "Platform:": "unix\n, linux"
+  }, 
+  "license": "GNU General Public License v3 (GPLv3)", 
+  "longdescription": "Python library for automatic tasks in historical linguistics", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71a3ee41c907d38cb1f4d6fc7489e4e8", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lingpy/lingpy-1.0.1-py3.tar.gz"
+}

@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MessagePack (de)serialier.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://msgpack.org/", 
+  "info": {
+    "Author:": "INADA Naoki", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//msgpack-python", 
+    "Download URL:": "http://pypi.python.org/pypi/msgpack/", 
+    "Home Page:": "http://msgpack.org/", 
+    "Package Index Owner:": "naoki"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "MessagePack (de)serialier.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "10dec96c90992b0f6e38bdf0cc5a8e79", 
+  "source_uri": "http://pypi.python.org/pypi/msgpack/"
+}

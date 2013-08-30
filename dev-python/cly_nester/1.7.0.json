@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple printer of nested lists,and a simple function to transform time string,for example,from 258 or 2-58 to 2.58,and functions to format time and make transform between time_string and seconds and find closest time form searched one in a csv file", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/", 
+  "info": {
+    "Author:": "chenliyu", 
+    "Home Page:": "http://pypi.python.org/", 
+    "Package Index Owner:": "chenliyu"
+  }, 
+  "license": "", 
+  "longdescription": "A simple printer of nested lists,and a simple function to transform time string,for example,from 258 or 2-58 to 2.58,and functions to format time and make transform between time_string and seconds and find closest time form searched one in a csv file", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dd848d4202585db5001ad298873a2ae0", 
+  "source_uri": "https://pypi.python.org/packages/source/c/cly_nester/cly_nester-1.7.0.tar.gz"
+}

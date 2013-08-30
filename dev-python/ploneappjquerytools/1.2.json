@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "jQuery Tools integration for Plone plus overlay and AJAX form helpers.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/plone.app.jquerytools", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/plone.app.jquerytools", 
+    "Keywords:": "Plone jQuery overlays AJAX", 
+    "License:": "GPL version 2", 
+    "Package Index Maintainer:": "garbas", 
+    "Package Index Owner:": "smcmahon, davisagli, esteele, hannosch, vangheem, do3cc, garbas"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "jQuery Tools integration for Plone plus overlay and AJAX form helpers.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f90ccdd788abdd4aee9c689c492990a7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.app.jquerytools/plone.app.jquerytools-1.2.zip"
+}

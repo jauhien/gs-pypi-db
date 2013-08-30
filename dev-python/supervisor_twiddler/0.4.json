@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "supervisor_twiddler RPC extension for Supervisor", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/mnaberez/supervisor_twiddler", 
+  "info": {
+    "Author:": "Mike Naberezny", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "http://github.com/mnaberez/supervisor_twiddler", 
+    "License:": "License :: OSI Approved :: BSD License", 
+    "Package Index Owner:": "mnaberez"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "supervisor_twiddler RPC extension for Supervisor", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "02278cb099973cd0d8045ab97005c580", 
+  "source_uri": "https://pypi.python.org/packages/source/s/supervisor_twiddler/supervisor_twiddler-0.4.tar.gz"
+}

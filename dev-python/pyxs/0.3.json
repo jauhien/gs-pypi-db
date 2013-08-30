@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pure Python bindings to XenStore.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Sergei Lebedev", 
+    "Keywords:": "xen,xenstore,virtualization", 
+    "Package Index Owner:": "Sergei.Lebedev", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Pure Python bindings to XenStore.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "03993ea976d507f3f9c51ae66f862dba", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyxs/pyxs-0.3.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI HTTP Server for UNIX", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://gunicorn.org", 
+  "info": {
+    "Author:": "Benoit Chesneau", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://gunicorn.org", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "davisp", 
+    "Package Index Owner:": "benoitc"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "WSGI HTTP Server for UNIX", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c7138b9ac7515a42066922d2b6120fbe", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gunicorn/gunicorn-18.0.tar.gz"
+}

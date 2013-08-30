@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A RADIUS authentication backend for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://robgolding63.github.com/django-radius", 
+  "info": {
+    "Author:": "Rob Golding", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration", 
+        "Authentication/Directory"
+      ]
+    }, 
+    "Download URL:": "http://github.com/robgolding63/django-radius/downloads", 
+    "Home Page:": "http://robgolding63.github.com/django-radius", 
+    "License:": "BSD", 
+    "Package Index Owner:": "robgolding"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A RADIUS authentication backend for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c93847d6f4ea5a02e38dae497610f0bd", 
+  "source_uri": "http://github.com/robgolding63/django-radius/downloads"
+}

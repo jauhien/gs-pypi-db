@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A script to install paste deployment configurations as windows services.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Tibor Arpas", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ]
+    }, 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "tib00r"
+  }, 
+  "license": "", 
+  "longdescription": "A script to install paste deployment configurations as windows services.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "da4fc1862e6c0b15241d6efa1718b6f0", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgisvc/wsgisvc-0.8.2.0.zip"
+}

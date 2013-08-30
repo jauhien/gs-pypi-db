@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Telnet server for UTF-8 and cp437 terminals.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://x84.rtfd.org/", 
+  "info": {
+    "Author:": "Jeff Quast", 
+    "Bug Tracker:": "https://github.com/jquast/x84/issues", 
+    "Categories": {
+      "Environment": [
+        "Console", 
+        "Curses"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Terminals", 
+        "Telnet"
+      ]
+    }, 
+    "Home Page:": "http://x84.rtfd.org/", 
+    "Keywords:": "telnet,terminal,server,ansi,bbs,mud,curses,utf8,cp437", 
+    "License:": "ISC", 
+    "Package Index Maintainer:": "tehmaze", 
+    "Package Index Owner:": "jquast"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "Telnet server for UTF-8 and cp437 terminals.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8b1be90e1fb2b17d7abac3ed84f974c0", 
+  "source_uri": "https://pypi.python.org/packages/source/x/x84/x84-1.0.8.tar.gz"
+}

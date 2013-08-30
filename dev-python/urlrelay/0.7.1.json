@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple RESTful WSGI URL dispatcher.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/lcrees/urlrelay/", 
+  "info": {
+    "Author:": "L. C. Rees", 
+    "Bug Tracker:": "https://bitbucket.org/lcrees/urlrelay/issues", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Middleware"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/lcrees/urlrelay/", 
+    "Keywords:": "WSGI URL dispatch relay route middleware web HTTP", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lcrees"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Simple RESTful WSGI URL dispatcher.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "43dd0a468eb511463b37051a0adcd1bc", 
+  "source_uri": "https://pypi.python.org/packages/source/u/urlrelay/urlrelay-0.7.1.tar.bz2"
+}

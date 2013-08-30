@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Transcode video files to DPG format suitable for Nintendo DS", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://theli.is-a-geek.org/blog/static/dpgconv", 
+  "info": {
+    "Author:": "Anton Romanov", 
+    "Home Page:": "http://theli.is-a-geek.org/blog/static/dpgconv", 
+    "License:": "GNU General Public License v2.0", 
+    "Package Index Owner:": "Artem.Baguinski"
+  }, 
+  "license": "", 
+  "longdescription": "Transcode video files to DPG format suitable for Nintendo DS", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a0462e326d69d9beabde60ed5a4e9b2", 
+  "source_uri": "https://pypi.python.org/packages/source/d/dpgconv/dpgconv-10.1.tar.gz"
+}

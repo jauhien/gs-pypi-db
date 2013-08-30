@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A commenting system for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://iqpp.de", 
+  "info": {
+    "Author:": "Kai Diefenbach", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://iqpp.de", 
+    "License:": "GPL", 
+    "Package Index Owner:": "diefenbach"
+  }, 
+  "license": "", 
+  "longdescription": "A commenting system for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "44ad4ecad6485068ad26bab7de22dee5", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iqpp.plone.commenting/iqpp.plone.commenting-0.5.beta.2.tar.gz"
+}

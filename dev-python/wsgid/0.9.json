@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI Server with SSL, code reloading.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/aafshar/wsgid-main", 
+  "info": {
+    "Author:": "Ali Afshar", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Server"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/aafshar/wsgid-main", 
+    "Package Index Owner:": "aafshar"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI Server with SSL, code reloading.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bfcf883d2d6ccc784244b5bf4e4dd10b", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wsgid/wsgid-0.9.tar.gz"
+}

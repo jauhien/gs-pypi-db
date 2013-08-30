@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "The command-line client for the djee.se service", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://djeese.com/", 
+  "info": {
+    "Author:": "The djee.se Team", 
+    "Home Page:": "http://djeese.com/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "ojii", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "", 
+  "longdescription": "The command-line client for the djee.se service", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7a0854452206fa1ffaff4cc1530c3024", 
+  "source_uri": "https://pypi.python.org/packages/source/d/djeese/djeese-0.6.1.tar.gz"
+}

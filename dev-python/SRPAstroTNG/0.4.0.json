@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools for the TNG telescope under SRP", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.me.oa-brera.inaf.it/utenti/covino/SRPAstro.TNG.pdf", 
+  "info": {
+    "Author:": "Stefano Covino", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "Freely Distributable"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//SRPAstro.TNG", 
+    "Download URL:": "http://www.me.oa-brera.inaf.it/utenti/covino/SRPAstro.TNG-0.4.0.tar.gz", 
+    "Home Page:": "http://www.me.oa-brera.inaf.it/utenti/covino/SRPAstro.TNG.pdf", 
+    "Package Index Owner:": "stefano.covino"
+  }, 
+  "license": "Freely Distributable", 
+  "longdescription": "Tools for the TNG telescope under SRP", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "980f7eeff5ba621bbc5eabfdf7a85dc4", 
+  "source_uri": "http://www.me.oa-brera.inaf.it/utenti/covino/SRPAstro.TNG-0.4.0.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "ChEMBLdb interface for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/kzfm/pychembldb", 
+  "info": {
+    "Author:": "Ohkawa Kazufumi", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Chemistry"
+      ]
+    }, 
+    "Home Page:": "http://github.com/kzfm/pychembldb", 
+    "Keywords:": "chemoinformatics cheminformatics", 
+    "License:": "MIT", 
+    "Package Index Owner:": "kzfm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "ChEMBLdb interface for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db2abfdd5daf436d04d0071db1b5c9f5", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pychembldb/pychembldb-0.2.1.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A flexible (pkg_resources) plugin-based script for creating den2 status bars.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/enimihil/dzenstatus", 
+  "info": {
+    "Author:": "Greg S.", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "X11 Applications"
+      ], 
+      "Intended Audience": [
+        "End Users/Desktop"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/enimihil/dzenstatus", 
+    "Keywords:": "status dzen dzen2 statusbar", 
+    "License:": "GPL", 
+    "Package Index Owner:": "enimihil"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "A flexible (pkg_resources) plugin-based script for creating den2 status bars.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "63a0d03120138015e644cbad44714439", 
+  "source_uri": "https://pypi.python.org/packages/source/D/DzenStatus/DzenStatus-0.1.4.tar.gz"
+}

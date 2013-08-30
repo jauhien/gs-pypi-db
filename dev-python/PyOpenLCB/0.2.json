@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of the OpenLCB model train control protocol in Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/AdmiralNemo/pyopenlcb", 
+  "info": {
+    "Author:": "Dustin C. Hatch", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/AdmiralNemo/pyopenlcb", 
+    "License:": "APACHE-2.0", 
+    "Package Index Owner:": "AdmiralNemo"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Implementation of the OpenLCB model train control protocol in Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "12a5da459677125d30d5330f445d3af9", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyOpenLCB/PyOpenLCB-0.2.tar.bz2"
+}

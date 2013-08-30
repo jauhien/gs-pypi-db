@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Computes goodness index for Python packages based on various empirical kwalitee factors", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pycheesecake.org/", 
+  "info": {
+    "Author:": "Grig Gheorghiu and Michal Kwiatkowski", 
+    "Home Page:": "http://pycheesecake.org/", 
+    "Keywords:": "cheesecake quality index kwalitee cheeseshop pypi", 
+    "License:": "PSF", 
+    "Package Index Owner:": "mk"
+  }, 
+  "license": "", 
+  "longdescription": "Computes goodness index for Python packages based on various empirical kwalitee factors", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f9e19123281f812e27674140bfb19b7e", 
+  "source_uri": "https://pypi.python.org/packages/source/C/Cheesecake/cheesecake-0.6.1.tar.gz"
+}

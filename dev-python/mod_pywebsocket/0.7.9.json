@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WebSocket extension for Apache HTTP Server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/pywebsocket/", 
+  "info": {
+    "Author:": "Yuzo Fujishima", 
+    "Home Page:": "http://code.google.com/p/pywebsocket/", 
+    "License:": "See COPYING", 
+    "Package Index Owner:": "sratcliffe"
+  }, 
+  "license": "", 
+  "longdescription": "WebSocket extension for Apache HTTP Server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "efe625c9febb96421a0366a085630f6d", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mod_pywebsocket/mod_pywebsocket-0.7.9.tar.gz"
+}

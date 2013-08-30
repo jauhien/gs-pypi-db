@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "buildout.locallib use egg-packages installed on site-packages folder.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/shimizukawa/buildout.locallib/", 
+  "info": {
+    "Author:": "Takayuki SHIMIZUKAWA", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/shimizukawa/buildout.locallib/", 
+    "Keywords:": "zc.buildout", 
+    "License:": "PSL", 
+    "Package Index Owner:": "shimizukawa"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "buildout.locallib use egg-packages installed on site-packages folder.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "af87673d00fee80eb69bb93b75696be4", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildout.locallib/buildout.locallib-0.3.1.tar.gz"
+}

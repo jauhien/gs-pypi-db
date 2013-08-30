@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Automatic Django database configuration on Heroku.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/rdegges/django-heroku-postgresify", 
+  "info": {
+    "Author:": "Randall Degges", 
+    "Home Page:": "https://github.com/rdegges/django-heroku-postgresify", 
+    "Keywords:": "django heroku cloud postgresql postgres db database awesome epic", 
+    "License:": "UNLICENSE", 
+    "Package Index Owner:": "rdegges"
+  }, 
+  "license": "", 
+  "longdescription": "Automatic Django database configuration on Heroku.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cdb306bc03fac7f4a4d1d6aa30615eab", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-heroku-postgresify/django-heroku-postgresify-0.3.tar.gz"
+}

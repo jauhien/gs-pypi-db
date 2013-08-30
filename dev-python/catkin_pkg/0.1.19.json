@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "catkin package library", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.ros.org/wiki/catkin_pkg", 
+  "info": {
+    "Author:": "Dirk Thomas", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pr.willowgarage.com/downloads/catkin_pkg/", 
+    "Home Page:": "http://www.ros.org/wiki/catkin_pkg", 
+    "Keywords:": "catkin,ROS", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wwoodall, ijt, dthomas, tfoote"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "catkin package library", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "150bd71d61ed3431482c1616a0f123fd", 
+  "source_uri": "http://pr.willowgarage.com/downloads/catkin_pkg/"
+}

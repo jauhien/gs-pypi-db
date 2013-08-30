@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Tools to make working with HMDA data easier.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/cfpb/hmda-tools", 
+  "info": {
+    "Author:": "Clinton Dreisbach and others", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "License": [
+        "Public Domain"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/cfpb/hmda-tools", 
+    "License:": "Public domain", 
+    "Package Index Owner:": "cndreisbach"
+  }, 
+  "license": "Public Domain", 
+  "longdescription": "Tools to make working with HMDA data easier.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "673b11783369b356d5fd20c2dd7ad967", 
+  "source_uri": "https://pypi.python.org/packages/source/h/hmda_tools/hmda_tools-0.1.4.tar.gz"
+}

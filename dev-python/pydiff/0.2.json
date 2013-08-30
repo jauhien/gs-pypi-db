@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Diffs two Python files at the bytecode level.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/myint/pydiff", 
+  "info": {
+    "Author:": "Steven Myint", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/myint/pydiff", 
+    "Keywords:": "diff,bytecode,python,whitespace,formatting", 
+    "License:": "Expat License", 
+    "Package Index Owner:": "myint"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Diffs two Python files at the bytecode level.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a273d806ba3c3c5a5271d4d9299337d1", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pydiff/pydiff-0.2.tar.gz"
+}

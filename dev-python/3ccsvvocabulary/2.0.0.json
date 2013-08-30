@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A package to create vocabularies based on CSV files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pypi.python.org/pypi/z3c.csvvocabulary", 
+  "info": {
+    "Author:": "Zope Community", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://pypi.python.org/pypi/z3c.csvvocabulary", 
+    "Keywords:": "zope3 vocabulary csv", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "srichter, J1m, philikon, ctheune, baijum, benji, ignas, chrism, projekt01, mgedmin, pcardune, ccomb, hathawsh, faassen, hannosch, chrisw, nadako, icemac, gary, roymath, tlotze, frisi, agroszer, menesis, davisagli"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A package to create vocabularies based on CSV files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8076b89fb5f2abe6816e2748ca4e6bc8", 
+  "source_uri": "https://pypi.python.org/packages/source/z/z3c.csvvocabulary/z3c.csvvocabulary-2.0.0.zip"
+}

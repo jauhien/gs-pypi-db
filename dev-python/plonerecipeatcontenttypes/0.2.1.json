@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "C Buildout recipe to generate an ATContentTypes configuration file in the etc folder of a ope instance", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dev.plone.org/collective/browser/buildout/plone.recipe.atcontenttypes", 
+  "info": {
+    "Author:": "Kevin Deldycke", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://dev.plone.org/collective/browser/buildout/plone.recipe.atcontenttypes", 
+    "Keywords:": "zope buildout ATContentTypes recipe plone ATContentTypes.configuration.zconf", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "frisi, kdeldycke, glenfant"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "C Buildout recipe to generate an ATContentTypes configuration file in the etc folder of a ope instance", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5ae053efcf09d2877b80515869b9b974", 
+  "source_uri": "https://pypi.python.org/packages/source/p/plone.recipe.atcontenttypes/plone.recipe.atcontenttypes-0.2.1.zip"
+}

@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python wrapper for GnuPG", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/isislovecruft/python-gnupg", 
+  "info": {
+    "Author:": "Isis Agora Lovecruft", 
+    "Bug Tracker:": "https://github.com/isislovecruft/python-gnupg/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//gnupg", 
+    "Download URL:": "https://github.com/isislovecruft/python-gnupg/archive/master.zip", 
+    "Home Page:": "https://github.com/isislovecruft/python-gnupg", 
+    "License:": "GPLv3+", 
+    "Package Index Owner:": "isislovecruft", 
+    "Platform:": "Linux,BSD,OSX,Windows"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "A Python wrapper for GnuPG", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "dc3a3952147798c2da8ca13cc0407076", 
+  "source_uri": "https://github.com/isislovecruft/python-gnupg/archive/master.zip"
+}

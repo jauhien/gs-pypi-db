@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simulation and map-making tools for the QUBIC experiment.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Pierre Chanial", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2", 
+        "Only"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Astronomy"
+      ]
+    }, 
+    "Keywords:": "scientific computing", 
+    "License:": "CeCILL-B", 
+    "Package Index Owner:": "pchanial", 
+    "Platform:": "MacOS X,Linux,Solaris,Unix,Windows"
+  }, 
+  "license": "", 
+  "longdescription": "Simulation and map-making tools for the QUBIC experiment.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea4f6defbb6b3e165dbb09ccc4a494bf", 
+  "source_uri": "https://pypi.python.org/packages/source/q/qubic/qubic-2.3.tar.gz"
+}

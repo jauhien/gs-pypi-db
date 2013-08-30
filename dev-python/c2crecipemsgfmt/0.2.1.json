@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A buildout recipe to compile message catalog to binary format.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fredj/c2c.recipe.msgfmt", 
+  "info": {
+    "Author:": "Frederic Junod", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fredj/c2c.recipe.msgfmt", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "fredj"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A buildout recipe to compile message catalog to binary format.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b3197f152b1e5f38fb2c36fb9b5d4062", 
+  "source_uri": "https://pypi.python.org/packages/source/c/c2c.recipe.msgfmt/c2c.recipe.msgfmt-0.2.1.tar.gz"
+}

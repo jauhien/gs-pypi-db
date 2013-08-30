@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A set of tools to make the life of devops easier.The aim is to quickly setup an isolated project locally which can be easily rolled out to your production stack", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://readthedocs.org/docs/snelis/en/latest/", 
+  "info": {
+    "Author:": "Niels Lensink", 
+    "Home Page:": "https://readthedocs.org/docs/snelis/en/latest/", 
+    "Keywords:": "snelis django vagrant puppet ngnix uwsgi upstart", 
+    "License:": "BSD 3 Clause", 
+    "Package Index Owner:": "snelis"
+  }, 
+  "license": "", 
+  "longdescription": "A set of tools to make the life of devops easier.The aim is to quickly setup an isolated project locally which can be easily rolled out to your production stack", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "adf1643ff572693deb3e1fbfbe551a57", 
+  "source_uri": "https://pypi.python.org/packages/source/s/snelis/snelis-0.1.6.2.tar.gz"
+}

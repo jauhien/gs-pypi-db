@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Grok-like configuration for ope viewlets", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://grok.zope.org", 
+  "info": {
+    "Author:": "Grok Team", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://cheeseshop.python.org/pypi/grokcore.viewlet", 
+    "Home Page:": "http://grok.zope.org", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "thefunny42, jw, ctheune, faassen, philikon, reinout, trollfot, janjaapdriessen"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Grok-like configuration for ope viewlets", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "73917d495fb41ccf9162a26f04278051", 
+  "source_uri": "http://cheeseshop.python.org/pypi/grokcore.viewlet"
+}

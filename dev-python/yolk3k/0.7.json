@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command-line tool for querying PyPI and Python packages installed on your system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/myint/yolk", 
+  "info": {
+    "Author:": "Rob Cakebread", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/myint/yolk", 
+    "Keywords:": "PyPI,setuptools,cheeseshop,distutils,eggs,package,management", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "myint"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Command-line tool for querying PyPI and Python packages installed on your system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "02acc5dff186bd962bb05015cfccf9f5", 
+  "source_uri": "https://pypi.python.org/packages/source/y/yolk3k/yolk3k-0.7.tar.gz"
+}

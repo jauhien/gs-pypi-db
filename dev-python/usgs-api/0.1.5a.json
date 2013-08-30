@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Python wrapper for the USGS National Water Information System JSON API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/nickrsan/usgs-api", 
+  "info": {
+    "Author:": "Nick Santos", 
+    "Bug Tracker:": "https://bitbucket.org/nickrsan/usgs-api/issues", 
+    "Home Page:": "https://bitbucket.org/nickrsan/usgs-api", 
+    "Keywords:": "usgs api nwis water data wrapper", 
+    "License:": "Creative Commons Attribution Sharealike 3.0 Unported", 
+    "Package Index Owner:": "nicksan"
+  }, 
+  "license": "", 
+  "longdescription": "A Python wrapper for the USGS National Water Information System JSON API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f3fbd1e718a0da43c7a37dfedfdf492", 
+  "source_uri": "https://pypi.python.org/packages/source/u/usgs-api/usgs-api-0.1.5a.zip"
+}

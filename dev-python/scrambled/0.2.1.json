@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a PyPI-compatible package server", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/scrambled", 
+  "info": {
+    "Author:": "Brandon Gilmore", 
+    "Home Page:": "http://code.google.com/p/scrambled", 
+    "License:": "BSD", 
+    "Package Index Owner:": "hblanks, brandon", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "a PyPI-compatible package server", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a7c60a58d5e7e473d7c97a90cbc6853", 
+  "source_uri": "https://pypi.python.org/packages/source/s/scrambled/scrambled-0.2.1.tar.gz"
+}

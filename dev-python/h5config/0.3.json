@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Conveniently save and load config-options from HDF5 and YAML files.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://blog.tremily.us/posts/h5config/", 
+  "info": {
+    "Author:": "W. Trevor King", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://git.tremily.us/?p=h5config.git;a=snapshot;h=v0.3;sf=tgz", 
+    "Home Page:": "http://blog.tremily.us/posts/h5config/", 
+    "License:": "GNU General Public License (GPL)", 
+    "Package Index Owner:": "wking", 
+    "Platform:": "all"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Conveniently save and load config-options from HDF5 and YAML files.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f07a9cb4fd072fb866d49889cd033b86", 
+  "source_uri": "http://git.tremily.us/?p=h5config.git;a=snapshot;h=v0.3;sf=tgz"
+}

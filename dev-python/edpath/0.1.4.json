@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "MS Windows command-line script to view and edit PATH-like environment variables.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/edpath/", 
+  "info": {
+    "Author:": "Jonathan Hartley", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.1"
+      ], 
+      "Topic": [
+        "Terminals"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/edpath/", 
+    "Keywords:": "terminal command-line windows path environment", 
+    "License:": "BSD", 
+    "Package Index Owner:": "tartley"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "MS Windows command-line script to view and edit PATH-like environment variables.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5f7ad369abf8748614d001891b453899", 
+  "source_uri": "https://pypi.python.org/packages/source/e/edpath/edpath-0.1.4.tar.gz"
+}

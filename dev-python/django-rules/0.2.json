@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Flexible per-object authoriation backend for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/maraujop/django-rules", 
+  "info": {
+    "Author:": "Miguel Araujo", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/maraujop/django-rules", 
+    "Keywords:": "authorization,backends,django,rules,permissions", 
+    "License:": "BSD", 
+    "Package Index Owner:": "maraujop"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Flexible per-object authoriation backend for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "11ff5214f631abe2c8f5e7e3d2ce6ff3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-rules/django-rules-0.2.tar.gz"
+}

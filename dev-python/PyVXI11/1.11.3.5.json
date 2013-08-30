@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python modules to control devices over VXI11 protocol", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www-acc.kek.jp/EPICS_Gr/products.html", 
+  "info": {
+    "Author:": "Noboru Yamamoto, KEK, JAPAN", 
+    "Home Page:": "http://www-acc.kek.jp/EPICS_Gr/products.html", 
+    "Package Index Owner:": "noboruatkek"
+  }, 
+  "license": "", 
+  "longdescription": "Python modules to control devices over VXI11 protocol", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cacf67b13c13f107c23d8ebfda0d12ef", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyVXI11/PyVXI11-1.11.3.5.tar.gz"
+}

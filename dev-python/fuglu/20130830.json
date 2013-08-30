@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Fuglu Mail Content Scanner", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.fuglu.org", 
+  "info": {
+    "Author:": "O. Schacher", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Communications", 
+        "Email", 
+        "Mail Transport Agents"
+      ]
+    }, 
+    "Download URL:": "http://github.com/gryphius/fuglu/tarball/master", 
+    "Home Page:": "http://www.fuglu.org", 
+    "Package Index Owner:": "Oli.Schacher"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Fuglu Mail Content Scanner", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0df5585b62ab76bb220d4d3c607fa9c2", 
+  "source_uri": "http://github.com/gryphius/fuglu/tarball/master"
+}

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Display Flickr images easily in your Pelican articles.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/streeter/pelican-flickrtag", 
+  "info": {
+    "Author:": "Chris Streeter", 
+    "Home Page:": "https://github.com/streeter/pelican-flickrtag", 
+    "Package Index Owner:": "streeter"
+  }, 
+  "license": "", 
+  "longdescription": "Display Flickr images easily in your Pelican articles.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6e8a37c57f49db9756da3621e02b2c6", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pelican-flickrtag/pelican-flickrtag-0.3.2.tar.gz"
+}

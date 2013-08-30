@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "CouchDB view server that executes functions on the python path by name", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/danielrichman/couch-named-python", 
+  "info": {
+    "Author:": "Daniel Richman", 
+    "Home Page:": "https://github.com/danielrichman/couch-named-python", 
+    "License:": "GNU General Public License Version 3", 
+    "Package Index Owner:": "danielrichman"
+  }, 
+  "license": "", 
+  "longdescription": "CouchDB view server that executes functions on the python path by name", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5bc582c31dc79766a83cc4ea4df13cea", 
+  "source_uri": "https://pypi.python.org/packages/source/c/couch-named-python/couch-named-python-0.2.2.tar.gz"
+}

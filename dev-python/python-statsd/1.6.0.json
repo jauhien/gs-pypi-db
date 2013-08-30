@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "statsd is a client for Etsys node-js statsd server. A proxy for the Graphite stats collection and graphing server.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/WoLpH/python-statsd", 
+  "info": {
+    "Author:": "Rick van Hattem", 
+    "Categories": {
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//python-statsd", 
+    "Home Page:": "https://github.com/WoLpH/python-statsd", 
+    "License:": "BSD", 
+    "Package Index Owner:": "WoLpH"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "statsd is a client for Etsys node-js statsd server. A proxy for the Graphite stats collection and graphing server.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3a0c71a160b504b843703c3041c7d7fb", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-statsd/python-statsd-1.6.0.tar.gz"
+}

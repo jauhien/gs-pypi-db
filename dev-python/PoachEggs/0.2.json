@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a script for installing eggs in a workingenv", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.openplans.org", 
+  "info": {
+    "Author:": "whit", 
+    "Home Page:": "http://www.openplans.org", 
+    "Keywords:": "workingenv setuptools egg", 
+    "Package Index Owner:": "whitmo, ianb"
+  }, 
+  "license": "", 
+  "longdescription": "a script for installing eggs in a workingenv", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "482c35b55ea455a15d9288941494e08a", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PoachEggs/PoachEggs-0.2.tar.gz"
+}

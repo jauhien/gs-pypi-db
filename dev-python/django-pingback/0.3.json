@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Pingback clientserver implementation for Django framework.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.piranha.org.ua/django-pingback/", 
+  "info": {
+    "Author:": "Alexander Solovyov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://hg.piranha.org.ua/django-pingback/", 
+    "Keywords:": "django apps", 
+    "License:": "New BSD License", 
+    "Package Index Owner:": "piranha"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Pingback clientserver implementation for Django framework.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1a190b0b811c080fc3b67c8bccbae275", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-pingback/django-pingback-0.3.tar.gz"
+}

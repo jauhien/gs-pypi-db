@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django template tag to display users recent tweets.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/coagulant/django-twitter-tag", 
+  "info": {
+    "Author:": "Ilya Baryshev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ]
+    }, 
+    "Home Page:": "https://github.com/coagulant/django-twitter-tag", 
+    "License:": "MIT", 
+    "Package Index Owner:": "coagulant"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A django template tag to display users recent tweets.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc54c143c7410fe59464c93b26ac526c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-twitter-tag/django-twitter-tag-1.2.zip"
+}

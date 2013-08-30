@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A sas7bdat file reader for Python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://git.pyhacker.com/sas7bdat", 
+  "info": {
+    "Author:": "Jared Hobbs", 
+    "Home Page:": "http://git.pyhacker.com/sas7bdat", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jaredhobbs"
+  }, 
+  "license": "", 
+  "longdescription": "A sas7bdat file reader for Python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "090a75443964a2b11832d96aa7397059", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sas7bdat/sas7bdat-0.2.2.tar.gz"
+}

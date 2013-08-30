@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI middleware that submits logs to loggly.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/johnnykv/kumo", 
+  "info": {
+    "Author:": "jkv", 
+    "Home Page:": "https://github.com/johnnykv/kumo", 
+    "Package Index Owner:": "Johnny.Vestergaard"
+  }, 
+  "license": "", 
+  "longdescription": "WSGI middleware that submits logs to loggly.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d6e4c96268048e846f43db1834f2ac67", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kumo/kumo-0.2.tar.gz"
+}

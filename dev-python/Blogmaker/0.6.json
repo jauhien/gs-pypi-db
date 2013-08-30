@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Blog application for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.google.com/p/blogmaker/", 
+  "info": {
+    "Author:": "Peter Bernheim, Kent S Johnson", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "Dynamic Content"
+      ]
+    }, 
+    "Home Page:": "http://code.google.com/p/blogmaker/", 
+    "Keywords:": "django,blog", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "blogmaker", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Blog application for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "28b6d0669751584092c647030a7b6393", 
+  "source_uri": "https://pypi.python.org/packages/source/B/Blogmaker/Blogmaker-0.6.tar.gz"
+}

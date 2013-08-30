@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Oslo configuration API", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.openstack.org/", 
+  "info": {
+    "Author:": "OpenStack", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "OpenStack"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ]
+    }, 
+    "Home Page:": "http://www.openstack.org/", 
+    "License:": "Apache Software License", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "openstackci, markmc"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Oslo configuration API", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "54eef87dabb9ceb2e8d57c9bbbde1f65", 
+  "source_uri": "https://pypi.python.org/packages/source/o/oslo.config/oslo.config-1.1.1.tar.gz"
+}

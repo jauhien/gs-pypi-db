@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "linaro-django-pagination", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zyga/django-pagination", 
+  "info": {
+    "Author:": "Zygmunt Krynicki", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//linaro-django-pagination", 
+    "Home Page:": "https://github.com/zyga/django-pagination", 
+    "Keywords:": "pagination,django", 
+    "License:": "BSD", 
+    "Package Index Owner:": "terceiro, zyga, mwhudson, doanac"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "linaro-django-pagination", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "071934cbafa1db34ba88f2824b3fee8a", 
+  "source_uri": "https://pypi.python.org/packages/source/l/linaro-django-pagination/linaro-django-pagination-2.0.2.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Image processing and mathematical morphology toolbox", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://raffi.enficiaud.free.fr", 
+  "info": {
+    "Author:": "Raffi Enficiaud", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.6"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Mathematics"
+      ]
+    }, 
+    "Home Page:": "http://raffi.enficiaud.free.fr", 
+    "Keywords:": "multidimensional images, multispectral images, mathematical morphology, distance, segmentation, erosion, dilation, opening, closing, hit-or-miss, connected components", 
+    "License:": "Boost", 
+    "Maintainer:": "Raffi Enficiaud", 
+    "Package Index Owner:": "Raffi.Enficiaud"
+  }, 
+  "license": "", 
+  "longdescription": "Image processing and mathematical morphology toolbox", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "95d56b7aef7417b6768d44dcc50227b4", 
+  "source_uri": "https://pypi.python.org/packages/source/Y/Yayi/yayi_release_2010_09_02.tar.bz2"
+}

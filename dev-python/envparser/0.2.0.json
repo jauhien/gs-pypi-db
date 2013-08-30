@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple environment configuration parser", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/diogobaeder/envparser", 
+  "info": {
+    "Author:": "Diogo Baeder", 
+    "Home Page:": "https://github.com/diogobaeder/envparser", 
+    "Keywords:": "python environment parser configuration settings", 
+    "License:": "BSD 2-Clause", 
+    "Package Index Owner:": "diogobaeder"
+  }, 
+  "license": "", 
+  "longdescription": "Simple environment configuration parser", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "88fb09f39e73017e6f70092f17ee024d", 
+  "source_uri": "https://pypi.python.org/packages/source/e/envparser/envparser-0.2.0.tar.gz"
+}

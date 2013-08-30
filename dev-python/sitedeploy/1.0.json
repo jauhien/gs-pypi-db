@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "web site deployment", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.smallbulb.net", 
+  "info": {
+    "Author:": "David Siroky", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://www.smallbulb.net", 
+    "Keywords:": "web,site,deploy,update,synchronize,ftp,ssh", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "dsiroky"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "web site deployment", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ae0cee5dd90d1dc37590903ec068dc66", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sitedeploy/sitedeploy-1.0.tar.gz"
+}

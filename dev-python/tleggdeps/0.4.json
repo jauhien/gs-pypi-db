@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Compute a dependency graph between active Python eggs.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://thomas-lotze.de/en/software/eggdeps/", 
+  "info": {
+    "Author:": "Thomas Lotze", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//tl.eggdeps", 
+    "Home Page:": "http://thomas-lotze.de/en/software/eggdeps/", 
+    "Keywords:": "egg eggs dependencies dependency graph tree", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "tlotze"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Compute a dependency graph between active Python eggs.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2472204a2abd0d8cd4d11ff0fbf36ae7", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tl.eggdeps/tl.eggdeps-0.4.tar.gz"
+}

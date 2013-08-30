@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Bootstrap theme for Plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/veit/vs.bootstrap.plonetheme", 
+  "info": {
+    "Author:": "Veit Schiele", 
+    "Bug Tracker:": "https://github.com/veit/vs.bootstrap.plonetheme/issues", 
+    "Categories": {
+      "Environment": [
+        "Handhelds/PDA's"
+      ]
+    }, 
+    "Home Page:": "https://github.com/veit/vs.bootstrap.plonetheme", 
+    "Keywords:": "Zope Plone Bootstrap", 
+    "License:": "gpl", 
+    "Package Index Owner:": "veit"
+  }, 
+  "license": "", 
+  "longdescription": "Bootstrap theme for Plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "80c8556777882af1dff469b452c78125", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vs.bootstrap.plonetheme/vs.bootstrap.plonetheme-1.0.6.tar.gz"
+}

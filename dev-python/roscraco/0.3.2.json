@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library for managing home routers (networking equipment).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/spantaleev/roscraco", 
+  "info": {
+    "Author:": "Slavi Pantaleev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Telecommunications Industry"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Networking"
+      ]
+    }, 
+    "Home Page:": "https://github.com/spantaleev/roscraco", 
+    "Keywords:": "router,networking,tplink,canyon,netgear,zyxel,tomato", 
+    "License:": "BSD", 
+    "Package Index Owner:": "s.pantaleev", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A library for managing home routers (networking equipment).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "636b4c35dbfd0760967f468c05d3b996", 
+  "source_uri": "https://pypi.python.org/packages/source/r/roscraco/roscraco-0.3.2.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "On-demand imports, taken from mercurial", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bwesterb/py-demandimport/", 
+  "info": {
+    "Author:": "Bas Westerbaan", 
+    "Home Page:": "http://github.com/bwesterb/py-demandimport/", 
+    "License:": "GPL 2.0", 
+    "Package Index Owner:": "bas"
+  }, 
+  "license": "", 
+  "longdescription": "On-demand imports, taken from mercurial", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ea25e59698cb6914bc4e78022acddf74", 
+  "source_uri": "https://pypi.python.org/packages/source/d/demandimport/demandimport-0.2.1.tar.gz"
+}

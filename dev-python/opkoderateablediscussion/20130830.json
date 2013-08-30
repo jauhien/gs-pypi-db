@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows plone.app.discussion comments to be rated.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://opkode.net", 
+  "info": {
+    "Author:": "JC Brand", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://opkode.net", 
+    "Keywords:": "discussion comment rating", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jcbrand"
+  }, 
+  "license": "", 
+  "longdescription": "Allows plone.app.discussion comments to be rated.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "66994539860ce6825d62bb2bc393085c", 
+  "source_uri": "https://pypi.python.org/packages/source/o/opkode.rateablediscussion/opkode.rateablediscussion-0.1a2.tar.gz"
+}

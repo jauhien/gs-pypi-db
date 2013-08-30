@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helpers for creating and traversing recursively nested data structures in Python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/iskandr/treelike", 
+  "info": {
+    "Author:": "Alex Rubinsteyn", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://github.com/iskandr/treelike", 
+    "License:": "BSD", 
+    "Package Index Owner:": "iskander"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Helpers for creating and traversing recursively nested data structures in Python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d6d827bb1d6d763f4c22a6f9f33ed90", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TreeLike/TreeLike-0.1.3.tar.gz"
+}

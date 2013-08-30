@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Authenticate and make calls to OAuth 1.0, OAuth 2.0 services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/zen4ever/oauth-flow", 
+  "info": {
+    "Author:": "Andrii Kurinnyi", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/zen4ever/oauth-flow", 
+    "Keywords:": "oauth,twitter,facebook", 
+    "Package Index Owner:": "prigun.myopenid.com"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Authenticate and make calls to OAuth 1.0, OAuth 2.0 services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d885940e1ba2e91bf9dd82c35e3ecdb5", 
+  "source_uri": "https://pypi.python.org/packages/source/o/oauth-flow/oauth-flow-1.0.3.tar.gz"
+}

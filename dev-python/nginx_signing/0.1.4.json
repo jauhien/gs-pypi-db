@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Signs urls to work with the nginx Secure Link module", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/gjcourt/python-nginx-signer", 
+  "info": {
+    "Author:": "George Courtsunis", 
+    "Home Page:": "http://github.com/gjcourt/python-nginx-signer", 
+    "Keywords:": "nginx signing secure_link", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "gjcourt"
+  }, 
+  "license": "", 
+  "longdescription": "Signs urls to work with the nginx Secure Link module", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "29fcfcdcdae6980aaafd103e51322e8f", 
+  "source_uri": "https://pypi.python.org/packages/source/n/nginx_signing/nginx_signing-0.1.4.tar.gz"
+}

@@ -1,0 +1,58 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "API to ipgeobase.ru database", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/lorien/django-ipgeo/", 
+  "info": {
+    "Author:": "Grigoriy Petukhov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/lorien/django-ipgeo/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lorien"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "API to ipgeobase.ru database", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "80fa996ff716b3403ede75ccf4cacbde", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-ipgeo/django-ipgeo-0.0.2.tar.gz"
+}

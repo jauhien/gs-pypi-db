@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Integration package for collective.geo. packages.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/4teamwork/ftw.geo", 
+  "info": {
+    "Author:": "Lukas Graf", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ]
+    }, 
+    "Home Page:": "https://github.com/4teamwork/ftw.geo", 
+    "Keywords:": "plone ftw geo", 
+    "License:": "GPL2", 
+    "Package Index Owner:": "maethu, 4teamwork, lukasg"
+  }, 
+  "license": "", 
+  "longdescription": "Integration package for collective.geo. packages.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b390dac6f5b3165dcbb87c6eb2c9bdf9", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ftw.geo/ftw.geo-1.2.zip"
+}

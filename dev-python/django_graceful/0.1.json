@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django fastcgi deployment tool for easy management and graceful code updating", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/andreiko/django_graceful", 
+  "info": {
+    "Author:": "Andrey Bulgakov", 
+    "Home Page:": "http://github.com/andreiko/django_graceful", 
+    "Package Index Owner:": "andreiko"
+  }, 
+  "license": "", 
+  "longdescription": "Django fastcgi deployment tool for easy management and graceful code updating", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1b5d51e75edc04373978a3a458c0a836", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django_graceful/django_graceful-0.1.tar.gz"
+}

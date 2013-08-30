@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "JSONField for django models", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/schinckel/django-jsonfield/", 
+  "info": {
+    "Author:": "Matthew Schinckel", 
+    "Categories": {
+      "Framework": [
+        "Django"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/schinckel/django-jsonfield/", 
+    "Package Index Owner:": "schinckel"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "JSONField for django models", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4033caa6b59cbc7e658bdd3c4df115ac", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-jsonfield/django-jsonfield-0.9.10.tar.gz"
+}

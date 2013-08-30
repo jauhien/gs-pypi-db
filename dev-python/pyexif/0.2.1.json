@@ -1,0 +1,47 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module to readwrite EXIF image data", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Ed Leafe", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Keywords:": "exif image metadata photo", 
+    "License:": "Python Software Foundation License", 
+    "Package Index Owner:": "edleafe"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Python module to readwrite EXIF image data", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "16dc1230b87b26faf73eef2840df9793", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyexif/pyexif-0.2.1.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Signal dispatcher for Python, extracted from the Django framework. Extended to support a capture all signal named any_signal.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pacemkr/PySignalsEx", 
+  "info": {
+    "Author:": "Nick Zalutskiy", 
+    "Home Page:": "https://github.com/pacemkr/PySignalsEx", 
+    "Package Index Owner:": "pacemkr", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "Signal dispatcher for Python, extracted from the Django framework. Extended to support a capture all signal named any_signal.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ebf0a4ebba7fe794d9db64cdda8c479e", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pysignalsex/pysignalsex-0.1.2.tar.gz"
+}

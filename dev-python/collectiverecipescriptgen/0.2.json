@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipe for generating a script", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/buildout/collective.recipe.scriptgen", 
+  "info": {
+    "Author:": "Rocky Burt", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/buildout/collective.recipe.scriptgen", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "rockyburt"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "c.buildout recipe for generating a script", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6442d4a7cfe740db955daac0d6902de6", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.scriptgen/collective.recipe.scriptgen-0.2.tar.gz"
+}

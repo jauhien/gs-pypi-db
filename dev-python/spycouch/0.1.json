@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client in python for CouchDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/spycouch/", 
+  "info": {
+    "Author:": "Cerny Jan", 
+    "Documentation:": "http://pythonhosted.org//spycouch", 
+    "Home Page:": "http://pypi.python.org/pypi/spycouch/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "cerny.jan"
+  }, 
+  "license": "", 
+  "longdescription": "Client in python for CouchDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db936b099957254afdd8a06dbfd33bf0", 
+  "source_uri": "https://pypi.python.org/packages/source/s/spycouch/spycouch-0.1.tar.gz"
+}

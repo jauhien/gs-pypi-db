@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Trac theme based on python.org and The Python Papers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac-hacks.org/wiki/PyTppThemePlugin", 
+  "info": {
+    "Author:": "Jeroen Ruigrok van der Werven & Noah Kantrowitz & Olemis Lang", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Home Page:": "http://trac-hacks.org/wiki/PyTppThemePlugin", 
+    "Keywords:": "trac plugin theme", 
+    "License:": "BSD", 
+    "Maintainer:": "Olemis Lang", 
+    "Package Index Owner:": "olemis"
+  }, 
+  "license": "", 
+  "longdescription": "Trac theme based on python.org and The Python Papers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "be62f37d1c6870395f0a70aff19d5c32", 
+  "source_uri": "https://pypi.python.org/packages/source/T/TracPyTppTheme/TracPyTppTheme-2.2.2.tar.bz2"
+}

@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wrapper around ffprobe command to extract metadata from media files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.simon-hargreaves.com/ffprobe", 
+  "info": {
+    "Author:": "Simon Hargreaves", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries"
+      ]
+    }, 
+    "Home Page:": "http://www.simon-hargreaves.com/ffprobe", 
+    "Package Index Owner:": "simonh10"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Wrapper around ffprobe command to extract metadata from media files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "719e092701aec0e63dd8b4adf44494cb", 
+  "source_uri": "https://pypi.python.org/packages/source/f/ffprobe/ffprobe-0.1.zip"
+}

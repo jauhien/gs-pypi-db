@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Ensure that (iOS 6) never caches the result of an ajax POST again.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/incuna/django-never-cache-post/", 
+  "info": {
+    "Author:": "Incuna Ltd.", 
+    "Home Page:": "http://github.com/incuna/django-never-cache-post/", 
+    "Package Index Owner:": "incuna"
+  }, 
+  "license": "", 
+  "longdescription": "Ensure that (iOS 6) never caches the result of an ajax POST again.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0255d407a9d567869f699ee426de6f53", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-never-cache-post/django-never-cache-post-0.1.1.tar.gz"
+}

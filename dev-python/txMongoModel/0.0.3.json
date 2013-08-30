@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A data model wrapper for async MongoDB", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/oubiwann/txMongoModel", 
+  "info": {
+    "Author:": "Duncan McGreggor", 
+    "Home Page:": "http://github.com/oubiwann/txMongoModel", 
+    "License:": "MIT", 
+    "Package Index Owner:": "oubiwann"
+  }, 
+  "license": "", 
+  "longdescription": "A data model wrapper for async MongoDB", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "a8619f8cf6c981b47835490b8675d6f3", 
+  "source_uri": "https://pypi.python.org/packages/source/t/txMongoModel/txMongoModel-0.0.3.tar.gz"
+}

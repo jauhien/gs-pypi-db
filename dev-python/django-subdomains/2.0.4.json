@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Subdomain tools for the Django framework, including subdomain-based URL routing.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/tkaemming/django-subdomains/", 
+  "info": {
+    "Author:": "ted kaemming", 
+    "Home Page:": "http://github.com/tkaemming/django-subdomains/", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "tkaemming"
+  }, 
+  "license": "", 
+  "longdescription": "Subdomain tools for the Django framework, including subdomain-based URL routing.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e331978c9a4b78607f1779286878e8ec", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-subdomains/django-subdomains-2.0.4.tar.gz"
+}

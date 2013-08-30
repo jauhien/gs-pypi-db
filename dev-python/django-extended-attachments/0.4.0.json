@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A generic Django application to attach Files (Attachments) to any model", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://vehq.ru/project/django-extended-attachments/", 
+  "info": {
+    "Author:": "Vladimir Ermakov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://hg.vehq.ru/django-extended-attachments/archive/0.4.0.tar.bz2", 
+    "Home Page:": "http://vehq.ru/project/django-extended-attachments/", 
+    "Keywords:": "Django,attachments,antivirus", 
+    "License:": "BSD", 
+    "Package Index Owner:": "vooon341", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A generic Django application to attach Files (Attachments) to any model", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "25da8e0dd8219d28a0741009c2787e7e", 
+  "source_uri": "http://hg.vehq.ru/django-extended-attachments/archive/0.4.0.tar.bz2"
+}

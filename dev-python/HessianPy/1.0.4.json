@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Implementation of Hessian RPC protocol", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hessianpy.sourceforge.net", 
+  "info": {
+    "Author:": "Petr Gladkikh", 
+    "Home Page:": "http://hessianpy.sourceforge.net", 
+    "License:": "Apache License 2.0", 
+    "Package Index Owner:": "batyi", 
+    "Platform:": "Platform independent"
+  }, 
+  "license": "", 
+  "longdescription": "Implementation of Hessian RPC protocol", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32867c7aaa92d18c693739a6dfa8a037", 
+  "source_uri": "https://pypi.python.org/packages/source/H/HessianPy/HessianPy-1.0.4.tar.gz"
+}

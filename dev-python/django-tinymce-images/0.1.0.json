@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Plugin to tinymce, Image browser in media folder. With connector to django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/suvit/django-tinymce-images", 
+  "info": {
+    "Author:": "Victor Safronovich", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/suvit/django-tinymce-images", 
+    "License:": "MIT", 
+    "Package Index Owner:": "suvit"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Plugin to tinymce, Image browser in media folder. With connector to django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f6006806263e9c23b6e0cef66a21ce59", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-tinymce-images/django-tinymce-images-0.1.0.zip"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple framework for distributed task workflow using redis.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/PaulMcMillan/tasa", 
+  "info": {
+    "Author:": "Paul McMillan", 
+    "Categories": {
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "PyPy"
+      ]
+    }, 
+    "Home Page:": "https://github.com/PaulMcMillan/tasa", 
+    "License:": "Simplified BSD", 
+    "Package Index Owner:": "PaulMcMillan"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A simple framework for distributed task workflow using redis.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71dcb6b81c6de89c64352bec10b12484", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tasa/tasa-0.2.2.zip"
+}

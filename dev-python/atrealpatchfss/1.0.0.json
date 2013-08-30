@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Patch __init.py__ for iw.fss  2.8.0b1 package (USELESS since 2.8.0rc1)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.atreal.net/", 
+  "info": {
+    "Author:": "atReal", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.atreal.net/", 
+    "License:": "GPL", 
+    "Package Index Owner:": "tiazma, f10w, tbenita, drjnut"
+  }, 
+  "license": "", 
+  "longdescription": "Patch __init.py__ for iw.fss  2.8.0b1 package (USELESS since 2.8.0rc1)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3726d60e5bc3c0d6a07b8ccb10879741", 
+  "source_uri": "https://pypi.python.org/packages/source/a/atreal.patchfss/atreal.patchfss-1.0.0.tar.gz"
+}

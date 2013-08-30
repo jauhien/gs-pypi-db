@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A library to handle altimetric data produced by AVISO", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://pyaviso.castelao.net", 
+  "info": {
+    "Author:": "Guilherme Castelao", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://pyaviso.castelao.net", 
+    "Keywords:": "altimetry,AVISO,TOPEX,JASON,oceanography,Sea Surface Height", 
+    "License:": "MIT", 
+    "Package Index Owner:": "castelao", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A library to handle altimetric data produced by AVISO", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "08bf57291b4bc66d5d42c845986a664c", 
+  "source_uri": "https://pypi.python.org/packages/source/A/AVISO/AVISO-0.7.5.tar.gz"
+}

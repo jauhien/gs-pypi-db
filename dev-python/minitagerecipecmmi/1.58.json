@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.buildout recipes to compile and install software or python packages and generate scripts or configuration files  sponsored by Makina Corpus.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://cheeseshop.python.org/pypi/minitage.recipe.cmmi", 
+  "info": {
+    "Author:": "Mathieu Pasquet", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://cheeseshop.python.org/pypi/minitage.recipe.cmmi", 
+    "Keywords:": "development buildout recipe", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kiorky"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "c.buildout recipes to compile and install software or python packages and generate scripts or configuration files  sponsored by Makina Corpus.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fcd552ef0a5e79c913cc9c443c1e64bb", 
+  "source_uri": "https://pypi.python.org/packages/source/m/minitage.recipe.cmmi/minitage.recipe.cmmi-1.58.zip"
+}

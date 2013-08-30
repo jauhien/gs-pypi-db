@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A ODB Storage which uses one file per revision of an object", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dirstorage.sourceforge.net", 
+  "info": {
+    "Author:": "Toby Dickenson and contributors", 
+    "Download URL:": "https://sourceforge.net/projects/dirstorage/", 
+    "Home Page:": "http://dirstorage.sourceforge.net", 
+    "License:": "GPL 2.1", 
+    "Maintainer:": "Oleksandr Kozachuk", 
+    "Package Index Owner:": "htrd, ok2", 
+    "Platform:": "any"
+  }, 
+  "license": "", 
+  "longdescription": "A ODB Storage which uses one file per revision of an object", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "825289c7584947df7894b8113f00faed", 
+  "source_uri": "https://sourceforge.net/projects/dirstorage/"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Sentry extension which integrates with Redflash.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/davidszotten/sentry-redflash", 
+  "info": {
+    "Author:": "David Szotten", 
+    "Home Page:": "http://github.com/davidszotten/sentry-redflash", 
+    "License:": "MIT", 
+    "Package Index Owner:": "davidszotten"
+  }, 
+  "license": "", 
+  "longdescription": "A Sentry extension which integrates with Redflash.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "46ba31f5e71bfa8f5d2d27c57c9b4421", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sentry-redflash/sentry-redflash-0.0.8.tar.gz"
+}

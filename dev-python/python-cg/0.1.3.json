@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper for NVidia Cg Toolkit", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jstasiak/python-cg", 
+  "info": {
+    "Author:": "Jakub Stasiak", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "CPython"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jstasiak/python-cg", 
+    "License:": "MIT", 
+    "Package Index Owner:": "jstasiak", 
+    "Platform:": "unix,linux,os x"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Python wrapper for NVidia Cg Toolkit", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6a583a803c11e1a85693696694c28408", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-cg/python-cg-0.1.3.tar.gz"
+}

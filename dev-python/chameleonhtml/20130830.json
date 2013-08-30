@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dynamic HTML template compiler with XSS language support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Malthe Borch and the Zope Community", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "XML"
+      ]
+    }, 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "fairwinds", 
+    "Package Index Owner:": "malthe, seletz, fairwinds"
+  }, 
+  "license": "", 
+  "longdescription": "Dynamic HTML template compiler with XSS language support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3531499043bb532cf9ef0a0ed1e42c12", 
+  "source_uri": "https://pypi.python.org/packages/source/c/chameleon.html/chameleon.html-1.0b4.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client library for OpenStack Nova API.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/openstack/python-cinderclient", 
+  "info": {
+    "Author:": "Rackspace, based on work by Jacob Kaplan-Moss", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Information Technology"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/openstack/python-cinderclient", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Maintainer:": "openstackci", 
+    "Package Index Owner:": "sdirector, openstackci"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Client library for OpenStack Nova API.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01cd4552e5d9e424d849058a5bd4c580", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-cinderclient/python-cinderclient-0.2.tar.gz"
+}

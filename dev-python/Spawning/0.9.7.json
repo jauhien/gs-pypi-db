@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Spawning is a wsgi server which supports multiple processes, multiple threads, green threads, non-blocking HTTP io, and automatic graceful upgrading of code.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "R. Tyler Croy", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Package Index Owner:": "fzzzy, rtyler"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Spawning is a wsgi server which supports multiple processes, multiple threads, green threads, non-blocking HTTP io, and automatic graceful upgrading of code.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9e517ab33bba1961a4733aec8e1c92e", 
+  "source_uri": "https://pypi.python.org/packages/source/S/Spawning/Spawning-0.9.7.tar.gz"
+}

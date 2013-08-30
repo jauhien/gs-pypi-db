@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django admin fk and m2m dynamic choices by providing callback support", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/charettes/django-dynamic-choices", 
+  "info": {
+    "Author:": "Simon Charette", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/charettes/django-dynamic-choices", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "charettes"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django admin fk and m2m dynamic choices by providing callback support", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "057e165c579a06287a71b08ea0d3cac6", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dynamic-choices/django-dynamic-choices-0.3.0.tar.gz"
+}

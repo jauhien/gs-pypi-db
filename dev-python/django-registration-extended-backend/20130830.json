@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Backend for django registration that sends email in HTML and does email normaliation", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/huseyinyilmaz/django-registration-extended-backend", 
+  "info": {
+    "Author:": "Huseyin Yilmaz", 
+    "Home Page:": "https://github.com/huseyinyilmaz/django-registration-extended-backend", 
+    "Keywords:": "django registration django-registration", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "yilmazhuseyin"
+  }, 
+  "license": "", 
+  "longdescription": "Backend for django registration that sends email in HTML and does email normaliation", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "67befd449177c9c3f2f6395790ff7388", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-registration-extended-backend/django-registration-extended-backend-0.1.a2.tar.gz"
+}

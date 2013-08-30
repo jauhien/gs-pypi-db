@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "RQ is a simple, lightweight, library for creating background jobs, and processing them.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/nvie/rq/", 
+  "info": {
+    "Author:": "Vincent Driessen", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "Unix"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Systems Administration"
+      ]
+    }, 
+    "Home Page:": "https://github.com/nvie/rq/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "nvie", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "RQ is a simple, lightweight, library for creating background jobs, and processing them.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8cf36f79f66f21347668ff928b728c2a", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rq/rq-0.3.11.tar.gz"
+}

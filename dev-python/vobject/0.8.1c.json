@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "VObject module for reading vCard and vCalendar files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://vobject.skyhouseconsulting.com", 
+  "info": {
+    "Author:": "Jeffrey Harris", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing"
+      ]
+    }, 
+    "Home Page:": "http://vobject.skyhouseconsulting.com", 
+    "License:": "Apache", 
+    "Package Index Owner:": "jdharris", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "VObject module for reading vCard and vCalendar files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c9686dd74d39fdae140890d9c694c076", 
+  "source_uri": "https://pypi.python.org/packages/source/v/vobject/vobject-0.8.1c.tar.gz"
+}

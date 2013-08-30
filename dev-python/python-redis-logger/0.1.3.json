@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Persistent redis logger for python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/teodor-pripoae/python-redis-logger", 
+  "info": {
+    "Author:": "Teodor Pripoae", 
+    "Home Page:": "https://github.com/teodor-pripoae/python-redis-logger", 
+    "Package Index Owner:": "teodorpripoae"
+  }, 
+  "license": "", 
+  "longdescription": "Persistent redis logger for python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5560567e0d373c39af98f2bd838744c7", 
+  "source_uri": "https://pypi.python.org/packages/source/p/python-redis-logger/python-redis-logger-0.1.3.tar.gz"
+}

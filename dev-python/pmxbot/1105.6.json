@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "IRC bot - full featured, yet extensible and customiable", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/yougov/pmxbot", 
+  "info": {
+    "Author:": "Jason R. Coombs", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/yougov/pmxbot", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "jaraco", 
+    "Package Index Owner:": "chmullig, jamwt, jaraco"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "IRC bot - full featured, yet extensible and customiable", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "369511b5ca29eafae5e45de8a47a56ad", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pmxbot/pmxbot-1105.6.zip"
+}

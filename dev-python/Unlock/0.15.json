@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Client for the Unlock web services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://unlock.edina.ac.uk/api.html", 
+  "info": {
+    "Author:": "Jo Walsh", 
+    "Home Page:": "http://unlock.edina.ac.uk/api.html", 
+    "Package Index Owner:": "jo_walsh"
+  }, 
+  "license": "", 
+  "longdescription": "Client for the Unlock web services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aa0be60d77ea416bb78a94176b02a95c", 
+  "source_uri": "https://pypi.python.org/packages/source/U/Unlock/Unlock-0.15.tar.gz"
+}

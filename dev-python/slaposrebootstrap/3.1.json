@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A c.buildout extension to solve chicken-and-egg problem of using python which is built by itself", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Buildout", 
+        "Extension"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "luke.vifib, romain, cedric.dsm"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "A c.buildout extension to solve chicken-and-egg problem of using python which is built by itself", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fe61dfebe1eef7b65db64a16033f496b", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slapos.rebootstrap/slapos.rebootstrap-3.1.tar.gz"
+}

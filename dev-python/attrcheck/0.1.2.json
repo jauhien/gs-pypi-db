@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A simple attribution checker implemented as a decorator", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/jnamika/attrcheck", 
+  "info": {
+    "Author:": "Jun Namikawa", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "ISC License (ISCL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/jnamika/attrcheck", 
+    "Keywords:": "argument check hasattr decorator", 
+    "License:": "ISC License (ISCL)", 
+    "Package Index Owner:": "jnamika"
+  }, 
+  "license": "ISC License (ISCL)", 
+  "longdescription": "A simple attribution checker implemented as a decorator", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "26b660ce2971ea1f3aee8a438e02e2a9", 
+  "source_uri": "https://pypi.python.org/packages/source/a/attrcheck/attrcheck-0.1.2.tar.gz"
+}

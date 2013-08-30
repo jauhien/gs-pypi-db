@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A command line tool for interacting with cloud storage services.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://developers.google.com/storage/docs/gsutil", 
+  "info": {
+    "Author:": "Google Inc.", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "https://developers.google.com/storage/docs/gsutil_install", 
+    "Home Page:": "https://developers.google.com/storage/docs/gsutil", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "google_opensource", 
+    "Platform:": "any"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A command line tool for interacting with cloud storage services.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "1f87fdd2cc1f7a908395c4cb6ec4d030", 
+  "source_uri": "https://developers.google.com/storage/docs/gsutil_install"
+}

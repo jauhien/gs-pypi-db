@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "distribute legacy wrapper", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://packages.python.org/distribute", 
+  "info": {
+    "Author:": "The fellowship of the packaging", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.3"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//distribute", 
+    "Home Page:": "http://packages.python.org/distribute", 
+    "Keywords:": "CPAN PyPI distutils eggs package management", 
+    "License:": "PSF or ZPL", 
+    "Package Index Maintainer:": "guyr, jaraco", 
+    "Package Index Owner:": "tarek, guyr, jaraco"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "distribute legacy wrapper", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c6c59594a7b180af57af8a0cc0cf5b4a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/distribute/distribute-0.7.3.zip"
+}

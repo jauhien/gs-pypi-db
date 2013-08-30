@@ -1,0 +1,61 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FTDI device driver", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/eblot/pyftdi", 
+  "info": {
+    "Author:": "Emmanuel Blot", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "System", 
+        "Hardware", 
+        "Hardware Drivers"
+      ]
+    }, 
+    "Download URL:": "https://github.com/eblot/pyftdi/tarball/v0.6.3", 
+    "Home Page:": "http://github.com/eblot/pyftdi", 
+    "Keywords:": "driver ftdi usb serial spi jtag prolific rs232", 
+    "License:": "LGPL v2", 
+    "Package Index Owner:": "eblot"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "FTDI device driver", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8ae5892986a005fc24433888b7672d6f", 
+  "source_uri": "https://github.com/eblot/pyftdi/tarball/v0.6.3"
+}

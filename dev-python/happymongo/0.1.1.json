@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python module for making it easy and consistent to connect to MongoDB via PyMongo either in Flask or in a non-flask application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/sivel/happymongo", 
+  "info": {
+    "Author:": "Matt Martz", 
+    "Home Page:": "https://github.com/sivel/happymongo", 
+    "License:": "Apache License, Version 2.0", 
+    "Package Index Owner:": "sivel"
+  }, 
+  "license": "", 
+  "longdescription": "Python module for making it easy and consistent to connect to MongoDB via PyMongo either in Flask or in a non-flask application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c7ee910bd5f533157b9f36d793a1690a", 
+  "source_uri": "https://pypi.python.org/packages/source/h/happymongo/happymongo-0.1.1.tar.gz"
+}

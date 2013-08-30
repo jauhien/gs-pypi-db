@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "BuildBot build automation system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://buildbot.net/", 
+  "info": {
+    "Author:": "Dustin J. Mitchell", 
+    "Bug Tracker:": "http://trac.buildbot.net/", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Testing"
+      ]
+    }, 
+    "Home Page:": "http://buildbot.net/", 
+    "License:": "GNU GPL", 
+    "Package Index Maintainer:": "Tom.Prince, bhearsum", 
+    "Package Index Owner:": "Tom.Prince, warner, djmitche, bhearsum"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "BuildBot build automation system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "472f512584bbb18cc677ca2ec3b3a905", 
+  "source_uri": "https://pypi.python.org/packages/source/b/buildbot/buildbot-0.8.8.tar.gz"
+}

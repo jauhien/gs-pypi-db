@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Creates a unified directory structure of installed packages, symlinking to the actual contents, in order to ease navigation.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/collective.recipe.omelette", 
+  "info": {
+    "Author:": "David Glick, Groundwire", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/collective.recipe.omelette", 
+    "Keywords:": "buildout eggs namespace", 
+    "License:": "GPL", 
+    "Package Index Owner:": "davisagli, fschulze, wichert, hannosch, optilude, MatthewWilkes, smcmahon"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Creates a unified directory structure of installed packages, symlinking to the actual contents, in order to ease navigation.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "16477973ebcdf3c70c3fdb3fb2192595", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.recipe.omelette/collective.recipe.omelette-0.16.zip"
+}

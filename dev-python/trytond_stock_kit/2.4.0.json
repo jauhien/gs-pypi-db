@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Allows product kits to be exploded in shipments and make their stock (real and forecast) depend on the stock of its components", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.nan-tic.com/", 
+  "info": {
+    "Author:": "NaN\u00b7tic", 
+    "Bug Tracker:": "https://bitbucket.org/angelnan/stock_kit/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Plugins"
+      ], 
+      "Framework": [
+        "Tryton"
+      ], 
+      "Intended Audience": [
+        "Manufacturing"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Office/Business"
+      ]
+    }, 
+    "Download URL:": "https://bitbucket.org/angelnan/stock_kit", 
+    "Home Page:": "http://www.nan-tic.com/", 
+    "License:": "GPL-3", 
+    "Package Index Owner:": "angelnan"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Allows product kits to be exploded in shipments and make their stock (real and forecast) depend on the stock of its components", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "695f531278233ccb297224e7a5b36da1", 
+  "source_uri": "https://bitbucket.org/angelnan/stock_kit"
+}

@@ -1,0 +1,65 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SSH monitoring Django application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://skwissh.com/", 
+  "info": {
+    "Author:": "Roland Saikali", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "French"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "System", 
+        "Monitoring"
+      ]
+    }, 
+    "Download URL:": "https://github.com/rsaikali/django-skwissh", 
+    "Home Page:": "http://skwissh.com/", 
+    "License:": "GNU General Public License", 
+    "Package Index Owner:": "Roland.SAIKALI", 
+    "Platform:": "OS Independent"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "SSH monitoring Django application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c97f316c006ac4e769bbe7699c20ebda", 
+  "source_uri": "https://github.com/rsaikali/django-skwissh"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manage and maintain multilingual content that integrates seamlessly with Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/Products.LinguaPlone", 
+  "info": {
+    "Author:": "Plone Foundation", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope2"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/Products.LinguaPlone", 
+    "Keywords:": "Zope Plone multilingual translation", 
+    "License:": "GPL version 2", 
+    "Package Index Owner:": "toutpt, hannosch, mj, tesdal, gotcha, esteele, davisagli"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Manage and maintain multilingual content that integrates seamlessly with Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "cd9e97d3b95d270669094ce7236b4ea4", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.LinguaPlone/Products.LinguaPlone-3.2.zip"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Filesystem directory abstraction based on nodes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bluedynamics/node.ext.directory", 
+  "info": {
+    "Author:": "BlueDynamics Alliance", 
+    "Categories": {
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development"
+      ]
+    }, 
+    "Home Page:": "http://github.com/bluedynamics/node.ext.directory", 
+    "License:": "BSD", 
+    "Package Index Owner:": "jensens, rnix"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Filesystem directory abstraction based on nodes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7273064512c95e8de773b44306b85e3e", 
+  "source_uri": "https://pypi.python.org/packages/source/n/node.ext.directory/node.ext.directory-0.2.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "improved ODB persistence", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://launchpad.net/lovely.persistent", 
+  "info": {
+    "Author:": "Lovely Systems GmbH", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://launchpad.net/lovely.persistent", 
+    "Keywords:": "persistent zope zope3", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "batlogg, dobe"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "improved ODB persistence", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8c9910f2cf366f51e6e41e6c7fb5fe2d", 
+  "source_uri": "https://pypi.python.org/packages/source/l/lovely.persistent/lovely.persistent-0.1.1.tar.gz"
+}

@@ -1,0 +1,52 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "FTP interface to OpenStack Object Storage (Swift)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/chmouel/ftp-cloudfs", 
+  "info": {
+    "Author:": "Chmouel Boudjnah", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "No Input/Output (Daemon)"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/packages/source/f/ftp-cloudfs/ftp-cloudfs-0.23.tar.gz", 
+    "Home Page:": "https://github.com/chmouel/ftp-cloudfs", 
+    "License:": "MIT", 
+    "Package Index Maintainer:": "login.launchpad.net_73", 
+    "Package Index Owner:": "Chmouel.Boudjnah, login.launchpad.net_73"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "FTP interface to OpenStack Object Storage (Swift)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "968d4f4e269bcc726297cdc978e45a27", 
+  "source_uri": "http://pypi.python.org/packages/source/f/ftp-cloudfs/ftp-cloudfs-0.23.tar.gz"
+}

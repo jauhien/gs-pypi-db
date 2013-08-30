@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Various helpers for Flask based Jinja2 templates.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kvesteri/flask-jinjahelpers", 
+  "info": {
+    "Author:": "Konsta Vesterinen", 
+    "Categories": {
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://github.com/kvesteri/flask-jinjahelpers", 
+    "License:": "BSD", 
+    "Package Index Owner:": "kvesteri", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Various helpers for Flask based Jinja2 templates.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "53021542c9ca6abb825deceb68a773ae", 
+  "source_uri": "https://pypi.python.org/packages/source/F/Flask-JinjaHelpers/Flask-JinjaHelpers-0.3.3.tar.gz"
+}

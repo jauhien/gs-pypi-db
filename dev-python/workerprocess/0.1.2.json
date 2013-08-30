@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A tool for creating external worker processes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/philipcristiano/worker_process", 
+  "info": {
+    "Author:": "Philip Cristiano", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/philipcristiano/worker_process", 
+    "License:": "BSD", 
+    "Package Index Owner:": "philipcristiano"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A tool for creating external worker processes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "27b290eebce914b8a7c93b3d388edd18", 
+  "source_uri": "https://pypi.python.org/packages/source/w/workerprocess/workerprocess-0.1.2.tar.gz"
+}

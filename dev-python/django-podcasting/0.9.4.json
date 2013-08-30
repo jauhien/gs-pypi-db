@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Audio podcasting functionality for django sites.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://django-podcasting.readthedocs.org/", 
+  "info": {
+    "Author:": "Thomas Schreiber", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://django-podcasting.readthedocs.org/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "rizumu"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Audio podcasting functionality for django sites.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9d86eb80ad795ecb3a5a14321935532c", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-podcasting/django-podcasting-0.9.4.tar.gz"
+}

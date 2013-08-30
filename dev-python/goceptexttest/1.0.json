@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Helper to integrate external tests with python unittests.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://code.gocept.com/hg/public/gocept.exttest", 
+  "info": {
+    "Author:": "Wolfgang Schnerring <ws at gocept dot com>, Michael Howitz <mh at gocept dot com>", 
+    "Home Page:": "http://code.gocept.com/hg/public/gocept.exttest", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ckauhaus, ctheune, DanielHavlikGocept, tlotze, zagy, sweh, wosc, icemac"
+  }, 
+  "license": "", 
+  "longdescription": "Helper to integrate external tests with python unittests.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "f0e99d93a0d0eb1ce69844d7b3434756", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gocept.exttest/gocept.exttest-1.0.tar.gz"
+}

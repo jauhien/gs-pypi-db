@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "c.monitor plugin to debug running processes", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Benji York", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "benji"
+  }, 
+  "license": "", 
+  "longdescription": "c.monitor plugin to debug running processes", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6fa47b2283cfe09d4ad9c9efbb3cf386", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zc.monitorpdb/zc.monitorpdb-1.0.0.tar.gz"
+}

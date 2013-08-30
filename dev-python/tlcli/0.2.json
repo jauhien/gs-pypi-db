@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Various command line interface utilities.- readline-related utilities- an enhanced command shell- text editing using an external editor- display of long text using a pager", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.thomas-lotze.de/en/software/", 
+  "info": {
+    "Author:": "Thomas Lotze", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Zope Public License"
+      ]
+    }, 
+    "Home Page:": "http://www.thomas-lotze.de/en/software/", 
+    "Keywords:": "command line interface shell readline text editor editing", 
+    "License:": "ZPL 2.1", 
+    "Package Index Owner:": "tlotze"
+  }, 
+  "license": "Zope Public License", 
+  "longdescription": "Various command line interface utilities.- readline-related utilities- an enhanced command shell- text editing using an external editor- display of long text using a pager", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3b14d76181a8e6704333d1cd3d6b8752", 
+  "source_uri": "https://pypi.python.org/packages/source/t/tl.cli/tl.cli-0.2.tar.gz"
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A dynamic RSS content-type for plone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/iservices.rssdocument", 
+  "info": {
+    "Author:": "Noe Nieto", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup", 
+        "HTML"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/iservices.rssdocument", 
+    "Keywords:": "Plone,RSS,jQuery", 
+    "License:": "LGPL", 
+    "Package Index Maintainer:": "tzicatl", 
+    "Package Index Owner:": "iservicesmx"
+  }, 
+  "license": "", 
+  "longdescription": "A dynamic RSS content-type for plone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8e5d96d0bb8df314f8bbc8e3c6e378df", 
+  "source_uri": "https://pypi.python.org/packages/source/i/iservices.rssdocument/iservices.rssdocument-0.5.0.tar.gz"
+}

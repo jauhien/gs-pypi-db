@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python CLI for Synology DSM.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/syncli/", 
+  "info": {
+    "Author:": "Sumeet Singh", 
+    "Home Page:": "http://pypi.python.org/pypi/syncli/", 
+    "License:": "LICENSE.txt", 
+    "Package Index Owner:": "singhsays"
+  }, 
+  "license": "", 
+  "longdescription": "Python CLI for Synology DSM.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "efdc454a0e726d2c90e4aebeadbbd9f6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/syncli/syncli-0.0.3.tar.gz"
+}

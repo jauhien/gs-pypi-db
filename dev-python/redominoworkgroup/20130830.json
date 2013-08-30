@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This product provides a special workgroup mode for the normal Plone Folder to permit the creation of local users.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.redomino.com/it/labs/progetti/redomino-workgroup", 
+  "info": {
+    "Author:": "Davide Moro (Redomino)", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.redomino.com/it/labs/progetti/redomino-workgroup", 
+    "License:": "GPL", 
+    "Package Index Owner:": "redomino"
+  }, 
+  "license": "", 
+  "longdescription": "This product provides a special workgroup mode for the normal Plone Folder to permit the creation of local users.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "01d9a7744347ed16f314864fcb3adab8", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redomino.workgroup/redomino.workgroup-0.1r3.tar.gz"
+}

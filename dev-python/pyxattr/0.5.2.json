@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Filesystem extended attributes for python", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pyxattr.k1024.org/", 
+  "info": {
+    "Author:": "Iustin Pop", 
+    "Bug Tracker:": "https://github.com/iustin/pyxattr/issues", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Lesser General Public License v2 or later (LGPLv2+)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "System", 
+        "Filesystems"
+      ]
+    }, 
+    "Download URL:": "http://pyxattr.k1024.org/downloads/", 
+    "Home Page:": "http://pyxattr.k1024.org/", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "iusty", 
+    "Platform:": "Linux"
+  }, 
+  "license": "GNU Lesser General Public License v2 or later (LGPLv2+)", 
+  "longdescription": "Filesystem extended attributes for python", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9ff2e4218badc201b689b6d254290001", 
+  "source_uri": "http://pyxattr.k1024.org/downloads/"
+}

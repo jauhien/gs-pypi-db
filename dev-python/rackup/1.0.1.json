@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Script for uploading files to Rackspace Cloud Files", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://dryan.github.io/rackup", 
+  "info": {
+    "Author:": "Daniel Ryan", 
+    "Home Page:": "http://dryan.github.io/rackup", 
+    "License:": "MIT License", 
+    "Package Index Owner:": "dryan.com"
+  }, 
+  "license": "", 
+  "longdescription": "Script for uploading files to Rackspace Cloud Files", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "91d682f59af5f44bade5cc406233e157", 
+  "source_uri": "https://pypi.python.org/packages/source/r/rackup/rackup-1.0.1.tar.gz"
+}

@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Run Django app tests standalone", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/brosner/django-app-test-runner", 
+  "info": {
+    "Author:": "Brian Rosner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/brosner/django-app-test-runner", 
+    "License:": "BSD", 
+    "Package Index Owner:": "brosner"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Run Django app tests standalone", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "996acfeb416c64ad3eaeeb42bedf642f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-app-test-runner/django-app-test-runner-0.1.tar.gz"
+}

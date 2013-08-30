@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Example package - testing webhooks on github and python build process", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Nathan Leiby", 
+    "License:": "MIT", 
+    "Package Index Owner:": "nathanleiby"
+  }, 
+  "license": "", 
+  "longdescription": "Example package - testing webhooks on github and python build process", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "8cb89cbe2f1de13761722f47d721f2e5", 
+  "source_uri": "https://pypi.python.org/packages/source/W/WebHooksDemo/WebHooksDemo-0.1.1.tar.gz"
+}

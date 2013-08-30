@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for Halide image processing language", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://halide-lang.org/", 
+  "info": {
+    "Author:": "Connelly Barnes", 
+    "Bug Tracker:": "https://github.com/halide/Halide/issues", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ]
+    }, 
+    "Download URL:": "https://github.com/halide/Halide/archive/master.zip", 
+    "Home Page:": "http://halide-lang.org/", 
+    "Keywords:": "Image processing,JIT,graphics,video,compiler", 
+    "License:": "MIT", 
+    "Package Index Owner:": "barnesc", 
+    "Platform:": "Linux, Mac"
+  }, 
+  "license": "", 
+  "longdescription": "Python bindings for Halide image processing language", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "", 
+  "source_uri": "https://github.com/halide/Halide/archive/master.zip"
+}

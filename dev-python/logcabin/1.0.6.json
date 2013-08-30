@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Logging framework for receiving and processing events from a diverse range of sources and formats, and relaying onto multiple destinations.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/artirix/logcabin/", 
+  "info": {
+    "Author:": "Barnaby Gray", 
+    "Home Page:": "http://github.com/artirix/logcabin/", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "barnybug, artirix"
+  }, 
+  "license": "", 
+  "longdescription": "Logging framework for receiving and processing events from a diverse range of sources and formats, and relaying onto multiple destinations.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d9817110a7065592c0dc3d0ae4512ada", 
+  "source_uri": "https://pypi.python.org/packages/source/l/logcabin/logcabin-1.0.6.tar.gz"
+}

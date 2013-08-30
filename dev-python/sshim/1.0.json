@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Scriptable SSH server for testing SSH clients.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.engledew.com", 
+  "info": {
+    "Author:": "Simon Engledew", 
+    "Categories": {
+      "Development Status": [
+        "1 - Planning"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//sshim", 
+    "Home Page:": "http://www.engledew.com", 
+    "Keywords:": "ssh,paramiko,testing", 
+    "License:": "MIT", 
+    "Package Index Owner:": "simon.engledew"
+  }, 
+  "license": "", 
+  "longdescription": "Scriptable SSH server for testing SSH clients.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b063cb69a9759d102b90625d05ae2dc6", 
+  "source_uri": "https://pypi.python.org/packages/source/s/sshim/sshim-1.0.tar.gz"
+}

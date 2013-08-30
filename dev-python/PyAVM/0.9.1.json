@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Simple pure-python AVM meta-data handling", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://astrofrog.github.io/pyavm/", 
+  "info": {
+    "Author:": "Thomas Robitaille", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://astrofrog.github.io/pyavm/", 
+    "Keywords:": "Scientific/Engineering", 
+    "License:": "MIT", 
+    "Package Index Owner:": "robitaille"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Simple pure-python AVM meta-data handling", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "db5eb5284c9d432d7aedb67ecbdf00b3", 
+  "source_uri": "https://pypi.python.org/packages/source/P/PyAVM/PyAVM-0.9.1.tar.gz"
+}

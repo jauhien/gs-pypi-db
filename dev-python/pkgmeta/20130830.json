@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python distribution metadata repository", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/pumazi/pkgmeta", 
+  "info": {
+    "Author:": "Michael Mulich", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/pumazi/pkgmeta", 
+    "License:": "GPL", 
+    "Package Index Owner:": "pumazi"
+  }, 
+  "license": "", 
+  "longdescription": "Python distribution metadata repository", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6aca3cf32b0d6a118c64c2c148fd1382", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pkgmeta/pkgmeta-1.0a1.tar.gz"
+}

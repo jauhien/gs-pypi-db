@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A pluggable Django application for integrating netcash.co.a payment system.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/kmike/django-netcash/", 
+  "info": {
+    "Author:": "Mikhail Korobov", 
+    "Download URL:": "http://bitbucket.org/kmike/django-netcash/get/tip.gz", 
+    "Home Page:": "http://bitbucket.org/kmike/django-netcash/", 
+    "License:": "MIT license", 
+    "Package Index Owner:": "kmike"
+  }, 
+  "license": "", 
+  "longdescription": "A pluggable Django application for integrating netcash.co.a payment system.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "691e55631883200ee77055c3aa02c571", 
+  "source_uri": "http://bitbucket.org/kmike/django-netcash/get/tip.gz"
+}

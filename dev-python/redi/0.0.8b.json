@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python middle layer for interacting with Redis data easily.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/kennethreitz/redi", 
+  "info": {
+    "Author:": "Kenneth Reitz", 
+    "Home Page:": "https://github.com/kennethreitz/redi", 
+    "License:": "ISC", 
+    "Package Index Owner:": "kennethreitz"
+  }, 
+  "license": "", 
+  "longdescription": "Python middle layer for interacting with Redis data easily.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b550017262014cbdd6f743db1cd0719b", 
+  "source_uri": "https://pypi.python.org/packages/source/r/redi/redi-0.0.8b.tar.gz"
+}

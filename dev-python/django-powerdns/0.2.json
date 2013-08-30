@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "PowerDNS administration module for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/peternixon/django-powerdns/", 
+  "info": {
+    "Author:": "Peter Nixon", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://bitbucket.org/peternixon/django-powerdns/downloads/", 
+    "Home Page:": "http://bitbucket.org/peternixon/django-powerdns/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "peternixon", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "PowerDNS administration module for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9c5f3dbd3e09de1d115cdca91185d04b", 
+  "source_uri": "http://bitbucket.org/peternixon/django-powerdns/downloads/"
+}

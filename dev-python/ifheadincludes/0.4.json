@@ -1,0 +1,62 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "WSGI middleware to manipulate css and javascript in the HTML header.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://zif.svn.sourceforge.net/viewvc/zif/zif.headincludes", 
+  "info": {
+    "Author:": "Jim Washington and contributors", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Zope3"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://zif.svn.sourceforge.net/viewvc/zif/zif.headincludes", 
+    "Keywords:": "headincludes wsgi middleware zope3", 
+    "License:": "BSD", 
+    "Package Index Owner:": "fairwinds, jwashin"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "WSGI middleware to manipulate css and javascript in the HTML header.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ca5d672eb073c22ddee6b75849a2ad9d", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zif.headincludes/zif.headincludes-0.4.tar.gz"
+}

@@ -1,0 +1,54 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python PostgreSQL DBAPI 2.0 compliant driver using ctypes and libpq.so, works with PyPy", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/descent/pypq", 
+  "info": {
+    "Author:": "Igor Katson", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/descent/pypq", 
+    "Package Index Owner:": "Igor.Katson"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Python PostgreSQL DBAPI 2.0 compliant driver using ctypes and libpq.so, works with PyPy", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "59378face5bdb9ae56253c160080a129", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pypq/pypq-0.1.3.tar.gz"
+}

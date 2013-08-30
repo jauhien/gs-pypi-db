@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This module provide an easy way to deal with ldap stuff in python.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://hg.afpy.org/gawel/afpy.ldap/", 
+  "info": {
+    "Author:": "Gael Pasgrimaud", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://hg.afpy.org/gawel/afpy.ldap/", 
+    "Keywords:": "ldap repoze what", 
+    "License:": "MIT", 
+    "Package Index Owner:": "gawel, afpy"
+  }, 
+  "license": "", 
+  "longdescription": "This module provide an easy way to deal with ldap stuff in python.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "29230cf03ed94c2b07903eb932bf9fa0", 
+  "source_uri": "https://pypi.python.org/packages/source/a/afpy.ldap/afpy.ldap-1.0.tar.gz"
+}

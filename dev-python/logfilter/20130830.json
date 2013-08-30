@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Poll log files for updates and highlight words based on regexp filters", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/iamFIREcracker/logfilter", 
+  "info": {
+    "Author:": "Matteo Landi", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Other Environment"
+      ], 
+      "Intended Audience": [
+        "System Administrators"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/logfilter", 
+    "Home Page:": "https://bitbucket.org/iamFIREcracker/logfilter", 
+    "Keywords:": "log,filter,grep,tail", 
+    "License:": "BSD", 
+    "Package Index Owner:": "landimatte"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Poll log files for updates and highlight words based on regexp filters", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "c9cfc0a8f4786feebc6fd2b2ac8bc3f6", 
+  "source_uri": "http://pypi.python.org/pypi/logfilter"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Etherpad integration into your Kotti site", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://pypi.python.org/pypi/kotti_etherpad/", 
+  "info": {
+    "Author:": "Marco Scheihuber", 
+    "Categories": {
+      "Framework": [
+        "Pylons"
+      ], 
+      "License": [
+        "Repoze Public License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP", 
+        "WSGI", 
+        "Application"
+      ]
+    }, 
+    "Home Page:": "http://pypi.python.org/pypi/kotti_etherpad/", 
+    "Keywords:": "kotti etherpad", 
+    "License:": "BSD-derived (http://www.repoze.org/LICENSE.txt)", 
+    "Package Index Owner:": "j23d"
+  }, 
+  "license": "Repoze Public License", 
+  "longdescription": "Etherpad integration into your Kotti site", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b6cf8e072a095461ba0c4203b15fdf87", 
+  "source_uri": "https://pypi.python.org/packages/source/k/kotti_etherpad/kotti_etherpad-0.4.zip"
+}

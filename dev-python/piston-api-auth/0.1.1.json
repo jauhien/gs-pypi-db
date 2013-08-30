@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Piston authentication extension that adds per request signing (similar with 2 legged OAuth).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/severb/piston-api-auth", 
+  "info": {
+    "Author:": "Sever Banesiu", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Internet", 
+        "WWW/HTTP"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/severb/piston-api-auth", 
+    "License:": "BSD", 
+    "Package Index Owner:": "severb"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Piston authentication extension that adds per request signing (similar with 2 legged OAuth).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "bd854d5fe468c92af566111e553bd426", 
+  "source_uri": "https://pypi.python.org/packages/source/p/piston-api-auth/piston-api-auth-0.1.1.tar.gz"
+}

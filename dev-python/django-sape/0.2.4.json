@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django + sape.ru.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/fedosov/sape", 
+  "info": {
+    "Author:": "Mikhail Fedosov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Python Software Foundation License"
+      ], 
+      "Operating System": [
+        "POSIX"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/fedosov/sape", 
+    "Keywords:": "Django,sape,sape.ru", 
+    "Package Index Owner:": "fedosov"
+  }, 
+  "license": "Python Software Foundation License", 
+  "longdescription": "Django + sape.ru.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "780afea8b9125ba85d0047c74236ba5f", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-sape/django-sape-0.2.4.tar.gz"
+}

@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Grep through memcached.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/storborg/mcgrep", 
+  "info": {
+    "Author:": "Scott Torborg", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/storborg/mcgrep", 
+    "Keywords:": "memcached memcache pylibmc diagnostics caching pentesting", 
+    "License:": "GPL", 
+    "Package Index Owner:": "storborg"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Grep through memcached.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "790c585007de2af3ee3ae51dd3a95a2c", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mcgrep/mcgrep-0.1.tar.gz"
+}

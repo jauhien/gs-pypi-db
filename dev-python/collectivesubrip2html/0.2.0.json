@@ -1,0 +1,48 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone module to add conversion from SRT format to HTML in portal_transforms tool", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/collective.subrip2html", 
+  "info": {
+    "Author:": "keul", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Markup"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/collective.subrip2html", 
+    "Keywords:": "plone srt html transform subrip", 
+    "License:": "GPL", 
+    "Package Index Owner:": "keul"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone module to add conversion from SRT format to HTML in portal_transforms tool", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ab3fc718f7bfae8edb51c03da465e1a4", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.subrip2html/collective.subrip2html-0.2.0.tar.gz"
+}

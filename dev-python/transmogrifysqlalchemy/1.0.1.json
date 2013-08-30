@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Feed data from SQLAlchemy into a transmogrifier pipeline", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Wichert Akkerman - Jarn", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Keywords:": "transmogrify sql import", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "iElectric", 
+    "Package Index Owner:": "mj, hannosch, wichert, fschulze"
+  }, 
+  "license": "", 
+  "longdescription": "Feed data from SQLAlchemy into a transmogrifier pipeline", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e4e2952e1d478b230ac936a06e4c49e0", 
+  "source_uri": "https://pypi.python.org/packages/source/t/transmogrify.sqlalchemy/transmogrify.sqlalchemy-1.0.1.tar.gz"
+}

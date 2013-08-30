@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Read settings from environment variables.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/schwuk/django-getenv", 
+  "info": {
+    "Author:": "David Murphy", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ]
+    }, 
+    "Home Page:": "http://github.com/schwuk/django-getenv", 
+    "Package Index Owner:": "schwuk"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Read settings from environment variables.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "58a93565b2a0cace99ecaec68ccd7dd7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-getenv/django-getenv-1.1.tar.gz"
+}

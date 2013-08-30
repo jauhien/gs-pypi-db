@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python bindings for the Enchant spellchecking system", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.rfk.id.au/software/pyenchant/", 
+  "info": {
+    "Author:": "Ryan Kelly", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU Library or Lesser General Public License (LGPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3"
+      ], 
+      "Topic": [
+        "Text Processing", 
+        "Linguistic"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyenchant", 
+    "Home Page:": "http://www.rfk.id.au/software/pyenchant/", 
+    "Keywords:": "spelling spellcheck enchant", 
+    "License:": "LGPL", 
+    "Package Index Owner:": "rfk"
+  }, 
+  "license": "GNU Library or Lesser General Public License (LGPL)", 
+  "longdescription": "Python bindings for the Enchant spellchecking system", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "565014a14a52fb0195d152dd492ea948", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyenchant/pyenchant-1.6.5.tar.gz"
+}

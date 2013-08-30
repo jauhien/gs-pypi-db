@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Management commands to help backup and restore a project database to AmaonS3, Dropbox or local disk.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/mjs7231/django-dbbackup", 
+  "info": {
+    "Author:": "Michael Shepanski", 
+    "Home Page:": "http://bitbucket.org/mjs7231/django-dbbackup", 
+    "Keywords:": "django,dropbox,database,backup,amazon,s3", 
+    "License:": "BSD", 
+    "Package Index Owner:": "mjs7231"
+  }, 
+  "license": "", 
+  "longdescription": "Management commands to help backup and restore a project database to AmaonS3, Dropbox or local disk.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "365c5ee2adaf09c260e9003a592b1e54", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-dbbackup/django-dbbackup-1.80.1.tar.gz"
+}

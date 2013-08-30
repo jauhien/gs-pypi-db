@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Wirecloud plugin providing PubSub support.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/conwetlab/wirecloud-pubsub", 
+  "info": {
+    "Author:": "CoNWeT Lab", 
+    "Home Page:": "http://github.com/conwetlab/wirecloud-pubsub", 
+    "License:": "EUPL 1.1", 
+    "Package Index Owner:": "aarranz"
+  }, 
+  "license": "", 
+  "longdescription": "Wirecloud plugin providing PubSub support.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "fc0c3a91fcc6ff42212e1e8e128119d7", 
+  "source_uri": "https://pypi.python.org/packages/source/w/wirecloud-pubsub/wirecloud-pubsub-0.4b3.tar.gz"
+}

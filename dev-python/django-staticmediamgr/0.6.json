@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Django app to copy static media files over to a remote place, optionally minifying css and js.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://opensource.washingtontimes.com/projects/django-staticmediamgr/", 
+  "info": {
+    "Author:": "Corey Oordt, The Washington Times", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ]
+    }, 
+    "Home Page:": "http://opensource.washingtontimes.com/projects/django-staticmediamgr/", 
+    "Package Index Owner:": "coordt"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "A Django app to copy static media files over to a remote place, optionally minifying css and js.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "4f91ea509baec7e2c24b2568b9435396", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-staticmediamgr/django-staticmediamgr-0.6.tar.gz"
+}

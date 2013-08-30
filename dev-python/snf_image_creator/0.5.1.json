@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Command line tool for creating images", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://code.grnet.gr/projects/snf-image-creator", 
+  "info": {
+    "Author:": "Synnefo development team", 
+    "Home Page:": "https://code.grnet.gr/projects/snf-image-creator", 
+    "License:": "BSD", 
+    "Package Index Owner:": "skalkoto, psomas"
+  }, 
+  "license": "", 
+  "longdescription": "Command line tool for creating images", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87477e2385d289d33f161ca355ae5171", 
+  "source_uri": "https://pypi.python.org/packages/source/s/snf_image_creator/snf_image_creator-0.5.1.tar.gz"
+}

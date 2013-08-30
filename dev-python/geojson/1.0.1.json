@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Encoderdecoder for simple GIS features", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://trac.gispython.org/lab/wiki/GeoJSON", 
+  "info": {
+    "Author:": "Sean Gillies", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "GIS"
+      ]
+    }, 
+    "Home Page:": "http://trac.gispython.org/lab/wiki/GeoJSON", 
+    "Keywords:": "gis geography json", 
+    "License:": "BSD", 
+    "Package Index Owner:": "frewsxcv, seang"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Encoderdecoder for simple GIS features", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e71eadfa718684480b99f6be5269558a", 
+  "source_uri": "https://pypi.python.org/packages/source/g/geojson/geojson-1.0.1.tar.gz"
+}

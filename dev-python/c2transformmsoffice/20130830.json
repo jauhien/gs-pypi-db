@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "This product enables to search MS-Office files on Plone.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.cmscom.jp", 
+  "info": {
+    "Author:": "Manabu Terada", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.cmscom.jp", 
+    "Keywords:": "Plone transform MS Office search", 
+    "License:": "GPL", 
+    "Package Index Owner:": "terapyon"
+  }, 
+  "license": "", 
+  "longdescription": "This product enables to search MS-Office files on Plone.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df110e03c49ff266e862484c7df0c240", 
+  "source_uri": "https://pypi.python.org/packages/source/c/c2.transform.msoffice/c2.transform.msoffice-1.0b4.tar.gz"
+}

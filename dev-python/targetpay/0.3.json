@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python interface to the TargetPay.com payment service provider", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.bitbucket.org/bram/python-targetpay/", 
+  "info": {
+    "Author:": "Bram Duvigneau", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ]
+    }, 
+    "Home Page:": "http://www.bitbucket.org/bram/python-targetpay/", 
+    "Keywords:": "targetpay payment ideal", 
+    "Package Index Owner:": "bramd"
+  }, 
+  "license": "", 
+  "longdescription": "Python interface to the TargetPay.com payment service provider", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "aa74bbdbfedbf2f6acab646236d997e4", 
+  "source_uri": "https://pypi.python.org/packages/source/t/targetpay/targetpay-0.3.zip"
+}

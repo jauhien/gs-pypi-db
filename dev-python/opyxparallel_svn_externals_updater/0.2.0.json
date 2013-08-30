@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Script for parallel update of  svnexternals within a SVN checkout", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/zopyx.parallel_svn_externals_updater", 
+  "info": {
+    "Author:": "Andreas Jung", 
+    "Categories": {
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/zopyx.parallel_svn_externals_updater", 
+    "Keywords:": "Subversion SVN externals", 
+    "License:": "ZPL", 
+    "Package Index Owner:": "ajung"
+  }, 
+  "license": "", 
+  "longdescription": "Script for parallel update of  svnexternals within a SVN checkout", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "6dab256f91c6c186aa59d76c4a5deb36", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zopyx.parallel_svn_externals_updater/zopyx.parallel_svn_externals_updater-0.2.0.tar.gz"
+}

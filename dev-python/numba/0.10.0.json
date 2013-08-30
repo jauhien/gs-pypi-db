@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "compiling Python code using LLVM", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://numba.github.com", 
+  "info": {
+    "Author:": "Continuum Analytics, Inc.", 
+    "Categories": {
+      "Development Status": [
+        "2 - Pre-Alpha"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Utilities"
+      ]
+    }, 
+    "Home Page:": "http://numba.github.com", 
+    "License:": "BSD", 
+    "Package Index Maintainer:": "ilanschnell", 
+    "Package Index Owner:": "markflorisson88, teoliphant"
+  }, 
+  "license": "", 
+  "longdescription": "compiling Python code using LLVM", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "5bef172b0bc430e7d0f36c5b44780e7a", 
+  "source_uri": "https://pypi.python.org/packages/source/n/numba/numba-0.10.0.tar.gz"
+}

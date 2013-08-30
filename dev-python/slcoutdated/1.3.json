@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Mark and treat plone content as outdated", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/collective/slc.outdated", 
+  "info": {
+    "Author:": "Florian Friesdorf", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Plone"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "https://github.com/collective/slc.outdated", 
+    "License:": "General Public Licence", 
+    "Package Index Owner:": "chaoflow, thomasw, pilz, jcbrand"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Mark and treat plone content as outdated", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "ad71f2118f02f12d064d98fbb17ee6df", 
+  "source_uri": "https://pypi.python.org/packages/source/s/slc.outdated/slc.outdated-1.3.zip"
+}

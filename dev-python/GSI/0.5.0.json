@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python wrapper module around the OpenSSL library (including hack to accept GSI SSL proxies)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Adrian Casajus", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "acasajus"
+  }, 
+  "license": "", 
+  "longdescription": "Python wrapper module around the OpenSSL library (including hack to accept GSI SSL proxies)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "0d66cbdde7f255683c90f14b78ecf46a", 
+  "source_uri": "https://pypi.python.org/packages/source/G/GSI/GSI-0.5.0.tar.gz"
+}

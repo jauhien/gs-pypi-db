@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Manage, protect and present your videoaudio content (FLV, MP3, etc.) with Plone but delegate the flash streaming to Red5", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/unimr.red5.protectedvod", 
+  "info": {
+    "Author:": "Andreas Gabriel", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/unimr.red5.protectedvod", 
+    "Keywords:": "Plone Flash FLV MP3 Zope Streaming Red5 rtmp", 
+    "License:": "GPL", 
+    "Package Index Owner:": "agabriel"
+  }, 
+  "license": "", 
+  "longdescription": "Manage, protect and present your videoaudio content (FLV, MP3, etc.) with Plone but delegate the flash streaming to Red5", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "b17f132599560c3c004bb17e8ed54a8a", 
+  "source_uri": "https://pypi.python.org/packages/source/u/unimr.red5.protectedvod/unimr.red5.protectedvod-0.1rc1-r96721.tar.gz"
+}

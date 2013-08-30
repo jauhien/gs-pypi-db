@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A Plone tool supporting different levels of subscription and notification.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/Products.PloneSubscription", 
+  "info": {
+    "Author:": "Alter Way Solutions", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/Products.PloneSubscription", 
+    "Keywords:": "plone subscription", 
+    "License:": "GPL", 
+    "Package Index Owner:": "ingeniweb"
+  }, 
+  "license": "", 
+  "longdescription": "A Plone tool supporting different levels of subscription and notification.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "996eba5a890a3214d1bb454244e21611", 
+  "source_uri": "https://pypi.python.org/packages/source/P/Products.PloneSubscription/Products.PloneSubscription-1.6.3.tar.gz"
+}

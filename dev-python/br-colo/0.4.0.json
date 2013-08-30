@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Work with colocated Baaar branches using current technology.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://launchpad.net/bzr-colo", 
+  "info": {
+    "Author:": "Neil Martinsen-Burrell", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Version Control"
+      ]
+    }, 
+    "Home Page:": "https://launchpad.net/bzr-colo", 
+    "Package Index Owner:": "nmb"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Work with colocated Baaar branches using current technology.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7fd30b3150e7df8d4c35db9e52733750", 
+  "source_uri": "https://pypi.python.org/packages/source/b/bzr-colo/bzr-colo-0.4.0.tar.gz"
+}

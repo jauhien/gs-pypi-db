@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "buildout recipe that writes apache.conf virtual hosts", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.gcommons.org", 
+  "info": {
+    "Author:": "Juan Grigea", 
+    "Categories": {
+      "Framework": [
+        "Buildout"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://www.gcommons.org", 
+    "License:": "AGPL", 
+    "Package Index Owner:": "jgrigera"
+  }, 
+  "license": "", 
+  "longdescription": "buildout recipe that writes apache.conf virtual hosts", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "3d0f5136447ec76e733c661d030a3ef2", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gcommons.recipe.apachevhosts/gcommons.recipe.apachevhosts-0.2.tar.gz"
+}

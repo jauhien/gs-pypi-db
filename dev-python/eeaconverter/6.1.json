@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "SVG, PNG, PDF converters using external tools as ImageMagick", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://eea.github.com/docs/eea.converter", 
+  "info": {
+    "Author:": "Alin Voinea (Eau de Web)", 
+    "Categories": {
+      "Framework": [
+        "Zope3"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Mozilla Public License 1.0 (MPL)"
+      ], 
+      "Programming Language": [
+        "Zope"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "http://pypi.python.org/pypi/eea.converter", 
+    "Home Page:": "http://eea.github.com/docs/eea.converter", 
+    "Keywords:": "eea converter imagemagick pdftk utility", 
+    "License:": "GPL", 
+    "Package Index Owner:": "Alin.Voinea, eea"
+  }, 
+  "license": "Mozilla Public License 1.0 (MPL)", 
+  "longdescription": "SVG, PNG, PDF converters using external tools as ImageMagick", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "30e5c14d5a618170ded821234ea0c986", 
+  "source_uri": "http://pypi.python.org/pypi/eea.converter"
+}

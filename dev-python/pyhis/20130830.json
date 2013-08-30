@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a python library for querying data via CUAHSI-HIS web services", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "", 
+  "info": {
+    "Author:": "Andy Wilson", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//pyhis", 
+    "Keywords:": "his pyhis water waterml cuahsi wateroneflow", 
+    "License:": "BSD", 
+    "Package Index Owner:": "wilsaj", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "a python library for querying data via CUAHSI-HIS web services", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "09c6f5eac1a7af0688333426da5f9cf0", 
+  "source_uri": "https://pypi.python.org/packages/source/p/pyhis/pyhis-0.1.1-alpha.tar.gz"
+}

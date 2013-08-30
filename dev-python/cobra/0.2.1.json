@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "COBRApy is a package for constraints-based modeling of biological networks", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/opencobra/cobrapy", 
+  "info": {
+    "Author:": "Daniel Robert Hyduke", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Console"
+      ], 
+      "Intended Audience": [
+        "Science/Research"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License v3 or later (GPLv3+)"
+      ], 
+      "Operating System": [
+        "POSIX", 
+        "Linux"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "Implementation", 
+        "Jython"
+      ], 
+      "Topic": [
+        "Scientific/Engineering", 
+        "Bio-Informatics"
+      ]
+    }, 
+    "Download URL:": "http://sourceforge.net/projects/opencobra/files/python/cobra/0.2.1", 
+    "Home Page:": "https://github.com/opencobra/cobrapy", 
+    "Keywords:": "metabolism biology linear programming optimization flux balance analysis fba", 
+    "License:": "GPL V3.0", 
+    "Package Index Owner:": "danielhyduke", 
+    "Platform:": "Python >= 2.6 on GNU/Linux,Mac OS X >= 10.7,Microsoft Windows >= 7. ,  Jython >= 2.5 on Java >= 1.6"
+  }, 
+  "license": "GNU General Public License v3 or later (GPLv3+)", 
+  "longdescription": "COBRApy is a package for constraints-based modeling of biological networks", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "525ef982fdd58bde842f175b87a7b011", 
+  "source_uri": "http://sourceforge.net/projects/opencobra/files/python/cobra/0.2.1"
+}

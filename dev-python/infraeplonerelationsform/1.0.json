@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Formlib widget to manage plone.app.relations relations in a plone site.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.infrae.com/PloneComponent/infrae.plone.relations.form/trunk", 
+  "info": {
+    "Author:": "Sylvain Viollon", 
+    "Categories": {
+      "Framework": [
+        "Zope2"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://svn.infrae.com/PloneComponent/infrae.plone.relations.form/trunk", 
+    "Keywords:": "relationships plone widget formlib", 
+    "License:": "GPL", 
+    "Package Index Owner:": "thefunny42"
+  }, 
+  "license": "", 
+  "longdescription": "Formlib widget to manage plone.app.relations relations in a plone site.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "7105b892e568a938bc52b785fc97730d", 
+  "source_uri": "https://pypi.python.org/packages/source/i/infrae.plone.relations.form/infrae.plone.relations.form-1.0.tar.gz"
+}

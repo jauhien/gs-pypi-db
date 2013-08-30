@@ -1,0 +1,45 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "a Makefilemake replacement written in Python (used at ActiveState)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/ActiveState/mk", 
+  "info": {
+    "Author:": "Sridhar Ratnakumar", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ]
+    }, 
+    "Home Page:": "http://github.com/ActiveState/mk", 
+    "Keywords:": "make mk", 
+    "License:": "MIT", 
+    "Package Index Owner:": "trentm"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "a Makefilemake replacement written in Python (used at ActiveState)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "456fc36708442084f504c47383805ed1", 
+  "source_uri": "https://pypi.python.org/packages/source/m/mk/mk-0.7.2.zip"
+}

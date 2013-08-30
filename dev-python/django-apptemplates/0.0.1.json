@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django template loader that allows you to load template from a specific application", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/tzulberti/django-apptemplates/", 
+  "info": {
+    "Author:": "Tomas Zulberti", 
+    "Categories": {
+      "Development Status": [
+        "5 - Production/Stable"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "2.7"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://bitbucket.org/tzulberti/django-apptemplates/", 
+    "Keywords:": "django admin,django admin templates", 
+    "License:": "License :: OSI Approved :: BSD License", 
+    "Package Index Owner:": "tzulberti"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Django template loader that allows you to load template from a specific application", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "87c2811a183f6a4e837b971cf16f5250", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-apptemplates/django-apptemplates-0.0.1.tar.gz"
+}

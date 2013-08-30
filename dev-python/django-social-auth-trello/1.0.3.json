@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A django-social-auth plugin that integrates with Trello", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/DamianZaremba/django-social-auth-trello", 
+  "info": {
+    "Author:": "Damian Zaremba", 
+    "Home Page:": "https://github.com/DamianZaremba/django-social-auth-trello", 
+    "License:": "GPL", 
+    "Package Index Owner:": "damianzaremba"
+  }, 
+  "license": "", 
+  "longdescription": "A django-social-auth plugin that integrates with Trello", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "71eec6f84bad80c366fccc5a682d061a", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-social-auth-trello/django-social-auth-trello-1.0.3.tar.gz"
+}

@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Python client for Apple Push Notification service (APNs)", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://bitbucket.org/sardarnl/apns-client", 
+  "info": {
+    "Author:": "Sardar Yumatov", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "Apache Software License"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "https://bitbucket.org/sardarnl/apns-client", 
+    "Keywords:": "apns push notification apple messaging iOS", 
+    "License:": "Apache 2.0", 
+    "Package Index Owner:": "sardarnl"
+  }, 
+  "license": "Apache Software License", 
+  "longdescription": "Python client for Apple Push Notification service (APNs)", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "e5c287dbcf181586baa712483cea62b3", 
+  "source_uri": "https://pypi.python.org/packages/source/a/apns-client/apns-client-0.1.6.tar.gz"
+}

@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "compare configuration between servers", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "https://github.com/grimborg/watchconf", 
+  "info": {
+    "Author:": "\u00c3\u0092scar Vilaplana", 
+    "Home Page:": "https://github.com/grimborg/watchconf", 
+    "License:": "http://www.gnu.org/licenses/gpl-2.0.html", 
+    "Package Index Owner:": "grimborg"
+  }, 
+  "license": "", 
+  "longdescription": "compare configuration between servers", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "32019590bc0095843b276958024887b9", 
+  "source_uri": "https://pypi.python.org/packages/source/w/watchconf/watchconf-1.12.tar.gz"
+}

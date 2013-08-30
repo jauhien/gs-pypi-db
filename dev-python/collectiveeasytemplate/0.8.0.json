@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Dynamic HTML generation and scripting of pages, content rules, portlets and emails", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://plone.org/products/easy-template", 
+  "info": {
+    "Author:": "mFabrik Research Oy", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "GNU General Public License (GPL)"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://plone.org/products/easy-template", 
+    "Keywords:": "plone cheetah jinja template kupu scripting dynamic page html", 
+    "License:": "GPL", 
+    "Package Index Maintainer:": "tkimnguyen", 
+    "Package Index Owner:": "vangheem, miohtama, tkimnguyen"
+  }, 
+  "license": "GNU General Public License (GPL)", 
+  "longdescription": "Dynamic HTML generation and scripting of pages, content rules, portlets and emails", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "d052b43c160bcdfb295d6e21cffbb0b9", 
+  "source_uri": "https://pypi.python.org/packages/source/c/collective.easytemplate/collective.easytemplate-0.8.0.zip"
+}

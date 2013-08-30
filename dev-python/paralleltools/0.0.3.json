@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A collection of basic list functions which can be run in parallel mode (both sync or async).", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/andrusha/paralleltools", 
+  "info": {
+    "Author:": "Andrew Korzhuev", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python", 
+        "3.2"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Home Page:": "http://github.com/andrusha/paralleltools", 
+    "Keywords:": "parallel threading map filter reduce async", 
+    "License:": "MIT", 
+    "Package Index Owner:": "andrusha"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "A collection of basic list functions which can be run in parallel mode (both sync or async).", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "9c5c31a4dda548a177b7c4f56332a086", 
+  "source_uri": "https://pypi.python.org/packages/source/p/paralleltools/paralleltools-0.0.3.tar.gz"
+}

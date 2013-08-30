@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Unsupervised grapheme-phoneme aligner for Japanese", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://bitbucket.org/larsyencken/gpalign-py/", 
+  "info": {
+    "Author:": "Lars Yencken", 
+    "Home Page:": "http://bitbucket.org/larsyencken/gpalign-py/", 
+    "License:": "BSD", 
+    "Package Index Owner:": "lars512"
+  }, 
+  "license": "", 
+  "longdescription": "Unsupervised grapheme-phoneme aligner for Japanese", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2f6de7a251ce302e0efab600f55cbf8e", 
+  "source_uri": "https://pypi.python.org/packages/source/g/gpalign/gpalign-0.2.1.tar.gz"
+}

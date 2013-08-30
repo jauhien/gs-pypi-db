@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Watchlist Plugin for Trac 0.110.12", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://www.trac-hacks.org/wiki/WatchlistPlugin", 
+  "info": {
+    "Author:": "Martin Scharrer", 
+    "Categories": {
+      "Framework": [
+        "Trac"
+      ]
+    }, 
+    "Download URL:": "http://trac-hacks.org/svn/watchlistplugin/releases/", 
+    "Home Page:": "http://www.trac-hacks.org/wiki/WatchlistPlugin", 
+    "Keywords:": "trac watchlist wiki plugin", 
+    "License:": "GPLv3", 
+    "Package Index Owner:": "Martin_Scharrer"
+  }, 
+  "license": "", 
+  "longdescription": "Watchlist Plugin for Trac 0.110.12", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "62f3a98ca6027e3c94b30a82d5addeaf", 
+  "source_uri": "http://trac-hacks.org/svn/watchlistplugin/releases/"
+}

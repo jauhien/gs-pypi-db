@@ -1,0 +1,63 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Browser detection (including browser upgrade notices) for Django", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/adamcharnock/django-badbrowser", 
+  "info": {
+    "Author:": "Adam Charnock", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "MIT License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ], 
+      "Topic": [
+        "Software Development", 
+        "Libraries", 
+        "Python Modules"
+      ]
+    }, 
+    "Download URL:": "git@github.com:adamcharnock/django-badbrowser.git", 
+    "Home Page:": "http://github.com/adamcharnock/django-badbrowser", 
+    "License:": "MIT", 
+    "Package Index Owner:": "adamcharnock", 
+    "Platform:": "any"
+  }, 
+  "license": "MIT License", 
+  "longdescription": "Browser detection (including browser upgrade notices) for Django", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "2112087173fef4abdbd0ece21ca35c54", 
+  "source_uri": "git@github.com:adamcharnock/django-badbrowser.git"
+}

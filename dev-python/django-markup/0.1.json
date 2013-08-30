@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "A generic Django application to convert text with specific markup to html.", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/bartTC/django-markup/tree/master", 
+  "info": {
+    "Author:": "Martin Mahner", 
+    "Categories": {
+      "Development Status": [
+        "3 - Alpha"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Framework": [
+        "Django"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Documentation:": "http://pythonhosted.org//django-markup", 
+    "Home Page:": "http://github.com/bartTC/django-markup/tree/master", 
+    "Package Index Owner:": "bartTC"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "A generic Django application to convert text with specific markup to html.", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "198cfd12a8908eec10b50b35681ddab7", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-markup/django-markup-0.1.tar.gz"
+}

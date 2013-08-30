@@ -1,0 +1,57 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Django static media development and distribution tools", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://github.com/sunlightlabs/django-mediasync/", 
+  "info": {
+    "Author:": "Jeremy Carbaugh", 
+    "Categories": {
+      "Development Status": [
+        "4 - Beta"
+      ], 
+      "Environment": [
+        "Web Environment"
+      ], 
+      "Intended Audience": [
+        "Developers"
+      ], 
+      "License": [
+        "OSI Approved", 
+        "BSD License"
+      ], 
+      "Natural Language": [
+        "English"
+      ], 
+      "Operating System": [
+        "OS Independent"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://github.com/sunlightlabs/django-mediasync/", 
+    "License:": "BSD License", 
+    "Package Index Owner:": "jcarbaugh", 
+    "Platform:": "any"
+  }, 
+  "license": "BSD License", 
+  "longdescription": "Django static media development and distribution tools", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "df0c71b8c0d98e09a514fa3e578933c3", 
+  "source_uri": "https://pypi.python.org/packages/source/d/django-mediasync/django-mediasync-2.2.0.tar.gz"
+}

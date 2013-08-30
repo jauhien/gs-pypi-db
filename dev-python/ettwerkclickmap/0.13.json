@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "python_class": "serializable_elist", 
+    "python_module": "g_sorcery.g_collections", 
+    "value": {
+      "data": [], 
+      "separator": "\n\t"
+    }
+  }, 
+  "description": "Adding a simple clickmapheatmap to plone 4", 
+  "eclasses": [
+    "g-sorcery", 
+    "gs-pypi"
+  ], 
+  "homepage": "http://svn.plone.org/svn/collective/zettwerk.ui", 
+  "info": {
+    "Author:": "zettwerk GmbH", 
+    "Categories": {
+      "Framework": [
+        "Plone"
+      ], 
+      "Programming Language": [
+        "Python"
+      ]
+    }, 
+    "Home Page:": "http://svn.plone.org/svn/collective/zettwerk.ui", 
+    "Keywords:": "plone", 
+    "License:": "GPL", 
+    "Package Index Owner:": "jkubaile"
+  }, 
+  "license": "", 
+  "longdescription": "Adding a simple clickmapheatmap to plone 4", 
+  "maintainer": [
+    {
+      "email": "piatlicki@gmail.com", 
+      "name": "Jauhien Piatlicki"
+    }
+  ], 
+  "md5": "808e2587f8fd5dffac65750cf336d0cf", 
+  "source_uri": "https://pypi.python.org/packages/source/z/zettwerk.clickmap/zettwerk.clickmap-0.13.tar.gz"
+}
